@@ -1,0 +1,29 @@
+{{ define "main" }}
+<div style="background-image: url('{{`images/Login_Background_Splash.jpg` | relURL}}');" class="uk-flex uk-flex-center uk-flex-wrap">
+  <div id="offcanvas-slide2" class="uk-visible@m uk-margin-top uk-card uk-margin-bottom uk-width-1-6 uk-padding-small uk-card-default" uk-canvas>
+     <!-- {{ partial "dataMenu.html" . }} -->
+     
+    {{- partial "section-menu.html" (dict "menu" .Site.Sections "currentPage" .Page) -}}
+      
+  </div>
+  <div class="uk-margin-top uk-card uk-padding-small uk-margin-left uk-width-1-2@m uk-width-1-1 uk-margin-bottom uk-margin-right uk-card-default">
+    <ul class="uk-visible@m uk-breadcrumb uk-margin-remove">
+        <li class="uk-disabled"><a href="#">Solutions</a></li>
+        <li class="uk-disabled"><a href="#">{{ .Params.solution }}</a></li>
+        <li><a>{{ .Section }}</a></li>
+        <li><span>{{ .Title }}</span></li>
+    </ul>
+    <a style="min-height:.5rem" class="uk-margin-remove-bottom uk-align-left uk-navbar-toggle uk-hidden@m uk-navbar-toggle-icon uk-icon" uk-navbar-toggle-icon uk-toggle href="#offcanvas-slide2"></a>
+    
+    {{ .Content }}
+  </div>
+  <div class="uk-visible@m uk-margin-top uk-card uk-padding-small uk-width-1-6 uk-margin-bottom uk-margin-right uk-card-default">
+    <ul class="uk-nav">
+    {{ .TableOfContents }}
+    </ul>
+    
+  </div>
+</div>
+
+
+{{ end }}

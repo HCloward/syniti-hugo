@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "BOA Documentation"
+# enableEmoji = true
+# enableRobotsTXT = true
+# googleAnalytics = ("tracking number goes here")
+

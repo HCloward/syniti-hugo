@@ -1,0 +1,21 @@
+{
+  "Design": {
+    "url": "/master_data_mgmt/dspconduct/use_cases/dspconduct_design_process_overview",
+    "subtopics": {
+      "Overview": "/master_data_mgmt/dspconduct/use_cases/dspconduct_design_process_overview",
+      "Create a Category": "/master_data_mgmt/dspconduct/use_cases/create_a_category",
+      "Set Allowed Processes at the Category Level": "/master_data_mgmt/dspconduct/use_cases/set_allowed_processes_at_the_category_level",
+      "Set Rules for a Category Process": "master_data_mgmt/dspconduct/use_cases/set_rules_for_a_category_process"
+    }
+  },
+  "ManageP": {
+    "url": "master_data_mgmt/dspconduct/use_cases/manage_positions",
+    "subtopics": {
+      "Add a Position": "master_data_mgmt/dspconduct/use_cases/add_a_position",
+      "Configure Business Processes in a Position": "master_data_mgmt/dspconduct/use_cases/configure_business_processes_in_a_position"
+    }
+  },
+  "ManageOrg": {
+    "url": "master_data_mgmt/dspconduct/use_cases/manage_org_units"
+  }
+}

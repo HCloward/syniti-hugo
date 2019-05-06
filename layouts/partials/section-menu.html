@@ -1,0 +1,41 @@
+{{ $page := .currentPage}}
+
+{{ range where .menu "Section" $page.Section }}
+
+<ul class="uk-nav-default uk-nav-parent-icon" uk-nav>
+    <li class="uk-parent {{if .IsAncestor $page}}uk-open{{end}}">
+        <a href="{{ .URL }}" class="{{if .IsAncestor $page}}active{{end}}">{{ .Name }}</a>
+    <ul class="uk-nav-sub uk-nav-parent-icon" uk-nav> 
+        {{ if .Sections }}
+        {{- partial "section-menu.html" (dict "menu" .Sections "currentPage" $page)}}
+        {{ end }}
+        {{ $sectionPages := where .Pages "File.Dir" "in" .Dir }}
+        {{ range $sectionPages }}
+            <li >
+                <a href="{{ .URL }}" class="{{if eq . $page}}uk-active{{end}}">{{ .Name }}</a></li>
+        {{ end }}
+    </ul>
+    </li>
+</ul>
+
+{{ end }} 
+<!-- {{ if eq $page.Section "Agent_Int" }}
+{{ range where .menu "Section" "Agent_Int"}}
+
+<ul class="uk-nav-default uk-nav-parent-icon" uk-nav>
+    <li class="uk-parent {{if .IsAncestor $page}}uk-open{{end}}">
+        <a href="{{ .URL }}" class="{{if .IsAncestor $page}}active{{end}}">{{ .Name }}</a>
+    <ul class="uk-nav-sub uk-nav-parent-icon" uk-nav> 
+        {{ if .Sections }}
+        {{- partial "section-menu.html" (dict "menu" .Sections "currentPage" $page)}}
+        {{ end }}
+        {{ $sectionPages := where .Pages "File.Dir" "in" .Dir }}
+        {{ range $sectionPages }}
+            <li >
+                <a href="{{ .URL }}" class="{{if eq . $page}}uk-active{{end}}">{{ .Name }}</a></li>
+        {{ end }}
+    </ul>
+    </li>
+</ul>    
+{{ end }}
+{{ end }} -->

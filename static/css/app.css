@@ -1,0 +1,47 @@
+#navHeader {
+  background-image: url("../images/Login_FooterBand.png");
+  background-size: cover;
+}
+
+#headerNav a {
+  font-size: 1.1rem;
+}
+
+#dataInsiders {
+  width: 100%;
+
+}
+
+#mainImg {
+  background-image: url("../images/Login_Background_Splash.jpg");
+}
+
+#overlay {
+  background-color: hsla(0,0%,100%,.79);
+}
+
+.uk-button-danger {
+  background-color: #f44336;
+}
+
+.uk-button-danger:hover {
+  background-color: #da190b;
+}
+
+#dspLogo {
+  width: 6rem;
+  height: 6rem;
+}
+
+
+@media only screen and (min-width: 1030px) {
+  #welcome, #help, #dspLogo {
+    display: inline-block;
+  }
+
+  #welcome {
+    margin-left: 26%;
+  }
+
+
+}
