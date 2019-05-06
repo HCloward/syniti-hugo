@@ -3,7 +3,7 @@
     <div class="uk-container uk-container-expand uk-padding-remove">
       <nav id="navHeader" uk-navbar>
         <div class="uk-margin-large-left uk-navbar-left uk-light">
-          <a class="uk-navbar-item uk-logo" style="width:5rem; height:5rem;" href="/"><img src="{{`images/boa_logo.png` | relURL}}" ></a>
+          <a class="uk-navbar-item uk-logo" style="width:5rem; height:5rem;" href="{{`/` | relURL}}"><img src="{{`images/boa_logo.png` | relURL}}" ></a>
           <ul id="headerNav" class="uk-navbar-nav">
             <li>
               <a class="uk-text-capitalize uk-visible@m" href="#">Version</a>
@@ -86,8 +86,8 @@
               <a class="uk-text-capitalize" href="#">Tips</a>
               <div class="uk-navbar-dropdown">
                 <ul class="uk-nav uk-navbar-dropdown-nav">
-                  <li><a href="/bulk-execution/">Bulk Execution</a></li>
-                  <li><a href="/excel-integration/">Excel Integration</a></li>
+                  <li><a href="{{`/bulk-execution/` | relURL}}">Bulk Execution</a></li>
+                  <li><a href="{{`/excel-integration/` | relURL}}">Excel Integration</a></li>
                   <li><a href="#">Item</a></li>
                 </ul>
               </div>
