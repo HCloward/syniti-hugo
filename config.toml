@@ -1,4 +1,4 @@
-baseURL = "https://heathercl.gitlab.io/"
+baseURL = "https://heathercl.gitlab.io/dsp-hugo/"
 languageCode = "en-us"
 title = "BOA Documentation"
 # enableEmoji = true
