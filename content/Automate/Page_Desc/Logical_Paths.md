@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Logical Paths H'
 solution = 'Platform'
 +++
 
-# <span id="LogicalPathsH"></span> Logical Paths H
+# Logical Paths H
 
 [Logical Paths V](#LogicalPathsV)
 

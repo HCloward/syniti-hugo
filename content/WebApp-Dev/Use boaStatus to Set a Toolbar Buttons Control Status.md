@@ -1,5 +1,5 @@
 +++
-title = 'Use boaStatus to Set a Toolbar Button's Control Status'
+title = "Use boaStatus to Set a Toolbar Button's Control Status"
 solution = 'Platform'
 +++
 

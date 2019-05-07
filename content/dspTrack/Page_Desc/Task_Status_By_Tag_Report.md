@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Task Status By Tag'
 solution = 'Platform'
 +++
 
-## Task Status By Tag
+# Task Status By Tag
 
 Use this page while [Viewing Reports in
 dspTrack™](../Use_Cases/View_Reports_in_dspTrack.htm).

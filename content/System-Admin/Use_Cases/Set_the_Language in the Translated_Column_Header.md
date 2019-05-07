@@ -1,5 +1,5 @@
 +++
-title = ''
+title = 'Set the Language for the Translated Column Name Header in the Excel Template'
 solution = 'Platform'
 +++
 

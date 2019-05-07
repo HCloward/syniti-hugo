@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Styles H'
 solution = 'Platform'
 +++
 
-# <span id="Styles_H"></span>Styles H
+# Styles H
 
 [Styles V](#Styles_V)
 

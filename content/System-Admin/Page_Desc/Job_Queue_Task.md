@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Job Queue (Task) H'
 solution = 'Platform'
 +++
 
-# <span id="top"></span>Job Queue (Task) H
+# Job Queue (Task) H
 
 Job Queue (Task) V
 

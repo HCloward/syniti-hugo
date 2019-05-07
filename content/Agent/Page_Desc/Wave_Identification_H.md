@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Wave Identification H'
 solution = 'Platform'
 +++
 
-# <span id="top"></span>Wave Identification H
+# Wave Identification H
 
 [Wave Identification V](#Wave)
 

@@ -1,5 +1,5 @@
 +++
-title = ''
+title = 'Configure Regulatory Compliance Settings'
 solution = 'Platform'
 +++
 

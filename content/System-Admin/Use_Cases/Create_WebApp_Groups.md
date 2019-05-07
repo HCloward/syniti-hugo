@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Create WebApp Groups'
 solution = 'Platform'
 +++
 
-#  Create WebApp Groups
+# Create WebApp Groups
 
 **NOTE:** This section only applies to custom components and the three
 delivered custom components: Construct, MC and dspCompose\_Data.

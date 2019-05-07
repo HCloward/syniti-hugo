@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Interface Validations H'
 solution = 'Platform'
 +++
 
-# <span id="InterfaceValidationsH"></span> Interface Validations H
+# Interface Validations H
 
 [Interface Validations V](#InterfaceValidationsV)
 

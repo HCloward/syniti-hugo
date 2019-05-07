@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Page Validation Rules H'
 solution = 'Platform'
 +++
 
-# <span id="Page_Validation_Rules_H"></span>Page Validation Rules H
+# Page Validation Rules H
 
 [Page Validation Rules V](#Page_Validation_Rules_V)
 

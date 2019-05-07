@@ -1,6 +1,5 @@
 +++
-title = 'Parameters
-/c/Users/Heather Cloward/Documents/frontMatter/Automate/Page_Desc/Parameters.md:# Parameters'
+title = 'Parameters'
 solution = 'Platform'
 +++
 

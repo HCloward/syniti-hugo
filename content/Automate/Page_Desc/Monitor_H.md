@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Monitor H'
 solution = 'Platform'
 +++
 
-# <span id="MonitorH"></span> Monitor H
+# Monitor H
 
 [Monitor V](#MonitorV)
 

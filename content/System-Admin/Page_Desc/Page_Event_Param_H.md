@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Page Event Parameters H'
 solution = 'Platform'
 +++
 
-# <span id="top"></span>Page Event Parameters H
+# Page Event Parameters H
 
 Page Event Parameters V
 

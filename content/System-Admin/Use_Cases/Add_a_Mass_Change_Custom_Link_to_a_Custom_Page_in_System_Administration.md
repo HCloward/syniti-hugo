@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Add a Mass Change Custom Link to a Custom Page'
 solution = 'Platform'
 +++
 
-## Add a Mass Change Custom Link to a Custom Page
+# Add a Mass Change Custom Link to a Custom Page
 
 In dspCompose<span style="font-weight: bold;">™</span>, if Mass Changes
 should be allowed to the request data, the MassChange Custom Link must

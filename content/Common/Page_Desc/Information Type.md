@@ -1,5 +1,5 @@
 +++
-title = ''
+title = 'Information Type'
 solution = 'Platform'
 +++
 

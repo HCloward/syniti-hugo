@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Register the Object Database (dsw\*) in System Administration'
 solution = 'Platform'
 +++
 
-## Register the Object Database (dsw\*) in System Administration
+# Register the Object Database (dsw\*) in System Administration
 
 <span style="font-weight: bold;">NOTE</span>: Databases should not be
 added before consulting the on-site DBA or technical lead on the

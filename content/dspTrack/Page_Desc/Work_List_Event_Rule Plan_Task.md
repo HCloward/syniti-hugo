@@ -1,5 +1,5 @@
 +++
-title = ''
+title = 'Work List Event Rule - Plan Task'
 solution = 'Platform'
 +++
 

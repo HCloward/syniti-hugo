@@ -1,5 +1,5 @@
 +++
-title = ''
+title = 'View Fields Required for System Type Tables'
 solution = 'Platform'
 +++
 

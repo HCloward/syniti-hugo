@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Definition'
 solution = 'Platform'
 +++
 
-## Definition
+# Definition
 
 Use this page to view the Stored Procedure associated with a page
 event’s business rule.

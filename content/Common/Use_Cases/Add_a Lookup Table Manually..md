@@ -1,5 +1,5 @@
 +++
-title = ''
+title = 'Add a Lookup Table Manually'
 solution = 'Platform'
 +++
 

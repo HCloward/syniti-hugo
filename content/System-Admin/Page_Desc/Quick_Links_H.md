@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Quick Links H'
 solution = 'Platform'
 +++
 
-# <span id="Quick_Links_H"></span>Quick Links H
+# Quick Links H
 
 [Quick Links V](#Quick_Links_V)
 

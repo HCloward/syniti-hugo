@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Copy the Assembly File to the Integrate Process Folder'
 solution = 'Platform'
 +++
 
-# <span>Copy the Assembly File to the Integrate Process Folder</span>
+# Copy the Assembly File to the Integrate Process Folder
 
 A Custom template allows a user to create a mechanism for posting to any
 system.

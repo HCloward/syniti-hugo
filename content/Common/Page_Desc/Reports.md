@@ -1,7 +1,5 @@
 +++
-title = 'Reports
-/c/Users/Heather Cloward/Documents/frontMatter/Collect/Page_Desc/Reports.md:# Reports
-/c/Users/Heather Cloward/Documents/frontMatter/Common/Page_Desc/Reports.md:# Reports'
+title = 'Reports'
 solution = 'Platform'
 +++
 

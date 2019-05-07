@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Pages H'
 solution = 'Platform'
 +++
 
-# <span id="Pages_H"></span>Pages H
+# Pages H
 
 [Pages V](#Pages_V)
 

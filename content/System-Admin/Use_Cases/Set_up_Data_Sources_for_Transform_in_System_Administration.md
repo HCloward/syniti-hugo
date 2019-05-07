@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Set up Data Sources for Transform in System Administration'
 solution = 'Platform'
 +++
 
-## Set up Data Sources for Transform in System Administration
+# Set up Data Sources for Transform in System Administration
 
 An Administrator must set up data sources in System Administration
 before Transform can be used.

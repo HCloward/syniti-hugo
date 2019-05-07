@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Wave Milestones H'
 solution = 'Platform'
 +++
 
-# <span id="top"></span>Wave Milestones H
+# Wave Milestones H
 
 [Wave Milestones V](#Wave)
 

@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'WebApp Catalogs H'
 solution = 'Platform'
 +++
 
-# <span id="WebApp_Catalogs_H"></span>WebApp Catalogs H
+# WebApp Catalogs H
 
 [WebApp Catalogs V](WebApp_Groups_H.htm#WebApp_Groups_V)
 

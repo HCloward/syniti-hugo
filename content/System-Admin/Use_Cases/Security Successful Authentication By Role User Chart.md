@@ -1,5 +1,5 @@
 +++
-title = ''
+title = 'Security: Successful Authentications By Role Chart'
 solution = 'Platform'
 +++
 

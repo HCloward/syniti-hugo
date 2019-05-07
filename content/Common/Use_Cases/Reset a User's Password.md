@@ -1,5 +1,5 @@
 +++
-title = ''
+title = "Reset a User's Password"
 solution = 'Platform'
 +++
 

@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Tag H (Also Tag – All Types)'
 solution = 'Platform'
 +++
 
-# <span id="_Toc378151421"></span>Tag H (Also Tag – All Types)
+# Tag H (Also Tag – All Types)
 
 <div class="use">
 

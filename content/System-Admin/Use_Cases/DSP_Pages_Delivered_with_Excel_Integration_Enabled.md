@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'DSP® Pages Delivered with Excel Integration Enabled'
 solution = 'Platform'
 +++
 
-## DSP® Pages Delivered with Excel Integration Enabled
+# DSP® Pages Delivered with Excel Integration Enabled
 
 The following DSP® pages are delivered with Excel Integration enabled:
 

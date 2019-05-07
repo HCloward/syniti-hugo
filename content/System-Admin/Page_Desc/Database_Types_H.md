@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Database Types H'
 solution = 'Platform'
 +++
 
-# <span id="top"></span>Database Types H
+# Database Types H
 
 Database Types V
 

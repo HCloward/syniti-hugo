@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Interfaces H'
 solution = 'Platform'
 +++
 
-# <span id="InterfacesH"></span> Interfaces H
+# Interfaces H
 
 [Interfaces V](#InterfacesV)
 

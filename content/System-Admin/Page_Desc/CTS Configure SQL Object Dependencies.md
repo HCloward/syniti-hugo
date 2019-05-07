@@ -1,5 +1,5 @@
 +++
-title = ''
+title = 'CTS Configure (SQL Object Dependencies)'
 solution = 'Platform'
 +++
 

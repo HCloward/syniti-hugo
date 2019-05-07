@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'History Failed (Detail) H'
 solution = 'Platform'
 +++
 
-# <span id="HistoryFailedDetailedH"></span> History Failed (Detail) H
+# History Failed (Detail) H
 
 <div class="use">
 

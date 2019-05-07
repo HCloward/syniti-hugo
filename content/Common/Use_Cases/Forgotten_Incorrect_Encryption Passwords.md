@@ -1,5 +1,5 @@
 +++
-title = ''
+title = 'Forgotten/Incorrect Encryption Password'
 solution = 'Platform'
 +++
 

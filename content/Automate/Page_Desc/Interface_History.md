@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Interface History H'
 solution = 'Platform'
 +++
 
-# <span id="InterfaceHistoryH"></span> Interface History H
+# Interface History H
 
 [Interface History V](#InterfaceHistoryV)
 
