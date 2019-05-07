@@ -1,3 +1,8 @@
++++
+title = 'Quality Dimension'
+solution = 'Data Quality'
++++
+
 # Quality Dimension
 
 <div class="use">

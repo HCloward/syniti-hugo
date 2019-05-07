@@ -1,3 +1,8 @@
++++
+title = 'CTS Notes Specific to dspMonitor™'
+solution = 'Data Quality'
++++
+
 # CTS Notes Specific to dspMonitor™
 
 The following objects and tables can be used in the CTS process:

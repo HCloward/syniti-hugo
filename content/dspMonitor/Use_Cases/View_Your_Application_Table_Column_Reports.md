@@ -1,3 +1,8 @@
++++
+title = 'View Your Application Table Column Reports'
+solution = 'Data Quality'
++++
+
 # View Your Application Table Column Reports
 
 This page displays all application table column reports to which the

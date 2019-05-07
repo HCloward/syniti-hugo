@@ -1,3 +1,8 @@
++++
+title = 'Report Week (Metrics)'
+solution = 'Data Quality'
++++
+
 # Report Week (Metrics)
 
 <div class="use">

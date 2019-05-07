@@ -1,3 +1,8 @@
++++
+title = 'Manage Groups'
+solution = 'Data Quality'
++++
+
 # Manage Groups
 
 Groups are a free-form way to organize reports, for example, by region

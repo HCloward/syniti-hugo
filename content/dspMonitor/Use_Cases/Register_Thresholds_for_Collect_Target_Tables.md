@@ -1,3 +1,8 @@
++++
+title = 'Register Thresholds for Collect Target Tables'
+solution = 'Data Quality'
++++
+
 # Register Thresholds for Collect Target Tables
 
 A Data Quality Steward can register data quality score thresholds for

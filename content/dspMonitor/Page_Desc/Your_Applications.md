@@ -1,3 +1,8 @@
++++
+title = 'Your Applications'
+solution = 'Data Quality'
++++
+
 # Your Applications
 
 <div class="use">

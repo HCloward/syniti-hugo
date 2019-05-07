@@ -1,3 +1,8 @@
++++
+title = 'Reports (Errors)'
+solution = 'Data Quality'
++++
+
 # Reports (Errors)
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Setup and Configuration for dspMonitor™'
+solution = 'Data Quality'
++++
+
 # Setup and Configuration for dspMonitor™
 
 Before getting started with dspMonitor™, verify the following steps have

@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Data Quality'
++++
+
 # <span id="Report_H"></span>Report Target Table Columns H
 
 [Report Target Table Columns V](#Report_V)

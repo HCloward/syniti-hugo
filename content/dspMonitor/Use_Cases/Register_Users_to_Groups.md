@@ -1,3 +1,8 @@
++++
+title = 'Register Users to Groups'
+solution = 'Data Quality'
++++
+
 # Register Users to Groups
 
 Users gain access to reports by being a member of a group. Once users

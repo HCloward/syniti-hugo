@@ -1,6 +1,5 @@
 +++
-title = 'Target Report Segments
-/c/Users/Heather Cloward/Documents/frontMatter/Transform/Use_Cases/Target_Report_Segments.md:# Target Report Segments'
+title = 'Target Report Segments'
 solution = 'Migration'
 +++
 
@@ -27,7 +26,7 @@ To access this page:
 5.  Click the **Business User Settings** tab.
 
 6.  Click the **Business User Segment Assignment** icon.
-    
+
     **NOTE:** The **Business User Segment Assignment** icon only
     displays after the report has been
 published.

@@ -1,9 +1,9 @@
 +++
-title = 'Target Rule Audit H <span id="Target_Rule_Audit_H"></span>'
+title = 'Target Rule Audit H'
 solution = 'Migration'
 +++
 
-# Target Rule Audit H <span id="Target_Rule_Audit_H"></span>
+# Target Rule Audit H
 
 [Target Rule Audit V (All Tabs](#Target_Rule_Audit_V))
 

@@ -1,3 +1,8 @@
++++
+title = 'Group Owner Responsibilities'
+solution = 'Data Quality'
++++
+
 # Group Owner Responsibilities
 
 Each group has a *group owner* who manages reports registered to the

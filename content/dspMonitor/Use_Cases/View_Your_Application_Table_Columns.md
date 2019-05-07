@@ -1,3 +1,8 @@
++++
+title = 'View Your Application Table Columns'
+solution = 'Data Quality'
++++
+
 # View Your Application Table Columns
 
 The *[Your Application Table

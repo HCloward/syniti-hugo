@@ -1,3 +1,8 @@
++++
+title = 'Report Data (Metrics) H'
+solution = 'Data Quality'
++++
+
 # Report Data (Metrics) H
 
 [Report Data (Metrics) V](#Report_Data_Metrics_V)

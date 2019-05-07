@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Data Quality'
++++
+
 # <span id="YourObjectsH"></span>Your Objects H
 
 [Your Objects V](#YourObjectsV)

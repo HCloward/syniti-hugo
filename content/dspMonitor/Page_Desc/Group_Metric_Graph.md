@@ -1,3 +1,8 @@
++++
+title = 'Group Metric Graph'
+solution = 'Data Quality'
++++
+
 # Group Metric Graph
 
 <div class="use">

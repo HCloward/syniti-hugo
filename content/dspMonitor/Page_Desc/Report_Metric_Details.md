@@ -1,3 +1,8 @@
++++
+title = 'Report Metric Details'
+solution = 'Data Quality'
++++
+
 # Report Metric Details
 
 <div class="use">

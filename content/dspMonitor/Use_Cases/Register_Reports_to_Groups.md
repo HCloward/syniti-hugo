@@ -1,3 +1,8 @@
++++
+title = 'Register Reports to Groups'
+solution = 'Data Quality'
++++
+
 # Register Reports to Groups
 
 Once a report is registered to a repository, it is then registered to a

@@ -1,3 +1,8 @@
++++
+title = 'Create Reports'
+solution = 'Data Quality'
++++
+
 # Create Reports
 
 There are three types of reports:

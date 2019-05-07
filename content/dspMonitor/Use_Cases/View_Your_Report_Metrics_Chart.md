@@ -1,3 +1,8 @@
++++
+title = 'View Your Report Metrics Chart'
+solution = 'Data Quality'
++++
+
 # View Your Report Metrics Chart
 
 Users can view a chart that displays report metrics.

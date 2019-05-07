@@ -1,3 +1,8 @@
++++
+title = 'Set Up Structure'
+solution = 'Data Quality'
++++
+
 # Set Up Structure
 
 dspMonitor™ is organized by report repositories, groups, reports and

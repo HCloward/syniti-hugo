@@ -1,3 +1,8 @@
++++
+title = 'Create Objects and Publish Reports to Groups'
+solution = 'Data Quality'
++++
+
 # Create Objects and Publish Reports to Groups
 
 dspMonitor™ is delivered with objects that contain pre-registered

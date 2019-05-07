@@ -1,3 +1,8 @@
++++
+title = 'Getting Started with Running Reports'
+solution = 'Data Quality'
++++
+
 # Getting Started with Running Reports
 
 dspMonitor™ is the analytical component of the DSP® that facilitates

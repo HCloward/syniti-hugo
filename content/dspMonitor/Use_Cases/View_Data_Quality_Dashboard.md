@@ -1,3 +1,8 @@
++++
+title = 'View Data Quality Dashboard'
+solution = 'Data Quality'
++++
+
 # View Data Quality Dashboard
 
 The overview area of the Data Quality Dashboard displays a doughnut

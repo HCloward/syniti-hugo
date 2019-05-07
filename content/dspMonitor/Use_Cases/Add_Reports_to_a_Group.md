@@ -1,3 +1,8 @@
++++
+title = 'Add Reports to a Group'
+solution = 'Data Quality'
++++
+
 # Add Reports to a Group
 
 Add reports to the group and configure report-level settings.

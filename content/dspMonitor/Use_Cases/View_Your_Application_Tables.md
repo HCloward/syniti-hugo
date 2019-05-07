@@ -1,3 +1,8 @@
++++
+title = 'View Your Application Tables'
+solution = 'Data Quality'
++++
+
 # View Your Application Tables
 
 The *[Your Application

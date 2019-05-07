@@ -1,3 +1,8 @@
++++
+title = 'Populate Configuration Tables'
+solution = 'Data Quality'
++++
+
 # Populate Configuration Tables
 
 The Configuration Tables define the meta-data for standard and

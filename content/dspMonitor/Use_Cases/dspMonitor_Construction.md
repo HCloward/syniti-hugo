@@ -1,3 +1,8 @@
++++
+title = 'dspMonitor™ Construction'
+solution = 'Data Quality'
++++
+
 # dspMonitor™ Construction
 
 dspMonitor™ Construction provides the ability to rapidly create and

@@ -1,3 +1,8 @@
++++
+title = 'Metric Data Column (Config)'
+solution = 'Data Quality'
++++
+
 # Metric Data Column (Config)
 
 <div class="use">

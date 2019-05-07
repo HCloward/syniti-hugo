@@ -1,3 +1,8 @@
++++
+title = 'Report Day (Metrics)'
+solution = 'Data Quality'
++++
+
 # Report Day (Metrics)
 
 <div class="use">

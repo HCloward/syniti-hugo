@@ -1,3 +1,8 @@
++++
+title = 'Set Up Security for dspMonitor™'
+solution = 'Data Quality'
++++
+
 # Set Up Security for dspMonitor™
 
 Refer to System Administration for more information regarding these

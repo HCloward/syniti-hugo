@@ -1,3 +1,8 @@
++++
+title = 'Monitor Activity'
+solution = 'Data Quality'
++++
+
 # Monitor Activity
 
 dspMonitor™ monitors report activity to easily identify failed reports

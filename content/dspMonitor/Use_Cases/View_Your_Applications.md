@@ -1,3 +1,8 @@
++++
+title = 'View Your Applications'
+solution = 'Data Quality'
++++
+
 # View Your Applications
 
 The *[Your Applications](../Page_Desc/Your_Applications.htm)* page

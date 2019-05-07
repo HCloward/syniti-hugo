@@ -1,3 +1,8 @@
++++
+title = 'View Chart Histogram'
+solution = 'Data Quality'
++++
+
 # View Chart Histogram
 
 The detail row for each context available on the *[Data Quality

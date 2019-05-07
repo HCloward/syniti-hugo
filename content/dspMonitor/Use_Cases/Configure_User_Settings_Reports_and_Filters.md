@@ -1,3 +1,8 @@
++++
+title = 'Configure User Settings, Reports and Filters'
+solution = 'Data Quality'
++++
+
 # Configure User Settings, Reports and Filters
 
 Once users are added to a group to gain access to reports, workflow and

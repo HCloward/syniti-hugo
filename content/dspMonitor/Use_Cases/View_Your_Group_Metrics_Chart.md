@@ -1,3 +1,8 @@
++++
+title = 'View Your Group Metrics Chart'
+solution = 'Data Quality'
++++
+
 # View Your Group Metrics Chart
 
 Users can view a chart that displays group metrics.

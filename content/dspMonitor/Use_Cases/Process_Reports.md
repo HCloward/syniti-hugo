@@ -1,3 +1,8 @@
++++
+title = 'Process Reports'
+solution = 'Data Quality'
++++
+
 # Process Reports
 
 Reports can be processed at the group level (for all reports and all

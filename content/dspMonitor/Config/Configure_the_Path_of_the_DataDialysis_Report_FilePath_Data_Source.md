@@ -1,3 +1,8 @@
++++
+title = 'Configure Path of DataDialysis\_Report\_FilePath Data Source'
+solution = 'Data Quality'
++++
+
 # Configure Path of DataDialysis\_Report\_FilePath Data Source
 
 An Administrator must configure the Path field for the

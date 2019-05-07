@@ -1,3 +1,8 @@
++++
+title = 'Configure SAP Client Name for dspMonitor™ Reports'
+solution = 'Data Quality'
++++
+
 # Configure SAP Client Name for dspMonitor™ Reports
 
 For reports to process, the SAP Client name must be set. The default

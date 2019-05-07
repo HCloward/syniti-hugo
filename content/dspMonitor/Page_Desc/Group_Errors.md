@@ -1,3 +1,8 @@
++++
+title = 'Group (Errors)'
+solution = 'Data Quality'
++++
+
 # Group (Errors)
 
 <div class="use">

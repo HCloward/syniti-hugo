@@ -1,3 +1,8 @@
++++
+title = 'Track Error Records on Reports'
+solution = 'Data Quality'
++++
+
 # Track Error Records on Reports
 
 Detailed metric information can be configured and generated for a

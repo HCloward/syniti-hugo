@@ -1,3 +1,8 @@
++++
+title = 'Group Day (Metrics)'
+solution = 'Data Quality'
++++
+
 # Group Day (Metrics)
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Manage Objects'
+solution = 'Data Quality'
++++
+
 # Manage Objects
 
 dspMonitor™ is delivered with a standard set of reports organized by

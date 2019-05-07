@@ -1,3 +1,8 @@
++++
+title = 'View Your Groups'
+solution = 'Data Quality'
++++
+
 # View Your Groups
 
 The *Your Groups* page displays all groups containing reports assigned

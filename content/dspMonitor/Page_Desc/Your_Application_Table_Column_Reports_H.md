@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Data Quality'
++++
+
 # <span id="TblClmRpt_H"></span>Your Application Table Column Reports H
 
 **NOTE:** When a user accesses this page in the *Navigation* pane, the

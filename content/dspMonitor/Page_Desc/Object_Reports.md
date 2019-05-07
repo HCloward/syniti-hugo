@@ -1,3 +1,8 @@
++++
+title = 'Object Reports'
+solution = 'Data Quality'
++++
+
 # Object Reports
 
 <div class="use">

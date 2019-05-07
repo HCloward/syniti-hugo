@@ -1,3 +1,8 @@
++++
+title = 'Report Month (Metrics)'
+solution = 'Data Quality'
++++
+
 # Report Month (Metrics)
 
 <div class="use">

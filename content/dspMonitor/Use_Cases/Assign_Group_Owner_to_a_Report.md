@@ -1,3 +1,8 @@
++++
+title = 'Assign Group Owner to a Group'
+solution = 'Data Quality'
++++
+
 # Assign Group Owner to a Group
 
 Group Owners are assigned by system administrators (i.e., users with

@@ -1,3 +1,8 @@
++++
+title = 'Use Data Quality Dashboard'
+solution = 'Data Quality'
++++
+
 # Use Data Quality Dashboard
 
 A Business Data Owner or Director of Data Governance can view the Data

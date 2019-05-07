@@ -1,3 +1,8 @@
++++
+title = 'View Your Group Reports'
+solution = 'Data Quality'
++++
+
 # View Your Group Reports
 
 This page displays all a groups to which the logged in user has access.

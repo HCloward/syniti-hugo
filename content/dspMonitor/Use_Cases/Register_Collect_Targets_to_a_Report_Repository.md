@@ -1,3 +1,8 @@
++++
+title = 'Register Collect Targets to a Report Repository'
+solution = 'Data Quality'
++++
+
 # Register Collect Targets to a Report Repository
 
 A Data Quality Steward can link a report repository to a Collect target

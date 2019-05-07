@@ -1,3 +1,8 @@
++++
+title = 'Create Groups'
+solution = 'Data Quality'
++++
+
 # Create Groups
 
 Create a group to control report access by user. Reports are configured

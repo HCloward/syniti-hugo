@@ -1,3 +1,8 @@
++++
+title = 'Your Application Table Columns'
+solution = 'Data Quality'
++++
+
 # Your Application Table Columns
 
 <div class="use">

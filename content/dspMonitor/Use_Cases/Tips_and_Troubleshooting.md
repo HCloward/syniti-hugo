@@ -1,3 +1,8 @@
++++
+title = 'Tips and Troubleshooting'
+solution = 'Data Quality'
++++
+
 # Tips and Troubleshooting
 
 This section outlines common error messages that display in dspMonitor™

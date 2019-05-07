@@ -1,3 +1,8 @@
++++
+title = 'View Your Application Table Reports'
+solution = 'Data Quality'
++++
+
 # View Your Application Table Reports
 
 This page displays all application table reports to which the logged in

@@ -1,3 +1,8 @@
++++
+title = 'Object Publish'
+solution = 'Data Quality'
++++
+
 # Object Publish
 
 <div class="use">

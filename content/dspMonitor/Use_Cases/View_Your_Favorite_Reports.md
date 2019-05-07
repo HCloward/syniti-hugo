@@ -1,3 +1,8 @@
++++
+title = 'View Your Favorite Reports'
+solution = 'Data Quality'
++++
+
 # View Your Favorite Reports
 
 A subset of frequently used reports can be marked as favorites to make

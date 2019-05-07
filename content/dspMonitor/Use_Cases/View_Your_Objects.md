@@ -1,3 +1,8 @@
++++
+title = 'View Your Objects'
+solution = 'Data Quality'
++++
+
 # View Your Objects
 
 The *Your Objects* page displays all objects containing reports assigned

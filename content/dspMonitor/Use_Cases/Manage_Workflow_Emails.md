@@ -1,3 +1,8 @@
++++
+title = 'Manage Workflow Emails'
+solution = 'Data Quality'
++++
+
 # Manage Workflow Emails
 
 Workflow emails are sent to notify when reports have been run.

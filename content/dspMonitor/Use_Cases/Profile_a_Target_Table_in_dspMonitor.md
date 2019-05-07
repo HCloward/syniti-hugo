@@ -1,3 +1,8 @@
++++
+title = 'Profile a Target Table in dspMonitor™'
+solution = 'Data Quality'
++++
+
 # Profile a Target Table in dspMonitor™
 
 Common provides a quick and easy method to perform an assessment of data

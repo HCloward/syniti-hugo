@@ -1,3 +1,8 @@
++++
+title = 'View Your Object Reports'
+solution = 'Data Quality'
++++
+
 # View Your Object Reports
 
 This page displays all object reports to which the logged in user has

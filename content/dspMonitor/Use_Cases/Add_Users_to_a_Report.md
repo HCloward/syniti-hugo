@@ -1,3 +1,8 @@
++++
+title = 'Add Users to a Report'
+solution = 'Data Quality'
++++
+
 # Add Users to a Report
 
 Add users to the group to allow other users to view and process reports

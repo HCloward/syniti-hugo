@@ -1,3 +1,8 @@
++++
+title = 'Register Report Repositories'
+solution = 'Data Quality'
++++
+
 # Register Report Repositories
 
 Reports are organized by report repository. Once created in the database

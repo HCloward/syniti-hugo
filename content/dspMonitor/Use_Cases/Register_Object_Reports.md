@@ -1,3 +1,8 @@
++++
+title = 'Register Object Reports'
+solution = 'Data Quality'
++++
+
 # Register Object Reports
 
 Objects are delivered with standard reports registered. Additional

@@ -1,3 +1,8 @@
++++
+title = 'Target Table Column Threshold'
+solution = 'Data Quality'
++++
+
 # Target Table Column Threshold
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Report in Groups'
+solution = 'Data Quality'
++++
+
 # Report in Groups
 
 To access this page:

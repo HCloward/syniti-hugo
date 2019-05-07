@@ -1,3 +1,8 @@
++++
+title = 'View Dashboard Metrics'
+solution = 'Data Quality'
++++
+
 # View Dashboard Metrics
 
 Several reports are available to provide group, report and user metrics.

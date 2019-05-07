@@ -1,3 +1,8 @@
++++
+title = 'Configure dspMonitor™ Parameters'
+solution = 'Data Quality'
++++
+
 # Configure dspMonitor™ Parameters
 
 Parameters are settings specific to dspMonitor™ that must be configured

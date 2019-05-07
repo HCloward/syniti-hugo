@@ -1,3 +1,8 @@
++++
+title = 'Parameters'
+solution = 'Data Quality'
++++
+
 # Parameters
 
 Use this page to [Configure dspMonitor™

@@ -1,3 +1,8 @@
++++
+title = 'Register Reports to a Report Repository'
+solution = 'Data Quality'
++++
+
 # Register Reports to a Report Repository
 
 Reports are registered to a report repository and then to a group for

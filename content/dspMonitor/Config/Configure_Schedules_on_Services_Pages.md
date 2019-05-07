@@ -1,3 +1,8 @@
++++
+title = 'Configure Schedules on Service Pages'
+solution = 'Data Quality'
++++
+
 # Configure Schedules on Service Pages
 
 The Service pages within dspMonitor™ automatically run various

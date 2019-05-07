@@ -1,3 +1,8 @@
++++
+title = 'Group Reports H'
+solution = 'Data Quality'
++++
+
 # Group Reports H
 
 [Group Reports V](#Group_Reports_V)

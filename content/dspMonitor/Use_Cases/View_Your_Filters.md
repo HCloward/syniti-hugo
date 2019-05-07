@@ -1,3 +1,8 @@
++++
+title = 'View Your Filters'
+solution = 'Data Quality'
++++
+
 # View Your Filters
 
 The *Your Filters* page displays all filters assigned to the logged in

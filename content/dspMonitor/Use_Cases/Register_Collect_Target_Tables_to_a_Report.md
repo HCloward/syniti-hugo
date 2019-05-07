@@ -1,3 +1,8 @@
++++
+title = 'Register Collect Target Tables to a Report'
+solution = 'Data Quality'
++++
+
 # Register Collect Target Tables to a Report
 
 A Data Quality Steward can register a Collect target table to a

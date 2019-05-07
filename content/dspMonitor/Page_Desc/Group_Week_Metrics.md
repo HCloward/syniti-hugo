@@ -1,3 +1,8 @@
++++
+title = 'Group Week (Metrics)'
+solution = 'Data Quality'
++++
+
 # Group Week (Metrics)
 
 <div class="use">

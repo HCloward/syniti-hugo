@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Data Quality'
++++
+
 # <span id="YourAppTbl_H"></span>Your Application Tables H
 
 [Your Application Tables V](#YourAppTbl_V)

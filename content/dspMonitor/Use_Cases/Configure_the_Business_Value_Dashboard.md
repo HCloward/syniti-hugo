@@ -1,3 +1,8 @@
++++
+title = 'Configure the Business Value Dashboard'
+solution = 'Data Quality'
++++
+
 # Configure the Business Value Dashboard
 
 For data to appear on the Business Value dashboard, the cost of the
