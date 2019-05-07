@@ -1,3 +1,8 @@
++++
+title = 'Allow a Scenario to be Used in Other Categories'
+solution = 'Data Quality'
++++
+
 # Allow a Scenario to be Used in Other Categories
 
 Scenarios and business processes are added to a category, and then

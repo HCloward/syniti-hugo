@@ -1,3 +1,8 @@
++++
+title = 'Set the Control Table Prefix'
+solution = 'Data Quality'
++++
+
 # Set the Control Table Prefix
 
 When a table is generated for control views, the control table prefix is

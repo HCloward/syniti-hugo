@@ -1,3 +1,8 @@
++++
+title = 'Configure Child Scenario Criteria'
+solution = 'Data Quality'
++++
+
 # Configure Child Scenario Criteria
 
 A Designer can select the org unit to be used to create child requests

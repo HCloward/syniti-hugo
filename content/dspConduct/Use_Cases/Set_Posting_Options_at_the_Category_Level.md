@@ -1,3 +1,8 @@
++++
+title = 'Set Posting Options at the Category Level'
+solution = 'Data Quality'
++++
+
 # Set Posting Options at the Category Level
 
 By default, an Integrate process that posts dspConduct™ requests uses

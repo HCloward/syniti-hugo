@@ -1,3 +1,8 @@
++++
+title = 'Content WebApp Examples'
+solution = 'Data Quality'
++++
+
 # Content WebApp Examples
 
 The following examples can be used as reference when creating the

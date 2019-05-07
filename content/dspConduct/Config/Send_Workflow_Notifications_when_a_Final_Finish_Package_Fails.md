@@ -1,3 +1,8 @@
++++
+title = 'Send Workflow Notifications when a Final Finish Package Fails'
+solution = 'Data Quality'
++++
+
 # Send Workflow Notifications when a Final Finish Package Fails
 
 If a Final Finish package is created but does not run successfully, a

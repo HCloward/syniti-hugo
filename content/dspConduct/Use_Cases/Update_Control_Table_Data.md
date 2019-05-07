@@ -1,3 +1,8 @@
++++
+title = 'Update Control Table Data'
+solution = 'Data Quality'
++++
+
 # Update Control Table Data
 
 A control table is used to store data to be used as the basis when

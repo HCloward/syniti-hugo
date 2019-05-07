@@ -1,3 +1,8 @@
++++
+title = 'Configure the Post Later Feature at the Role Level'
+solution = 'Data Quality'
++++
+
 # Configure the Post Later Feature at the Role Level
 
 A Designer can configure a feature that allows a Role Processor with the

@@ -1,3 +1,8 @@
++++
+title = 'Scenario Dependency Condition'
+solution = 'Data Quality'
++++
+
 # Scenario Dependency Condition
 
 <div class="use">

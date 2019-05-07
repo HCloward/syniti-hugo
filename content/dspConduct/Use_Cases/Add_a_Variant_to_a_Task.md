@@ -1,3 +1,8 @@
++++
+title = 'Add a Variant to a Task'
+solution = 'Data Quality'
++++
+
 # Add a Variant to a Task
 
 A Designer can add a variant at the category level. If the task variant

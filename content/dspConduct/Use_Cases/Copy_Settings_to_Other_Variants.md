@@ -1,3 +1,8 @@
++++
+title = 'Copy Settings to Other Variants'
+solution = 'Data Quality'
++++
+
 # Copy Settings to Other Variants
 
 If the default setting for Control Status or Required changes for a

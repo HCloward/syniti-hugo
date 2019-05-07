@@ -1,3 +1,8 @@
++++
+title = 'Configure Scenario Types'
+solution = 'Data Quality'
++++
+
 # Configure Scenario Types
 
 dspConduct™ is delivered with these default scenario types:

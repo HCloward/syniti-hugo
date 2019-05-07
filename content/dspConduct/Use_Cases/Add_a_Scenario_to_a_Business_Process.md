@@ -1,3 +1,8 @@
++++
+title = 'Add a Scenario to a Business Process'
+solution = 'Data Quality'
++++
+
 # Add a Scenario to a Business Process
 
 The <span style="font-style: italic;">[Business Process

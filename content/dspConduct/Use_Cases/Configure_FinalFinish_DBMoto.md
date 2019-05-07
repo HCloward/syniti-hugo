@@ -1,3 +1,8 @@
++++
+title = 'Configure Data Download During the Final Finish Process to use a DBMoto Package'
+solution = 'Data Quality'
++++
+
 # Configure Data Download During the Final Finish Process to use a DBMoto Package
 
 A process Designer can use DBMoto® for change data capture to replace

@@ -1,3 +1,8 @@
++++
+title = 'Update Posting Options at the Scenario Level'
+solution = 'Data Quality'
++++
+
 # Update Posting Options at the Scenario Level
 
 A user can set posting options for the Integrate process used to post

@@ -1,3 +1,8 @@
++++
+title = 'Scenario Type'
+solution = 'Data Quality'
++++
+
 # Scenario Type
 
 <div class="use">

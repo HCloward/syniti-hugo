@@ -1,3 +1,8 @@
++++
+title = 'Final Finish Setup Example'
+solution = 'Data Quality'
++++
+
 # Final Finish Setup Example
 
 A Designer sets up the final finish for the single table KNA1 registered

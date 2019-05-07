@@ -1,3 +1,8 @@
++++
+title = 'Scenarios (Dependencies)'
+solution = 'Data Quality'
++++
+
 # Scenarios (Dependencies)
 
 <div class="use">

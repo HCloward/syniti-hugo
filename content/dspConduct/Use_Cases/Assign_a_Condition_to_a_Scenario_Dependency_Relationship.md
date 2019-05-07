@@ -1,3 +1,8 @@
++++
+title = 'Assign a Condition to a Scenario Dependency Relationship'
+solution = 'Data Quality'
++++
+
 # Assign a Condition to a Scenario Dependency Relationship
 
 A data-driven dependency condition identifies a condition within a field

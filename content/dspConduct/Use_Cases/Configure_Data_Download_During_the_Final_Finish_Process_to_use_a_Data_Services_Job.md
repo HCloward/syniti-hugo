@@ -1,3 +1,8 @@
++++
+title = 'Configure Data Download During the Final Finish Process to use a Data Services Job'
+solution = 'Data Quality'
++++
+
 # Configure Data Download During the Final Finish Process to use a Data Services Job
 
 If the Finish Type is DataServices, the Data Services Job must exist in

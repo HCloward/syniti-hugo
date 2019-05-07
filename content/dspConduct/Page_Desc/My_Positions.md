@@ -1,3 +1,8 @@
++++
+title = 'My Positions'
+solution = 'Data Quality'
++++
+
 # My Positions
 
 <div class="use">

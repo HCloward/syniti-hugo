@@ -1,3 +1,8 @@
++++
+title = 'Business Process Request Duration'
+solution = 'Data Quality'
++++
+
 # Business Process Request Duration
 
 This chart displays the average duration in days of active requests for

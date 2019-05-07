@@ -1,3 +1,8 @@
++++
+title = 'Deactivate a Scenario'
+solution = 'Data Quality'
++++
+
 # Deactivate a Scenario
 
 The scenario can be deactivated by a Designer regardless of the status.

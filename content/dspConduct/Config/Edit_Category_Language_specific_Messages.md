@@ -1,3 +1,8 @@
++++
+title = 'Edit Category Language-specific Messages'
+solution = 'Data Quality'
++++
+
 # Edit Category Language-specific Messages
 
 By default, dspConduct™ sends workflow messages to users who have access

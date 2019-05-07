@@ -1,3 +1,8 @@
++++
+title = 'Scenario (Default Rules)'
+solution = 'Data Quality'
++++
+
 # Scenario (Default Rules)
 
 <div class="use">

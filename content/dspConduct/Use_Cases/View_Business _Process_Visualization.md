@@ -1,3 +1,8 @@
++++
+title = 'View Business Process Visualization'
+solution = 'Data Quality'
++++
+
 # View Business Process Visualization
 
 A Designer can view a diagram of the current configuration of a business

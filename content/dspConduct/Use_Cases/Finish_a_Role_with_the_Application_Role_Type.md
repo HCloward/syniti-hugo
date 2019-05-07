@@ -1,3 +1,8 @@
++++
+title = 'Finish a Role with the Application Role Type'
+solution = 'Data Quality'
++++
+
 # Finish a Role with the Application Role Type
 
 A Role Processor uses the <span style="font-style: italic;">[Request

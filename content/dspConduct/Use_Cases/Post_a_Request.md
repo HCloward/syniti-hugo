@@ -1,3 +1,8 @@
++++
+title = 'Post a Request'
+solution = 'Data Quality'
++++
+
 # Post a Request
 
 A Role Processor with the Post role type posts a request to a target

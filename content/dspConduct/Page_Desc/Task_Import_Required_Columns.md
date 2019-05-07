@@ -1,3 +1,8 @@
++++
+title = 'Task Import Required Columns'
+solution = 'Data Quality'
++++
+
 # Task Import Required Columns
 
 <div class="use">

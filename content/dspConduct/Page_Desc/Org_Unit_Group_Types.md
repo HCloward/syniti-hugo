@@ -1,3 +1,8 @@
++++
+title = 'Org Unit Group Types'
+solution = 'Data Quality'
++++
+
 # Org Unit Group Types
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Scenario Process Rule'
+solution = 'Data Quality'
++++
+
 # Scenario Process Rule
 
 <div class="use">

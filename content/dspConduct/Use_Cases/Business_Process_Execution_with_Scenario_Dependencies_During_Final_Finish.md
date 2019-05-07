@@ -1,3 +1,8 @@
++++
+title = 'Business Process Execution with Scenario Dependencies During Final Finish'
+solution = 'Data Quality'
++++
+
 # Business Process Execution with Scenario Dependencies During Final Finish
 
 When a request is finished, if the business process has scenario

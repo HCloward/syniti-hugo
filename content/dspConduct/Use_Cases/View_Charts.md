@@ -1,3 +1,8 @@
++++
+title = 'View Charts in dspConduct™'
+solution = 'Data Quality'
++++
+
 # View Charts in dspConduct™
 
 The dashboards included with dspConduct™ provide analytics, metrics, and

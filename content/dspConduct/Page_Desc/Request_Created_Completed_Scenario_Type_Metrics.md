@@ -1,3 +1,8 @@
++++
+title = 'Request Created-Completed Scenario Type Metrics'
+solution = 'Data Quality'
++++
+
 # Request Created-Completed Scenario Type Metrics
 
 This chart displays the number of all records on all requests, active

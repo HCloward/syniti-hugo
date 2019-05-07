@@ -1,3 +1,8 @@
++++
+title = 'Add Process Rules at the Scenario Level'
+solution = 'Data Quality'
++++
+
 # Add Process Rules at the Scenario Level
 
 A Designer can register a rule, in the form of a SQL stored procedure,

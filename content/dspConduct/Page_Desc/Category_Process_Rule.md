@@ -1,3 +1,8 @@
++++
+title = 'Category Process Rule'
+solution = 'Data Quality'
++++
+
 # Category Process Rule
 
 <div class="use">

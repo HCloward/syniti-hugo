@@ -1,3 +1,8 @@
++++
+title = 'Assign a Default Value Rule to a Scenario'
+solution = 'Data Quality'
++++
+
 # Assign a Default Value Rule to a Scenario
 
 A Designer can assign a default value rule at the scenario level that

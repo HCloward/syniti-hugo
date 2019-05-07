@@ -1,3 +1,8 @@
++++
+title = 'Role Types and Task Types'
+solution = 'Data Quality'
++++
+
 # Role Types and Task Types
 
 Each role is assigned a role type to define how role data within a

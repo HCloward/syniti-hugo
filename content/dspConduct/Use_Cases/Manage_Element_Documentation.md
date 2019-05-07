@@ -1,3 +1,8 @@
++++
+title = 'Manage Element Documentation'
+solution = 'Data Quality'
++++
+
 # Manage Element Documentation
 
 The Element Documentation page supports the uploading and downloading of

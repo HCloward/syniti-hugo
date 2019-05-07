@@ -1,3 +1,8 @@
++++
+title = 'Scenario Request Duration'
+solution = 'Data Quality'
++++
+
 # Scenario Request Duration
 
 When accessed from the *[Category](Category_H.htm)* page’s *Vertical*

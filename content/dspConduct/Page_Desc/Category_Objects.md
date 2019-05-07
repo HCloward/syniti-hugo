@@ -1,3 +1,8 @@
++++
+title = 'Category Objects'
+solution = 'Data Quality'
++++
+
 # Category Objects
 
 <div class="use">

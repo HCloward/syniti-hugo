@@ -1,3 +1,8 @@
++++
+title = 'Request Create-Completed Metrics'
+solution = 'Data Quality'
++++
+
 # Request Create-Completed Metrics
 
 This chart displays the number of records on all requests, active and

@@ -1,3 +1,8 @@
++++
+title = 'Active Requests for Business Process'
+solution = 'Data Quality'
++++
+
 # Active Requests for Business Process
 
 This chart displays the number of active requests for a business process

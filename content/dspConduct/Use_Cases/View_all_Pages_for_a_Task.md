@@ -1,3 +1,8 @@
++++
+title = 'View all Pages for a Task'
+solution = 'Data Quality'
++++
+
 # View all Pages for a Task
 
 A task defines a unit of work and is associated with the web page or

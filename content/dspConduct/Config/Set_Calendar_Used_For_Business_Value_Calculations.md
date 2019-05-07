@@ -1,3 +1,8 @@
++++
+title = 'Set Calendar Used For Business Value Calculations'
+solution = 'Data Quality'
++++
+
 # Set Calendar Used For Business Value Calculations
 
 An Administrator can set the calendar that is used to calculate the

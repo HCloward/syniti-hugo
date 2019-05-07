@@ -1,3 +1,8 @@
++++
+title = 'Upload Documentation at the Scenario Role Level'
+solution = 'Data Quality'
++++
+
 # Upload Documentation at the Scenario Role Level
 
 A Designer performs this task.

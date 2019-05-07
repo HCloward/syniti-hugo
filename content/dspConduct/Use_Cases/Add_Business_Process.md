@@ -1,3 +1,8 @@
++++
+title = 'Add a Business Process'
+solution = 'Data Quality'
++++
+
 # Add a Business Process
 
 The *[Business Process](../Page_Desc/Business_Process_H.htm)* page

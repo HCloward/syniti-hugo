@@ -1,3 +1,8 @@
++++
+title = 'Configure Workflow Messages Overview'
+solution = 'Data Quality'
++++
+
 # Configure Workflow Messages Overview
 
 Requests are workflow-enabled, meaning that each user assigned to a role

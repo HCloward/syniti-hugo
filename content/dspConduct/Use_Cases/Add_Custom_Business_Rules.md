@@ -1,3 +1,8 @@
++++
+title = 'Add Custom Business Rules'
+solution = 'Data Quality'
++++
+
 # Add Custom Business Rules
 
 A Designer can add a custom business rule at the scenario role level.

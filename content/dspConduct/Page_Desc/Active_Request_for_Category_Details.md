@@ -1,3 +1,8 @@
++++
+title = 'Active Request for Category Details'
+solution = 'Data Quality'
++++
+
 # Active Request for Category Details
 
 <div class="use">

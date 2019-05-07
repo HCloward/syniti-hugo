@@ -1,3 +1,8 @@
++++
+title = 'Task Final Finish Where Clause'
+solution = 'Data Quality'
++++
+
 # Task Final Finish Where Clause
 
 Use this page to [Create a Final Finish Where Clause for a CranPort

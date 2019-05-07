@@ -1,3 +1,8 @@
++++
+title = 'Update the List of Pages Assigned to a Task'
+solution = 'Data Quality'
++++
+
 # Update the List of Pages Assigned to a Task
 
 A task defines a unit of work and is associated with the web page or

@@ -1,3 +1,8 @@
++++
+title = 'Default WebApp Request Table'
+solution = 'Data Quality'
++++
+
 # Default WebApp Request Table
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Manage Org Units'
+solution = 'Data Quality'
++++
+
 # Manage Org Units
 
 Org Units are defined at the object level and then added to a category.

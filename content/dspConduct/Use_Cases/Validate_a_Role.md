@@ -1,3 +1,8 @@
++++
+title = 'Validate a Role'
+solution = 'Data Quality'
++++
+
 # Validate a Role
 
 A Role Processor can run a validation process for a Request Role prior

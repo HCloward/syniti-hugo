@@ -1,3 +1,8 @@
++++
+title = 'View Reports in dspConduct™'
+solution = 'Data Quality'
++++
+
 # View Reports in dspConduct™
 
 dspConduct™ is installed with reports to help users view the roles,

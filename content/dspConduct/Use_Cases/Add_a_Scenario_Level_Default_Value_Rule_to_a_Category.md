@@ -1,3 +1,8 @@
++++
+title = 'Add a Scenario Level Default Value Rule to a Category'
+solution = 'Data Quality'
++++
+
 # Add a Scenario Level Default Value Rule to a Category
 
 A Designer can add a default value rule that indicates a default value

@@ -1,3 +1,8 @@
++++
+title = 'Copy a Scenario'
+solution = 'Data Quality'
++++
+
 # Copy a Scenario
 
 A Designer who has access to dspConduct™ has the ability to copy a

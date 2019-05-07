@@ -1,3 +1,8 @@
++++
+title = 'Set a Role's Org Unit Value Assignments'
+solution = 'Data Quality'
++++
+
 # Set a Role's Org Unit Value Assignments
 
 A Security Administrator can include or remove multiple org unit values

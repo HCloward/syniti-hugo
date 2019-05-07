@@ -1,3 +1,8 @@
++++
+title = 'Enable or Disable Messages for a Role'
+solution = 'Data Quality'
++++
+
 # Enable or Disable Messages for a Role
 
 If a user assigned to a role constantly works in a Content WebApp, the

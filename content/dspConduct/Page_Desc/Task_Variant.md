@@ -1,3 +1,8 @@
++++
+title = 'Task Variant'
+solution = 'Data Quality'
++++
+
 # Task Variant
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Set User Workflow Receipt Preferences'
+solution = 'Data Quality'
++++
+
 # Set User Workflow Receipt Preferences
 
 dspConduct™ sends workflow messages to users who have access to a

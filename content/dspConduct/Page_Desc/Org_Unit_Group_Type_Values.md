@@ -1,3 +1,8 @@
++++
+title = 'Org Unit Group Type Values'
+solution = 'Data Quality'
++++
+
 # Org Unit Group Type Values
 
 <div class="use">

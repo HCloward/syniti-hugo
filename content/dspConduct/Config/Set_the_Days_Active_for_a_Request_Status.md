@@ -1,3 +1,8 @@
++++
+title = 'Set the Days Active for a Request Status'
+solution = 'Data Quality'
++++
+
 # Set the Days Active for a Request Status
 
 A Designer can configure how long the request data stays in the main

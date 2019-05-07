@@ -1,3 +1,8 @@
++++
+title = 'View a Role's dspConduct™ Pages'
+solution = 'Data Quality'
++++
+
 # View a Role's dspConduct™ Pages
 
 A Designer can view request-related pages (on

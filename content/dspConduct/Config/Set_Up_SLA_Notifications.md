@@ -1,3 +1,8 @@
++++
+title = 'Set Up SLA Notifications'
+solution = 'Data Quality'
++++
+
 # Set Up SLA Notifications
 
 A Service Level Agreement (SLA) establishes a time constraint for

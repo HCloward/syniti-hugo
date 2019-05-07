@@ -1,3 +1,8 @@
++++
+title = 'Finish a Role with the Post Role Type'
+solution = 'Data Quality'
++++
+
 # Finish a Role with the Post Role Type
 
 Roles with the Post role type send the collected and validated data to

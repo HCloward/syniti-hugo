@@ -1,3 +1,8 @@
++++
+title = 'Set Rules for a Category Process'
+solution = 'Data Quality'
++++
+
 # Set Rules for a Category Process
 
 A Designer can register a rule, in the form of a SQL stored procedure,

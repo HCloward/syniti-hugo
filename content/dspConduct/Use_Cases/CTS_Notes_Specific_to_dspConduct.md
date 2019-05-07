@@ -1,3 +1,8 @@
++++
+title = 'CTS Notes Specific to dspConduct™'
+solution = 'Data Quality'
++++
+
 # CTS Notes Specific to dspConduct™
 
 When creating CTS archives to support dspConduct™ objects, if any

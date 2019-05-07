@@ -1,3 +1,8 @@
++++
+title = 'Update Custom Attributes for Governance Elements'
+solution = 'Data Quality'
++++
+
 # Update Custom Attributes for Governance Elements
 
 Data entered in IGC™ and imported into dspConduct™ cannot be updated in

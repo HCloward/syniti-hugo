@@ -1,3 +1,8 @@
++++
+title = 'Assign a Backup User'
+solution = 'Data Quality'
++++
+
 # Assign a Backup User
 
 There may be occasions when a user is unavailable for a period of time

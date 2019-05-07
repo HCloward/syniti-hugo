@@ -1,3 +1,8 @@
++++
+title = 'All Requests for Business Process'
+solution = 'Data Quality'
++++
+
 # All Requests for Business Process
 
 This chart displays all requests for a business process by status.

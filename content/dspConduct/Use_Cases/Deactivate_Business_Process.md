@@ -1,3 +1,8 @@
++++
+title = 'Deactivate a Business Process'
+solution = 'Data Quality'
++++
+
 # Deactivate a Business Process
 
 A business process can be deactivated by a Designer regardless of the

@@ -1,3 +1,8 @@
++++
+title = 'Replace an Element Document'
+solution = 'Data Quality'
++++
+
 # Replace an Element Document
 
 A Designer has the ability to replace the current file with an updated

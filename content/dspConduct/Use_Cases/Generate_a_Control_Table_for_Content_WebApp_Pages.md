@@ -1,3 +1,8 @@
++++
+title = 'Generate a Control Table for Content WebApp Pages'
+solution = 'Data Quality'
++++
+
 # Generate a Control Table for Content WebApp Pages
 
 A control table is used to store data to be used as the basis when

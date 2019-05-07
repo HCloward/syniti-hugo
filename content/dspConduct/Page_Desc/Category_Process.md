@@ -1,3 +1,8 @@
++++
+title = 'Category Process'
+solution = 'Data Quality'
++++
+
 # Category Process
 
 [Category Process V](#Category)

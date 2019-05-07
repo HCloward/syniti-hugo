@@ -1,3 +1,8 @@
++++
+title = 'Add a Dependent Scenario'
+solution = 'Data Quality'
++++
+
 # Add a Dependent Scenario
 
 The [Scenario (Dependencies)](../Page_Desc/Scenarios_Dependencies.htm)

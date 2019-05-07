@@ -1,3 +1,8 @@
++++
+title = 'Category Request Duration'
+solution = 'Data Quality'
++++
+
 # Category Request Duration
 
 This chart displays the <span>average duration in days of active

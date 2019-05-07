@@ -1,3 +1,8 @@
++++
+title = 'Copy a Position'
+solution = 'Data Quality'
++++
+
 # Copy a Position
 
 A Security Administrator can create a position based on the setup for an

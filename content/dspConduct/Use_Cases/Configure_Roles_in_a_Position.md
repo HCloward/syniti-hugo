@@ -1,3 +1,8 @@
++++
+title = 'Configure Roles in a Position'
+solution = 'Data Quality'
++++
+
 # Configure Roles in a Position
 
 A Security Administrator can include or remove roles to a position.

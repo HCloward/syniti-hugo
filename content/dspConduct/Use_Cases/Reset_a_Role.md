@@ -1,3 +1,8 @@
++++
+title = 'Reset a Role'
+solution = 'Data Quality'
++++
+
 # Reset a Role
 
 A Request Processer resets a role if a mistake is made or if information

@@ -1,3 +1,8 @@
++++
+title = 'Configure Data Download During the Final Finish Process to use a CranPort Package'
+solution = 'Data Quality'
++++
+
  
 
 # Configure Data Download During the Final Finish Process to use a CranPort Package

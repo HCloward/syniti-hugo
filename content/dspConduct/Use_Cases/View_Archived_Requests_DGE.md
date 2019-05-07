@@ -1,3 +1,8 @@
++++
+title = 'View Archived Requests'
+solution = 'Data Quality'
++++
+
 # View Archived Requests
 
 A user who belongs to dspConduct™ WebApp group ArchiveUser or PowerUser

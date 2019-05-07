@@ -1,3 +1,8 @@
++++
+title = 'Total Hours Saved (by Business Process)'
+solution = 'Data Quality'
++++
+
 # Total Hours Saved (by Business Process)
 
 This chart displays the hours saved for the of business processes in a

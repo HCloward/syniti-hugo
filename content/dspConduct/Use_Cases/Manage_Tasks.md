@@ -1,3 +1,8 @@
++++
+title = 'Manage Tasks'
+solution = 'Data Quality'
++++
+
 # Manage Tasks
 
 A task defines a unit of work and is associated with the web page where

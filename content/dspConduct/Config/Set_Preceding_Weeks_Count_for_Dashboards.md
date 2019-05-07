@@ -1,3 +1,8 @@
++++
+title = 'Set Preceding Weeks Count for Dashboards'
+solution = 'Data Quality'
++++
+
 # Set Preceding Weeks Count for Dashboards
 
 An Administrator can set the number of prior weeks to display on the

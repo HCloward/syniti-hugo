@@ -1,3 +1,8 @@
++++
+title = 'Create Tables and Views for Content WebApp Pages Overview'
+solution = 'Data Quality'
++++
+
 # Create Tables and Views for Content WebApp Pages Overview
 
 A Designer can create control tables and views, including Page Control

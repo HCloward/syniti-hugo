@@ -1,3 +1,8 @@
++++
+title = 'Add an Integrate Process to a Scenario'
+solution = 'Data Quality'
++++
+
 # Add an Integrate Process to a Scenario
 
 Integrate processes are the methods in which data from dspConduct™ is

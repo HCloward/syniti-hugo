@@ -1,3 +1,8 @@
++++
+title = 'Set Up Service Pages for SLAs'
+solution = 'Data Quality'
++++
+
 # Set Up Service Pages for SLAs
 
 The *Request SLA Notification* Service page determines which request

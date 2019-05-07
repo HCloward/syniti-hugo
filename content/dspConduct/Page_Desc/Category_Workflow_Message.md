@@ -1,3 +1,8 @@
++++
+title = 'Category Workflow Message'
+solution = 'Data Quality'
++++
+
 # Category Workflow Message
 
 <div class="use">

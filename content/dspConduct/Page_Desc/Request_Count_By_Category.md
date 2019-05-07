@@ -1,3 +1,8 @@
++++
+title = 'Request Count By Category'
+solution = 'Data Quality'
++++
+
 # Request Count By Category
 
 This chart displays total number of all requests, including archived

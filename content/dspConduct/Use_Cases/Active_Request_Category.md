@@ -1,3 +1,8 @@
++++
+title = 'Active Request for Category'
+solution = 'Data Quality'
++++
+
 # Active Request for Category
 
 This chart displays number of requests by status in a category.

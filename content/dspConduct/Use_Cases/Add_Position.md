@@ -1,3 +1,8 @@
++++
+title = 'Add a Position'
+solution = 'Data Quality'
++++
+
 # Add a Position
 
 A Security Administrator can add a position to configure the business

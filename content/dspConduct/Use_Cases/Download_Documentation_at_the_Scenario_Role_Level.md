@@ -1,3 +1,8 @@
++++
+title = 'Download Documentation at the Scenario Role Level'
+solution = 'Data Quality'
++++
+
 # Download Documentation at the Scenario Role Level
 
 A Designer performs this task.

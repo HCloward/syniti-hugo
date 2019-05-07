@@ -1,3 +1,8 @@
++++
+title = 'dspConduct Task H'
+solution = 'Data Quality'
++++
+
 # dspConduct Task H
 
 [dspConduct Task V](dspConduct_Task_H.htm#DGE_Task_V)

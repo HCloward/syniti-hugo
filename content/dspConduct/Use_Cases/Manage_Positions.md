@@ -1,3 +1,8 @@
++++
+title = 'Manage Positions'
+solution = 'Data Quality'
++++
+
 # Manage Positions
 
 A position is a security template defined by a Security Administrator to

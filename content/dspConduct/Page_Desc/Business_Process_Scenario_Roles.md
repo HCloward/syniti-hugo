@@ -1,3 +1,8 @@
++++
+title = 'Business Process (Scenario Roles)'
+solution = 'Data Quality'
++++
+
 # Business Process (Scenario Roles)
 
 <div class="use">

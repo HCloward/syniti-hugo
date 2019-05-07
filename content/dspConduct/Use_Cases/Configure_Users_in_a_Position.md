@@ -1,3 +1,8 @@
++++
+title = 'Configure Users in a Position'
+solution = 'Data Quality'
++++
+
 # Configure Users in a Position
 
 A Security Administrator can add users to a position. Before performing

@@ -1,3 +1,8 @@
++++
+title = 'Setup and Configuration for dspConduct™'
+solution = 'Data Quality'
++++
+
 # Setup and Configuration for dspConduct™
 
 Before using dspConduct™, ensure the following tasks are completed, if

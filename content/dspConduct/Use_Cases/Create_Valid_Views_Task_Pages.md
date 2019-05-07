@@ -1,3 +1,8 @@
++++
+title = 'Create Validation Views for Content WebApp Task Pages'
+solution = 'Data Quality'
++++
+
 # Create Validation Views for Content WebApp Task Pages
 
 A Designer can create a validation view for task pages with an active

@@ -1,3 +1,8 @@
++++
+title = 'Add a Custom Request Status'
+solution = 'Data Quality'
++++
+
 # Add a Custom Request Status
 
 A Designer has the option to add custom request statuses.

@@ -1,3 +1,8 @@
++++
+title = 'Configure Column Status for a Scenario Role Task'
+solution = 'Data Quality'
++++
+
 # Configure Column Status for a Scenario Role Task
 
 For a scenario \> role \> task combination a Designer can specify

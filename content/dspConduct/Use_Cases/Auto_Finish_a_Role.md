@@ -1,3 +1,8 @@
++++
+title = 'Auto Finish a Role'
+solution = 'Data Quality'
++++
+
 # Auto Finish a Role
 
 A Designer can configure the Auto Finish Role setting on the

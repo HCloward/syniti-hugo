@@ -1,3 +1,8 @@
++++
+title = 'View a Task's Scenarios and Roles'
+solution = 'Data Quality'
++++
+
 # View a Task's Scenarios and Roles
 
 A Designer can view the scenarios and roles to which a task is assigned

@@ -1,3 +1,8 @@
++++
+title = 'Add a Category Object'
+solution = 'Data Quality'
++++
+
 # Add a Category Object
 
 A category object defines the kind of master data a WebApp is expected

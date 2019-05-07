@@ -1,3 +1,8 @@
++++
+title = 'Manage Business Processes'
+solution = 'Data Quality'
++++
+
 # Manage Business Processes
 
 A business process is a collection of related scenarios used to create,

@@ -1,3 +1,8 @@
++++
+title = 'Auto-generate Request-related Objects'
+solution = 'Data Quality'
++++
+
 # Auto-generate Request-related Objects
 
 A Designer can auto-generate a *Request* page and request-related

@@ -1,3 +1,8 @@
++++
+title = 'Configure Business Processes in a Position'
+solution = 'Data Quality'
++++
+
 # Configure Business Processes in a Position
 
 A Security Administrator can add business processes to a position to

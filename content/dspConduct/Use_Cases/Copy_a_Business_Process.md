@@ -1,3 +1,8 @@
++++
+title = 'Copy a Business Process'
+solution = 'Data Quality'
++++
+
 # Copy a Business Process
 
 A Designer has the ability to copy a business process for the purpose of

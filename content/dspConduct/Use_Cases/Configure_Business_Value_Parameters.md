@@ -1,3 +1,8 @@
++++
+title = 'Configure Business Value Parameters'
+solution = 'Data Quality'
++++
+
 # Configure Business Value Parameters
 
 A Designer can set the values that are used to calculate the information

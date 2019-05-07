@@ -1,3 +1,8 @@
++++
+title = 'View and Configure External Target Systems for a Scenario'
+solution = 'Data Quality'
++++
+
 # View and Configure External Target Systems for a Scenario
 
 The [Scenario Process Target

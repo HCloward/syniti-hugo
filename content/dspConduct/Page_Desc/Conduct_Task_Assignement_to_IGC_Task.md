@@ -1,3 +1,8 @@
++++
+title = 'Conduct Task Assignement to IGC Task'
+solution = 'Data Quality'
++++
+
 # Conduct Task Assignement to IGC Task
 
 <div class="use">

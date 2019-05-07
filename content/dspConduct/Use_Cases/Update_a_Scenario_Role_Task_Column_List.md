@@ -1,3 +1,8 @@
++++
+title = 'Update a Scenario Role Task Column List'
+solution = 'Data Quality'
++++
+
 # Update a Scenario Role Task Column List
 
 If columns are added or removed in the Content WebApp, a Designer uses

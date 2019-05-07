@@ -1,3 +1,8 @@
++++
+title = 'Create a Final Finish Where Clause for a CranPort Package'
+solution = 'Data Quality'
++++
+
 # Create a Final Finish Where Clause for a CranPort Package
 
 <span style="font-weight: bold;">NOTE</span>: A table or a view that

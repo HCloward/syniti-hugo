@@ -1,3 +1,8 @@
++++
+title = 'View Default Workflow Messages'
+solution = 'Data Quality'
++++
+
 # View Default Workflow Messages
 
 dspConduct™ is installed with default workflow messages and the

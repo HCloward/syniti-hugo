@@ -1,3 +1,8 @@
++++
+title = 'Send Workflow Notifications When a Post Fails or Succeeds'
+solution = 'Data Quality'
++++
+
 # Send Workflow Notifications When a Post Fails or Succeeds
 
 Requests are workflow-enabled, meaning that each user assigned to a role

@@ -1,3 +1,8 @@
++++
+title = 'Audit Table Registration'
+solution = 'Data Quality'
++++
+
 # Audit Table Registration
 
 <div class="use">

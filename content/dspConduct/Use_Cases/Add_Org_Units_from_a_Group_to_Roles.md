@@ -1,3 +1,8 @@
++++
+title = 'Add Org Units from a Group to Roles'
+solution = 'Data Quality'
++++
+
 # Add Org Units from a Group to Roles
 
 A Security Administrator can apply the same org unit values to roles in

@@ -1,3 +1,8 @@
++++
+title = 'Scenario Use In Other Category'
+solution = 'Data Quality'
++++
+
 # Scenario Use In Other Category
 
 <div class="use">

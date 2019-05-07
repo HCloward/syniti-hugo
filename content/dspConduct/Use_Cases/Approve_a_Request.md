@@ -1,3 +1,8 @@
++++
+title = 'Approve a Request'
+solution = 'Data Quality'
++++
+
 # Approve a Request
 
 A Role Processor can approve a request for a Review role.

@@ -1,3 +1,8 @@
++++
+title = 'Create a Request'
+solution = 'Data Quality'
++++
+
 # Create a Request
 
 Requests are created in dspConduct™ when a new request is added and

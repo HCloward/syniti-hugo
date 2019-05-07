@@ -1,3 +1,8 @@
++++
+title = 'Parameters - IGC'
+solution = 'Data Quality'
++++
+
 # Parameters - IGC
 
 <div class="use">

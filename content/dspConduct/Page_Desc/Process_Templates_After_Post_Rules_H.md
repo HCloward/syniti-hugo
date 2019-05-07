@@ -1,3 +1,8 @@
++++
+title = 'Process Templates: After Post Rules H'
+solution = 'Data Quality'
++++
+
 # Process Templates: After Post Rules H
 
 [Process Templates: After Post Rules V](#Process)

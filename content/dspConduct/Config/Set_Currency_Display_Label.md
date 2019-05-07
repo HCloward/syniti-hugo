@@ -1,3 +1,8 @@
++++
+title = 'Set Currency Display Label'
+solution = 'Data Quality'
++++
+
 # Set Currency Display Label
 
 An Administrator can set the currency label that is displayed on the

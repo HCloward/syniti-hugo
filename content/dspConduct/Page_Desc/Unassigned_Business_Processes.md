@@ -1,3 +1,8 @@
++++
+title = 'Unassigned Business Processes'
+solution = 'Data Quality'
++++
+
 # Unassigned Business Processes
 
 <div class="use">

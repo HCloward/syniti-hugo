@@ -1,3 +1,8 @@
++++
+title = 'Add Org Units To Position From Org Unit Group'
+solution = 'Data Quality'
++++
+
 # Add Org Units To Position From Org Unit Group
 
 <div class="use">

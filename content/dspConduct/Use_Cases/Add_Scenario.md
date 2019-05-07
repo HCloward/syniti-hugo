@@ -1,3 +1,8 @@
++++
+title = 'Add a Scenario'
+solution = 'Data Quality'
++++
+
 # Add a Scenario
 
 The *[Scenario](../Page_Desc/Scenario_H.htm)* page allows a Designer to

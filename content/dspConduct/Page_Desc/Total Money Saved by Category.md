@@ -1,3 +1,8 @@
++++
+title = 'Total Money Saved (by Category)'
+solution = 'Data Quality'
++++
+
 # Total Money Saved (by Category)
 
 This chart displays the total money saved for all business processes in

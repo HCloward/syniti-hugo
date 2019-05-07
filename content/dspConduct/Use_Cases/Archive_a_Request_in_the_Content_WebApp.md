@@ -1,3 +1,8 @@
++++
+title = 'Archive a Request in the Content WebApp'
+solution = 'Data Quality'
++++
+
 # Archive a Request in the Content WebApp
 
 To archive request data, the Designer creates a process in the Content

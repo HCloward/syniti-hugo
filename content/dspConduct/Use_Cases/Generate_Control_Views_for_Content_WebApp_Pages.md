@@ -1,3 +1,8 @@
++++
+title = 'Generate Control Views for Content WebApp Pages'
+solution = 'Data Quality'
++++
+
 # Generate Control Views for Content WebApp Pages
 
 A Designer can create views, including Page Control Views (PCV) and Data

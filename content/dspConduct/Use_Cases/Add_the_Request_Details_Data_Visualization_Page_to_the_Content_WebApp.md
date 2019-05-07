@@ -1,3 +1,8 @@
++++
+title = 'Add the Request Details Data Visualization Page to the Content WebApp'
+solution = 'Data Quality'
++++
+
 # Add the Request Details Data Visualization Page to the Content WebApp
 
 The Request Details Data Visualization Page provides a visual

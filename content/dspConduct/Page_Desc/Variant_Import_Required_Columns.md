@@ -1,3 +1,8 @@
++++
+title = 'Variant Import Required Columns'
+solution = 'Data Quality'
++++
+
 # Variant Import Required Columns
 
 <div class="use">

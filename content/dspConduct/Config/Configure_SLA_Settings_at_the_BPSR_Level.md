@@ -1,3 +1,8 @@
++++
+title = 'Configure SLA settings at the Business Process Scenario Role Level'
+solution = 'Data Quality'
++++
+
 # Configure SLA settings at the Business Process Scenario Role Level
 
 A Designer can configure SLA settings at the Business Process Scenario

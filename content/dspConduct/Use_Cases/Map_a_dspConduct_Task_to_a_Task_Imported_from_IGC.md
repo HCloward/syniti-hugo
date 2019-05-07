@@ -1,3 +1,8 @@
++++
+title = 'Map a dspConduct™ Task to a Task Imported from IGC™'
+solution = 'Data Quality'
++++
+
 # Map a dspConduct™ Task to a Task Imported from IGC™
 
 After a task has been created and published in IGC™ and imported into

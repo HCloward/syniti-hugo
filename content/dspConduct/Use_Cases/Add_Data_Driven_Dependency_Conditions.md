@@ -1,3 +1,8 @@
++++
+title = 'Add Data-Driven Dependency Conditions'
+solution = 'Data Quality'
++++
+
 # Add Data-Driven Dependency Conditions
 
 A data-driven dependency condition identifies a condition within a field

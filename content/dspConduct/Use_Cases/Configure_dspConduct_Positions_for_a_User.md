@@ -1,3 +1,8 @@
++++
+title = 'Configure dspConduct Positions for a User'
+solution = 'Data Quality'
++++
+
 # Configure dspConduct Positions for a User
 
 A Security Administrator can view and configure dspConduct positions to

@@ -1,3 +1,8 @@
++++
+title = 'Upload and Download Element Documentation'
+solution = 'Data Quality'
++++
+
 # Upload and Download Element Documentation
 
 The uploaded document provides instructions and supporting documentation

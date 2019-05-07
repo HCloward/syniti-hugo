@@ -1,3 +1,8 @@
++++
+title = 'Reject a Request'
+solution = 'Data Quality'
++++
+
 # Reject a Request
 
 A Role Processor can reject a request (a role \> task combination) for a

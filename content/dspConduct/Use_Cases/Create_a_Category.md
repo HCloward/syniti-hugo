@@ -1,3 +1,8 @@
++++
+title = 'Create a Category'
+solution = 'Data Quality'
++++
+
 # Create a Category
 
 A process Designer performs this task.

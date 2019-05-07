@@ -1,3 +1,8 @@
++++
+title = 'Manage Scenarios'
+solution = 'Data Quality'
++++
+
 # Manage Scenarios
 
 A scenario is a workflow-enabled configurable process for collecting

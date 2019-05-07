@@ -1,3 +1,8 @@
++++
+title = 'Audit Table Column Registration'
+solution = 'Data Quality'
++++
+
 # Audit Table Column Registration
 
 <div class="use">

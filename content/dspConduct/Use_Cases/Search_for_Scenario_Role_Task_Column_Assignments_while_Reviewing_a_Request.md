@@ -1,3 +1,8 @@
++++
+title = 'Search for Scenario Role Task Column Assignments while Reviewing a Request'
+solution = 'Data Quality'
++++
+
 # Search for Scenario Role Task Column Assignments while Reviewing a Request
 
 A Role Processor can view which columns are enabled for a request and

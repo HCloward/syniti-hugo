@@ -1,3 +1,8 @@
++++
+title = 'Add a Conflict to a Role'
+solution = 'Data Quality'
++++
+
 # Add a Conflict to a Role
 
 When a Designer assigns role conflicts, the system does not allow a

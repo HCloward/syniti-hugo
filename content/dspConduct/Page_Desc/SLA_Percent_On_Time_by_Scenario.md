@@ -1,3 +1,8 @@
++++
+title = 'SLA Percent On Time by Scenario'
+solution = 'Data Quality'
++++
+
 # SLA Percent On Time by Scenario
 
 When a request is submitted, a due date for each of the request’s roles

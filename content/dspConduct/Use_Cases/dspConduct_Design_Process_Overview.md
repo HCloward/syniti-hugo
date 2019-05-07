@@ -1,3 +1,8 @@
++++
+title = 'dspConduct™ Design Process Overview'
+solution = 'Data Quality'
++++
+
 # dspConduct™ Design Process Overview
 
 A governance hierarchy consists of the following elements:

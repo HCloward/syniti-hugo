@@ -1,3 +1,8 @@
++++
+title = 'Scenario Role Task Column H'
+solution = 'Data Quality'
++++
+
 # Scenario Role Task Column H
 
 [Scenario Role Task Column V](#ScenarioRoleTaskColumn)

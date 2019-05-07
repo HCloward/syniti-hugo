@@ -1,3 +1,8 @@
++++
+title = 'Set Allowed Processes at the Category Level'
+solution = 'Data Quality'
++++
+
 # Set Allowed Processes at the Category Level
 
 Integrate processes are the methods in which data from dspConduct™ is

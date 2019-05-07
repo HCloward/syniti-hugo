@@ -1,3 +1,8 @@
++++
+title = 'View the Request Details Diagram'
+solution = 'Data Quality'
++++
+
 # View the Request Details Diagram
 
 A Role Processor can view a visual representation of an active request’s

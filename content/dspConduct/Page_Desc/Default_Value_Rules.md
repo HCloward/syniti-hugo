@@ -1,3 +1,8 @@
++++
+title = 'Default Value Rules'
+solution = 'Data Quality'
++++
+
 # Default Value Rules
 
 <div class="use">

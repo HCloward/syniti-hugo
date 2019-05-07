@@ -1,3 +1,8 @@
++++
+title = 'Set Up a Category from IGC™ in dspConduct™'
+solution = 'Data Quality'
++++
+
 # Set Up a Category from IGC™ in dspConduct™
 
 When a category is created in IGC™ and imported, a Process Designer must

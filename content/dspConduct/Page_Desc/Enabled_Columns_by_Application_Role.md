@@ -1,3 +1,8 @@
++++
+title = 'Enabled Columns by Application Role'
+solution = 'Data Quality'
++++
+
 # Enabled Columns by Application Role
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Business Process Execution During Final Finish'
+solution = 'Data Quality'
++++
+
 # Business Process Execution During Final Finish
 
 If the scenarios in a business process do not have scenario

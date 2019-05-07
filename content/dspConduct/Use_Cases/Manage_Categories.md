@@ -1,3 +1,8 @@
++++
+title = 'Manage Categories'
+solution = 'Data Quality'
++++
+
 # Manage Categories
 
 A category is a collection of governance elements and is created to

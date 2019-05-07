@@ -1,3 +1,8 @@
++++
+title = 'View Tasks Imported from IGC™ in dspConduct™'
+solution = 'Data Quality'
++++
+
 # View Tasks Imported from IGC™ in dspConduct™
 
 After tasks are published in IGC™, they are imported into dspConduct™

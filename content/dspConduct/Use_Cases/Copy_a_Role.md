@@ -1,3 +1,8 @@
++++
+title = 'Copy a Role'
+solution = 'Data Quality'
++++
+
 # Copy a Role
 
 A Designer has the ability to copy a role for the purpose of creating

@@ -1,3 +1,8 @@
++++
+title = 'Create Language-specific Workflow Messages for a Category'
+solution = 'Data Quality'
++++
+
 # Create Language-specific Workflow Messages for a Category
 
 dspConduct™ sends Workflow messages to users as a request moves through

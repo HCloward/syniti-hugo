@@ -1,3 +1,8 @@
++++
+title = 'Role Scenario Request Duration'
+solution = 'Data Quality'
++++
+
 # Role Scenario Request Duration
 
 This chart displays the average duration in days of active requests of

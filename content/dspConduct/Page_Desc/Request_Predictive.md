@@ -1,3 +1,8 @@
++++
+title = 'Request Predictive'
+solution = 'Data Quality'
++++
+
 # Request Predictive
 
 This chart displays an estimate of when a request will be completed

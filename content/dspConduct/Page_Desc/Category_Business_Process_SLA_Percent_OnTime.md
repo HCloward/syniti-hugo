@@ -1,3 +1,8 @@
++++
+title = 'Category, Business Process SLA Percent On Time'
+solution = 'Data Quality'
++++
+
 # Category, Business Process SLA Percent On Time
 
 When a request is submitted, a due date for each of the request’s roles

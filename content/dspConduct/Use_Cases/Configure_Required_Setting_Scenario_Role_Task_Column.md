@@ -1,3 +1,8 @@
++++
+title = 'Configure the Required Setting for a Scenario Role Task Column'
+solution = 'Data Quality'
++++
+
 # Configure the Required Setting for a Scenario Role Task Column
 
 For a scenario \> role \> task combination, a Designer can indicate

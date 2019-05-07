@@ -1,3 +1,8 @@
++++
+title = 'Category Import View Configuration'
+solution = 'Data Quality'
++++
+
 # Category Import View Configuration
 
 <div class="use">

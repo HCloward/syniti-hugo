@@ -1,3 +1,8 @@
++++
+title = 'Deactivate a Task for a Scenario Role Combination'
+solution = 'Data Quality'
++++
+
 # Deactivate a Task for a Scenario Role Combination
 
 Certain tasks, while used in the role in other scenarios, might not be

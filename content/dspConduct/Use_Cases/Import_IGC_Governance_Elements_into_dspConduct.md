@@ -1,3 +1,8 @@
++++
+title = 'Import IGC™ Governance Elements into dspConduct™'
+solution = 'Data Quality'
++++
+
 # Import IGC™ Governance Elements into dspConduct™
 
 Business processes built and published in the Information Governance

@@ -1,3 +1,8 @@
++++
+title = 'Activate and Configure Column Variants'
+solution = 'Data Quality'
++++
+
 # Activate and Configure Column Variants
 
 For a scenario \> role \> task combination, a Designer can define

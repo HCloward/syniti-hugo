@@ -1,3 +1,8 @@
++++
+title = 'Generate Element Documents'
+solution = 'Data Quality'
++++
+
 # Generate Element Documents
 
 A Designer can generate a document that contains all the information

@@ -1,3 +1,8 @@
++++
+title = 'Scenario Role Event'
+solution = 'Data Quality'
++++
+
 # Scenario Role Event
 
 <div class="use">

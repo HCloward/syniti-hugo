@@ -1,3 +1,8 @@
++++
+title = 'Add a Role to a Scenario'
+solution = 'Data Quality'
++++
+
 # Add a Role to a Scenario
 
 The [Scenario (Roles)](../Page_Desc/Scenarios_Roles_H.htm) page allows a

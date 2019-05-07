@@ -1,3 +1,8 @@
++++
+title = 'View Business Value Dashboard'
+solution = 'Data Quality'
++++
+
 # View Business Value Dashboard
 
 The business value dashboard provides charts for analysis of the money

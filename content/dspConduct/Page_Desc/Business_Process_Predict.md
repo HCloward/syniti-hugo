@@ -1,3 +1,8 @@
++++
+title = 'Business Process Predictive'
+solution = 'Data Quality'
++++
+
 # Business Process Predictive
 
 This chart displays overall business process comparison of completion
