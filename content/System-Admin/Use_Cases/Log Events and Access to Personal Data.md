@@ -1,3 +1,8 @@
++++
+title = 'Log Events and Access to Personal Data'
+solution = 'Platform'
++++
+
 # Log Events and Access to Personal Data
 
 The DSP® assists clients with corporate or regulatory compliance by

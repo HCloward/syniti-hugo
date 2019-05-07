@@ -1,3 +1,8 @@
++++
+title = 'Modify Configuration of Data Source Tables'
+solution = 'Platform'
++++
+
 # Modify Configuration of Data Source Tables
 
 Collect stores internal configuration data from the source. This

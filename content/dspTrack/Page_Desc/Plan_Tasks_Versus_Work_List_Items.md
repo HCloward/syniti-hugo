@@ -1,3 +1,8 @@
++++
+title = 'Plan Tasks Versus Work List Items'
+solution = 'Platform'
++++
+
 # Plan Tasks Versus Work List Items
 
 Plan Tasks can be added to a Project and Plan through an

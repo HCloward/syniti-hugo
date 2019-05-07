@@ -1,3 +1,8 @@
++++
+title = 'Parameters – Trace'
+solution = 'Platform'
++++
+
 # Parameters – Trace
 
 <div class="use">

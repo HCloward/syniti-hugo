@@ -1,3 +1,8 @@
++++
+title = 'CTS Configure (Shippable Item Keys)'
+solution = 'Platform'
++++
+
 # CTS Configure (Shippable Item Keys)
 
 <div class="use">

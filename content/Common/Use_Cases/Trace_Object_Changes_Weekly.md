@@ -1,3 +1,8 @@
++++
+title = 'Trace Object Changes Weekly'
+solution = 'Platform'
++++
+
 # Trace Object Changes Weekly
 
 This chart displays a count of all weekly changes for all object types

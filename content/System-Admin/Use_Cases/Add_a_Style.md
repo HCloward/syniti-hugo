@@ -1,3 +1,8 @@
++++
+title = 'Add a Style'
+solution = 'Platform'
++++
+
 # Add a Style
 
 This task is performed by users with System Administrator privileges.

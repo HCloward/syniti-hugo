@@ -1,3 +1,8 @@
++++
+title = 'Set a Language As Active'
+solution = 'Platform'
++++
+
 # Set a Language As Active
 
 Setting a language as active makes it available to use on the *Settings*

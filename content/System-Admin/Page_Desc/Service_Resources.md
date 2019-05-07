@@ -1,3 +1,8 @@
++++
+title = 'Service: Resources'
+solution = 'Platform'
++++
+
 # Service: Resources
 
 This chart displays a copy of the *[Resources](Resources.htm)* page,

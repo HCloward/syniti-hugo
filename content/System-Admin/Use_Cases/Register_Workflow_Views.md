@@ -1,3 +1,8 @@
++++
+title = 'Register Workflow Views'
+solution = 'Platform'
++++
+
 # Register Workflow Views
 
 Once the view is created, the view must be registered in the platform.

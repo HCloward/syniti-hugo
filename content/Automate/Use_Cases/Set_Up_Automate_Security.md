@@ -1,3 +1,8 @@
++++
+title = 'Set Up Automate Security'
+solution = 'Platform'
++++
+
 # Set Up Automate Security
 
 Setting up security in Automate is a multi-step process. Users are

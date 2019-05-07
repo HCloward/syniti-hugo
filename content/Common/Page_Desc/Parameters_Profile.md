@@ -1,3 +1,8 @@
++++
+title = 'Parameters – Profile'
+solution = 'Platform'
++++
+
 # Parameters – Profile
 
 <div class="use">

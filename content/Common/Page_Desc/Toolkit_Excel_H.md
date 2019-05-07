@@ -1,3 +1,8 @@
++++
+title = 'Toolkit: Excel H'
+solution = 'Platform'
++++
+
 # Toolkit: Excel H
 
 [Toolkit: Excel V](#Toolkit_Excel_V)

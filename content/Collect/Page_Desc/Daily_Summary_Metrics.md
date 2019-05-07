@@ -1,3 +1,8 @@
++++
+title = 'Daily Summary Metrics'
+solution = 'Platform'
++++
+
 # Daily Summary Metrics
 
 <div class="use">

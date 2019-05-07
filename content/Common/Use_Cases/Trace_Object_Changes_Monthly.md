@@ -1,3 +1,8 @@
++++
+title = 'Trace Object Changes Monthly'
+solution = 'Platform'
++++
+
 # Trace Object Changes Monthly
 
 This chart displays a monthly count of all changes for all object types

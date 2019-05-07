@@ -1,3 +1,8 @@
++++
+title = 'Profile Data Source'
+solution = 'Platform'
++++
+
 # Profile Data Source
 
 Common provides a quick and easy method to perform an assessment of data

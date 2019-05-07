@@ -1,3 +1,8 @@
++++
+title = 'Work Day'
+solution = 'Platform'
++++
+
 # Work Day
 
 <div class="use">

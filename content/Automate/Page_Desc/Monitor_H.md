@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # <span id="MonitorH"></span> Monitor H
 
 [Monitor V](#MonitorV)

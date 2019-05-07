@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # Reset a User's Password
 
 A user may occasionally need a password to be reset. An Administrator

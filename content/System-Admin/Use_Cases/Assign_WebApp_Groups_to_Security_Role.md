@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # <span style="font-family: Arial, sans-serif;">Assign WebApp Groups to Security Role</span>
 
 Once the role is created, assign WebApp groups to the role. WebApp

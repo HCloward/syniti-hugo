@@ -1,3 +1,8 @@
++++
+title = 'Duration Warning List'
+solution = 'Platform'
++++
+
 # Duration Warning List
 
 <div class="use">

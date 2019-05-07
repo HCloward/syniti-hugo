@@ -1,3 +1,8 @@
++++
+title = 'Add a Column to an Index'
+solution = 'Platform'
++++
+
 # Add a Column to an Index
 
 While adding an index, an Administrator adds at least one searchable

@@ -1,3 +1,8 @@
++++
+title = 'Set Up Security for dspTrack™'
+solution = 'Platform'
++++
+
 # Set Up Security for dspTrack™
 
 Security for dspTrack™ is set in System Administration, where users are

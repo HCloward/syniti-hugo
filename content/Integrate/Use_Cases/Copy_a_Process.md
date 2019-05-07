@@ -1,3 +1,8 @@
++++
+title = 'Copy a Process'
+solution = 'Platform'
++++
+
 # Copy a Process
 
 Use an existing process as the basis for a new process.

@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # Add a System Type Model Group
 
 Groups are logical groupings of tables, such as Customer or Vendor.

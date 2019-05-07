@@ -1,3 +1,8 @@
++++
+title = 'Tasks on the Critical Path'
+solution = 'Platform'
++++
+
 # Tasks on the Critical Path
 
 Schedule status calculations take the critical path into account. If a

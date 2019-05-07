@@ -1,3 +1,8 @@
++++
+title = 'Create a Secure Key'
+solution = 'Platform'
++++
+
 # Create a Secure Key
 
 To create a secure key:

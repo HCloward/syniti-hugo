@@ -1,3 +1,8 @@
++++
+title = 'View Table Metrics'
+solution = 'Platform'
++++
+
 # View Table Metrics
 
 Before performing this task:

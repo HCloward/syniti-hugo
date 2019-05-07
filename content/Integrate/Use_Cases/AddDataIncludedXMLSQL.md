@@ -1,3 +1,8 @@
++++
+title = 'Add Data to be Included in the XML file in SQL'
+solution = 'Platform'
++++
+
 # Add Data to be Included in the XML file in SQL
 
 <span id="Create and Transfer XML files Steps" class="popUpLink">Review

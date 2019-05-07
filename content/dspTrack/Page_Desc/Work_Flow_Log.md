@@ -1,3 +1,8 @@
++++
+title = 'Workflow Log'
+solution = 'Platform'
++++
+
 # Workflow Log
 
 <div class="use">

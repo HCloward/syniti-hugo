@@ -1,3 +1,8 @@
++++
+title = 'Record a GUI Script'
+solution = 'Platform'
++++
+
 # Record a GUI Script
 
 <span id="Post Data using a GUI Script Steps" class="popUpLink">\>Review

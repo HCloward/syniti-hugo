@@ -1,3 +1,8 @@
++++
+title = 'System Types Model Build Views'
+solution = 'Platform'
++++
+
 # System Types Model Build Views
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Import a BDC Script From a File'
+solution = 'Platform'
++++
+
 # Import a BDC Script From a File
 
 <span id="Post Data using a BDC Script Steps" class="popUpLink">\>Review

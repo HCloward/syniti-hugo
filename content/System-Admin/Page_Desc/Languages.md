@@ -1,3 +1,8 @@
++++
+title = 'Languages'
+solution = 'Platform'
++++
+
 # Languages
 
 <div class="use">

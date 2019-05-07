@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # <span id="InterfaceValidationsH"></span> Interface Validations H
 
 [Interface Validations V](#InterfaceValidationsV)

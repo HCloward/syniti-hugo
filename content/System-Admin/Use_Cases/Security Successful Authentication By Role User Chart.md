@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # Security: Successful Authentications By Role Chart
 
 This chart displays how many users logged in to the DSP site with each

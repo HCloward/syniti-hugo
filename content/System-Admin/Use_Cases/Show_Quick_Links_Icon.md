@@ -1,3 +1,8 @@
++++
+title = 'Show Quick Links Icon'
+solution = 'Platform'
++++
+
 # Show Quick Links Icon
 
 To manage and navigate to quick links, the quick links feature must be

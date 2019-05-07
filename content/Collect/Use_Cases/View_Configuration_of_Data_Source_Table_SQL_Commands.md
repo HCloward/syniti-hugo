@@ -1,3 +1,8 @@
++++
+title = 'View Configuration of Data Source Table SQL Commands'
+solution = 'Platform'
++++
+
 # View Configuration of Data Source Table SQL Commands
 
 Data Source tables SQL commands can be viewed from Collect. The SQL

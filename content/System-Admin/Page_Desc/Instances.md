@@ -1,3 +1,8 @@
++++
+title = 'Instances'
+solution = 'Platform'
++++
+
 # Instances
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Delete a Calendar'
+solution = 'Platform'
++++
+
 # Delete a Calendar
 
 To delete a calendar:

@@ -1,3 +1,8 @@
++++
+title = 'File Modification Types'
+solution = 'Platform'
++++
+
 # File Modification Types
 
 <div class="use">

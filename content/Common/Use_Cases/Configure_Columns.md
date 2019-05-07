@@ -1,3 +1,8 @@
++++
+title = 'Configure Columns'
+solution = 'Platform'
++++
+
 # Configure Columns
 
 Once the object is registered in Common, the way in which columns

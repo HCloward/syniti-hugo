@@ -1,3 +1,8 @@
++++
+title = 'System Types Table Statics'
+solution = 'Platform'
++++
+
 # System Types Table Statics
 
 <div class="use">

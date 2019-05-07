@@ -1,3 +1,8 @@
++++
+title = 'Hide/Show Quick Links'
+solution = 'Platform'
++++
+
 # Hide/Show Quick Links
 
 Quick links can be easily hidden or displayed on the *Quick Links* page.

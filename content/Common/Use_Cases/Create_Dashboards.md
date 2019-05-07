@@ -1,3 +1,8 @@
++++
+title = 'Create Dashboards'
+solution = 'Platform'
++++
+
 # Create Dashboards
 
 The Dashboard feature allows users to create custom dashboards that

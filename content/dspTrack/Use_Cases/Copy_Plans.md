@@ -1,3 +1,8 @@
++++
+title = 'Copy Plans'
+solution = 'Platform'
++++
+
 # Copy Plans
 
 When a user copies a plan, all of the following items can also be

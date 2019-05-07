@@ -1,3 +1,8 @@
++++
+title = 'CTS Configure (SQL Object Relationships)'
+solution = 'Platform'
++++
+
 # CTS Configure (SQL Object Relationships)
 
 <div class="use">

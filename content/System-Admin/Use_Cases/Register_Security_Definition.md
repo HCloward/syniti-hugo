@@ -1,3 +1,8 @@
++++
+title = 'Register Security Definition'
+solution = 'Platform'
++++
+
 # Register Security Definition
 
 **NOTE:** This section only applies to custom components and the three

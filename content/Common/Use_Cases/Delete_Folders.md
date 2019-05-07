@@ -1,3 +1,8 @@
++++
+title = 'Delete Folders'
+solution = 'Platform'
++++
+
 # Delete Folders
 
 A folder and all its content can be deleted. **WARNING:** This action

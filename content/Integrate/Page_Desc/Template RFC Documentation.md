@@ -1,3 +1,8 @@
++++
+title = 'Template RFC Documentation'
+solution = 'Platform'
++++
+
 # Template RFC Documentation
 
 <div class="use">

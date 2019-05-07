@@ -1,3 +1,8 @@
++++
+title = 'Automation Engine'
+solution = 'Platform'
++++
+
 # Automation Engine
 
 The Automation Engine allows for the programmatic creating and

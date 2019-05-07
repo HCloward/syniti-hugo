@@ -1,3 +1,8 @@
++++
+title = 'Customize Quick Links'
+solution = 'Platform'
++++
+
 # Customize Quick Links
 
 To customize quick links:

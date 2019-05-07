@@ -1,3 +1,8 @@
++++
+title = 'Verify the Data was Posted in SAP for the BAPI'
+solution = 'Platform'
++++
+
 # Verify the Data was Posted in SAP for the BAPI
 
 <span id="Post Data using a BAPI Steps" class="popUpLink">\>Review the

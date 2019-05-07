@@ -1,3 +1,8 @@
++++
+title = 'Upload and Download Files for a Plan Task'
+solution = 'Platform'
++++
+
 # Upload and Download Files for a Plan Task
 
 Refer to [Upload](UpldFilesfoProjTaskWrkListItem.htm) and

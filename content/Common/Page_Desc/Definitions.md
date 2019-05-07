@@ -1,3 +1,8 @@
++++
+title = 'Definitions'
+solution = 'Platform'
++++
+
 # Definitions
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'History'
+solution = 'Platform'
++++
+
 # History
 
 <div class="use">

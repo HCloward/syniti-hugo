@@ -1,3 +1,8 @@
++++
+title = 'Add Comment Codes'
+solution = 'Platform'
++++
+
 # Add Comment Codes
 
 An administrative user can add comment codes.

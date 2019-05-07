@@ -1,3 +1,8 @@
++++
+title = 'Resources'
+solution = 'Platform'
++++
+
 # Resources
 
 <div class="use">

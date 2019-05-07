@@ -1,3 +1,8 @@
++++
+title = 'Workflow (Email)'
+solution = 'Platform'
++++
+
 # Workflow (Email)
 
 <div class="use">

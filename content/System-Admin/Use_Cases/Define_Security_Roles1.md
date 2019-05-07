@@ -1,3 +1,8 @@
++++
+title = 'Define Security Roles'
+solution = 'Platform'
++++
+
 # Define Security Roles
 
 Security roles drive user security. It is at the role level that values

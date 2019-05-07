@@ -1,3 +1,8 @@
++++
+title = 'Encrypt Password for CranSoft Data Source'
+solution = 'Platform'
++++
+
 # Encrypt Password for CranSoft Data Source
 
 To enable encryption for a component, the CranSoft Data Source password

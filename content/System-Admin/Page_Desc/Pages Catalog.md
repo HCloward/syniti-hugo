@@ -1,3 +1,8 @@
++++
+title = 'Pages Catalog'
+solution = 'Platform'
++++
+
 # Pages Catalog
 
 <div class="use">

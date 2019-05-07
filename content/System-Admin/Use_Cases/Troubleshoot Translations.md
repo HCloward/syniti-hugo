@@ -1,3 +1,8 @@
++++
+title = 'Troubleshoot Translations'
+solution = 'Platform'
++++
+
 # Troubleshoot Translations
 
 If translations have been added to a catalog, but they are not

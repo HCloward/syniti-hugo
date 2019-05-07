@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # <span id="top"></span>System Types Table Fields H
 
 [System Types Table Fields V](#SystemTypesV)

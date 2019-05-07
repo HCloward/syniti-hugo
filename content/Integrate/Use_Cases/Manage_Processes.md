@@ -1,3 +1,8 @@
++++
+title = 'Manage Processes'
+solution = 'Platform'
++++
+
 # Manage Processes
 
 Regardless of the template type a process is based on, many functions

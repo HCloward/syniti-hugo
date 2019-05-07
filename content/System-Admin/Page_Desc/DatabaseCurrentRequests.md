@@ -1,3 +1,8 @@
++++
+title = 'Database: Current Requests'
+solution = 'Platform'
++++
+
 # Database: Current Requests
 
 <div class="use">

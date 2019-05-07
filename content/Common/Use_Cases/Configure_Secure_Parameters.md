@@ -1,3 +1,8 @@
++++
+title = 'Configure Secure Parameters'
+solution = 'Platform'
++++
+
 # Configure Secure Parameters
 
 Parameters are Secure-specific settings that must be configured per

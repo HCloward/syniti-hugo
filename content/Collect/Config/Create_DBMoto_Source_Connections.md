@@ -1,3 +1,8 @@
++++
+title = 'Create DBMoto® Source Connections'
+solution = 'Platform'
++++
+
 # Create DBMoto® Source Connections
 
 If using DBMoto® and downloading (replicating) data from a database

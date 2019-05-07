@@ -1,3 +1,8 @@
++++
+title = 'Setup and Configuration for Common'
+solution = 'Platform'
++++
+
 # Setup and Configuration for Common
 
 Before getting started with Common, verify the following steps have been

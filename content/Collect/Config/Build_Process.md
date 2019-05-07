@@ -1,3 +1,8 @@
++++
+title = 'Build Process'
+solution = 'Platform'
++++
+
 # Build Process
 
 The following is a high-level overview of how Collect builds packages

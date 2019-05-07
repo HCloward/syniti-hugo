@@ -1,3 +1,8 @@
++++
+title = 'Elements and Attributes'
+solution = 'Platform'
++++
+
 # Elements and Attributes
 
 If the user selects **Element** in the **ELEMENT ATTRIBUTE** list box on

@@ -1,3 +1,8 @@
++++
+title = 'Import System Types Using Collect'
+solution = 'Platform'
++++
+
 # Import System Types Using Collect
 
 If you do not have access to a System Type model or a data dictionary

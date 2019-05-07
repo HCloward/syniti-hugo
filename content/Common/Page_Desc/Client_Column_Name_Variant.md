@@ -1,3 +1,8 @@
++++
+title = 'Client Column Name Variant'
+solution = 'Platform'
++++
+
 # Client Column Name Variant
 
 <div class="use">

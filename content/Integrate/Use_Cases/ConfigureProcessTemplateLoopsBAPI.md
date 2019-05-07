@@ -1,3 +1,8 @@
++++
+title = 'Configure Process Template Loops for a BAPI Template'
+solution = 'Platform'
++++
+
 # Configure Process Template Loops for a BAPI Template
 
 <span id="Post Data using a BAPI Steps" class="popUpLink">\>Review the

@@ -1,3 +1,8 @@
++++
+title = 'Register and Use Targets'
+solution = 'Platform'
++++
+
 # Register and Use Targets
 
 Targets are destination databases where tables are refreshed with source

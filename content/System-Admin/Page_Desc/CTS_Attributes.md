@@ -1,3 +1,8 @@
++++
+title = 'CTS Attributes'
+solution = 'Platform'
++++
+
 # CTS Attributes
 
 <div class="use">

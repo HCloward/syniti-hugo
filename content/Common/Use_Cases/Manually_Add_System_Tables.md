@@ -1,3 +1,8 @@
++++
+title = 'Manually Add System Type Tables'
+solution = 'Platform'
++++
+
 # Manually Add System Type Tables
 
 Manually add system tables for a System Type that cannot be imported.

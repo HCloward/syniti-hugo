@@ -1,3 +1,8 @@
++++
+title = 'Monitor Interfaces & Events'
+solution = 'Platform'
++++
+
 # Monitor Interfaces & Events
 
 The [Monitor](../Page_Desc/Monitor_H.htm) page displays and permits

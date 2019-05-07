@@ -1,3 +1,8 @@
++++
+title = 'Register Table Rules'
+solution = 'Platform'
++++
+
 # Register Table Rules
 
 Before performing this task:

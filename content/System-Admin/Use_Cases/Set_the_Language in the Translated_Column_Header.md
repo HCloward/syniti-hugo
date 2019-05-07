@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # Set the Language for the Translated Column Name Header in the Excel Template
 
 The translated column name heading row and the help text row in the

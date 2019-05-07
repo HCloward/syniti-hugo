@@ -1,3 +1,8 @@
++++
+title = 'Hide Columns on a Page’s Filter View'
+solution = 'Platform'
++++
+
 # Hide Columns on a Page’s Filter View
 
 When a user clicks the Page Settings icon (the small gear labeled with

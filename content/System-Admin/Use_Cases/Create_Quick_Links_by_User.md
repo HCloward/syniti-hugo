@@ -1,3 +1,8 @@
++++
+title = 'Create Quick Links by User'
+solution = 'Platform'
++++
+
 # Create Quick Links by User
 
 A user, typically a manager, can create a quick link for another user.

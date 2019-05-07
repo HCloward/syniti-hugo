@@ -1,3 +1,8 @@
++++
+title = 'System Types Joins'
+solution = 'Platform'
++++
+
 # System Types Joins
 
 <div class="use">

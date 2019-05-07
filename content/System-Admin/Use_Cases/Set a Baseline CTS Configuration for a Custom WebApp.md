@@ -1,3 +1,8 @@
++++
+title = 'Set a Baseline CTS Configuration for a Custom WebApp'
+solution = 'Platform'
++++
+
 # Set a Baseline CTS Configuration for a Custom WebApp
 
 The CTS Configuration pages contain the settings used by the CTS process

@@ -1,3 +1,8 @@
++++
+title = 'Data Source Types'
+solution = 'Platform'
++++
+
 # Data Source Types
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Register Work List Event Validations for a Plan Task'
+solution = 'Platform'
++++
+
 # Register Work List Event Validations for a Plan Task
 
 Validations registered at the Plan Task level execute for the selected

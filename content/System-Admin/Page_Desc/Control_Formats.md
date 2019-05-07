@@ -1,3 +1,8 @@
++++
+title = 'Control (Formats)'
+solution = 'Platform'
++++
+
 # Control (Formats)
 
 <div class="use">

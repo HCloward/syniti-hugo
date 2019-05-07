@@ -1,3 +1,8 @@
++++
+title = 'View Messages'
+solution = 'Platform'
++++
+
 # View Messages
 
 If a notification is configured for a user, messages display in the

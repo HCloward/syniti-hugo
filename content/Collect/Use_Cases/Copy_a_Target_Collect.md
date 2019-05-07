@@ -1,3 +1,8 @@
++++
+title = 'Copy a Target'
+solution = 'Platform'
++++
+
 # Copy a Target
 
 The Copy Target functionality copies all sources, tables, rules and

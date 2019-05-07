@@ -1,3 +1,8 @@
++++
+title = 'Test Interfaces'
+solution = 'Platform'
++++
+
 # Test Interfaces
 
 Once an interface has been created and configured, test it to make sure

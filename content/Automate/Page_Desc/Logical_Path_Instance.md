@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # <span id="LogicalPathInstanceH"></span> Logical Path (Instance) H
 
 [Logical Path (Instance) V](#LogicalPathInstanceV)

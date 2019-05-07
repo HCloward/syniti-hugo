@@ -1,3 +1,8 @@
++++
+title = 'Connection Type Data Conversion H'
+solution = 'Platform'
++++
+
 # Connection Type Data Conversion H
 
 [Connection Type Data Conversion V](#Connection_Type_Data1)

@@ -1,3 +1,8 @@
++++
+title = 'Parameters - User Management'
+solution = 'Platform'
++++
+
 # Parameters - User Management
 
 <div class="use">

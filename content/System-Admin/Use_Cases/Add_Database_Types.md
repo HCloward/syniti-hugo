@@ -1,3 +1,8 @@
++++
+title = 'Add Database Types'
+solution = 'Platform'
++++
+
 # Add Database Types
 
 A system administrator can add database types .

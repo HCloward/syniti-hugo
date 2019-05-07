@@ -1,3 +1,8 @@
++++
+title = 'Create Schedules'
+solution = 'Platform'
++++
+
 # Create Schedules
 
 Schedules added in Common can be used across all dspMigrate™ components

@@ -1,3 +1,8 @@
++++
+title = 'Monitor H'
+solution = 'Platform'
++++
+
 # Monitor H
 
 [Monitor V](#Monitor_V)

@@ -1,3 +1,8 @@
++++
+title = 'Event Types'
+solution = 'Platform'
++++
+
 # Event Types
 
 <div class="use">

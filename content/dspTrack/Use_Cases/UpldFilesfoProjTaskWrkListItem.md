@@ -1,3 +1,8 @@
++++
+title = 'Upload Files for a Plan, Task or Work List Item'
+solution = 'Platform'
++++
+
 # Upload Files for a Plan, Task or Work List Item
 
 Files of any type, such as .xlsx, .txt or .html, can be uploaded for a

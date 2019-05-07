@@ -1,3 +1,8 @@
++++
+title = 'About Automate Events'
+solution = 'Platform'
++++
+
 # About Automate Events
 
 Automate is delivered with several events, which are actions that

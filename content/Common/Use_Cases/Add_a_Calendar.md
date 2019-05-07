@@ -1,3 +1,8 @@
++++
+title = 'Add a Calendar'
+solution = 'Platform'
++++
+
 # Add a Calendar
 
 In dspTrack™, calendars are used to schedule status calculations. Refer

@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # Build Views based on a System Type Model
 
 Before importing a System Type from a System Type Model, the required

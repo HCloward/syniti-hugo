@@ -1,3 +1,8 @@
++++
+title = 'Set up Table Download with a CranPort Package'
+solution = 'Platform'
++++
+
 # Set up Table Download with a CranPort Package
 
 A CranPort package is the method to import data from and to export data

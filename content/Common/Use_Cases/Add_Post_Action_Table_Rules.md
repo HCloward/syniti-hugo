@@ -1,3 +1,8 @@
++++
+title = 'Add Post Action Table Rules'
+solution = 'Platform'
++++
+
 # Add Post Action Table Rules
 
 Post action rules are applied to tables after they are downloaded from

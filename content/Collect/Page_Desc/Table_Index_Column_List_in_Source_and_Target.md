@@ -1,3 +1,8 @@
++++
+title = 'Table Index Column List in Source and Target'
+solution = 'Platform'
++++
+
 # Table Index Column List in Source and Target
 
 <div class="use">

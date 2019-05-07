@@ -1,3 +1,8 @@
++++
+title = 'Post File Logs'
+solution = 'Platform'
++++
+
 # Post File Logs
 
 <div class="use">

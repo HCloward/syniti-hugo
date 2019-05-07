@@ -1,3 +1,8 @@
++++
+title = 'Message Types H'
+solution = 'Platform'
++++
+
 # Message Types H
 
 [Message Types V](#Message)

@@ -1,3 +1,8 @@
++++
+title = 'Log Types'
+solution = 'Platform'
++++
+
 # Log Types
 
 <div class="use">

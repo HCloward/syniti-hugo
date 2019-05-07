@@ -1,3 +1,8 @@
++++
+title = 'Copy: Automation Instruction Task'
+solution = 'Platform'
++++
+
 # Copy: Automation Instruction Task
 
 <div class="use">

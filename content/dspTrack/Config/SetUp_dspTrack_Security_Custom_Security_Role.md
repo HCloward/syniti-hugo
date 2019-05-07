@@ -1,3 +1,8 @@
++++
+title = 'Set Up dspTrack™ Security for Custom Security Roles'
+solution = 'Platform'
++++
+
 # Set Up dspTrack™ Security for Custom Security Roles
 
 To set up security for dspTrack™ for security roles not delivered, an

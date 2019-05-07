@@ -1,3 +1,8 @@
++++
+title = 'Activate the Process'
+solution = 'Platform'
++++
+
 # Activate the Process
 
 A Custom template allows a user to create a mechanism for posting to any

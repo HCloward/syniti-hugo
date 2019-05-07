@@ -1,3 +1,8 @@
++++
+title = 'Verify the Tables and Views were Created in SQL by the Auto Generate Process for a BAPI'
+solution = 'Platform'
++++
+
 # Verify the Tables and Views were Created in SQL by the Auto Generate Process for a BAPI
 
 <span id="Post Data using a BAPI Steps" class="popUpLink">\>Review the

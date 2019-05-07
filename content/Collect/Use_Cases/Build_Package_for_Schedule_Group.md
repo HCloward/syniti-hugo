@@ -1,3 +1,8 @@
++++
+title = 'Build Package for Schedule Group'
+solution = 'Platform'
++++
+
 # Build Package for Schedule Group
 
 To build a package for a schedule group:

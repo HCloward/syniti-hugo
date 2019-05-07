@@ -1,3 +1,8 @@
++++
+title = 'Establish a Connection via a Message Server'
+solution = 'Platform'
++++
+
 # Establish a Connection via a Message Server
 
 Connecting to a target system  via a Message Server uses load balancing

@@ -1,3 +1,8 @@
++++
+title = 'Import and Export Phrase Files'
+solution = 'Platform'
++++
+
 # Import and Export Phrase Files
 
 Phrase files can be imported or exported at the WebApp catalog level.

@@ -1,3 +1,8 @@
++++
+title = 'Event Rules All'
+solution = 'Platform'
++++
+
 # Event Rules All
 
 <div class="use">

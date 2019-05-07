@@ -1,3 +1,8 @@
++++
+title = 'Security Definition Page Column Bindings'
+solution = 'Platform'
++++
+
 # Security Definition Page Column Bindings
 
 <div class="use">

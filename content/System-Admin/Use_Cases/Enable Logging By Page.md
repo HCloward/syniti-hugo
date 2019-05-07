@@ -1,3 +1,8 @@
++++
+title = 'Enable Logging By Page'
+solution = 'Platform'
++++
+
 # Enable Logging By Page
 
 <div class="use">

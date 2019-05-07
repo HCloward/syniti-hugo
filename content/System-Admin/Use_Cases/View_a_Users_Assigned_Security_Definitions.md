@@ -1,3 +1,8 @@
++++
+title = 'View a User’s Assigned Security Definitions'
+solution = 'Platform'
++++
+
 # View a User’s Assigned Security Definitions
 
 A user has access to the data associated with a security definition’s

@@ -1,3 +1,8 @@
++++
+title = 'View Logs'
+solution = 'Platform'
++++
+
 # View Logs
 
 When logging is enabled, the DSP tracks every page event and every time

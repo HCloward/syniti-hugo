@@ -1,3 +1,8 @@
++++
+title = 'Archive Log'
+solution = 'Platform'
++++
+
 # Archive Log
 
 <div class="use">

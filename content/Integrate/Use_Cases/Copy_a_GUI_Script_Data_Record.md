@@ -1,3 +1,8 @@
++++
+title = 'Copy a GUI Script Data Record'
+solution = 'Platform'
++++
+
 # Copy a GUI Script Data Record
 
 <span id="Post Data using a GUI Script Steps" class="popUpLink">\>Review

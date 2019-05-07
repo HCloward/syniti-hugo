@@ -1,3 +1,8 @@
++++
+title = 'Service: Average Job Wait Time (Past Hours)'
+solution = 'Platform'
++++
+
 # Service: Average Job Wait Time (Past Hours)
 
 This chart displays the average time, in seconds, a job has been

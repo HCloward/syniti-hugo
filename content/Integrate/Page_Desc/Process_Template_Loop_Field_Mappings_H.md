@@ -1,3 +1,8 @@
++++
+title = 'Process Template Loop Field Mappings H'
+solution = 'Platform'
++++
+
 # Process Template Loop Field Mappings H
 
 [Process Template Loop Field Mappings V](#Process_Template_Loop1)

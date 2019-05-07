@@ -1,3 +1,8 @@
++++
+title = 'Tasks Due Next Week'
+solution = 'Platform'
++++
+
 # Tasks Due Next Week
 
 <div class="use">

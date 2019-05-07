@@ -1,3 +1,8 @@
++++
+title = 'Help with Command Timeouts'
+solution = 'Platform'
++++
+
 # Help with Command Timeouts
 
 Command timeouts are possible in all areas of the DSP. If interfaces,

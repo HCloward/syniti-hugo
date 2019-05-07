@@ -1,3 +1,8 @@
++++
+title = 'View Tags and Tag Types'
+solution = 'Platform'
++++
+
 # View Tags and Tag Types
 
 Tag Types are delivered with the Platform and cannot be edited. No new

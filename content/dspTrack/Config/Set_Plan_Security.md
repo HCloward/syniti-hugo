@@ -1,3 +1,8 @@
++++
+title = 'Set Plan Security'
+solution = 'Platform'
++++
+
 # Set Plan Security
 
 User security can also be set at the plan level to assign a user

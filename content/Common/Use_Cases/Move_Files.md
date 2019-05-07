@@ -1,3 +1,8 @@
++++
+title = 'Move Files'
+solution = 'Platform'
++++
+
 # Move Files
 
 A file can be moved from one directory to another. This process renames

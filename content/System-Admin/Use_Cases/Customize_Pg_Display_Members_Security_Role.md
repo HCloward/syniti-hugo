@@ -1,3 +1,8 @@
++++
+title = 'Customize the Page to Display for Members of a Security Role'
+solution = 'Platform'
++++
+
 # Customize the Page to Display for Members of a Security Role
 
 To customize a page by assigning an individual role:

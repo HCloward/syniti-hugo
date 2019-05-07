@@ -1,3 +1,8 @@
++++
+title = 'DSP® Pages Delivered with Bulk Execution Enabled'
+solution = 'Platform'
++++
+
 # DSP® Pages Delivered with Bulk Execution Enabled
 
 The following DSP® pages are delivered with Bulk Execution enabled:

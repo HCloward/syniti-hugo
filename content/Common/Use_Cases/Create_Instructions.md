@@ -1,3 +1,8 @@
++++
+title = 'Create Instructions'
+solution = 'Platform'
++++
+
 # Create Instructions
 
 An *instruction* is a single unit of work to be performed by the engine.

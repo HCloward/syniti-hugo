@@ -1,3 +1,8 @@
++++
+title = 'Configure Logging Severities'
+solution = 'Platform'
++++
+
 # Configure Logging Severities
 
 Logging allows users to examine how an interface was executed and why it

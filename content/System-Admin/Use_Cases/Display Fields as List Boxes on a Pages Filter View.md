@@ -1,3 +1,8 @@
++++
+title = 'Display Fields as List Boxes on a Page’s Filter View'
+solution = 'Platform'
++++
+
 # Display Fields as List Boxes on a Page’s Filter View
 
 To limit the filter options for a field to a list of values, set that

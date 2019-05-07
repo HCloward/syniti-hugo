@@ -1,3 +1,8 @@
++++
+title = 'Target Source Weekly Metric Chart'
+solution = 'Platform'
++++
+
 # Target Source Weekly Metric Chart
 
 This chart displays the number of records in the selected source that

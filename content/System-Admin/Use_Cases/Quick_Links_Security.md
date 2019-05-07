@@ -1,3 +1,8 @@
++++
+title = 'Quick Link Security'
+solution = 'Platform'
++++
+
 # Quick Link Security
 
 In order for a quick link to be created, the following criteria must be

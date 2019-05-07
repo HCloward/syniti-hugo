@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 ## DSP® Pages Delivered with Excel Integration Enabled
 
 The following DSP® pages are delivered with Excel Integration enabled:

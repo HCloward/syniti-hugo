@@ -1,3 +1,8 @@
++++
+title = 'Unlock User Accounts'
+solution = 'Platform'
++++
+
 # Unlock User Accounts
 
 A user account becomes locked after:

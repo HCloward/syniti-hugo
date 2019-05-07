@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # <span id="InterfaceEventValidationsH"></span> Interface Event (Validations) H
 
 [Interface Event (Validations) V](#InterfaceEventValidationsV)

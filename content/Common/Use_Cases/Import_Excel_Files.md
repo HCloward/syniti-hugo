@@ -1,3 +1,8 @@
++++
+title = 'Import Excel Files'
+solution = 'Platform'
++++
+
 # Import Excel Files
 
 When the Excel Import Adapter is used to import Excel files, the

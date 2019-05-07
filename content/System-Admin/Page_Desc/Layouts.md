@@ -1,3 +1,8 @@
++++
+title = 'Layouts'
+solution = 'Platform'
++++
+
 # Layouts
 
 <div class="use">

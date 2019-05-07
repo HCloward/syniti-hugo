@@ -1,3 +1,8 @@
++++
+title = 'Manage SAP Text List'
+solution = 'Platform'
++++
+
 # Manage SAP Text List
 
 SAP Text tables must be registered in Collect in order for text tables

@@ -1,3 +1,8 @@
++++
+title = 'Download and View Uploaded Files for a Plan, Task, or Work List Item'
+solution = 'Platform'
++++
+
 # Download and View Uploaded Files for a Plan, Task, or Work List Item
 
 Once files have been uploaded, they can be downloaded and viewed from

@@ -1,3 +1,8 @@
++++
+title = 'View Logs'
+solution = 'Platform'
++++
+
 # View Logs
 
 This section contains the following topics:

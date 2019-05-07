@@ -1,3 +1,8 @@
++++
+title = 'Create Categories'
+solution = 'Platform'
++++
+
 # Create Categories
 
 A category is a grouping of templates and processes and is used for

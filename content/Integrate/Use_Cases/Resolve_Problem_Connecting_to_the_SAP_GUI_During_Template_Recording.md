@@ -1,3 +1,8 @@
++++
+title = 'Resolve Problem Connecting to the SAP GUI During Template Recording'
+solution = 'Platform'
++++
+
 # Resolve Problem Connecting to the SAP GUI During Template Recording
 
 If an error message displays while recording a template (such as “There

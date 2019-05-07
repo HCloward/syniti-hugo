@@ -1,3 +1,8 @@
++++
+title = 'View Trace Dashboard: Object Summary'
+solution = 'Platform'
++++
+
 # View Trace Dashboard: Object Summary
 
 The summary chart displays the count of all object types in the data

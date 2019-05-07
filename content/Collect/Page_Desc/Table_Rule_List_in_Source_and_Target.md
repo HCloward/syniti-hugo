@@ -1,3 +1,8 @@
++++
+title = 'Table Rule List in Source and Target'
+solution = 'Platform'
++++
+
 # Table Rule List in Source and Target
 
 <div class="use">

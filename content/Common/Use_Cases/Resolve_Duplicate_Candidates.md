@@ -1,3 +1,8 @@
++++
+title = 'Resolve Duplicate Candidates'
+solution = 'Platform'
++++
+
 # Resolve Duplicate Candidates
 
 Once duplicate records are identified, which are referred to as

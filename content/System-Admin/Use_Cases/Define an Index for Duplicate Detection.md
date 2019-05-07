@@ -1,3 +1,8 @@
++++
+title = 'Define an Index for Duplicate Detection'
+solution = 'Platform'
++++
+
 # Define an Index for Duplicate Detection
 
 By default, the Duplicate Detection validation rule uses the search

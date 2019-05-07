@@ -1,3 +1,8 @@
++++
+title = 'View Debug Logs'
+solution = 'Platform'
++++
+
 # View Debug Logs
 
 A debug log is available for each component of the DSP®. These logs are

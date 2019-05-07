@@ -1,3 +1,8 @@
++++
+title = 'Target Table Status'
+solution = 'Platform'
++++
+
 # Target Table Status
 
 This chart displays the number of active tables by refresh status for

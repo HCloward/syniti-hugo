@@ -1,3 +1,8 @@
++++
+title = 'Assign an Expiration Date to a User'
+solution = 'Platform'
++++
+
 # Assign an Expiration Date to a User
 
 A Security Administrator performs this task.

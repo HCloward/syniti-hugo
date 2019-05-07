@@ -1,3 +1,8 @@
++++
+title = 'Manage Duplicate Detection'
+solution = 'Platform'
++++
+
 # Manage Duplicate Detection
 
 Duplicate Detection is a validation rule included with the DSP® that

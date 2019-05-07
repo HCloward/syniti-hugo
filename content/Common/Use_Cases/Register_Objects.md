@@ -1,3 +1,8 @@
++++
+title = 'Register Objects'
+solution = 'Platform'
++++
+
 # Register Objects
 
 Objects are views or tables that contain data analyzed for duplication.

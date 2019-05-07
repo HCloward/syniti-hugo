@@ -1,3 +1,8 @@
++++
+title = 'Copy a Template'
+solution = 'Platform'
++++
+
 # Copy a Template
 
 Integrate allows a user to copy an existing template to create a new

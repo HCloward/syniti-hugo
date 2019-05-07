@@ -1,3 +1,8 @@
++++
+title = 'Create an Index'
+solution = 'Platform'
++++
+
 # Create an Index
 
 An Administrator can add index tables to a database for a Microsoft SQL

@@ -1,3 +1,8 @@
++++
+title = 'Work with Plan Tasks'
+solution = 'Platform'
++++
+
 # Work with Plan Tasks
 
 Plan Tasks are imported into dspTrack™ when a project file is imported.

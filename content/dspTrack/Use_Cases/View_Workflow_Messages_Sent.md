@@ -1,3 +1,8 @@
++++
+title = 'View Workflow Messages Sent'
+solution = 'Platform'
++++
+
 # View Workflow Messages Sent
 
 A user can view the workflow messages dspTrack™ has sent by selecting

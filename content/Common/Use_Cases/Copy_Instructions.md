@@ -1,3 +1,8 @@
++++
+title = 'Copy Instructions'
+solution = 'Platform'
++++
+
 # Copy Instructions
 
 An existing instruction can be copied and modified to facilitate adding

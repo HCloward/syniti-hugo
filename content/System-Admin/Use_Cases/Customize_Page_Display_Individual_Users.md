@@ -1,3 +1,8 @@
++++
+title = 'Customize the Page to Display for Individual Users'
+solution = 'Platform'
++++
+
 # Customize the Page to Display for Individual Users
 
 To customize a page by assigning an individual user:

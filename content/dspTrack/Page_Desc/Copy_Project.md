@@ -1,3 +1,8 @@
++++
+title = 'Copy Project'
+solution = 'Platform'
++++
+
 # Copy Project
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'View the Debug Log for dspTrack™'
+solution = 'Platform'
++++
+
 # View the Debug Log for dspTrack™
 
 Errors encountered when importing or exporting data from dspTrack™ are

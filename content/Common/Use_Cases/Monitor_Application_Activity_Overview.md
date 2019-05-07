@@ -1,3 +1,8 @@
++++
+title = 'Monitor Application Activity'
+solution = 'Platform'
++++
+
 # Monitor Application Activity
 
 All application activity is monitored and can be viewed through the

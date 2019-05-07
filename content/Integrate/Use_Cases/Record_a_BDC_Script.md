@@ -1,3 +1,8 @@
++++
+title = 'Record a BDC Script'
+solution = 'Platform'
++++
+
 # Record a BDC Script
 
 <span id="Post Data using a BDC Script Steps" class="popUpLink">\>Review

@@ -1,3 +1,8 @@
++++
+title = 'Create a User Account in Common'
+solution = 'Platform'
++++
+
 # Create a User Account in Common
 
 New users often need to be added to the system. An Administrator creates

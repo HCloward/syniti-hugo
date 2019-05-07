@@ -1,3 +1,8 @@
++++
+title = 'Configure Automate Service Pages'
+solution = 'Platform'
++++
+
 # Configure Automate Service Pages
 
 Automate uses Service pages for background processing. It is recommended

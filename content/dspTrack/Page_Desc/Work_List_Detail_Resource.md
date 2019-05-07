@@ -1,3 +1,8 @@
++++
+title = 'Work List Detail – Resource'
+solution = 'Platform'
++++
+
 # Work List Detail – Resource
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'View Data Source Types and Features'
+solution = 'Platform'
++++
+
 # View Data Source Types and Features
 
 ### Data Source Types

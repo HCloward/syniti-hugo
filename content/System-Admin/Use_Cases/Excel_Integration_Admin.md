@@ -1,3 +1,8 @@
++++
+title = 'Configure Excel Integration Overview'
+solution = 'Platform'
++++
+
 # Configure Excel Integration Overview
 
 Excel Integration allows users to import records from a worksheet in an

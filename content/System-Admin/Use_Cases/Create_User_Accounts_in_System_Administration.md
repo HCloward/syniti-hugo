@@ -1,3 +1,8 @@
++++
+title = 'Create User Accounts in System Administration'
+solution = 'Platform'
++++
+
 # Create User Accounts in System Administration
 
 A user account must be created for each user of the DSP®.

@@ -1,3 +1,8 @@
++++
+title = 'View the Profiling Results'
+solution = 'Platform'
++++
+
 # View the Profiling Results
 
 To view the profiling results:

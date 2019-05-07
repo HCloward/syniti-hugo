@@ -1,3 +1,8 @@
++++
+title = 'Register Work List Event Rules for a Work List Item'
+solution = 'Platform'
++++
+
 # Register Work List Event Rules for a Work List Item
 
 On the *Work List Setup* page, Work List Items and Plan Tasks display. A

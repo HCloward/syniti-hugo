@@ -1,3 +1,8 @@
++++
+title = 'Configure an Index'
+solution = 'Platform'
++++
+
 # Configure an Index
 
 When creating an index, the default search engine index settings serve

@@ -1,3 +1,8 @@
++++
+title = 'Schedule Status Outlook'
+solution = 'Platform'
++++
+
 # Schedule Status Outlook
 
 The Schedule Status Outlook can also affect the schedule status.

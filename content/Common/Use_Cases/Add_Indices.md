@@ -1,3 +1,8 @@
++++
+title = 'Add Indices'
+solution = 'Platform'
++++
+
 # Add Indices
 
 Indices are a way for the database system to find records efficiently.

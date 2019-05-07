@@ -1,3 +1,8 @@
++++
+title = 'Configure Basic Authentication'
+solution = 'Platform'
++++
+
 # Configure Basic Authentication
 
 Basic Authentication is the default configuration for the DSP®, no

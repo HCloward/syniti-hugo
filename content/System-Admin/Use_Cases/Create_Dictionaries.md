@@ -1,3 +1,8 @@
++++
+title = 'Create Dictionaries'
+solution = 'Platform'
++++
+
 # Create Dictionaries
 
 Dictionaries contain words and their synonyms that are used to resolve

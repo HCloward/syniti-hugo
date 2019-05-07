@@ -1,4 +1,9 @@
 +++
+title = 'Add a BackOffice IGC Connector Agent URL in DSP'
+solution = 'Platform'
++++
+
++++
 title = "Add a BackOffice IGC Connector Agent URL in DSP"
 weight = 3
 layout = "single"

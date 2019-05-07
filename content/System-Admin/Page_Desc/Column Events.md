@@ -1,3 +1,8 @@
++++
+title = 'Column Events'
+solution = 'Platform'
++++
+
 # Column Events
 
 A developer can add an event that triggers at the record level when a

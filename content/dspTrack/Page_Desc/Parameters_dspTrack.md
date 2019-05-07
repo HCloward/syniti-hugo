@@ -1,3 +1,8 @@
++++
+title = 'Parameters'
+solution = 'Platform'
++++
+
 # Parameters
 
 <div class="use">

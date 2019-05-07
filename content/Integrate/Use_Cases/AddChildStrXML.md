@@ -1,3 +1,8 @@
++++
+title = 'Add Child Structure'
+solution = 'Platform'
++++
+
 # Add Child Structure
 
 <div class="use">

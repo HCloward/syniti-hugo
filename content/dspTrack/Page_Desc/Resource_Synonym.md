@@ -1,3 +1,8 @@
++++
+title = 'Resource Synonym'
+solution = 'Platform'
++++
+
 # Resource Synonym
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Process Template Connections'
+solution = 'Platform'
++++
+
 # Process Template Connections
 
 <div class="use">

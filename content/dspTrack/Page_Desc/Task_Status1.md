@@ -1,3 +1,8 @@
++++
+title = 'Task Status'
+solution = 'Platform'
++++
+
 # Task Status
 
 When a project file is imported, dspTrack™ sets task status. Refer to

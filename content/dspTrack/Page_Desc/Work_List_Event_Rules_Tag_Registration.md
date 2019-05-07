@@ -1,3 +1,8 @@
++++
+title = 'Work List Event Rules – Tag Registration'
+solution = 'Platform'
++++
+
 # Work List Event Rules – Tag Registration
 
 <div class="use">

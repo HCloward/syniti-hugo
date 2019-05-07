@@ -1,3 +1,8 @@
++++
+title = 'Page Customization'
+solution = 'Platform'
++++
+
 # Page Customization
 
 <div class="use">

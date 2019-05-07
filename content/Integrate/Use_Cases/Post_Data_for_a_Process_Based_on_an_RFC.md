@@ -1,3 +1,8 @@
++++
+title = 'Post Data for a Process Based on an RFC'
+solution = 'Platform'
++++
+
 # Post Data for a Process Based on an RFC
 
 <span id="Post Data using an RFC Steps" class="popUpLink">\>Review the

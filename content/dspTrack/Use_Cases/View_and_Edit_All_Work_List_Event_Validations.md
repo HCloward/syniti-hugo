@@ -1,3 +1,8 @@
++++
+title = 'View and Edit All Event Validations'
+solution = 'Platform'
++++
+
 # View and Edit All Event Validations
 
 dspTrack™ displays all of the Event Validations for all Work List Items,

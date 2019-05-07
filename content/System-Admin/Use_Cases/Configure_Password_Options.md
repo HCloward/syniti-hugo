@@ -1,3 +1,8 @@
++++
+title = 'Configure Password Options'
+solution = 'Platform'
++++
+
 # Configure Password Options
 
 An Administrator can set restrictions on passwords.

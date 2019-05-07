@@ -1,3 +1,8 @@
++++
+title = 'BDC Post Methods and Settings on the Advanced tab'
+solution = 'Platform'
++++
+
 # BDC Post Methods and Settings on the Advanced tab
 
 If the process post is based on a process with a single BDC Script

@@ -1,3 +1,8 @@
++++
+title = 'Set Work Days and Work Hours for a Calendar'
+solution = 'Platform'
++++
+
 # Set Work Days and Work Hours for a Calendar
 
 Calendars are used in dspTrack™ and dspConcut™ components. Refer to [Use

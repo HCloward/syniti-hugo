@@ -1,3 +1,8 @@
++++
+title = 'Register Interface Validations'
+solution = 'Platform'
++++
+
 # Register Interface Validations
 
 Validations can be registered at the interface level and at the event

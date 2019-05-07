@@ -1,3 +1,8 @@
++++
+title = 'Create a Delimited or Fixed Width User Defined Template'
+solution = 'Platform'
++++
+
 # Create a Delimited or Fixed Width User Defined Template
 
 <span id="Post Data Using UDF or Fixed Width Steps" class="popUpLink">Review

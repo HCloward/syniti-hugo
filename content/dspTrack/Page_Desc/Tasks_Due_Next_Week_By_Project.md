@@ -1,3 +1,8 @@
++++
+title = 'Tasks Due Next Week By Project'
+solution = 'Platform'
++++
+
 # Tasks Due Next Week By Project
 
 This chart provides a count of tasks that have not yet been completed

@@ -1,3 +1,8 @@
++++
+title = 'Exclude Columns from Excel Integration'
+solution = 'Platform'
++++
+
 # Exclude Columns from Excel Integration
 
 On a page for a custom WebApp, page designers can exclude the columns in

@@ -1,3 +1,8 @@
++++
+title = 'Enable Bulk Execution for a Page'
+solution = 'Platform'
++++
+
 # Enable Bulk Execution for a Page
 
 Before Bulk Execution can be configured and performed on a page, it must

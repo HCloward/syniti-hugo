@@ -1,3 +1,8 @@
++++
+title = 'Acknowledge Failed Jobs'
+solution = 'Platform'
++++
+
 # Acknowledge Failed Jobs
 
 If there are failed jobs on the site, the Services icon on the Site

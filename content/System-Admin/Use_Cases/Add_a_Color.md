@@ -1,3 +1,8 @@
++++
+title = 'Add a Color'
+solution = 'Platform'
++++
+
 # Add a Color
 
 This task is performed by those with System Administrator privileges.

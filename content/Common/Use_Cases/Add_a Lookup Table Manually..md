@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # Add a Lookup Table Manually
 
 Lookup tables are a type of table that contains lookup values for

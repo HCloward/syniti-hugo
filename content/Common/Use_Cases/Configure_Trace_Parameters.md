@@ -1,3 +1,8 @@
++++
+title = 'Configure Trace Parameters'
+solution = 'Platform'
++++
+
 # Configure Trace Parameters
 
 Parameters are Trace-specific settings that must be configured per

@@ -1,3 +1,8 @@
++++
+title = 'System Considerations'
+solution = 'Platform'
++++
+
 # System Considerations
 
 Before data is extracted, there are hardware and software considerations

@@ -1,3 +1,8 @@
++++
+title = 'Use the Work List'
+solution = 'Platform'
++++
+
 # Use the Work List
 
 The Work List displays tasks in active plans that are not complete and

@@ -1,3 +1,8 @@
++++
+title = 'Data Quality Report Assignment'
+solution = 'Platform'
++++
+
 # Data Quality Report Assignment
 
 <div class="use">

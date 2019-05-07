@@ -1,3 +1,8 @@
++++
+title = 'Copy Work Hours Across Work Days'
+solution = 'Platform'
++++
+
 # Copy Work Hours Across Work Days
 
 Calendars are used in dspTrack™ and dspConcut™ components. Refer to [Use

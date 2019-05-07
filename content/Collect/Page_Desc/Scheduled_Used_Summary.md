@@ -1,3 +1,8 @@
++++
+title = 'Scheduled Used Summary'
+solution = 'Platform'
++++
+
 # Scheduled Used Summary
 
 <div class="use">

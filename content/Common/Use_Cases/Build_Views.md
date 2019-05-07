@@ -1,3 +1,8 @@
++++
+title = 'Build Views'
+solution = 'Platform'
++++
+
 # Build Views
 
 The Build View process allows users to create views in one database that

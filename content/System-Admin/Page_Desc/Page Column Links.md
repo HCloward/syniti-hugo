@@ -1,3 +1,8 @@
++++
+title = 'Page Column Links'
+solution = 'Platform'
++++
+
 # Page Column Links
 
 <div class="use">

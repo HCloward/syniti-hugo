@@ -1,3 +1,8 @@
++++
+title = 'Bulk Execution Panel'
+solution = 'Platform'
++++
+
 # Bulk Execution Panel
 
 <div class="use">

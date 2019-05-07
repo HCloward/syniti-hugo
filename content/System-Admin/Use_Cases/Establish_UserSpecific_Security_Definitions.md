@@ -1,3 +1,8 @@
++++
+title = 'Establish User-Specific Security Definitions'
+solution = 'Platform'
++++
+
 # Establish User-Specific Security Definitions
 
 User Specific Security Definitions allow the definition of data-based

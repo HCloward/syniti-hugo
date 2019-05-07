@@ -1,3 +1,8 @@
++++
+title = 'Avoid Timeouts When Building a DBMoto® Target Connection'
+solution = 'Platform'
++++
+
 # Avoid Timeouts When Building a DBMoto® Target Connection
 
 When building a target connection to DBMoto, each package built will

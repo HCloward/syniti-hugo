@@ -1,3 +1,8 @@
++++
+title = 'Create WebApp Catalogs'
+solution = 'Platform'
++++
+
 # Create WebApp Catalogs
 
 A WebApp catalog is the most generic way to translate phrases. A phrase

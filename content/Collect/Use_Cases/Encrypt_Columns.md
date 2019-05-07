@@ -1,3 +1,8 @@
++++
+title = 'Encrypt Columns'
+solution = 'Platform'
++++
+
 # Encrypt Columns
 
 Before performing this task, [Register Tables to

@@ -1,3 +1,8 @@
++++
+title = 'Post Data Using a GUI Script'
+solution = 'Platform'
++++
+
 # Post Data Using a GUI Script
 
 Integrate allows a user to post data to SAP using the results of a GUI

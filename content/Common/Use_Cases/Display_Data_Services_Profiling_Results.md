@@ -1,3 +1,8 @@
++++
+title = 'Display Data Services Profiling Results'
+solution = 'Platform'
++++
+
 # Display Data Services Profiling Results
 
 SAP Data Services has the capability to Profile data in Source or Target

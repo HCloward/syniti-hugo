@@ -1,3 +1,8 @@
++++
+title = 'View and Edit All Event Rules'
+solution = 'Platform'
++++
+
 # View and Edit All Event Rules
 
 dspTrack™ displays all of the Event Rules for all Work List Items,

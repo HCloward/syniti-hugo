@@ -1,3 +1,8 @@
++++
+title = 'Post Action Rule Table Column'
+solution = 'Platform'
++++
+
 # Post Action Rule Table Column
 
 <div class="use">

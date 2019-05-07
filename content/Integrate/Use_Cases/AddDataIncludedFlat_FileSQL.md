@@ -1,3 +1,8 @@
++++
+title = 'Add Data in SQL to be Included in the Flat File'
+solution = 'Platform'
++++
+
 # Add Data in SQL to be Included in the Flat File
 
 <span id="Post Data Using UDF or Fixed Width Steps" class="popUpLink">Review

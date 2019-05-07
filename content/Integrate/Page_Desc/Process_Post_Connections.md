@@ -1,3 +1,8 @@
++++
+title = 'Process Post Connections'
+solution = 'Platform'
++++
+
 # Process Post Connections
 
 <div class="use">

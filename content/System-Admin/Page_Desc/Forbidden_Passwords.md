@@ -1,3 +1,8 @@
++++
+title = 'Forbidden Passwords'
+solution = 'Platform'
++++
+
 # Forbidden Passwords
 
 <div class="use">

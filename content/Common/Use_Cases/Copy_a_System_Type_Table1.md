@@ -1,3 +1,8 @@
++++
+title = 'Copy a System Type Table'
+solution = 'Platform'
++++
+
 # Copy a System Type Table
 
 Once a table is added to a System Type, it can be copied to make another

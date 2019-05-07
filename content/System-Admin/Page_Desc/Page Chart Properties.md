@@ -1,3 +1,8 @@
++++
+title = 'Page (Chart Properties)'
+solution = 'Platform'
++++
+
 # Page (Chart Properties)
 
 <div class="use">

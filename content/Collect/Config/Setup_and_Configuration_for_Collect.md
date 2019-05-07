@@ -1,3 +1,8 @@
++++
+title = 'Setup and Configuration for Collect'
+solution = 'Platform'
++++
+
 # Setup and Configuration for Collect
 
 Before getting started with Collect, verify the following has been

@@ -1,3 +1,8 @@
++++
+title = 'Configure Process Template Loops for an XML Template'
+solution = 'Platform'
++++
+
 # Configure Process Template Loops for an XML Template
 
 <span id="Create and Transfer XML files Steps" class="popUpLink">Review

@@ -1,3 +1,8 @@
++++
+title = 'Configure Process Template Loops for a Delimited or Fixed Width Template'
+solution = 'Platform'
++++
+
 # Configure Process Template Loops for a Delimited or Fixed Width Template
 
 <span id="Post Data Using UDF or Fixed Width Steps" class="popUpLink">Review

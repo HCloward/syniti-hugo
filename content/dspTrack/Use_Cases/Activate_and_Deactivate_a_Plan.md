@@ -1,3 +1,8 @@
++++
+title = 'Activate and Deactivate a Plan'
+solution = 'Platform'
++++
+
 # Activate and Deactivate a Plan
 
 Activate a plan to start scheduling its tasks, and so that users

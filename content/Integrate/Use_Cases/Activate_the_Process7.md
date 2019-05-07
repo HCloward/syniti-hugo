@@ -1,3 +1,8 @@
++++
+title = 'Activate the Process'
+solution = 'Platform'
++++
+
 # Activate the Process
 
 <span id="Post Data Using UDF or Fixed Width Steps" class="popUpLink">Review

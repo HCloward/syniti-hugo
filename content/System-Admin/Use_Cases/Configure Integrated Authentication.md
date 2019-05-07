@@ -1,3 +1,8 @@
++++
+title = 'Configure Integrated Authentication'
+solution = 'Platform'
++++
+
 # Configure Integrated Authentication
 
 If the Support Integrated Authentication check box is enabled on the

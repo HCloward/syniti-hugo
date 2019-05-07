@@ -1,3 +1,8 @@
++++
+title = 'Stop List Words'
+solution = 'Platform'
++++
+
 # Stop List Words
 
 <div class="use">

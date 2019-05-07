@@ -1,3 +1,8 @@
++++
+title = 'Basic Plugin Example'
+solution = 'Platform'
++++
+
 # Basic Plugin Example
 
 With the four prerequisites listed in [Getting

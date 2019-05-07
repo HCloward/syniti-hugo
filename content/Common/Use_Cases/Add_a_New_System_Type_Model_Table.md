@@ -1,3 +1,8 @@
++++
+title = 'Add a System Type Model Table'
+solution = 'Platform'
++++
+
 # Add a System Type Model Table
 
 An Administrator performs this task to document which tables are

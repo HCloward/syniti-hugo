@@ -1,3 +1,8 @@
++++
+title = 'Organize Quick Links'
+solution = 'Platform'
++++
+
 # Organize Quick Links
 
 Quick Links can be put in a specific order and grouped together.

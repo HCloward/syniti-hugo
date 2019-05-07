@@ -1,3 +1,8 @@
++++
+title = 'Determine the Duplicate Detection Threshold'
+solution = 'Platform'
++++
+
 # Determine the Duplicate Detection Threshold
 
 The Search Threshold is used when users perform a search on a page. In

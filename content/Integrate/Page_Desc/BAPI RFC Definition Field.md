@@ -1,3 +1,8 @@
++++
+title = 'BAPI\\RFC Definition: Field'
+solution = 'Platform'
++++
+
 # BAPI\\RFC Definition: Field
 
 <div class="use">

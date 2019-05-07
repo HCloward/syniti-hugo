@@ -1,3 +1,8 @@
++++
+title = 'Define Structures and Fields for Delimited or Fixed Width Templates'
+solution = 'Platform'
++++
+
 # Define Structures and Fields for Delimited or Fixed Width Templates
 
 <span id="Post Data Using UDF or Fixed Width Steps" class="popUpLink">Review

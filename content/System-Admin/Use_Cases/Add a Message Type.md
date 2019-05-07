@@ -1,3 +1,8 @@
++++
+title = 'Add a Message Type'
+solution = 'Platform'
++++
+
 # Add a Message Type
 
 Message types allow users to configure how messages display in the DSP®,

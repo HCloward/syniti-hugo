@@ -1,3 +1,8 @@
++++
+title = 'Add Keys'
+solution = 'Platform'
++++
+
 # Add Keys
 
 A secure key defines the encryption algorithm and password used to

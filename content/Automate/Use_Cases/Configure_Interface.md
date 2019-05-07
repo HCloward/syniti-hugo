@@ -1,3 +1,8 @@
++++
+title = 'Configure Interface'
+solution = 'Platform'
++++
+
 # Configure Interface
 
 There are several elements of an interface that can be configured:

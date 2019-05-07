@@ -1,3 +1,8 @@
++++
+title = 'Automation Instruction Task Definition'
+solution = 'Platform'
++++
+
 # Automation Instruction Task Definition
 
 <div class="use">

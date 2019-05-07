@@ -1,3 +1,8 @@
++++
+title = 'Work List Event Validations - Tag Registration H'
+solution = 'Platform'
++++
+
 # Work List Event Validations - Tag Registration H
 
 [Work List Event Validations - Tag Registration

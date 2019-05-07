@@ -1,3 +1,8 @@
++++
+title = 'Setup and Configuration for dspTrack™'
+solution = 'Platform'
++++
+
 # Setup and Configuration for dspTrack™
 
 Before getting started with dspTrack™, verify the following has been

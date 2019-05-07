@@ -1,3 +1,8 @@
++++
+title = 'Browse FTP Site or Path'
+solution = 'Platform'
++++
+
 # Browse FTP Site or Path
 
 The Browse icon connects to the Logical Path Instance, and allows the

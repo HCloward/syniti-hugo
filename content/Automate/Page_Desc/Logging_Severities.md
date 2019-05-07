@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # <span id="LoggingSeveritiesH"></span> Logging Severities H
 
 [Logging Severities V](#LoggingSeveritiesV)

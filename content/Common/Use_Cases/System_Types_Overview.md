@@ -1,3 +1,8 @@
++++
+title = 'System Types'
+solution = 'Platform'
++++
+
 # System Types
 
 Data dictionary, schema and relationship information about external

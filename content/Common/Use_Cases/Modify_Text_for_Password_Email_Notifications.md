@@ -1,3 +1,8 @@
++++
+title = 'Modify Text for Password Email Notifications'
+solution = 'Platform'
++++
+
 # Modify Text for Password Email Notifications
 
 The text for email notifications for password creation and reset can be

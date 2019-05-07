@@ -1,3 +1,8 @@
++++
+title = 'View Template Report'
+solution = 'Platform'
++++
+
 # View Template Report
 
 For each template, view and print a report that lists the field name and

@@ -1,3 +1,8 @@
++++
+title = 'Schedule Interfaces'
+solution = 'Platform'
++++
+
 # Schedule Interfaces
 
 By default, an interface runs on a schedule with a run time of 12:00

@@ -1,3 +1,8 @@
++++
+title = 'Schedule – Configure'
+solution = 'Platform'
++++
+
 # Schedule – Configure
 
 <div class="use">

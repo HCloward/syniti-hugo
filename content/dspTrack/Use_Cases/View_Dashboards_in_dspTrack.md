@@ -1,3 +1,8 @@
++++
+title = 'View the Dashboard in dspTrack™'
+solution = 'Platform'
++++
+
 # View the Dashboard in dspTrack™
 
 The dspTrack™ dashboard provides an overview of the status of projects,

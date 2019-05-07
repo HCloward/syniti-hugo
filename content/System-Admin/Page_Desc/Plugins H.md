@@ -1,4 +1,9 @@
-# <span id="PluginsH"></span>Plugins H
++++
+title = 'Plugins H'
+solution = 'Platform'
++++
+
+# Plugins H
 
 [Plugins (V)](#PluginsV)
 

@@ -1,3 +1,8 @@
++++
+title = 'Create Tasks'
+solution = 'Platform'
++++
+
 # Create Tasks
 
 A *task* is a collection of instructions. Common is delivered with a set

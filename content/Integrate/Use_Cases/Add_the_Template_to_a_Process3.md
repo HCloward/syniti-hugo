@@ -1,3 +1,8 @@
++++
+title = 'Add the Template to a Process'
+solution = 'Platform'
++++
+
 # Add the Template to a Process
 
 <span id="Post Data using an RFC Steps" class="popUpLink">\>Review the

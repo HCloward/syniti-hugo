@@ -1,3 +1,8 @@
++++
+title = 'Setup and Configuration for Integrate'
+solution = 'Platform'
++++
+
 # Setup and Configuration for Integrate
 
 Before getting started with Integrate, verify the following steps have

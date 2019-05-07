@@ -1,3 +1,8 @@
++++
+title = 'Monitor Table Download Process'
+solution = 'Platform'
++++
+
 # Monitor Table Download Process
 
 The table download process can be monitored to see which individual

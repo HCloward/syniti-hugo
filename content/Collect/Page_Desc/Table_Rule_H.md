@@ -1,3 +1,8 @@
++++
+title = 'Table (Rule) H'
+solution = 'Platform'
++++
+
 # Table (Rule) H
 
 [Table (Rule) V](#Table_Rule_V)

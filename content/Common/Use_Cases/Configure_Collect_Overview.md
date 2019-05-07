@@ -1,3 +1,8 @@
++++
+title = 'Configure Collect'
+solution = 'Platform'
++++
+
 # Configure Collect
 
 Before using Collect, configure the settings that are specific to this

@@ -1,3 +1,8 @@
++++
+title = 'Add Default User Credentials to a Connection'
+solution = 'Platform'
++++
+
 # Add Default User Credentials to a Connection
 
 This task is performed by an Administrator.

@@ -1,3 +1,8 @@
++++
+title = 'Add Logical Paths'
+solution = 'Platform'
++++
+
 # Add Logical Paths
 
 Logical Paths is a configuration setting required for the FileIterator

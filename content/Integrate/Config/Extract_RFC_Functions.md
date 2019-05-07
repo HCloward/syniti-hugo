@@ -1,3 +1,8 @@
++++
+title = 'Extract RFC Functions'
+solution = 'Platform'
++++
+
 # Extract RFC Functions
 
 Integrate supports the execution of any RFC-enabled Function Module in

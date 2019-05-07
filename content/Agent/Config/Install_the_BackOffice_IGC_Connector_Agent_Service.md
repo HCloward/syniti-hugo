@@ -1,3 +1,8 @@
++++
+title = 'Install the BackOffice IGC Connector Agent Service'
+solution = 'Platform'
++++
+
 # Install the BackOffice IGC Connector Agent Service
 
 To install the Connector Agent:

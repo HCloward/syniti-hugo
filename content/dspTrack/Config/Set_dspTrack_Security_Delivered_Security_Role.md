@@ -1,3 +1,8 @@
++++
+title = 'Set up dspTrack™ Security for Delivered Security Roles'
+solution = 'Platform'
++++
+
 # Set up dspTrack™ Security for Delivered Security Roles
 
 To set up security for dspTrack™ in System Administration for these

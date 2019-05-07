@@ -1,3 +1,8 @@
++++
+title = 'Use the Manual Data Services Package Type'
+solution = 'Platform'
++++
+
 # Use the Manual Data Services Package Type
 
 Use this package type to use advanced features within Data Services

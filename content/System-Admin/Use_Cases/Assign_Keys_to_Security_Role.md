@@ -1,3 +1,8 @@
++++
+title = 'Assign Keys to Security Role'
+solution = 'Platform'
++++
+
 # Assign Keys to Security Role
 
 Once the role is created, keys are assigned to the role. Keys represent

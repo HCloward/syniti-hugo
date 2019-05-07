@@ -1,3 +1,8 @@
++++
+title = 'Configure Collect Parameters'
+solution = 'Platform'
++++
+
 # Configure Collect Parameters
 
 Parameters are Collect-specific settings that must be configured per

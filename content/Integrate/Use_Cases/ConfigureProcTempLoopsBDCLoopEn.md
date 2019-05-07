@@ -1,3 +1,8 @@
++++
+title = 'Configure Process Template Loops for a BDC Script Template with Looping Enabled'
+solution = 'Platform'
++++
+
 # Configure Process Template Loops for a BDC Script Template with Looping Enabled
 
 <span id="Post Data using a BDC Script Steps" class="popUpLink">\>Review

@@ -1,4 +1,9 @@
-# <span id="CTS_Configure_H">CTS Configure H</span>
++++
+title = 'CTS Configure H'
+solution = 'Platform'
++++
+
+# CTS Configure H
 
 [](#CTS)
 

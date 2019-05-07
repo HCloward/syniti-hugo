@@ -1,3 +1,8 @@
++++
+title = 'Build and Refresh Tables for a Schedule Group'
+solution = 'Platform'
++++
+
 # Build and Refresh Tables for a Schedule Group
 
 Create a schedule group for a group of Target Source tables to build

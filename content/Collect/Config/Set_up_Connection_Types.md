@@ -1,3 +1,8 @@
++++
+title = 'Set up Connection Types'
+solution = 'Platform'
++++
+
 # Set up Connection Types
 
 Connection Types require SQL Server to download the data dictionary from

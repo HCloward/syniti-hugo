@@ -1,3 +1,8 @@
++++
+title = 'Add a System Type Group'
+solution = 'Platform'
++++
+
 # Add a System Type Group
 
 System Type groups are logical groupings of tables, such as Customer or

@@ -1,3 +1,8 @@
++++
+title = 'Add Attributes'
+solution = 'Platform'
++++
+
 # Add Attributes
 
 An *attribute* for a CTS package is optional and allows for additional

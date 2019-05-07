@@ -1,3 +1,8 @@
++++
+title = 'View Resource Charts in System Administration'
+solution = 'Platform'
++++
+
 # View Resource Charts in System Administration
 
 The resource charts in System Administration display a series of charts

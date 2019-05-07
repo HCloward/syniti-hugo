@@ -1,3 +1,8 @@
++++
+title = 'Dictionary Words'
+solution = 'Platform'
++++
+
 # Dictionary Words
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Security: Successful Authentication By Role User'
+solution = 'Platform'
++++
+
 # Security: Successful Authentication By Role User
 
 This page displays the date and number of times the selected user

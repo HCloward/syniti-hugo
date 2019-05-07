@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # <span id="InterfaceEventsH"></span> Interface Events H
 
 [Interface Events V](#InterfaceEventsV)

@@ -1,3 +1,8 @@
++++
+title = 'Configure Log Type Settings'
+solution = 'Platform'
++++
+
 # Configure Log Type Settings
 
 The DSP® is installed with logs that are created daily, and track

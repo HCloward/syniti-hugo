@@ -1,3 +1,8 @@
++++
+title = 'Configure Field Mappings for a Process based on a GUI Script Template'
+solution = 'Platform'
++++
+
 # Configure Field Mappings for a Process based on a GUI Script Template
 
 <span id="Post Data using a GUI Script Steps" class="popUpLink">\>Review

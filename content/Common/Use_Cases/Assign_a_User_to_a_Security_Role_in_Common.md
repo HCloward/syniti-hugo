@@ -1,3 +1,8 @@
++++
+title = 'Assign a User to a Security Role in Common'
+solution = 'Platform'
++++
+
 # Assign a User to a Security Role in Common
 
 Before completing this task, an Administrator:

@@ -1,3 +1,8 @@
++++
+title = 'Colors'
+solution = 'Platform'
++++
+
 # Colors
 
 <div class="use">

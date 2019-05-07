@@ -1,3 +1,8 @@
++++
+title = 'Connection Types'
+solution = 'Platform'
++++
+
 # Connection Types
 
 The methods for extraction considered in this section rely upon two

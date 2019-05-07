@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 ## Grant Users Access to Integrate's Post Monitor Group in System Administration
 
 An Administrator must assign users to the Post Monitor group in

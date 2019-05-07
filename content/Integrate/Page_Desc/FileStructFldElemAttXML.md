@@ -1,3 +1,8 @@
++++
+title = 'File Structure Field Element - Attributes'
+solution = 'Platform'
++++
+
 # File Structure Field Element - Attributes
 
 <div class="use">

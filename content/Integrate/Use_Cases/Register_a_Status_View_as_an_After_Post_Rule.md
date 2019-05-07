@@ -1,3 +1,8 @@
++++
+title = 'Register a Status View as an After Post Rule'
+solution = 'Platform'
++++
+
 # Register a Status View as an After Post Rule
 
 When posting data to a target system, a Template Administrator can

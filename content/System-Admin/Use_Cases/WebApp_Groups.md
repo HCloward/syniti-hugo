@@ -1,3 +1,8 @@
++++
+title = 'WebApp Groups'
+solution = 'Platform'
++++
+
 # WebApp Groups
 
 All WebApps, also known as components, have three basic WebApp groups:

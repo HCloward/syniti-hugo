@@ -1,3 +1,8 @@
++++
+title = 'Display Translations for Column Data'
+solution = 'Platform'
++++
+
 # Display Translations for Column Data
 
 Page Designers can set the Translate option for a column on a page in a

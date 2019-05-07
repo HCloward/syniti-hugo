@@ -1,3 +1,8 @@
++++
+title = 'Send Workflow Summary On Demand'
+solution = 'Platform'
++++
+
 # Send Workflow Summary On Demand
 
 The workflow summary email is sent to users with WORK FLOW SUMMARY

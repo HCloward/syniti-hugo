@@ -1,3 +1,8 @@
++++
+title = 'Add Work List Binding Criteria to a Work List Item or Plan Task'
+solution = 'Platform'
++++
+
 # Add Work List Binding Criteria to a Work List Item or Plan Task
 
 **NOTE**: Users can add binding criteria to Work List Items and Plan

@@ -1,3 +1,8 @@
++++
+title = 'Assign the Custom Template to a Process'
+solution = 'Platform'
++++
+
 # Assign the Custom Template to a Process
 
 A Custom template allows a user to create a mechanism for posting to any

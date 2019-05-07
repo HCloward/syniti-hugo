@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # Import a Model
 
 The DSP® is delivered with an SAP and JDE model that can be used to

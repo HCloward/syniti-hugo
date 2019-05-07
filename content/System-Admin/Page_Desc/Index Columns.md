@@ -1,3 +1,8 @@
++++
+title = 'Index Columns'
+solution = 'Platform'
++++
+
 # Index Columns
 
 <div class="use">

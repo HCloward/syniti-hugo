@@ -1,3 +1,8 @@
++++
+title = 'Re-start a Running Interface'
+solution = 'Platform'
++++
+
 # Re-start a Running Interface
 
 With interfaces that have several events, it is common for the events to

@@ -1,3 +1,8 @@
++++
+title = 'Create and Transfer XML Files'
+solution = 'Platform'
++++
+
 # Create and Transfer XML Files
 
 <span id="Create and Transfer XML files Steps" class="popUpLink">Review

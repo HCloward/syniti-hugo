@@ -1,3 +1,8 @@
++++
+title = 'Download Rate of Change Spreadsheet'
+solution = 'Platform'
++++
+
 # Download Rate of Change Spreadsheet
 
 The Rate of Change Excel spreadsheet tracks the rate of change, new

@@ -1,3 +1,8 @@
++++
+title = 'Add a Comment to a Task'
+solution = 'Platform'
++++
+
 # Add a Comment to a Task
 
 Enter a comment about a Plan Task on the *Vertical* View of the *Plan

@@ -1,3 +1,8 @@
++++
+title = 'Trace Object Changes Daily'
+solution = 'Platform'
++++
+
 # Trace Object Changes Daily
 
 This chart displays a count of all daily changes for all object types in

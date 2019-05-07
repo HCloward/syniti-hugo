@@ -1,3 +1,8 @@
++++
+title = 'Template Processes'
+solution = 'Platform'
++++
+
 # Template Processes
 
 <div class="use">

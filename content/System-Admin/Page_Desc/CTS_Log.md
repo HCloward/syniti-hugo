@@ -1,3 +1,8 @@
++++
+title = 'CTS Log'
+solution = 'Platform'
++++
+
 # CTS Log
 
 <div class="use">

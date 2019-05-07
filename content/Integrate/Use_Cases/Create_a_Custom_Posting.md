@@ -1,3 +1,8 @@
++++
+title = 'Create a Custom Posting'
+solution = 'Platform'
++++
+
 # Create a Custom Posting
 
 Integrate supports custom process posts and is designed to support

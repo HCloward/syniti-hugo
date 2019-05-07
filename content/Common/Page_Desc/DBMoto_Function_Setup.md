@@ -1,3 +1,8 @@
++++
+title = 'DBMoto Function Setup'
+solution = 'Platform'
++++
+
 # DBMoto Function Setup
 
 <div class="use">

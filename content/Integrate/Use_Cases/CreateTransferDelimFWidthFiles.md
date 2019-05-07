@@ -1,3 +1,8 @@
++++
+title = 'Create and Transfer Delimited or Fixed Width Files'
+solution = 'Platform'
++++
+
 # Create and Transfer Delimited or Fixed Width Files
 
 <span id="Post Data Using UDF or Fixed Width Steps" class="popUpLink">Review

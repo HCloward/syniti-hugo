@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # <span id="top"></span>Data Source Table Create Download SQL H
 
 [Data Source Table Create Download SQL V](#Data_Source_Table_Create1)

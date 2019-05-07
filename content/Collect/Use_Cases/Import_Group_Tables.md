@@ -1,3 +1,8 @@
++++
+title = 'Import System Types Groups Tables'
+solution = 'Platform'
++++
+
 # Import System Types Groups Tables
 
 The import group table(s) process imports System Type group tables from

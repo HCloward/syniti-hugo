@@ -1,3 +1,8 @@
++++
+title = 'Debug Logs'
+solution = 'Platform'
++++
+
 # Debug Logs
 
 <div class="use">

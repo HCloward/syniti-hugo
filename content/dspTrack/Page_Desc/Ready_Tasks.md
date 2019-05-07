@@ -1,3 +1,8 @@
++++
+title = 'Ready Tasks'
+solution = 'Platform'
++++
+
 # Ready Tasks
 
 <div class="use">

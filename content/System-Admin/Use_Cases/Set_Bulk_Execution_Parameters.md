@@ -1,3 +1,8 @@
++++
+title = 'Set Bulk Execution Parameters'
+solution = 'Platform'
++++
+
 # Set Bulk Execution Parameters
 
 The Bulk Execution parameters allow the Page Designer to set processing

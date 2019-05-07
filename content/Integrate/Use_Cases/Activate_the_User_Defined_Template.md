@@ -1,3 +1,8 @@
++++
+title = 'Activate the User Defined Template'
+solution = 'Platform'
++++
+
 # Activate the User Defined Template
 
 <span id="Post Data Using UDF or Fixed Width Steps" class="popUpLink">Review

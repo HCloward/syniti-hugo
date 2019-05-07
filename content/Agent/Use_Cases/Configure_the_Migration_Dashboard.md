@@ -1,3 +1,8 @@
++++
+title = 'Configure the Migration Dashboard'
+solution = 'Platform'
++++
+
 # Configure the Migration Dashboard
 
 After the Agent Interface has been [installed and

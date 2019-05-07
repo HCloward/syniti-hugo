@@ -1,3 +1,8 @@
++++
+title = 'Activate the XML Template'
+solution = 'Platform'
++++
+
 # Activate the XML Template
 
 <span id="Create and Transfer XML files Steps" class="popUpLink">Review

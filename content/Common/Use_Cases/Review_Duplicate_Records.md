@@ -1,3 +1,8 @@
++++
+title = 'Review Duplicate Records'
+solution = 'Platform'
++++
+
 # Review Duplicate Records
 
 Review duplicate records to decide if the record is a true duplicate, if

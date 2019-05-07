@@ -1,3 +1,8 @@
++++
+title = 'Add Mappings'
+solution = 'Platform'
++++
+
 # Add Mappings
 
 Mappings are generic mappings between a source and a target system.

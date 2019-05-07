@@ -1,3 +1,8 @@
++++
+title = 'Register Work List Event Rules'
+solution = 'Platform'
++++
+
 # Register Work List Event Rules
 
 Work List Event rules can be registered at the [Work

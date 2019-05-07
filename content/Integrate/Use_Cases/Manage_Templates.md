@@ -1,3 +1,8 @@
++++
+title = 'Manage Templates'
+solution = 'Platform'
++++
+
 # Manage Templates
 
 Though Integrate templates are based on template types, and

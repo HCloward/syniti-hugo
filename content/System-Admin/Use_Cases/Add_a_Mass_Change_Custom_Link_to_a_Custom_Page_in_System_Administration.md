@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 ## Add a Mass Change Custom Link to a Custom Page
 
 In dspCompose<span style="font-weight: bold;">™</span>, if Mass Changes

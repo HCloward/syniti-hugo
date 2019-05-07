@@ -1,3 +1,8 @@
++++
+title = 'Export CTS Archive to Target Instance'
+solution = 'Platform'
++++
+
 # Export CTS Archive to Target Instance
 
 Archives are exported to a target instance. One of two ways can be used

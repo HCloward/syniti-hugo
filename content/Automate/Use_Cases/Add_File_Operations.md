@@ -1,3 +1,8 @@
++++
+title = 'Add File Operations'
+solution = 'Platform'
++++
+
 # Add File Operations
 
 File Operations are the selection of the source and target paths, which

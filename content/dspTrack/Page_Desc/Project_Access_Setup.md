@@ -1,3 +1,8 @@
++++
+title = 'Plan Access Setup'
+solution = 'Platform'
++++
+
 # Plan Access Setup
 
 <div class="use">

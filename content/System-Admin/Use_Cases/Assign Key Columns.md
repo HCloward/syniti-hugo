@@ -1,3 +1,8 @@
++++
+title = 'Assign Key Columns'
+solution = 'Platform'
++++
+
 # Assign Key Columns
 
 By default the database schema is analyzed to determine which columns

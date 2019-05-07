@@ -1,3 +1,8 @@
++++
+title = 'Table (Indices) H'
+solution = 'Platform'
++++
+
 # Table (Indices) H
 
 [Table (Indices) V](#Table_Indices_V)

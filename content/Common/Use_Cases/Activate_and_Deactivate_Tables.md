@@ -1,3 +1,8 @@
++++
+title = 'Activate and Deactivate Tables'
+solution = 'Platform'
++++
+
 # Activate and Deactivate Tables
 
 When an Administrator registers a data source in System Administration,

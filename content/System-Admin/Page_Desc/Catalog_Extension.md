@@ -1,3 +1,8 @@
++++
+title = 'Catalog Extension'
+solution = 'Platform'
++++
+
 # Catalog Extension
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Copy a Security Role'
+solution = 'Platform'
++++
+
 # Copy a Security Role
 
 Before this task is performed, the role being copied must exist. Refer

@@ -1,3 +1,8 @@
++++
+title = 'Set up and Configuration for a BackOffice IGC Connector Agent'
+solution = 'Platform'
++++
+
 # Set up and Configuration for a BackOffice IGC Connector Agent
 
 ## Overview

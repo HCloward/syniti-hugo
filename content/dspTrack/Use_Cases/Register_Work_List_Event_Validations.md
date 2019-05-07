@@ -1,3 +1,8 @@
++++
+title = 'Register Work List Event Validations'
+solution = 'Platform'
++++
+
 # Register Work List Event Validations
 
 Work List Event Validations can also be set at the [Plan

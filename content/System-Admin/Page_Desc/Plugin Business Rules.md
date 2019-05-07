@@ -1,3 +1,8 @@
++++
+title = 'Plugin Business Rules'
+solution = 'Platform'
++++
+
 # Plugin Business Rules
 
 <div class="use">

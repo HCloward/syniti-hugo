@@ -1,3 +1,8 @@
++++
+title = 'Assign Users to Security Roles'
+solution = 'Platform'
++++
+
 # Assign Users to Security Roles
 
 Once the role is created, users are then assigned to the role.  When a

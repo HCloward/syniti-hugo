@@ -1,3 +1,8 @@
++++
+title = 'Verify the RFC Retrieved Data from SAP and Updated the Download Tables in SQL'
+solution = 'Platform'
++++
+
 # Verify the RFC Retrieved Data from SAP and Updated the Download Tables in SQL
 
 <span id="Post Data using an RFC Steps" class="popUpLink">\>Review the

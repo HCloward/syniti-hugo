@@ -1,3 +1,8 @@
++++
+title = 'Modify a GUI Script with a Custom Command'
+solution = 'Platform'
++++
+
 # Modify a GUI Script with a Custom Command
 
 <span id="Post Data using a GUI Script Steps" class="popUpLink">\>Review

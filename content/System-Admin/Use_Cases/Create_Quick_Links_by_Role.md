@@ -1,3 +1,8 @@
++++
+title = 'Create Quick Links by Role'
+solution = 'Platform'
++++
+
 # Create Quick Links by Role
 
 A user, typically a manager, can create a quick link for a specific

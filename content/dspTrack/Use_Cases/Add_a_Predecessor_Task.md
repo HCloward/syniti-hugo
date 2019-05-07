@@ -1,3 +1,8 @@
++++
+title = 'Add a Predecessor Task'
+solution = 'Platform'
++++
+
 # Add a Predecessor Task
 
 When a project file is imported into dspTrack™, the predecessor tasks

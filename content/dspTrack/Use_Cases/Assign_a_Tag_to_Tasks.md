@@ -1,3 +1,8 @@
++++
+title = 'Assign a Tag to Tasks'
+solution = 'Platform'
++++
+
 # Assign a Tag to Tasks
 
 There are two methods to assign tags to tasks, depending on the number

@@ -1,3 +1,8 @@
++++
+title = 'Database: Current Connections'
+solution = 'Platform'
++++
+
 # Database: Current Connections
 
 <div class="use">

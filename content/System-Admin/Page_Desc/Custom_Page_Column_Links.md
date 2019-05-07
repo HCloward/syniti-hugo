@@ -1,3 +1,8 @@
++++
+title = 'Custom Page Column Links'
+solution = 'Platform'
++++
+
 # Custom Page Column Links
 
 <div class="use">

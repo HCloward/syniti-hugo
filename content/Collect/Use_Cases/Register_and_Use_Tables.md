@@ -1,3 +1,8 @@
++++
+title = 'Register and Use Tables'
+solution = 'Platform'
++++
+
 # Register and Use Tables
 
 **NOTE**: To receive a workflow email that a table download has failed

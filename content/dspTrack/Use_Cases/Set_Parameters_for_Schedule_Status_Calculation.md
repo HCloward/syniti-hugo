@@ -1,3 +1,8 @@
++++
+title = 'Set Parameters for Schedule Status Calculation'
+solution = 'Platform'
++++
+
 # Set Parameters for Schedule Status Calculation
 
 To set parameters for schedule status calculation at the plan level:

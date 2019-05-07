@@ -1,3 +1,8 @@
++++
+title = 'System Types Join Field'
+solution = 'Platform'
++++
+
 # System Types Join Field
 
 <div class="use">

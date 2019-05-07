@@ -1,3 +1,8 @@
++++
+title = 'System Types Table Indices'
+solution = 'Platform'
++++
+
 # System Types Table Indices
 
 <div class="use">

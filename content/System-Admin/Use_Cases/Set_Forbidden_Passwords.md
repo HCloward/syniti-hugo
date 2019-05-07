@@ -1,3 +1,8 @@
++++
+title = 'Set Forbidden Passwords'
+solution = 'Platform'
++++
+
 # Set Forbidden Passwords
 
 An Administrator can prevent users from adding certain passwords, such

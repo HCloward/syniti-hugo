@@ -1,3 +1,8 @@
++++
+title = 'Controls'
+solution = 'Platform'
++++
+
 # Controls
 
 <div class="use">

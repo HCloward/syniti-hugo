@@ -1,3 +1,8 @@
++++
+title = 'Create a Basic Template'
+solution = 'Platform'
++++
+
 # Create a Basic Template
 
 A template defines how data is posted into SAP, including which screens

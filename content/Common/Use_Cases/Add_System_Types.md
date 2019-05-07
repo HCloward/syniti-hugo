@@ -1,3 +1,8 @@
++++
+title = 'Add System Types'
+solution = 'Platform'
++++
+
 # Add System Types
 
 System types can be added depending on the needs of the project. Common

@@ -1,3 +1,8 @@
++++
+title = 'Language Column Name Variant'
+solution = 'Platform'
++++
+
 # Language Column Name Variant
 
 <div class="use">

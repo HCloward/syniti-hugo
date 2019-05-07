@@ -1,3 +1,8 @@
++++
+title = 'Configure Security Tags'
+solution = 'Platform'
++++
+
 # Configure Security Tags
 
 Once a tag with a Security tag type has been added, it can be further

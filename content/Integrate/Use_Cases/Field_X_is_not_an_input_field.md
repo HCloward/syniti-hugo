@@ -1,3 +1,8 @@
++++
+title = 'Field X is not an input field.'
+solution = 'Platform'
++++
+
 # Field X is not an input field.
 
 This message is confusing because the field is an input field. A

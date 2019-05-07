@@ -1,3 +1,8 @@
++++
+title = 'Parameters (All Tabs)'
+solution = 'Platform'
++++
+
 # Parameters (All Tabs)
 
 <div class="use">

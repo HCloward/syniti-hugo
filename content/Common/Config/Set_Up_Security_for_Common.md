@@ -1,3 +1,8 @@
++++
+title = 'Set Up Security for Common'
+solution = 'Platform'
++++
+
 # Set Up Security for Common
 
 To set up security:

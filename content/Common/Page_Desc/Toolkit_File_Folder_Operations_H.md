@@ -1,3 +1,8 @@
++++
+title = 'Toolkit: File/Folder Operations H'
+solution = 'Platform'
++++
+
 # Toolkit: File/Folder Operations H
 
 [Toolkit: File/Folder Operations V](#Toolkit_File_Folder1)

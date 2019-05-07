@@ -1,3 +1,8 @@
++++
+title = 'Configure Parameters in Common'
+solution = 'Platform'
++++
+
 # Configure Parameters in Common
 
 Collect parameters are high-level fields used throughout the component

@@ -1,3 +1,8 @@
++++
+title = 'Add or Update Custom Icons for Custom WebApps'
+solution = 'Platform'
++++
+
 # Add or Update Custom Icons for Custom WebApps
 
 An Administrator can add images to the DSP and use them as icons in

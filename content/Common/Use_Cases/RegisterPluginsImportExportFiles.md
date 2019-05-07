@@ -1,3 +1,8 @@
++++
+title = 'Register Plugins to Import and Export Files'
+solution = 'Platform'
++++
+
 # Register Plugins to Import and Export Files
 
 In order to use the Excel import/export adaptors, the following plugins

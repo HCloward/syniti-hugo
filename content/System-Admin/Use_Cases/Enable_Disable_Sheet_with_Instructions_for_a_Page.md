@@ -1,3 +1,8 @@
++++
+title = 'Enable/Disable Sheet with Instructions'
+solution = 'Platform'
++++
+
 # Enable/Disable Sheet with Instructions
 
 An optional instruction worksheet can be added to the Excel template

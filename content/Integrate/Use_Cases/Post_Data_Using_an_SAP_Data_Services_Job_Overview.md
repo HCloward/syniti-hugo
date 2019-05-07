@@ -1,3 +1,8 @@
++++
+title = 'Post Data Using an SAP Data Services Job Overview'
+solution = 'Platform'
++++
+
 # Post Data Using an SAP Data Services Job Overview
 
 A template defines how data is posted to a target system, including

@@ -1,3 +1,8 @@
++++
+title = 'Register External Process Validations'
+solution = 'Platform'
++++
+
 # Register External Process Validations
 
 An external process is a plugin. The DSP utilizes plugins to provide

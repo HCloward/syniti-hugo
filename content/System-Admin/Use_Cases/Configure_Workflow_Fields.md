@@ -1,3 +1,8 @@
++++
+title = 'Configure Workflow Fields'
+solution = 'Platform'
++++
+
 # Configure Workflow Fields
 
 The workflow fields determine what is displayed in the subject line,

@@ -1,3 +1,8 @@
++++
+title = 'Configure Workflow Summary User Settings'
+solution = 'Platform'
++++
+
 # Configure Workflow Summary User Settings
 
 Users receive workflow emails as notifications for various processes,

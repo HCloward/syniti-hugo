@@ -1,3 +1,8 @@
++++
+title = 'Configure Conditional GUI Script Data Records'
+solution = 'Platform'
++++
+
 # Configure Conditional GUI Script Data Records
 
 <span id="Post Data using a GUI Script Steps" class="popUpLink">\>Review

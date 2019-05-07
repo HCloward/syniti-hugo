@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # <span id="Page_Business_Rules_H_"></span>Page Business Rules H
 
 [Page Business Rules V](#PageBusinessRulesV)

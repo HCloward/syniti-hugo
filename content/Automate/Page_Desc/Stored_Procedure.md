@@ -1,3 +1,8 @@
++++
+title = 'Stored Procedure'
+solution = 'Platform'
++++
+
 # Stored Procedure
 
 <div class="use">

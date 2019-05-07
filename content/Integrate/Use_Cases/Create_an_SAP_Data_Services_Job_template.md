@@ -1,3 +1,8 @@
++++
+title = 'Create an SAP Data Services Job Template'
+solution = 'Platform'
++++
+
 # Create an SAP Data Services Job Template
 
 A Template Administrator can configure an SAP Data Services Job template

@@ -1,3 +1,8 @@
++++
+title = 'Define Instructions for Tasks'
+solution = 'Platform'
++++
+
 # Define Instructions for Tasks
 
 Once the task is created, add instructions to the task.

@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # <span id="HistoryFailedDetailedH"></span> History Failed (Detail) H
 
 <div class="use">

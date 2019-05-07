@@ -1,3 +1,8 @@
++++
+title = 'Required Columns for Import into dspTrack™'
+solution = 'Platform'
++++
+
 # Required Columns for Import into dspTrack™
 
 To be imported into dspTrack™, the following columns are required in the

@@ -1,3 +1,8 @@
++++
+title = 'Post Data to Multiple Target Systems with One Process Template'
+solution = 'Platform'
++++
+
 # Post Data to Multiple Target Systems with One Process Template
 
 A Process Designer can reuse a process template by adding connections to

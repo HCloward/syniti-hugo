@@ -1,3 +1,8 @@
++++
+title = 'Set a Default Style for Users'
+solution = 'Platform'
++++
+
 # Set a Default Style for Users
 
 Any user can change their style, by clicking the **Gear** icon,

@@ -1,3 +1,8 @@
++++
+title = 'Start to Finish'
+solution = 'Platform'
++++
+
 # Start to Finish
 
 This dependency type dictates that work on the predecessor task must

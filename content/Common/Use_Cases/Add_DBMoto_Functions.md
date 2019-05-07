@@ -1,3 +1,8 @@
++++
+title = 'Add DBMoto Functions'
+solution = 'Platform'
++++
+
 # Add DBMoto Functions
 
 Use the *[DBMoto Function

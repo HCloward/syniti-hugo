@@ -1,3 +1,8 @@
++++
+title = 'View Failed Jobs'
+solution = 'Platform'
++++
+
 # View Failed Jobs
 
 When the Services icon on the Site toolbar is yellow, there is a failed

@@ -1,3 +1,8 @@
++++
+title = 'Parameters for Work List Event Rules'
+solution = 'Platform'
++++
+
 # Parameters for Work List Event Rules
 
 The Work List Event Rule Execution engine supports the following

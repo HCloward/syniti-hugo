@@ -1,3 +1,8 @@
++++
+title = 'Data Services Profiling Results Table Columns'
+solution = 'Platform'
++++
+
 # Data Services Profiling Results Table Columns
 
 <div class="use">

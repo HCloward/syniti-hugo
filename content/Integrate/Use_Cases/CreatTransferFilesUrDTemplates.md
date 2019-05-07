@@ -1,3 +1,8 @@
++++
+title = 'Create and Transfer Files for User Defined Fixed Width or Delimited Templates'
+solution = 'Platform'
++++
+
 # Create and Transfer Files for User Defined Fixed Width or Delimited Templates
 
 When a User Defined template type is assigned to a process and posted,

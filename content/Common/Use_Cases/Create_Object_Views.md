@@ -1,3 +1,8 @@
++++
+title = 'Create Object Views'
+solution = 'Platform'
++++
+
 # Create Object Views
 
 The first step in setting up duplicate detection is to create a view

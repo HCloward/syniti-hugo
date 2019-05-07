@@ -1,3 +1,8 @@
++++
+title = 'Receive Workflow Messages'
+solution = 'Platform'
++++
+
 # Receive Workflow Messages
 
 dspTrack™ sends workflow messages to users assigned to a Plan Task or

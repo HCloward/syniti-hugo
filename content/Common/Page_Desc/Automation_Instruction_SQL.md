@@ -1,3 +1,8 @@
++++
+title = 'Automation Instruction – SQL'
+solution = 'Platform'
++++
+
 # Automation Instruction – SQL
 
 <div class="use">

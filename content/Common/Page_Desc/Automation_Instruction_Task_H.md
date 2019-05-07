@@ -1,3 +1,8 @@
++++
+title = 'Automation Instruction Task H'
+solution = 'Platform'
++++
+
 # Automation Instruction Task H
 
 [Automation Instruction Task V](#Automation_Instruction2)

@@ -1,3 +1,8 @@
++++
+title = 'Configure Relationships Manually for a Process based on an XML Template'
+solution = 'Platform'
++++
+
 # Configure Relationships Manually for a Process based on an XML Template
 
 <span id="Create and Transfer XML files Steps" class="popUpLink">Review

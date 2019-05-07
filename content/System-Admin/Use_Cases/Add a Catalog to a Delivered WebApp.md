@@ -1,3 +1,8 @@
++++
+title = 'Add a Catalog to a Delivered WebApp'
+solution = 'Platform'
++++
+
 # Add a Catalog to a Delivered WebApp
 
 An Administrator can assign additional catalogs to delivered WebApps to

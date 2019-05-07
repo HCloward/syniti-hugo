@@ -1,3 +1,8 @@
++++
+title = 'Use Template Security Roles'
+solution = 'Platform'
++++
+
 # Use Template Security Roles
 
 dspTrack™ is installed with four template security roles that are

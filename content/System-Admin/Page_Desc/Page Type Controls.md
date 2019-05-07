@@ -1,3 +1,8 @@
++++
+title = 'Page Type Controls'
+solution = 'Platform'
++++
+
 # Page Type Controls
 
 <div class="use">

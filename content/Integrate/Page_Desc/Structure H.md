@@ -1,3 +1,8 @@
++++
+title = 'Structure'
+solution = 'Platform'
++++
+
 # Structure
 
 **NOTE**: The fields that display on this page are based on the selected

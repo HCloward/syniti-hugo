@@ -1,3 +1,8 @@
++++
+title = 'Add a Data Source Instance'
+solution = 'Platform'
++++
+
 # Add a Data Source Instance
 
 The data source instance is the logical platform "instance" (for

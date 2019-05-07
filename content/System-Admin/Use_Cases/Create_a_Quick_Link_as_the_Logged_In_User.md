@@ -1,3 +1,8 @@
++++
+title = 'Create Quick Links as the Logged In User'
+solution = 'Platform'
++++
+
 # Create Quick Links as the Logged In User
 
 Quick links are essentially book marks.

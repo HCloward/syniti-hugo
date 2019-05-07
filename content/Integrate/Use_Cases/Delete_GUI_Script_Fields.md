@@ -1,3 +1,8 @@
++++
+title = 'Delete GUI Script Fields'
+solution = 'Platform'
++++
+
 # Delete GUI Script Fields
 
 <span id="Post Data using a GUI Script Steps" class="popUpLink">\>Review

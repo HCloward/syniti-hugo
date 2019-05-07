@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 ## Set up Data Sources for Transform in System Administration
 
 An Administrator must set up data sources in System Administration

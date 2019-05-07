@@ -1,3 +1,8 @@
++++
+title = 'Schedule Updates to Tables'
+solution = 'Platform'
++++
+
 # Schedule Updates to Tables
 
 The Schedule Updates functionality clears or updates all manually set

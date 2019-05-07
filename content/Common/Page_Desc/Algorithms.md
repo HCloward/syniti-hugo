@@ -1,3 +1,8 @@
++++
+title = 'Algorithms'
+solution = 'Platform'
++++
+
 # Algorithms
 
 This page displays algorithms pre-populated in the database.

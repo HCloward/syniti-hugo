@@ -1,3 +1,8 @@
++++
+title = 'Automation Instruction Task Group Definition'
+solution = 'Platform'
++++
+
 # Automation Instruction Task Group Definition
 
 <div class="use">

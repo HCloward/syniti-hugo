@@ -1,3 +1,8 @@
++++
+title = 'SQL Objects (With History)'
+solution = 'Platform'
++++
+
 # SQL Objects (With History)
 
 This page displays only SQL objects that have been changed.

@@ -1,3 +1,8 @@
++++
+title = 'Archive Manifest'
+solution = 'Platform'
++++
+
 # Archive Manifest
 
 <div class="use">

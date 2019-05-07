@@ -1,3 +1,8 @@
++++
+title = 'Create Column Dictionaries'
+solution = 'Platform'
++++
+
 # Create Column Dictionaries
 
 Each column can be assigned a dictionary. A dictionary contains words

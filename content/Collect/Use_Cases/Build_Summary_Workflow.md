@@ -1,3 +1,8 @@
++++
+title = 'Build Summary Workflow'
+solution = 'Platform'
++++
+
 # Build Summary Workflow
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Post Data for a Process Based on a BAPI'
+solution = 'Platform'
++++
+
 # Post Data for a Process Based on a BAPI
 
 <span id="Post Data using a BAPI Steps" class="popUpLink">\>Review the

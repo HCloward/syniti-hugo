@@ -1,3 +1,8 @@
++++
+title = 'Page Extension - Default'
+solution = 'Platform'
++++
+
 # Page Extension - Default
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Activate the BAPI Template'
+solution = 'Platform'
++++
+
 # Activate the BAPI Template
 
 <span id="Post Data using a BAPI Steps" class="popUpLink">\>Review the

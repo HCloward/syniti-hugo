@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # Forgotten/Incorrect Encryption Password
 
 If the encryption password is forgotten or is incorrect, it cannot be

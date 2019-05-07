@@ -1,3 +1,8 @@
++++
+title = 'Add a Service Queue'
+solution = 'Platform'
++++
+
 # Add a Service Queue
 
 A System Administrator can add a service queue to have a separate queue

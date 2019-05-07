@@ -1,3 +1,8 @@
++++
+title = 'View History of an Interface'
+solution = 'Platform'
++++
+
 # View History of an Interface
 
 Automate is delivered with various pages and charts that show the

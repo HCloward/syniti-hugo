@@ -1,3 +1,8 @@
++++
+title = 'Add Rules and Indices to Tables'
+solution = 'Platform'
++++
+
 # Add Rules and Indices to Tables
 
 Rules and indices are added to tables to clean data (rules) and improve

@@ -1,3 +1,8 @@
++++
+title = 'Add a Toolbar Button'
+solution = 'Platform'
++++
+
 # Add a Toolbar Button
 
 A toolbar displays at the top of the page, and contains buttons that can

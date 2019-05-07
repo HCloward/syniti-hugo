@@ -1,3 +1,8 @@
++++
+title = 'File Format Types'
+solution = 'Platform'
++++
+
 # File Format Types
 
 <div class="use">

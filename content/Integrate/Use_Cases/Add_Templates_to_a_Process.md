@@ -1,3 +1,8 @@
++++
+title = 'Add Templates to a Process'
+solution = 'Platform'
++++
+
 # Add Templates to a Process
 
 A process can have one or many templates added to it but must have at

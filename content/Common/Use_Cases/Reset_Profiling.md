@@ -1,3 +1,8 @@
++++
+title = 'Reset Profiling'
+solution = 'Platform'
++++
+
 # Reset Profiling
 
 If an error occurs during a profiling process, reset the process for the

@@ -1,3 +1,8 @@
++++
+title = 'Set dspTrack™ Security'
+solution = 'Platform'
++++
+
 # Set dspTrack™ Security
 
 An Administrator can be assigned to template security roles that are

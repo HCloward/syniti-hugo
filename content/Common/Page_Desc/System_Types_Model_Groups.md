@@ -1,3 +1,8 @@
++++
+title = 'System Types Model Groups'
+solution = 'Platform'
++++
+
 # System Types Model Groups
 
 <div class="use">

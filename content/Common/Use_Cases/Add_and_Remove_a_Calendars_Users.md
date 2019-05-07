@@ -1,3 +1,8 @@
++++
+title = 'Add and Remove a Calendar’s Users'
+solution = 'Platform'
++++
+
 # Add and Remove a Calendar’s Users
 
 If a user is assigned to a calendar, a check mark displays in the IS

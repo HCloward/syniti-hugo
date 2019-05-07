@@ -1,3 +1,8 @@
++++
+title = 'Catalog Phrase Translations (Generic)'
+solution = 'Platform'
++++
+
 # Catalog Phrase Translations (Generic)
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Register a Stored Procedure as an After Post Rule'
+solution = 'Platform'
++++
+
 # Register a Stored Procedure as an After Post Rule
 
 When posting data to a target system, a Template Administrator can

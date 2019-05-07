@@ -1,3 +1,8 @@
++++
+title = 'Copy Files'
+solution = 'Platform'
++++
+
 # Copy Files
 
 Files can be copied from one directory into another directory.

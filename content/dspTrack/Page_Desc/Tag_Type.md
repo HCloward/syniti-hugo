@@ -1,3 +1,8 @@
++++
+title = 'Tag Type'
+solution = 'Platform'
++++
+
 # Tag Type
 
 <div class="use">

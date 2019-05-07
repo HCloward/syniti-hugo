@@ -1,3 +1,8 @@
++++
+title = 'Copy'
+solution = 'Platform'
++++
+
 # Copy
 
 <div class="use">

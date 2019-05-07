@@ -1,3 +1,8 @@
++++
+title = 'Use a Calendar'
+solution = 'Platform'
++++
+
 # Use a Calendar
 
 In Common, users can add calendars for use in dspTrack™ and for

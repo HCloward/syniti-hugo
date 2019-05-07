@@ -1,3 +1,8 @@
++++
+title = 'Set Up Schedule Groups'
+solution = 'Platform'
++++
+
 # Set Up Schedule Groups
 
 Tables that do not have a Schedule Group set up run multi-thread limited

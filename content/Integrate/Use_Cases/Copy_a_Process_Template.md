@@ -1,3 +1,8 @@
++++
+title = 'Copy a Process Template'
+solution = 'Platform'
++++
+
 # Copy a Process Template
 
 A Process Designer can reuse database objects generated for a different

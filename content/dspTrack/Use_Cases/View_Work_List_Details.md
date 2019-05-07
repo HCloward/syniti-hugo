@@ -1,3 +1,8 @@
++++
+title = 'View Work List Details'
+solution = 'Platform'
++++
+
 # View Work List Details
 
 The *Work List Detail* page displays additional information that is not

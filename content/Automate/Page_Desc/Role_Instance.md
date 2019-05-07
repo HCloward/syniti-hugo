@@ -1,3 +1,8 @@
++++
+title = 'Role (Instance)'
+solution = 'Platform'
++++
+
 # Role (Instance)
 
 <div class="use">

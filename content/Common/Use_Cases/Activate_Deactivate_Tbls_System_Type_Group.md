@@ -1,3 +1,8 @@
++++
+title = 'Activate or Deactivate Tables in a System Type Group'
+solution = 'Platform'
++++
+
 # Activate or Deactivate Tables in a System Type Group
 
 All the tables in a System Type Group can be activated or deactivated in

@@ -1,3 +1,8 @@
++++
+title = 'Stop and Start Service Pages'
+solution = 'Platform'
++++
+
 # Stop and Start Service Pages
 
 There are no security restrictions for stopping or starting a service

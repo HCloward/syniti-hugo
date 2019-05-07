@@ -1,3 +1,8 @@
++++
+title = 'Setup and Configuration for Automate'
+solution = 'Platform'
++++
+
 # Setup and Configuration for Automate
 
 Before getting started with Common, verify the following steps have been

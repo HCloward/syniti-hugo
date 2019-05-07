@@ -1,3 +1,8 @@
++++
+title = 'System Types Mappings'
+solution = 'Platform'
++++
+
 # System Types Mappings
 
 <div class="use">

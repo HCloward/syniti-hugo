@@ -1,3 +1,8 @@
++++
+title = 'History (Chart)'
+solution = 'Platform'
++++
+
 # History (Chart)
 
 <div class="use">

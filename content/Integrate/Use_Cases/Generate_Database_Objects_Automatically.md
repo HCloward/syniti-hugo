@@ -1,3 +1,8 @@
++++
+title = 'Generate Database Objects Automatically'
+solution = 'Platform'
++++
+
 # Generate Database Objects Automatically
 
 Use Integrate’s optional Auto Generate Database Objects feature to

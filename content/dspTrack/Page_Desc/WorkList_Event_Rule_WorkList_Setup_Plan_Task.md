@@ -1,3 +1,8 @@
++++
+title = 'Work List Event Rule - Work List Setup – Plan Task'
+solution = 'Platform'
++++
+
 # Work List Event Rule - Work List Setup – Plan Task
 
 <div class="use">

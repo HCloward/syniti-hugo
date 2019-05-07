@@ -1,3 +1,8 @@
++++
+title = 'Register View Validations'
+solution = 'Platform'
++++
+
 # Register View Validations
 
 To register view interface validations in Automate:

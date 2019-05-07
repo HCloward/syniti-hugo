@@ -1,3 +1,8 @@
++++
+title = 'Package Types'
+solution = 'Platform'
++++
+
 # Package Types
 
 Package Types are ways in which data is downloaded from the source. The

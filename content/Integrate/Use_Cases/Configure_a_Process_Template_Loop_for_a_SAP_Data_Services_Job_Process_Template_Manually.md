@@ -1,3 +1,8 @@
++++
+title = 'Configure a Process Template Loop for a SAP Data Services Job Process Template Manually'
+solution = 'Platform'
++++
+
 # Configure a Process Template Loop for a SAP Data Services Job Process Template Manually
 
 Follow these steps if using Global Variables, which are optional.

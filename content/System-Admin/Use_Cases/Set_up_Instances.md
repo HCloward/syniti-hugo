@@ -1,3 +1,8 @@
++++
+title = 'Set up Instances'
+solution = 'Platform'
++++
+
 # Set up Instances
 
 Before moving items between instances, the source and target instances

@@ -1,3 +1,8 @@
++++
+title = 'Create an OnValidate Page Event for Bulk Execution'
+solution = 'Platform'
++++
+
 # Create an OnValidate Page Event for Bulk Execution
 
 Bulk Execution is only supported on the OnValidate event. This event

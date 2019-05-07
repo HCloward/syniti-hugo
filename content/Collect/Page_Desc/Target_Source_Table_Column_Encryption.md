@@ -1,3 +1,8 @@
++++
+title = 'Target Source Table Column Encryption'
+solution = 'Platform'
++++
+
 # Target Source Table Column Encryption
 
 <div class="use">

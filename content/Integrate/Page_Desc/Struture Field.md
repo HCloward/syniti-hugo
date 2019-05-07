@@ -1,3 +1,8 @@
++++
+title = 'Structure Field'
+solution = 'Platform'
++++
+
 # Structure Field
 
 **NOTE**: The fields that display on this page are based on the selected

@@ -1,3 +1,8 @@
++++
+title = 'Work List Event Validations - Work List Setup H'
+solution = 'Platform'
++++
+
 # Work List Event Validations - Work List Setup H
 
 [Work List Event Validations - Work List Setup

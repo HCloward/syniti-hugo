@@ -1,3 +1,8 @@
++++
+title = 'dspTrack™ and MSProject Integration'
+solution = 'Platform'
++++
+
 # dspTrack™ and MSProject Integration
 
 dspTrack™ is a task execution tool and should be used to monitor tasks

@@ -1,3 +1,8 @@
++++
+title = 'Copy a Calendar'
+solution = 'Platform'
++++
+
 # Copy a Calendar
 
 An existing calendar can be used as the basis for a new calendar.

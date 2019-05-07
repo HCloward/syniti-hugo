@@ -1,3 +1,8 @@
++++
+title = 'Dictionaries'
+solution = 'Platform'
++++
+
 # Dictionaries
 
 <div class="use">

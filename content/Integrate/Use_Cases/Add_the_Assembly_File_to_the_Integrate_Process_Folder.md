@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # <span>Copy the Assembly File to the Integrate Process Folder</span>
 
 A Custom template allows a user to create a mechanism for posting to any

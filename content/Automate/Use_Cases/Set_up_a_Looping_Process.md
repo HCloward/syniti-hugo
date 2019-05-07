@@ -1,3 +1,8 @@
++++
+title = 'Set up a Looping Process'
+solution = 'Platform'
++++
+
 # Set up a Looping Process
 
 Looping is a powerful function that can be used with the FileIterator

@@ -1,3 +1,8 @@
++++
+title = 'Import Project Files into dspTrack™'
+solution = 'Platform'
++++
+
 # Import Project Files into dspTrack™
 
 dspTrack™ allows a user to import project files into a dspTrack™ plan,

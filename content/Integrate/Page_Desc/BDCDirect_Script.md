@@ -1,3 +1,8 @@
++++
+title = 'BDCdirect: Script'
+solution = 'Platform'
++++
+
 # BDCdirect: Script
 
 <div class="use">

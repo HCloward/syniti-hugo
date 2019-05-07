@@ -1,3 +1,8 @@
++++
+title = 'BDC Screen Fields H'
+solution = 'Platform'
++++
+
 # BDC Screen Fields H
 
 [BDC Screen Fields V](#BDC_Screen_Fields_V_All)

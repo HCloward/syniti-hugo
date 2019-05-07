@@ -1,3 +1,8 @@
++++
+title = 'Register a Data Source in Common'
+solution = 'Platform'
++++
+
 # Register a Data Source in Common
 
 While data sources can be registered by an Administrator in System

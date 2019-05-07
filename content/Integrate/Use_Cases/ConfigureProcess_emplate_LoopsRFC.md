@@ -1,3 +1,8 @@
++++
+title = 'Configure Process Template Loops for an RFC Template'
+solution = 'Platform'
++++
+
 # Configure Process Template Loops for an RFC Template
 
 <span id="Post Data using an RFC Steps" class="popUpLink">\>Review the

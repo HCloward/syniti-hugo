@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # Add Custom Data Classifications and Information Types
 
 A Common Administrator can configure custom data classifications and

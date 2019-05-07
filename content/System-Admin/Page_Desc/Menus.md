@@ -1,3 +1,8 @@
++++
+title = 'Menus'
+solution = 'Platform'
++++
+
 # Menus
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'View a User’s Authentications, Property Changes and Access Changes'
+solution = 'Platform'
++++
+
 # View a User’s Authentications, Property Changes and Access Changes
 
 An Administrator can view the system logs for a user, which detail:

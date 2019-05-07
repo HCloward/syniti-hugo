@@ -1,3 +1,8 @@
++++
+title = 'Plan User Registration'
+solution = 'Platform'
++++
+
 # Plan User Registration
 
 <div class="use">

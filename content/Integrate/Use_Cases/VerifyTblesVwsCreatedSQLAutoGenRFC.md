@@ -1,3 +1,8 @@
++++
+title = 'Verify the Tables and Views were Created in SQL by the Auto Generate Process for an RFC'
+solution = 'Platform'
++++
+
 # Verify the Tables and Views were Created in SQL by the Auto Generate Process for an RFC
 
 <span id="Post Data using an RFC Steps" class="popUpLink">\>Review the

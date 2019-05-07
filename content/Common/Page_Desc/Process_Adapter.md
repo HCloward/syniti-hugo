@@ -1,3 +1,8 @@
++++
+title = 'Process Adapter'
+solution = 'Platform'
++++
+
 # Process Adapter
 
 <div class="use">

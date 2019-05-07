@@ -1,3 +1,8 @@
++++
+title = 'Set Retry Parameters'
+solution = 'Platform'
++++
+
 # Set Retry Parameters
 
 The Retry Parameters, in conjunction with Event Validations, allow the

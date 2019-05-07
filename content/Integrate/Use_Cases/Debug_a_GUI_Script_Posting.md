@@ -1,3 +1,8 @@
++++
+title = 'Debug a GUI Script Posting'
+solution = 'Platform'
++++
+
 # Debug a GUI Script Posting
 
 Sometimes the best way to determine a problem with a post is to manually

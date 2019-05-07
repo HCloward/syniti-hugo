@@ -1,3 +1,8 @@
++++
+title = 'Configure Plan Tags'
+solution = 'Platform'
++++
+
 # Configure Plan Tags
 
 Plan tags, used to group tasks for reporting and organization purpose,

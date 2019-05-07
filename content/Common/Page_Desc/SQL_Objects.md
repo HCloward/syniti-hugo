@@ -1,3 +1,8 @@
++++
+title = 'SQL Objects'
+solution = 'Platform'
++++
+
 # SQL Objects
 
 <div class="use">

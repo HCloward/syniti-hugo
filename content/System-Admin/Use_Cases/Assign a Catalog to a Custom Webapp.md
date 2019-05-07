@@ -1,3 +1,8 @@
++++
+title = 'Assign a Catalog to a Custom Web App'
+solution = 'Platform'
++++
+
 # Assign a Catalog to a Custom Web App
 
 Once a catalog is created, it must be registered to an existing WebApp.

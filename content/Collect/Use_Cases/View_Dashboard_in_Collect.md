@@ -1,3 +1,8 @@
++++
+title = 'View Dashboard in Collect'
+solution = 'Platform'
++++
+
 # View Dashboard in Collect
 
 Data displays on the dashboard depending on the number of days set in

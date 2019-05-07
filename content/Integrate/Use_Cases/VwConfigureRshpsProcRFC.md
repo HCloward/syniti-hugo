@@ -1,3 +1,8 @@
++++
+title = 'View and Configure Relationships for a Process Based on an RFC'
+solution = 'Platform'
++++
+
 # View and Configure Relationships for a Process Based on an RFC
 
 <span id="Post Data using an RFC Steps" class="popUpLink">\>Review the

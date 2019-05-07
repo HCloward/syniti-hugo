@@ -1,3 +1,8 @@
++++
+title = 'Plan Tag'
+solution = 'Platform'
++++
+
 # Plan Tag
 
 <div class="use">

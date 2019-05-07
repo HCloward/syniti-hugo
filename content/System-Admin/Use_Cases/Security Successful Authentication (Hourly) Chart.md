@@ -1,3 +1,8 @@
++++
+title = 'Security: Successful Authentication (Hourly) Chart'
+solution = 'Platform'
++++
+
 # Security: Successful Authentication (Hourly) Chart
 
 This chart displays the number of successful logins into the DSP site

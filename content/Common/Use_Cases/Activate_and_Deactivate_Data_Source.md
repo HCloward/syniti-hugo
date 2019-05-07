@@ -1,3 +1,8 @@
++++
+title = 'Activate and Deactivate Data Sources'
+solution = 'Platform'
++++
+
 # Activate and Deactivate Data Sources
 
 When a data source is registered in System Administration, it is

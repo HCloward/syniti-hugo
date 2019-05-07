@@ -1,3 +1,8 @@
++++
+title = 'Show SQL'
+solution = 'Platform'
++++
+
 # Show SQL
 
 In order to troubleshoot issues with page design, designers can view the

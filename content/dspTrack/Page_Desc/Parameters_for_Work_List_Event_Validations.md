@@ -1,3 +1,8 @@
++++
+title = 'Parameters for Work List Event Validations'
+solution = 'Platform'
++++
+
 # Parameters for Work List Event Validations
 
 The validation can only use parameters that can be passed in from the

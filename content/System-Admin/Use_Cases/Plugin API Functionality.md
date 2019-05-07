@@ -1,3 +1,8 @@
++++
+title = 'Plugin API Functionality'
+solution = 'Platform'
++++
+
 # Plugin API Functionality
 
 The following API functionality is helpful to know and understand when

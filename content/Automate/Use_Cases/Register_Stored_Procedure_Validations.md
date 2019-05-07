@@ -1,3 +1,8 @@
++++
+title = 'Register Stored Procedure Validations'
+solution = 'Platform'
++++
+
 # Register Stored Procedure Validations
 
 To register stored procedure interface validations in Automate:

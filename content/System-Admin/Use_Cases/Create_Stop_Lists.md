@@ -1,3 +1,8 @@
++++
+title = 'Create Stop Lists'
+solution = 'Platform'
++++
+
 # Create Stop Lists
 
 A stop list is a list of words that is ignored during duplicate

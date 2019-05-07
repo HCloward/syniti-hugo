@@ -1,3 +1,8 @@
++++
+title = 'View and Configure Relationships for a Process Based on a BAPI'
+solution = 'Platform'
++++
+
 # View and Configure Relationships for a Process Based on a BAPI
 
 <span id="Post Data using a BAPI Steps" class="popUpLink">\>Review the

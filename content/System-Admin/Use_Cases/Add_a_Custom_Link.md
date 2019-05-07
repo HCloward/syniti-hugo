@@ -1,3 +1,8 @@
++++
+title = 'Add Custom Links to a Page'
+solution = 'Platform'
++++
+
 # Add Custom Links to a Page
 
 Users can add Toolbar buttons with custom links to a DSP® page, without

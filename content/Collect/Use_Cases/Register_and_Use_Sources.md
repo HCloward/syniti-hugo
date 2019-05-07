@@ -1,3 +1,8 @@
++++
+title = 'Register and Use Sources'
+solution = 'Platform'
++++
+
 # Register and Use Sources
 
 A *Source* is a legacy system from where a copy of data is downloaded

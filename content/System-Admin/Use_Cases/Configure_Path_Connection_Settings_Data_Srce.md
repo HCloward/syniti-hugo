@@ -1,3 +1,8 @@
++++
+title = 'Configure the Path or Connection Settings for a Data Source'
+solution = 'Platform'
++++
+
 # Configure the Path or Connection Settings for a Data Source
 
 Configure the path or connection settings for a data source to a path or

@@ -1,3 +1,8 @@
++++
+title = 'Post Data Using a BAPI'
+solution = 'Platform'
++++
+
 # Post Data Using a BAPI
 
 Integrate supports the execution of any RFC enabled Function Module in

@@ -1,3 +1,8 @@
++++
+title = 'Add a System Type Model'
+solution = 'Platform'
++++
+
 # Add a System Type Model
 
 A System Type Model contains the definition of a system, including the

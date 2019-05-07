@@ -1,3 +1,8 @@
++++
+title = 'Process Adapter Properties'
+solution = 'Platform'
++++
+
 # Process Adapter Properties
 
 <div class="use">

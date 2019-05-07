@@ -1,3 +1,8 @@
++++
+title = 'Assign Users to WebApp Groups'
+solution = 'Platform'
++++
+
 # Assign Users to WebApp Groups
 
 <span style="font-weight: bold;">NOTE:</span> Users not in the System

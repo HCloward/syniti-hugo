@@ -1,3 +1,8 @@
++++
+title = 'Extraction Methods and Tools'
+solution = 'Platform'
++++
+
 # Extraction Methods and Tools
 
 The following diagram illustrates how the various extraction/replication

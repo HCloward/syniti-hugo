@@ -1,3 +1,8 @@
++++
+title = 'Workflow Summary User Settings'
+solution = 'Platform'
++++
+
 # Workflow Summary User Settings
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Data Services Profiling Results Setup'
+solution = 'Platform'
++++
+
 # Data Services Profiling Results Setup
 
 This section contains the following topics:

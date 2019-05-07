@@ -1,3 +1,8 @@
++++
+title = 'Organize Plans with Projects'
+solution = 'Platform'
++++
+
 # Organize Plans with Projects
 
 *Projects* group plans for reporting purposes.

@@ -1,3 +1,8 @@
++++
+title = 'BDC Screen Conditionals'
+solution = 'Platform'
++++
+
 # BDC Screen Conditionals
 
 <div class="use">

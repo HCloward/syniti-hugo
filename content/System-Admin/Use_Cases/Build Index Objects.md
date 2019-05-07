@@ -1,3 +1,8 @@
++++
+title = 'Build Index Objects'
+solution = 'Platform'
++++
+
 # Build Index Objects
 
 An index is comprised of several SQL Server objects, including three

@@ -1,3 +1,8 @@
++++
+title = 'Send a Temporary Password to a New User'
+solution = 'Platform'
++++
+
 # Send a Temporary Password to a New User
 
 A new user needs a password in order to log in. An Administrator sends

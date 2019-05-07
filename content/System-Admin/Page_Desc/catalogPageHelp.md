@@ -1,3 +1,8 @@
++++
+title = 'Catalog Page Help H <span id="Catalogs_Page_Help_H"></span>'
+solution = 'Platform'
++++
+
 # Catalog Page Help H <span id="Catalogs_Page_Help_H"></span>
 
 [Catalog Page Help V](#Catalog_Page_Help_V)

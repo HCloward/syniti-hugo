@@ -1,3 +1,8 @@
++++
+title = 'View Workflow Summary History'
+solution = 'Platform'
++++
+
 # View Workflow Summary History
 
 If users opt to not receive the workflow summary emails, the emails can

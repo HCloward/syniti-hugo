@@ -1,3 +1,8 @@
++++
+title = 'Create a View in SQL Server'
+solution = 'Platform'
++++
+
 # Create a View in SQL Server
 
 For data to be extracted from a component and posted to SAP via

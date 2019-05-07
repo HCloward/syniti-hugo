@@ -1,3 +1,8 @@
++++
+title = 'DBMoto Table Rules'
+solution = 'Platform'
++++
+
 # DBMoto Table Rules
 
 <div class="use">

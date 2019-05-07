@@ -1,3 +1,8 @@
++++
+title = 'Target Source Daily Metric Chart'
+solution = 'Platform'
++++
+
 # Target Source Daily Metric Chart
 
 This chart displays the number of records in the selected source that

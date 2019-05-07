@@ -1,3 +1,8 @@
++++
+title = 'Advanced Plugin Example'
+solution = 'Platform'
++++
+
 # Advanced Plugin Example
 
 In these advanced plugin examples, the plugin connects to the database

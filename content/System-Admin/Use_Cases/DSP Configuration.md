@@ -1,3 +1,8 @@
++++
+title = 'DSP® Configuration'
+solution = 'Platform'
++++
+
 # DSP® Configuration
 
 This section contains the following topics:

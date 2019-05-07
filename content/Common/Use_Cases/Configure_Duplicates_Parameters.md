@@ -1,3 +1,8 @@
++++
+title = 'Configure Duplicates Parameters'
+solution = 'Platform'
++++
+
 # Configure Duplicates Parameters
 
 Parameters are Duplicate-specific settings that must be configured per

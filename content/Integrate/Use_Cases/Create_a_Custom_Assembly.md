@@ -1,3 +1,8 @@
++++
+title = 'Create a Custom Assembly'
+solution = 'Platform'
++++
+
 # Create a Custom Assembly
 
 A developer creates an assembly that is used by the Custom template when

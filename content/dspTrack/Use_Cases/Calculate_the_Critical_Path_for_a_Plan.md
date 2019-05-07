@@ -1,3 +1,8 @@
++++
+title = 'Calculate the Critical Path for a Plan'
+solution = 'Platform'
++++
+
 # Calculate the Critical Path for a Plan
 
 dspTrack™ uses a plan’s Critical Path (and other settings) to determine

@@ -1,3 +1,8 @@
++++
+title = 'Tasks Status by Plan'
+solution = 'Platform'
++++
+
 # Tasks Status by Plan
 
 This chart displays a bar chart of the percentage of tasks in each

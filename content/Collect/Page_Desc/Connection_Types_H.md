@@ -1,3 +1,8 @@
++++
+title = 'Connection Types H'
+solution = 'Platform'
++++
+
 # Connection Types H
 
 [Connection Types V](#Connection_Types_V)

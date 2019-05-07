@@ -1,3 +1,8 @@
++++
+title = 'Configure Column Header and Text Color in the Excel Template'
+solution = 'Platform'
++++
+
 # Configure Column Header and Text Color in the Excel Template
 
 A Page Designer can configure the colors of the header rows and text for

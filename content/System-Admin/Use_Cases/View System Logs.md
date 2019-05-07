@@ -1,3 +1,8 @@
++++
+title = 'View System Logs'
+solution = 'Platform'
++++
+
 # View System Logs
 
 A System Administrator can view information about access changes made

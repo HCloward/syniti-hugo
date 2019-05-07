@@ -1,3 +1,8 @@
++++
+title = 'Add Users to a Work List Item'
+solution = 'Platform'
++++
+
 # Add Users to a Work List Item
 
 When a user is added to a Work List Item, that item appears on the Work

@@ -1,3 +1,8 @@
++++
+title = 'Create a Plugin'
+solution = 'Platform'
++++
+
 # Create a Plugin
 
 There are five basic steps to create a plugin:

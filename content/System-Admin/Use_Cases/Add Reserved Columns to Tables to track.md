@@ -1,3 +1,8 @@
++++
+title = 'Add Reserved Columns to Tables to Track Excel Integration'
+solution = 'Platform'
++++
+
 # Add Reserved Columns to Tables to Track Excel Integration
 
 To track the user and date/time of data entry during the Excel import

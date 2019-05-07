@@ -1,3 +1,8 @@
++++
+title = 'Copy Folders'
+solution = 'Platform'
++++
+
 # Copy Folders
 
 A folder and all its subfolders can be copied from one directory to

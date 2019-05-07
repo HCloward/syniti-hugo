@@ -1,3 +1,8 @@
++++
+title = 'Use Catalogs During Application Development'
+solution = 'Platform'
++++
+
 # Use Catalogs During Application Development
 
 DSP® catalogs provide a means to populate and administer translations,

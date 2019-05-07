@@ -1,3 +1,8 @@
++++
+title = 'Configure Parameters'
+solution = 'Platform'
++++
+
 # Configure Parameters
 
 Integrate parameters are settings used throughout the component that

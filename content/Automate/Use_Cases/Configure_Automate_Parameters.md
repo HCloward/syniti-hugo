@@ -1,3 +1,8 @@
++++
+title = 'Configure Automate Parameters'
+solution = 'Platform'
++++
+
 # Configure Automate Parameters
 
 The *[Parameters](../Page_Desc/Parameters.htm)* page controls

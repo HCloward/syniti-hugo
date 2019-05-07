@@ -1,3 +1,8 @@
++++
+title = 'Template H'
+solution = 'Platform'
++++
+
 # Template H
 
 [Template V All Tabs](#Template_V_All_Tabs)

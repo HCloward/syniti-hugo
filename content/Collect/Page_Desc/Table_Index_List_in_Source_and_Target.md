@@ -1,3 +1,8 @@
++++
+title = 'Table Index List in Source and Target'
+solution = 'Platform'
++++
+
 # Table Index List in Source and Target
 
 <div class="use">

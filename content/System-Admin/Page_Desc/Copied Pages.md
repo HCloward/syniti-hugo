@@ -1,3 +1,8 @@
++++
+title = 'Copied Pages'
+solution = 'Platform'
++++
+
 # Copied Pages
 
 <div class="use">

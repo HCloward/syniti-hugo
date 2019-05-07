@@ -1,3 +1,8 @@
++++
+title = 'Add a Plan Task Manually'
+solution = 'Platform'
++++
+
 # Add a Plan Task Manually
 
 Add a Plan Task by importing a project.

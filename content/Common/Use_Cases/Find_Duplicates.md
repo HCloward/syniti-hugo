@@ -1,3 +1,8 @@
++++
+title = 'Find Duplicates'
+solution = 'Platform'
++++
+
 # Find Duplicates
 
 Once the duplicates view has been registered and the columns for the

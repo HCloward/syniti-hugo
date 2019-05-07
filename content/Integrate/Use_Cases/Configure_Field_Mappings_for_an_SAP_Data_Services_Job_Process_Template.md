@@ -1,3 +1,8 @@
++++
+title = 'Configure Field Mappings for an SAP Data Services Job Process Template'
+solution = 'Platform'
++++
+
 # Configure Field Mappings for an SAP Data Services Job Process Template
 
 Follow these steps if using Global Variables, which are optional.

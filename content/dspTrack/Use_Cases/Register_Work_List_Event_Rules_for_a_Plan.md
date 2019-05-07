@@ -1,3 +1,8 @@
++++
+title = 'Register Work List Event Rules for a Plan'
+solution = 'Platform'
++++
+
 # Register Work List Event Rules for a Plan
 
 Rules registered at the plan level execute for all tasks in the plan.

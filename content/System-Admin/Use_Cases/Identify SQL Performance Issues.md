@@ -1,3 +1,8 @@
++++
+title = 'Identify SQL Performance Issues'
+solution = 'Platform'
++++
+
 # Identify SQL Performance Issues
 
 If you are running a 6.5.X version of the DSP® or above, you can employ

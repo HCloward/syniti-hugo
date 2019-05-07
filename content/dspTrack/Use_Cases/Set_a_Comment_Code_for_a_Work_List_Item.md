@@ -1,3 +1,8 @@
++++
+title = 'Set a Comment Code for a Work List Item'
+solution = 'Platform'
++++
+
 # Set a Comment Code for a Work List Item
 
 To set a comment code for a Work List item:

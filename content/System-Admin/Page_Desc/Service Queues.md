@@ -1,3 +1,8 @@
++++
+title = 'Service Queues'
+solution = 'Platform'
++++
+
 # Service Queues
 
 <div class="use">

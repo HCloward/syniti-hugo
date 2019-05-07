@@ -1,3 +1,8 @@
++++
+title = 'Detail List of Metrics'
+solution = 'Platform'
++++
+
 # Detail List of Metrics
 
 <div class="use">

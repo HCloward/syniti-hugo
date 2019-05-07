@@ -1,3 +1,8 @@
++++
+title = 'Map a Project User Name to a User Name in the Platform'
+solution = 'Platform'
++++
+
 # Map a Project User Name to a User Name in the Platform
 
 If an MS Project plan has resource names assigned to tasks that do not

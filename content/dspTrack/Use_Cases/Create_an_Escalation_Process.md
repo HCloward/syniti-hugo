@@ -1,3 +1,8 @@
++++
+title = 'Create an Escalation Process'
+solution = 'Platform'
++++
+
 # Create an Escalation Process
 
 dspTrack™ allows users to send escalation workflow emails to management

@@ -1,3 +1,8 @@
++++
+title = 'Add an Exception to the Calendar'
+solution = 'Platform'
++++
+
 # Add an Exception to the Calendar
 
 Calendars are used in dspTrack™ and dspConcut™ components. Refer to [Use

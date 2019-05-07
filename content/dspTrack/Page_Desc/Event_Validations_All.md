@@ -1,3 +1,8 @@
++++
+title = 'Event Validations All H'
+solution = 'Platform'
++++
+
 # Event Validations All H
 
 [Event Validations All V](#Work_List_Event_Validations_V)

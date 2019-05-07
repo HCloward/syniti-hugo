@@ -1,3 +1,8 @@
++++
+title = 'Configure Logic Tags'
+solution = 'Platform'
++++
+
 # Configure Logic Tags
 
 Once a tag with a Logic tag type has been added, it can be further

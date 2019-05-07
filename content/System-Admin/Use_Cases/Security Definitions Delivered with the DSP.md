@@ -1,3 +1,8 @@
++++
+title = 'Security Definitions Delivered with the DSP®'
+solution = 'Platform'
++++
+
 # Security Definitions Delivered with the DSP®
 
 The DSP® is delivered with the following security

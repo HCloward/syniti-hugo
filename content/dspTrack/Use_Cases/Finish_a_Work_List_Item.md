@@ -1,3 +1,8 @@
++++
+title = 'Finish Work on a Work List Item or Plan Task'
+solution = 'Platform'
++++
+
 # Finish Work on a Work List Item or Plan Task
 
 A user can mark an item as finished on the <span>Work List</span>, even

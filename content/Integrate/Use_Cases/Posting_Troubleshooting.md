@@ -1,3 +1,8 @@
++++
+title = 'Posting Troubleshooting'
+solution = 'Platform'
++++
+
 # Posting Troubleshooting
 
 Sometimes the best way to determine a problem with a post is to manually

@@ -1,3 +1,8 @@
++++
+title = 'Tasks'
+solution = 'Platform'
++++
+
 # Tasks
 
 <div class="use">

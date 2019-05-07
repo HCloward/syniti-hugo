@@ -1,3 +1,8 @@
++++
+title = 'Use Advanced Options'
+solution = 'Platform'
++++
+
 # Use Advanced Options
 
 Advanced Options in Collect are features that can be useful in a data

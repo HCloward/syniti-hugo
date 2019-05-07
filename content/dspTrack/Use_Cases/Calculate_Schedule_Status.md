@@ -1,3 +1,8 @@
++++
+title = 'Calculate Schedule Status'
+solution = 'Platform'
++++
+
 # Calculate Schedule Status
 
 The Schedule Status for a task indicates whether a task is on time,

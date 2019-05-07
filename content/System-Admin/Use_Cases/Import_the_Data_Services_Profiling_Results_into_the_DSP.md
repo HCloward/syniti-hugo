@@ -1,3 +1,8 @@
++++
+title = 'Import the Data Services Profiling Results into the DSP'
+solution = 'Platform'
++++
+
 # Import the Data Services Profiling Results into the DSP
 
 To import the data services profiling results into the DSP, the database

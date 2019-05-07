@@ -1,3 +1,8 @@
++++
+title = 'Database Function Setup'
+solution = 'Platform'
++++
+
 # Database Function Setup
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Enable Duplicate Detection'
+solution = 'Platform'
++++
+
 # Enable Duplicate Detection
 
 Before Duplicate Detection can be enabled, an index must be created.

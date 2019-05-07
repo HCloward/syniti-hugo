@@ -1,3 +1,8 @@
++++
+title = 'Enable Excel Integration'
+solution = 'Platform'
++++
+
 # Enable Excel Integration
 
 To use Excel Integration on a Construct page or a page in a custom

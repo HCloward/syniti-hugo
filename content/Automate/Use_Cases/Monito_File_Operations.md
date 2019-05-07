@@ -1,3 +1,8 @@
++++
+title = 'Monitor File Operations'
+solution = 'Platform'
++++
+
 # Monitor File Operations
 
 File Operations are a configuration setting required for the

@@ -1,3 +1,8 @@
++++
+title = 'Register Workflow Events'
+solution = 'Platform'
++++
+
 # Register Workflow Events
 
 Workflow events execute a pre-defined workflow view. The workflow view

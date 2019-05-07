@@ -1,3 +1,8 @@
++++
+title = 'Activate the Custom Template'
+solution = 'Platform'
++++
+
 # Activate the Custom Template
 
 A Custom template allows a user to create a mechanism for posting to any

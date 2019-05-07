@@ -1,3 +1,8 @@
++++
+title = 'Allow a Quick Link to be Created for a Page'
+solution = 'Platform'
++++
+
 # Allow a Quick Link to be Created for a Page
 
 *This step is only required for custom development.*

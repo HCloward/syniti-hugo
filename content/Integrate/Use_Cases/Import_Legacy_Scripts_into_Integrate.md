@@ -1,3 +1,8 @@
++++
+title = 'Import Legacy Scripts into Integrate'
+solution = 'Platform'
++++
+
 # Import Legacy Scripts into Integrate
 
 If users created scripts in BDCdirect<span>®</span> or templates in

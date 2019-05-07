@@ -1,3 +1,8 @@
++++
+title = 'Register WebApp Events'
+solution = 'Platform'
++++
+
 # Register WebApp Events
 
 WebApp events are DSP® events designed and declared as Public, which

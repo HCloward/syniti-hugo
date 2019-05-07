@@ -1,3 +1,8 @@
++++
+title = 'Set Up Notifications for an Interface'
+solution = 'Platform'
++++
+
 # Set Up Notifications for an Interface
 
 Roles are used for notification purposes, such as emailing information

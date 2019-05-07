@@ -1,3 +1,8 @@
++++
+title = 'Service Pages'
+solution = 'Platform'
++++
+
 # Service Pages
 
 <div class="use">

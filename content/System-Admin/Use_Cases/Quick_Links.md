@@ -1,3 +1,8 @@
++++
+title = 'Quick Links'
+solution = 'Platform'
++++
+
 # Quick Links
 
 Quick links are essentially book marks. Users can create a quick link

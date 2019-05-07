@@ -1,3 +1,8 @@
++++
+title = 'SAP Text List H'
+solution = 'Platform'
++++
+
 # SAP Text List H
 
 [SAP Text List V](#SAP_Text_List_V)

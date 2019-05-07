@@ -1,3 +1,8 @@
++++
+title = 'Customize the Page to Display for All Users'
+solution = 'Platform'
++++
+
 # Customize the Page to Display for All Users
 
 This level of customization will take precedence over the application

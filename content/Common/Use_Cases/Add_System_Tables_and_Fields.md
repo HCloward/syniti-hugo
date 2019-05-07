@@ -1,3 +1,8 @@
++++
+title = 'Add System Tables and Fields'
+solution = 'Platform'
++++
+
 # Add System Tables and Fields
 
 Tables and metadata can either be imported from a data source or

@@ -1,3 +1,8 @@
++++
+title = 'Status'
+solution = 'Platform'
++++
+
 # Status
 
 <div class="use">

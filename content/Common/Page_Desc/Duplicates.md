@@ -1,3 +1,8 @@
++++
+title = 'Duplicates'
+solution = 'Platform'
++++
+
 # Duplicates
 
 <div class="use">

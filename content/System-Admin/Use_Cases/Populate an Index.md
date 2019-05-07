@@ -1,3 +1,8 @@
++++
+title = 'Populate an Index'
+solution = 'Platform'
++++
+
 # Populate an Index
 
 Once an index has been built, it can be populated with data. This step

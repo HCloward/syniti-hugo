@@ -1,3 +1,8 @@
++++
+title = 'Create Quick Links'
+solution = 'Platform'
++++
+
 # Create Quick Links
 
 Before creating quick links, verify the steps outlined in [Quick Links

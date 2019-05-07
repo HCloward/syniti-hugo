@@ -1,3 +1,8 @@
++++
+title = 'View and Configure Relationships for a Process Based on a GUI Script Template'
+solution = 'Platform'
++++
+
 # View and Configure Relationships for a Process Based on a GUI Script Template
 
 <span id="Post Data using a GUI Script Steps" class="popUpLink">\>Review

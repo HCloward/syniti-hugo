@@ -1,3 +1,8 @@
++++
+title = 'Parameters – Integrate'
+solution = 'Platform'
++++
+
 # Parameters – Integrate
 
 <div class="use">

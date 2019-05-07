@@ -1,3 +1,8 @@
++++
+title = 'BDC Posting'
+solution = 'Platform'
++++
+
 # BDC Posting
 
 Using a BDCPostMethod of **BOASessionCreation** creates batch input

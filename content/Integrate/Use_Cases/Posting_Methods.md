@@ -1,3 +1,8 @@
++++
+title = 'Posting Methods'
+solution = 'Platform'
++++
+
 # Posting Methods
 
 When posting data to SAP using a process post, select the posting

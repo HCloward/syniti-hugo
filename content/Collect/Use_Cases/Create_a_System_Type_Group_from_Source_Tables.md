@@ -1,3 +1,8 @@
++++
+title = 'Create a System Type Group from Source Tables'
+solution = 'Platform'
++++
+
 # Create a System Type Group from Source Tables
 
 System Type groups are logical groupings of tables, such as Customer or

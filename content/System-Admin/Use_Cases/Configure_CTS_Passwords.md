@@ -1,3 +1,8 @@
++++
+title = 'Configure CTS Passwords'
+solution = 'Platform'
++++
+
 # Configure CTS Passwords
 
 The CTS password is a security measure that ensures objects are moved to

@@ -1,3 +1,8 @@
++++
+title = 'Archive a Plan'
+solution = 'Platform'
++++
+
 # Archive a Plan
 
 dspTrack™ allows a user to archive a plan for reporting purposes. When a

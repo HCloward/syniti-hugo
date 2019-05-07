@@ -1,3 +1,8 @@
++++
+title = 'Register Tables to Source'
+solution = 'Platform'
++++
+
 # Register Tables to Source
 
 Tables are registered to sources so that when a target refresh is

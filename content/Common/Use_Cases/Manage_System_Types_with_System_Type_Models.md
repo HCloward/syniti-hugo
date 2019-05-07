@@ -1,3 +1,8 @@
++++
+title = 'Manage System Types with System Type Models'
+solution = 'Platform'
++++
+
 # Manage System Types with System Type Models
 
 System Types Models document which tables are required to be populated

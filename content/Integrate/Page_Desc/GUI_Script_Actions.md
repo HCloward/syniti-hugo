@@ -1,3 +1,8 @@
++++
+title = 'GUI Script Actions'
+solution = 'Platform'
++++
+
 # GUI Script Actions
 
 <div class="use">

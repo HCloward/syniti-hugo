@@ -1,3 +1,8 @@
++++
+title = 'View the WebApp Groups and WebApp Pages that a User can Access'
+solution = 'Platform'
++++
+
 # View the WebApp Groups and WebApp Pages that a User can Access
 
 WebApp groups define authorization or access on a page by page basis.

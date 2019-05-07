@@ -1,3 +1,8 @@
++++
+title = 'Upload Files to a Work List Item'
+solution = 'Platform'
++++
+
 # Upload Files to a Work List Item
 
 Refer to [Upload](UpldFilesfoProjTaskWrkListItem.htm) and

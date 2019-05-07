@@ -1,3 +1,8 @@
++++
+title = 'Add a Default Calendar to a Plan or to All Plans'
+solution = 'Platform'
++++
+
 # Add a Default Calendar to a Plan or to All Plans
 
 dspTrack™ uses the non-work days and holidays in a calendar when

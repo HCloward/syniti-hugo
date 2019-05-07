@@ -1,3 +1,8 @@
++++
+title = 'Use the Toolkit for Custom Development'
+solution = 'Platform'
++++
+
 # Use the Toolkit for Custom Development
 
 The Tooklit is a set of tools that developers can use onsite to add

@@ -1,3 +1,8 @@
++++
+title = 'Start to Start'
+solution = 'Platform'
++++
+
 # Start to Start
 
 This dependency type dictates that work on the predecessor task must

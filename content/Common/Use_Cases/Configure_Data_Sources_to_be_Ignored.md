@@ -1,3 +1,8 @@
++++
+title = 'Configure Data Sources to be Ignored'
+solution = 'Platform'
++++
+
 # Configure Data Sources to be Ignored
 
 By default, all data sources registered to the site in System

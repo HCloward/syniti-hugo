@@ -1,3 +1,8 @@
++++
+title = 'Copy Tasks'
+solution = 'Platform'
++++
+
 # Copy Tasks
 
 An existing task with the registered instructions can be copied and

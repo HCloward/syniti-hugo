@@ -1,3 +1,8 @@
++++
+title = 'Register Public Plugins'
+solution = 'Platform'
++++
+
 # Register Public Plugins
 
 Before the Automation Engine can be utilized, the DSP: Automation Engine

@@ -1,3 +1,8 @@
++++
+title = 'Project'
+solution = 'Platform'
++++
+
 # Project
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'View SQL Server Health Charts'
+solution = 'Platform'
++++
+
 # View SQL Server Health Charts
 
 These charts display current data used to monitor system performance, to

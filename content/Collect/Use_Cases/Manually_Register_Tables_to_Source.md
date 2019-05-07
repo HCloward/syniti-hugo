@@ -1,3 +1,8 @@
++++
+title = 'Manually Register Tables to Source'
+solution = 'Platform'
++++
+
 # Manually Register Tables to Source
 
 To manually register a table to a source:

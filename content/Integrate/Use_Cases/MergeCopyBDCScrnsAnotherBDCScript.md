@@ -1,3 +1,8 @@
++++
+title = 'Merge or Copy BDC Screens to Another BDC Script Template'
+solution = 'Platform'
++++
+
 # Merge or Copy BDC Screens to Another BDC Script Template
 
 <span id="Post Data using a BDC Script Steps" class="popUpLink">\>Review

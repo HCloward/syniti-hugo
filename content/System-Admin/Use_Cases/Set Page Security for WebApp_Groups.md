@@ -1,3 +1,8 @@
++++
+title = 'Set Page Security for WebApp Groups'
+solution = 'Platform'
++++
+
 # Set Page Security for WebApp Groups
 
 Rights to view, add, edit or delete data on a page in a WebApp are

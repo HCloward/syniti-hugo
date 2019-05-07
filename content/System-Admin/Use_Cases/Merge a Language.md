@@ -1,3 +1,8 @@
++++
+title = 'Merge a Language'
+solution = 'Platform'
++++
+
 # Merge a Language
 
 This feature is used by customers who are upgrading to 6.0 who have a

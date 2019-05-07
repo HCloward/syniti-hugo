@@ -1,3 +1,8 @@
++++
+title = 'Locales'
+solution = 'Platform'
++++
+
 # Locales
 
 <div class="use">

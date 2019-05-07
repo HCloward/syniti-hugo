@@ -1,3 +1,8 @@
++++
+title = 'Create a Process'
+solution = 'Platform'
++++
+
 # Create a Process
 
 A process, a series of posting steps:

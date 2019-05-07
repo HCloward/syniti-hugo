@@ -1,3 +1,8 @@
++++
+title = 'Debug Log H'
+solution = 'Platform'
++++
+
 # Debug Log H
 
 [Debug Log V](#Debug_Log_V)

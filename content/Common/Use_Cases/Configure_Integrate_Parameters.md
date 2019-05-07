@@ -1,3 +1,8 @@
++++
+title = 'Configure Integrate Parameters'
+solution = 'Platform'
++++
+
 # Configure Integrate Parameters
 
 Parameters are Integrate-specific settings that must be configured per

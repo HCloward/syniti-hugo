@@ -1,3 +1,8 @@
++++
+title = 'Integrate Tips and Troubleshooting'
+solution = 'Platform'
++++
+
 # Integrate Tips and Troubleshooting
 
 This section contains the following topics:

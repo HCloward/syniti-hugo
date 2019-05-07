@@ -1,3 +1,8 @@
++++
+title = 'Manage WebApp Catalogs'
+solution = 'Platform'
++++
+
 # Manage WebApp Catalogs
 
 Catalogs provide a means to:

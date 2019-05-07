@@ -1,3 +1,8 @@
++++
+title = 'Activate or Deactivate Tables in a System Type Model Group'
+solution = 'Platform'
++++
+
 # Activate or Deactivate Tables in a System Type Model Group
 
 Before performing this task, [add a System Type model

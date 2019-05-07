@@ -1,3 +1,8 @@
++++
+title = 'Generate Records in the AE History Table'
+solution = 'Platform'
++++
+
 # Generate Records in the AE History Table
 
 The **AE Insert History** check box is a troubleshooting tool for any

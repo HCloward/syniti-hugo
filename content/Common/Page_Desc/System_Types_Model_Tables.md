@@ -1,3 +1,8 @@
++++
+title = 'System Types Model Tables'
+solution = 'Platform'
++++
+
 # System Types Model Tables
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'View Activity'
+solution = 'Platform'
++++
+
 # View Activity
 
 Activity for each component is grouped by monitor status.

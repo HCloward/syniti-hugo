@@ -1,3 +1,8 @@
++++
+title = 'No batch input data for screen'
+solution = 'Platform'
++++
+
 # No batch input data for screen
 
 This error indicates that there was a screen that appeared during the

@@ -1,3 +1,8 @@
++++
+title = 'Import Legacy BDCPlus Templates into Integrate'
+solution = 'Platform'
++++
+
 # Import Legacy BDCPlus Templates into Integrate
 
 Importing a BDCPlus template creates a template in Integrate based on

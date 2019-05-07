@@ -1,3 +1,8 @@
++++
+title = 'Configure Filters in the DSP®'
+solution = 'Platform'
++++
+
 # Configure Filters in the DSP®
 
 Filtering a result set refers to the process of limiting the number of

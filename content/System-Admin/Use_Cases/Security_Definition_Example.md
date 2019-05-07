@@ -1,3 +1,8 @@
++++
+title = 'Security Definition Example'
+solution = 'Platform'
++++
+
 # Security Definition Example
 
 As an example, to create a role that gave access to a technical analyst

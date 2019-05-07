@@ -1,3 +1,8 @@
++++
+title = 'Manage Failed Jobs'
+solution = 'Platform'
++++
+
 # Manage Failed Jobs
 
 This section contains the following topics:

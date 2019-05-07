@@ -1,3 +1,8 @@
++++
+title = 'Create Security Definitions'
+solution = 'Platform'
++++
+
 # Create Security Definitions
 
 **NOTE:** This section only applies to custom components and the three

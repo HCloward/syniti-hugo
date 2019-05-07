@@ -1,3 +1,8 @@
++++
+title = 'View the Workflow Log'
+solution = 'Platform'
++++
+
 # View the Workflow Log
 
 Each time the DSP® sends a workflow message to a user, it is recorded in

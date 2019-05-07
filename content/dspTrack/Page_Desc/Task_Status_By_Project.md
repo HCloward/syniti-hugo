@@ -1,3 +1,8 @@
++++
+title = 'Task Status by Project'
+solution = 'Platform'
++++
+
 # Task Status by Project
 
 This chart displays the percentage of tasks in each status (Ready,

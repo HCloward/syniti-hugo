@@ -1,3 +1,8 @@
++++
+title = 'Job Detail H'
+solution = 'Platform'
++++
+
 # Job Detail H
 
 [Job Detail V](#Job_Detail_V)

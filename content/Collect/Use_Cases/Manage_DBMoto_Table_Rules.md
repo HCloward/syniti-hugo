@@ -1,3 +1,8 @@
++++
+title = 'Manage DBMoto® Table Rules'
+solution = 'Platform'
++++
+
 # Manage DBMoto® Table Rules
 
 DBMoto® rules remove the leading zeros using a script built into Collect

@@ -1,3 +1,8 @@
++++
+title = 'Activate Interfaces, Events and Validations'
+solution = 'Platform'
++++
+
 # Activate Interfaces, Events and Validations
 
 If the interface, event or validations were disabled for debugging,

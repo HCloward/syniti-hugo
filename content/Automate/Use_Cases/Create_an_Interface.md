@@ -1,3 +1,8 @@
++++
+title = 'Create an Interface'
+solution = 'Platform'
++++
+
 # Create an Interface
 
 An interface can be created using events, stored procedures, workflows,

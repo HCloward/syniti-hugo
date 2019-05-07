@@ -1,3 +1,8 @@
++++
+title = 'Use Dependency Types'
+solution = 'Platform'
++++
+
 # Use Dependency Types
 
 When a project file is imported into dspTrack™, the predecessor tasks

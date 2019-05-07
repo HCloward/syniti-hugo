@@ -1,3 +1,8 @@
++++
+title = 'Process Template After Post Rule Collect Where'
+solution = 'Platform'
++++
+
 # Process Template After Post Rule Collect Where
 
 <div class="use">

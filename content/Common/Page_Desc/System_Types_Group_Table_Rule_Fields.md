@@ -1,3 +1,8 @@
++++
+title = 'System Types Group Table Rule Fields'
+solution = 'Platform'
++++
+
 # System Types Group Table Rule Fields
 
 <div class="use">

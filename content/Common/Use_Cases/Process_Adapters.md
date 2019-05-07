@@ -1,3 +1,8 @@
++++
+title = 'Process Adapters'
+solution = 'Platform'
++++
+
 # Process Adapters
 
 The <span style="font-style: italic;">[Process Adapters](#)</span> and

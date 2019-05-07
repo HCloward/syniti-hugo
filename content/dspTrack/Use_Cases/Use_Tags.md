@@ -1,3 +1,8 @@
++++
+title = 'Use Tags'
+solution = 'Platform'
++++
+
 # Use Tags
 
 A *tag* is an optional label applied to a task or group of tasks. Tags

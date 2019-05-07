@@ -1,3 +1,8 @@
++++
+title = 'Delete Files'
+solution = 'Platform'
++++
+
 # Delete Files
 
 All files in a directory according to a specific mask can be deleted.

@@ -1,3 +1,8 @@
++++
+title = 'Register Plugin in DSP®'
+solution = 'Platform'
++++
+
 # Register Plugin in DSP®
 
 Once the plugin is created, it must be registered in the DSP.

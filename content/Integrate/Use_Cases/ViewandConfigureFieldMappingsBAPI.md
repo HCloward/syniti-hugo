@@ -1,3 +1,8 @@
++++
+title = 'View and Configure Field Mappings for a Process based on a BAPI'
+solution = 'Platform'
++++
+
 # View and Configure Field Mappings for a Process based on a BAPI
 
 <span id="Post Data using a BAPI Steps" class="popUpLink">\>Review the

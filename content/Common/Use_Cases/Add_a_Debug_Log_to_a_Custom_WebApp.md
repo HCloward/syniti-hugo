@@ -1,3 +1,8 @@
++++
+title = 'Add a Debug Log to a Custom WebApp'
+solution = 'Platform'
++++
+
 # Add a Debug Log to a Custom WebApp
 
 Debug logs display information, such as error messages and the date and

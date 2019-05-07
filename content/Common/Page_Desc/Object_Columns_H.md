@@ -1,3 +1,8 @@
++++
+title = 'Object Columns H'
+solution = 'Platform'
++++
+
 # Object Columns H
 
 [Object Columns V](#Object_Columns_V)

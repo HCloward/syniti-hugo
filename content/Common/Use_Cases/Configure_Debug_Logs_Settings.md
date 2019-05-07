@@ -1,3 +1,8 @@
++++
+title = 'Configure Debug Logs Settings'
+solution = 'Platform'
++++
+
 # Configure Debug Logs Settings
 
 The <span style="font-style: italic;">Debug Logs</span> page allows

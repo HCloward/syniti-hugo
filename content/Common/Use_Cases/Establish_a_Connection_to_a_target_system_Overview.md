@@ -1,3 +1,8 @@
++++
+title = 'Establish a Connection in a Target System Overview'
+solution = 'Platform'
++++
+
 # Establish a Connection in a Target System Overview
 
 Used in Integrate and dspCompose™, a template defines how data is posted

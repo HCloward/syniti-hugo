@@ -1,3 +1,8 @@
++++
+title = 'User History Log'
+solution = 'Platform'
++++
+
 # User History Log
 
 <div class="use">

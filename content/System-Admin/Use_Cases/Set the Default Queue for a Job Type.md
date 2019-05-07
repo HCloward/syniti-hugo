@@ -1,3 +1,8 @@
++++
+title = 'Set the Default Queue for a Job Type'
+solution = 'Platform'
++++
+
 # Set the Default Queue for a Job Type
 
 The DSP® is delivered with Job Types that categorize jobs as Background

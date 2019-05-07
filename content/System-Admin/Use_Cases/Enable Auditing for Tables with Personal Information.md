@@ -1,3 +1,8 @@
++++
+title = 'Enable Auditing for Tables with Personal Information'
+solution = 'Platform'
++++
+
 # Enable Auditing for Tables with Personal Information
 
 On a client’s site, a System Administrator must enable auditing for any

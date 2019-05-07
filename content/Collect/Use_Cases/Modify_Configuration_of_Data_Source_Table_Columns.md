@@ -1,3 +1,8 @@
++++
+title = 'Modify Configuration of Data Source Table Columns'
+solution = 'Platform'
++++
+
 # Modify Configuration of Data Source Table Columns
 
 Data Source tables can either be modified or directly added or deleted

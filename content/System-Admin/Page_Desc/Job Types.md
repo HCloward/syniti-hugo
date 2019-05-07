@@ -1,3 +1,8 @@
++++
+title = 'Job Types'
+solution = 'Platform'
++++
+
 # Job Types
 
 <div class="use">

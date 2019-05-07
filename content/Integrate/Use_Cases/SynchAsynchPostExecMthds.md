@@ -1,3 +1,8 @@
++++
+title = 'Synchronous and Asynchronous Post Execution Methods'
+solution = 'Platform'
++++
+
 # Synchronous and Asynchronous Post Execution Methods
 
 Integrate supports two types of Post Execution Methods for a process:

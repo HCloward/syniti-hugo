@@ -1,3 +1,8 @@
++++
+title = 'Create a View'
+solution = 'Platform'
++++
+
 # Create a View
 
 **NOTE:** This section only applies to custom components and the three

@@ -1,3 +1,8 @@
++++
+title = 'Logical Path Instance (Browse)'
+solution = 'Platform'
++++
+
 # Logical Path Instance (Browse)
 
 <div class="use">

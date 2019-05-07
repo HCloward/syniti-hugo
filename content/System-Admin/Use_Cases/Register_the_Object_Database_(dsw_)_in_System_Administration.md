@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 ## Register the Object Database (dsw\*) in System Administration
 
 <span style="font-weight: bold;">NOTE</span>: Databases should not be

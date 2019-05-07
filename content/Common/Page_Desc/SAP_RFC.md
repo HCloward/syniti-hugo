@@ -1,3 +1,8 @@
++++
+title = 'SAP RFC'
+solution = 'Platform'
++++
+
 # SAP RFC
 
 <div class="use">

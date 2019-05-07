@@ -1,3 +1,8 @@
++++
+title = 'Track Construction Status'
+solution = 'Platform'
++++
+
 # Track Construction Status
 
 To track status, certain conditions must be met:

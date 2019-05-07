@@ -1,3 +1,8 @@
++++
+title = 'Customize, Organize, and View Quick Links'
+solution = 'Platform'
++++
+
 # Customize, Organize, and View Quick Links
 
 Quick links can be easily removed, hidden or displayed on the *Quick

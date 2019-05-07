@@ -1,3 +1,8 @@
++++
+title = 'Attachments'
+solution = 'Platform'
++++
+
 # Attachments
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Review Packing List to Exclude Specific Items'
+solution = 'Platform'
++++
+
 # Review Packing List to Exclude Specific Items
 
 Once the package is built, review the list of package items to exclude

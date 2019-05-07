@@ -1,3 +1,8 @@
++++
+title = 'Task Status on Import'
+solution = 'Platform'
++++
+
 # Task Status on Import
 
 When a project file is imported, dspTrack™ analyzes data for each task

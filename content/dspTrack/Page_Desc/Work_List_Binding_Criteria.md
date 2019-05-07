@@ -1,3 +1,8 @@
++++
+title = 'Work List Binding Criteria'
+solution = 'Platform'
++++
+
 # Work List Binding Criteria
 
 <div class="use">

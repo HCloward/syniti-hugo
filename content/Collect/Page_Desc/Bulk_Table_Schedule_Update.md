@@ -1,3 +1,8 @@
++++
+title = 'Bulk Table Schedule Update'
+solution = 'Platform'
++++
+
 # Bulk Table Schedule Update
 
 <div class="use">

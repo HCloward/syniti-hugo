@@ -1,3 +1,8 @@
++++
+title = 'Configure Job Status Types'
+solution = 'Platform'
++++
+
 # Configure Job Status Types
 
 The DSP® is delivered with Job Status Types that indicate where a job is

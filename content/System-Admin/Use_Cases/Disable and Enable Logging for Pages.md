@@ -1,3 +1,8 @@
++++
+title = 'Disable and Enable Logging for Pages'
+solution = 'Platform'
++++
+
 # Disable and Enable Logging for Pages
 
 A System Administrator can disable logging for specific pages if the

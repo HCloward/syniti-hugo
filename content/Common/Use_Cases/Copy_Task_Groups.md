@@ -1,3 +1,8 @@
++++
+title = 'Copy Task Groups'
+solution = 'Platform'
++++
+
 # Copy Task Groups
 
 An existing task group with the registered tasks and instructions can be

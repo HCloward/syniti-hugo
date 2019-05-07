@@ -1,3 +1,8 @@
++++
+title = 'BDC Script and GUI Script Recording Tips'
+solution = 'Platform'
++++
+
 # BDC Script and GUI Script Recording Tips
 
 A recording should be as perfect as possible. It should not have any

@@ -1,3 +1,8 @@
++++
+title = 'Catalog All Phrases'
+solution = 'Platform'
++++
+
 # Catalog All Phrases
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Report Group Columns'
+solution = 'Platform'
++++
+
 # Report Group Columns
 
 <div class="use">

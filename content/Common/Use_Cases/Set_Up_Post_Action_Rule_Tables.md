@@ -1,3 +1,8 @@
++++
+title = 'Set up Post Action Rule Tables'
+solution = 'Platform'
++++
+
 # Set up Post Action Rule Tables
 
 Use this generic method to register rules that are used by Collect after

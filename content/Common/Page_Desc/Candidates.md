@@ -1,3 +1,8 @@
++++
+title = 'Candidates'
+solution = 'Platform'
++++
+
 # Candidates
 
 <div class="use">

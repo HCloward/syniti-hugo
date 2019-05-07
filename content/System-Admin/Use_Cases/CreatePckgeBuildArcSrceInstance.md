@@ -1,3 +1,8 @@
++++
+title = 'Create a CTS Package and Build Archive in Source Instance'
+solution = 'Platform'
++++
+
 # Create a CTS Package and Build Archive in Source Instance
 
 A package is the record and configuration created on the CTS pages in

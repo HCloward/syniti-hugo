@@ -1,3 +1,8 @@
++++
+title = 'Add Logging Modules'
+solution = 'Platform'
++++
+
 # Add Logging Modules
 
 Logging modules are used to display lower severity log records on the

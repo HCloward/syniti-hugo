@@ -1,3 +1,8 @@
++++
+title = 'Register Security Definitions to Components (WebApps)'
+solution = 'Platform'
++++
+
 # Register Security Definitions to Components (WebApps)
 
 **NOTE:** This section only applies to custom components and the three

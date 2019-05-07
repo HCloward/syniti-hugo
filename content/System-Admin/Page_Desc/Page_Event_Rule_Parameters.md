@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # <span id="Page_Validation_Rules_H"></span>Page Event Rule Parameters
 
 <div class="use">

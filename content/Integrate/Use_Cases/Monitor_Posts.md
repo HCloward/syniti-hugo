@@ -1,3 +1,8 @@
++++
+title = 'Monitor Posts'
+solution = 'Platform'
++++
+
 # Monitor Posts
 
 Integrate allows a user to monitor process posts, whether submitted in

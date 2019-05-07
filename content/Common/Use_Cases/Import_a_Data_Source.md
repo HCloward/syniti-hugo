@@ -1,3 +1,8 @@
++++
+title = 'Import a Data Source'
+solution = 'Platform'
++++
+
 # Import a Data Source
 
 An Administrator performs this task to add data source metadata for

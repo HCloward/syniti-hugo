@@ -1,3 +1,8 @@
++++
+title = 'View Summary'
+solution = 'Platform'
++++
+
 # View Summary
 
 The refresh process can be monitored to view which tables have been

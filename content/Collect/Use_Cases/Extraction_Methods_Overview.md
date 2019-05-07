@@ -1,3 +1,8 @@
++++
+title = 'Extraction Methods Overview'
+solution = 'Platform'
++++
+
 # Extraction Methods Overview
 
 This documentation describes data extraction methods used in the

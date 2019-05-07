@@ -1,3 +1,8 @@
++++
+title = 'CTS Configure (SQL Object Registration Keys)'
+solution = 'Platform'
++++
+
 # CTS Configure (SQL Object Registration Keys)
 
 <div class="use">

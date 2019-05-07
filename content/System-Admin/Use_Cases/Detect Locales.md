@@ -1,3 +1,8 @@
++++
+title = 'Detect Locales'
+solution = 'Platform'
++++
+
 # Detect Locales
 
 Locales are installed with the platform and set date, number, and

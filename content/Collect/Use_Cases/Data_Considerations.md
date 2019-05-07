@@ -1,3 +1,8 @@
++++
+title = 'Data Considerations'
+solution = 'Platform'
++++
+
 # Data Considerations
 
 With a system in place, there are additional scope and data-related

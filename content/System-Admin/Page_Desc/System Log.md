@@ -1,3 +1,8 @@
++++
+title = 'System Log'
+solution = 'Platform'
++++
+
 # System Log
 
 <div class="use">

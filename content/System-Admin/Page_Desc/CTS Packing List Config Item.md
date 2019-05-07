@@ -1,3 +1,8 @@
++++
+title = 'CTS Packing List By Config Item'
+solution = 'Platform'
++++
+
 # CTS Packing List By Config Item
 
 <div class="use">

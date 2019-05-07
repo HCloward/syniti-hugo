@@ -1,3 +1,8 @@
++++
+title = 'Getting Started with DSP® Security for Delivered Components'
+solution = 'Platform'
++++
+
 # Getting Started with DSP® Security for Delivered Components
 
 To get started with DSP® security for delivered components:

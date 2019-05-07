@@ -1,3 +1,8 @@
++++
+title = 'Reset and Resubmit a Failed Post'
+solution = 'Platform'
++++
+
 # Reset and Resubmit a Failed Post
 
 If a posting fails, troubleshoot the errors using information on the

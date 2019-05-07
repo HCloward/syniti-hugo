@@ -1,4 +1,9 @@
-# <span id="CTS_Configure_(Shippable_Items)_H">CTS Configure (Shippable Items) H</span>
++++
+title = 'CTS Configure (Shippable Items) H'
+solution = 'Platform'
++++
+
+# CTS Configure (Shippable Items) H
 
 [CTS Configure (Shippable Items) V](#CTS)
 

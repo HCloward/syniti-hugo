@@ -1,3 +1,8 @@
++++
+title = 'Stop a Running Index'
+solution = 'Platform'
++++
+
 # Stop a Running Index
 
 Indexing a table can take a long time, so the option to stop a running

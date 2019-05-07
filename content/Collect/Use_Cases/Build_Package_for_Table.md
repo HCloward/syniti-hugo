@@ -1,3 +1,8 @@
++++
+title = 'Build Package for Table'
+solution = 'Platform'
++++
+
 # Build Package for Table
 
 To build a package for a table:

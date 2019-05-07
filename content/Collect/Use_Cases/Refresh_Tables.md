@@ -1,3 +1,8 @@
++++
+title = 'Refresh Tables'
+solution = 'Platform'
++++
+
 # Refresh Tables
 
 Before performing this task:

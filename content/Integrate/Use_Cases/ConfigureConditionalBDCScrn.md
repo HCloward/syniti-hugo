@@ -1,3 +1,8 @@
++++
+title = 'Configure a Conditional for a BDC Screen'
+solution = 'Platform'
++++
+
 # Configure a Conditional for a BDC Screen
 
 <span id="Post Data using a BDC Script Steps" class="popUpLink">\>Review

@@ -1,3 +1,8 @@
++++
+title = 'GUI Script Commands'
+solution = 'Platform'
++++
+
 # GUI Script Commands
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Trace Data Sources'
+solution = 'Platform'
++++
+
 # Trace Data Sources
 
 Tracing a data source allows for changes to be captured. This process is

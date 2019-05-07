@@ -1,3 +1,8 @@
++++
+title = 'How the DSP Uses Data Source Types'
+solution = 'Platform'
++++
+
 # How the DSP Uses Data Source Types
 
 <table>

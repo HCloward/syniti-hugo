@@ -1,3 +1,8 @@
++++
+title = 'Post Monitor Template'
+solution = 'Platform'
++++
+
 # Post Monitor Template
 
 <div class="use">

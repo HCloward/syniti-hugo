@@ -1,3 +1,8 @@
++++
+title = 'Add an Image to the DSP®'
+solution = 'Platform'
++++
+
 # Add an Image to the DSP®
 
 An Administrator can add an image to the DSP® that can be used in

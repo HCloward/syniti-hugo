@@ -1,3 +1,8 @@
++++
+title = 'Import Legacy BDCdirect<span>®</span> Scripts into Integrate'
+solution = 'Platform'
++++
+
 # Import Legacy BDCdirect<span>®</span> Scripts into Integrate
 
 Importing a BDCdirect® script creates a template in Integrate based on

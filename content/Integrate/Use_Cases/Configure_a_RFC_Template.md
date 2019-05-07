@@ -1,3 +1,8 @@
++++
+title = 'Configure an RFC Template'
+solution = 'Platform'
++++
+
 # Configure an RFC Template
 
 <span id="Post Data using an RFC Steps" class="popUpLink">\>Review the

@@ -1,3 +1,8 @@
++++
+title = 'Catalog Page Phrases'
+solution = 'Platform'
++++
+
 # Catalog Page Phrases
 
 <div class="use">

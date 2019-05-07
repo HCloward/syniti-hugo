@@ -1,3 +1,8 @@
++++
+title = 'Post Using RFC Execution'
+solution = 'Platform'
++++
+
 # Post Using RFC Execution
 
 Integrate supports the execution of any RFC enabled Function Module in

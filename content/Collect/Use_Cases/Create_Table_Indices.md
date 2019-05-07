@@ -1,3 +1,8 @@
++++
+title = 'Create Table Indices'
+solution = 'Platform'
++++
+
 # Create Table Indices
 
 Before performing this task:

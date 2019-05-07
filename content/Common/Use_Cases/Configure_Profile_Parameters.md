@@ -1,3 +1,8 @@
++++
+title = 'Configure Profile Parameters'
+solution = 'Platform'
++++
+
 # Configure Profile Parameters
 
 Parameters are Profile-specific settings that must be configured per

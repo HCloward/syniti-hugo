@@ -1,3 +1,8 @@
++++
+title = 'Set up Security for Integrate'
+solution = 'Platform'
++++
+
 # Set up Security for Integrate
 
 To set up security, an Administrator:

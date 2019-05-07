@@ -1,3 +1,8 @@
++++
+title = 'Product Licenses'
+solution = 'Platform'
++++
+
 # Product Licenses
 
 <div class="use">

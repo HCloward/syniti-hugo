@@ -1,3 +1,8 @@
++++
+title = 'Post a Process with Multiple Templates'
+solution = 'Platform'
++++
+
 # Post a Process with Multiple Templates
 
 A process can contain multiple templates of different template types.  A

@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # <span id="InterfacesH"></span> Interfaces H
 
 [Interfaces V](#InterfacesV)

@@ -1,3 +1,8 @@
++++
+title = 'Activate or Deactivate Multiple Processes for a Template'
+solution = 'Platform'
++++
+
 # Activate or Deactivate Multiple Processes for a Template
 
 Integrate allows a user to quickly activate or deactivate individual

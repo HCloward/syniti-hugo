@@ -1,3 +1,8 @@
++++
+title = 'System Types Model Required Fields'
+solution = 'Platform'
++++
+
 # System Types Model Required Fields
 
 <div class="use">

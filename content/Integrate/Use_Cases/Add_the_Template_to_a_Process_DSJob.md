@@ -1,3 +1,8 @@
++++
+title = 'Add the Template to a Process'
+solution = 'Platform'
++++
+
 # Add the Template to a Process
 
 A Template Administrator can add a template to a process so that the

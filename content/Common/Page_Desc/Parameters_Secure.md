@@ -1,3 +1,8 @@
++++
+title = 'Parameters – Secure'
+solution = 'Platform'
++++
+
 # Parameters – Secure
 
 <div class="use">

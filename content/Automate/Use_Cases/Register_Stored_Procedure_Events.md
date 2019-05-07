@@ -1,3 +1,8 @@
++++
+title = 'Register Stored Procedure Events'
+solution = 'Platform'
++++
+
 # Register Stored Procedure Events
 
 Stored procedure events execute a specified stored procedure. The stored

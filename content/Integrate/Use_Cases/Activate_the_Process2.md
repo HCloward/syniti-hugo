@@ -1,3 +1,8 @@
++++
+title = 'Activate the Process'
+solution = 'Platform'
++++
+
 # Activate the Process
 
 <span id="Post Data using a BAPI Steps" class="popUpLink">\>Review the

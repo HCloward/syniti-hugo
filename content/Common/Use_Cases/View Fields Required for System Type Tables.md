@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # View Fields Required for System Type Tables
 
 An Administrator can view fields required for System Type tables.

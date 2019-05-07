@@ -1,3 +1,8 @@
++++
+title = 'Configure Secure'
+solution = 'Platform'
++++
+
 # Configure Secure
 
 The Secure feature enables specific legacy data fields to be encrypted.

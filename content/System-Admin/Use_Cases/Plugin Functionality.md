@@ -1,3 +1,8 @@
++++
+title = 'Plugin Functionality'
+solution = 'Platform'
++++
+
 # Plugin Functionality
 
 The framework plugin API provides access to information about the

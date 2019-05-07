@@ -1,3 +1,8 @@
++++
+title = 'Register Target and Source Data Sources'
+solution = 'Platform'
++++
+
 # Register Target and Source Data Sources
 
 Target and Source data sources must be registered using the preferred

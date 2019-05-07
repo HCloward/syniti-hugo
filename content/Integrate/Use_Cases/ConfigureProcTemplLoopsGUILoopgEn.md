@@ -1,3 +1,8 @@
++++
+title = 'Configure Process Template Loops for a GUI Script Template with Looping Enabled'
+solution = 'Platform'
++++
+
 # Configure Process Template Loops for a GUI Script Template with Looping Enabled
 
 <span id="Post Data using a GUI Script Steps" class="popUpLink">\>Review

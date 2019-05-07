@@ -1,3 +1,8 @@
++++
+title = 'API Ping Agent'
+solution = 'Platform'
++++
+
 # API Ping Agent
 
 <div class="use">

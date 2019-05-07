@@ -1,3 +1,8 @@
++++
+title = 'Add Fields to Tables'
+solution = 'Platform'
++++
+
 # Add Fields to Tables
 
 Once system tables are added, configure fields for the table.

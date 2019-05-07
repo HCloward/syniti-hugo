@@ -1,3 +1,8 @@
++++
+title = 'View boaStatus Values'
+solution = 'Platform'
++++
+
 # View boaStatus Values
 
 The DSP® uses the boaStatus column to display information about a

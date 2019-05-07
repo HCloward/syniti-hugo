@@ -1,3 +1,8 @@
++++
+title = 'Post Data Using an SAP Data Services Job'
+solution = 'Platform'
++++
+
 # Post Data Using an SAP Data Services Job
 
 A Template Administrator can post data to a target system using a

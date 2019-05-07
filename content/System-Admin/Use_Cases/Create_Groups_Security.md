@@ -1,3 +1,8 @@
++++
+title = 'Create WebApp Groups using the *Groups* Page'
+solution = 'Platform'
++++
+
 # Create WebApp Groups using the *Groups* Page
 
 The platform is delivered with a set of WebApp groups. Users can also

@@ -1,3 +1,8 @@
++++
+title = 'System Types Table Lookup'
+solution = 'Platform'
++++
+
 # System Types Table Lookup
 
 <div class="use" data-xmlns="">

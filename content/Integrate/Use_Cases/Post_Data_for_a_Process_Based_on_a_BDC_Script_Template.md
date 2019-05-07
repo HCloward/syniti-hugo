@@ -1,3 +1,8 @@
++++
+title = 'Post Data for a Process Based on a BDC Script Template'
+solution = 'Platform'
++++
+
 # Post Data for a Process Based on a BDC Script Template
 
 <span id="Post Data using a BDC Script Steps" class="popUpLink">\>Review

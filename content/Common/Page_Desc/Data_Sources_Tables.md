@@ -1,3 +1,8 @@
++++
+title = 'Data Sources Tables'
+solution = 'Platform'
++++
+
 # Data Sources Tables
 
 <div class="use">

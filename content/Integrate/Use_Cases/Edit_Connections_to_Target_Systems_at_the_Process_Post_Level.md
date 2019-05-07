@@ -1,3 +1,8 @@
++++
+title = 'Edit Connections to Target Systems at the Process Post Level'
+solution = 'Platform'
++++
+
 # Edit Connections to Target Systems at the Process Post Level
 
 A Process Designer can reuse a process template by adding connections to

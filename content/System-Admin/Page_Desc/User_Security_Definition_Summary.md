@@ -1,3 +1,8 @@
++++
+title = 'User Security Definition Summary'
+solution = 'Platform'
++++
+
 # User Security Definition Summary
 
 <div class="use" data-xmlns="">

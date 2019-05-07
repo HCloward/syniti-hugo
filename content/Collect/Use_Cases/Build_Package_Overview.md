@@ -1,3 +1,8 @@
++++
+title = 'Build Package'
+solution = 'Platform'
++++
+
 # Build Package
 
 Packages, which download the data from the source database, can be built

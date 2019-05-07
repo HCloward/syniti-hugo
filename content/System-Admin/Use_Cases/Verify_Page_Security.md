@@ -1,3 +1,8 @@
++++
+title = 'Verify Page Security'
+solution = 'Platform'
++++
+
 # Verify Page Security
 
 In order for a user to create a quick link for their user profile or for

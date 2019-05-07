@@ -1,3 +1,8 @@
++++
+title = 'Job Status Types'
+solution = 'Platform'
++++
+
 # Job Status Types
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Create System Type Groups from the Fetch Process'
+solution = 'Platform'
++++
+
 # Create System Type Groups from the Fetch Process
 
 System Type groups are logical groupings of tables, such as Customer or

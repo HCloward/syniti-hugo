@@ -1,3 +1,8 @@
++++
+title = 'Manage BDC Screens and Fields'
+solution = 'Platform'
++++
+
 # Manage BDC Screens and Fields
 
 <span id="Post Data using a BDC Script Steps" class="popUpLink">\>Review

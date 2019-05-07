@@ -1,3 +1,8 @@
++++
+title = 'Add Work List Items'
+solution = 'Platform'
++++
+
 # Add Work List Items
 
 Work List Items, like Plan Tasks, display on the Work List unless they

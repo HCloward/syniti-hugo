@@ -1,3 +1,8 @@
++++
+title = 'View Workflow Download Failures'
+solution = 'Platform'
++++
+
 # View Workflow Download Failures
 
 Collect can send workflow emails to notify users when a table download

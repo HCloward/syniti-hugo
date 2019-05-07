@@ -1,3 +1,8 @@
++++
+title = 'Unassigned Tasks'
+solution = 'Platform'
++++
+
 # Unassigned Tasks
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'BDCPlus: Templates'
+solution = 'Platform'
++++
+
 # BDCPlus: Templates
 
 <div class="use">

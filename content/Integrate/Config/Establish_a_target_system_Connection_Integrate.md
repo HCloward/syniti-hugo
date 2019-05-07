@@ -1,3 +1,8 @@
++++
+title = 'Establish a Target System Connection'
+solution = 'Platform'
++++
+
 # Establish a Target System Connection
 
 The target system connection allows for the set up and configuration of

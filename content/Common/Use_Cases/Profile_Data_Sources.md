@@ -1,3 +1,8 @@
++++
+title = 'Profile Data Sources'
+solution = 'Platform'
++++
+
 # Profile Data Sources
 
 Data can be profiled for an [entire Data

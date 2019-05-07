@@ -1,3 +1,8 @@
++++
+title = 'Categories'
+solution = 'Platform'
++++
+
 # Categories
 
 <div class="use">

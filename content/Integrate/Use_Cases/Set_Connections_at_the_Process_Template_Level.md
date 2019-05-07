@@ -1,3 +1,8 @@
++++
+title = 'Set Available Connections at the Process Template Level'
+solution = 'Platform'
++++
+
 # Set Available Connections at the Process Template Level
 
 A Process Designer can reuse a process template by adding connections to

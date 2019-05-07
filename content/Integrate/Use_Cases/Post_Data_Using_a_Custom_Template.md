@@ -1,3 +1,8 @@
++++
+title = 'Post Data Using a Custom Template'
+solution = 'Platform'
++++
+
 # Post Data Using a Custom Template
 
 Custom templates provide the ability for a developer to post to

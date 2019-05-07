@@ -1,3 +1,8 @@
++++
+title = 'Reports'
+solution = 'Platform'
++++
+
 # Reports
 
 <div class="use">

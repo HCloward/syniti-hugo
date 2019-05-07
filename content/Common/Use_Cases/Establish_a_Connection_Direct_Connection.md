@@ -1,3 +1,8 @@
++++
+title = 'Establish a Connection via a Direct Connection to the Application Server'
+solution = 'Platform'
++++
+
 # Establish a Connection via a Direct Connection to the Application Server
 
 This task is performed by an Administrator.

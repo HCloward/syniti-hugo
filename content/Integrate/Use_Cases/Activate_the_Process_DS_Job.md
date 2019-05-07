@@ -1,3 +1,8 @@
++++
+title = 'Activate the Process'
+solution = 'Platform'
++++
+
 # Activate the Process
 
 A Template Administrator can activate a process to use the process

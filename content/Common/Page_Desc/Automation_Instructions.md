@@ -1,3 +1,8 @@
++++
+title = 'Automation Instructions'
+solution = 'Platform'
++++
+
 # Automation Instructions
 
 <div class="use">

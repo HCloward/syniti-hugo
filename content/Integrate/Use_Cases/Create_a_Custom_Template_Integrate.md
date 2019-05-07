@@ -1,3 +1,8 @@
++++
+title = 'Create A Custom Template'
+solution = 'Platform'
++++
+
 # Create A Custom Template
 
 A Custom template allows a user to create a mechanism for posting to any

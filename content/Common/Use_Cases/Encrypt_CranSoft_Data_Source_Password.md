@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 ## Encrypt CranSoft Data Source Password
 
 An Administrator must [encrypt the password in System

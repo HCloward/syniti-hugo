@@ -1,3 +1,8 @@
++++
+title = 'Add Phrases to Catalogs at the WebApp and Page Level'
+solution = 'Platform'
++++
+
 # Add Phrases to Catalogs at the WebApp and Page Level
 
 An Administrator can add translations for phrases in a corresponding

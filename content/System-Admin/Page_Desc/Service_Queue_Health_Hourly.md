@@ -1,3 +1,8 @@
++++
+title = 'Service: Queue Health (Hourly)'
+solution = 'Platform'
++++
+
 # Service: Queue Health (Hourly)
 
 This chart displays the percentage of jobs in a given queue that contain

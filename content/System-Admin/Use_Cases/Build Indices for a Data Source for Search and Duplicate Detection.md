@@ -1,3 +1,8 @@
++++
+title = 'Build Indices for a Data Source for Search and Duplicate Detection'
+solution = 'Platform'
++++
+
 # Build Indices for a Data Source for Search and Duplicate Detection
 
 Indices enable keyword searching of tables and the pages that expose the

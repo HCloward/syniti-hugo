@@ -1,3 +1,8 @@
++++
+title = 'Work with Work List Items'
+solution = 'Platform'
++++
+
 # Work with Work List Items
 
 Work List Items are ad hoc tasks that can be added outside of project

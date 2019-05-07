@@ -1,3 +1,8 @@
++++
+title = 'Activate the GUI Script Template'
+solution = 'Platform'
++++
+
 # Activate the GUI Script Template
 
 <span id="Post Data using a GUI Script Steps" class="popUpLink">\>Review

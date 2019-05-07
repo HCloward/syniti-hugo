@@ -1,3 +1,8 @@
++++
+title = 'Search for Duplicates'
+solution = 'Platform'
++++
+
 # Search for Duplicates
 
 Duplicate records are searched the same way a key word is searched. The

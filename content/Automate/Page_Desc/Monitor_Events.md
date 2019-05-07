@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # <span id="MonitorEventsH"></span> Monitor (Events) H
 
 [Monitor (Events) V](#MonitorEventsV)

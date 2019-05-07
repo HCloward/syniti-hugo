@@ -1,3 +1,8 @@
++++
+title = 'Site Customization'
+solution = 'Platform'
++++
+
 # Site Customization
 
 <div class="use">

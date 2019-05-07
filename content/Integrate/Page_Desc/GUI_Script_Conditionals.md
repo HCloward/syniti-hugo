@@ -1,3 +1,8 @@
++++
+title = 'GUI Script Conditionals'
+solution = 'Platform'
++++
+
 # GUI Script Conditionals
 
 <div class="use">

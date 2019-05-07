@@ -1,3 +1,8 @@
++++
+title = 'Configure Authentication Settings'
+solution = 'Platform'
++++
+
 # Configure Authentication Settings
 
 An Administrator can configure different authentication modes

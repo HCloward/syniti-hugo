@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # Set Values for System Types Table Fields
 
 A user can set values for a field if a field must always display a

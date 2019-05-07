@@ -1,3 +1,8 @@
++++
+title = 'Improve Data Extraction Efficiency'
+solution = 'Platform'
++++
+
 # Improve Data Extraction Efficiency
 
 Use the following tips to improve efficiency when using one of the

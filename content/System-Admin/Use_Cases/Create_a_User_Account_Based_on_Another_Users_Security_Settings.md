@@ -1,3 +1,8 @@
++++
+title = 'Create a User Account Based on Another User’s Security Settings'
+solution = 'Platform'
++++
+
 # Create a User Account Based on Another User’s Security Settings
 
 An Administrator can use the Create User From option on the

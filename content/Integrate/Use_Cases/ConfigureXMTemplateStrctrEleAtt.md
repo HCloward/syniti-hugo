@@ -1,3 +1,8 @@
++++
+title = 'Configure an XML Template with Structures, Elements and Attributes'
+solution = 'Platform'
++++
+
 # Configure an XML Template with Structures, Elements and Attributes
 
 <span id="Create and Transfer XML files Steps" class="popUpLink">Review

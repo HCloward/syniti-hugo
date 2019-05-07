@@ -1,3 +1,8 @@
++++
+title = 'Refresh'
+solution = 'Platform'
++++
+
 # Refresh
 
 Refresh processes can run on a schedule or can be manually initiated

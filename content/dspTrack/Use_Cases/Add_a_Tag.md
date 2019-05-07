@@ -1,3 +1,8 @@
++++
+title = 'Add a Tag'
+solution = 'Platform'
++++
+
 # Add a Tag
 
 Add a tag on the *Tag* page.

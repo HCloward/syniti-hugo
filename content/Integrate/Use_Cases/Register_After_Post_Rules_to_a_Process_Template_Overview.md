@@ -1,3 +1,8 @@
++++
+title = 'Register After Post Rules to a Process Template Overview'
+solution = 'Platform'
++++
+
 # Register After Post Rules to a Process Template Overview
 
 Rules pull data from a target or source to refresh local data after it

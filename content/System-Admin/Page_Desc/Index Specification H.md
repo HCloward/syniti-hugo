@@ -1,4 +1,9 @@
-# <span id="top"></span>Index (Specification) H
++++
+title = 'Index (Specification) H'
+solution = 'Platform'
++++
+
+# Index (Specification) H
 
 [Index (Specification) V](#Index)
 

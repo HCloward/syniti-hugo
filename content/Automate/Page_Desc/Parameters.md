@@ -1,3 +1,9 @@
++++
+title = 'Parameters
+/c/Users/Heather Cloward/Documents/frontMatter/Automate/Page_Desc/Parameters.md:# Parameters'
+solution = 'Platform'
++++
+
 # Parameters
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Set the Upload Path for dspTrack™'
+solution = 'Platform'
++++
+
 # Set the Upload Path for dspTrack™
 
 dspTrack™ allows users to import project files in MSProject (.mpp) and

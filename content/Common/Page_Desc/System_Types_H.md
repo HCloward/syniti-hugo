@@ -1,3 +1,8 @@
++++
+title = 'System Types H'
+solution = 'Platform'
++++
+
 # System Types H
 
 [System Types V](#System_Types_V)

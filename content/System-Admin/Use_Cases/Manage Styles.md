@@ -1,3 +1,8 @@
++++
+title = 'Manage Styles'
+solution = 'Platform'
++++
+
 # Manage Styles
 
 The default style for the DSP, Modern Blue, sets the colors, font sizes,

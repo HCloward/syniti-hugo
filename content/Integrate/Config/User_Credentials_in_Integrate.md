@@ -1,3 +1,8 @@
++++
+title = 'User Credentials in Integrate'
+solution = 'Platform'
++++
+
 # User Credentials in Integrate
 
 Integrate uses the same methods to acquire user credentials as

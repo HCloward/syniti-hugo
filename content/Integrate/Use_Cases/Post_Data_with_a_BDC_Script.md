@@ -1,3 +1,8 @@
++++
+title = 'Post Data with a BDC Script'
+solution = 'Platform'
++++
+
 # Post Data with a BDC Script
 
 Integrate allows a user to post data to SAP using the results of a Batch

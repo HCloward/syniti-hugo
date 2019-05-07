@@ -1,3 +1,8 @@
++++
+title = 'View and Configure Relationships for a Process Based on a BDC Script Template'
+solution = 'Platform'
++++
+
 # View and Configure Relationships for a Process Based on a BDC Script Template
 
 <span id="Post Data using a BDC Script Steps" class="popUpLink">\>Review

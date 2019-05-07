@@ -1,3 +1,8 @@
++++
+title = 'Copy Projects'
+solution = 'Platform'
++++
+
 # Copy Projects
 
 When a user copies a project, all of the following items can also be

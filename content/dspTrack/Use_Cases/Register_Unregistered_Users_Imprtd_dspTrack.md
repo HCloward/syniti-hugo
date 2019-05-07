@@ -1,3 +1,8 @@
++++
+title = 'Register Unregistered Users Imported into dspTrack™'
+solution = 'Platform'
++++
+
 # Register Unregistered Users Imported into dspTrack™
 
 When a project is imported into dspTrack™, the component attempts to

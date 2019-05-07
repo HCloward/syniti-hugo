@@ -1,3 +1,8 @@
++++
+title = 'Post Adapter'
+solution = 'Platform'
++++
+
 # Post Adapter
 
 <div class="use">

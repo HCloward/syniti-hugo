@@ -1,3 +1,8 @@
++++
+title = 'NonDuplicates'
+solution = 'Platform'
++++
+
 # NonDuplicates
 
 <div class="use">

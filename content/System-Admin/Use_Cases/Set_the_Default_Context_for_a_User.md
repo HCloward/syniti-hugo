@@ -1,3 +1,8 @@
++++
+title = 'Set the Default Context for a User'
+solution = 'Platform'
++++
+
 # Set the Default Context for a User
 
 An Administrator user can set the context (a Wave and Process Area) that

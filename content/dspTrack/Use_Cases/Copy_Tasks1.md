@@ -1,3 +1,8 @@
++++
+title = 'Copy Plan Tasks'
+solution = 'Platform'
++++
+
 # Copy Plan Tasks
 
 When a user copies a task, all of the following items can also be

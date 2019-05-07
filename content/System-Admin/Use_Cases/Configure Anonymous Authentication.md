@@ -1,3 +1,8 @@
++++
+title = 'Configure Anonymous Authentication'
+solution = 'Platform'
++++
+
 # Configure Anonymous Authentication
 
 When an anonymous user clicks a workflow link in an email, that user is

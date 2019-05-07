@@ -1,3 +1,8 @@
++++
+title = 'Catalog WebApp'
+solution = 'Platform'
++++
+
 # Catalog WebApp
 
 <div class="use">

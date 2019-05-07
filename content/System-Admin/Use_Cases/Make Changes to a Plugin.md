@@ -1,3 +1,8 @@
++++
+title = 'Make Changes to a Plugin'
+solution = 'Platform'
++++
+
 # Make Changes to a Plugin
 
 Changes may need to be made to the plugin. Once the assembly has been

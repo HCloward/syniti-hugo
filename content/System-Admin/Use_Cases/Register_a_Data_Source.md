@@ -1,3 +1,8 @@
++++
+title = 'Register a Data Source'
+solution = 'Platform'
++++
+
 # Register a Data Source
 
 <span style="font-weight: bold;">NOTE:</span> It is recommended that

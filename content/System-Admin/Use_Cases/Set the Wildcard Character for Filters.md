@@ -1,3 +1,8 @@
++++
+title = 'Set the Wildcard Character for Filters'
+solution = 'Platform'
++++
+
 # Set the Wildcard Character for Filters
 
 The wildcard character is used in filters across the DSP® to restrict

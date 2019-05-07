@@ -1,3 +1,8 @@
++++
+title = 'Trace Object Summary'
+solution = 'Platform'
++++
+
 # Trace Object Summary
 
 This chart displays the count for object types contained in the data

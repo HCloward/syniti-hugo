@@ -1,3 +1,8 @@
++++
+title = 'BDC Screen H'
+solution = 'Platform'
++++
+
 # BDC Screen H
 
 [BDC Screen V All Tabs](#BDC_Screen_V_All_Tabs)

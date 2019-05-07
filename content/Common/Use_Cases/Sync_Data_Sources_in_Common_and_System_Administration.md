@@ -1,3 +1,8 @@
++++
+title = 'Sync Data Sources in Common and System Administration'
+solution = 'Platform'
++++
+
 # Sync Data Sources in Common and System Administration
 
 When an Administrator registers a data source in System Administration,

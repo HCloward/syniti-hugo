@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # <span id="LogH"></span> Log H
 
 [Log V](#_Log_V)

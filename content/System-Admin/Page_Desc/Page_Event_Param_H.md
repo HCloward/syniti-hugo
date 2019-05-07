@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # <span id="top"></span>Page Event Parameters H
 
 Page Event Parameters V

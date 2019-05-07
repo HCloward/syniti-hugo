@@ -1,3 +1,8 @@
++++
+title = 'Start Work on a Work List Item or Plan Task'
+solution = 'Platform'
++++
+
 # Start Work on a Work List Item or Plan Task
 
 A user can mark an item as started on the <span>Work List</span>.

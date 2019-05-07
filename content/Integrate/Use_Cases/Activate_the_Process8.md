@@ -1,3 +1,8 @@
++++
+title = 'Activate the Process'
+solution = 'Platform'
++++
+
 # Activate the Process
 
 <span id="Create and Transfer XML files Steps" class="popUpLink">Review

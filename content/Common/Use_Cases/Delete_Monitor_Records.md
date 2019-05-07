@@ -1,3 +1,8 @@
++++
+title = 'Delete Monitored Records'
+solution = 'Platform'
++++
+
 # Delete Monitored Records
 
 Users have the ability to delete records from the *Monitor* page, which

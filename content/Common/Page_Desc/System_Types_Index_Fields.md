@@ -1,3 +1,8 @@
++++
+title = 'System Types Index Fields'
+solution = 'Platform'
++++
+
 # System Types Index Fields
 
 <div class="use">

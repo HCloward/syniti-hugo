@@ -1,3 +1,8 @@
++++
+title = 'View Logs for an Interface'
+solution = 'Platform'
++++
+
 # View Logs for an Interface
 
 Logging allows users to examine how an interface was executed and why it

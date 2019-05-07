@@ -1,3 +1,8 @@
++++
+title = 'BAPI\\RFC Definition'
+solution = 'Platform'
++++
+
 # BAPI\\RFC Definition
 
 <div class="use">

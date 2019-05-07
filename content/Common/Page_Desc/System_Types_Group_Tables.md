@@ -1,3 +1,8 @@
++++
+title = 'System Types Group Tables'
+solution = 'Platform'
++++
+
 # System Types Group Tables
 
 <div class="use">

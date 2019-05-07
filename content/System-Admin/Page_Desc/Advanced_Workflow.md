@@ -1,3 +1,8 @@
++++
+title = 'Advanced Workflow'
+solution = 'Platform'
++++
+
 # Advanced Workflow
 
 <div class="use" data-xmlns="">

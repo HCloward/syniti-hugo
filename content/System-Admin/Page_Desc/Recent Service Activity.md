@@ -1,3 +1,8 @@
++++
+title = 'Recent Service Activity'
+solution = 'Platform'
++++
+
 # Recent Service Activity
 
 <div class="use">

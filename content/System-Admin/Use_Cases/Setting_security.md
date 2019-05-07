@@ -1,3 +1,8 @@
++++
+title = 'Set Security in the DSP®'
+solution = 'Platform'
++++
+
 # Set Security in the DSP®
 
 To set security in the platform:

@@ -1,3 +1,8 @@
++++
+title = 'View Security Dashboard in System Administration'
+solution = 'Platform'
++++
+
 # View Security Dashboard in System Administration
 
 The security dashboard in System Administration provides summary

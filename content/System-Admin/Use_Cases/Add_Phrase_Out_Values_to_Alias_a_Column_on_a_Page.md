@@ -1,3 +1,8 @@
++++
+title = 'Add Phrase Out Values to Alias a Column on a Page'
+solution = 'Platform'
++++
+
 # Add Phrase Out Values to Alias a Column on a Page
 
 Phrases can be changed for a specific page verses for the entire WebApp.

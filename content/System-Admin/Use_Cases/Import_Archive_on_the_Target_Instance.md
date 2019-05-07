@@ -1,3 +1,8 @@
++++
+title = 'Import Archive to the Target Instance'
+solution = 'Platform'
++++
+
 # Import Archive to the Target Instance
 
 Once exported, the archive is then imported to the target instance.

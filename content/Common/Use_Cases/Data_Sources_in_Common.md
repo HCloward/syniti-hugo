@@ -1,3 +1,8 @@
++++
+title = 'Data Sources in Common'
+solution = 'Platform'
++++
+
 # Data Sources in Common
 
 While data sources can be registered in System Administration by an

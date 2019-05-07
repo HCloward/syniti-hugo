@@ -1,3 +1,8 @@
++++
+title = 'System Types Import'
+solution = 'Platform'
++++
+
 # System Types Import
 
 <div class="use">

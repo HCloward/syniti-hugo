@@ -1,3 +1,8 @@
++++
+title = 'Find Duplicates Overview'
+solution = 'Platform'
++++
+
 # Find Duplicates Overview
 
 Common provides a quick and easy method to identify and resolve

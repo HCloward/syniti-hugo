@@ -1,3 +1,8 @@
++++
+title = 'Target Weekly Summary'
+solution = 'Platform'
++++
+
 # Target Weekly Summary
 
 This chart displays the duration of time in seconds it took to refresh

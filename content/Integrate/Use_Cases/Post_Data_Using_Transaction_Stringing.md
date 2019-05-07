@@ -1,3 +1,8 @@
++++
+title = 'Post Data Using Transaction Stringing'
+solution = 'Platform'
++++
+
 # Post Data Using Transaction Stringing
 
 A process with multiple templates that uses the synchronous post

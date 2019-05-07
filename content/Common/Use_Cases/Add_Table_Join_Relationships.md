@@ -1,3 +1,8 @@
++++
+title = 'Add Table Join Relationships'
+solution = 'Platform'
++++
+
 # Add Table Join Relationships
 
 Table join relationships indicate how table fields are connected. Table

@@ -1,3 +1,8 @@
++++
+title = 'Site Customization User Quick Links'
+solution = 'Platform'
++++
+
 # Site Customization User Quick Links
 
 <div class="use">

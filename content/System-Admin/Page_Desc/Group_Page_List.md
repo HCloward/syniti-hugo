@@ -1,3 +1,8 @@
++++
+title = 'Group Page List'
+solution = 'Platform'
++++
+
 # Group Page List
 
 <div class="use" data-xmlns="">

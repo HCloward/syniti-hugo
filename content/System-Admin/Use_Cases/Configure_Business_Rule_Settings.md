@@ -1,3 +1,8 @@
++++
+title = 'Configure Business Rule Settings'
+solution = 'Platform'
++++
+
 # Configure Business Rule Settings
 
 A Page Designer can configure settings that allow business rules

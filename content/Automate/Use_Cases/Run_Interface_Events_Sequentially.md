@@ -1,3 +1,8 @@
++++
+title = 'Run Interface Events Sequentially'
+solution = 'Platform'
++++
+
 # Run Interface Events Sequentially
 
 In most cases, events run sequentially according to the event’s

@@ -1,3 +1,8 @@
++++
+title = 'View all Work List Items and Plan Tasks for All Work Lists'
+solution = 'Platform'
++++
+
 # View all Work List Items and Plan Tasks for All Work Lists
 
 <span>To view all Work List Items and Plan Tasks for all Work Lists,

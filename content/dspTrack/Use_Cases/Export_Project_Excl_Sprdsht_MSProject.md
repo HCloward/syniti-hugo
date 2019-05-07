@@ -1,3 +1,8 @@
++++
+title = 'Export a Project as an Excel File in MS Project'
+solution = 'Platform'
++++
+
 # Export a Project as an Excel File in MS Project
 
 1.  In MS Project, select **File \> Save As** and select Excel

@@ -1,3 +1,8 @@
++++
+title = 'Export Translations to a Catalog'
+solution = 'Platform'
++++
+
 # Export Translations to a Catalog
 
 An Administrator performs this task so that translations of fields using

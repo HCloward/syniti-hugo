@@ -1,3 +1,8 @@
++++
+title = 'Layout Frames'
+solution = 'Platform'
++++
+
 # Layout Frames
 
 <div class="use">

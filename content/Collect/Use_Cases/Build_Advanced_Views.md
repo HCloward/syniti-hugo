@@ -1,3 +1,8 @@
++++
+title = 'Build Advanced Views'
+solution = 'Platform'
++++
+
 # Build Advanced Views
 
 Advance build is used to store View Builds and to join in Transform

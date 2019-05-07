@@ -1,3 +1,8 @@
++++
+title = 'Report Groups'
+solution = 'Platform'
++++
+
 # Report Groups
 
 <div class="use">

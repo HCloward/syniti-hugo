@@ -1,3 +1,8 @@
++++
+title = 'Warn Thresholds'
+solution = 'Platform'
++++
+
 # Warn Thresholds
 
 Thresholds can be set around the start or end of work on a task.

@@ -1,3 +1,8 @@
++++
+title = 'Set a Comment Code for a Plan Task'
+solution = 'Platform'
++++
+
 # Set a Comment Code for a Plan Task
 
 To set a comment code for a Plan Task:

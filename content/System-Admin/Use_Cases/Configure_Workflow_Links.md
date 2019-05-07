@@ -1,3 +1,8 @@
++++
+title = 'Configure Workflow Links'
+solution = 'Platform'
++++
+
 # Configure Workflow Links
 
 A workflow can contain a link that navigates a user to a specific page

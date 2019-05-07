@@ -1,3 +1,8 @@
++++
+title = 'Plugin List Data Providers'
+solution = 'Platform'
++++
+
 # Plugin List Data Providers
 
 <div class="use">

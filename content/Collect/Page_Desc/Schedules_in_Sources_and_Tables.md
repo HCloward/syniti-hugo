@@ -1,3 +1,8 @@
++++
+title = 'Schedules in Sources and Tables'
+solution = 'Platform'
++++
+
 # Schedules in Sources and Tables
 
 <div class="use">

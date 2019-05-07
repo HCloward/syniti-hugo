@@ -1,3 +1,8 @@
++++
+title = 'Build an Archive from a Package'
+solution = 'Platform'
++++
+
 # Build an Archive from a Package
 
 Once the package is created, attributes are added and the packing list

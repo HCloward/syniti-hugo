@@ -1,3 +1,8 @@
++++
+title = 'Filter Controls'
+solution = 'Platform'
++++
+
 # Filter Controls
 
 The controls on the Filter View allow the user to define filter

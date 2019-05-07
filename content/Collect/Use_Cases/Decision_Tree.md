@@ -1,3 +1,8 @@
++++
+title = 'Decision Tree'
+solution = 'Platform'
++++
+
 # Decision Tree
 
 Click the following decision tree thumbnail to determine which

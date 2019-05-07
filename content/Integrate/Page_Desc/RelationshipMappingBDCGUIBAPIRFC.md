@@ -1,3 +1,8 @@
++++
+title = 'Relationship Mapping BDC Script, GUI Script or BAPI/RFC Template Types'
+solution = 'Platform'
++++
+
 # Relationship Mapping BDC Script, GUI Script or BAPI/RFC Template Types
 
 <div class="use">

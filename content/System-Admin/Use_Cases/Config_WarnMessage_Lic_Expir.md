@@ -1,3 +1,8 @@
++++
+title = 'Configure Warning Message Timing for License Expiration'
+solution = 'Platform'
++++
+
 # Configure Warning Message Timing for License Expiration
 
 A System Administrator can configure the number of days a warning

@@ -1,3 +1,8 @@
++++
+title = 'Getting Started with DSP® Security for Custom Components'
+solution = 'Platform'
++++
+
 # Getting Started with DSP® Security for Custom Components
 
 To get started with DSP® security for custom components:

@@ -1,3 +1,8 @@
++++
+title = 'Excel Integration Panel'
+solution = 'Platform'
++++
+
 # Excel Integration Panel
 
 <div class="use">

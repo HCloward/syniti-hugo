@@ -1,3 +1,8 @@
++++
+title = 'Set User Workflow Receipt Preferences'
+solution = 'Platform'
++++
+
 # Set User Workflow Receipt Preferences
 
 By default, users receive workflow messages from dspTrack™ via email and

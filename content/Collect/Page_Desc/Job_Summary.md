@@ -1,3 +1,8 @@
++++
+title = 'Job Summary'
+solution = 'Platform'
++++
+
 # Job Summary
 
 <div class="use">

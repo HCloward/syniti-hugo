@@ -1,3 +1,8 @@
++++
+title = 'Set up Database Functions'
+solution = 'Platform'
++++
+
 # Set up Database Functions
 
 Generic database functions can be used by the Post Action Rule Table

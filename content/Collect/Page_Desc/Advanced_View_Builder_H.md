@@ -1,3 +1,8 @@
++++
+title = 'Advanced View Builder H'
+solution = 'Platform'
++++
+
 # Advanced View Builder H
 
 [Advanced View Builder V](#Advanced_View_Builder_V)

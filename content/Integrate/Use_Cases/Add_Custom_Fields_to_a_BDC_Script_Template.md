@@ -1,3 +1,8 @@
++++
+title = 'Add Custom Fields to a BDC Script Template'
+solution = 'Platform'
++++
+
 # Add Custom Fields to a BDC Script Template
 
 <span id="Post Data using a BDC Script Steps" class="popUpLink">\>Review

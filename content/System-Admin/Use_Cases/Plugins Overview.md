@@ -1,3 +1,8 @@
++++
+title = 'Plugins Overview'
+solution = 'Platform'
++++
+
 # Plugins Overview
 
 The DSP® provides various ways of extending its capabilities with custom

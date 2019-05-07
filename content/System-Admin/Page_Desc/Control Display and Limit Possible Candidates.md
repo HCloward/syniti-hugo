@@ -1,3 +1,8 @@
++++
+title = 'Control Display and Limit Possible Candidates'
+solution = 'Platform'
++++
+
 # Control Display and Limit Possible Candidates
 
 With the results of Duplicate Detection validation, the primary key in

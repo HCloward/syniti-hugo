@@ -1,3 +1,8 @@
++++
+title = 'Validate Objects'
+solution = 'Platform'
++++
+
 # Validate Objects
 
 On the target instance, validate that the objects moved through the CTS

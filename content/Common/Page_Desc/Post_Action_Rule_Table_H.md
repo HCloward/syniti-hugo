@@ -1,3 +1,8 @@
++++
+title = 'Post Action Rule Table H'
+solution = 'Platform'
++++
+
 # Post Action Rule Table H
 
 [Post Action Rule Table V](#Post_Action_Rule_Table_V)

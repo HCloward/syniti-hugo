@@ -1,3 +1,8 @@
++++
+title = 'Target Source Table Index Columns'
+solution = 'Platform'
++++
+
 # Target Source Table Index Columns
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Analyze'
+solution = 'Platform'
++++
+
 # Analyze
 
 This page displays data sources registered in System Administration that

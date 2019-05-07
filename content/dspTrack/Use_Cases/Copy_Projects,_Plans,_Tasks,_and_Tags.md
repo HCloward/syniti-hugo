@@ -1,3 +1,8 @@
++++
+title = 'Copy Projects, Plans, Tasks, and Tags'
+solution = 'Platform'
++++
+
 # Copy Projects, Plans, Tasks, and Tags
 
 dspTrack™ objects (p[rojects](Copy_Projects.htm),

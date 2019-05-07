@@ -1,3 +1,8 @@
++++
+title = 'Grant Security to Allow Quick Link Creation'
+solution = 'Platform'
++++
+
 # Grant Security to Allow Quick Link Creation
 
 To use the quick links feature, the logged in user must be a member of

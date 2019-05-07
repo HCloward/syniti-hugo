@@ -1,3 +1,8 @@
++++
+title = 'Include Data Type and Help Text in the Excel Template'
+solution = 'Platform'
++++
+
 # Include Data Type and Help Text in the Excel Template
 
 The Excel template that is downloaded from a page for use with Excel

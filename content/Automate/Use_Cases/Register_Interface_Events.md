@@ -1,3 +1,8 @@
++++
+title = 'Register Interface Events'
+solution = 'Platform'
++++
+
 # Register Interface Events
 
 Once the basic interface has been established, an Interface Designer can

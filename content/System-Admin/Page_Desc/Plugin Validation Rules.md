@@ -1,3 +1,8 @@
++++
+title = 'Plugin Validation Rules'
+solution = 'Platform'
++++
+
 # Plugin Validation Rules
 
 <div class="use">

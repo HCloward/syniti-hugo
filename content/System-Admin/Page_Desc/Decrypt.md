@@ -1,3 +1,8 @@
++++
+title = 'Decrypt'
+solution = 'Platform'
++++
+
 # Decrypt
 
 <div class="use">

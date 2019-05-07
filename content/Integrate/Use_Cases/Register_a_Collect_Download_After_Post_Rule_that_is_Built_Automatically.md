@@ -1,3 +1,8 @@
++++
+title = 'Register a Collect Download After Post Rule that is Built Automatically'
+solution = 'Platform'
++++
+
 # Register a Collect Download After Post Rule that is Built Automatically
 
 When posting data to a target system, a Template Administrator can

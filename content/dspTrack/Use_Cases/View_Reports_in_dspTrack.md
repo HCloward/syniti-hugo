@@ -1,3 +1,8 @@
++++
+title = 'View Reports in dspTrack™'
+solution = 'Platform'
++++
+
 # View Reports in dspTrack™
 
 dspTrack™ is installed with reports to help users track task status,

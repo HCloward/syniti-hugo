@@ -1,3 +1,8 @@
++++
+title = 'Create and Transfer XML Files'
+solution = 'Platform'
++++
+
 # Create and Transfer XML Files
 
 When an XML User Defined template type is assigned to a process and

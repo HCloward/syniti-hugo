@@ -1,3 +1,8 @@
++++
+title = 'Copy Tag Tasks'
+solution = 'Platform'
++++
+
 # Copy Tag Tasks
 
 When a user copies a Tag, all of the tasks assigned to the tag are

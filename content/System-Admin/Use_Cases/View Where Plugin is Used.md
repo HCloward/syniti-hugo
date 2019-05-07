@@ -1,3 +1,8 @@
++++
+title = 'View where Plugin is Used within the DSP'
+solution = 'Platform'
++++
+
 # View where Plugin is Used within the DSP
 
 When the plugin assembly is registered in the DSP, all plugins within

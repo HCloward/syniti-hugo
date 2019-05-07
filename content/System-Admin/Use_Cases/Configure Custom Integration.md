@@ -1,3 +1,8 @@
++++
+title = 'Configure Custom Integration'
+solution = 'Platform'
++++
+
 # Configure Custom Integration
 
 When the parameter Support Custom Authentication is enabled on the

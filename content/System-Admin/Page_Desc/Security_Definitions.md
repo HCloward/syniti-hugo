@@ -1,3 +1,8 @@
++++
+title = 'Security Definitions'
+solution = 'Platform'
++++
+
 # Security Definitions
 
 <div class="use">

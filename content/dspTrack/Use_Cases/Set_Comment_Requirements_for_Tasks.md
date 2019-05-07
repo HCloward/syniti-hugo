@@ -1,3 +1,8 @@
++++
+title = 'Set Comment Requirements for Tasks'
+solution = 'Platform'
++++
+
 # Set Comment Requirements for Tasks
 
 By default, comments are not required when finishing a task, even if the

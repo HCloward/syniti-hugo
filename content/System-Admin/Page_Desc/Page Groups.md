@@ -1,3 +1,8 @@
++++
+title = 'Page Groups'
+solution = 'Platform'
++++
+
 # Page Groups
 
 <div class="use">

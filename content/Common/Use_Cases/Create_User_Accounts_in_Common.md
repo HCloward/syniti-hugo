@@ -1,3 +1,8 @@
++++
+title = 'Create and Manage User Accounts in Common'
+solution = 'Platform'
++++
+
 # Create and Manage User Accounts in Common
 
 An Administrator user can add user accounts, send temporary passwords to

@@ -1,3 +1,8 @@
++++
+title = 'Source Connection Types H'
+solution = 'Platform'
++++
+
 # Source Connection Types H
 
 [Source Connection Types V](#Source_Connection_Types_V)

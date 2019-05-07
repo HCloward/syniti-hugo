@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # Update the Retention Expiration Email
 
 A Common Administrator can update the text that appears in the subject

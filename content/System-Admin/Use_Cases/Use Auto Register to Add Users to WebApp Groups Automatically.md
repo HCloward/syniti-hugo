@@ -1,3 +1,8 @@
++++
+title = 'Use Auto Register to Add Users to WebApp Groups Automatically'
+solution = 'Platform'
++++
+
 # Use Auto Register to Add Users to WebApp Groups Automatically
 
 When using Integrated Authentication, if a majority of new users require

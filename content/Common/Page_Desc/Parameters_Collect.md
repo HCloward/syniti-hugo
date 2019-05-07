@@ -1,3 +1,8 @@
++++
+title = 'Parameters – Collect'
+solution = 'Platform'
++++
+
 # Parameters – Collect
 
 <div class="use">

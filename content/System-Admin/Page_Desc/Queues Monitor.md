@@ -1,3 +1,8 @@
++++
+title = 'Queues (Monitor)'
+solution = 'Platform'
++++
+
 # Queues (Monitor)
 
 <div class="use">

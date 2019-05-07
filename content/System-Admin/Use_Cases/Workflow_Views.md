@@ -1,3 +1,8 @@
++++
+title = 'Workflow Overview'
+solution = 'Platform'
++++
+
 # Workflow Overview
 
 Workflow is an email notification method called from within a WebApp

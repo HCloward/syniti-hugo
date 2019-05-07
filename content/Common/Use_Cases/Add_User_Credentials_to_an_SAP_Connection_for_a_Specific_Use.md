@@ -1,3 +1,8 @@
++++
+title = 'Add User Credentials to an SAP Connection for a Specific User'
+solution = 'Platform'
++++
+
 # Add User Credentials to an SAP Connection for a Specific User
 
 An Administrator can add SAP Login credentials for specific users to

@@ -1,3 +1,8 @@
++++
+title = 'Build the Index'
+solution = 'Platform'
++++
+
 # Build the Index
 
 Once an index has been configured, before it can be used:

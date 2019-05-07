@@ -1,3 +1,8 @@
++++
+title = 'Build a Construction Page Manually'
+solution = 'Platform'
++++
+
 # Build a Construction Page Manually
 
 When the construction page should not be generated automatically, build

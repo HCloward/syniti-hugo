@@ -1,3 +1,8 @@
++++
+title = 'User List - Receive Work List Escalations'
+solution = 'Platform'
++++
+
 # User List - Receive Work List Escalations
 
 <div class="use">

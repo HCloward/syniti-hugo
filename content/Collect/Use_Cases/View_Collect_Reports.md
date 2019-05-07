@@ -1,3 +1,8 @@
++++
+title = 'View Collect Reports'
+solution = 'Platform'
++++
+
 # View Collect Reports
 
 To access Collect reports, select

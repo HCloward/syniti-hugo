@@ -1,3 +1,8 @@
++++
+title = 'Schedule Groups'
+solution = 'Platform'
++++
+
 # Schedule Groups
 
 <div class="use">

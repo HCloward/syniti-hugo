@@ -1,3 +1,8 @@
++++
+title = 'Test a BackOffice IGC Agent Connection in DSP'
+solution = 'Platform'
++++
+
 # Test a BackOffice IGC Agent Connection in DSP
 
 The BackOffice IGC Connector Agent’s connection status can be checked in

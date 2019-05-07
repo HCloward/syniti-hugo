@@ -1,3 +1,8 @@
++++
+title = 'Define Tasks for Task Group'
+solution = 'Platform'
++++
+
 # Define Tasks for Task Group
 
 Once the task group is created, add tasks to the task group.

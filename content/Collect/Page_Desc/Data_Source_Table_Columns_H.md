@@ -1,3 +1,8 @@
++++
+title = 'Data Source Table Columns H'
+solution = 'Platform'
++++
+
 # Data Source Table Columns H
 
 [Data Source Table Columns V](#Data_Source_Table1)

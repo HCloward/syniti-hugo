@@ -1,3 +1,8 @@
++++
+title = 'Set up After Post Rules to Check for Failed Posts for BAPI or RFC Processes'
+solution = 'Platform'
++++
+
 # Set up After Post Rules to Check for Failed Posts for BAPI or RFC Processes
 
 After posting a request based on an Integrate process that uses BAPIs or

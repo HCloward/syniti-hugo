@@ -1,3 +1,8 @@
++++
+title = 'History (Detail) V'
+solution = 'Platform'
++++
+
 # <span id="HistoryDetailH"></span> History (Detail) H
 
 [History (Detail) V](#_History_\(Detail\)_V)

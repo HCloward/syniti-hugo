@@ -1,3 +1,8 @@
++++
+title = 'Page Types'
+solution = 'Platform'
++++
+
 # Page Types
 
 <div class="use">

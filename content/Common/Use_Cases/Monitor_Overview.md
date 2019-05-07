@@ -1,3 +1,8 @@
++++
+title = 'Monitor Overview'
+solution = 'Platform'
++++
+
 # Monitor Overview
 
 <div class="use">
