@@ -3,11 +3,6 @@ title = 'Configure a Registered User to Receive Notifications For Posting Succes
 solution = 'Master Data Management'
 +++
 
-+++
-title = "Configure a Registered User to Receive Notifications For Posting Success or Failure at the Request Role Level"
-solution = "Data Quality"
-+++
-
 # Configure a Registered User to Receive Notifications For Posting Success or Failure at the Request Role Level
 
 A Designer can configure settings at the request role level for the Post
