@@ -1,5 +1,5 @@
 +++
-title = ''
+title = 'Register Rules to Template-level Events'
 solution = 'Data Quality'
 +++
 
