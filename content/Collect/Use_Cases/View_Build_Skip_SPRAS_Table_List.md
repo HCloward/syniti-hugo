@@ -1,6 +1,5 @@
 +++
-title = 'View Build Skip SPRAS Table List
-/c/Users/Heather Cloward/Documents/frontMatter/Collect/Use_Cases/View_Build_Skip_SPRAS_Table_List.md:# View Build Skip SPRAS Table List'
+title = 'View Build Skip SPRAS Table List'
 solution = 'Platform'
 +++
 
