@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'User Business Processes'
 solution = 'Master Data Management'
 +++
 
-# <span>User Business Processes</span>
+# User Business Processes
 
 <div class="use">
 

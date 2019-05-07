@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Category H'
 solution = 'Master Data Management'
 +++
 
-# <span id="Category_H"></span>Category H
+# Category H
 
 [Category V](#Category_V)
 
