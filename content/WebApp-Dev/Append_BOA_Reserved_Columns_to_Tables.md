@@ -1,3 +1,8 @@
++++
+title = 'Append BOA Reserved Columns to Tables'
+solution = 'Platform'
++++
+
 # Append BOA Reserved Columns to Tables
 
 BOA reserved columns are (required fields are indicated by an \*):

@@ -1,3 +1,8 @@
++++
+title = 'Precedence'
+solution = 'Platform'
++++
+
 # Precedence
 
 The simplest optimization that can be made to most pages is control view

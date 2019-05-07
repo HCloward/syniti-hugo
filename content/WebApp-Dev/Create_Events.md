@@ -1,3 +1,8 @@
++++
+title = 'Create Events'
+solution = 'Platform'
++++
+
 # Create Events
 
 Events are actions that contain validation rules and/or business rules.

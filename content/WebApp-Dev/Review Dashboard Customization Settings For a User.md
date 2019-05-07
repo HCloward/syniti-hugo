@@ -1,3 +1,8 @@
++++
+title = 'Review Dashboard Customization Settings For a User'
+solution = 'Platform'
++++
+
 # Review Dashboard Customization Settings For a User
 
 A system administrator can review customization settings for a user for

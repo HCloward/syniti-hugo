@@ -1,3 +1,8 @@
++++
+title = 'Delete Packages'
+solution = 'Platform'
++++
+
 # Delete Packages
 
 To delete a package:

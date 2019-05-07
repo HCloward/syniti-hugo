@@ -1,3 +1,8 @@
++++
+title = 'Encrypt a Column'
+solution = 'Platform'
++++
+
 # Encrypt a Column
 
 Refer to [Column Encryption](Column_Encryption.htm) for general

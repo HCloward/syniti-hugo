@@ -1,3 +1,8 @@
++++
+title = 'Hide a Page Column on a Report'
+solution = 'Platform'
++++
+
 # Hide a Page Column on a Report
 
 Column properties control what data (i.e., what columns/fields) are

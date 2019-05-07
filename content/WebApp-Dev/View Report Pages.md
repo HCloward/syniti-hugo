@@ -1,3 +1,8 @@
++++
+title = 'View Report Pages'
+solution = 'Platform'
++++
+
 # View Report Pages
 
 WebApps can have a **Reports** option in the *Navigation* pane that

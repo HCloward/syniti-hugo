@@ -1,3 +1,8 @@
++++
+title = 'Set Column Control Status'
+solution = 'Platform'
++++
+
 # Set Column Control Status
 
 Control Status is a Column Property option that determines the

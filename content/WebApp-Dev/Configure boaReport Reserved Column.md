@@ -1,3 +1,8 @@
++++
+title = 'Configure boaReport Reserved Column'
+solution = 'Platform'
++++
+
 # Configure boaReport Reserved Column
 
 When the boaReport reserved column is included in a *Horizontal* or

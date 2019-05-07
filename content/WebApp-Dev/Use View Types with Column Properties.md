@@ -1,3 +1,8 @@
++++
+title = 'Use View Types with Column Properties'
+solution = 'Platform'
++++
+
 # Use View Types with Column Properties
 
 The View Type sets the context in which the control is configured for a

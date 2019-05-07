@@ -1,3 +1,8 @@
++++
+title = 'Dynamic Views for Multiple Control Fields'
+solution = 'Platform'
++++
+
 # Dynamic Views for Multiple Control Fields
 
 This section contains an example of an alternative option to using a

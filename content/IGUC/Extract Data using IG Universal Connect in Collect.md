@@ -1,3 +1,8 @@
++++
+title = 'Extract Data using IG Universal Connect in Collect'
+solution = 'Platform'
++++
+
 # Extract Data using IG Universal Connect in Collect
 
 IG Universal Connect allows the DSP® to extract data from systems, which

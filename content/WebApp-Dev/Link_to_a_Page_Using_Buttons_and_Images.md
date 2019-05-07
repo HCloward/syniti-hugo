@@ -1,3 +1,8 @@
++++
+title = 'Link to a Page Using Buttons and Images'
+solution = 'Platform'
++++
+
 # Link to a Page Using Buttons and Images
 
 The Link to Page ID column property allows the user to set the page that

@@ -1,3 +1,8 @@
++++
+title = 'Consolidation'
+solution = 'Platform'
++++
+
 # Consolidation
 
 Another problem is making sure you choose the most appropriate control

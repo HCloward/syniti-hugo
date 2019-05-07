@@ -1,3 +1,8 @@
++++
+title = 'WebApp Group Design'
+solution = 'Platform'
++++
+
 # WebApp Group Design
 
 When designing an application, the Designer should know the different

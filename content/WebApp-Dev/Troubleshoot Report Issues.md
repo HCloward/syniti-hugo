@@ -1,3 +1,8 @@
++++
+title = 'Troubleshoot Report Issues'
+solution = 'Platform'
++++
+
 # Troubleshoot Report Issues
 
 ### Error Messages

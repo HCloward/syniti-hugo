@@ -1,3 +1,8 @@
++++
+title = 'SQL View/Function/Procedure Design'
+solution = 'Platform'
++++
+
 # SQL View/Function/Procedure Design
 
 Non-schema object design is the next most important thing above table

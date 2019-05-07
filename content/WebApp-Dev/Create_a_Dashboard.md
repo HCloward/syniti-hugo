@@ -1,3 +1,8 @@
++++
+title = 'Create a Dashboard Page'
+solution = 'Platform'
++++
+
 # Create a Dashboard Page
 
 A Dashboard page can be created to display one or more charts.

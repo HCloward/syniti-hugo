@@ -1,3 +1,8 @@
++++
+title = 'Create a Combination Chart'
+solution = 'Platform'
++++
+
 # Create a Combination Chart
 
 A combination chart gives a page Designer the ability to combine

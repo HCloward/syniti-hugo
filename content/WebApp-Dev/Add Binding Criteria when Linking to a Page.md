@@ -1,3 +1,8 @@
++++
+title = 'Add Binding Criteria when Linking to a Page'
+solution = 'Platform'
++++
+
 # Add Binding Criteria when Linking to a Page
 
 The Link to Page ID column property allows the page Designer to set the

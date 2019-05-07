@@ -1,3 +1,8 @@
++++
+title = 'Assign Column Properties'
+solution = 'Platform'
++++
+
 # Assign Column Properties
 
 Column Properties are used to control the behavior of fields on a page.

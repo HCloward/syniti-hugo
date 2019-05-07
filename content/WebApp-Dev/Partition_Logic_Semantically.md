@@ -1,3 +1,8 @@
++++
+title = 'Partition Logic Semantically'
+solution = 'Platform'
++++
+
 # Partition Logic Semantically
 
 An application’s value is not measured in SQL object count. Centralizing

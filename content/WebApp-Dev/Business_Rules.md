@@ -1,3 +1,8 @@
++++
+title = 'Business Rules'
+solution = 'Platform'
++++
+
 # Business Rules
 
 During the design of a WebApp, business rules can be incorporated into

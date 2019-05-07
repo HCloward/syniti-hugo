@@ -1,3 +1,8 @@
++++
+title = 'Effectively Implementing Security Definitions (Role Security)'
+solution = 'Platform'
++++
+
 # Effectively Implementing Security Definitions (Role Security)
 
 Security Definitions (commonly referred to as Role Security

@@ -1,3 +1,8 @@
++++
+title = 'Set the Y-axis of a Chart with the Value Column Property'
+solution = 'Platform'
++++
+
 # Set the Y-axis of a Chart with the Value Column Property
 
 Value column properties are used to specify which field within the

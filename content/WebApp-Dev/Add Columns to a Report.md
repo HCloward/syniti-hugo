@@ -1,3 +1,8 @@
++++
+title = 'Add Columns to a Report for a Report Group'
+solution = 'Platform'
++++
+
 # Add Columns to a Report for a Report Group
 
 Each report group must have one or more columns. The columns indicate

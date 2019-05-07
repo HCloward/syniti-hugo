@@ -1,3 +1,8 @@
++++
+title = 'Set the X-axis of a Chart with the Category Column Property'
+solution = 'Platform'
++++
+
 # Set the X-axis of a Chart with the Category Column Property
 
 The Category column property allows the user to define which column in

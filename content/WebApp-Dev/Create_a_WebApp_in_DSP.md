@@ -1,3 +1,8 @@
++++
+title = 'Create a WebApp in DSP®'
+solution = 'Platform'
++++
+
 # Create a WebApp in DSP®
 
 Once the [database is created](Database_Design.htm), the WebApp can be

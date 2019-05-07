@@ -1,3 +1,8 @@
++++
+title = 'Use boaStatus to Set a Toolbar Button's Control Status'
+solution = 'Platform'
++++
+
 # Use boaStatus to Set a Toolbar Button's Control Status
 
 Refer to [Add a Toolbar

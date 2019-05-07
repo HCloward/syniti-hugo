@@ -1,3 +1,8 @@
++++
+title = 'Enable List Where Clause'
+solution = 'Platform'
++++
+
 # Enable List Where Clause
 
 Add a list Where Clause to restrict the values that display in a list

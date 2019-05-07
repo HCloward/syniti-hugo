@@ -1,3 +1,8 @@
++++
+title = 'Add a Control Type to a Column'
+solution = 'Platform'
++++
+
 # Add a Control Type to a Column
 
 Column properties are specified to control the behavior of the Control

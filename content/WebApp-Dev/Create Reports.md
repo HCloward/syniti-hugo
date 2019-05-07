@@ -1,3 +1,8 @@
++++
+title = 'Create Reports'
+solution = 'Platform'
++++
+
 # Create Reports
 
 The DSP® supports rendering a page or collection of pages as a report. A

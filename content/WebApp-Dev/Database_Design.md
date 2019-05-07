@@ -1,3 +1,8 @@
++++
+title = 'Database Design'
+solution = 'Platform'
++++
+
 # Database Design
 
 All WebApps are based on a database which is registered as a data source

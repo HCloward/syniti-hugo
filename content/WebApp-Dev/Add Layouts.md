@@ -1,3 +1,8 @@
++++
+title = 'Add Layouts'
+solution = 'Platform'
++++
+
 # Add Layouts
 
 A system administrator can add layouts. A layout controls how charts

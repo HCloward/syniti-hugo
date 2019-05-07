@@ -1,3 +1,8 @@
++++
+title = 'Create Dashboards and Charts'
+solution = 'Platform'
++++
+
 # Create Dashboards and Charts
 
 BackOffice Associates® Solutions supports the ability to create charts

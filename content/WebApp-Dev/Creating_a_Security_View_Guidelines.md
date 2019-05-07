@@ -1,3 +1,8 @@
++++
+title = 'Creating a Security View Guidelines'
+solution = 'Platform'
++++
+
 # Creating a Security View Guidelines
 
 In most cases, Security Definition views should be created using the

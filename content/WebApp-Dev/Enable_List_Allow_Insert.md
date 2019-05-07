@@ -1,3 +1,8 @@
++++
+title = 'Enable List Allow Insert'
+solution = 'Platform'
++++
+
 # Enable List Allow Insert
 
 List Allow Insert is a list box and combo box search mechanism if the

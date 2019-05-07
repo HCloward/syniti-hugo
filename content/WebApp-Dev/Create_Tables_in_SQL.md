@@ -1,3 +1,8 @@
++++
+title = 'Create Tables in SQL'
+solution = 'Platform'
++++
+
 # Create Tables in SQL
 
 The majority of the pages in a WebApp are Dynamic page types and require

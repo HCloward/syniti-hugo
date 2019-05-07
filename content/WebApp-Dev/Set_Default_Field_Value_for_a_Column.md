@@ -1,3 +1,8 @@
++++
+title = 'Set Default Field Value for a Column'
+solution = 'Platform'
++++
+
 # Set Default Field Value for a Column
 
 A Column Property can populate a field with a pre-determined value.

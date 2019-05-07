@@ -1,3 +1,8 @@
++++
+title = 'View the Controls Available For A Page Type'
+solution = 'Platform'
++++
+
 # View the Controls Available For A Page Type
 
 The controls that can be defined in column properties or a page are

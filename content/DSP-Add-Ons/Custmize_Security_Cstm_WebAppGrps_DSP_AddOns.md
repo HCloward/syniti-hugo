@@ -1,3 +1,8 @@
++++
+title = 'Customize Security with Custom WebApp Groups Using DSP Add-Ons'
+solution = 'Platform'
++++
+
 ## Customize Security with Custom WebApp Groups Using DSP Add-Ons
 
 An Administrator can use DSP Add-Ons to create custom security for

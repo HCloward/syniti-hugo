@@ -1,3 +1,8 @@
++++
+title = 'Create an IG Universal Connect Template'
+solution = 'Platform'
++++
+
 # Create an IG Universal Connect Template
 
 A Template Administrator can configure an IG Universal Connect Template

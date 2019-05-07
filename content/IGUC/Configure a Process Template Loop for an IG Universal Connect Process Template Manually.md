@@ -1,3 +1,8 @@
++++
+title = 'Configure a Process Template Loop for an IG Universal Connect Process Template Manually'
+solution = 'Platform'
++++
+
 # Configure a Process Template Loop for an IG Universal Connect Process Template Manually
 
 Follow these steps if using parameters, which are optional.

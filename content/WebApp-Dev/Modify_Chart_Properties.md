@@ -1,3 +1,8 @@
++++
+title = 'Modify Chart Properties'
+solution = 'Platform'
++++
+
 # Modify Chart Properties
 
 Chart properties can be modified to display the page in different ways.

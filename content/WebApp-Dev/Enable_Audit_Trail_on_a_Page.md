@@ -1,3 +1,8 @@
++++
+title = 'Enable Audit Trail on a Page'
+solution = 'Platform'
++++
+
 # Enable Audit Trail on a Page
 
 There are two options to select when adding a new table:

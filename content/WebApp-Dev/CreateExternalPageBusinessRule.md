@@ -1,3 +1,8 @@
++++
+title = 'Create an External Page Business Rule'
+solution = 'Platform'
++++
+
 # Create an External Page Business Rule
 
 An External Page rule allows you to execute a plugin as the event action

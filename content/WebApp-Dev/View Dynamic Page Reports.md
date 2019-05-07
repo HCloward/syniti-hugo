@@ -1,3 +1,8 @@
++++
+title = 'View Dynamic Page Reports'
+solution = 'Platform'
++++
+
 # View Dynamic Page Reports
 
 When the user clicks **Report** on the Page Options (small gear)

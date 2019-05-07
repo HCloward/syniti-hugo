@@ -1,3 +1,8 @@
++++
+title = 'Create a Service Page'
+solution = 'Platform'
++++
+
 # Create a Service Page
 
 A Service page is a non-interactive page configuration that allows

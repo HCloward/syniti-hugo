@@ -1,3 +1,8 @@
++++
+title = 'Add a List Selection Field'
+solution = 'Platform'
++++
+
 # Add a List Selection Field
 
 The List Selection Field is a feature that displays more descriptive

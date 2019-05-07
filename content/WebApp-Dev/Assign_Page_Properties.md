@@ -1,3 +1,8 @@
++++
+title = 'Assign Page Properties to a Dynamic Page'
+solution = 'Platform'
++++
+
 # Assign Page Properties to a Dynamic Page
 
 Page Properties are used to control how the page displays and to define

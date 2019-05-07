@@ -1,3 +1,8 @@
++++
+title = 'Guidelines for Vertical Page Views'
+solution = 'Platform'
++++
+
 # Guidelines for Vertical Page Views
 
 The *Vertical* View should contain the columns on the *Horizontal* View

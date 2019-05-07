@@ -1,3 +1,8 @@
++++
+title = 'Add Reserved Columns to Tables'
+solution = 'Platform'
++++
+
 # Add Reserved Columns to Tables
 
 Reserved columns have assigned behaviors and can be added to any table.

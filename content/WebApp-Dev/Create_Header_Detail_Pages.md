@@ -1,3 +1,8 @@
++++
+title = 'Create a Header Detail Page'
+solution = 'Platform'
++++
+
 # Create a Header Detail Page
 
 Header Detail pages, also called Layout pages, are a Page Type that

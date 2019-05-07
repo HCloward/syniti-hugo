@@ -1,3 +1,8 @@
++++
+title = 'Add a Check Box'
+solution = 'Platform'
++++
+
 # Add a Check Box
 
 A check box allows a user to enable or disable a setting. Refer to [Add

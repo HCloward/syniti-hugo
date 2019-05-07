@@ -1,3 +1,8 @@
++++
+title = 'Page Control View'
+solution = 'Platform'
++++
+
 # Page Control View
 
 Business requirements may require edit and delete capabilities to be

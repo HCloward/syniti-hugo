@@ -1,3 +1,8 @@
++++
+title = 'Add a Tab'
+solution = 'Platform'
++++
+
 # Add a Tab
 
 Tab is a Control Type that displays data on different tabs accessible at

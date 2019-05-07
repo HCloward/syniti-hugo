@@ -1,3 +1,8 @@
++++
+title = 'Drop Audit Tables'
+solution = 'Platform'
++++
+
 # Drop Audit Tables
 
 Two users are required to drop audit tables.The first user requests the

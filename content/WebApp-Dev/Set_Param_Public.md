@@ -1,3 +1,8 @@
++++
+title = 'Set Parameters for a Public WebApp Event'
+solution = 'Platform'
++++
+
 # Set Parameters for a Public WebApp Event
 
 Enabling an event to be public allows other events from any WebApp to

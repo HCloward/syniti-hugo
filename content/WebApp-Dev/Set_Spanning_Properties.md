@@ -1,3 +1,8 @@
++++
+title = 'Set Spanning Properties'
+solution = 'Platform'
++++
+
 # Set Spanning Properties
 
 Spanning Properties is a method to reduce horizontal scrolling and

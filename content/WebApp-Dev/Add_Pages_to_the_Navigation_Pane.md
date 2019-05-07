@@ -1,3 +1,8 @@
++++
+title = 'Add Pages to the *Navigation* Pane'
+solution = 'Platform'
++++
+
 # Add Pages to the *Navigation* Pane
 
 Provide access to WebApp pages via the *Navigation* pane by linking to

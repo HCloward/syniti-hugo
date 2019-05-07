@@ -1,3 +1,8 @@
++++
+title = 'Simplification'
+solution = 'Platform'
++++
+
 # Simplification
 
 The biggest performance gains most often come from SQL simplifications.

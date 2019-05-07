@@ -1,3 +1,8 @@
++++
+title = 'Add a Menu to the Navigation Pane'
+solution = 'Platform'
++++
+
 # Add a Menu to the Navigation Pane
 
 By default, a new WebApp has one menu created called *Switchboard*.

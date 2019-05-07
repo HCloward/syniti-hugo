@@ -1,3 +1,8 @@
++++
+title = 'Guidelines for the Navigation Pane'
+solution = 'Platform'
++++
+
 # Guidelines for the Navigation Pane
 
 The *Navigation* pane on the left displays page links to the WebApp.

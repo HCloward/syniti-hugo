@@ -1,3 +1,8 @@
++++
+title = 'Column Encryption'
+solution = 'Platform'
++++
+
 # Column Encryption
 
 Column-level encryption is used to deny unauthorized users and users

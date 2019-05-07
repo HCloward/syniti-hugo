@@ -1,3 +1,8 @@
++++
+title = 'View Controls and Control Formats'
+solution = 'Platform'
++++
+
 # View Controls and Control Formats
 
 A system administrator can view the controls and the associated formats.

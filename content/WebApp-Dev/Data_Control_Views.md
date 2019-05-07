@@ -1,3 +1,8 @@
++++
+title = 'Data Control Views'
+solution = 'Platform'
++++
+
 # Data Control Views
 
 Data Control Views are created in SQL and define control based on what

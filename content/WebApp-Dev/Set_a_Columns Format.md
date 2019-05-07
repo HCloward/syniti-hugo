@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Platform'
++++
+
 # Set a Column's Format
 
 Some control types allow a user to set the column’s format.

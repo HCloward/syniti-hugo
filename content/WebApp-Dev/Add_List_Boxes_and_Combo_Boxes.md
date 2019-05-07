@@ -1,3 +1,8 @@
++++
+title = 'Add List Boxes and Combo Boxes'
+solution = 'Platform'
++++
+
 # Add List Boxes and Combo Boxes
 
 List box and combo box are Control Types that display a field as a list

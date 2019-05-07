@@ -1,3 +1,8 @@
++++
+title = 'Register the Database for a Custom WebApp'
+solution = 'Platform'
++++
+
 # Register the Database for a Custom WebApp
 
 The database must be registered as a data source in DSP® to create a

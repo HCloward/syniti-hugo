@@ -1,3 +1,8 @@
++++
+title = 'Page Design Guidelines'
+solution = 'Platform'
++++
+
 # Page Design Guidelines
 
 Follow these steps to design a fully implemented page with all available

@@ -1,3 +1,8 @@
++++
+title = 'Enable Electronic Signature'
+solution = 'Platform'
++++
+
 # Enable Electronic Signature
 
 When users save changes to an existing record, they may be prompted to

@@ -1,3 +1,8 @@
++++
+title = 'Configure Field Mappings for an IG Universal Connect Template'
+solution = 'Platform'
++++
+
 # Configure Field Mappings for an IG Universal Connect Template
 
 Follow these steps if using parameters, which are optional.

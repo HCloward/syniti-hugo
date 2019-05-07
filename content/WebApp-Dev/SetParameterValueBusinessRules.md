@@ -1,3 +1,8 @@
++++
+title = 'Set a Parameter Value for Business Rule Parameters for a Public WebApp Event'
+solution = 'Platform'
++++
+
 # Set a Parameter Value for Business Rule Parameters for a Public WebApp Event
 
 A public WebApp event can be accessed from any WebApp.

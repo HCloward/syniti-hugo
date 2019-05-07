@@ -1,3 +1,8 @@
++++
+title = 'Create a WebApp'
+solution = 'Platform'
++++
+
 # Create a WebApp
 
 Create a WebApp and associate it with a registered data source.

@@ -1,3 +1,8 @@
++++
+title = 'Create a Workflow'
+solution = 'Platform'
++++
+
 # Create a Workflow
 
 Workflow is an email notification method called from within a WebApp

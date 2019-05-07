@@ -1,3 +1,8 @@
++++
+title = 'Activate the Template'
+solution = 'Platform'
++++
+
 # Activate the Template
 
 A Template Administrator can activate the IG Universal Connect Template

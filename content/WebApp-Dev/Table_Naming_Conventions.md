@@ -1,3 +1,8 @@
++++
+title = 'Table Naming Conventions'
+solution = 'Platform'
++++
+
 # Table Naming Conventions
 
 Across the applications, a common naming convention is to name a table

@@ -1,3 +1,8 @@
++++
+title = 'Improve Page Load Performance Related to List Boxes'
+solution = 'Platform'
++++
+
 # Improve Page Load Performance Related to List Boxes
 
 List boxes can often be a source of performance degradation due to their

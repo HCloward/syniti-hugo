@@ -1,3 +1,8 @@
++++
+title = 'Create a WebApp Event (Private) Business Rule'
+solution = 'Platform'
++++
+
 # Create a WebApp Event (Private) Business Rule
 
 A WebApp Event (Private) allows you to execute an event that already

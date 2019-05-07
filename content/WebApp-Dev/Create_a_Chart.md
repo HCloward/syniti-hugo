@@ -1,3 +1,8 @@
++++
+title = 'Create a Chart Page'
+solution = 'Platform'
++++
+
 # Create a Chart Page
 
 **NOTE:** When making a chart page, DSP® assumes the very first column

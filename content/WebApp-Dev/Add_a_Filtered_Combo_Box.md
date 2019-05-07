@@ -1,3 +1,8 @@
++++
+title = 'Add a Filtered Combo Box'
+solution = 'Platform'
++++
+
 # Add a Filtered Combo Box
 
 Filters are designed to reduce the number of items displayed in the

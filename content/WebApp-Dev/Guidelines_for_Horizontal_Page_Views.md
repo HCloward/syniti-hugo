@@ -1,3 +1,8 @@
++++
+title = 'Guidelines for Horizontal Page Views'
+solution = 'Platform'
++++
+
 # Guidelines for Horizontal Page Views
 
 When creating a *Horizontal* Page View:

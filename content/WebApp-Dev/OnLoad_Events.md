@@ -1,3 +1,8 @@
++++
+title = 'OnLoad Events'
+solution = 'Platform'
++++
+
 # OnLoad Events
 
 OnLoad Events execute prior to the page displaying, allowing lazy data

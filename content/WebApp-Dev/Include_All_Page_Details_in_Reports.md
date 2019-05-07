@@ -1,3 +1,8 @@
++++
+title = 'Include all Page Details in Reports'
+solution = 'Platform'
++++
+
 # Include all Page Details in Reports
 
 Report Follows Link is enabled by default and generates a report for the

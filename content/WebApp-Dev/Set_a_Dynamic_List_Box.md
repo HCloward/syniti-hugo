@@ -1,3 +1,8 @@
++++
+title = 'Set a Dynamic List Box'
+solution = 'Platform'
++++
+
 # Set a Dynamic List Box
 
 Dynamic List Box is a feature that uses a Where Clause to control the

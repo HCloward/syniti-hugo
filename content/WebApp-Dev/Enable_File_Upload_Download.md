@@ -1,3 +1,8 @@
++++
+title = 'Enable File Upload and Download'
+solution = 'Platform'
++++
+
 # Enable File Upload and Download
 
 The Files Column Property is used to stage any type of file including

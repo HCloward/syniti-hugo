@@ -1,3 +1,8 @@
++++
+title = 'Control Views'
+solution = 'Platform'
++++
+
 # Control Views
 
 Run Time Control Views (RTCV) provide a way to define column control at

@@ -1,3 +1,8 @@
++++
+title = 'Add a Tooltip'
+solution = 'Platform'
++++
+
 # Add a Tooltip
 
 Some columns may benefit from a tooltip, such as images that represent a

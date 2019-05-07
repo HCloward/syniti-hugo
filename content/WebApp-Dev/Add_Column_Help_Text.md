@@ -1,3 +1,8 @@
++++
+title = 'Add Column Help Text'
+solution = 'Platform'
++++
+
 # Add Column Help Text
 
 A page designer can assign help text to a specific column on a page in a

@@ -1,3 +1,8 @@
++++
+title = 'Configure Report Generation for Linked Pages'
+solution = 'Platform'
++++
+
 # Configure Report Generation for Linked Pages
 
 A report can contain data from multiple pages. When a report is

@@ -1,3 +1,8 @@
++++
+title = 'Create a Stored Procedure Business Rule'
+solution = 'Platform'
++++
+
 # Create a Stored Procedure Business Rule
 
 Refer to [Business Rule Guidelines](Business_Rule_Guidelines.htm) for

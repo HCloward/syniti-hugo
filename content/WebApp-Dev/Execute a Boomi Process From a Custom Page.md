@@ -1,3 +1,8 @@
++++
+title = 'Execute a Boomi Process From a Custom Page'
+solution = 'Platform'
++++
+
 # Execute a Boomi Process From a Custom Page
 
 Using a public plugin, a WebApp Developer can execute Processes created

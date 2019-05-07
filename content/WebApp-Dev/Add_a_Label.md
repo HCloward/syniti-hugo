@@ -1,3 +1,8 @@
++++
+title = 'Add a Label'
+solution = 'Platform'
++++
+
 # Add a Label
 
 Label is a Control Type that displays a label to distinguish between

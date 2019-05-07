@@ -1,3 +1,8 @@
++++
+title = 'Create a WebApp Event Business Rule'
+solution = 'Platform'
++++
+
 # Create a WebApp Event Business Rule
 
 A WebApp Event allows you to execute an event that already exists on a

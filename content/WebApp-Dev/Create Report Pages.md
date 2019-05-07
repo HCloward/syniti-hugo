@@ -1,3 +1,8 @@
++++
+title = 'Create Report Pages'
+solution = 'Platform'
++++
+
 # Create Report Pages
 
 A Report page has a subset of the features available on a Dynamic page.

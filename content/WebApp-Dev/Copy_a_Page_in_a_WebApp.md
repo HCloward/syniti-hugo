@@ -1,3 +1,8 @@
++++
+title = 'Copy a Page in a WebApp'
+solution = 'Platform'
++++
+
 # Copy a Page in a WebApp
 
 Instead of designing a page, a user can create a page based on a copy of

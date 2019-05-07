@@ -1,3 +1,8 @@
++++
+title = 'Enable Dynamic Page Reporting'
+solution = 'Platform'
++++
+
 # Enable Dynamic Page Reporting
 
 Reporting can be enabled for any Dynamic page. Dynamic page reporting is

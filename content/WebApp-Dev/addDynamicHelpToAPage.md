@@ -1,3 +1,8 @@
++++
+title = 'Add Dynamic Help to a Page'
+solution = 'Platform'
++++
+
 # Add Dynamic Help to a Page
 
 Page help text can be added to any page in a custom WebApp. To view page

@@ -1,3 +1,8 @@
++++
+title = 'Create a Static Page'
+solution = 'Platform'
++++
+
 # Create a Static Page
 
 A static page can display text only or can link to traditionally created

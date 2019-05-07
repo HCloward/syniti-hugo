@@ -1,3 +1,8 @@
++++
+title = 'Decrypt Data'
+solution = 'Platform'
++++
+
 # Decrypt Data
 
 On the *[Decrypt](../Sys_Admin/Page_Desc/Decrypt.htm)* page, users can

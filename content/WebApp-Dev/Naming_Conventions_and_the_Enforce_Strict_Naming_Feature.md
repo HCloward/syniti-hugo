@@ -1,3 +1,8 @@
++++
+title = 'Naming Conventions and the Enforce Strict Naming Feature'
+solution = 'Platform'
++++
+
 # Naming Conventions and the Enforce Strict Naming Feature
 
 The DSP® is delivered with a BOA pre-defined naming convention for

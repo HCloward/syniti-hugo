@@ -1,3 +1,8 @@
++++
+title = 'Link to Report Pages'
+solution = 'Platform'
++++
+
 # Link to Report Pages
 
 Dynamic and Report pages are typically rendered in a horizontal or

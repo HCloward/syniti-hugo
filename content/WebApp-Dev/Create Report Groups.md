@@ -1,3 +1,8 @@
++++
+title = 'Create Report Groups'
+solution = 'Platform'
++++
+
 # Create Report Groups
 
 The view used to render a report can contain denormalized data. Such

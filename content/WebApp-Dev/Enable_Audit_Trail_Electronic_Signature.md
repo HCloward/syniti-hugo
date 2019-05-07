@@ -1,3 +1,8 @@
++++
+title = 'Enable Audit Trail and Electronic Signature'
+solution = 'Platform'
++++
+
 # Enable Audit Trail and Electronic Signature
 
 Any edits to a record can be tracked through an Audit Trail. When the

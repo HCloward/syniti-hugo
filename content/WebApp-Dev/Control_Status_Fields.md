@@ -1,3 +1,8 @@
++++
+title = 'Control Status Fields'
+solution = 'Platform'
++++
+
 # Control Status Fields
 
 This feature has been deprecated due to the complexity it can add to

@@ -1,3 +1,8 @@
++++
+title = 'Add a Link to the Site Menu'
+solution = 'Platform'
++++
+
 # Add a Link to the Site Menu
 
 A system administrator can add an option site menu that appears when a

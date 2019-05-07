@@ -1,3 +1,8 @@
++++
+title = 'Set Security for a Custom WebApp'
+solution = 'Platform'
++++
+
 # Set Security for a Custom WebApp
 
 When a new WebApp is created, the User and PowerUser WebApp groups are

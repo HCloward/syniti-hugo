@@ -1,3 +1,8 @@
++++
+title = 'Create a Dynamic Page'
+solution = 'Platform'
++++
+
 # Create a Dynamic Page
 
 The most commonly used page type, a Dynamic page requires a view and an

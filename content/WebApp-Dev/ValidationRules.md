@@ -1,3 +1,8 @@
++++
+title = 'Validation Rules'
+solution = 'Platform'
++++
+
 # Validation Rules
 
 Validation rules manage correct data entry. If the validation occurs

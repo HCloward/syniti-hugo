@@ -1,3 +1,8 @@
++++
+title = 'Create Views in SQL'
+solution = 'Platform'
++++
+
 # Create Views in SQL
 
 All Dynamic pages in DSP® are based on a view.

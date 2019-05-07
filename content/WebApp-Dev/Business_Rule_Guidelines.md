@@ -1,3 +1,8 @@
++++
+title = 'Business Rule Guidelines'
+solution = 'Platform'
++++
+
 # Business Rule Guidelines
 
   - Business Rules are stored procedures which are generally created

@@ -1,3 +1,8 @@
++++
+title = 'Customize Dashboard Pages'
+solution = 'Platform'
++++
+
 # Customize Dashboard Pages
 
 Dashboard customization allows users to swap out charts and tabular data

@@ -1,3 +1,8 @@
++++
+title = 'Create Chart Drill Down'
+solution = 'Platform'
++++
+
 # Create Chart Drill Down
 
 Charts can be linked together or linked to any page type (chart,

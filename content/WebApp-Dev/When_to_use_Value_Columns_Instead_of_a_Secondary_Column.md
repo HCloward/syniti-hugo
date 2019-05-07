@@ -1,3 +1,8 @@
++++
+title = 'When to use Value Columns Instead of a Secondary Column'
+solution = 'Platform'
++++
+
 # When to use Value Columns Instead of a Secondary Column
 
 It may seem intuitive to always use a Secondary category when each

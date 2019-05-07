@@ -1,3 +1,8 @@
++++
+title = 'Add an HTML Area to a Column'
+solution = 'Platform'
++++
+
 # Add an HTML Area to a Column
 
 HTML Area is a Control Type that provides a tool to format text within

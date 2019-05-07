@@ -1,3 +1,8 @@
++++
+title = 'Copy a Layout'
+solution = 'Platform'
++++
+
 # Copy a Layout
 
 Several layouts are delivered; however, they cannot be modified as they

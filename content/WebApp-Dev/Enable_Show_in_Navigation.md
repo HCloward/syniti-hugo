@@ -1,3 +1,8 @@
++++
+title = 'Enable Show in Navigation'
+solution = 'Platform'
++++
+
 # Enable Show in Navigation
 
 Show in Navigation sets the values that display when a page title is

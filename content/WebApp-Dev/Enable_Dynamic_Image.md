@@ -1,3 +1,8 @@
++++
+title = 'Enable Dynamic Image'
+solution = 'Platform'
++++
+
 # Enable Dynamic Image
 
 Dynamic Image is a Column Property that displays an image uploaded to a

@@ -1,3 +1,8 @@
++++
+title = 'Post Data Using IG Universal Connect'
+solution = 'Platform'
++++
+
 # Post Data Using IG Universal Connect
 
 A Template Administrator can post data to a Target system using a

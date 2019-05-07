@@ -1,3 +1,8 @@
++++
+title = 'Horizontal vs. Vertical Views'
+solution = 'Platform'
++++
+
 # Horizontal vs. Vertical Views
 
 Every dynamic page in DSP® must have either a *Horizontal* and/or a

@@ -1,3 +1,8 @@
++++
+title = 'Configure the Navigation Pane, Submenus and Links to Pages'
+solution = 'Platform'
++++
+
 # Configure the Navigation Pane, Submenus and Links to Pages
 
 SQL table data is presented through standard views when registered in

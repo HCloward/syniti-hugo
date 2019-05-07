@@ -1,3 +1,8 @@
++++
+title = 'Update the Connection for a Process Template'
+solution = 'Platform'
++++
+
 # Update the Connection for a Process Template
 
 A Template Administrator can update the default atom, the default

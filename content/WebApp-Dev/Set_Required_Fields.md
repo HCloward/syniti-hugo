@@ -1,3 +1,8 @@
++++
+title = 'Set Required Fields'
+solution = 'Platform'
++++
+
 # Set Required Fields
 
 A column property can set whether a field is required.

@@ -1,3 +1,8 @@
++++
+title = 'Enable List Unique'
+solution = 'Platform'
++++
+
 # Enable List Unique
 
 List Unique is a Column Property that displays list box or combo box

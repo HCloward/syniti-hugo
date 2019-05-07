@@ -1,3 +1,8 @@
++++
+title = 'Post Data Using IG Universal Connect Overview'
+solution = 'Platform'
++++
+
 # Post Data Using IG Universal Connect Overview
 
 A Template defines how data is posted to a Target system, including

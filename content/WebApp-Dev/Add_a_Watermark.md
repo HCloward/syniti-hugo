@@ -1,3 +1,8 @@
++++
+title = 'Add a Watermark'
+solution = 'Platform'
++++
+
 # Add a Watermark
 
 Some columns benefit from a watermark, which displays as grey text in

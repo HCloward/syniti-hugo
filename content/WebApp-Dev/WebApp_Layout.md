@@ -1,3 +1,8 @@
++++
+title = 'WebApp Layout'
+solution = 'Platform'
++++
+
 # WebApp Layout
 
 Every WebApp contains pages and every page requires a page definition

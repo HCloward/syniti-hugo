@@ -1,3 +1,8 @@
++++
+title = 'View and Stored Procedure Naming Conventions'
+solution = 'Platform'
++++
+
 # View and Stored Procedure Naming Conventions
 
 Naming conventions are essential as they make development easier, and a

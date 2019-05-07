@@ -1,3 +1,8 @@
++++
+title = 'Event Design Process'
+solution = 'Platform'
++++
+
 # Event Design Process
 
 Below is a list of questions to ask to ensure an event is fully

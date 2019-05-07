@@ -1,3 +1,8 @@
++++
+title = 'Create Report Views'
+solution = 'Platform'
++++
+
 # Create Report Views
 
 The first step in creating a report is to create a report view in SQL

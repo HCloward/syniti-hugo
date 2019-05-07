@@ -1,3 +1,8 @@
++++
+title = 'User Control Views'
+solution = 'Platform'
++++
+
 # User Control Views
 
 Business rules may require specific functions to be disabled based on

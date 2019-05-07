@@ -1,3 +1,8 @@
++++
+title = 'Set the List Order By'
+solution = 'Platform'
++++
+
 # Set the List Order By
 
 By default, like pages, list boxes are sorted based on the primary key.

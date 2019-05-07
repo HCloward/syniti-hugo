@@ -1,3 +1,8 @@
++++
+title = 'Control Status Manipulation Overhead Minimization'
+solution = 'Platform'
++++
+
 # Control Status Manipulation Overhead Minimization
 
 Complex logic to determine whether to enable, disable, or hide page

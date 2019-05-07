@@ -1,3 +1,8 @@
++++
+title = 'Link to a Report from a Page'
+solution = 'Platform'
++++
+
 # Link to a Report from a Page
 
 Images and buttons can be added to columns to be used as links to

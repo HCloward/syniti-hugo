@@ -1,3 +1,8 @@
++++
+title = 'Hide a Column from Download'
+solution = 'Platform'
++++
+
 # Hide a Column from Download
 
 A Page Designer can set the columns available for download for a page in

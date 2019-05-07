@@ -1,3 +1,8 @@
++++
+title = 'Page Design Overview'
+solution = 'Platform'
++++
+
 # Page Design Overview
 
 After [designing the database](Database_Design.htm) and [creating the
