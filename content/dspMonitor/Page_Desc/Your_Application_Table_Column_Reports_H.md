@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Your Application Table Column Reports H'
 solution = 'Data Quality'
 +++
 
-# <span id="TblClmRpt_H"></span>Your Application Table Column Reports H
+# Your Application Table Column Reports H
 
 **NOTE:** When a user accesses this page in the *Navigation* pane, the
 fields below display. When a user clicks the View icon on this page to
