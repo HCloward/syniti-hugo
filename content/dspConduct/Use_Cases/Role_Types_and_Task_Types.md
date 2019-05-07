@@ -1,6 +1,6 @@
 +++
 title = 'Role Types and Task Types'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Role Types and Task Types

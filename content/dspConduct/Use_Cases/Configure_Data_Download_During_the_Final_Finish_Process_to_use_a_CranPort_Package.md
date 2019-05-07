@@ -1,6 +1,6 @@
 +++
 title = 'Configure Data Download During the Final Finish Process to use a CranPort Package'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
  

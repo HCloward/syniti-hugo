@@ -1,6 +1,6 @@
 +++
 title = 'Set the Control Table Prefix'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Set the Control Table Prefix

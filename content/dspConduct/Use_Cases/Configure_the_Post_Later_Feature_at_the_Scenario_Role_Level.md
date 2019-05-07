@@ -1,6 +1,6 @@
 +++
 title = 'Configure the Post Later Feature at the Scenario - Role Level'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Configure the Post Later Feature at the Scenario - Role Level

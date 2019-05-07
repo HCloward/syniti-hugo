@@ -1,6 +1,6 @@
 +++
 title = 'Category Request Duration'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Category Request Duration

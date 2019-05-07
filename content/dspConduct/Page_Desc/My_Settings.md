@@ -1,6 +1,6 @@
 +++
 title = 'My Settings H<span id="top"></span>'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # My Settings H<span id="top"></span>

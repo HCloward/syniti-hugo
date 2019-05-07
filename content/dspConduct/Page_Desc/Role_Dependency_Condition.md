@@ -1,6 +1,6 @@
 +++
 title = 'Role Dependency Condition'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Role Dependency Condition

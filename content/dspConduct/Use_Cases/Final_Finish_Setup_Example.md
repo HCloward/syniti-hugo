@@ -1,6 +1,6 @@
 +++
 title = 'Final Finish Setup Example'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Final Finish Setup Example

@@ -1,6 +1,6 @@
 +++
 title = 'Role Average Completion Time'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Role Average Completion Time

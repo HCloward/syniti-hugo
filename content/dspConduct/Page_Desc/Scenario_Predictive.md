@@ -1,6 +1,6 @@
 +++
 title = 'Scenario Predictive'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Scenario Predictive

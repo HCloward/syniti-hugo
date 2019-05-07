@@ -1,6 +1,6 @@
 +++
 title = 'Category Workflow Language Message H'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Category Workflow Language Message H

@@ -1,6 +1,6 @@
 +++
 title = 'All Requests for Business Process'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # All Requests for Business Process

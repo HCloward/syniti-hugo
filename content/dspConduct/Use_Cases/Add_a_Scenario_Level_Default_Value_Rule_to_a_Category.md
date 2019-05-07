@@ -1,6 +1,6 @@
 +++
 title = 'Add a Scenario Level Default Value Rule to a Category'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Add a Scenario Level Default Value Rule to a Category

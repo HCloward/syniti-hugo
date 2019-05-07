@@ -1,6 +1,6 @@
 +++
 title = 'View all Pages for a Task'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # View all Pages for a Task

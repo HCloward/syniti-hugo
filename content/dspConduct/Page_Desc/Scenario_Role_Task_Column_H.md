@@ -1,6 +1,6 @@
 +++
 title = 'Scenario Role Task Column H'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Scenario Role Task Column H

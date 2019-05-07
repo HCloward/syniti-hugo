@@ -1,6 +1,6 @@
 +++
 title = 'SLA Percent On Time by Scenario'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # SLA Percent On Time by Scenario

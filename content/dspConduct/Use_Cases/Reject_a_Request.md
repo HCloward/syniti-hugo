@@ -1,6 +1,6 @@
 +++
 title = 'Reject a Request'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Reject a Request

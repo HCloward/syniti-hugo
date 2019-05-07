@@ -1,6 +1,6 @@
 +++
 title = 'Add a Category Object'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Add a Category Object

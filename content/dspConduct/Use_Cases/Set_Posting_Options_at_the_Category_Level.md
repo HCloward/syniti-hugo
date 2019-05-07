@@ -1,6 +1,6 @@
 +++
 title = 'Set Posting Options at the Category Level'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Set Posting Options at the Category Level

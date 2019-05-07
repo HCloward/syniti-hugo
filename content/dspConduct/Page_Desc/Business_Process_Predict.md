@@ -1,6 +1,6 @@
 +++
 title = 'Business Process Predictive'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Business Process Predictive

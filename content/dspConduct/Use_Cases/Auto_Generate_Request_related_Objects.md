@@ -1,6 +1,6 @@
 +++
 title = 'Auto-generate Request-related Objects'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Auto-generate Request-related Objects

@@ -1,6 +1,6 @@
 +++
 title = 'Configure Business Processes in a Position'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Configure Business Processes in a Position

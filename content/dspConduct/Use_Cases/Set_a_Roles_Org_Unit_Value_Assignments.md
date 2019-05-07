@@ -1,6 +1,6 @@
 +++
 title = 'Set a Role's Org Unit Value Assignments'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Set a Role's Org Unit Value Assignments

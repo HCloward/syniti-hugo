@@ -1,6 +1,6 @@
 +++
 title = 'Add a Business Process'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Add a Business Process

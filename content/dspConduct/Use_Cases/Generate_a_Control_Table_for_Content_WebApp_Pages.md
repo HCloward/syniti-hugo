@@ -1,6 +1,6 @@
 +++
 title = 'Generate a Control Table for Content WebApp Pages'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Generate a Control Table for Content WebApp Pages

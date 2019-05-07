@@ -1,6 +1,6 @@
 +++
 title = 'Scenarios (Dependencies)'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Scenarios (Dependencies)

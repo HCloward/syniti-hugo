@@ -1,6 +1,6 @@
 +++
 title = 'Add Process Rules at the Scenario Level'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Add Process Rules at the Scenario Level

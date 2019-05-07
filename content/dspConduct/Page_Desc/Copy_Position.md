@@ -1,6 +1,6 @@
 +++
 title = 'Copy Position'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Copy Position

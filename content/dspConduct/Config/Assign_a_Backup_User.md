@@ -1,6 +1,6 @@
 +++
 title = 'Assign a Backup User'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Assign a Backup User

@@ -1,6 +1,6 @@
 +++
 title = 'Set Calendar Used For Business Value Calculations'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Set Calendar Used For Business Value Calculations

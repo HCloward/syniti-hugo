@@ -1,6 +1,6 @@
 +++
 title = 'Business Process, Scenario SLA Percent On Time'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Business Process, Scenario SLA Percent On Time

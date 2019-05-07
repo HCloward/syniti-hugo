@@ -1,6 +1,6 @@
 +++
 title = 'Set Preceding Weeks Count for Dashboards'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Set Preceding Weeks Count for Dashboards

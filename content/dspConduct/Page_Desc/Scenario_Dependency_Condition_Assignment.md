@@ -1,6 +1,6 @@
 +++
 title = 'Scenario Dependency Condition Assignment'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Scenario Dependency Condition Assignment

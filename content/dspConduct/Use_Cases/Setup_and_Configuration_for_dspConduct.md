@@ -1,6 +1,6 @@
 +++
 title = 'Setup and Configuration for dspConduct™'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Setup and Configuration for dspConduct™

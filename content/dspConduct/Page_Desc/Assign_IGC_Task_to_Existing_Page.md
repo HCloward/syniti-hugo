@@ -1,6 +1,6 @@
 +++
 title = 'Assign IGC Task to Existing Page'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Assign IGC Task to Existing Page

@@ -1,6 +1,6 @@
 +++
 title = 'Variant Import Required Columns'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Variant Import Required Columns

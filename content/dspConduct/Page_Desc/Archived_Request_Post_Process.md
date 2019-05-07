@@ -1,6 +1,6 @@
 +++
 title = 'Archived Request Post Process'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Archived Request Post Process

@@ -1,6 +1,6 @@
 +++
 title = 'Manage Request Statuses Overview'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Manage Request Statuses Overview

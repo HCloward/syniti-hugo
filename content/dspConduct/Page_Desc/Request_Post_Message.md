@@ -1,6 +1,6 @@
 +++
 title = 'Request Post Message'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Request Post Message

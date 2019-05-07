@@ -1,6 +1,6 @@
 +++
 title = 'Review a Request Overview'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Review a Request Overview

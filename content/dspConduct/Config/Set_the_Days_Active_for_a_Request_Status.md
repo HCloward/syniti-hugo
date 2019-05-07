@@ -1,6 +1,6 @@
 +++
 title = 'Set the Days Active for a Request Status'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Set the Days Active for a Request Status

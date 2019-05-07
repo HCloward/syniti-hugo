@@ -1,6 +1,6 @@
 +++
 title = 'Create a Request'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Create a Request

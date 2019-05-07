@@ -1,6 +1,6 @@
 +++
 title = 'IGC Keys'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # IGC Keys

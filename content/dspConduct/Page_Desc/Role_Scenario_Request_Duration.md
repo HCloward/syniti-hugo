@@ -1,6 +1,6 @@
 +++
 title = 'Role Scenario Request Duration'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Role Scenario Request Duration

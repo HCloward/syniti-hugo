@@ -1,6 +1,6 @@
 +++
 title = 'Create a Final Finish Where Clause for a CranPort Package'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Create a Final Finish Where Clause for a CranPort Package

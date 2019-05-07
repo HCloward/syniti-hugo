@@ -1,6 +1,6 @@
 +++
 title = 'Active Requests for Role'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Active Requests for Role

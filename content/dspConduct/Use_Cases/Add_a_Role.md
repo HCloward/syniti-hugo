@@ -1,6 +1,6 @@
 +++
 title = 'Add a Role'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Add a Role

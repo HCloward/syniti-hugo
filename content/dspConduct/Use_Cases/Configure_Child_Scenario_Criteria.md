@@ -1,6 +1,6 @@
 +++
 title = 'Configure Child Scenario Criteria'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Configure Child Scenario Criteria

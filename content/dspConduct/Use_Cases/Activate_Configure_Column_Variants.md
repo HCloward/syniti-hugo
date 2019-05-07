@@ -1,6 +1,6 @@
 +++
 title = 'Activate and Configure Column Variants'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Activate and Configure Column Variants

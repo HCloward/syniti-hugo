@@ -1,6 +1,6 @@
 +++
 title = 'Assign a Default Value Rule to a Scenario'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Assign a Default Value Rule to a Scenario

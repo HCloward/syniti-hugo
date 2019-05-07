@@ -1,6 +1,6 @@
 +++
 title = 'Update Custom Attributes for Governance Elements'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Update Custom Attributes for Governance Elements

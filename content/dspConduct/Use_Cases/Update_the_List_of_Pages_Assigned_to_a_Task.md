@@ -1,6 +1,6 @@
 +++
 title = 'Update the List of Pages Assigned to a Task'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Update the List of Pages Assigned to a Task

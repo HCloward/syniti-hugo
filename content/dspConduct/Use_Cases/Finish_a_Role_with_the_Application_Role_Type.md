@@ -1,6 +1,6 @@
 +++
 title = 'Finish a Role with the Application Role Type'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Finish a Role with the Application Role Type

@@ -1,6 +1,6 @@
 +++
 title = 'Category Request Status'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Category Request Status

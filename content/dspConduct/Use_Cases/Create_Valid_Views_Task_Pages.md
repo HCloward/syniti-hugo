@@ -1,6 +1,6 @@
 +++
 title = 'Create Validation Views for Content WebApp Task Pages'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Create Validation Views for Content WebApp Task Pages

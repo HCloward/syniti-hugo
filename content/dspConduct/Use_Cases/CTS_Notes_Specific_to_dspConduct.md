@@ -1,6 +1,6 @@
 +++
 title = 'CTS Notes Specific to dspConduct™'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # CTS Notes Specific to dspConduct™

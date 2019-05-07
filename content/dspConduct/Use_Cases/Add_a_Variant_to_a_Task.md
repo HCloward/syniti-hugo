@@ -1,6 +1,6 @@
 +++
 title = 'Add a Variant to a Task'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Add a Variant to a Task

@@ -1,6 +1,6 @@
 +++
 title = ''
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # <span id="Business_Process_H"></span>Business Process H

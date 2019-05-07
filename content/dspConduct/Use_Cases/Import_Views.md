@@ -1,6 +1,6 @@
 +++
 title = 'Import Views'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Import Views

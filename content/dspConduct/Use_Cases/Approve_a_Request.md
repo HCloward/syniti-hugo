@@ -1,6 +1,6 @@
 +++
 title = 'Approve a Request'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Approve a Request

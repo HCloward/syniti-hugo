@@ -1,6 +1,6 @@
 +++
 title = 'View a Task's Scenarios and Roles'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # View a Task's Scenarios and Roles

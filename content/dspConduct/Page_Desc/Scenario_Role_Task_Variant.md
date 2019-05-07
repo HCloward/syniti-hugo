@@ -1,6 +1,6 @@
 +++
 title = 'Scenario Role Task Variant'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Scenario Role Task Variant

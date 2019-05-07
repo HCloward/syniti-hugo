@@ -1,6 +1,6 @@
 +++
 title = 'Request Created-Completed Scenario Type Metrics'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Request Created-Completed Scenario Type Metrics

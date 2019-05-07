@@ -1,6 +1,6 @@
 +++
 title = 'Generate Element Documents'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Generate Element Documents

@@ -1,6 +1,6 @@
 +++
 title = 'Copy a Business Process'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Copy a Business Process

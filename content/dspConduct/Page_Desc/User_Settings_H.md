@@ -1,6 +1,6 @@
 +++
 title = ''
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # <span id="User_Settings_H"></span>User Settings H

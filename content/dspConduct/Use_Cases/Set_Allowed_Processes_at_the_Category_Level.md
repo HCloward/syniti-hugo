@@ -1,6 +1,6 @@
 +++
 title = 'Set Allowed Processes at the Category Level'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Set Allowed Processes at the Category Level

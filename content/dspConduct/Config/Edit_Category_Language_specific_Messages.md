@@ -1,6 +1,6 @@
 +++
 title = 'Edit Category Language-specific Messages'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Edit Category Language-specific Messages

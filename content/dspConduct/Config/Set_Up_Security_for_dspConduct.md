@@ -1,6 +1,6 @@
 +++
 title = 'Set Up Security for dspConduct™'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Set Up Security for dspConduct™

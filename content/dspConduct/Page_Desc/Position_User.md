@@ -1,6 +1,6 @@
 +++
 title = 'Position User'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Position User

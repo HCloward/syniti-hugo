@@ -1,6 +1,6 @@
 +++
 title = 'View Business Process Visualization'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # View Business Process Visualization

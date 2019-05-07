@@ -1,6 +1,6 @@
 +++
 title = 'Default Value Rules'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Default Value Rules

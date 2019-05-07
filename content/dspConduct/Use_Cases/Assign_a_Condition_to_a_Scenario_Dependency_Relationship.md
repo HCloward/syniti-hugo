@@ -1,6 +1,6 @@
 +++
 title = 'Assign a Condition to a Scenario Dependency Relationship'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Assign a Condition to a Scenario Dependency Relationship

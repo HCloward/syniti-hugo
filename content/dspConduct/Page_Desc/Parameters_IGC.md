@@ -1,6 +1,6 @@
 +++
 title = 'Parameters - IGC'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Parameters - IGC

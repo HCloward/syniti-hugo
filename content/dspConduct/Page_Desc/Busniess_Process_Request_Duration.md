@@ -1,6 +1,6 @@
 +++
 title = 'Business Process Request Duration'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Business Process Request Duration

@@ -1,6 +1,6 @@
 +++
 title = 'Category Process'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Category Process

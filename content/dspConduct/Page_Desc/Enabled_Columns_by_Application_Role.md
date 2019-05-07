@@ -1,6 +1,6 @@
 +++
 title = 'Enabled Columns by Application Role'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Enabled Columns by Application Role

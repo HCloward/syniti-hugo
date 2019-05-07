@@ -1,6 +1,6 @@
 +++
 title = 'Scenario Business Process Request Duration'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Scenario Business Process Request Duration

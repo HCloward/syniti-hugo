@@ -1,6 +1,6 @@
 +++
 title = 'Import IGC™ Governance Elements into dspConduct™'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Import IGC™ Governance Elements into dspConduct™

@@ -1,6 +1,6 @@
 +++
 title = 'Configure Data Download During the Final Finish Process to use a Data Services Job'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Configure Data Download During the Final Finish Process to use a Data Services Job

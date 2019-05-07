@@ -1,6 +1,6 @@
 +++
 title = 'Configure a Registered User to Receive Notifications For Posting Success or Failure at the Request Role Level'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 +++

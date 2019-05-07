@@ -1,6 +1,6 @@
 +++
 title = 'View the Request Details Diagram'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # View the Request Details Diagram

@@ -1,6 +1,6 @@
 +++
 title = 'Validate a Role'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Validate a Role

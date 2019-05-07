@@ -1,6 +1,6 @@
 +++
 title = 'Enable or Disable Messages for a Role'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Enable or Disable Messages for a Role

@@ -1,6 +1,6 @@
 +++
 title = 'Add an Integrate Process to a Scenario'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Add an Integrate Process to a Scenario

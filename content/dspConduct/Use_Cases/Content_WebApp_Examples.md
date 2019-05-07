@@ -1,6 +1,6 @@
 +++
 title = 'Content WebApp Examples'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Content WebApp Examples

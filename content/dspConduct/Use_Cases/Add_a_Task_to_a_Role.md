@@ -1,6 +1,6 @@
 +++
 title = 'Add a Task to a Role'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Add a Task to a Role

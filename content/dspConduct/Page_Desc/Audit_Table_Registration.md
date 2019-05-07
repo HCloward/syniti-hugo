@@ -1,6 +1,6 @@
 +++
 title = 'Audit Table Registration'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Audit Table Registration

@@ -1,6 +1,6 @@
 +++
 title = 'Finish Download Messages'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Finish Download Messages

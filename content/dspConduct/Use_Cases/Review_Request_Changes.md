@@ -1,6 +1,6 @@
 +++
 title = 'Review Request Changes'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Review Request Changes

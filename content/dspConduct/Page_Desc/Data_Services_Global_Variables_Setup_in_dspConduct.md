@@ -1,6 +1,6 @@
 +++
 title = 'Data Services Global Variables Setup'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Data Services Global Variables Setup

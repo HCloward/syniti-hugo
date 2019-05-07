@@ -1,6 +1,6 @@
 +++
 title = 'Manage Categories'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Manage Categories

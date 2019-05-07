@@ -1,6 +1,6 @@
 +++
 title = 'Archived Request Role Log'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Archived Request Role Log

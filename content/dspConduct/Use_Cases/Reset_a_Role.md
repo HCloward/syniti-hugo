@@ -1,6 +1,6 @@
 +++
 title = 'Reset a Role'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Reset a Role

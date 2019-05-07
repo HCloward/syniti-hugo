@@ -1,6 +1,6 @@
 +++
 title = 'View a Role's dspConduct™ Pages'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # View a Role's dspConduct™ Pages

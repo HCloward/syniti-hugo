@@ -1,6 +1,6 @@
 +++
 title = 'Position Business Process'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Position Business Process

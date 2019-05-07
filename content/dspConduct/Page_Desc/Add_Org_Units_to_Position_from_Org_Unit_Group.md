@@ -1,6 +1,6 @@
 +++
 title = 'Add Org Units To Position From Org Unit Group'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Add Org Units To Position From Org Unit Group

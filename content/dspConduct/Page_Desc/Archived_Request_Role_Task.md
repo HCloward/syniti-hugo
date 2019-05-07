@@ -1,6 +1,6 @@
 +++
 title = 'Archived Request Role Task'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Archived Request Role Task

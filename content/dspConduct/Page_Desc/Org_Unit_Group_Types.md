@@ -1,6 +1,6 @@
 +++
 title = 'Org Unit Group Types'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Org Unit Group Types

@@ -1,6 +1,6 @@
 +++
 title = 'Archived Request Role SLA'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Archived Request Role SLA

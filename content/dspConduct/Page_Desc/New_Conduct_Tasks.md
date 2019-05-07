@@ -1,6 +1,6 @@
 +++
 title = 'New Conduct Tasks'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # New Conduct Tasks

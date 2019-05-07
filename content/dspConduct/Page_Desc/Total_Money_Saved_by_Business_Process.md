@@ -1,6 +1,6 @@
 +++
 title = 'Total Money Saved (by Business Process)'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Total Money Saved (by Business Process)

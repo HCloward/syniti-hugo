@@ -1,6 +1,6 @@
 +++
 title = 'Deactivate a Task for a Scenario Role Combination'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Deactivate a Task for a Scenario Role Combination

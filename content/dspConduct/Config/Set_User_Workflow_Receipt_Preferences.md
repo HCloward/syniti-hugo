@@ -1,6 +1,6 @@
 +++
 title = 'Set User Workflow Receipt Preferences'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Set User Workflow Receipt Preferences

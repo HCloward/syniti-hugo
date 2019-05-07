@@ -1,6 +1,6 @@
 +++
 title = 'Active Request for Category Details'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Active Request for Category Details

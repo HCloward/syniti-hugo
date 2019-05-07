@@ -1,6 +1,6 @@
 +++
 title = 'Unassigned Org Unit 2'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Unassigned Org Unit 2

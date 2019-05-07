@@ -1,6 +1,6 @@
 +++
 title = 'Deactivate a Business Process'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Deactivate a Business Process

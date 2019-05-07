@@ -1,6 +1,6 @@
 +++
 title = 'Category Workflow Message'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Category Workflow Message

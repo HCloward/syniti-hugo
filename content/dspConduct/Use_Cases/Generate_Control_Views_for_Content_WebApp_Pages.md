@@ -1,6 +1,6 @@
 +++
 title = 'Generate Control Views for Content WebApp Pages'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Generate Control Views for Content WebApp Pages

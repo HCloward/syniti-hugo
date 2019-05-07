@@ -1,6 +1,6 @@
 +++
 title = 'View Business Value Dashboard'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # View Business Value Dashboard

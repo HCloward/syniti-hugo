@@ -1,6 +1,6 @@
 +++
 title = 'Element Documentation'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Element Documentation

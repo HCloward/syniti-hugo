@@ -1,6 +1,6 @@
 +++
 title = 'Download Documentation at the Role Level'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Download Documentation at the Role Level

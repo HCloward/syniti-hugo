@@ -1,6 +1,6 @@
 +++
 title = 'Business Process Execution During Final Finish'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Business Process Execution During Final Finish

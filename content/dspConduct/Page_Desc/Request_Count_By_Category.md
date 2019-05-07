@@ -1,6 +1,6 @@
 +++
 title = 'Request Count By Category'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Request Count By Category

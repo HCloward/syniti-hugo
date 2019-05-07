@@ -1,6 +1,6 @@
 +++
 title = 'Reports'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Reports

@@ -1,6 +1,6 @@
 +++
 title = 'Role H'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Role H

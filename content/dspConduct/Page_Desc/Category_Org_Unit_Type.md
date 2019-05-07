@@ -1,6 +1,6 @@
 +++
 title = 'Category Org Unit Type'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Category Org Unit Type

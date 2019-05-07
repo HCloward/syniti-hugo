@@ -1,6 +1,6 @@
 +++
 title = ''
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # <span>User Business Processes</span>

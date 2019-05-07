@@ -1,6 +1,6 @@
 +++
 title = 'Unassigned Roles'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Unassigned Roles

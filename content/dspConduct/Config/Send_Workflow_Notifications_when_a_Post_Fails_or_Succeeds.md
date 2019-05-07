@@ -1,6 +1,6 @@
 +++
 title = 'Send Workflow Notifications When a Post Fails or Succeeds'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Send Workflow Notifications When a Post Fails or Succeeds

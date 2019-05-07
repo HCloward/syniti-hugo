@@ -1,6 +1,6 @@
 +++
 title = 'Unassigned Business Processes'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Unassigned Business Processes

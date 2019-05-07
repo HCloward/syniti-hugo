@@ -1,6 +1,6 @@
 +++
 title = 'Add the Request Details Data Visualization Page to the Content WebApp'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Add the Request Details Data Visualization Page to the Content WebApp

@@ -1,6 +1,6 @@
 +++
 title = 'My Positions'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # My Positions

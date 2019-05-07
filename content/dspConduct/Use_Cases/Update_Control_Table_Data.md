@@ -1,6 +1,6 @@
 +++
 title = 'Update Control Table Data'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Update Control Table Data

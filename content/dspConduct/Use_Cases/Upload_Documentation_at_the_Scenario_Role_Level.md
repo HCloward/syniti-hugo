@@ -1,6 +1,6 @@
 +++
 title = 'Upload Documentation at the Scenario Role Level'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Upload Documentation at the Scenario Role Level

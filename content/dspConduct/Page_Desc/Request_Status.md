@@ -1,6 +1,6 @@
 +++
 title = 'Request Status'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Request Status

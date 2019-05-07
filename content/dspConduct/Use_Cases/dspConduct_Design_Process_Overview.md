@@ -1,6 +1,6 @@
 +++
 title = 'dspConduct™ Design Process Overview'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # dspConduct™ Design Process Overview

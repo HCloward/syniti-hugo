@@ -1,6 +1,6 @@
 +++
 title = 'Set Up a Category from IGC™ in dspConduct™'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Set Up a Category from IGC™ in dspConduct™

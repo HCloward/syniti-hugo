@@ -1,6 +1,6 @@
 +++
 title = 'Add a Role to a Scenario'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Add a Role to a Scenario

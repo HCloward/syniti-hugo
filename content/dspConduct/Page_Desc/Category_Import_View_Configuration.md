@@ -1,6 +1,6 @@
 +++
 title = 'Category Import View Configuration'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Category Import View Configuration

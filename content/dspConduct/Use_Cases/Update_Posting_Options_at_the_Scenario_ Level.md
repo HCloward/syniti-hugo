@@ -1,6 +1,6 @@
 +++
 title = 'Update Posting Options at the Scenario Level'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Update Posting Options at the Scenario Level

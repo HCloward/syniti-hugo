@@ -1,6 +1,6 @@
 +++
 title = 'Task Final Finish Where Clause'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Task Final Finish Where Clause

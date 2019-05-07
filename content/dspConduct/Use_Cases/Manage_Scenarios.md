@@ -1,6 +1,6 @@
 +++
 title = 'Manage Scenarios'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Manage Scenarios

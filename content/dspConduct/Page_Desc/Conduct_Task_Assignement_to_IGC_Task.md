@@ -1,6 +1,6 @@
 +++
 title = 'Conduct Task Assignement to IGC Task'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Conduct Task Assignement to IGC Task

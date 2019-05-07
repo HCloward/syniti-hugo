@@ -1,6 +1,6 @@
 +++
 title = 'View Reports in dspConduct™'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # View Reports in dspConduct™

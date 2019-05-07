@@ -1,6 +1,6 @@
 +++
 title = 'Configure Business Value Parameters'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Configure Business Value Parameters

@@ -1,6 +1,6 @@
 +++
 title = 'Deactivate a Scenario'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Deactivate a Scenario

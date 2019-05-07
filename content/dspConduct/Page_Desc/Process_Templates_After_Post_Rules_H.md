@@ -1,6 +1,6 @@
 +++
 title = 'Process Templates: After Post Rules H'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Process Templates: After Post Rules H

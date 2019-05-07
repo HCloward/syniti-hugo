@@ -1,6 +1,6 @@
 +++
 title = 'Add Custom Business Rules'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Add Custom Business Rules

@@ -1,6 +1,6 @@
 +++
 title = 'Scenario Role Event Rule'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Scenario Role Event Rule

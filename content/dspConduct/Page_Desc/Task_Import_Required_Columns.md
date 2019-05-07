@@ -1,6 +1,6 @@
 +++
 title = 'Task Import Required Columns'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Task Import Required Columns

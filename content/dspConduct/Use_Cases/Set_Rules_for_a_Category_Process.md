@@ -1,6 +1,6 @@
 +++
 title = 'Set Rules for a Category Process'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Set Rules for a Category Process

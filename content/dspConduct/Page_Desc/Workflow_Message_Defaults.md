@@ -1,6 +1,6 @@
 +++
 title = 'Workflow Message Defaults'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Workflow Message Defaults

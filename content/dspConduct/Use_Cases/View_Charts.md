@@ -1,6 +1,6 @@
 +++
 title = 'View Charts in dspConduct™'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # View Charts in dspConduct™

@@ -1,6 +1,6 @@
 +++
 title = 'Conditions'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Conditions

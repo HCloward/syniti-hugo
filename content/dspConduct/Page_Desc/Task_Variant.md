@@ -1,6 +1,6 @@
 +++
 title = 'Task Variant'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Task Variant

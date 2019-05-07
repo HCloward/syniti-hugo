@@ -1,6 +1,6 @@
 +++
 title = 'View Tasks Imported from IGC™ in dspConduct™'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # View Tasks Imported from IGC™ in dspConduct™

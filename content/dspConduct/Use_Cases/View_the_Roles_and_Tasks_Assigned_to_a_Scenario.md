@@ -1,6 +1,6 @@
 +++
 title = 'View the Roles and Tasks Assigned to a Scenario'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # View the Roles and Tasks Assigned to a Scenario

@@ -1,6 +1,6 @@
 +++
 title = 'Default WebApp Request Table'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Default WebApp Request Table

@@ -1,6 +1,6 @@
 +++
 title = 'Category SLA Percent On Time'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Category SLA Percent On Time

@@ -1,6 +1,6 @@
 +++
 title = ''
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # <span id="top"></span>Default WebApp Request Table Columns H

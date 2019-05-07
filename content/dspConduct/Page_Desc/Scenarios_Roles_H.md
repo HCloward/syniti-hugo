@@ -1,6 +1,6 @@
 +++
 title = 'Scenarios (Roles) H'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Scenarios (Roles) H

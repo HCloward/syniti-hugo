@@ -1,6 +1,6 @@
 +++
 title = 'Configure Workflow Messages Overview'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Configure Workflow Messages Overview

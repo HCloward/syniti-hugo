@@ -1,6 +1,6 @@
 +++
 title = 'Configure Scenario Types'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Configure Scenario Types

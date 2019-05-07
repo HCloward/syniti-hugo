@@ -1,6 +1,6 @@
 +++
 title = 'Map a dspConduct™ Task to a Task Imported from IGC™'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Map a dspConduct™ Task to a Task Imported from IGC™

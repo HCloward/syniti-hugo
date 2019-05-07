@@ -1,6 +1,6 @@
 +++
 title = 'Add a Scenario'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Add a Scenario

@@ -1,6 +1,6 @@
 +++
 title = 'Role Predictive'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Role Predictive

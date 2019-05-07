@@ -1,6 +1,6 @@
 +++
 title = 'Configure the Required Setting for a Scenario Role Task Column'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Configure the Required Setting for a Scenario Role Task Column

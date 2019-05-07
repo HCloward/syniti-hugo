@@ -1,6 +1,6 @@
 +++
 title = 'Scenario Type'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Scenario Type

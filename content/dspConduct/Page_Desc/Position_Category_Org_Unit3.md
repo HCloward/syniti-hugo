@@ -1,6 +1,6 @@
 +++
 title = 'Position Category OrgUnit3'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Position Category OrgUnit3

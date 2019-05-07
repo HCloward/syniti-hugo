@@ -1,6 +1,6 @@
 +++
 title = 'All Requests for Scenario Details'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # All Requests for Scenario Details

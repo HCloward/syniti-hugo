@@ -1,6 +1,6 @@
 +++
 title = 'Variant Column Import Staging'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Variant Column Import Staging

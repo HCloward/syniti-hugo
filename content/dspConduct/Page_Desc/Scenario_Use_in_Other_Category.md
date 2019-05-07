@@ -1,6 +1,6 @@
 +++
 title = 'Scenario Use In Other Category'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Scenario Use In Other Category

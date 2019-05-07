@@ -1,6 +1,6 @@
 +++
 title = 'Scenario (Default Rules)'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Scenario (Default Rules)

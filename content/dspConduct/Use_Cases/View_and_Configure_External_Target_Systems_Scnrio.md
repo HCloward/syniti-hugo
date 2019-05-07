@@ -1,6 +1,6 @@
 +++
 title = 'View and Configure External Target Systems for a Scenario'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # View and Configure External Target Systems for a Scenario

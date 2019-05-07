@@ -1,6 +1,6 @@
 +++
 title = 'Add a Dependent Scenario'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Add a Dependent Scenario

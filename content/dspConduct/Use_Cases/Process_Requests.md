@@ -1,6 +1,6 @@
 +++
 title = 'Process Requests Overview'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Process Requests Overview

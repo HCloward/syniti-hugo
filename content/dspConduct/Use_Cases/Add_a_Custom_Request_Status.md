@@ -1,6 +1,6 @@
 +++
 title = 'Add a Custom Request Status'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Add a Custom Request Status

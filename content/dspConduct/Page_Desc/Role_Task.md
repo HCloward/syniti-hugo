@@ -1,6 +1,6 @@
 +++
 title = 'Role (Tasks)'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Role (Tasks)

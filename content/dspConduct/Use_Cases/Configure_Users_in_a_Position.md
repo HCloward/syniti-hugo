@@ -1,6 +1,6 @@
 +++
 title = 'Configure Users in a Position'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Configure Users in a Position

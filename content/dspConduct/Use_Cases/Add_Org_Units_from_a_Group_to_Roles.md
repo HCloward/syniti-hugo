@@ -1,6 +1,6 @@
 +++
 title = 'Add Org Units from a Group to Roles'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Add Org Units from a Group to Roles

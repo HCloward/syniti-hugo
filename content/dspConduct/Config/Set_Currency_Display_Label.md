@@ -1,6 +1,6 @@
 +++
 title = 'Set Currency Display Label'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Set Currency Display Label

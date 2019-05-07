@@ -1,6 +1,6 @@
 +++
 title = 'Business Process Execution with Scenario Dependencies During Final Finish'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Business Process Execution with Scenario Dependencies During Final Finish

@@ -1,6 +1,6 @@
 +++
 title = 'Send Workflow Notifications when a Final Finish Package Fails'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Send Workflow Notifications when a Final Finish Package Fails

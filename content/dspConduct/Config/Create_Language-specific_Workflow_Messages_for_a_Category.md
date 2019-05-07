@@ -1,6 +1,6 @@
 +++
 title = 'Create Language-specific Workflow Messages for a Category'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Create Language-specific Workflow Messages for a Category

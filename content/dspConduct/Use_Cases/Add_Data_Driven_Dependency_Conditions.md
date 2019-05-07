@@ -1,6 +1,6 @@
 +++
 title = 'Add Data-Driven Dependency Conditions'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Add Data-Driven Dependency Conditions

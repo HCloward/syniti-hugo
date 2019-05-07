@@ -1,6 +1,6 @@
 +++
 title = 'Scenario Process Rule'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Scenario Process Rule

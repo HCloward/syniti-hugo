@@ -1,6 +1,6 @@
 +++
 title = 'Auto Finish a Role'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Auto Finish a Role

@@ -1,6 +1,6 @@
 +++
 title = 'Category Org Units for Position'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Category Org Units for Position

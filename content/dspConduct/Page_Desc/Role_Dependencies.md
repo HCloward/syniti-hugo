@@ -1,7 +1,7 @@
 +++
 title = 'Role Dependencies
 /c/Users/Heather Cloward/Documents/frontMatter/dspConduct/Use_Cases/Role_Dependencies.md:# Role Dependencies'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Role Dependencies

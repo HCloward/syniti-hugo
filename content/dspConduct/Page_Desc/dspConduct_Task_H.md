@@ -1,6 +1,6 @@
 +++
 title = 'dspConduct Task H'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # dspConduct Task H

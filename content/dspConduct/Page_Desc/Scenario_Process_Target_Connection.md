@@ -1,6 +1,6 @@
 +++
 title = 'Scenario Process Target Connection'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Scenario Process Target Connection

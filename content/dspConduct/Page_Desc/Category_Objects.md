@@ -1,6 +1,6 @@
 +++
 title = 'Category Objects'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Category Objects

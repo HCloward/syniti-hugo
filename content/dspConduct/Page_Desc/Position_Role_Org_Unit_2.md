@@ -1,6 +1,6 @@
 +++
 title = 'Position Role Org Unit 2'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Position Role Org Unit 2

@@ -1,6 +1,6 @@
 +++
 title = 'Manage Business Processes'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Manage Business Processes

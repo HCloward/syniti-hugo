@@ -1,6 +1,6 @@
 +++
 title = 'Copy Settings to Other Variants'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Copy Settings to Other Variants

@@ -1,6 +1,6 @@
 +++
 title = 'Set Up SLA Notifications'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Set Up SLA Notifications

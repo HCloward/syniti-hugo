@@ -1,6 +1,6 @@
 +++
 title = 'Org Units'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Org Units

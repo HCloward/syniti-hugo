@@ -1,6 +1,6 @@
 +++
 title = 'Active Requests for Business Process'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Active Requests for Business Process

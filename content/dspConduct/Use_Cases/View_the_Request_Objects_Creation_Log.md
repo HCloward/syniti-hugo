@@ -1,6 +1,6 @@
 +++
 title = 'View the Request Objects Creation Log'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # View the Request Objects Creation Log

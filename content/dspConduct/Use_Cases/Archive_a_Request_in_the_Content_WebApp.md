@@ -1,6 +1,6 @@
 +++
 title = 'Archive a Request in the Content WebApp'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Archive a Request in the Content WebApp

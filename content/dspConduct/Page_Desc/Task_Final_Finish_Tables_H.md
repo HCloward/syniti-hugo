@@ -1,6 +1,6 @@
 +++
 title = 'Task Final Finish Tables H'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Task Final Finish Tables H

@@ -1,6 +1,6 @@
 +++
 title = 'View Archived Requests'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # View Archived Requests

@@ -1,6 +1,6 @@
 +++
 title = 'Final Finish Process for a Request Overview'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Final Finish Process for a Request Overview

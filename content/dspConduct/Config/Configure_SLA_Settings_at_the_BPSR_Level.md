@@ -1,6 +1,6 @@
 +++
 title = 'Configure SLA settings at the Business Process Scenario Role Level'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Configure SLA settings at the Business Process Scenario Role Level

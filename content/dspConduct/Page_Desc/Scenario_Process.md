@@ -1,6 +1,6 @@
 +++
 title = 'Scenario Process H  '
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Scenario Process H  

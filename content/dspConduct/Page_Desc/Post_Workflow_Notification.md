@@ -1,6 +1,6 @@
 +++
 title = 'Post Workflow Notification'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Post Workflow Notification

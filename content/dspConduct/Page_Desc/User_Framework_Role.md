@@ -1,6 +1,6 @@
 +++
 title = 'User Framework Role'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # User Framework Role

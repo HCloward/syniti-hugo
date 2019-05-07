@@ -1,6 +1,6 @@
 +++
 title = 'IGC Task H'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # IGC Task H

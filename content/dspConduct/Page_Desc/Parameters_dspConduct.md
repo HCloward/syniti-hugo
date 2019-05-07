@@ -1,6 +1,6 @@
 +++
 title = 'Parameters dspConduct™'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Parameters dspConduct™

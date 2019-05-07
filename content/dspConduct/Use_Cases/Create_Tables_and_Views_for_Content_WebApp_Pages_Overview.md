@@ -1,6 +1,6 @@
 +++
 title = 'Create Tables and Views for Content WebApp Pages Overview'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Create Tables and Views for Content WebApp Pages Overview

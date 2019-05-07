@@ -1,6 +1,6 @@
 +++
 title = 'Task Import Staging'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Task Import Staging

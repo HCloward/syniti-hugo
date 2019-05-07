@@ -1,6 +1,6 @@
 +++
 title = 'Manage Tasks'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Manage Tasks

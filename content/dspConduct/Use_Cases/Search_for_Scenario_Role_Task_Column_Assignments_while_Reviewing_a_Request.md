@@ -1,6 +1,6 @@
 +++
 title = 'Search for Scenario Role Task Column Assignments while Reviewing a Request'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Search for Scenario Role Task Column Assignments while Reviewing a Request

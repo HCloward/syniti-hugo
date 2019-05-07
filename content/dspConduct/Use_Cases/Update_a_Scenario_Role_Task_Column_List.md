@@ -1,6 +1,6 @@
 +++
 title = 'Update a Scenario Role Task Column List'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Update a Scenario Role Task Column List

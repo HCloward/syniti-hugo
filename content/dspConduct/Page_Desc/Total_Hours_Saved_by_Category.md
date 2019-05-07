@@ -1,6 +1,6 @@
 +++
 title = 'Total Hours Saved (by Category)'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Total Hours Saved (by Category)

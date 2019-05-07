@@ -1,6 +1,6 @@
 +++
 title = 'Request Group Post'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Request Group Post

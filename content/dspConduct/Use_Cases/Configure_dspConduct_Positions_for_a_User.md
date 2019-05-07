@@ -1,6 +1,6 @@
 +++
 title = 'Configure dspConduct Positions for a User'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Configure dspConduct Positions for a User

@@ -1,6 +1,6 @@
 +++
 title = 'Configure Column Status for a Scenario Role Task'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Configure Column Status for a Scenario Role Task

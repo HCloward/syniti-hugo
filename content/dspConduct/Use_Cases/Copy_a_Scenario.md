@@ -1,6 +1,6 @@
 +++
 title = 'Copy a Scenario'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Copy a Scenario

@@ -1,6 +1,6 @@
 +++
 title = 'View a Request’s Roles'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # View a Request’s Roles

@@ -1,6 +1,6 @@
 +++
 title = 'Replace an Element Document'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Replace an Element Document

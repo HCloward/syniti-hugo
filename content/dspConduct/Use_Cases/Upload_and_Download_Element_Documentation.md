@@ -1,6 +1,6 @@
 +++
 title = 'Upload and Download Element Documentation'
-solution = 'Data Quality'
+solution = 'Master Data Management'
 +++
 
 # Upload and Download Element Documentation
