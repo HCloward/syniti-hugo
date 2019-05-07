@@ -1,3 +1,8 @@
++++
+title = 'Add Stored Credentials as a User on a Page in Integrate or dspCompose™'
+solution = 'Data Quality'
++++
+
 # Add Stored Credentials as a User on a Page in Integrate or dspCompose™
 
 Credentials allow users to add and maintain their user name and password

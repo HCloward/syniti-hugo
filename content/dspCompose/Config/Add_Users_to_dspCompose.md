@@ -1,3 +1,8 @@
++++
+title = 'Add Users to dspCompose™'
+solution = 'Data Quality'
++++
+
 # Add Users to dspCompose™
 
 Users must also be granted access to dspCompose™ from within the

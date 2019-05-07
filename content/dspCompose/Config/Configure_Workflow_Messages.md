@@ -1,3 +1,8 @@
++++
+title = 'Configure Workflow Messages'
+solution = 'Data Quality'
++++
+
 # Configure Workflow Messages
 
 Several workflow messages are delivered with dspCompose™ and can be

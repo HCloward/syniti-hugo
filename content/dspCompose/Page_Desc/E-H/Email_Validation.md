@@ -1,3 +1,8 @@
++++
+title = 'Email Validation'
+solution = 'Data Quality'
++++
+
 # Email Validation
 
 <div class="use">

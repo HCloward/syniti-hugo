@@ -1,3 +1,8 @@
++++
+title = 'Update Validation Messages'
+solution = 'Data Quality'
++++
+
 # Update Validation Messages
 
 On the **Template** tab of the *Parameters* page, change the messages

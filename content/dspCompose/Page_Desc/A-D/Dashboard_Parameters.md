@@ -1,3 +1,8 @@
++++
+title = 'Dashboard Parameters'
+solution = 'Data Quality'
++++
+
 # Dashboard Parameters
 
 <div class="use">

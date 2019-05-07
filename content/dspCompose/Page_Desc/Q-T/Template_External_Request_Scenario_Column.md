@@ -1,3 +1,8 @@
++++
+title = 'Template (External Request Scenario Column)'
+solution = 'Data Quality'
++++
+
 # Template (External Request Scenario Column)
 
 <div class="use">

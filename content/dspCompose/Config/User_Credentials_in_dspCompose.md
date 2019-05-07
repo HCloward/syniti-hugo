@@ -1,3 +1,8 @@
++++
+title = 'User Credentials in dspCompose™'
+solution = 'Data Quality'
++++
+
 # User Credentials in dspCompose™
 
 Integrate and dspCompose™ templates use connections to a data source to

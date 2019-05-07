@@ -1,3 +1,8 @@
++++
+title = 'Template (Role Event Rule)'
+solution = 'Data Quality'
++++
+
 # Template (Role Event Rule)
 
 <div class="use">

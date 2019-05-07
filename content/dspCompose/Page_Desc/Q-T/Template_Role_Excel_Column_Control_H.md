@@ -1,3 +1,8 @@
++++
+title = 'Template (Role Excel Column Control) H'
+solution = 'Data Quality'
++++
+
 # Template (Role Excel Column Control) H
 
 [Template (Role Excel Column Control) V](#Template_Role_Excel1)

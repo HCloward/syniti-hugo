@@ -1,3 +1,8 @@
++++
+title = 'Template (Columns)'
+solution = 'Data Quality'
++++
+
 # Template (Columns)
 
 <div class="use">

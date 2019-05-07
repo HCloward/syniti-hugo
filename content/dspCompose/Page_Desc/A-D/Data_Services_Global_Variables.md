@@ -1,3 +1,8 @@
++++
+title = 'Data Services Global Variables'
+solution = 'Data Quality'
++++
+
 # Data Services Global Variables
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Configure dspCompose™ Parameters'
+solution = 'Data Quality'
++++
+
 # Configure dspCompose™ Parameters
 
 dspCompose™ parameters are high-level fields used throughout the

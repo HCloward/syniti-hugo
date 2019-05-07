@@ -1,3 +1,8 @@
++++
+title = 'Display Posting Options on Requests'
+solution = 'Data Quality'
++++
+
 # Display Posting Options on Requests
 
 The **Posting and File** tab on the

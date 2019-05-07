@@ -1,3 +1,8 @@
++++
+title = 'Set Up Security for dspCompose™'
+solution = 'Data Quality'
++++
+
 # Set Up Security for dspCompose™
 
 To set up security for dspCompose:

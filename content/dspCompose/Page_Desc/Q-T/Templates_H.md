@@ -1,3 +1,8 @@
++++
+title = 'Templates H'
+solution = 'Data Quality'
++++
+
 # Templates H
 
 [Templates V](#Templates_V_All_Tabs)

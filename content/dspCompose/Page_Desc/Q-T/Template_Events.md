@@ -1,3 +1,8 @@
++++
+title = 'Template (Events)'
+solution = 'Data Quality'
++++
+
 # Template (Events)
 
 <div class="use">

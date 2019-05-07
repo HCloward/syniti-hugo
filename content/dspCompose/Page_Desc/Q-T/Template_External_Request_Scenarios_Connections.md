@@ -1,3 +1,8 @@
++++
+title = 'Template (External Request Scenarios Connections)'
+solution = 'Data Quality'
++++
+
 # Template (External Request Scenarios Connections)
 
 <div class="use">

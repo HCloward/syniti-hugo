@@ -1,3 +1,8 @@
++++
+title = 'Create Template'
+solution = 'Data Quality'
++++
+
 # Create Template
 
 <div class="use">

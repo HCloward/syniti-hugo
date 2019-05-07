@@ -1,3 +1,8 @@
++++
+title = 'Mass Change Exclude Columns'
+solution = 'Data Quality'
++++
+
 # Mass Change Exclude Columns
 
 <div class="use">

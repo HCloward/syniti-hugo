@@ -1,3 +1,8 @@
++++
+title = 'Request Details Monitor'
+solution = 'Data Quality'
++++
+
 # Request Details Monitor
 
 <div class="use">

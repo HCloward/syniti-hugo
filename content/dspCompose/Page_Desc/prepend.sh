@@ -11,7 +11,7 @@ md='.md'
 title=${file_name%$md}
 
 
-heading=$(grep -r "^# \b" ~/Documents/frontMatter/*/*/$title.md)
+heading=$(grep -r "^# \b" ~/Documents/frontMatter/*/*/*/$title.md)
 
 
 heading1=${heading#*\# }

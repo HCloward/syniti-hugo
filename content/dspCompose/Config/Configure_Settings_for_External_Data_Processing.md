@@ -1,3 +1,8 @@
++++
+title = 'Configure Settings for External Data Processing and External Request Scenarios'
+solution = 'Data Quality'
++++
+
 # Configure Settings for External Data Processing and External Request Scenarios
 
 Before implementing external data entry processing with External Data

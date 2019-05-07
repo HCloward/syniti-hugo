@@ -1,3 +1,8 @@
++++
+title = 'Template (Archive Settings)'
+solution = 'Data Quality'
++++
+
 # Template (Archive Settings)
 
 <div class="use">

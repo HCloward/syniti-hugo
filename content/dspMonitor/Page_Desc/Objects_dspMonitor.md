@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Objects H'
 solution = 'Data Quality'
 +++
 
-# <span id="Objects_H"></span>Objects H
+# Objects H
 
 [Objects V](#Objects)
 

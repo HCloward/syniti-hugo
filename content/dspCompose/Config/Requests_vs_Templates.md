@@ -1,3 +1,8 @@
++++
+title = 'Requests vs. Templates'
+solution = 'Data Quality'
++++
+
 # Requests vs. Templates
 
 A request is based on a single template and manages the data entry,

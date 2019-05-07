@@ -1,3 +1,8 @@
++++
+title = 'Template Role (Finish Columns) H'
+solution = 'Data Quality'
++++
+
 # Template Role (Finish Columns) H
 
 [Template Role (Finish-Columns) V](#Template_Role_Finish1)

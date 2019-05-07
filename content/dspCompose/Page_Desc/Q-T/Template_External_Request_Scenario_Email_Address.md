@@ -1,3 +1,8 @@
++++
+title = 'Template (External Request Scenario Email Address)'
+solution = 'Data Quality'
++++
+
 # Template (External Request Scenario Email Address)
 
 <div class="use">

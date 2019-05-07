@@ -1,3 +1,8 @@
++++
+title = 'Reject'
+solution = 'Data Quality'
++++
+
 # Reject
 
 <div class="use">

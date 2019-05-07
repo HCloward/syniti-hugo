@@ -1,3 +1,8 @@
++++
+title = 'Template (Post Message Tables)'
+solution = 'Data Quality'
++++
+
 # Template (Post Message Tables)
 
 <div class="use">

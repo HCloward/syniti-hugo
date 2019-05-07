@@ -1,3 +1,8 @@
++++
+title = 'Assign a Catalog to a Custom WebApp for Use with dspCompose™'
+solution = 'Data Quality'
++++
+
 # Assign a Catalog to a Custom WebApp for Use with dspCompose™
 
 When dspCompose™ is installed, the WebApp dspCompose\_Data and its

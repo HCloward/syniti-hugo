@@ -1,3 +1,8 @@
++++
+title = 'Update the EMAIL FROM Column'
+solution = 'Data Quality'
++++
+
 # Update the EMAIL FROM Column
 
 Prior to setting up external data role processing, update the address in

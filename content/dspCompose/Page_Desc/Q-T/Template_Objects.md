@@ -1,3 +1,8 @@
++++
+title = 'Template (Objects)'
+solution = 'Data Quality'
++++
+
 # Template (Objects)
 
 <div class="use">

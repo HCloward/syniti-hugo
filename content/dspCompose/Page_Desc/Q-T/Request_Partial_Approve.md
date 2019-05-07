@@ -1,3 +1,8 @@
++++
+title = 'Request (Partial Approve)'
+solution = 'Data Quality'
++++
+
 # Request (Partial Approve)
 
 <div class="use">

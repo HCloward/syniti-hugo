@@ -1,3 +1,8 @@
++++
+title = 'Configure Columns to Exclude from Mass Change'
+solution = 'Data Quality'
++++
+
 # Configure Columns to Exclude from Mass Change
 
 Columns listed on the *Mass Change Exclude Columns* page will not be

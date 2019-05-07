@@ -1,3 +1,8 @@
++++
+title = 'External Data Email Accounts'
+solution = 'Data Quality'
++++
+
 # External Data Email Accounts
 
 <div class="use">

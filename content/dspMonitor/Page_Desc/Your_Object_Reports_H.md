@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Your Object Reports H'
 solution = 'Data Quality'
 +++
 
-# <span id="YourObjectRptH"></span>Your Object Reports H
+# Your Object Reports H
 
 **NOTE:** When a user accesses this page in the *Navigation* pane, the
 fields below display. When a user clicks the View icon on this page to

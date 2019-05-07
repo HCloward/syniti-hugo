@@ -1,3 +1,8 @@
++++
+title = 'Set Up an External Data Email Account'
+solution = 'Data Quality'
++++
+
 # Set Up an External Data Email Account
 
 The External Data Email Account is used for both [External Request

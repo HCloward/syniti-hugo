@@ -1,3 +1,8 @@
++++
+title = 'Archive Delete'
+solution = 'Data Quality'
++++
+
 # Archive Delete
 
 <div class="use">

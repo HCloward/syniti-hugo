@@ -1,3 +1,8 @@
++++
+title = 'Configure Global Roles'
+solution = 'Data Quality'
++++
+
 # Configure Global Roles
 
 dspCompose™ is delivered with three global roles, Data, Review and Post,

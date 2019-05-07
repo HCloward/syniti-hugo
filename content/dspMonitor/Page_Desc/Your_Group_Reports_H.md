@@ -1,9 +1,9 @@
 +++
-title = ''
+title = 'Your Group Reports H'
 solution = 'Data Quality'
 +++
 
-# <span id="Your_Group_Reports_H"></span>Your Group Reports H
+# Your Group Reports H
 
 **NOTE:** When a user accesses this page in the *Navigation* pane, the
 fields below display. When a user clicks the View icon on this page to

@@ -1,3 +1,8 @@
++++
+title = 'Configure Request Statuses'
+solution = 'Data Quality'
++++
+
 # Configure Request Statuses
 
 The number of days a request is active is controlled by the
