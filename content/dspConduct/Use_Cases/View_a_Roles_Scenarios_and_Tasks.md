@@ -1,5 +1,5 @@
 +++
-title = 'View a Role's Scenarios and Tasks'
+title = "View a Role's Scenarios and Tasks"
 solution = 'Master Data Management'
 +++
 
