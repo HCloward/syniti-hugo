@@ -1,3 +1,8 @@
++++
+title = 'Validate a Role'
+solution = 'Data Quality'
++++
+
 # Validate a Role
 
 **NOTE:** The **Validate** button, which is used to validate a role

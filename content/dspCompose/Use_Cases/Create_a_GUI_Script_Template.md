@@ -1,3 +1,8 @@
++++
+title = 'Create a GUI Script Template'
+solution = 'Data Quality'
++++
+
 # Create a GUI Script Template
 
 A user can record a GUI script in dspCompose™ to create a template. When

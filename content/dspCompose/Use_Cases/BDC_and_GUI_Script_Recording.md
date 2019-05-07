@@ -1,3 +1,8 @@
++++
+title = 'BDC and GUI Script Recording'
+solution = 'Data Quality'
++++
+
 # BDC and GUI Script Recording
 
 To troubleshoot issues recording BDC and GUI scripts, refer to [BDC

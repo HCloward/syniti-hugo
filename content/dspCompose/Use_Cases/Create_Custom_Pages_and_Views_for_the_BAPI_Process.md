@@ -1,3 +1,8 @@
++++
+title = 'Create Custom Pages and Views for the BAPI Process'
+solution = 'Data Quality'
++++
+
 # Create Custom Pages and Views for the BAPI Process
 
 Before performing these steps:

@@ -1,3 +1,8 @@
++++
+title = 'Link a Template to a Page'
+solution = 'Data Quality'
++++
+
 # Link a Template to a Page
 
 A custom template can be linked to a page in another component, so that

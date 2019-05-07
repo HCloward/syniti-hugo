@@ -1,3 +1,8 @@
++++
+title = 'Use the Comparison Approval Page'
+solution = 'Data Quality'
++++
+
 # Use the Comparison Approval Page
 
 Before performing this task:

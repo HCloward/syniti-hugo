@@ -1,3 +1,8 @@
++++
+title = 'Monitor Requests'
+solution = 'Data Quality'
++++
+
 # Monitor Requests
 
 Two reports are provided to facilitate the monitoring of requests:

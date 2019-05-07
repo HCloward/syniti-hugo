@@ -1,3 +1,8 @@
++++
+title = 'Change Request Status'
+solution = 'Data Quality'
++++
+
 # Change Request Status
 
 Active, inactive and archived requests have different

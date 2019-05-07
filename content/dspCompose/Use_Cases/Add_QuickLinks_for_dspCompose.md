@@ -1,3 +1,8 @@
++++
+title = 'Add Quick Links for dspCompose™'
+solution = 'Data Quality'
++++
+
 # Add Quick Links for dspCompose™
 
 Quick Links are bookmarks for specific pages in the DSP® to allow users

@@ -1,3 +1,8 @@
++++
+title = 'Active Requests for User Chart'
+solution = 'Data Quality'
++++
+
 # Active Requests for User Chart
 
 This chart displays the number of active requests in each

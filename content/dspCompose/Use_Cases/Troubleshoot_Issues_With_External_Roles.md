@@ -1,3 +1,8 @@
++++
+title = 'Troubleshoot Issues with External Roles'
+solution = 'Data Quality'
++++
+
 # Troubleshoot Issues with External Roles
 
 dspCompose™ generates a spreadsheet with request data and sends it to a

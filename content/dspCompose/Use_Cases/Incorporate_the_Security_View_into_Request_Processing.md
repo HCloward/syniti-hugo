@@ -1,3 +1,8 @@
++++
+title = 'Incorporate the Security View into Request Processing'
+solution = 'Data Quality'
++++
+
 # Incorporate the Security View into Request Processing
 
 This section provides an example of implementation of Org Units.

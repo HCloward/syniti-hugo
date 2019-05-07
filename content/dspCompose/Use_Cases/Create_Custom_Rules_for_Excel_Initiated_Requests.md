@@ -1,3 +1,8 @@
++++
+title = 'Create Custom Rules for Excel-initiated Requests'
+solution = 'Data Quality'
++++
+
 # Create Custom Rules for Excel-initiated Requests
 
 dspCompose™ allows a Template Administrator to register custom rules

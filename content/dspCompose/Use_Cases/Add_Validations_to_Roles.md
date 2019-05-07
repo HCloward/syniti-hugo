@@ -1,3 +1,8 @@
++++
+title = 'Add Validations to Roles'
+solution = 'Data Quality'
++++
+
 # Add Validations to Roles
 
 Role validations allow for template-specific data standards to be

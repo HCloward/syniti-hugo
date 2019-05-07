@@ -1,3 +1,8 @@
++++
+title = 'Finish the External Data Role'
+solution = 'Data Quality'
++++
+
 # Finish the External Data Role
 
 Once the External Data role has emailed the spreadsheet to dspCompose™

@@ -1,3 +1,8 @@
++++
+title = 'Active Requests Time Taken (Days) Chart'
+solution = 'Data Quality'
++++
+
 # Active Requests Time Taken (Days) Chart
 
 This chart displays:

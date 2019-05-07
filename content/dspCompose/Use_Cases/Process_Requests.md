@@ -1,3 +1,8 @@
++++
+title = 'Process Requests'
+solution = 'Data Quality'
++++
+
 # Process Requests
 
 A *request* is a mass change data process object that is created,

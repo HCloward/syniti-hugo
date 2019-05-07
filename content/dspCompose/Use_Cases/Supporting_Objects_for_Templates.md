@@ -1,3 +1,8 @@
++++
+title = 'Supporting Objects for Templates'
+solution = 'Data Quality'
++++
+
 # Supporting Objects for Templates
 
 Supporting objects for templates reside in other data sources than

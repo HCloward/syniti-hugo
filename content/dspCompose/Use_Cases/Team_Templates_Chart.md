@@ -1,3 +1,8 @@
++++
+title = 'Team Templates Chart'
+solution = 'Data Quality'
++++
+
 # Team Templates Chart
 
 This chart displays the number of templates created for each team.

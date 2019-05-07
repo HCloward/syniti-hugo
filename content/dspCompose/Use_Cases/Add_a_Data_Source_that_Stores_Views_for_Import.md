@@ -1,3 +1,8 @@
++++
+title = 'Add a Data Source that Stores Views for Import'
+solution = 'Data Quality'
++++
+
 # Add a Data Source that Stores Views for Import
 
 A request can be created based on a view stored in a data source. Refer

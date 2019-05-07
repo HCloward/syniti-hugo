@@ -1,3 +1,8 @@
++++
+title = 'Add External Data Role to Global Roles'
+solution = 'Data Quality'
++++
+
 # Add External Data Role to Global Roles
 
 The External Data role type is available with dspCompose™, but an

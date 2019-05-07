@@ -1,3 +1,8 @@
++++
+title = 'Set up and Post a BAPI using Integrate and dspCompose™'
+solution = 'Data Quality'
++++
+
 # Set up and Post a BAPI using Integrate and dspCompose™
 
 Using Integrate and dspCompose™, an advanced user can set up a BAPI

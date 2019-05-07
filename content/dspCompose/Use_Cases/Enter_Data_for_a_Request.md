@@ -1,3 +1,8 @@
++++
+title = 'Enter Data for a Request'
+solution = 'Data Quality'
++++
+
 # Enter Data for a Request
 
 **NOTE**: Templates in dspCompose™ are highly customizable and can be

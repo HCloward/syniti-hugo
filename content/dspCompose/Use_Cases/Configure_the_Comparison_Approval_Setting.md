@@ -1,3 +1,8 @@
++++
+title = 'Configure the Comparison Approval Setting'
+solution = 'Data Quality'
++++
+
 # Configure the Comparison Approval Setting
 
 Refer to [Use Comparison Approvals](Use_Comparison_Approvals.htm) for

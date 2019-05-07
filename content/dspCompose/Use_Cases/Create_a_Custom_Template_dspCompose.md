@@ -1,3 +1,8 @@
++++
+title = 'Create a Custom Template'
+solution = 'Data Quality'
++++
+
 # Create a Custom Template
 
 dspCompose™ allows the user to build a custom template, in which

@@ -1,3 +1,8 @@
++++
+title = 'Correct and Post Failed Records'
+solution = 'Data Quality'
++++
+
 # Correct and Post Failed Records
 
 dspCompose™ processes partial posts if one or more records error while

@@ -1,3 +1,8 @@
++++
+title = 'Edit an Active Template with an External Request Scenario that uses an Excel-initiated Request'
+solution = 'Data Quality'
++++
+
 # Edit an Active Template with an External Request Scenario that uses an Excel-initiated Request
 
 When a template with an external request scenario that uses an

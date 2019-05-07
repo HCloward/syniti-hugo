@@ -1,3 +1,8 @@
++++
+title = 'Complete the Spreadsheet as an External Data Role'
+solution = 'Data Quality'
++++
+
 # Complete the Spreadsheet as an External Data Role
 
 Once the request is active, dspCompose™ sends an email from the External

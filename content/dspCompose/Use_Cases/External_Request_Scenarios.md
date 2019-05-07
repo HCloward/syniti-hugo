@@ -1,3 +1,8 @@
++++
+title = 'External Request Scenarios'
+solution = 'Data Quality'
++++
+
 # External Request Scenarios
 
 A Template Administrator configures one or multiple external request

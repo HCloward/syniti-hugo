@@ -1,3 +1,8 @@
++++
+title = 'Use External Data Roles in Request Processing'
+solution = 'Data Quality'
++++
+
 # Use External Data Roles in Request Processing
 
 In addition to the Data, Review, and Post roles, dspCompose™ has a role

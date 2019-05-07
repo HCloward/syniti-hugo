@@ -1,3 +1,8 @@
++++
+title = 'Use Comparison Appovals'
+solution = 'Data Quality'
++++
+
 # Use Comparison Appovals
 
 The *Comparison Approval* functionality allows the Review role user to

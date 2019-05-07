@@ -1,3 +1,8 @@
++++
+title = 'Register Tables for Download through Data Services'
+solution = 'Data Quality'
++++
+
 # Register Tables for Download through Data Services
 
 **NOTE**: The Data Services job must have been written and stored in the

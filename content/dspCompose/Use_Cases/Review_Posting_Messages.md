@@ -1,3 +1,8 @@
++++
+title = 'Review Posting Messages'
+solution = 'Data Quality'
++++
+
 # Review Posting Messages
 
 Once the posting process is complete, dspCompose™ displays posting

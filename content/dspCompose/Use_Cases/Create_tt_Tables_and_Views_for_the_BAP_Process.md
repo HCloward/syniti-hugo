@@ -1,3 +1,8 @@
++++
+title = 'Create all tt Tables and Views for the BAPI Process'
+solution = 'Data Quality'
++++
+
 # Create all tt Tables and Views for the BAPI Process
 
 Before performing these steps, [Post Data Using A

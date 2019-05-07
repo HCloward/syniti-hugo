@@ -1,3 +1,8 @@
++++
+title = 'View Your Active Requests Details'
+solution = 'Data Quality'
++++
+
 # View Your Active Requests Details
 
 A user can access the black dspCompose Requests tab on the Quick Panel

@@ -1,3 +1,8 @@
++++
+title = 'Import a Column Added to the Role’s Assigned Page'
+solution = 'Data Quality'
++++
+
 # Import a Column Added to the Role’s Assigned Page
 
 If a column is added to the platform page assigned to a template role,

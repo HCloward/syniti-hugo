@@ -1,3 +1,8 @@
++++
+title = 'Shippable Items in Detail'
+solution = 'Data Quality'
++++
+
 # Shippable Items in Detail
 
 The dspCompose™ Shippable Items are:

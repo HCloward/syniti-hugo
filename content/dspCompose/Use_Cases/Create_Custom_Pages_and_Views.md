@@ -1,3 +1,8 @@
++++
+title = 'Create Custom Pages and Views'
+solution = 'Data Quality'
++++
+
 # Create Custom Pages and Views
 
 Before performing this task:

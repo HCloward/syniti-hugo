@@ -1,3 +1,8 @@
++++
+title = 'Set Validation Threshold'
+solution = 'Data Quality'
++++
+
 # Set Validation Threshold
 
 At the template role level, a Template Administrator can set a

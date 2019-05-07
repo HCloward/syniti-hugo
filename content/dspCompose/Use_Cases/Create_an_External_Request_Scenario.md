@@ -1,3 +1,8 @@
++++
+title = 'Create an External Request Scenario'
+solution = 'Data Quality'
++++
+
 # Create an External Request Scenario
 
 <span style="font-weight: bold;">NOTE:</span> If the template associated

@@ -1,3 +1,8 @@
++++
+title = 'Request Org Unit Assignments'
+solution = 'Data Quality'
++++
+
 # Request Org Unit Assignments
 
 If the request is based on a template that has Org Units assigned, the

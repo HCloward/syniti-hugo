@@ -1,3 +1,8 @@
++++
+title = 'Archived Requests Chart'
+solution = 'Data Quality'
++++
+
 # Archived Requests Chart
 
 This chart displays the number of archived requests by

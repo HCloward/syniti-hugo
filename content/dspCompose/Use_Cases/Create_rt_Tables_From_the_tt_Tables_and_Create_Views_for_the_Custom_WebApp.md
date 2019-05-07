@@ -1,3 +1,8 @@
++++
+title = 'Create rt Tables From the tt Tables and Create Views for the Custom WebApp'
+solution = 'Data Quality'
++++
+
 # Create rt Tables From the tt Tables and Create Views for the Custom WebApp
 
 Once each **tt** table is created, use it as a script to create an

@@ -1,3 +1,8 @@
++++
+title = 'View Dashboards in dspCompose™'
+solution = 'Data Quality'
++++
+
 # View Dashboards in dspCompose™
 
 The charts on dashboards in dspCompose™ display summary information

@@ -1,3 +1,8 @@
++++
+title = 'Active Requests Chart'
+solution = 'Data Quality'
++++
+
 # Active Requests Chart
 
 This chart displays the number of active requests in each

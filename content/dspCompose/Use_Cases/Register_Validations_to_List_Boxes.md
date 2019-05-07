@@ -1,3 +1,8 @@
++++
+title = 'Register Validations to List Boxes'
+solution = 'Data Quality'
++++
+
 # Register Validations to List Boxes
 
 A Template Administrator can configure validations to run on a column

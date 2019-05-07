@@ -1,3 +1,8 @@
++++
+title = 'Create a Request for Comparison Approval'
+solution = 'Data Quality'
++++
+
 # Create a Request for Comparison Approval
 
 Before performing this task:

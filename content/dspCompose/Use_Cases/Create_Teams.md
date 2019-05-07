@@ -1,3 +1,8 @@
++++
+title = 'Create Teams'
+solution = 'Data Quality'
++++
+
 # Create Teams
 
 To make templates easier to manage, dspCompose™ organizes templates by

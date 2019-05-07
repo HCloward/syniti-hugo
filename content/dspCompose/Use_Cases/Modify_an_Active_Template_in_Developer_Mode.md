@@ -1,3 +1,8 @@
++++
+title = 'Modify an Active Template in Developer Mode'
+solution = 'Data Quality'
++++
+
 # Modify an Active Template in Developer Mode
 
 **NOTE**: Developer Mode should only be used by developers while

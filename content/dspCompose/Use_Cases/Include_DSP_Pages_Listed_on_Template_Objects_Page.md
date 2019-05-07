@@ -1,3 +1,8 @@
++++
+title = 'Include DSP® Pages Listed on *Template (Objects)* Page'
+solution = 'Data Quality'
++++
+
 # Include DSP® Pages Listed on *Template (Objects)* Page
 
 When CTSing a template, include all the DSP® pages listed on the

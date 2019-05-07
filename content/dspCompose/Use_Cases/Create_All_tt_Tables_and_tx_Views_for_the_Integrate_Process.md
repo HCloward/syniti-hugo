@@ -1,3 +1,8 @@
++++
+title = 'Create all tt Tables and tx Views for the Integrate Process'
+solution = 'Data Quality'
++++
+
 # Create all tt Tables and tx Views for the Integrate Process
 
 Before performing this task, create a looped template and process in

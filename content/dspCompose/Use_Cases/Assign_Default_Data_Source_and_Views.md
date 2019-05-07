@@ -1,3 +1,8 @@
++++
+title = 'Assign Default Data Source and Views'
+solution = 'Data Quality'
++++
+
 # Assign Default Data Source and Views
 
 The Template Administrator can set a default data source and view at the

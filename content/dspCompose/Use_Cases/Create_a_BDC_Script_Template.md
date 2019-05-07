@@ -1,3 +1,8 @@
++++
+title = 'Create a BDC Script'
+solution = 'Data Quality'
++++
+
 # Create a BDC Script
 
 A user can record a BDC script in dspCompose™ to create a template. When

@@ -1,3 +1,8 @@
++++
+title = 'Setup and Configuration for dspCompose™'
+solution = 'Data Quality'
++++
+
 # Setup and Configuration for dspCompose™
 
 There are several elements of dspCompose™ that can be configured before

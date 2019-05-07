@@ -1,3 +1,8 @@
++++
+title = 'Create Template (Recording)'
+solution = 'Data Quality'
++++
+
 # Create Template (Recording)
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Create an External Request Scenario for an Excel-initiated Request'
+solution = 'Data Quality'
++++
+
 # Create an External Request Scenario for an Excel-initiated Request
 
 An external request scenario allows dspCompose™ to create a request when

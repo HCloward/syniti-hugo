@@ -1,3 +1,8 @@
++++
+title = 'Top 15 Request Record Counts'
+solution = 'Data Quality'
++++
+
 # Top 15 Request Record Counts
 
 This chart displays the top 15 requests based on the number of records

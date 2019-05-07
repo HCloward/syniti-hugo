@@ -1,3 +1,8 @@
++++
+title = 'Reject an External Data Role'
+solution = 'Data Quality'
++++
+
 # Reject an External Data Role
 
 If the Review role rejects the request, the Reviewer enters a reason for

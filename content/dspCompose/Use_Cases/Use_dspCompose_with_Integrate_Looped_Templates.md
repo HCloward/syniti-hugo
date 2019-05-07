@@ -1,3 +1,8 @@
++++
+title = 'Use dspCompose™ with Integrate Looped Templates'
+solution = 'Data Quality'
++++
+
 # Use dspCompose™ with Integrate Looped Templates
 
 dspCompose™ is designed to automate the creation and posting of mass

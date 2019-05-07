@@ -1,3 +1,8 @@
++++
+title = 'Register Tables for Download as a Finish Process using Collect'
+solution = 'Data Quality'
++++
+
 # Register Tables for Download as a Finish Process using Collect
 
 At the template-role level for a Post role, a Template Administrator can

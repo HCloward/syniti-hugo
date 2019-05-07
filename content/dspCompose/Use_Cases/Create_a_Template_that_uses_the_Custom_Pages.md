@@ -1,3 +1,8 @@
++++
+title = 'Create a Template that Uses the Custom Pages in dspCompose™'
+solution = 'Data Quality'
++++
+
 # Create a Template that Uses the Custom Pages in dspCompose™
 
 Before performing this task:

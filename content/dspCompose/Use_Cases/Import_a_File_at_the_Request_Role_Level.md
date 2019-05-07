@@ -1,3 +1,8 @@
++++
+title = 'Import a File at the Request Role Level'
+solution = 'Data Quality'
++++
+
 # Import a File at the Request Role Level
 
 A user generates a file in the form of an Excel spreadsheet from within

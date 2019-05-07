@@ -1,3 +1,8 @@
++++
+title = 'Troubleshooting'
+solution = 'Data Quality'
++++
+
 # Troubleshooting
 
   - [BDC and GUI Script Recording](BDC_and_GUI_Script_Recording.htm)

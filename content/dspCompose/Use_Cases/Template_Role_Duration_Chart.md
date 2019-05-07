@@ -1,3 +1,8 @@
++++
+title = 'Template Role Duration Chart'
+solution = 'Data Quality'
++++
+
 # Template Role Duration Chart
 
 This chart displays the longest number of days a request was active for

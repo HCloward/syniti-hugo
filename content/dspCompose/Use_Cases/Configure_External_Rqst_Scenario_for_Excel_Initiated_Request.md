@@ -1,3 +1,8 @@
++++
+title = 'Configure an External Request Scenario for an Excel-initiated Request'
+solution = 'Data Quality'
++++
+
 # Configure an External Request Scenario for an Excel-initiated Request
 
 An external request scenario that creates an Excel-initiated request

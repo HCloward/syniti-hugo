@@ -1,3 +1,8 @@
++++
+title = 'Team Request Counts Chart'
+solution = 'Data Quality'
++++
+
 # Team Request Counts Chart
 
 This chart displays a count of active request records broken out by

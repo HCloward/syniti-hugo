@@ -1,3 +1,8 @@
++++
+title = 'Create rt Tables from the tt Tables'
+solution = 'Data Quality'
++++
+
 # Create rt Tables from the tt Tables
 
 Before performing this task:

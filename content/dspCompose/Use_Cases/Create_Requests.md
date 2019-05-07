@@ -1,3 +1,8 @@
++++
+title = 'Create Requests'
+solution = 'Data Quality'
++++
+
 # Create Requests
 
 To create a request a user must:

@@ -1,3 +1,8 @@
++++
+title = 'Data Objects'
+solution = 'Data Quality'
++++
+
 # Data Objects
 
 After a Template Administrator generates a template (by clicking

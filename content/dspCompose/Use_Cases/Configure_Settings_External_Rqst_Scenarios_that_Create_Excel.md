@@ -1,3 +1,8 @@
++++
+title = 'Configure Settings for External Request Scenarios that Create Excel-initiated Requests'
+solution = 'Data Quality'
++++
+
 # Configure Settings for External Request Scenarios that Create Excel-initiated Requests
 
 External Request Scenarios that Create Excel-initiated requests require

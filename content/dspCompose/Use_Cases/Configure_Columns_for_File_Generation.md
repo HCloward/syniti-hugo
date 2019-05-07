@@ -1,3 +1,8 @@
++++
+title = 'Configure Columns for File Generation and Data Entry'
+solution = 'Data Quality'
++++
+
 # Configure Columns for File Generation and Data Entry
 
 At the request role level, if Excel import is allowed for the template

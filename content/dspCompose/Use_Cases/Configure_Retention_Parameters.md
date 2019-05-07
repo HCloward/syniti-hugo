@@ -1,3 +1,8 @@
++++
+title = 'Configure Retention Parameters'
+solution = 'Data Quality'
++++
+
 # Configure Retention Parameters
 
 Retention Parameters control how many days a request is retained before

@@ -1,3 +1,8 @@
++++
+title = 'Add a Mass Change Custom Link to a Custom Page'
+solution = 'Data Quality'
++++
+
 # Add a Mass Change Custom Link to a Custom Page
 
 If Mass Changes should be allowed to the request data, the MassChange

@@ -1,3 +1,8 @@
++++
+title = 'Add Users to Templates'
+solution = 'Data Quality'
++++
+
 # Add Users to Templates
 
 Add dspCompose™ users to templates so that the user can process request

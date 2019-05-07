@@ -1,3 +1,8 @@
++++
+title = 'Assign a Custom Page to a Template Role'
+solution = 'Data Quality'
++++
+
 # Assign a Custom Page to a Template Role
 
 To optimize flexibility in request processing, dspCompose™ allows a

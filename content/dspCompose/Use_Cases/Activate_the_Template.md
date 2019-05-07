@@ -1,3 +1,8 @@
++++
+title = 'Activate the Template'
+solution = 'Data Quality'
++++
+
 # Activate the Template
 
 After creating a template, a Template Administrator must activate the

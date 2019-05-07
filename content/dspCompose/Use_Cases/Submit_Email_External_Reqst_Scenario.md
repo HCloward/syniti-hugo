@@ -1,3 +1,8 @@
++++
+title = 'Submit an Email for an External Request Scenario that Creates an Excel-initiated Request'
+solution = 'Data Quality'
++++
+
 # Submit an Email for an External Request Scenario that Creates an Excel-initiated Request
 
 Once an external request scenario that creates an Excel-initiated

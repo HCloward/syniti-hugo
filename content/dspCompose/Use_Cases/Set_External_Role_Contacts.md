@@ -1,3 +1,8 @@
++++
+title = 'Set External Role Contacts'
+solution = 'Data Quality'
++++
+
 # Set External Role Contacts
 
 If the template that uses an external request scenario also uses an

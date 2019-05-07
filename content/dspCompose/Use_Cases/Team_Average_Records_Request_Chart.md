@@ -1,3 +1,8 @@
++++
+title = 'Team Average Records/Request Chart'
+solution = 'Data Quality'
++++
+
 # Team Average Records/Request Chart
 
 This chart displays the average number of records in a request per team.

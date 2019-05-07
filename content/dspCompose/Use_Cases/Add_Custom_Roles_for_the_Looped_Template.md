@@ -1,3 +1,8 @@
++++
+title = 'Add Custom Roles for the Looped Template'
+solution = 'Data Quality'
++++
+
 # Add Custom Roles for the Looped Template
 
 Before performing this task:

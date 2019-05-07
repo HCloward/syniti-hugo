@@ -1,3 +1,8 @@
++++
+title = 'Set up Org Units'
+solution = 'Data Quality'
++++
+
 # Set up Org Units
 
 An Org Unit is tied to a data source, which may be either a list, or a

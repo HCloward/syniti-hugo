@@ -1,3 +1,8 @@
++++
+title = 'Automatically Set Settings when Creating an External Request Scenario that Creates an Excel-initiated Request'
+solution = 'Data Quality'
++++
+
 # Automatically Set Settings when Creating an External Request Scenario that Creates an Excel-initiated Request
 
 Certain settings, such as the Staging Table Name and the Sheet Name, can

@@ -1,3 +1,8 @@
++++
+title = 'Configure Settings for External Data Roles'
+solution = 'Data Quality'
++++
+
 # Configure Settings for External Data Roles
 
 Settings must be configured to allow external data processing. Refer to

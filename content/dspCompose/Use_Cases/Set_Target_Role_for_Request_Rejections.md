@@ -1,3 +1,8 @@
++++
+title = 'Set Target Role for Request Rejections'
+solution = 'Data Quality'
++++
+
 # Set Target Role for Request Rejections
 
 A *target role* is the role that will receive rejected request data. It

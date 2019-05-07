@@ -1,3 +1,8 @@
++++
+title = 'Create all tt Tables and Views to Support the Pages in the Custom WebApp'
+solution = 'Data Quality'
++++
+
 # Create all tt Tables and Views to Support the Pages in the Custom WebApp
 
 Manually build tables and views in any database that has a supporting

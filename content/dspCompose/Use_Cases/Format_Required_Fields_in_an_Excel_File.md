@@ -1,3 +1,8 @@
++++
+title = 'Format Required Fields in an Excel File'
+solution = 'Data Quality'
++++
+
 # Format Required Fields in an Excel File
 
 A user can generate an Excel file at the request role level for data

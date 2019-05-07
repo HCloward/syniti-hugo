@@ -1,3 +1,8 @@
++++
+title = 'Set Tables to Store Posting Feedback'
+solution = 'Data Quality'
++++
+
 # Set Tables to Store Posting Feedback
 
 After a request has been posted, dspCompose™ creates a post message and

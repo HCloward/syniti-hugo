@@ -1,3 +1,8 @@
++++
+title = 'Troubleshoot Data Download Using a Data Services Job'
+solution = 'Data Quality'
++++
+
 # Troubleshoot Data Download Using a Data Services Job
 
 A Role Processor can troubleshoot issues related to the data download

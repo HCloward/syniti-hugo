@@ -1,3 +1,8 @@
++++
+title = 'Create a Template For Advanced Users'
+solution = 'Data Quality'
++++
+
 # Create a Template For Advanced Users
 
 Creating a template from the *[Templates](../Page_Desc/Templates_H.htm)*

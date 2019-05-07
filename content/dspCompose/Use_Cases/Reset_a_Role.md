@@ -1,3 +1,8 @@
++++
+title = 'Reset a Role'
+solution = 'Data Quality'
++++
+
 # Reset a Role
 
 Reset a role if a mistake is made or if information is incomplete after

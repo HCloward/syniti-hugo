@@ -1,3 +1,8 @@
++++
+title = 'Set Force Reject Severity'
+solution = 'Data Quality'
++++
+
 # Set Force Reject Severity
 
 When a user clicks **Validate** on the *Request (Roles)* page for a Data

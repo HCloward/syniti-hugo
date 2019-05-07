@@ -1,3 +1,8 @@
++++
+title = 'Set the Current User as the External Role Contact'
+solution = 'Data Quality'
++++
+
 # Set the Current User as the External Role Contact
 
 When creating an external request scenario, a user configures a template

@@ -1,3 +1,8 @@
++++
+title = 'Add List Boxes to an Excel File'
+solution = 'Data Quality'
++++
+
 # Add List Boxes to an Excel File
 
 The Template Administrator can format the columns on the template’s

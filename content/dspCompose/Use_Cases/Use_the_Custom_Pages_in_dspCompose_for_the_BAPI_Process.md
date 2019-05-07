@@ -1,3 +1,8 @@
++++
+title = 'Use the Custom Pages in dspCompose™ for the BAPI Process'
+solution = 'Data Quality'
++++
+
 # Use the Custom Pages in dspCompose™ for the BAPI Process
 
 Before performing these steps:

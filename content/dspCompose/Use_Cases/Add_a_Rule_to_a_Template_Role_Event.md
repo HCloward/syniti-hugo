@@ -1,3 +1,8 @@
++++
+title = 'Add a Rule to a Template Role Event'
+solution = 'Data Quality'
++++
+
 # Add a Rule to a Template Role Event
 
 A Template Administrator can configure rules that run when events occur

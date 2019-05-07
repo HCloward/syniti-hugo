@@ -1,3 +1,8 @@
++++
+title = 'Create rt Tables From the tt Tables and Create Views for the BAPI Process'
+solution = 'Data Quality'
++++
+
 # Create rt Tables From the tt Tables and Create Views for the BAPI Process
 
 Before performing these steps:

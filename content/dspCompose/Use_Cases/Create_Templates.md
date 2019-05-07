@@ -1,3 +1,8 @@
++++
+title = 'Create Templates'
+solution = 'Data Quality'
++++
+
 # Create Templates
 
 A template represents a process that will be governed and executed using

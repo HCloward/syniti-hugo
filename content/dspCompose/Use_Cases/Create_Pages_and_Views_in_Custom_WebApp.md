@@ -1,3 +1,8 @@
++++
+title = 'Create Pages and Views in Custom WebApp'
+solution = 'Data Quality'
++++
+
 # Create Pages and Views in Custom WebApp
 
 Once all the necessary tables and **tx** views are prepared, create the

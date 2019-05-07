@@ -1,3 +1,8 @@
++++
+title = 'Use External Request Scenarios'
+solution = 'Data Quality'
++++
+
 # Use External Request Scenarios
 
 An external request scenario tells dspCompose™ to create a request when

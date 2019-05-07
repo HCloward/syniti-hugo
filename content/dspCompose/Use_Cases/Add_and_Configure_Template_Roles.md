@@ -1,3 +1,8 @@
++++
+title = 'Add and Configure Template Roles'
+solution = 'Data Quality'
++++
+
 # Add and Configure Template Roles
 
 A role is a single step in the mass change process. A role type is

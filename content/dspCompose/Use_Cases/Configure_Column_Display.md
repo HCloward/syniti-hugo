@@ -1,3 +1,8 @@
++++
+title = 'Configure Column Display'
+solution = 'Data Quality'
++++
+
 # Configure Column Display
 
 At the template role level, a Template Administrator can control which

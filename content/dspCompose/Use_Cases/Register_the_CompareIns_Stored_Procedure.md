@@ -1,3 +1,8 @@
++++
+title = 'Register the CompareIns Stored Procedure'
+solution = 'Data Quality'
++++
+
 # Register the CompareIns Stored Procedure
 
 Before performing this task, [Configure the Comparison Approval

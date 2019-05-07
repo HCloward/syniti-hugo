@@ -1,3 +1,8 @@
++++
+title = 'Submit an Email for an External Request Scenario'
+solution = 'Data Quality'
++++
+
 # Submit an Email for an External Request Scenario
 
 Once a scenario has been configured, a user sends an email to add a

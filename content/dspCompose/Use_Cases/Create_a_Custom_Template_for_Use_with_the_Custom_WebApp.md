@@ -1,3 +1,8 @@
++++
+title = 'Create a Custom Template for Use with the Custom WebApp'
+solution = 'Data Quality'
++++
+
 # Create a Custom Template for Use with the Custom WebApp
 
 <span>Once tables, pages and views have been created in the Custom

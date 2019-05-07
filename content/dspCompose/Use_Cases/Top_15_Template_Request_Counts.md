@@ -1,3 +1,8 @@
++++
+title = 'Top 15 Template Request Counts'
+solution = 'Data Quality'
++++
+
 # Top 15 Template Request Counts
 
 This chart displays the top 15 templates based on number of requests for

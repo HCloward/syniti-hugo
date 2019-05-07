@@ -1,3 +1,8 @@
++++
+title = 'Add an External Data Role Type to a Template'
+solution = 'Data Quality'
++++
+
 # Add an External Data Role Type to a Template
 
 To use <span style="font-family: Arial, sans-serif;">an external role in

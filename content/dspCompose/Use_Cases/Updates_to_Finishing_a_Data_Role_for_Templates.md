@@ -1,3 +1,8 @@
++++
+title = 'Updates to Finishing a Data Role for Templates with the Security View'
+solution = 'Data Quality'
++++
+
 # Updates to Finishing a Data Role for Templates with the Security View
 
 The Data role is finished differently if:

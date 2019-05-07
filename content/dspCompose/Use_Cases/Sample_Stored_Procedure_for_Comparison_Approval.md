@@ -1,3 +1,8 @@
++++
+title = 'Sample Stored Procedure For Comparison Approval'
+solution = 'Data Quality'
++++
+
 # Sample Stored Procedure For Comparison Approval
 
 These sample stored procedures are original and modified code for the

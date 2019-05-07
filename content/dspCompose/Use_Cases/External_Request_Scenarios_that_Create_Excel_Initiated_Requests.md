@@ -1,3 +1,8 @@
++++
+title = 'External Request Scenarios that Create Excel-Initiated Requests'
+solution = 'Data Quality'
++++
+
 # External Request Scenarios that Create Excel-Initiated Requests
 
 While an external request scenario can be configured to simply create a

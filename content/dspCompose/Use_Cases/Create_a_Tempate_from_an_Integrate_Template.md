@@ -1,3 +1,8 @@
++++
+title = 'Create a Template from an Integrate Template'
+solution = 'Data Quality'
++++
+
 # Create a Template from an Integrate Template
 
 If a template has already been created in Integrate that can be reused

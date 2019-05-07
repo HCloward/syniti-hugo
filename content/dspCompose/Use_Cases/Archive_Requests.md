@@ -1,3 +1,8 @@
++++
+title = 'Archive Requests'
+solution = 'Data Quality'
++++
+
 # Archive Requests
 
 Requests are archived based on retention intervals that are tied to

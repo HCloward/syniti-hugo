@@ -1,3 +1,8 @@
++++
+title = 'Add Email Addresses for a Scenario'
+solution = 'Data Quality'
++++
+
 # Add Email Addresses for a Scenario
 
 When a request is received at the external data email account,

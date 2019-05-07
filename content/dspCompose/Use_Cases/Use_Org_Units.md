@@ -1,3 +1,8 @@
++++
+title = 'Use Org Units'
+solution = 'Data Quality'
++++
+
 # Use Org Units
 
 Organizational Units (Org Units) are used to set request data security

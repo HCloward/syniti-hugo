@@ -1,3 +1,8 @@
++++
+title = 'Set a Column’s Control Status'
+solution = 'Data Quality'
++++
+
 # Set a Column’s Control Status
 
 A Template Administrator can designate which columns display on a

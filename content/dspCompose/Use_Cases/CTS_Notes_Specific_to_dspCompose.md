@@ -1,3 +1,8 @@
++++
+title = 'CTS Notes Specific to dspCompose™'
+solution = 'Data Quality'
++++
+
 # CTS Notes Specific to dspCompose™
 
 When creating CTS archives to support dspCompose™ objects, if any

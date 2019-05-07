@@ -1,3 +1,8 @@
++++
+title = 'Add the Org Unit Security View to Template Role Validation Rules'
+solution = 'Data Quality'
++++
+
 # Add the Org Unit Security View to Template Role Validation Rules
 
 Role validations allow for template-specific data standards to be

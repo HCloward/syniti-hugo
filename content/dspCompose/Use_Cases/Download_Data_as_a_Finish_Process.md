@@ -1,3 +1,8 @@
++++
+title = 'Download Data as a Finish Process'
+solution = 'Data Quality'
++++
+
 # Download Data as a Finish Process
 
 As part of the Finish process, dspCompose™ can be configured to download

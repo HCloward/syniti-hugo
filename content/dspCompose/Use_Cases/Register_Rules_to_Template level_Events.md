@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Data Quality'
++++
+
 # Register Rules to Template-level Events
 
 Business rules can be a powerful tool to help create default field

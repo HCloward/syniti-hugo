@@ -1,3 +1,8 @@
++++
+title = 'Setting the Post Start Time'
+solution = 'Data Quality'
++++
+
 # Setting the Post Start Time
 
 If posting using a scheduled background post, enter the start date and

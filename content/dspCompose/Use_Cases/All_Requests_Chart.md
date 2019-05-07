@@ -1,3 +1,8 @@
++++
+title = 'All Requests Chart'
+solution = 'Data Quality'
++++
+
 # All Requests Chart
 
 This chart displays a summary count of all active, inactive, and

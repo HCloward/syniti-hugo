@@ -1,3 +1,8 @@
++++
+title = 'Inactive Requests Chart'
+solution = 'Data Quality'
++++
+
 # Inactive Requests Chart
 
 This chart displays the number of inactive requests in each

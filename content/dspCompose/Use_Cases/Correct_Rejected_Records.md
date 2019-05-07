@@ -1,3 +1,8 @@
++++
+title = 'Correct Rejected Records'
+solution = 'Data Quality'
++++
+
 # Correct Rejected Records
 
 When the Review role rejects all or some of the records for a request,

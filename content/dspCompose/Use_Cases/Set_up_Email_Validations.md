@@ -1,3 +1,8 @@
++++
+title = 'Set up Email Validations'
+solution = 'Data Quality'
++++
+
 # Set up Email Validations
 
 Using an external request scenario, an external contact can send an
