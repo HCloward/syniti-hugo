@@ -1,6 +1,5 @@
 +++
-title = 'Target Report Segments
-/c/Users/Heather Cloward/Documents/frontMatter/Transform/Use_Cases/Target_Report_Segments.md:# Target Report Segments'
+title = 'Target Report Segments'
 solution = 'Migration'
 +++
 
