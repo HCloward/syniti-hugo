@@ -1,3 +1,8 @@
++++
+title = 'Map Columns from the Template to Columns from the Excel File'
+solution = 'Migration'
++++
+
 # Map Columns from the Template to Columns from the Excel File
 
 Once an external request scenario for an Excel-initiated request has

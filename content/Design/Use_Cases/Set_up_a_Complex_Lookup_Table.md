@@ -1,3 +1,8 @@
++++
+title = 'Set up a Complex Lookup Table'
+solution = 'Migration'
++++
+
 # Set up a Complex Lookup Table
 
 A complex lookup table contains a multiple part key.

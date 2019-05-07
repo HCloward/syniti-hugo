@@ -1,3 +1,8 @@
++++
+title = 'Manual Rule'
+solution = 'Migration'
++++
+
 # Manual Rule
 
 The Manual Rule action is used when a rule is too complex to be

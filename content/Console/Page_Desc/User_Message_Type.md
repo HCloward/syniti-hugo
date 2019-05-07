@@ -1,3 +1,8 @@
++++
+title = 'User Message Type'
+solution = 'Migration'
++++
+
 # User Message Type
 
 <div class="use">

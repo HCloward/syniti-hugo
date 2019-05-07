@@ -1,3 +1,8 @@
++++
+title = 'Set up a Simple Lookup Table'
+solution = 'Migration'
++++
+
 # Set up a Simple Lookup Table
 
 A simple lookup table contains one key.

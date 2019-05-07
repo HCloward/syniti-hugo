@@ -1,3 +1,8 @@
++++
+title = 'AutoGen SQL Log'
+solution = 'Migration'
++++
+
 # AutoGen SQL Log
 
 <div class="use">

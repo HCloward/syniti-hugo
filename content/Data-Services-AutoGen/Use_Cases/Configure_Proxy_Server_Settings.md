@@ -1,3 +1,8 @@
++++
+title = 'Configure Proxy Sever Settings'
+solution = 'Migration'
++++
+
 # Configure Proxy Sever Settings
 
 To use Data Services AutoGen, the web server must be able to establish

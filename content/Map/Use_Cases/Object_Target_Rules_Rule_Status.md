@@ -1,3 +1,8 @@
++++
+title = 'Object Target Rules: Rule Status'
+solution = 'Migration'
++++
+
 # Object Target Rules: Rule Status
 
 This chart displays the rule status (in process or complete) of all

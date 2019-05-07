@@ -1,3 +1,8 @@
++++
+title = 'Access Target Design'
+solution = 'Migration'
++++
+
 # Access Target Design
 
 Before using Target Design, a Wave, a Process Area (the combination of

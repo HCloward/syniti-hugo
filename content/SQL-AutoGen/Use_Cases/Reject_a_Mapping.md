@@ -1,3 +1,8 @@
++++
+title = 'Reject a Mapping'
+solution = 'Migration'
++++
+
 # Reject a Mapping
 
 A mapping can be rejected on the

@@ -1,3 +1,8 @@
++++
+title = 'Grant Users Access to Reports and Sensitive Data'
+solution = 'Migration'
++++
+
 # Grant Users Access to Reports and Sensitive Data
 
 An Administrator <span id="User Report Access" class="popUpLink">must

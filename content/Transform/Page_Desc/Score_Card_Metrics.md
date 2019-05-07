@@ -1,3 +1,8 @@
++++
+title = 'Score Card (Metrics)'
+solution = 'Migration'
++++
+
 # Score Card (Metrics)
 
 This report displays the status of the Data Migration Management Team

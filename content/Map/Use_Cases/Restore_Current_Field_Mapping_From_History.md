@@ -1,3 +1,8 @@
++++
+title = 'Restore Current Field Mapping From History'
+solution = 'Migration'
++++
+
 # Restore Current Field Mapping From History
 
 On the <span style="font-style: italic;">[Field Mapping

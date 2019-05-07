@@ -1,3 +1,8 @@
++++
+title = 'Set Rule Priority for Fields in Field Groups'
+solution = 'Migration'
++++
+
 # Set Rule Priority for Fields in Field Groups
 
 A field’s priority determines the order in which the rule based on that

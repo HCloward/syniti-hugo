@@ -1,3 +1,8 @@
++++
+title = 'Weekly Summary By Object'
+solution = 'Migration'
++++
+
 # Weekly Summary By Object
 
 This chart displays the number of mappings per status for all field

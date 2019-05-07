@@ -1,3 +1,8 @@
++++
+title = 'Value Mapping by Wave and Process Area'
+solution = 'Migration'
++++
+
 # Value Mapping by Wave and Process Area
 
 This chart displays the number of value mappings that are in process and

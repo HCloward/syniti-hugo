@@ -1,3 +1,8 @@
++++
+title = 'Relationship Joins H'
+solution = 'Migration'
++++
+
 # Relationship Joins H
 
 [Relationship Joins V](#RelationshipV)

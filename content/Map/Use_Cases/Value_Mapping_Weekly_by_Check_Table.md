@@ -1,3 +1,8 @@
++++
+title = 'Value Mapping Weekly By Check Table'
+solution = 'Migration'
++++
+
 # Value Mapping Weekly By Check Table
 
 This chart displays the number of weekly changes made to value mappings

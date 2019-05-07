@@ -1,3 +1,8 @@
++++
+title = 'Work with Sources with Multi-part Keys'
+solution = 'Migration'
++++
+
 # Work with Sources with Multi-part Keys
 
 Map allows a user to map multiple sources to one target, and to map

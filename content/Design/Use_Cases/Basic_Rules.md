@@ -1,3 +1,8 @@
++++
+title = 'Basic Rules'
+solution = 'Migration'
++++
+
 # Basic Rules
 
 A Basic rule allows a user to create a simple conditional or default

@@ -1,3 +1,8 @@
++++
+title = 'Reset Target Source Schema Field Lengths'
+solution = 'Migration'
++++
+
 # Reset Target Source Schema Field Lengths
 
 If a Source was added in Target Design during a System Type import, and

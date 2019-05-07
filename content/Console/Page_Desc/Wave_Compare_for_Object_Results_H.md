@@ -1,3 +1,8 @@
++++
+title = 'Wave Compare for Object Results H'
+solution = 'Migration'
++++
+
 # Wave Compare for Object Results H
 
 [Wave Compare for Object Results

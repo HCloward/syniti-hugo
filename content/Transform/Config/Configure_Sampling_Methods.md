@@ -1,3 +1,8 @@
++++
+title = 'Configure Sampling Methods'
+solution = 'Migration'
++++
+
 # Configure Sampling Methods
 
 Transform is delivered with several methods to audit data. These

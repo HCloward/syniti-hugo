@@ -1,3 +1,8 @@
++++
+title = 'Sampling Methods (Setup)'
+solution = 'Migration'
++++
+
 # Sampling Methods (Setup)
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Weekly Summary By Wave & Process Area'
+solution = 'Migration'
++++
+
 # Weekly Summary By Wave & Process Area
 
 This chart displays the number of mappings per status for all field

@@ -1,3 +1,8 @@
++++
+title = 'Build Source Tables'
+solution = 'Migration'
++++
+
 # Build Source Tables
 
 Source tables can be built using SQL AutoGen after targets have been

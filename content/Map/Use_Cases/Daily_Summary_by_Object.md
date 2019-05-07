@@ -1,3 +1,8 @@
++++
+title = 'Daily Summary By Object'
+solution = 'Migration'
++++
+
 # Daily Summary By Object
 
 This chart displays the number of mappings per status for all field

@@ -1,3 +1,8 @@
++++
+title = 'Move Object to Process Area'
+solution = 'Migration'
++++
+
 # Move Object to Process Area
 
 <div class="use">

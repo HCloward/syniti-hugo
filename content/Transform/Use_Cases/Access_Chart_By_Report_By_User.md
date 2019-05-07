@@ -1,3 +1,8 @@
++++
+title = 'Access Chart (By Report By User)'
+solution = 'Migration'
++++
+
 # Access Chart (By Report By User)
 
 To access this page in Transform, select **Tracking \> Report User

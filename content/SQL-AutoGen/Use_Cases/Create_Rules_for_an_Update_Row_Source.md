@@ -1,3 +1,8 @@
++++
+title = 'Create Rules for an Update Row Source'
+solution = 'Migration'
++++
+
 # Create Rules for an Update Row Source
 
 A Target Source Rule (also referred to as a Source Rule) cleans and

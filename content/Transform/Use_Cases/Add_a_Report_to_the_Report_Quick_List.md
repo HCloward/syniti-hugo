@@ -1,3 +1,8 @@
++++
+title = 'Add a Report to the Report Quick List'
+solution = 'Migration'
++++
+
 # Add a Report to the Report Quick List
 
 Users can add and remove reports on their own customized Report Quick

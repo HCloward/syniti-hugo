@@ -1,3 +1,8 @@
++++
+title = 'Changes Daily By Object'
+solution = 'Migration'
++++
+
 # Changes Daily By Object
 
 This chart displays a count of all daily changes for all Object types in

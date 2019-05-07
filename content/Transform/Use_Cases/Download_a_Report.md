@@ -1,3 +1,8 @@
++++
+title = 'Download a Report'
+solution = 'Migration'
++++
+
 # Download a Report
 
 Files with more than 50K records are downloaded as .txt files.

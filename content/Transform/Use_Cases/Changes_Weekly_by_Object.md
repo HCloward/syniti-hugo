@@ -1,3 +1,8 @@
++++
+title = 'Changes Weekly By Object'
+solution = 'Migration'
++++
+
 # Changes Weekly By Object
 
 This chart displays a count of all weekly changes for all Object types

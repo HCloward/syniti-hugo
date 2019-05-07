@@ -1,3 +1,8 @@
++++
+title = 'Register Target Data Services Remediation Rules'
+solution = 'Migration'
++++
+
 # Register Target Data Services Remediation Rules
 
 Data Services Target Remediation allows a remediation rule to be

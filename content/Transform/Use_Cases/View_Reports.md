@@ -1,3 +1,8 @@
++++
+title = 'View Reports'
+solution = 'Migration'
++++
+
 # View Reports
 
 Business users view their migration reports on the Report Delivery

@@ -1,3 +1,8 @@
++++
+title = 'Metrics Summary Dashboards'
+solution = 'Migration'
++++
+
 # Metrics Summary Dashboards
 
 The charts on this dashboard display a summary of field mappings for the

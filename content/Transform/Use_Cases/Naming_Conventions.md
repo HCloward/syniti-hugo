@@ -1,3 +1,8 @@
++++
+title = 'Naming Conventions'
+solution = 'Migration'
++++
+
 # Naming Conventions
 
 BackOffice follows a very strict naming convention that provides a

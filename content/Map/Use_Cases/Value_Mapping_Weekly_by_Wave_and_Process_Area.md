@@ -1,3 +1,8 @@
++++
+title = 'Value Mapping Weekly by Wave'
+solution = 'Migration'
++++
+
 # Value Mapping Weekly by Wave
 
 This chart displays the number of daily changes made to value mappings

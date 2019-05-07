@@ -1,3 +1,8 @@
++++
+title = 'Trend Summary (Error Reports)'
+solution = 'Migration'
++++
+
 # Trend Summary (Error Reports)
 
 <span style="font-weight: bold;">NOTE:</span> For data to display on the

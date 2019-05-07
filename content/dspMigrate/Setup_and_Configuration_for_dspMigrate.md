@@ -1,3 +1,8 @@
++++
+title = 'Setup and Configuration for dspMigrate™ Advanced Data Migration (ADM)'
+solution = 'Migration'
++++
+
 # Setup and Configuration for dspMigrate™ Advanced Data Migration (ADM)
 
 Before getting started with dspMigrate™ Advanced Data Migration (ADM),

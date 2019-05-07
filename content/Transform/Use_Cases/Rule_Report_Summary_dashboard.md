@@ -1,3 +1,8 @@
++++
+title = 'Rule Report Summary Dashboard'
+solution = 'Migration'
++++
+
 # Rule Report Summary Dashboard
 
 The Rule Report Summary dashboard displays a count of active Source

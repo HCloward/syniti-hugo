@@ -1,3 +1,8 @@
++++
+title = 'Build an Update Row Source Table'
+solution = 'Migration'
++++
+
 # Build an Update Row Source Table
 
 Update Row source tables can be built using SQL AutoGen after targets

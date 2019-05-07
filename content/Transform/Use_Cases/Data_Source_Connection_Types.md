@@ -1,3 +1,8 @@
++++
+title = 'Data Source Connection Types'
+solution = 'Migration'
++++
+
 # Data Source Connection Types
 
 In Transform, Sources and exports are associated with a CranPort or SSIS

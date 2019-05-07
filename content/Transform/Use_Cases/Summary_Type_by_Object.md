@@ -1,3 +1,8 @@
++++
+title = 'Summary Type By Object'
+solution = 'Migration'
++++
+
 # Summary Type By Object
 
 This chart displays the count for Object types contained in all Targets

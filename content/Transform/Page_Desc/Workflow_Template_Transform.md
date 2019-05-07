@@ -1,3 +1,8 @@
++++
+title = 'Workflow Template'
+solution = 'Migration'
++++
+
 # Workflow Template
 
 <div class="use">

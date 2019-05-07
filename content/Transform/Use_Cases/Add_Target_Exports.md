@@ -1,3 +1,8 @@
++++
+title = 'Add Target Exports'
+solution = 'Migration'
++++
+
 # Add Target Exports
 
 Transform does not load data into an ERP system; it stages data for

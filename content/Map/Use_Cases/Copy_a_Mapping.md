@@ -1,3 +1,8 @@
++++
+title = 'Copy a Mapping'
+solution = 'Migration'
++++
+
 # Copy a Mapping
 
 A user can view a history of all archived mappings (from System Types)

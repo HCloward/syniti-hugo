@@ -1,3 +1,8 @@
++++
+title = 'Configure Notifications for Report Readiness'
+solution = 'Migration'
++++
+
 # Configure Notifications for Report Readiness
 
 A user can receive a workflow notification when a report is ready for

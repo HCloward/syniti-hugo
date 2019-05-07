@@ -1,3 +1,8 @@
++++
+title = 'Field Mapping Changes Daily by Wave & Process Area'
+solution = 'Migration'
++++
+
 # Field Mapping Changes Daily by Wave & Process Area
 
 This chart displays the number of daily changes made to field mappings

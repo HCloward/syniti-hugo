@@ -1,3 +1,8 @@
++++
+title = 'Add Fields to a Target'
+solution = 'Migration'
++++
+
 # Add Fields to a Target
 
 While the easiest method to add fields to a Target is through import, a

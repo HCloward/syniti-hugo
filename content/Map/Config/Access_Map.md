@@ -1,3 +1,8 @@
++++
+title = 'Access Map'
+solution = 'Migration'
++++
+
 # Access Map
 
 Before using Map, a Wave, Process Area (the combination of which is

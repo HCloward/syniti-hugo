@@ -1,3 +1,8 @@
++++
+title = 'Configure a Data Services Repository'
+solution = 'Migration'
++++
+
 # Configure a Data Services Repository
 
 On the *Data Services Repositories* page, set up the Data Services

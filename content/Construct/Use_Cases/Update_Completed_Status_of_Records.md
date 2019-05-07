@@ -1,3 +1,8 @@
++++
+title = 'Update Completed Status of Records'
+solution = 'Migration'
++++
+
 # Update Completed Status of Records
 
 A service page runs once an hour to update the status of completed

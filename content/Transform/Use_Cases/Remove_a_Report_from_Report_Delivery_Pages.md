@@ -1,3 +1,8 @@
++++
+title = 'Remove a Report from Report Delivery Pages'
+solution = 'Migration'
++++
+
 # Remove a Report from Report Delivery Pages
 
 Removing a report from a report delivery page removes it from all report

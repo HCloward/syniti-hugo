@@ -1,3 +1,8 @@
++++
+title = 'Rule'
+solution = 'Migration'
++++
+
 # Rule
 
 The Rule action is used when the field mapping for a field is performed

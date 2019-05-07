@@ -1,3 +1,8 @@
++++
+title = 'Refresh Target and Legacy Values'
+solution = 'Migration'
++++
+
 # Refresh Target and Legacy Values
 
 In value mapping, an individual value in a Source field is configured to

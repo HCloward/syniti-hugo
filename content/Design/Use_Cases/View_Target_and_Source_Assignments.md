@@ -1,3 +1,8 @@
++++
+title = 'View Target and Source Assignments'
+solution = 'Migration'
++++
+
 # View Target and Source Assignments
 
 To view all Targets that use a Source in the context selected in the

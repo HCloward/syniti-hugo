@@ -1,3 +1,8 @@
++++
+title = 'View Objects'
+solution = 'Migration'
++++
+
 # View Objects
 
 The SQL code for the following object types is tracked for any given

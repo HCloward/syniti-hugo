@@ -1,3 +1,8 @@
++++
+title = 'Field Mapping Summary by Object'
+solution = 'Migration'
++++
+
 # Field Mapping Summary by Object
 
 This chart displays the number of field mappings that are in process and

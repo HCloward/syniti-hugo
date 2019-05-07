@@ -1,3 +1,8 @@
++++
+title = 'View Metrics'
+solution = 'Migration'
++++
+
 # View Metrics
 
 Map captures metrics about mapping progress by target; by month, day or

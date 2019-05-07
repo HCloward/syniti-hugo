@@ -1,3 +1,8 @@
++++
+title = 'Publish Reports to Report Delivery Pages'
+solution = 'Migration'
++++
+
 # Publish Reports to Report Delivery Pages
 
 When a report is published it is visible on the Business user’s Report

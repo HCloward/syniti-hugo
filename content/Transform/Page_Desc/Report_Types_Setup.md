@@ -1,3 +1,8 @@
++++
+title = 'Report Types (Setup)'
+solution = 'Migration'
++++
+
 # Report Types (Setup)
 
 <div class="use">

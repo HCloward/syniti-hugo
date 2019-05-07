@@ -1,3 +1,8 @@
++++
+title = 'Capture Statistics for Wave Gate Metrics'
+solution = 'Migration'
++++
+
 # Capture Statistics for Wave Gate Metrics
 
 A gate, with a gate date and a percentage complete, allows a user to

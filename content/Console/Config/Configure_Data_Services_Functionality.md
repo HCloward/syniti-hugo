@@ -1,3 +1,8 @@
++++
+title = 'Configure Data Services Functionality'
+solution = 'Migration'
++++
+
 # Configure Data Services Functionality
 
 To use Data Services AutoGen, a user accesses Data Services pages using

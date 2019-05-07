@@ -1,3 +1,8 @@
++++
+title = 'Set a Target's Design Status'
+solution = 'Migration'
++++
+
 # Set a Target's Design Status
 
 The Design Status for a Target indicates where the Target design is in

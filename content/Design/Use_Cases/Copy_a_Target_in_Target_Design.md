@@ -1,3 +1,8 @@
++++
+title = 'Copy a Target in Target Design'
+solution = 'Migration'
++++
+
 # Copy a Target in Target Design
 
 A Target can be copied to a Wave, a Process Area, and an Object to be

@@ -1,3 +1,8 @@
++++
+title = 'Trend Summary (Views)'
+solution = 'Migration'
++++
+
 # Trend Summary (Views)
 
 <span style="font-weight: bold;">NOTE:</span> For data to display on the

@@ -1,3 +1,8 @@
++++
+title = 'Wave Gate Metrics (Value Mapping) H'
+solution = 'Migration'
++++
+
 # Wave Gate Metrics (Value Mapping) H
 
 [Wave Gate Metrics (Value Mapping) V](#Wave_Gate_Metrics_Value1)

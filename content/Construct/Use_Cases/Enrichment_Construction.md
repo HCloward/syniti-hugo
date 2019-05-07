@@ -1,3 +1,8 @@
++++
+title = 'Enrichment Construction'
+solution = 'Migration'
++++
+
 # Enrichment Construction
 
 Use Enrichment Construction when a field or a few fields should be

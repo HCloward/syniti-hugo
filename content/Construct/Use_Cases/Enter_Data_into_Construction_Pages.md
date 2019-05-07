@@ -1,3 +1,8 @@
++++
+title = 'Enter Data into Construction Pages'
+solution = 'Migration'
++++
+
 # Enter Data into Construction Pages
 
 The Construct page is used to enter or modify data required for the

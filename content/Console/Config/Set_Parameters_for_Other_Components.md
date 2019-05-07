@@ -1,3 +1,8 @@
++++
+title = 'Set Parameters for Other Components'
+solution = 'Migration'
++++
+
 # Set Parameters for Other Components
 
 Use Console to set parameters for Map, Transform and Construct.

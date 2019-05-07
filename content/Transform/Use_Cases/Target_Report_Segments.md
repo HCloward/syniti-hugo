@@ -1,3 +1,9 @@
++++
+title = 'Target Report Segments
+/c/Users/Heather Cloward/Documents/frontMatter/Transform/Use_Cases/Target_Report_Segments.md:# Target Report Segments'
+solution = 'Migration'
++++
+
 # Target Report Segments
 
 An Administrator can identify a field on the report to use for creating

@@ -1,3 +1,8 @@
++++
+title = 'Report Process Count By Wave & Process Area'
+solution = 'Migration'
++++
+
 # Report Process Count By Wave & Process Area
 
 This chart displays the number of processes running for reports broken

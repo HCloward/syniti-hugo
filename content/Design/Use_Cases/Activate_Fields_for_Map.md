@@ -1,3 +1,8 @@
++++
+title = 'Activate Fields for Mapping'
+solution = 'Migration'
++++
+
 # Activate Fields for Mapping
 
 Activate fields for the Target that are in scope for mapping.

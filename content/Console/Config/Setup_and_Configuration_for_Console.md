@@ -1,3 +1,8 @@
++++
+title = 'Setup and Configuration for Console'
+solution = 'Migration'
++++
+
 # Setup and Configuration for Console
 
 Before beginning work on a migration project, the hierarchical migration

@@ -1,3 +1,8 @@
++++
+title = 'Changes Weekly By Wave & Process Area'
+solution = 'Migration'
++++
+
 # Changes Weekly By Wave & Process Area
 
 This chart displays a count of all changes for all Object types in all

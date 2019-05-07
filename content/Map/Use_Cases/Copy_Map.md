@@ -1,3 +1,8 @@
++++
+title = 'Copy'
+solution = 'Migration'
++++
+
 # Copy
 
 The Copy action is used when mapping a field that is an exact copy from

@@ -1,3 +1,8 @@
++++
+title = 'Add Elements Separately'
+solution = 'Migration'
++++
+
 # Add Elements Separately
 
 One method for creating a context is to add a Process Area and Object

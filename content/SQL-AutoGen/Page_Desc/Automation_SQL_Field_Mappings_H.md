@@ -1,3 +1,8 @@
++++
+title = 'Automation SQL Field Mappings H'
+solution = 'Migration'
++++
+
 # Automation SQL Field Mappings H
 
 [Automation SQL Field Mappings V](#Automation_SQL_Field_Mappings_V)

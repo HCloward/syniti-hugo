@@ -1,3 +1,8 @@
++++
+title = 'Target Rules (Active) By Wave & Process Area'
+solution = 'Migration'
++++
+
 # Target Rules (Active) By Wave & Process Area
 
 This chart displays all Target rules with a status of Active for the

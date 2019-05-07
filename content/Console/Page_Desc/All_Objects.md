@@ -1,3 +1,8 @@
++++
+title = 'All Objects'
+solution = 'Migration'
++++
+
 # All Objects
 
 <div class="use">

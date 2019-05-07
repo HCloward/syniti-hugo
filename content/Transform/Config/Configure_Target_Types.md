@@ -1,3 +1,8 @@
++++
+title = 'Configure Target Types'
+solution = 'Migration'
++++
+
 # Configure Target Types
 
 The Target Type categorizes the Target and is used when registering a

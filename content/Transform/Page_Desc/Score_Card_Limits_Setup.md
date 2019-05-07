@@ -1,3 +1,8 @@
++++
+title = 'Score Card Limits (Setup)'
+solution = 'Migration'
++++
+
 # Score Card Limits (Setup)
 
 <div class="use">

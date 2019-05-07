@@ -1,3 +1,8 @@
++++
+title = 'Configure Target Data Services Rule Global Variables'
+solution = 'Migration'
++++
+
 # Configure Target Data Services Rule Global Variables
 
 For each of the Data Services Jobs, the global variables needed to pass

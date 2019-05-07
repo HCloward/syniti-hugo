@@ -1,3 +1,8 @@
++++
+title = 'Assign a Source to a Target'
+solution = 'Migration'
++++
+
 # Assign a Source to a Target
 
 In Target Design, a Migration Developer can add a Source with a Source

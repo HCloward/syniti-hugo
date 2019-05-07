@@ -1,3 +1,8 @@
++++
+title = 'Create and Approve All Rules'
+solution = 'Migration'
++++
+
 # Create and Approve All Rules
 
 The Mapping Approval process is separate from SQL AutoGen. These two

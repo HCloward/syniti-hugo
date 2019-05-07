@@ -1,3 +1,8 @@
++++
+title = 'View the Source Tables and Fields Mapped to a Lookup Table'
+solution = 'Migration'
++++
+
 # View the Source Tables and Fields Mapped to a Lookup Table
 
 A user can access the

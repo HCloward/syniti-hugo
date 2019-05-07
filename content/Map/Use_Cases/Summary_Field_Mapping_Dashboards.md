@@ -1,3 +1,8 @@
++++
+title = 'Summary Field Mapping Dashboards'
+solution = 'Migration'
++++
+
 # Summary Field Mapping Dashboards
 
 Field mapping for a migration project documents how data in the Source

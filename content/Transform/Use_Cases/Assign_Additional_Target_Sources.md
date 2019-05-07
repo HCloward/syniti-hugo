@@ -1,3 +1,8 @@
++++
+title = 'Assign Additional Target Sources'
+solution = 'Migration'
++++
+
 # Assign Additional Target Sources
 
 A Target Source is a record of the relationship between a Source table

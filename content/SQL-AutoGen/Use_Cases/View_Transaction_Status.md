@@ -1,3 +1,8 @@
++++
+title = 'View Transaction Status'
+solution = 'Migration'
++++
+
 # View Transaction Status
 
 A Migration Developer can track transaction status as target tables,

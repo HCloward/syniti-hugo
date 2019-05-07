@@ -1,3 +1,8 @@
++++
+title = 'Import From an Excel File'
+solution = 'Migration'
++++
+
 # Import From an Excel File
 
 The design of a Target can be imported from an Excel file. A user must

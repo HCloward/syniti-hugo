@@ -1,3 +1,8 @@
++++
+title = 'Criticality'
+solution = 'Migration'
++++
+
 # Criticality
 
 <div class="use">

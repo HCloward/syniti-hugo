@@ -1,3 +1,8 @@
++++
+title = 'Set up Lookup Tables'
+solution = 'Migration'
++++
+
 # Set up Lookup Tables
 
 In value mapping, an individual value in a Source field in one table is

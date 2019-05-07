@@ -1,3 +1,8 @@
++++
+title = 'Assign a Field Group to an Object'
+solution = 'Migration'
++++
+
 # Assign a Field Group to an Object
 
 Once a field group has been created, it can be assigned to an Object.

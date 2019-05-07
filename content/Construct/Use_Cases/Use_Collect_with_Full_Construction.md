@@ -1,3 +1,8 @@
++++
+title = 'Use Collect with Full Construction'
+solution = 'Migration'
++++
+
 # Use Collect with Full Construction
 
 Collect registrations are added to take the snap shot of the Target

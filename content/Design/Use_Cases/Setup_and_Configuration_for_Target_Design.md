@@ -1,3 +1,8 @@
++++
+title = 'Setup and Configuration for Target Design'
+solution = 'Migration'
++++
+
 # Setup and Configuration for Target Design
 
 Before Targets can be created in Target Design, [a Wave, Process Area

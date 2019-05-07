@@ -1,3 +1,8 @@
++++
+title = 'View Remediation Rule Information'
+solution = 'Migration'
++++
+
 # View Remediation Rule Information
 
 The *Target Remediation Overview* page is a centralized reporting

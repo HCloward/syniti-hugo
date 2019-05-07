@@ -1,3 +1,8 @@
++++
+title = 'Work with Metric Groups'
+solution = 'Migration'
++++
+
 # Work with Metric Groups
 
 Metric groups are a subcategory of field groups and provide a way to

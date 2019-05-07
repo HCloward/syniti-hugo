@@ -1,3 +1,8 @@
++++
+title = 'Value Mapping Daily By Check Table'
+solution = 'Migration'
++++
+
 # Value Mapping Daily By Check Table
 
 This chart displays the number of daily changes made to value mappings

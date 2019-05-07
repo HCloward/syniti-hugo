@@ -1,3 +1,8 @@
++++
+title = 'Extend a Field to a Field Group'
+solution = 'Migration'
++++
+
 # Extend a Field to a Field Group
 
 Field groups are filters used to create subsets of data in a Target

@@ -1,3 +1,8 @@
++++
+title = 'View the Report User Access Log'
+solution = 'Migration'
++++
+
 # View the Report User Access Log
 
 This page displays all users accessing any reports to which they are

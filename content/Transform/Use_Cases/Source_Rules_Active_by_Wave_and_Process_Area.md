@@ -1,3 +1,8 @@
++++
+title = 'Source Rules (Active) By Wave & Process Area'
+solution = 'Migration'
++++
+
 # Source Rules (Active) By Wave & Process Area
 
 This chart displays all Source rules with a status of Active for the

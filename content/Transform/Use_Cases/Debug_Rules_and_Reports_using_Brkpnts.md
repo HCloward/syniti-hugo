@@ -1,3 +1,8 @@
++++
+title = 'Debug Rules and Reports using Breakpoints'
+solution = 'Migration'
++++
+
 # Debug Rules and Reports using Breakpoints
 
 A breakpoint stops rule or report processing at a specified place to

@@ -1,3 +1,8 @@
++++
+title = 'Set Up User Notifications'
+solution = 'Migration'
++++
+
 # Set Up User Notifications
 
 Users can be configured to receive a weekly summary email of changes in

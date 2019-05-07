@@ -1,3 +1,8 @@
++++
+title = 'View the Report User Access Dashboard'
+solution = 'Migration'
++++
+
 # View the Report User Access Dashboard
 
 This dashboard displays the reports accessed by all users. There is no

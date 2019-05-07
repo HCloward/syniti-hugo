@@ -1,3 +1,8 @@
++++
+title = 'Correct Errors in Target Data with Fixed Remediation Rules'
+solution = 'Migration'
++++
+
 # Correct Errors in Target Data with Fixed Remediation Rules
 
 Transform offers a quick and simple way to correct the data in one field

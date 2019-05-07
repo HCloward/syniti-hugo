@@ -1,3 +1,8 @@
++++
+title = 'dspMigrate™ Advanced Data Migration (ADM) Overview'
+solution = 'Migration'
++++
+
 # dspMigrate™ Advanced Data Migration (ADM) Overview
 
 The Data Stewardship Platform® (DSP)® delivers the core data quality,

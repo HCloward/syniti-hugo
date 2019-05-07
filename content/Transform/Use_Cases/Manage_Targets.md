@@ -1,3 +1,8 @@
++++
+title = 'Manage Targets'
+solution = 'Migration'
++++
+
 # Manage Targets
 
 A Target is a copy of the ERP table definitions and contains the

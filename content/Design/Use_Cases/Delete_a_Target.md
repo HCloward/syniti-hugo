@@ -1,3 +1,8 @@
++++
+title = 'Delete a Target'
+solution = 'Migration'
++++
+
 # Delete a Target
 
 Before deleting a Target, be aware of the downstream implications.

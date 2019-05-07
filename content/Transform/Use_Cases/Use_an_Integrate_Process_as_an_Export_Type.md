@@ -1,3 +1,8 @@
++++
+title = 'Use an Integrate Process as an Export Type'
+solution = 'Migration'
++++
+
 # Use an Integrate Process as an Export Type
 
 This task is performed by a Migration Developer, or any user who has

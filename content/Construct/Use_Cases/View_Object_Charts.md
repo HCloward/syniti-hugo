@@ -1,3 +1,8 @@
++++
+title = 'View Object Charts'
+solution = 'Migration'
++++
+
 # View Object Charts
 
 A chart is available to view a graphical representation of the tracked

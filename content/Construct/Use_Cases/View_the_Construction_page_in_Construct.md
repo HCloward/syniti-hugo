@@ -1,3 +1,8 @@
++++
+title = 'View the Construction Page in Construct'
+solution = 'Migration'
++++
+
 # View the Construction Page in Construct
 
 In Construct, view the page created when a {Full Construction} Target

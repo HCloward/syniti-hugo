@@ -1,3 +1,8 @@
++++
+title = 'Target Types (Setup)'
+solution = 'Migration'
++++
+
 # Target Types (Setup)
 
 <div class="use">

@@ -1,3 +1,8 @@
++++
+title = 'Approve or Reject Mappings'
+solution = 'Migration'
++++
+
 # Approve or Reject Mappings
 
 In the Mapping Approval process:

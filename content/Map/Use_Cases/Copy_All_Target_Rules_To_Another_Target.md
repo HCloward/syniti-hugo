@@ -1,3 +1,8 @@
++++
+title = 'Copy All Target Rules to Another Target'
+solution = 'Migration'
++++
+
 # Copy All Target Rules to Another Target
 
 A user can copy all rules from a target to share them across waves that

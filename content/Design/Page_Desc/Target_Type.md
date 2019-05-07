@@ -1,3 +1,8 @@
++++
+title = 'Target Type'
+solution = 'Migration'
++++
+
 # Target Type
 
 <div class="use">

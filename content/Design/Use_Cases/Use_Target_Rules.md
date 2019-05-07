@@ -1,3 +1,8 @@
++++
+title = 'Use Target Rules'
+solution = 'Migration'
++++
+
 # Use Target Rules
 
 Basic and Complex rules are defined within Target Design and are used to

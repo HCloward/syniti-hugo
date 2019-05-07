@@ -1,3 +1,8 @@
++++
+title = 'Load Types (Setup)'
+solution = 'Migration'
++++
+
 # Load Types (Setup)
 
 <div class="use">

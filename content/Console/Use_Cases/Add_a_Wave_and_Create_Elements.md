@@ -1,3 +1,8 @@
++++
+title = 'Add a Wave and Create Elements'
+solution = 'Migration'
++++
+
 # Add a Wave and Create Elements
 
 Another method for creating the context is to add the elements while

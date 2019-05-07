@@ -1,3 +1,8 @@
++++
+title = 'Access Construct'
+solution = 'Migration'
++++
+
 # Access Construct
 
 Before using Construct, a Wave, Process Area (the combination of which

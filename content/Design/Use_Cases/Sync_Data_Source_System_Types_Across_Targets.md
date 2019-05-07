@@ -1,3 +1,8 @@
++++
+title = 'Sync Data Source System Types Across Targets'
+solution = 'Migration'
++++
+
 # Sync Data Source System Types Across Targets
 
 A Source data source can be assigned to only one System Type across all

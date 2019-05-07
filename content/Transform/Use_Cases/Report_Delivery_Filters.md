@@ -1,3 +1,8 @@
++++
+title = 'Report Delivery Filters'
+solution = 'Migration'
++++
+
 # Report Delivery Filters
 
 Filters are used to restrict the data on a report so that only relevant

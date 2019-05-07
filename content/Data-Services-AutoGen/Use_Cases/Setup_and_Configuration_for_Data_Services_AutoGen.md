@@ -1,3 +1,8 @@
++++
+title = 'Setup and Configuration for Data Services AutoGen'
+solution = 'Migration'
++++
+
 # Setup and Configuration for Data Services AutoGen
 
 Data Services AutoGen provides the ability to generate Data Services

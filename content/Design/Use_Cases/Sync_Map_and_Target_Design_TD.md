@@ -1,3 +1,8 @@
++++
+title = 'Sync Map and Target Design'
+solution = 'Migration'
++++
+
 # Sync Map and Target Design
 
 When changes have been made that require a sync, the message Pending

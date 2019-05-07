@@ -1,3 +1,8 @@
++++
+title = 'Object Target Source Rules: Mapping Status'
+solution = 'Migration'
++++
+
 # Object Target Source Rules: Mapping Status
 
 This chart displays the mapping status (in process or complete) of all

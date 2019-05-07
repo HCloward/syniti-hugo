@@ -1,3 +1,8 @@
++++
+title = 'Edit the Priority and Publish Setting'
+solution = 'Migration'
++++
+
 # Edit the Priority and Publish Setting
 
 A Target is added and configured in Target Design, but a Target's

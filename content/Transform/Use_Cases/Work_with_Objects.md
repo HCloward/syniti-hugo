@@ -1,3 +1,8 @@
++++
+title = 'Work with Objects'
+solution = 'Migration'
++++
+
 # Work with Objects
 
 An Object is a grouping of Targets and is used to organize business

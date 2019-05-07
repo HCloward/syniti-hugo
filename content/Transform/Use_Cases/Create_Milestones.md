@@ -1,3 +1,8 @@
++++
+title = 'Create Milestones'
+solution = 'Migration'
++++
+
 # Create Milestones
 
 Use Milestones to capture metrics at a fixed point in time. Snapshots of

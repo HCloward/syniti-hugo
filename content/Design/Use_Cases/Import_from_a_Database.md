@@ -1,3 +1,8 @@
++++
+title = 'Import From a Database'
+solution = 'Migration'
++++
+
 # Import From a Database
 
 The design of a Target can be imported from one or multiple tables in a

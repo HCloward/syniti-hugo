@@ -1,3 +1,8 @@
++++
+title = 'Add Custom Criticality Levels'
+solution = 'Migration'
++++
+
 # Add Custom Criticality Levels
 
 Criticality can be set for a Target field and is used for reporting

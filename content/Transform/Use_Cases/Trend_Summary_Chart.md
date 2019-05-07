@@ -1,3 +1,8 @@
++++
+title = 'Trend Summary (Chart)'
+solution = 'Migration'
++++
+
 # Trend Summary (Chart)
 
 **NOTE:** Before data displays on this chart:

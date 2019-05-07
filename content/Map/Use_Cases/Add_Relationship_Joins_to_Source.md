@@ -1,3 +1,8 @@
++++
+title = 'Add Relationship Joins to Sources'
+solution = 'Migration'
++++
+
 # Add Relationship Joins to Sources
 
 Relationship joins support the automation of rules built for Update Row

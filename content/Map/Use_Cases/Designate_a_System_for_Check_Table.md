@@ -1,3 +1,8 @@
++++
+title = 'Designate a System for a Check Table'
+solution = 'Migration'
++++
+
 # Designate a System for a Check Table
 
 In most cases, check tables are stored in the Target system set for the

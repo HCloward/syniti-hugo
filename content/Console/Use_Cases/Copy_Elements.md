@@ -1,3 +1,8 @@
++++
+title = 'Copy Elements'
+solution = 'Migration'
++++
+
 # Copy Elements
 
 A Wave, Process Area or Object can be created based on a copy of an

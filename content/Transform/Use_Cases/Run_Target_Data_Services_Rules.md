@@ -1,3 +1,8 @@
++++
+title = 'Run Target Data Services Rules'
+solution = 'Migration'
++++
+
 # Run Target Data Services Rules
 
 DSP® registers the Data Services jobs against the Target in Transform as

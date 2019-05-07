@@ -1,3 +1,8 @@
++++
+title = 'Changes Monthly By Object'
+solution = 'Migration'
++++
+
 # Changes Monthly By Object
 
 This chart displays a count of all monthly changes for all Object types

@@ -1,3 +1,8 @@
++++
+title = 'View Data Services Remediation Rule Information'
+solution = 'Migration'
++++
+
 # View Data Services Remediation Rule Information
 
 The *Target Data Services Remediation Overview* pages are centralized

@@ -1,3 +1,8 @@
++++
+title = 'Access Transform'
+solution = 'Migration'
++++
+
 # Access Transform
 
 Transform is accessible through dspMigrate™ Advanced Data Migration

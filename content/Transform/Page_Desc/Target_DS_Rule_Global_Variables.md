@@ -1,3 +1,8 @@
++++
+title = 'Target Data Services Rule Global Variables'
+solution = 'Migration'
++++
+
 # Target Data Services Rule Global Variables
 
 <div class="use">

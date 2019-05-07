@@ -1,3 +1,8 @@
++++
+title = 'Copy Object'
+solution = 'Migration'
++++
+
 # Copy Object
 
 <div class="use">

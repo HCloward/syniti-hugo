@@ -1,3 +1,8 @@
++++
+title = 'Configure Parameters'
+solution = 'Migration'
++++
+
 # Configure Parameters
 
 Before getting started with Transform, configure the parameters and

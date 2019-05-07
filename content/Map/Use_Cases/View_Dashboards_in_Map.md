@@ -1,3 +1,8 @@
++++
+title = 'View Dashboards in Map'
+solution = 'Migration'
++++
+
 # View Dashboards in Map
 
 The dashboards included with Map provide visibility into:

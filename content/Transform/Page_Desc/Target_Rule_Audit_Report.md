@@ -1,3 +1,8 @@
++++
+title = 'Target Rule (Audit)'
+solution = 'Migration'
++++
+
 # Target Rule (Audit)
 
 This report lists all Target audit reports for all contexts. The record

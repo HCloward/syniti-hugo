@@ -1,3 +1,8 @@
++++
+title = 'Allow Mapping of Utility Columns'
+solution = 'Migration'
++++
+
 # Allow Mapping of Utility Columns
 
 A Utility field does not exist in the Target system, but is used to

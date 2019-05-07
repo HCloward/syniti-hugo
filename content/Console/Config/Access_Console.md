@@ -1,3 +1,8 @@
++++
+title = 'Access Console'
+solution = 'Migration'
++++
+
 # Access Console
 
 When working in components of dspMigrate™ Advanced Data Migration (ADM),

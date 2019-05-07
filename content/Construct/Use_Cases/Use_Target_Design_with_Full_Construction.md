@@ -1,3 +1,8 @@
++++
+title = 'Use Target Design with Full Construction'
+solution = 'Migration'
++++
+
 # Use Target Design with Full Construction
 
 To begin a Full Construction in Target Design, add a Target Source as

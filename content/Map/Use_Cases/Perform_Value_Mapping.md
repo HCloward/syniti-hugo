@@ -1,3 +1,8 @@
++++
+title = 'Perform Value Mapping'
+solution = 'Migration'
++++
+
 # Perform Value Mapping
 
 On the *Value Mapping (Legacy to Target)* page, where value mapping is

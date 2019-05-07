@@ -1,3 +1,8 @@
++++
+title = 'Configure a Data Services Datastore'
+solution = 'Migration'
++++
+
 # Configure a Data Services Datastore
 
 On the *Data Services Datastores Mappings* page, configure the Data

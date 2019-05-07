@@ -1,3 +1,8 @@
++++
+title = 'View Object History'
+solution = 'Migration'
++++
+
 # View Object History
 
 If the database is refreshed and a change has been made to an object,

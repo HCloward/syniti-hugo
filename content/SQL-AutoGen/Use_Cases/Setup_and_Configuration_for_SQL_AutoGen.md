@@ -1,3 +1,8 @@
++++
+title = 'Setup and Configuration for SQL AutoGen'
+solution = 'Migration'
++++
+
 # Setup and Configuration for SQL AutoGen
 
 SQL AutoGen creates basic objects used by the migration process (tables,

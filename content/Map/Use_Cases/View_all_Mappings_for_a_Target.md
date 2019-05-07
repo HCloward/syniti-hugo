@@ -1,3 +1,8 @@
++++
+title = 'View All Mappings for a Target'
+solution = 'Migration'
++++
+
 # View All Mappings for a Target
 
 The Target Source Rule Book displays field mapping details for all

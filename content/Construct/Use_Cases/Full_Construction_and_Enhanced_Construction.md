@@ -1,3 +1,8 @@
++++
+title = 'Full Construction and Enrichment Construction'
+solution = 'Migration'
++++
+
 # Full Construction and Enrichment Construction
 
 Construct allows users to efficiently construct missing data and

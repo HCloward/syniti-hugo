@@ -1,3 +1,8 @@
++++
+title = 'Set up Data Sources for Transform'
+solution = 'Migration'
++++
+
 # Set up Data Sources for Transform
 
 An Administration must set up data sources in System Administration

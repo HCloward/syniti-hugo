@@ -1,3 +1,8 @@
++++
+title = 'Summary Type By Wave & Process Area'
+solution = 'Migration'
++++
+
 # Summary Type By Wave & Process Area
 
 This chart displays the count for Object types contained in all Targets

@@ -1,3 +1,8 @@
++++
+title = 'Add Target Data Services Rules'
+solution = 'Migration'
++++
+
 # Add Target Data Services Rules
 
 A Target Data Services rule cleans and manipulates data before it is

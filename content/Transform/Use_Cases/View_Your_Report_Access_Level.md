@@ -1,3 +1,8 @@
++++
+title = 'View Your Report Access Level'
+solution = 'Migration'
++++
+
 # View Your Report Access Level
 
 A Business user can view whether a report has sensitive data and whether

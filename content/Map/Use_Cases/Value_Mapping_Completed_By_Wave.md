@@ -1,3 +1,8 @@
++++
+title = 'Value Mapping Completed by Wave'
+solution = 'Migration'
++++
+
 # Value Mapping Completed by Wave
 
 This chart displays the number of value mappings that are in process and

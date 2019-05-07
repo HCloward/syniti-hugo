@@ -1,3 +1,8 @@
++++
+title = 'Use Field Groups'
+solution = 'Migration'
++++
+
 # Use Field Groups
 
 Field groups are filters used to create subsets of data in a Target

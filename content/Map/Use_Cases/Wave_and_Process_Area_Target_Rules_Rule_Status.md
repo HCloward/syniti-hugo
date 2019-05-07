@@ -1,3 +1,8 @@
++++
+title = 'Wave & Process Area Target Rules: Rule Status'
+solution = 'Migration'
++++
+
 # Wave & Process Area Target Rules: Rule Status
 
 This chart displays the rule status (in process or complete) of all

@@ -1,3 +1,8 @@
++++
+title = 'Add Report Types'
+solution = 'Migration'
++++
+
 # Add Report Types
 
 <span id="Report Type" class="popUpLink">Report types</span> are used on

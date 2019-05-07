@@ -1,3 +1,8 @@
++++
+title = 'Add Target Reports'
+solution = 'Migration'
++++
+
 # Add Target Reports
 
 A Target report is a view built in SQL and stored in the Target table.

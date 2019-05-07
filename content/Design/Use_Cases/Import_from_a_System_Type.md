@@ -1,3 +1,8 @@
++++
+title = 'Import From a System Type'
+solution = 'Migration'
++++
+
 # Import From a System Type
 
 The design of a Target can be imported from a System Type, which

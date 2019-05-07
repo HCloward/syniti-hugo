@@ -1,3 +1,8 @@
++++
+title = 'Perform Value Mapping Overview'
+solution = 'Migration'
++++
+
 # Perform Value Mapping Overview
 
 In value mapping, an individual value in a Source field is configured to

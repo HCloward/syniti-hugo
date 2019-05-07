@@ -1,3 +1,8 @@
++++
+title = 'Reset A Mapping'
+solution = 'Migration'
++++
+
 # Reset A Mapping
 
 After a mapping has been submitted in Map, it can be reset in SQL

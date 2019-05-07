@@ -1,3 +1,8 @@
++++
+title = 'Configure Sample Size'
+solution = 'Migration'
++++
+
 # Configure Sample Size
 
 A sample size is used with a sampling method on Target audit reports to

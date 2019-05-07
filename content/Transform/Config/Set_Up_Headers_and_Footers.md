@@ -1,3 +1,8 @@
++++
+title = 'Set Up Headers and Footers for Transform Reports'
+solution = 'Migration'
++++
+
 # Set Up Headers and Footers for Transform Reports
 
 The headers and footers that display on Transform reports can be

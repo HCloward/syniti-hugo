@@ -1,3 +1,8 @@
++++
+title = 'Configure Object Estimates'
+solution = 'Migration'
++++
+
 # Configure Object Estimates
 
 Object Estimates are factors used in calculating the estimates in

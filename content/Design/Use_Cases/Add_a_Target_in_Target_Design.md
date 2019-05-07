@@ -1,3 +1,8 @@
++++
+title = 'Add a Target'
+solution = 'Migration'
++++
+
 # Add a Target
 
 While the easiest method to add a Target table is through import, a user

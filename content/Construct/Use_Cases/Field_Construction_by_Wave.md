@@ -1,3 +1,8 @@
++++
+title = 'Field Construction by Wave'
+solution = 'Migration'
++++
+
 # Field Construction by Wave
 
 This chart displays the summary construction status of the number of

@@ -1,3 +1,8 @@
++++
+title = 'Sample Sizes (Setup)'
+solution = 'Migration'
++++
+
 # Sample Sizes (Setup)
 
 <div class="use">

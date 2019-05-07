@@ -1,3 +1,8 @@
++++
+title = 'Change Summary Dashboard'
+solution = 'Migration'
++++
+
 # Change Summary Dashboard
 
 <span style="font-weight: bold;">NOTE:</span> Before data displays on

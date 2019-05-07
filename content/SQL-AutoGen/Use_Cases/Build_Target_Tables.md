@@ -1,3 +1,8 @@
++++
+title = 'Build Target Tables'
+solution = 'Migration'
++++
+
 # Build Target Tables
 
 Target tables can be built using SQL AutoGen after targets have been

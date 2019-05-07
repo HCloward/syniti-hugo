@@ -1,3 +1,8 @@
++++
+title = 'Add an Assemble Where Clause'
+solution = 'Migration'
++++
+
 # Add an Assemble Where Clause
 
 An Assemble Where Clause can be added to be included in an CranPort

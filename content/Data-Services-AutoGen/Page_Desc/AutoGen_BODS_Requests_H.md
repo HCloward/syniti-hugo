@@ -1,3 +1,8 @@
++++
+title = 'AutoGen BODS Requests H'
+solution = 'Migration'
++++
+
 # AutoGen BODS Requests H
 
 [AutoGen BODS Requests V](#AutoGen_BODS_Requests_V)

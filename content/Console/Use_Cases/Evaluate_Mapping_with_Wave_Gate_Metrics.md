@@ -1,3 +1,8 @@
++++
+title = 'Evaluate Mapping with Wave Gate Metrics'
+solution = 'Migration'
++++
+
 # Evaluate Mapping with Wave Gate Metrics
 
 There are two types of gate metrics for Map:

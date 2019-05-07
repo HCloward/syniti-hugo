@@ -1,3 +1,8 @@
++++
+title = 'Configure Import / Export Types'
+solution = 'Migration'
++++
+
 # Configure Import / Export Types
 
 The Import/Export Type controls how data is imported into Transform or

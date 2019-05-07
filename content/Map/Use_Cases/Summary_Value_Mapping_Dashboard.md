@@ -1,3 +1,8 @@
++++
+title = 'Summary Value Mapping Dashboard'
+solution = 'Migration'
++++
+
 # Summary Value Mapping Dashboard
 
 In value mapping, an individual value in a source field is configured to

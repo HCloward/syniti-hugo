@@ -1,3 +1,8 @@
++++
+title = 'Configure Score Card Limits'
+solution = 'Migration'
++++
+
 # Configure Score Card Limits
 
 A Score Card Limit defines the severity status of an object based on

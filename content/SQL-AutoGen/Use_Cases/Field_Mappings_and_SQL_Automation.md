@@ -1,3 +1,8 @@
++++
+title = 'Field Mappings and SQL AutoGen'
+solution = 'Migration'
++++
+
 # Field Mappings and SQL AutoGen
 
 After mappings are submitted on the *Field Mappings* page, they are used

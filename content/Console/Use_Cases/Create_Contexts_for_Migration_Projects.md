@@ -1,3 +1,8 @@
++++
+title = 'Create the Contexts for Migration Projects'
+solution = 'Migration'
++++
+
 # Create the Contexts for Migration Projects
 
 A wave and process are combination are called a Context.

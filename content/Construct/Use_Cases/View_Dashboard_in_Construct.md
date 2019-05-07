@@ -1,3 +1,8 @@
++++
+title = 'View the Dashboard in Construct'
+solution = 'Migration'
++++
+
 # View the Dashboard in Construct
 
 These charts display the summary status of the number of fields in the

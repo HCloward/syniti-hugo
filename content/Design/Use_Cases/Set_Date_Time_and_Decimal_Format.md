@@ -1,3 +1,8 @@
++++
+title = 'Set Date, Time, and Decimal Formats'
+solution = 'Migration'
++++
+
 # Set Date, Time, and Decimal Formats
 
 In Target Design, on the

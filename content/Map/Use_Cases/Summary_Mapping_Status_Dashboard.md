@@ -1,3 +1,8 @@
++++
+title = 'Summary Mapping Status Dashboards'
+solution = 'Migration'
++++
+
 # Summary Mapping Status Dashboards
 
 The charts on this dashboard display a summary of mapping status and

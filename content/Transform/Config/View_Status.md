@@ -1,3 +1,8 @@
++++
+title = 'View Status'
+solution = 'Migration'
++++
+
 # View Status
 
 Transform is delivered with predefined status types. A status is used to

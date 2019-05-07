@@ -1,3 +1,8 @@
++++
+title = 'Set up and Register the Object Database (dsw\*)'
+solution = 'Migration'
++++
+
 # Set up and Register the Object Database (dsw\*)
 
 **NOTE**: Databases should not be added before consulting the on-site

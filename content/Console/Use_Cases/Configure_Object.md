@@ -1,3 +1,8 @@
++++
+title = 'Configure an Object'
+solution = 'Migration'
++++
+
 # Configure an Object
 
 A migration object is assigned to a Wave-Process Area

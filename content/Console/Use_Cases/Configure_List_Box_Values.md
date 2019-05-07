@@ -1,3 +1,8 @@
++++
+title = 'Configure List Box Values'
+solution = 'Migration'
++++
+
 # Configure List Box Values
 
 List Box Values are lookup values that drive the list box options for

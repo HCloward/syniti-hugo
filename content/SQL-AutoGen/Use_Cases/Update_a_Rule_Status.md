@@ -1,3 +1,8 @@
++++
+title = 'Update a Rule Status'
+solution = 'Migration'
++++
+
 # Update a Rule Status
 
 A Developer can update the Rule Status on the

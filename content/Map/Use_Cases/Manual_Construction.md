@@ -1,3 +1,8 @@
++++
+title = 'Manual Construction'
+solution = 'Migration'
++++
+
 # Manual Construction
 
 The Manual Construction action is used when a rule is too complex to be

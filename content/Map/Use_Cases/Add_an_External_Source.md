@@ -1,3 +1,8 @@
++++
+title = 'Add an External Source'
+solution = 'Migration'
++++
+
 # Add an External Source
 
 An External Source is an Update Row Source that is external to the

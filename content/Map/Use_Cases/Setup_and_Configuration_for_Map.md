@@ -1,3 +1,8 @@
++++
+title = 'Setup and Configuration for Map'
+solution = 'Migration'
++++
+
 # Setup and Configuration for Map
 
 Before getting started with Map, verify the following steps have been

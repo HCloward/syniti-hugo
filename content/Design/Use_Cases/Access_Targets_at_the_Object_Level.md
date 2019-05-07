@@ -1,3 +1,8 @@
++++
+title = 'Access Targets at the Object Level'
+solution = 'Migration'
++++
+
 # Access Targets at the Object Level
 
 In Console, Objects are added and assigned to a Wave-Process Area to

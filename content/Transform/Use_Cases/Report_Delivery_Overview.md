@@ -1,3 +1,8 @@
++++
+title = 'Report Delivery Overview'
+solution = 'Migration'
++++
+
 # Report Delivery Overview
 
 Report Delivery allows Business users who do not typically log in to the

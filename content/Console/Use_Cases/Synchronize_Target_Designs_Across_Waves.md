@@ -1,3 +1,8 @@
++++
+title = 'Synchronize Target Designs Across Waves'
+solution = 'Migration'
++++
+
 # Synchronize Target Designs Across Waves
 
 A Migration Developer can compare the target design across Waves,

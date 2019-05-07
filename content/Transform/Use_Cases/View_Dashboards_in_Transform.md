@@ -1,3 +1,8 @@
++++
+title = 'View Dashboards in Transform'
+solution = 'Migration'
++++
+
 # View Dashboards in Transform
 
 The Rule Report Summary dashboard displays a count of active Source

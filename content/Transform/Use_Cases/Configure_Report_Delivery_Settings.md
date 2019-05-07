@@ -1,3 +1,8 @@
++++
+title = 'Configure Report Delivery Settings'
+solution = 'Migration'
++++
+
 # Configure Report Delivery Settings
 
 In Console on the *[Parameters](../../Console/Page_Desc/Parameters.htm)*

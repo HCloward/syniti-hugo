@@ -1,3 +1,8 @@
++++
+title = 'Copy a Target Source to Another Target'
+solution = 'Migration'
++++
+
 # Copy a Target Source to Another Target
 
 Once a Source is configured in Target Design and synced to Map, field

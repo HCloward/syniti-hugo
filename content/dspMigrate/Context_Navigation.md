@@ -1,3 +1,8 @@
++++
+title = 'Context, the Context Bar, and Navigation in dspMigrate™ Advanced Data Migration (ADM)'
+solution = 'Migration'
++++
+
 # Context, the Context Bar, and Navigation in dspMigrate™ Advanced Data Migration (ADM)
 
 Use Console to create a context, which is the combination of a Wave and

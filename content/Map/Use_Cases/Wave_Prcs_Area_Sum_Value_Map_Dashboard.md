@@ -1,3 +1,8 @@
++++
+title = 'Wave and Process Area Summary Value Mapping Dashboard'
+solution = 'Migration'
++++
+
 # Wave and Process Area Summary Value Mapping Dashboard
 
 In value mapping, an individual value in a Source field is configured to

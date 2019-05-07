@@ -1,3 +1,8 @@
++++
+title = 'Configure Report Delivery'
+solution = 'Migration'
++++
+
 # Configure Report Delivery
 
 An Administrator configures Report Delivery so that Business Users can

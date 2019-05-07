@@ -1,3 +1,8 @@
++++
+title = 'Register Target Remediation Rules'
+solution = 'Migration'
++++
+
 # Register Target Remediation Rules
 
 Target Remediation allows a remediation rule to be registered to an

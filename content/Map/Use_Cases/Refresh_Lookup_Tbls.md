@@ -1,3 +1,8 @@
++++
+title = 'Refresh Lookup Tables'
+solution = 'Migration'
++++
+
 # Refresh Lookup Tables
 
 When changes to lookup tables are saved in Target Design, those changes

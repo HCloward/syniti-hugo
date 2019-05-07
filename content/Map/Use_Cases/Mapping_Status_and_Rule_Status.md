@@ -1,3 +1,8 @@
++++
+title = 'Mapping Status and Rule Status'
+solution = 'Migration'
++++
+
 # Mapping Status and Rule Status
 
 ## <span id="How_Statuses_Change_During_the_Mapping_Approvals_Process"></span>How Statuses Change During the Mapping Approvals Process

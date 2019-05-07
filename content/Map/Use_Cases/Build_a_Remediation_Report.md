@@ -1,3 +1,8 @@
++++
+title = 'Build a Remediation Report'
+solution = 'Migration'
++++
+
 # Build a Remediation Report
 
 During a mock load to test a data migration implementation, build a

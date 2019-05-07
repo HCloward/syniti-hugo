@@ -1,3 +1,8 @@
++++
+title = 'Field Mapping Changes Week by Wave & Process Area'
+solution = 'Migration'
++++
+
 # Field Mapping Changes Week by Wave & Process Area
 
 This chart displays the number of weekly changes made to field mappings

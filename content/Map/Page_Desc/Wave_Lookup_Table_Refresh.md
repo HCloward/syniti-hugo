@@ -1,3 +1,8 @@
++++
+title = 'Wave Lookup Table Refresh'
+solution = 'Migration'
++++
+
 # Wave Lookup Table Refresh
 
 <div class="use">

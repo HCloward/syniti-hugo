@@ -1,3 +1,8 @@
++++
+title = 'Set Up Security for dspMigrate™ Advanced Data Migration (ADM)'
+solution = 'Migration'
++++
+
 # Set Up Security for dspMigrate™ Advanced Data Migration (ADM)
 
 To set up security for dspMigrate™ Advanced Data Migration (ADM)an

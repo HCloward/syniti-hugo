@@ -1,3 +1,8 @@
++++
+title = ''
+solution = 'Migration'
++++
+
 # <span lang="X-NONE">Set up a System Type for the Legacy System</span>
 
 Add System Types along with System Type tables and fields in Common.

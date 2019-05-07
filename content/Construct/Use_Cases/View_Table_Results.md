@@ -1,3 +1,8 @@
++++
+title = 'View Table Results'
+solution = 'Migration'
++++
+
 # View Table Results
 
 Results for profiled data sources can be viewed for individual tables.

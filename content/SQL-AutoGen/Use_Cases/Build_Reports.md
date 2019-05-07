@@ -1,3 +1,8 @@
++++
+title = 'Build Reports'
+solution = 'Migration'
++++
+
 # Build Reports
 
 SQL AutoGen can build target and source reports and reports with

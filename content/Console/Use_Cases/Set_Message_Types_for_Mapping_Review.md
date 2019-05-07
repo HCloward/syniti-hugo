@@ -1,3 +1,8 @@
++++
+title = 'Set Message Types for Mapping Review'
+solution = 'Migration'
++++
+
 # Set Message Types for Mapping Review
 
 When a mapping is submitted or reset on the *[Field
