@@ -21,7 +21,7 @@ To copy a Target in Target Design:
 1.  Select **Design** in the *Navigation* pane.
 
 2.  Click the **Objects** icon on the
-    *[Design](../Page_Desc/Design.htm)* page.
+    *[Design](../Page_Desc/Design)* page.
 
 3.  Click the **Copy Targets** icon for an Object.
 
@@ -29,7 +29,7 @@ To copy a Target in Target Design:
     
     [View the field descriptions for the Select Destination Object for
     Targets
-    page](../Page_Desc/Select_Destination_Object_for_Targets.htm)
+    page](../Page_Desc/Select_Destination_Object_for_Targets)
 
 5.  Select an Object in the **Destination Object** list box.
     
@@ -48,12 +48,12 @@ To copy a Target in Target Design:
     should be copied.
 
 9.  Click **Back** to return to the *[Select Destination Object for
-    Targets](../Page_Desc/Select_Destination_Object_for_Targets.htm)*
+    Targets](../Page_Desc/Select_Destination_Object_for_Targets)*
     page.
     
     **NOTE**: The number on the Targets to Copy button indicates the
     number of Targets selected on the *[Copy
-    Targets](../Page_Desc/Copy_Targets.htm)* page.
+    Targets](../Page_Desc/Copy_Targets)* page.
 
 10. Click **Copy Targets**.
     
@@ -72,7 +72,7 @@ To access the copy of the Target:
     icon.
 
 The Target displays on the
-<span style="font-style: italic;">[Targets](../Page_Desc/Targets_H_Design.htm)</span>
+<span style="font-style: italic;">[Targets](../Page_Desc/Targets_H_Design)</span>
 page with the original Target name appended by \_copy.
 
 <span style="font-weight: bold;">NOTE</span>: If multiple copies of the

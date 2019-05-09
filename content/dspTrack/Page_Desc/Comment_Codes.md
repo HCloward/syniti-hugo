@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Add Comment
-Codes](../Use_Cases/Add_Comment_Codes.htm).
+Codes](../Use_Cases/Add_Comment_Codes).
 
 </div>
 

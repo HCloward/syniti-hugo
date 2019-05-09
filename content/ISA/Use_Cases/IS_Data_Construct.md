@@ -114,5 +114,5 @@ Add the rule to a project distribution so that users can receive reports
 based on the data that failed the rules (i.e., materials with a color
 that has fallen below the count for minimum safety stock). Refer to [Add
 Rules to a Project
-Distribution](Add_Rules_to_a_Project_Distribution.htm) for more
+Distribution](Add_Rules_to_a_Project_Distribution) for more
 information.

@@ -25,7 +25,7 @@ To configure conditional records on the *GUI Script Data* page:
 3.  Click **Conditionals** button.
     
     *[View the field descriptions for the GUI Script Conditionals
-    page.](../Page_Desc/GUI_Script_Conditionals.htm)*
+    page.](../Page_Desc/GUI_Script_Conditionals)*
 
 4.  <span style="font-family: Arial, sans-serif;">Select a field from
     **CONDITIONAL FIELD NAME** list box.</span>

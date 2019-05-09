@@ -25,7 +25,7 @@ server):
 3.  Click **Edit**.
     
     *[View the field descriptions for the Process Post page’s Vertical
-    View.](../Page_Desc/Process_Post_H.htm#Process_Post_V_All_Tabs)*
+    View.](../Page_Desc/Process_Post_H#Process_Post_V_All_Tabs)*
 
 4.  Click **Advanced** tab.
 

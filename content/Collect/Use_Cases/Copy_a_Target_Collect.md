@@ -15,7 +15,7 @@ To copy a target:
 
 1.  Establish a connection to the new target database in the connection
     table and in Common. Refer to [Register a Data Source in
-    Common](../../Common/Use_Cases/Register_a_Data_Source_in_Common.htm)
+    Common](../../Common/Use_Cases/Register_a_Data_Source_in_Common)
     for detailed information.
 
 2.  Select **Tools \> Copy Targets** in the *Navigation* pane.
@@ -23,7 +23,7 @@ To copy a target:
 3.  Click **Edit**.
     
     [View the field descriptions for the Copy Targets
-    page](Copy_a_Target_Collect.htm)
+    page](Copy_a_Target_Collect)
 
 4.  Select a database from **Target From** list box, where tables, rules
     and indices are currently configured.

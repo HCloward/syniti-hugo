@@ -17,7 +17,7 @@ Retention Interval if the defaults are not appropriate.
 **NOTE**: These request statuses were installed with the platform cannot
 be deleted. A user can modify these statuses and add new statuses.
 
-Refer to [Change Request Status](../Use_Cases/Change_Request_Status.htm)
+Refer to [Change Request Status](../Use_Cases/Change_Request_Status)
 for more information.
 
 To configure request statuses:
@@ -29,7 +29,7 @@ To configure request statuses:
     status.</span>**
     
     *[View the field descriptions for the Request Status
-    page.](../Page_Desc/Request_Status.htm)*
+    page.](../Page_Desc/Request_Status)*
 
 3.  Enter a description of the status in **DESCRIPTION** field,
     <span style="font-family: Arial, sans-serif;">e.g., Posting

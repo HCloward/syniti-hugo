@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [View History of an
-Interface](../Use_Cases/View_History_of_an_Interface.htm).
+Interface](../Use_Cases/View_History_of_an_Interface).
 
 </div>
 
@@ -56,7 +56,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Events</p></td>
-<td><p>Click to open the <em><a href="Monitor_Events.htm">Monitor (Events)</a></em> page to view and interact with interface events that are currently running or that have failed.</p></td>
+<td><p>Click to open the <em><a href="Monitor_Events">Monitor (Events)</a></em> page to view and interact with interface events that are currently running or that have failed.</p></td>
 </tr>
 </tbody>
 </table>
@@ -108,11 +108,11 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Retry Count</p></td>
-<td><p>Displays how many times the interface tried again until the retry time allotment has passed or the event is successful. Event must be set up with Retry Parameters. Refer to <a href="../Use_Cases/Set_Retry_Parameters.htm">Set Retry Parameters</a> for more information.</p></td>
+<td><p>Displays how many times the interface tried again until the retry time allotment has passed or the event is successful. Event must be set up with Retry Parameters. Refer to <a href="../Use_Cases/Set_Retry_Parameters">Set Retry Parameters</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Events</p></td>
-<td><p>Click to open the <em><a href="Monitor_Events.htm">Monitor (Events)</a></em> page to view and interact with interface events that are currently running or that have failed.</p></td>
+<td><p>Click to open the <em><a href="Monitor_Events">Monitor (Events)</a></em> page to view and interact with interface events that are currently running or that have failed.</p></td>
 </tr>
 </tbody>
 </table>

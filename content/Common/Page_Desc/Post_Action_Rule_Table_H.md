@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Add Post Action
-Rules](../Use_Cases/Add_Post_Action_Table_Rules.htm).
+Rules](../Use_Cases/Add_Post_Action_Table_Rules).
 
 </div>
 
@@ -29,12 +29,12 @@ pane.
 
 ## <span id="Post_Action_Rule_Table_V"></span>Post Action Rule Table V
 
-[Post Action Rule Table H](Post_Action_Rule_Table_H.htm)
+[Post Action Rule Table H](Post_Action_Rule_Table_H)
 
 <div class="use">
 
 Use this page to [Add Post Action
-Rules](../Use_Cases/Add_Post_Action_Table_Rules.htm).
+Rules](../Use_Cases/Add_Post_Action_Table_Rules).
 
 </div>
 

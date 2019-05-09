@@ -6,19 +6,19 @@ solution = 'Migration'
 # Wave Compare for Process Area Results H
 
 [Wave Compare for Process Area Results
-V](Wave_Compare_for_Process_Area_Results_H.htm#Wave_Compare_for_Process_Area_Results_V)
+V](Wave_Compare_for_Process_Area_Results_H#Wave_Compare_for_Process_Area_Results_V)
 
 <div class="use" data-xmlns="">
 
 Use this page to [Synchronize Target Designs Across
-Waves](../Use_Cases/Synchronize_Target_Designs_Across_Waves.htm).
+Waves](../Use_Cases/Synchronize_Target_Designs_Across_Waves).
 
 </div>
 
 **NOTE**: This page is only accessible if the current user is a member
 of the WebApp group WaveSynchronizer in Console or is assigned to a
 security role with access to the page. Refer to [Set
-Security](../../../Platform/Sys_Admin/Use_Cases/Setting_security.htm) in
+Security](../../../Platform/Sys_Admin/Use_Cases/Setting_security) in
 System Administration for more information.
 
 To access this page:
@@ -78,15 +78,15 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Objects</p></td>
-<td><p>Click to open the <em><a href="Wave_Compare_for_Object_Results_H.htm">Wave Compare for Object Results</a></em> page to review differences and sync the baseline and child Wave Target design at the Object level.</p></td>
+<td><p>Click to open the <em><a href="Wave_Compare_for_Object_Results_H">Wave Compare for Object Results</a></em> page to review differences and sync the baseline and child Wave Target design at the Object level.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Targets</p></td>
-<td><p>Click to open the <em><a href="Wave_Compare_for_Target_Results.htm">Wave Compare for Target Result</a>s</em> page to review differences and sync the baseline and child Wave Target design at the Target level.</p></td>
+<td><p>Click to open the <em><a href="Wave_Compare_for_Target_Results">Wave Compare for Target Result</a>s</em> page to review differences and sync the baseline and child Wave Target design at the Target level.</p></td>
 </tr>
 <tr class="even">
 <td><p>Fields</p></td>
-<td><p>Click to open the <em><a href="Wave_Compare_for_Target_Field_Results.htm">Wave Compare for Target Field Results</a></em> page to review differences and sync the baseline and child Wave Target design at the Target field level.</p></td>
+<td><p>Click to open the <em><a href="Wave_Compare_for_Target_Field_Results">Wave Compare for Target Field Results</a></em> page to review differences and sync the baseline and child Wave Target design at the Target field level.</p></td>
 </tr>
 </tbody>
 </table>
@@ -94,7 +94,7 @@ To access this page:
 ## <span id="Wave_Compare_for_Process_Area_Results_V"></span>Wave Compare for Process Area Results V
 
 [Wave Compare for Process Area Results
-H](Wave_Compare_for_Process_Area_Results_H.htm)
+H](Wave_Compare_for_Process_Area_Results_H)
 
 |                  |                                                                                                                                                                      |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

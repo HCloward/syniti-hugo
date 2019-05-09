@@ -5,12 +5,12 @@ solution = 'Migration'
 
 # Target Lookup Table H
 
-[Target Lookup Table V](Target_Lookup_Table_H.htm#Target_Lookup_Table_V)
+[Target Lookup Table V](Target_Lookup_Table_H#Target_Lookup_Table_V)
 
 <div class="use">
 
 Use this page to [Set up Lookup
-Tables](../Use_Cases/Set_up_Lookup_Tables.htm).
+Tables](../Use_Cases/Set_up_Lookup_Tables).
 
 </div>
 
@@ -32,7 +32,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Value Mapping (Config)</p></td>
-<td><p>Click to open the <em><a href="../../Map/Page_Desc/Value_Mapping_Config_H.htm">Value Mapping (Config)</a></em> page in Map to refresh lookup table values after changers to configuration of a lookup table.</p></td>
+<td><p>Click to open the <em><a href="../../Map/Page_Desc/Value_Mapping_Config_H">Value Mapping (Config)</a></em> page in Map to refresh lookup table values after changers to configuration of a lookup table.</p></td>
 </tr>
 <tr class="odd">
 <td><p>VALUE TABLE NAME</p></td>
@@ -48,13 +48,13 @@ To access this page:
 <p>Displays the key in a value table with a single key.</p>
 <p>If more than one Value Table Column is entered for a table, one column name must be selected in the MULTI FIELD LOOKUP TABLE VALUE COLUMN on the <em>Vertical</em> View because tables with multipart keys require a column to be selected for the update rule.</p>
 <p>For example, a lookup table for a city must also include the city’s state. In this case, the Value Table Column1 field contains the State column and the Value Table Column2 field contains the City column. The MULTI FIELD LOOKUP TABLE VALUE COLUMN uses the City column as the key, as the City column is what is being value mapped.</p>
-<p>This value displays in Map in the Value Field1 field on the <span style="font-style: italic;">Vertical</span> View of the <span style="font-style: italic;"><a href="../../Map/Page_Desc/Value_Mapping_Config_H.htm">Value Mapping (Config)</a></span> page.</p></td>
+<p>This value displays in Map in the Value Field1 field on the <span style="font-style: italic;">Vertical</span> View of the <span style="font-style: italic;"><a href="../../Map/Page_Desc/Value_Mapping_Config_H">Value Mapping (Config)</a></span> page.</p></td>
 </tr>
 <tr class="even">
 <td><p>VALUE TABLE COLUMN 2</p></td>
 <td><p>Displays the second key in a value table with a multipart key.</p>
 <p>If more than one Value Table Column is entered for a table, one column name must be selected in the MULTI FIELD LOOKUP TABLE VALUE COLUMN on the <em>Vertical</em> View because tables with multipart keys require a column to be selected for the update rule.</p>
-<p>This value displays in Map in the Value Field2 field on the <span style="font-style: italic;">Vertical</span> View of the <span style="font-style: italic;"> <a href="../../Map/Page_Desc/Value_Mapping_Config_H.htm">Value Mapping (Config)</a></span> page.</p></td>
+<p>This value displays in Map in the Value Field2 field on the <span style="font-style: italic;">Vertical</span> View of the <span style="font-style: italic;"> <a href="../../Map/Page_Desc/Value_Mapping_Config_H">Value Mapping (Config)</a></span> page.</p></td>
 </tr>
 <tr class="odd">
 <td><p>VALUE TABLE CLIENT COLUMN</p></td>
@@ -68,12 +68,12 @@ To access this page:
 <tr class="odd">
 <td><p>DESCRIPTION TABLE NAME</p></td>
 <td><p>Displays the name of the table that stores the descriptions for the values in the value table.</p>
-<p><strong>NOTE</strong>: This field displays in Map on the Vertical View of the <span style="font-style: italic;"><a href="../../Map/Page_Desc/Value_Mapping_Config_H.htm">Value Mapping (Config)</a></span> page.</p></td>
+<p><strong>NOTE</strong>: This field displays in Map on the Vertical View of the <span style="font-style: italic;"><a href="../../Map/Page_Desc/Value_Mapping_Config_H">Value Mapping (Config)</a></span> page.</p></td>
 </tr>
 <tr class="even">
 <td><p>DESCRIPTION TABLE COLUMN</p></td>
 <td><p><span>Displays the name of the column that stores the descriptions for the values in the value table </span>for a table with a single key.</p>
-<p>This value displays in Map in the Description Field field on the <span style="font-style: italic;">Vertical</span> View of the <span style="font-style: italic;"> <a href="../../Map/Page_Desc/Value_Mapping_Config_H.htm">Value Mapping (Config)</a></span> page.</p></td>
+<p>This value displays in Map in the Description Field field on the <span style="font-style: italic;">Vertical</span> View of the <span style="font-style: italic;"> <a href="../../Map/Page_Desc/Value_Mapping_Config_H">Value Mapping (Config)</a></span> page.</p></td>
 </tr>
 <tr class="odd">
 <td><p>DESCRIPTION TABLE KEY COLUMN</p></td>
@@ -92,12 +92,12 @@ To access this page:
 
 ## <span id="Target_Lookup_Table_V"></span>Target Lookup Table V
 
-[Target Lookup Table H](Target_Lookup_Table_H.htm)
+[Target Lookup Table H](Target_Lookup_Table_H)
 
 <div class="use">
 
 Use this page to [Set up Lookup
-Tables](../Use_Cases/Set_up_Lookup_Tables.htm).
+Tables](../Use_Cases/Set_up_Lookup_Tables).
 
 </div>
 
@@ -125,7 +125,7 @@ Displays a description of the lookup table. This field may be populated
 when a System Type was imported into Target Design, or may have been
 updated by a user. The description displays in Map on the
 <span style="font-style: italic;">[Value
-Mapping](../../Map/Page_Desc/Value_Mapping.htm)</span> page.
+Mapping](../../Map/Page_Desc/Value_Mapping)</span> page.
 
 Value Table Column 1
 
@@ -154,7 +154,7 @@ the update rule.
 This value displays in Map in the Value Field2 field on the
 <span style="font-style: italic;">Vertical</span> View of
 the<span style="font-style: italic;"> [Value Mapping
-(Config)](../../Map/Page_Desc/Value_Mapping_Config_H.htm)</span> page.
+(Config)](../../Map/Page_Desc/Value_Mapping_Config_H)</span> page.
 
 Value Table Column 3
 
@@ -168,7 +168,7 @@ the update rule.
 This value displays in Map in the Value Field3 field on the
 <span style="font-style: italic;">Vertical</span> View of the
 <span style="font-style: italic;">[Value Mapping
-(Config)](../../Map/Page_Desc/Value_Mapping_Config_H.htm)</span> page.
+(Config)](../../Map/Page_Desc/Value_Mapping_Config_H)</span> page.
 
 Value Table Column 4
 
@@ -182,7 +182,7 @@ the update rule.
 This value displays in Map in the Value Field4 field on the
 <span style="font-style: italic;">Vertical</span> View of the
 <span style="font-style: italic;">[Value Mapping
-(Config)](../../Map/Page_Desc/Value_Mapping_Config_H.htm)</span> page.
+(Config)](../../Map/Page_Desc/Value_Mapping_Config_H)</span> page.
 
 Value Table Column 5
 
@@ -195,7 +195,7 @@ the update rule.
 
 This value displays in Map in the Value Field5 field on the *Vertical*
 View of the <span style="font-style: italic;">[Value Mapping
-(Config)](../../Map/Page_Desc/Value_Mapping_Config_H.htm)</span> page.
+(Config)](../../Map/Page_Desc/Value_Mapping_Config_H)</span> page.
 
 **NOTE**: If a table requires more than 5 key fields, a view must be
 written.
@@ -237,7 +237,7 @@ values in the value table.
 This field displays in Map in the Description Field field on the
 <span style="font-style: italic;">Vertical </span> View of
 the<span style="font-style: italic;">[Value Mapping
-(Config)](../../Map/Page_Desc/Value_Mapping_Config_H.htm)</span> page.
+(Config)](../../Map/Page_Desc/Value_Mapping_Config_H)</span> page.
 
 Description Table Key Column
 

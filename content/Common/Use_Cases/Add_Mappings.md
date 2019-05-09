@@ -18,7 +18,7 @@ To add mappings:
 3.  Click **Add**.
     
     [View the field descriptions for the System Types Mappings
-    page](../Page_Desc/System_Types_Mappings.htm)
+    page](../Page_Desc/System_Types_Mappings)
 
 4.  Select a table-field combination within the source system being
     mapped from **SOURCE SYSTEM TYPE TABLE ID** combo box.

@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Add DBMoto
-Functions](../Use_Cases/Add_DBMoto_Functions.htm).
+Functions](../Use_Cases/Add_DBMoto_Functions).
 
 </div>
 
@@ -19,4 +19,4 @@ pane.
 | Field           | Description                                                                                                                       |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | FUNCTION NAME   | Displays the name of the global script function to be used in DBMoto.                                                             |
-| FUNCTION SCRIPT | Displays the global script function. Refer to [Add DBMoto Functions](../Use_Cases/Add_DBMoto_Functions.htm) for more information. |
+| FUNCTION SCRIPT | Displays the global script function. Refer to [Add DBMoto Functions](../Use_Cases/Add_DBMoto_Functions) for more information. |

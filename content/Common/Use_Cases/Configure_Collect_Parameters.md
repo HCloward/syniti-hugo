@@ -17,7 +17,7 @@ To configure Collect parameters:
 2.  Click Edit.
     
     [View the field descriptions for the Parameters-Collect
-    page](../Page_Desc/Parameters_Collect.htm)
+    page](../Page_Desc/Parameters_Collect)
 
 3.  Update all fields if default values are not applicable.
     

@@ -20,7 +20,7 @@ component with Integrate, if the scenario is in any status other than
 Published, the Designer can activate or deactivate the process in
 Integrate as needed to test and troubleshoot the process. Refer to
 [Manage dspConduct™
-Scenarios](../../../Master_Data_Mgmt/dspConduct/Use_Cases/Manage_Scenarios.htm)
+Scenarios](../../../Master_Data_Mgmt/dspConduct/Use_Cases/Manage_Scenarios)
 for more information about working with scenarios in dspConduct™.
 
 To activate or deactivate processes associated with a template:
@@ -35,7 +35,7 @@ To activate or deactivate processes associated with a template:
     added displays on the *Template Processes* page.
     
     *[View the page for the Template Processes
-    page.](../Page_Desc/Template_Processes.htm)*
+    page.](../Page_Desc/Template_Processes)*
 
 4.  Click **Deactivate All** or **ActivateAll** in the Page toolbar to
     change the status of all processes associated with the template.

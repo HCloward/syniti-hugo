@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page while [rejecting a
-request.](../Use_Cases/Reject_a_Request.htm)
+request.](../Use_Cases/Reject_a_Request)
 
 </div>
 
@@ -29,6 +29,6 @@ To access this page:
 |                  |                                                                                                                |
 | ---------------- | -------------------------------------------------------------------------------------------------------------- |
 | Field            | Description                                                                                                    |
-| ROLE ID          | Displays the role associated with the task selected on the [Request Role Task](Request_Role_Task.htm) page.    |
+| ROLE ID          | Displays the role associated with the task selected on the [Request Role Task](Request_Role_Task) page.    |
 | REJECTED         | If enabled the task \> role combination is rejected. If disabled, the task is under review.                    |
 | REJECTION REASON | Displays the reason the Review role rejected the task.  A reject reason must be entered when rejecting a task. |

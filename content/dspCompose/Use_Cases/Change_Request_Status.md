@@ -12,7 +12,7 @@ statuses</span>.
 <span style="font-weight: bold;">NOTE</span>: A rule can be run when a
 request status is changed to Cancelled or Deleted. Refer to [Register
 Rules to Template-level
-Events](Register_Rules_to_Template%20level_Events.htm) for more
+Events](Register_Rules_to_Template%20level_Events) for more
 information.
 
 To delete or cancel a request:
@@ -50,7 +50,7 @@ To change the status of a request:
 2.  Click **Edit** for a request.
     
     *[View the field descriptions for the Change Request Status
-    page](Change_Request_Status.htm)*
+    page](Change_Request_Status)*
 
 3.  Select a status from
     **<span id="dspCompose Request Status" class="popUpLink">REQUEST

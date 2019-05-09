@@ -20,7 +20,7 @@ To register a report to a group:
 3.  Click **Add**.
     
     <span>[View the field descriptions for the Group Reports
-    page](../Page_Desc/Group_Reports_H.htm)</span>
+    page](../Page_Desc/Group_Reports_H)</span>
 
 4.  Select a repository from the **REPOSITORY** list box to indicate
     where the report is located.
@@ -30,7 +30,7 @@ To register a report to a group:
     **NOTE:** All reports in the data source are displayed. Select a
     report that is registered to the report repository. Refer to
     [Register Reports to a Report
-    Repository](Register_Report_Repositories.htm) for more information.
+    Repository](Register_Report_Repositories) for more information.
 
 6.  Click **METRICS** check box to enable it, allowing metrics for the
     group to display under the Dashboard menu.
@@ -43,7 +43,7 @@ To register a report to a group:
 9.  Click **Edit**.
     
     [View the field descriptions for the Group Reports page's Vertical
-    View](../Page_Desc/Group_Reports_H.htm)
+    View](../Page_Desc/Group_Reports_H)
 
 10. Enter a schedule in **Schedule Group** field to run large reports in
     a single thread.

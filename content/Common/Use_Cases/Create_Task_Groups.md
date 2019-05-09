@@ -18,7 +18,7 @@ To create a task group:
 2.  Click **Add.**
     
     [View the field descriptions for the Automation Instruction Task
-    Group page](../Page_Desc/Automation_Instruction_Task_Group.htm)
+    Group page](../Page_Desc/Automation_Instruction_Task_Group)
 
 3.  Enter the name of task group in **NAME** field.
 

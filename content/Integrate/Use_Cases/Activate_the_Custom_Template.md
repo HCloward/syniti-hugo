@@ -11,7 +11,7 @@ system.
 A user must create all of the associated files and code to support the
 Custom template.
 
-After [creating a template,](Create_a_Custom_Template_Integrate.htm) but
+After [creating a template,](Create_a_Custom_Template_Integrate) but
 before a template can be added to a process, it must be activated.
 
 To activate a template:
@@ -33,4 +33,4 @@ Once a template is activated, it cannot be edited until it is
 deactivated.
 
 Continue with [Assign the Custom Template to a
-Process](Add_the_Custom_Template_to_a_Process.htm).
+Process](Add_the_Custom_Template_to_a_Process).

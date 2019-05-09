@@ -15,7 +15,7 @@ Click a chart bar to drill down to the Request Created-Completed
 Scenario Type Metrics chart.
 
 Refer to <span>[View Charts in
-dspConduct™](../Use_Cases/View_Charts.htm)</span> for general
+dspConduct™](../Use_Cases/View_Charts)</span> for general
 information about chart features.
 
 To access this chart in dspConduct<span>™ </span>select **dspConduct \>

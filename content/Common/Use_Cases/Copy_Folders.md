@@ -17,7 +17,7 @@ To copy a folder:
     <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Toolkit: File/Folder Operations
-    page](../Page_Desc/Toolkit_File_Folder_Operations_H.htm)
+    page](../Page_Desc/Toolkit_File_Folder_Operations_H)
 
 2.  Enter a source directory where folder currently exists in **IO COPY
     SOURCE** field.
@@ -29,7 +29,7 @@ To copy a folder:
     <span style="font-style: italic;">Vertical</span> View displays.
     
     [View the field descriptions for the Toolkit: File/Folder Operations
-    page](../Page_Desc/Toolkit_File_Folder_Operations_H.htm)
+    page](../Page_Desc/Toolkit_File_Folder_Operations_H)
 
 5.  Enter a filter to narrow down the files copied in **IO Copy Mask**
     field, e.g., **\*.zip** to only copy zip files.

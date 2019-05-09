@@ -8,7 +8,7 @@ solution = 'Data Quality'
 <div class="use">
 
 Use this page to [Create a Template from an Integrate
-Template](Create_a_Tempate_from_an_Integrate_Template.htm).
+Template](Create_a_Tempate_from_an_Integrate_Template).
 
 </div>
 

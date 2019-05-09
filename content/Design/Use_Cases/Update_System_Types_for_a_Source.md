@@ -20,9 +20,9 @@ If the mapping has been completed for the wrong System Type, the fields
 for the correct System Type may differ from the wrong one, requiring
 that fields must be added, updated or removed. To update a System Type
 in this case, use the [Source Where
-Used](../Page_Desc/Source_Where_Used.htm) page. Refer to [Sync Source
+Used](../Page_Desc/Source_Where_Used) page. Refer to [Sync Source
 Data Source-System Types Across all
-Targets](Sync_Data_Source_System_Types_Across_Targets.htm) for more
+Targets](Sync_Data_Source_System_Types_Across_Targets) for more
 information.
 
 To update a Source’s System Type in Target Design:
@@ -34,7 +34,7 @@ To update a Source’s System Type in Target Design:
 2.  Click <span style="font-weight: bold;">Edit</span> for a Source.
     
     [View the field descriptions for the Source
-    page](../Page_Desc/Source_Target_Design.htm)
+    page](../Page_Desc/Source_Target_Design)
 
 3.  Select the System Type from the
     <span style="font-weight: bold;">SYSTEM TYPE ID</span> list box.

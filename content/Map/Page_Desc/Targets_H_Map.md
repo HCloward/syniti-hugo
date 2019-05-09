@@ -12,9 +12,9 @@ solution = 'Migration'
 Use this page to:
 
   - [Sync Map and Target
-    Design](../../Design/Use_Cases/Sync_Map_and_Target_Design_TD.htm)
+    Design](../../Design/Use_Cases/Sync_Map_and_Target_Design_TD)
   - [Build a Remediation
-    Report](../Use_Cases/Build_a_Remediation_Report.htm)
+    Report](../Use_Cases/Build_a_Remediation_Report)
 
 </div>
 
@@ -25,7 +25,7 @@ To access this page:
 2.  Click <span style="font-weight: bold;">Map </span>in the Context
     bar.
 3.  Click the <span style="font-weight: bold;">Targets</span> icon on
-    the *[Process Area Launch](Process_Area_Launch_map.htm)* page.
+    the *[Process Area Launch](Process_Area_Launch_map)* page.
 
 <table>
 <tbody>
@@ -56,36 +56,36 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Sources</p></td>
-<td><p>Click to open the <em><a href="Target_Sources_H_Map.htm">Target Sources</a></em> page to view Sources registered to the Target and to create Sources, to perform field mappings at the Source level, to auto map Sources, to view details about the Target Sources assigned to the current context and to assign relationships for Target Sources.</p></td>
+<td><p>Click to open the <em><a href="Target_Sources_H_Map">Target Sources</a></em> page to view Sources registered to the Target and to create Sources, to perform field mappings at the Source level, to auto map Sources, to view details about the Target Sources assigned to the current context and to assign relationships for Target Sources.</p></td>
 </tr>
 <tr class="even">
 <td><p>Field Groups</p></td>
-<td><p>Click to open the <em><a href="Target_Field_Groups.htm">Target Field Groups</a></em> page to manage field groups.</p>
-<p>Field groups are assigned in Target Design, and allow users to apply filters for mapping based on certain values in a field. Refer to <a href="../../Design/Use_Cases/Work_with_Field_Groups.htm">Work with Field Groups</a> for more information.</p></td>
+<td><p>Click to open the <em><a href="Target_Field_Groups">Target Field Groups</a></em> page to manage field groups.</p>
+<p>Field groups are assigned in Target Design, and allow users to apply filters for mapping based on certain values in a field. Refer to <a href="../../Design/Use_Cases/Work_with_Field_Groups">Work with Field Groups</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Target Rules</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Field_Mappings_H.htm">Field Mappings</a></span> page. Accessed from this icon, the page displays mappings for Target rules only.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Field_Mappings_H">Field Mappings</a></span> page. Accessed from this icon, the page displays mappings for Target rules only.</p></td>
 </tr>
 <tr class="even">
 <td><p>Mappings</p></td>
-<td><p>Click to open the <em><a href="Field_Mappings_H.htm">Field Mappings</a></em> page to submit and reset field mappings for all fields in the context, to view the history for a selected mapping, or to view mapping details. A number does not display on this button if no field mappings have been activated for the current context.</p></td>
+<td><p>Click to open the <em><a href="Field_Mappings_H">Field Mappings</a></em> page to submit and reset field mappings for all fields in the context, to view the history for a selected mapping, or to view mapping details. A number does not display on this button if no field mappings have been activated for the current context.</p></td>
 </tr>
 </tbody>
 </table>
 
 ## <span id="Targets_V"></span>Targets V
 
-[Targets H](Targets_H_Map.htm)
+[Targets H](Targets_H_Map)
 
 Use this page to:
 
 <div class="use">
 
   - [Sync Map and Target
-    Design](../../Design/Use_Cases/Sync_Map_and_Target_Design_TD.htm)
+    Design](../../Design/Use_Cases/Sync_Map_and_Target_Design_TD)
   - [Build a Remediation
-    Report](../Use_Cases/Build_a_Remediation_Report.htm)
+    Report](../Use_Cases/Build_a_Remediation_Report)
 
 </div>
 
@@ -95,20 +95,20 @@ Description
 
 Copy To
 
-Click to open the *[Target Source Copy To](Target_Source_Copy_To.htm)*
+Click to open the *[Target Source Copy To](Target_Source_Copy_To)*
 page to copy mappings from the current Target rule to another Target
 rule combination.
 
 Export Field Mappings
 
-Click to open the [Export Field Mappings](Export_Field_Mappings.htm)
+Click to open the [Export Field Mappings](Export_Field_Mappings)
 page to export Target rule mappings with a MAPPING STATUS and a RULE
 STATUS of Complete on the Field Mappings page to the Common System
 Tables to be imported into Waves and other Process Areas.
 
 Import Field Mappings
 
-Click to open the *[Import Field Mappings](Import_Field_Mappings.htm)*
+Click to open the *[Import Field Mappings](Import_Field_Mappings)*
 page to review and import Target rule mappings approved in other Waves
 to the current Target.
 
@@ -125,7 +125,7 @@ the Transform Object database.
 Relationships
 
 Click to open the <span style="font-style: italic;">[Relationship
-Joins](Relationship_Joins_H.htm)</span> page to add relationship joins
+Joins](Relationship_Joins_H)</span> page to add relationship joins
 for Add Row and Update Row Source tables.
 
 When a Target is synced with Target Design, relationships are loaded for

@@ -21,7 +21,7 @@ To delete files:
     <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Toolkit: File/Folder Operations
-    page](../Page_Desc/Toolkit_File_Folder_Operations_H.htm)
+    page](../Page_Desc/Toolkit_File_Folder_Operations_H)
 
 2.  Enter a source directory in **IO DELETE SOURCE** field where files
     to be deleted reside.
@@ -30,7 +30,7 @@ To delete files:
     <span style="font-style: italic;">Vertical</span> View displays.
     
     [View the field descriptions for the Toolkit: File/Folder Operations
-    page](../Page_Desc/Toolkit_File_Folder_Operations_H.htm)
+    page](../Page_Desc/Toolkit_File_Folder_Operations_H)
 
 4.  Enter a filter of what file to delete in **IO Delete Mask** field,
     e.g., **\*.pdf** to delete PDF files.

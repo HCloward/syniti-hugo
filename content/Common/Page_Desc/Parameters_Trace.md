@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Configure Trace
-Parameters](../Use_Cases/Configure_Trace_Parameters.htm).
+Parameters](../Use_Cases/Configure_Trace_Parameters).
 
 </div>
 

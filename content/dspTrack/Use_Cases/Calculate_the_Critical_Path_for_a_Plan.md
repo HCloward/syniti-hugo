@@ -18,7 +18,7 @@ marked as on the Critical Path in Microsoft Project or the Excel file
 are also marked as critical tasks in dspTrack™.
 
 Refer to [Import Project Files into
-dspTrack™](Import_Project_Files_into_dspTrack.htm) for more
+dspTrack™](Import_Project_Files_into_dspTrack) for more
 information.
 
 **NOTE:** A task cannot be added to the Critical Path from within
@@ -58,7 +58,7 @@ imported Microsoft Project files when:
 
 Task dependencies in the plan change.
 
-**NOTE**: Refer to [Use Dependency Types](Use_Dependency_Types.htm) for
+**NOTE**: Refer to [Use Dependency Types](Use_Dependency_Types) for
 more information.
 
 Planned Finish Dates or Planned Start Dates are updated.

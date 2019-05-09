@@ -15,7 +15,7 @@ updated in dspConduct™. Records cannot be deleted, and elements cannot
 be activated or deactivated. Some settings that are not set in IGC™ can
 be updated for IGC™ elements in dspConduct™. Refer to [Update Custom
 Attributes for Governance
-Elements](Update_Custom_Attributes_for_Governance_Elements.htm) for more
+Elements](Update_Custom_Attributes_for_Governance_Elements) for more
 information.
 
 After tasks are published in IGC™, they are imported into dspConduct™
@@ -24,7 +24,7 @@ access the *Services Pages* page in System Administration (Admin \>
 Resources \> Service Pages) to change the service page schedule as
 needed or to manually run the service page to import tasks immediately.
 Refer to [Start and Stop Service
-Pages](../../../Platform/Sys_Admin/Use_Cases/Stop_and_Start_Service_Pages.htm)
+Pages](../../../Platform/Sys_Admin/Use_Cases/Stop_and_Start_Service_Pages)
 in System Administration for more information.
 
 If a category is added in IGC™, a WebApp must exist that can be assigned
@@ -33,9 +33,9 @@ to the category.
 **NOTE**: If the required WebApp does not display in the list box, it
 must be added. Refer to System Administration for more information about
 [adding a
-WebApp](../../../Platform/WebApp_Dev/Create_a_WebApp_in_DSP.htm) and
+WebApp](../../../Platform/WebApp_Dev/Create_a_WebApp_in_DSP) and
 [registering a data
-source](../../../Platform/Sys_Admin/Use_Cases/Register_a_Data_Source.htm).
+source](../../../Platform/Sys_Admin/Use_Cases/Register_a_Data_Source).
 
 If tasks were added in IGC™, the Process Designer must assign an
 existing dspConduct™ task to it or must create a new task in dspConduct™
@@ -74,7 +74,7 @@ the business process, scenario and role dependencies are also imported.
 **NOTE**: Category owners are maintained in IGC™ but are not imported in
 dspConduct™. This required field must be maintained in dspConduct™.
 Refer to [Set Up a Category from IGC™ in
-dspConduct™](Set_Up_a_Category_from_IGC_in_dspConduct.htm) for more
+dspConduct™](Set_Up_a_Category_from_IGC_in_dspConduct) for more
 information.
 
 **NOTE**: When a role is imported from IGC™ and the SLA fields are blank
@@ -88,12 +88,12 @@ dspConduct™ or not.
 After data has been imported into dspConduct™:
 
   - [Set Up a Category added in IGC™ in
-    dspConduct™](Set_Up_a_Category_from_IGC_in_dspConduct.htm), if
+    dspConduct™](Set_Up_a_Category_from_IGC_in_dspConduct), if
     needed
   - [View Tasks Imported from IGC™ in
-    dspConduct™](View_Tasks_Imported_from_IGC_in_dspConduct.htm)
+    dspConduct™](View_Tasks_Imported_from_IGC_in_dspConduct)
   - [Map a dspConduct™ Task to a Task Imported from
-    IGC™](Map_a_dspConduct_Task_to_a_Task_Imported_from_IGC.htm)
+    IGC™](Map_a_dspConduct_Task_to_a_Task_Imported_from_IGC)
   - [Update Custom Attributes for Governance
-    Elements](Update_Custom_Attributes_for_Governance_Elements.htm), if
+    Elements](Update_Custom_Attributes_for_Governance_Elements), if
     needed

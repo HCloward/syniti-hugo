@@ -11,7 +11,7 @@ To create a package:
 
 2.  Click **Add**.
     
-    [View field descriptions for the Packages Page](Packages_H.htm).
+    [View field descriptions for the Packages Page](Packages_H).
 
 3.  Enter a name in **PACKAGE NAME** field.
     
@@ -63,7 +63,7 @@ To create a package:
 8.  Click **Save**; the *Vertical* View displays.
     
     *[View the field descriptions for the Package 's page Vertical
-    View](Packages_H.htm#Packages_V)*
+    View](Packages_H#Packages_V)*
 
 9.  Complete the general and advanced properties tabs depending on the
     Source and Target Type.

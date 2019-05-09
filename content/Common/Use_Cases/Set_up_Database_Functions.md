@@ -18,7 +18,7 @@ To register database functions:
 2.  Click **Add.**
     
     [View the field descriptions for the Database Function Setup
-    page.](../Page_Desc/Database_Function_Setup.htm)
+    page.](../Page_Desc/Database_Function_Setup)
 
 3.  Enter a database function name in **DATA BASE NAME** field.
 

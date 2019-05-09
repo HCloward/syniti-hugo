@@ -9,7 +9,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Modify Actions](../Use_Cases/Modify_Actions.htm).
+Use this page to [Modify Actions](../Use_Cases/Modify_Actions).
 
 </div>
 
@@ -27,11 +27,11 @@ pane.
 
 ## <span id="Automation_Engine_Action1"></span>Automation Engine Action V
 
-[Automation Engine Action H](Automation_Engine_Action_H.htm)
+[Automation Engine Action H](Automation_Engine_Action_H)
 
 <div class="use">
 
-Use this page to [Modify Actions](../Use_Cases/Modify_Actions.htm).
+Use this page to [Modify Actions](../Use_Cases/Modify_Actions).
 
 </div>
 

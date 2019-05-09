@@ -10,13 +10,13 @@ around creating and configuring processes are the same.
 
 These include:
 
-  - [Create a Process](Create_a_Process.htm)
+  - [Create a Process](Create_a_Process)
 
-  - [Copy a Process](Copy_a_Process.htm)
+  - [Copy a Process](Copy_a_Process)
 
-  - [Add Templates to a Process](Add_Templates_to_a_Process.htm)
+  - [Add Templates to a Process](Add_Templates_to_a_Process)
 
-  - [Copy a Process Template](Copy_a_Process_Template.htm)
+  - [Copy a Process Template](Copy_a_Process_Template)
 
   - [Generate Database Objects
-    Automatically](Generate_Database_Objects_Automatically.htm)
+    Automatically](Generate_Database_Objects_Automatically)

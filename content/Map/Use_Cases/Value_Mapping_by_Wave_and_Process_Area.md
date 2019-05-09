@@ -14,17 +14,17 @@ counts are for all Process Areas in the selected Wave.
 
 When the chart is accessed from the
 <span style="font-style: italic;">[Wave : Process
-Areas](../../Console/Page_Desc/Wave_Process_Areas.htm)</span> page in
+Areas](../../Console/Page_Desc/Wave_Process_Areas)</span> page in
 Console, counts display for the selected Process Area only.
 
 Click a bar to open a dashboard with charts that display [value mapping
-completed by Wave,](Value_Mapping_Completed_By_Wave.htm) and value
+completed by Wave,](Value_Mapping_Completed_By_Wave) and value
 mapping completed
-[daily](Value_Mapping_Daily_by_Wave_and_Process_Area.htm),
-[weekly](Value_Mapping_Weekly_by_Wave_and_Process_Area.htm) and
-[monthly](Value_Mapping_Monthly_by_Wave_and_Process_Area.htm).
+[daily](Value_Mapping_Daily_by_Wave_and_Process_Area),
+[weekly](Value_Mapping_Weekly_by_Wave_and_Process_Area) and
+[monthly](Value_Mapping_Monthly_by_Wave_and_Process_Area).
 
-Refer to [View Dashboards in Map](View_Dashboards_in_Map.htm) for
+Refer to [View Dashboards in Map](View_Dashboards_in_Map) for
 general information about chart features.
 
 To access this chart in Console from the

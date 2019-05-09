@@ -18,4 +18,4 @@ request has multiple Data roles, the next Data role in the workflow is
 ready for processing.</span>
 
 An external data role can also be
-[rejected](Reject_an_External_Data_Role.htm).
+[rejected](Reject_an_External_Data_Role).

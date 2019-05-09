@@ -11,8 +11,8 @@ status</span>.
 
 Retention intervals are set at the global level, but can also be
 configured for a template. Refer to [Configure Request
-Statuses](../Config/Configure_Request_Statuses.htm) and [Configure
-Retention Parameters](Configure_Retention_Parameters.htm) for more
+Statuses](../Config/Configure_Request_Statuses) and [Configure
+Retention Parameters](Configure_Retention_Parameters) for more
 information.
 
 Once the retention interval for a request’s request status has been met,
@@ -46,7 +46,7 @@ To delete archived requests:
 2.  Click **Edit**.
     
     <span class="ListNumber">*[View the field descriptions for the
-    Archive Delete page.](../Page_Desc/Archive_Delete.htm)*</span>
+    Archive Delete page.](../Page_Desc/Archive_Delete)*</span>
 
 3.  Select a date in **DELETE ARCHIVE BEFORE** field.
 

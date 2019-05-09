@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Add Relationship Joins to
-Sources.](../Use_Cases/Add_Relationship_Joins_to_Source.htm)
+Sources.](../Use_Cases/Add_Relationship_Joins_to_Source)
 
 </div>
 
@@ -17,7 +17,7 @@ To access this page in dspMigrate:
 1.  Click <span style="font-weight: bold;">Map </span>in the Context
     bar.
 2.  Click the <span style="font-weight: bold;">Targets</span> icon on
-    the *[Process Area Launch](Process_Area_Launch_map.htm)* page.
+    the *[Process Area Launch](Process_Area_Launch_map)* page.
 3.  Click the <span style="font-weight: bold;">Sources</span> icon for a
     Target in the Parent pane.
 4.  Click the **Update Row Sources** icon for a Target Source in the

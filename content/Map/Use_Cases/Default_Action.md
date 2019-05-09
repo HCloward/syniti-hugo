@@ -12,12 +12,12 @@ field with this default value for every record that is mapped.
 
 To create a field mapping using the Default action on the
 <span style="font-style: italic;">[Field
-Mappings](../Page_Desc/Field_Mappings_H.htm)</span> page:
+Mappings](../Page_Desc/Field_Mappings_H)</span> page:
 
 1.  Select the field to be mapped.
     
     [View the field descriptions for the Field Mappings
-    page](../Page_Desc/Field_Mappings_H.htm)
+    page](../Page_Desc/Field_Mappings_H)
 
 2.  Click <span style="font-weight: bold;">Edit</span>.
 
@@ -41,22 +41,22 @@ Mappings](../Page_Desc/Field_Mappings_H.htm)</span> page:
     Page toolbar.
 
 **NOTE:** If the Auto Gen Level on the
-<span style="font-style: italic;">[Automation](../../SQL_AutoGen/Page_Desc/Automation_page.htm)</span>
+<span style="font-style: italic;">[Automation](../../SQL_AutoGen/Page_Desc/Automation_page)</span>
 page’s <span style="font-style: italic;">Vertical</span> View is set to
 Off for the Target, this rule is not built in SQL. If the Auto Gen Level
 is set to ON but the Auto Generate Rule check box on the
 <span style="font-style: italic;">[Automation SQL Field
-Mappings](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H.htm)</span>
+Mappings](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H)</span>
 page’s <span style="font-style: italic;">Vertical</span> View is
 unchecked, then the rule is  not built.
 
 The mapping must be approved by a Developer on the *[Mapping
-Approval](../Page_Desc/Mapping_Approval_H.htm)* page for documentation
+Approval](../Page_Desc/Mapping_Approval_H)* page for documentation
 purposes and to help track progress of the data migration project. Refer
 to <span style="color: #0000ff;">[Approve or Reject
-Mappings](Approve_or_Reject_Mappings.htm)</span> and
+Mappings](Approve_or_Reject_Mappings)</span> and
 <span style="color: #0000ff;">[Assign Developers to a Target or
-Source](../../Design/Use_Cases/Add_Developers_and%20Business%20Contacts.htm)</span>
+Source](../../Design/Use_Cases/Add_Developers_and%20Business%20Contacts)</span>
 for more information.
 
 Once the mapping has been submitted, the **Action, Source Table, Source

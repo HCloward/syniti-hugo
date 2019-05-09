@@ -13,14 +13,14 @@ To build the page in Target Design:
 1.  Select **Design** in the Context bar.
 
 2.  Click the **Targets**icon on the
-    *[Design](../../../Migration/Design/Page_Desc/Design.htm)* page.
+    *[Design](../../../Migration/Design/Page_Desc/Design)* page.
 
 3.  Select the **Sources** icon for a Target.
 
 4.  Click **Add**.
     
     *[View the field descriptions for the Target Sources
-    page](../../../Migration/Design/Page_Desc/Target_Sources_H_Design.htm)*
+    page](../../../Migration/Design/Page_Desc/Target_Sources_H_Design)*
     
     **NOTE**: The Add button is only available if the selected Target
     has a Design Status of In Design.

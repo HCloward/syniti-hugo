@@ -19,7 +19,7 @@ To view the object history:
 4.  Click **History** for Object Name.
     
     [View the field descriptions for the History of Changes
-    page](../../../Platform/Common/Page_Desc/History_Of_Changes.htm)
+    page](../../../Platform/Common/Page_Desc/History_Of_Changes)
 
 **NOTE:**  All archived objects are listed. An **Object Changes** report
 (Reports \> Object Changes) displays all changed objects.

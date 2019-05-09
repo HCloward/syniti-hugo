@@ -5,12 +5,12 @@ solution = 'Migration'
 
 # Target Sources H
 
-[Target Sources V](Target_Sources_H_Design.htm#Target_Sources_V)
+[Target Sources V](Target_Sources_H_Design#Target_Sources_V)
 
 <div class="use">
 
 Use this page to [Assign a Source to a
-Target](../Use_Cases/Assign_a_Source_to_a_Target.htm).
+Target](../Use_Cases/Assign_a_Source_to_a_Target).
 
 </div>
 
@@ -21,7 +21,7 @@ To access this page:
 2.  Select <span style="font-weight: bold;">Design </span>in the Context
     bar.
 3.  Click the <span style="font-weight: bold;">Targets</span>icon on the
-    *[Design](Design.htm)* page.
+    *[Design](Design)* page.
 4.  Click the <span style="font-weight: bold;">Sources</span> icon for a
     Target.
 
@@ -34,8 +34,8 @@ To access this page:
 <tr class="even">
 <td><p>SOURCE DATA SOURCE</p></td>
 <td><p>Displays the database that stores the Source tables that contain the data that will be migrated to the Target.</p>
-<p>Click the <strong>+</strong> icon in this field to open the <span style="font-style: italic;"><a href="../../../Platform/Common/Page_Desc/Data_Source_Registry_H.htm">Data Source Registry</a></span> page to add a data Source if necessary.</p>
-<p>Data sources should be registered in Common. Refer to <a href="../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common.htm">Register a Data Source in Common</a> for more information.</p></td>
+<p>Click the <strong>+</strong> icon in this field to open the <span style="font-style: italic;"><a href="../../../Platform/Common/Page_Desc/Data_Source_Registry_H">Data Source Registry</a></span> page to add a data Source if necessary.</p>
+<p>Data sources should be registered in Common. Refer to <a href="../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common">Register a Data Source in Common</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>SOURCE TYPE</p></td>
@@ -51,7 +51,7 @@ To access this page:
 <td><p>SYSTEM TYPE ID</p></td>
 <td><p>Displays the System Type used as a basis for the Source. If no System Type is set, a user may be required to set one manually when attempting to map data from this Source to a Target in Map.</p>
 <p>A Source data source can be assigned to only one System Type across all Targets. For example, the Source data source of sdbSAP has been assigned to the System Type SAPLEGACY for the Target ttMARA. If the Target ttMAKT also uses the data source of sdbSAP, it cannot use a different System Type such as SAP. The data source sdbSAP must use the System Type SAPLEGACY.</p>
-<p>Refer to <a href="../Use_Cases/Sync_Data_Source_System_Types_Across_Targets.htm">Sync Source Data Source-System Types Across all Targets</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Sync_Data_Source_System_Types_Across_Targets">Sync Source Data Source-System Types Across all Targets</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Source Type</p></td>
@@ -65,17 +65,17 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Developers</p></td>
-<td><p>Click to open the <em>Target Source Contacts</em> page to add Developers to the Source. Developers approve mappings submitted for this Source on the <span style="font-style: italic;"><a href="../../Map/Page_Desc/Mapping_Approval_H.htm">Mapping Approval</a></span> page.</p>
-<p>Refer to <a href="../../Map/Use_Cases/Approve_or_Reject_Mappings.htm">Approve or Reject Field Mappings</a> and <a href="../Use_Cases/Add_Developers_and%20Business%20Contacts.htm">Add Developers and Business Contacts to a Target or Source</a> for more information.</p></td>
+<td><p>Click to open the <em>Target Source Contacts</em> page to add Developers to the Source. Developers approve mappings submitted for this Source on the <span style="font-style: italic;"><a href="../../Map/Page_Desc/Mapping_Approval_H">Mapping Approval</a></span> page.</p>
+<p>Refer to <a href="../../Map/Use_Cases/Approve_or_Reject_Mappings">Approve or Reject Field Mappings</a> and <a href="../Use_Cases/Add_Developers_and%20Business%20Contacts">Add Developers and Business Contacts to a Target or Source</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Business Contacts</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Target_Source_Contacts.htm">Target Source Contacts</a></span> page to assign Business Contacts to the selected Source. Business Contacts are used for reporting purposes and automatically receive public reports for the Target–Source in Transform.</p>
-<p>Refer to <a href="../Use_Cases/Add_Developers_and%20Business%20Contacts.htm">Add Developers and Business Contacts to a Target or Source</a> for more information.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Target_Source_Contacts">Target Source Contacts</a></span> page to assign Business Contacts to the selected Source. Business Contacts are used for reporting purposes and automatically receive public reports for the Target–Source in Transform.</p>
+<p>Refer to <a href="../Use_Cases/Add_Developers_and%20Business%20Contacts">Add Developers and Business Contacts to a Target or Source</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Mapping</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="../../Map/Page_Desc/Field_Mappings_H.htm">Field Mappings</a></span> page to view mappings for the selected Source.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="../../Map/Page_Desc/Field_Mappings_H">Field Mappings</a></span> page to view mappings for the selected Source.</p></td>
 </tr>
 </tbody>
 </table>
@@ -84,13 +84,13 @@ To access this page:
 
 ## <span id="Target_Sources_V"></span>Target Sources V
 
-[Target Sources H](Target_Sources_H_Design.htm)
+[Target Sources H](Target_Sources_H_Design)
 
 <span style="font-weight: bold;">NOTE:</span> Fields display on this
 page based on the type of Source selected.  If the Source is {Full
 Construction}, use this page to [Update Completed Status of Records for
 a Construct
-Page](../../Construct/Use_Cases/Update_Completed_Status_of_Records.htm).
+Page](../../Construct/Use_Cases/Update_Completed_Status_of_Records).
 
 Field
 
@@ -125,7 +125,7 @@ add a data source if necessary.
 
 Data sources should be registered in Common. Refer to [Register a Data
 Source in
-Common](../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common.htm)
+Common](../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common)
 for more information.
 
 System Type ID
@@ -142,7 +142,7 @@ Type such as SAP. The data source sdbSAP must use the System Type
 SAPLEGACY.
 
 Refer to [Sync Source Data Source-System Types Across all
-Targets](../Use_Cases/Sync_Data_Source_System_Types_Across_Targets.htm)
+Targets](../Use_Cases/Sync_Data_Source_System_Types_Across_Targets)
 for more information.
 
 Description
@@ -227,7 +227,7 @@ whether the *Construct* page is updated or overwritten. Values are:
 **NOTE:** This field defaults to Rebuild.
 
 Refer to [Use Target Design with Full
-Construction](../../Construct/Use_Cases/Use_Target_Design_with_Full_Construction.htm)
+Construction](../../Construct/Use_Cases/Use_Target_Design_with_Full_Construction)
 for more information.
 
 Construct Auto Gen Build View
@@ -247,8 +247,8 @@ Values are:
 
 The tabs creation and field sorting are controlled by the Application
 Screen, Field Order, and Key fields on the [Target
-Fields](Target_Fields_H_Target_Design.htm) page’s *Vertical* View.
+Fields](Target_Fields_H_Target_Design) page’s *Vertical* View.
 
 Refer to [Use Target Design with Full
-Construction](../../Construct/Use_Cases/Use_Target_Design_with_Full_Construction.htm)
+Construction](../../Construct/Use_Cases/Use_Target_Design_with_Full_Construction)
 for more information.

@@ -27,7 +27,7 @@ Only one conditional can be configured per BDC screen.
 
 **NOTE**<span>:</span> Conditionals can be applied to custom fields.
 Refer to [Add Custom Fields to a BDC Script
-Template](Add_Custom_Fields_to_a_BDC_Script_Template.htm) for more
+Template](Add_Custom_Fields_to_a_BDC_Script_Template) for more
 information.
 
 To configure a conditional for a BDC screen on the *BDC Screen* page:
@@ -49,7 +49,7 @@ To configure a conditional for a BDC screen on the *BDC Screen* page:
 8.  Click **Conditionals** button.
     
     *[View the field descriptions for the BDC Screen Conditionals
-    page](../Page_Desc/BDC_Screen_Conditionals.htm)*
+    page](../Page_Desc/BDC_Screen_Conditionals)*
 
 9.  Select a field from **CONDITIONAL FIELD NAME** list box.
 

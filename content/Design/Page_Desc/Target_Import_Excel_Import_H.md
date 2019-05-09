@@ -10,7 +10,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Import Target Design from an Excel
-File](../Use_Cases/Import_from_an_Excel_File.htm).
+File](../Use_Cases/Import_from_an_Excel_File).
 
 </div>
 
@@ -33,12 +33,12 @@ To access this page:
 <tr class="even">
 <td><p>EXCEL TEMPLATE</p></td>
 <td><p>Click to download the formatted TargetImport_Template.xls.</p>
-<p>The template contains instructions for data entry. Refer to <a href="../Use_Cases/Import_from_an_Excel_File.htm#Complete">Complete the Excel File</a> for more information.</p></td>
+<p>The template contains instructions for data entry. Refer to <a href="../Use_Cases/Import_from_an_Excel_File#Complete">Complete the Excel File</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>EXCEL FILE PATH</p></td>
 <td><p>Click to upload the completed template to the path and data source.</p>
-<p>The uploaded Excel file is saved to the import file data source path before it is imported. The default import file data source is cMap_Design_File Path. If needed, set a different path on the <span style="font-style: italic;"><a href="Target_Import_Configuration.htm">Target Import Configuration</a></span> page (Configuration &gt; Import Setup).</p></td>
+<p>The uploaded Excel file is saved to the import file data source path before it is imported. The default import file data source is cMap_Design_File Path. If needed, set a different path on the <span style="font-style: italic;"><a href="Target_Import_Configuration">Target Import Configuration</a></span> page (Configuration &gt; Import Setup).</p></td>
 </tr>
 <tr class="even">
 <td><p>Import</p></td>
@@ -58,7 +58,7 @@ To access this page:
 <div class="use">
 
 Use this page to [Import Target Design from an Excel
-File](../Use_Cases/Import_from_an_Excel_File.htm).
+File](../Use_Cases/Import_from_an_Excel_File).
 
 </div>
 

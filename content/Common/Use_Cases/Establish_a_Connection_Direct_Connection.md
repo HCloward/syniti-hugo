@@ -16,18 +16,18 @@ system instances for Integrate and dspCompose™.
 
 A connection can also be established through a Message Server. Refer to
 [Establish a Connection via a Message
-Server](Establish_a_Connection_via_a_Message_Server.htm) or more
+Server](Establish_a_Connection_via_a_Message_Server) or more
 information.
 
 Refer to [Establish a Connection to a Target System
-Overview](Establish_a_Connection_to_a_target_system_Overview.htm) for
+Overview](Establish_a_Connection_to_a_target_system_Overview) for
 general information.
 
 <span style="font-weight: bold;">NOTE</span>: The steps below are used
 when establishing an SAP connection. Information about connection types
 to other target systems is available on the
 <span style="font-style: italic;">[Data Source
-Registry](../Page_Desc/Data_Source_Registry_H.htm#Data_Source_Registry_V)</span>
+Registry](../Page_Desc/Data_Source_Registry_H#Data_Source_Registry_V)</span>
 page’s Vertical View.
 
 To establish a connection that directly connects to the Application
@@ -40,7 +40,7 @@ Server:
 2.  Click <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Data Source Registry
-    page.](../Page_Desc/Data_Source_Registry_H.htm)
+    page.](../Page_Desc/Data_Source_Registry_H)
     
     **NOTE:** Though they are not marked as required on the page, the
     following fields are required when adding an SAP Application Server
@@ -98,6 +98,6 @@ Server:
 10. Click <span style="font-weight: bold;">Save.</span>
 
 Continue with [Add Default User Credentials to a
-Connection](Add_Default_User_Credentials_to_a_Connection.htm) or [Add
+Connection](Add_Default_User_Credentials_to_a_Connection) or [Add
 User Credentials to a Connection for a Specific
-User](Add_User_Credentials_to_an_SAP_Connection_for_a_Specific_Use.htm).
+User](Add_User_Credentials_to_an_SAP_Connection_for_a_Specific_Use).

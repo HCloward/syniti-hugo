@@ -22,5 +22,5 @@ To customize posting feedback for dspCompose™-generated and custom data
 entry pages, a Template Administrator can set the tables that
 dspCompose™ should update with the post message and post fail
 indicator. Refer to [Set Tables to Store Posting
-Feedback](Set_Tables_to_Store_Posting_Feedback.htm) for more
+Feedback](Set_Tables_to_Store_Posting_Feedback) for more
 information.

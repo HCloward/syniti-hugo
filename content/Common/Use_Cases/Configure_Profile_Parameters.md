@@ -17,7 +17,7 @@ To configure profile parameters:
 2.  Click **Edit** on Page toolbar.
     
     [View the field descriptions for the Parameters-Profile
-    page](../Page_Desc/Parameters_Profile.htm)
+    page](../Page_Desc/Parameters_Profile)
 
 3.  Update all fields if default values are not applicable.
 

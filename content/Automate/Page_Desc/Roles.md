@@ -7,7 +7,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Add Roles](../Use_Cases/Add_Roles.htm).
+Use this page to [Add Roles](../Use_Cases/Add_Roles).
 
 </div>
 
@@ -26,7 +26,7 @@ To access this page, select **Configuration \> Roles** in the
 </tr>
 <tr class="odd">
 <td><p>USERS</p></td>
-<td><p>Click to open the <em><a href="Role_Instance.htm">Role (Instance)</a></em> page to assign users to roles.</p>
+<td><p>Click to open the <em><a href="Role_Instance">Role (Instance)</a></em> page to assign users to roles.</p>
 <p>The count on the icon is the total number of users assigned to the selected role.</p></td>
 </tr>
 </tbody>

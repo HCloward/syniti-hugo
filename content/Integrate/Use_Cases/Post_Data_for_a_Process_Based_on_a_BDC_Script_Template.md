@@ -24,7 +24,7 @@ the decryption happens only during the posting process.
 
 <span style="font-weight: bold;">NOTE</span>: Data can be posted using a
 multiple template process. Refer to [Post a Process with Multiple
-Templates](Post_a_Process_with_Multiple_Templates.htm) for more
+Templates](Post_a_Process_with_Multiple_Templates) for more
 information.
 
 <span style="font-weight: bold;">NOTE</span>: When posting data to a
@@ -35,7 +35,7 @@ posting with a multi-template process). When a process template that has
 an After Post Rule registered posts successfully, the data is passed to
 the next dependent process template as an input parameter. Refer to
 [Register After Post Rules to a Process
-Template](Register_After_Post_Rules_to_a_Process_Template_Overview.htm)
+Template](Register_After_Post_Rules_to_a_Process_Template_Overview)
 for more information.
 
 **NOTE**: A process must be active to add or edit a process post.
@@ -54,7 +54,7 @@ To use a post process record to post data to SAP:
 4.  Click **Edit** for a posting; the *Vertical View* displays. 
     
     *[View the field descriptions for the Process Post page’s Vertical
-    View.](../Page_Desc/Process_Post_H.htm#Process_Post_V_All_Tabs)*
+    View.](../Page_Desc/Process_Post_H#Process_Post_V_All_Tabs)*
 
 5.  Enter a Where clause to limit the data set in the **Where Clause**
     field.
@@ -83,14 +83,14 @@ To use a post process record to post data to SAP:
     the **BDC Post Method** option selected and other factors. Refer to
     [*<span style="color: #0000ff;font-style: normal;">BDC Post Methods
     and Settings on the Advanced
-    tab</span>*](../Page_Desc/BDCPostMethodsSettingsAdvTab.htm) for more
+    tab</span>*](../Page_Desc/BDCPostMethodsSettingsAdvTab) for more
     information.
 
 11. Click **Post** on the Page toolbar; a confirmation message displays.
     
     **NOTE**: Other posting methods are available.  Refer to
     *<span style="color: #0000ff;">[Posting
-    Methods](Posting_Methods.htm)</span>* for more information.
+    Methods](Posting_Methods)</span>* for more information.
 
 12. Click **Ok**.
     
@@ -112,4 +112,4 @@ click **Reset**. Integrate resets the process post status regardless of
 the reason for the posting failure or the current status of the post.
 
 Refer to [Reset and Resubmit a Failed
-Post](Reset_and_Resubmit_a_Failed_Post.htm) for additional information.
+Post](Reset_and_Resubmit_a_Failed_Post) for additional information.

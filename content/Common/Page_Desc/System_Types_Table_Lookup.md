@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use" data-xmlns="">
 
 Use this page to [Add a Lookup Table
-Manually](../Use_Cases/Add_a%20Lookup%20Table%20Manually..htm).
+Manually](../Use_Cases/Add_a%20Lookup%20Table%20Manually.).
 
 </div>
 
@@ -20,7 +20,7 @@ To access this page:
 4.  Click a lookup table name in the **LOOKUP TABLE** column.
 
 **NOTE:** Excel Integration has been enabled on this page. Refer to [Use
-Excel Integration](../../Excel_Int/Use_Excel_Integration.htm) for more
+Excel Integration](../../Excel_Int/Use_Excel_Integration) for more
 information.
 
 Field

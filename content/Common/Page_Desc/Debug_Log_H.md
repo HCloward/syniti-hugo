@@ -9,7 +9,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [View Debug Logs](../Use_Cases/View_Debug_Logs.htm).
+Use this page to [View Debug Logs](../Use_Cases/View_Debug_Logs).
 
 </div>
 
@@ -35,11 +35,11 @@ component.
 
 ## <span id="Debug_Log_V"></span>Debug Log V
 
-[Debug Log H](Debug_Log_H.htm)
+[Debug Log H](Debug_Log_H)
 
 <div class="use">
 
-Use this page to [View Debug Logs](../Use_Cases/View_Debug_Logs.htm).
+Use this page to [View Debug Logs](../Use_Cases/View_Debug_Logs).
 
 </div>
 

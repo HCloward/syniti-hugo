@@ -46,14 +46,14 @@ for posting success or failure for the Post role:
     **NOTE:** dspConduct™ Task Request Post Workflow Notification must
     have been added to the role for this button to display. Refer to
     [Add Task Request Post Workflow Notification to the Post
-    Role](Send_Workflow_Notifications_when_a_Post_Fails_or_Succeeds.htm#Add_Task_Request_Post_Workflow_Notification_to_the_Post_Role)
+    Role](Send_Workflow_Notifications_when_a_Post_Fails_or_Succeeds#Add_Task_Request_Post_Workflow_Notification_to_the_Post_Role)
     for more information.
 
 5.  Click <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Request Post Workflow
     Notification
-    page](../Page_Desc/Request_Post_Workflow_Notification.htm)
+    page](../Page_Desc/Request_Post_Workflow_Notification)
 
 6.  Select the user ID from the <span style="font-weight: bold;">USER
     ID</span> combo box.
@@ -65,11 +65,11 @@ for posting success or failure for the Post role:
     
     **NOTE:** Workflow messages must have been added for that language
     to the [Category Workflow Language
-    Message](../Page_Desc/Category_Workflow_Language_Message_H.htm)
+    Message](../Page_Desc/Category_Workflow_Language_Message_H)
      page for the Posted and Posted with Errors event. If they are not
     added, the notifications are not sent. Refer to [Create
     Language-specific Workflow
-    Messages](Create_Language-specific_Workflow_Messages_for_a_Category.htm)
+    Messages](Create_Language-specific_Workflow_Messages_for_a_Category)
     for more information.
 
 7.  Click the <span style="font-weight: bold;">SEND POST SUCCESS</span>

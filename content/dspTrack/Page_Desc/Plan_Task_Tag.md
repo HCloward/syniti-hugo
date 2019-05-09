@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [View Tags and Tag
-Types](../Use_Cases/View_Tags_and_Tag_Types.htm).
+Types](../Use_Cases/View_Tags_and_Tag_Types).
 
 </div>
 
@@ -25,7 +25,7 @@ tag.
 |                |                                                                                                                                                                                                                                                                                                         |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Field          | Description                                                                                                                                                                                                                                                                                             |
-| Copy Tag Tasks | Click to open the *[Copy Tag Tasks](Copy_Tag.htm)* page to copy all tasks to which a tag has been assigned. Because tags are not plan specific, a user must specify the source plan and the destination plan when copying a tag. The tasks will be copied from the source plan to the destination plan. |
+| Copy Tag Tasks | Click to open the *[Copy Tag Tasks](Copy_Tag)* page to copy all tasks to which a tag has been assigned. Because tags are not plan specific, a user must specify the source plan and the destination plan when copying a tag. The tasks will be copied from the source plan to the destination plan. |
 | PLAN TASK ID   | Displays the name of the plan task assigned to the tag.                                                                                                                                                                                                                                                 |
 | Tag Type       | Displays an icon corresponding to the tag type: Logic, Plan or Security.                                                                                                                                                                                                                                |
 | TAG ID         | Displays the tag assigned to the task.                                                                                                                                                                                                                                                                  |

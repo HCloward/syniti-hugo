@@ -1,14 +1,14 @@
 # Record Trend by Project Distribution Rule Chart
 
 This chart corresponds to the [Records by Rule
-chart](Records_by_Rule_chart.htm). Hover a data point in the Record
+chart](Records_by_Rule_chart). Hover a data point in the Record
 Trend by Project Distribution Rule chart to display the total number of
 failed records per day per Project Distribution rule and rule
 binding. Each Project Distribution rule has a separate line on the
 chart.
 
 <span style="font-weight: bold;">NOTE</span>: Refer to [View ISA
-Dashboards](View_ISA_Dashboards.htm) for general information about
+Dashboards](View_ISA_Dashboards) for general information about
 charts, including the type of data charts display, configuration of
 retention parameters for metrics and historical data, and how record
 counts differ on charts and reports.

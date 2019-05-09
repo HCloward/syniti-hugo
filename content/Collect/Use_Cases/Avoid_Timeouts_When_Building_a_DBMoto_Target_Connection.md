@@ -31,7 +31,7 @@ Step one: To disable the DBMoto setting in Common:
     
     [View the field descriptions for the Parameters – Collect page’s
     DBMoto Settings
-    tab](../../Common/Page_Desc/Parameters_Collect.htm#DBMoto_Settings_Tab)
+    tab](../../Common/Page_Desc/Parameters_Collect#DBMoto_Settings_Tab)
 
 4.  Click the **Start Replicator** check box to disable it.
     
@@ -56,7 +56,7 @@ targets.
 
 <span style="font-weight: bold;">Step three: Build all target
 connections in Collect.</span> Refer to [Register
-Targets](Register_and_Use_Targets.htm#Register_Targets) for more
+Targets](Register_and_Use_Targets#Register_Targets) for more
 information.
 
  
@@ -79,7 +79,7 @@ Step five: To enable the DBMoto setting in Common:
     
     [View the field descriptions for the Parameters – Collect page’s
     DBMoto Settings
-    tab](../../Common/Page_Desc/Parameters_Collect.htm#DBMoto_Settings_Tab)
+    tab](../../Common/Page_Desc/Parameters_Collect#DBMoto_Settings_Tab)
 
 4.  Click the **Start Replicator** check box to enable it.
     

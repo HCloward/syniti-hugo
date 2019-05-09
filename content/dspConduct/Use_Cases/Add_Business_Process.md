@@ -5,9 +5,9 @@ solution = 'Master Data Management'
 
 # Add a Business Process
 
-The *[Business Process](../Page_Desc/Business_Process_H.htm)* page
+The *[Business Process](../Page_Desc/Business_Process_H)* page
 allows a Designer to create business processes. A business process is
-added to a category. Refer to [Create a Category](Create_a_Category.htm)
+added to a category. Refer to [Create a Category](Create_a_Category)
 for information about adding a category.
 
 To add a business process in dspConduct™:
@@ -26,7 +26,7 @@ To add a business process in dspConduct™:
     business process’s parent category.
     
     *[View the field descriptions for the Business Process
-    page](../Page_Desc/Business_Process_H.htm)*
+    page](../Page_Desc/Business_Process_H)*
 
 4.  Enter a name in the **NAME** field.
     
@@ -45,7 +45,7 @@ To add a business process in dspConduct™:
     
     *[View the field descriptions for the Business Process page’s
     Vertical
-    View](../Page_Desc/Business_Process_H.htm#Business_Process_V)*
+    View](../Page_Desc/Business_Process_H#Business_Process_V)*
 
 10. Select the owner in the **Owner** list box (optional).
     
@@ -57,4 +57,4 @@ To add a business process in dspConduct™:
 12. Click **Save**.
 
 Continue with Configure Business Value Parameters or[Add a Scenario to a
-Business Process](Add_a_Scenario_to_a_Business_Process.htm).
+Business Process](Add_a_Scenario_to_a_Business_Process).

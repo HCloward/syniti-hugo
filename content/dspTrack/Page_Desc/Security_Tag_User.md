@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Configure Security
-Tags](../Use_Cases/Configure_Security_Tags.htm).
+Tags](../Use_Cases/Configure_Security_Tags).
 
 </div>
 
@@ -33,7 +33,7 @@ To access this page:
 <tr class="odd">
 <td><p>Remove From Tag</p></td>
 <td><p>Click to remove the highlighted user from the selected tag. The user is also removed from any tasks that are assigned to the tag, unless the user was added directly to the task on the <em>Project Task User</em> page or on the <em>Work List Item User</em> page.</p>
-<p>Refer to <a href="../Use_Cases/Add_Users_to_Plan_Tasks_Manually.htm">Add Users to Plan Tasks Manually</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Add_Users_to_Plan_Tasks_Manually">Add Users to Plan Tasks Manually</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>USER ID</p></td>

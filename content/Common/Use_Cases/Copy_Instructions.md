@@ -18,7 +18,7 @@ To copy an instruction:
 3.  Click **Edit .**
     
     [View the field descriptions for the Copy: Automation Instructions
-    page](../Page_Desc/Copy_Automation_Instructions.htm)
+    page](../Page_Desc/Copy_Automation_Instructions)
 
 4.  Enter the name of the new instruction in **New Instruction Name**
     field.

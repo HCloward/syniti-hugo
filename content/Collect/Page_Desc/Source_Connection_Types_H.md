@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Set up Connection
-Types](../Config/Set_up_Connection_Types.htm).
+Types](../Config/Set_up_Connection_Types).
 
 </div>
 
@@ -47,19 +47,19 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Data Type Conversions</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Connection_Types_H.htm">Connection Type Data Conversion</a></span> page to manage data type conversions for the source.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Connection_Types_H">Connection Type Data Conversion</a></span> page to manage data type conversions for the source.</p></td>
 </tr>
 </tbody>
 </table>
 
 ## <span id="Source_Connection_Types_V"></span>Source Connection Types V
 
-[Source Connection Types H](Source_Connection_Types_H.htm)
+[Source Connection Types H](Source_Connection_Types_H)
 
 <div class="use">
 
 Use this page to [Set up Connection
-Types](../Config/Set_up_Connection_Types.htm).
+Types](../Config/Set_up_Connection_Types).
 
 </div>
 

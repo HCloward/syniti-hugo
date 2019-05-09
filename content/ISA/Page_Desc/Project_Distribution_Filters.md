@@ -3,7 +3,7 @@
 <div class="use">
 
 Use this page to [Configure Project Distribution
-Filters](../Use_Cases/Configure_Project_Distribution_Filters.htm).
+Filters](../Use_Cases/Configure_Project_Distribution_Filters).
 
 </div>
 

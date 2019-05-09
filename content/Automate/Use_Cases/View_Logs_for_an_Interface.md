@@ -20,7 +20,7 @@ To view an interface’s log in Automate:
     only enabled of there are tasks to be written to the log for the
     interface according to the level set in the Reporting by Importance
     Level field configured on the
-    *[Parameters](../Page_Desc/Parameters.htm)* page.
+    *[Parameters](../Page_Desc/Parameters)* page.
     
     Or
 

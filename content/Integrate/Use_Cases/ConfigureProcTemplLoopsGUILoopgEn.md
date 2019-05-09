@@ -29,14 +29,14 @@ separate view.
 **NOTE**: If using the Auto Generate Database Objects feature, do not
 select a view name when adding the process that will be associated with
 the GUI Script template. Refer to [Generate Database Objects
-Automatically](Generate_Database_Objects_Automatically.htm) for more
+Automatically](Generate_Database_Objects_Automatically) for more
 information.
 
 Assign specific columns in the view to unique template fields using
 field mappings or generate them automatically using the Auto Generate
 Database Objects feature. Refer to[Configure Field Mappings for a
 Process based on a GUI Script
-Template](ConfigureFieldMappingsGUI_Script_Template.htm)<span style="color: #000000;">for
+Template](ConfigureFieldMappingsGUI_Script_Template)<span style="color: #000000;">for
 more information.</span>
 
 If the process is based on a GUI template with multiple loops,
@@ -44,7 +44,7 @@ relationships must be established to link the views assigned to
 different loops.  A user can set up relationships manually or can use
 the Auto Generate Database Objects feature to create them automatically.
 Refer to [View and Configure Relationships for a Process Based on a GUI
-Script Template](VwConfigureRelshpsGUIe.htm) for more
+Script Template](VwConfigureRelshpsGUIe) for more
 information.
 
 **N<span style="font-family: Arial, sans-serif;">OTE</span>**<span style="font-family: Arial, sans-serif;">:
@@ -52,7 +52,7 @@ A process based on a GUI template with multiple loops requires
 relationships between loops be established. Relationships map values in
 parent views to values in child views to link views assigned to
 different loops. Refer to [View and Configure Relationships for a
-Process Based on a GUI Script Template](VwConfigureRelshpsGUIe.htm) for
+Process Based on a GUI Script Template](VwConfigureRelshpsGUIe) for
 more information.</span>
 
 **NOTE**: A process must be inactive to configure its process template
@@ -71,7 +71,7 @@ To view process template loops:
     **NOTE**: The number displays the number of loops.
     
     *[View the field descriptions for the Process Template Loop
-    page.](../Page_Desc/Process_Template_Loop.htm)*
+    page.](../Page_Desc/Process_Template_Loop)*
     
     <span style="font-weight: bold;">NOTE</span>: The **VIEW NAME** and
     **PRIMARY KEY COLUMN NAME** may be updated manually for each loop
@@ -81,7 +81,7 @@ To view process template loops:
 5.  Click **Edit** for a loop.
     
     *[View the field descriptions for the Process Template Loop
-    page.](../Page_Desc/Process_Template_Loop.htm)*
+    page.](../Page_Desc/Process_Template_Loop)*
 
 6.  Select a name in the **VIEW NAME** list box.
     
@@ -122,5 +122,5 @@ Objects feature:
       - Configures relationships for process template loops
 
 Refer to [Generate Database Objects
-Automatically](Generate_Database_Objects_Automatically.htm) for more
+Automatically](Generate_Database_Objects_Automatically) for more
 information.

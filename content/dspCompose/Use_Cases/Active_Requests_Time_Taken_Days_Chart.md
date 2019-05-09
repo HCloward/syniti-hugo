@@ -18,10 +18,10 @@ example, hover a cursor over the Longest section of the chart to view a
 count of the days for the request that was active the longest.
 
 Click a section of the chart to drill down to the [Template Role
-Duration chart](Template_Role_Duration_Chart.htm).
+Duration chart](Template_Role_Duration_Chart).
 
 Refer to [View Dashboards in
-dspCompose™](View_Dashboards_in_dspCompose.htm) for information about
+dspCompose™](View_Dashboards_in_dspCompose) for information about
 chart features and the data that displays on charts.
 
 To access this chart in dspCompose™ select

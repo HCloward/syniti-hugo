@@ -10,9 +10,9 @@ solution = 'Platform'
 Use this page to:
 
   - [Register Unregistered Users Imported into
-    dspTrack™](../Use_Cases/Register_Unregistered_Users_Imprtd_dspTrack.htm)
+    dspTrack™](../Use_Cases/Register_Unregistered_Users_Imprtd_dspTrack)
   - [Assign a Registered User’s Tasks to Another
-    User](../Use_Cases/Assign_Registered_User_Tasks_Another_User.htm)
+    User](../Use_Cases/Assign_Registered_User_Tasks_Another_User)
 
 </div>
 

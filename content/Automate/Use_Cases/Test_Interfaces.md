@@ -16,7 +16,7 @@ To test an interface in Automate:
       - **Debug–** Tests the interface in debug mode with full logging
         information. The interface immediately runs in the foreground.
         Debug Mode must be enabled on the *Vertical* View of the
-        *[Interfaces](../Page_Desc/Interfaces.htm)* page.
+        *[Interfaces](../Page_Desc/Interfaces)* page.
       - **Execute–** Tests the interface. The interface immediately runs
         in the foreground.
 

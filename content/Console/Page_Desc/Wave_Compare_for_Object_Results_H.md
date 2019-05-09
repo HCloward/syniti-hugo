@@ -6,19 +6,19 @@ solution = 'Migration'
 # Wave Compare for Object Results H
 
 [Wave Compare for Object Results
-V](Wave_Compare_for_Object_Results_H.htm#Wave_Compare_for_Object_Results_V)
+V](Wave_Compare_for_Object_Results_H#Wave_Compare_for_Object_Results_V)
 
 <div class="use" data-xmlns="">
 
 Use this page to [Synchronize Target Designs Across
-Waves](../Use_Cases/Synchronize_Target_Designs_Across_Waves.htm).
+Waves](../Use_Cases/Synchronize_Target_Designs_Across_Waves).
 
 </div>
 
 **NOTE**: This page is only accessible if the current user is a member
 of the WebApp group WaveSynchronizer in Console or is assigned to a
 security role with access to the page. Refer to [Set
-Security](../../../Platform/Sys_Admin/Use_Cases/Setting_security.htm) in
+Security](../../../Platform/Sys_Admin/Use_Cases/Setting_security) in
 System Administration for more information.
 
 To access this page:
@@ -47,13 +47,13 @@ To access this page:
 | OBJECT                   | Displays the Object in the child Wave that has been compared to the baseline Wave.                                                                                                                                                                             |
 | DATA SOURCE ID           | Displays the data source for the Object, which is a Transform database. This database is where all Target tables and all Source tables will be registered.                                                                                                     |
 | DATA SERVICES REPOSITORY | Displays the name of the repository, a set of tables that stores user-created and predefined system Objects, Source and Target metadata and transformation rules. Repositories are configured in SAP Data Services, and then registered in Common in the DSP®. |
-| Targets                  | Click to open the *[Wave Compare for Target Results](Wave_Compare_for_Target_Results.htm)* page to review differences and sync the baseline and child Wave Target design at the Target level.                                                                  |
-| Fields                   | Click to open the *[Wave Compare for Target Field Results](Wave_Compare_for_Target_Field_Results.htm)* page to review differences and sync the baseline and child Wave Target design at the Target field level.                                                |
+| Targets                  | Click to open the *[Wave Compare for Target Results](Wave_Compare_for_Target_Results)* page to review differences and sync the baseline and child Wave Target design at the Target level.                                                                  |
+| Fields                   | Click to open the *[Wave Compare for Target Field Results](Wave_Compare_for_Target_Field_Results)* page to review differences and sync the baseline and child Wave Target design at the Target field level.                                                |
 
 ## <span id="Wave_Compare_for_Object_Results_V"></span>Wave Compare for Object Results V
 
 [Wave Compare for Object Results
-H](Wave_Compare_for_Object_Results_H.htm)
+H](Wave_Compare_for_Object_Results_H)
 
 |                  |                                                                                                                                                                |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |

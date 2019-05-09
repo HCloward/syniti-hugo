@@ -18,7 +18,7 @@ role validation can be added to the template.
 Validations related to list boxes, check boxes, and required fields can
 also be triggered when validating a role, if certain parameters are
 enabled. Refer to [Enable Role
-Validations](../Config/Enable_Role_Validations.htm) for more
+Validations](../Config/Enable_Role_Validations) for more
 information.
 
 A user can also:
@@ -37,7 +37,7 @@ and ID columns from the Data Entry page for the template.
 **NOTE**: To add validations to a role at the template level, the
 template must not be active or must be in Developer Mode. Refer to
 [Modify an Active Template in Developer
-Mode](Modify_an_Active_Template_in_Developer_Mode.htm) for more
+Mode](Modify_an_Active_Template_in_Developer_Mode) for more
 information.
 
 **NOTE**: If a template with Org Units uses role validations, the
@@ -45,7 +45,7 @@ security view must be added to that role validation rule. Org Unit
 security can then restrict validation failures to records associated
 with Org Unit values, and users will only see validation failures for
 records they can access. Refer to [Add the Org Unit Security View to
-Template Role Validation Rules](Add_the_Org_Unit_Security_View_to.htm)
+Template Role Validation Rules](Add_the_Org_Unit_Security_View_to)
 for more information.
 
 To add role validations to a template:
@@ -63,7 +63,7 @@ To add role validations to a template:
     
     *[View the field descriptions for the Template (Role Validations)
     page’s Vertical
-    View.](../Page_Desc/Template_Role_Validations_H.htm)*
+    View.](../Page_Desc/Template_Role_Validations_H)*
 
 6.  Enter sort value in **Priority** field.
     
@@ -122,4 +122,4 @@ To add role validations to a template:
 
 14. Click **Save**.
 
-Refer to [Validate a Role](Validate_a_Role.htm) for more information.
+Refer to [Validate a Role](Validate_a_Role) for more information.

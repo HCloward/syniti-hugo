@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Configure
-Columns](../Use_Cases/Configure_Columns.htm).
+Columns](../Use_Cases/Configure_Columns).
 
 </div>
 
@@ -29,9 +29,9 @@ toolbar.
 | ORDER               | Displays sort order of columns within the object.                                                                                                                                                                                                                                                                                                                                                |
 | KEY                 | If enabled, the column is marked as the key for the table.                                                                                                                                                                                                                                                                                                                                       |
 | DUPLICATE DETECTION | If enabled, column is included in the duplicate detection process.                                                                                                                                                                                                                                                                                                                               |
-| SHOW NAME           | If enabled, the column name displays on the *[Results](Results.htm)* page.                                                                                                                                                                                                                                                                                                                       |
+| SHOW NAME           | If enabled, the column name displays on the *[Results](Results)* page.                                                                                                                                                                                                                                                                                                                       |
 | BOLD                | If enabled, the column name is bold on the *Results* page.                                                                                                                                                                                                                                                                                                                                       |
-| LINE BREAK          | If enabled, a line break is placed after the column name on the *[Results](Results.htm)* page. This feature allows the fields to be formatted to fit nicely on the *Results* page. For example, a line break would appear after the Name and Address fields, but not after the City and Region fields. The later fields are typically displayed on the same line in an address (City State Zip). |
+| LINE BREAK          | If enabled, a line break is placed after the column name on the *[Results](Results)* page. This feature allows the fields to be formatted to fit nicely on the *Results* page. For example, a line break would appear after the Name and Address fields, but not after the City and Region fields. The later fields are typically displayed on the same line in an address (City State Zip). |
 
 ## <span id="Object_Columns_V"></span>Object Columns V
 
@@ -86,7 +86,7 @@ Displays sort order of columns within object.
 
 Show Name
 
-Click to display column name on the *[Results](Results.htm)* page.
+Click to display column name on the *[Results](Results)* page.
 
 Bold
 

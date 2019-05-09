@@ -20,7 +20,7 @@ When a Target is deleted in Target Design:
   - Metrics that use the Target are updated to remove data related to
     the deleted Target
   - Pending approvals for the Target are deleted from the *[Mapping
-    Approvals](../../Map/Page_Desc/Mapping_Approval_H.htm)* page
+    Approvals](../../Map/Page_Desc/Mapping_Approval_H)* page
   - Objects that have been built in the database such as tables, views
     and store procedures must be manually  removed
   - Construction tables and views will not be deleted, and the entry

@@ -16,7 +16,7 @@ To set the Preceding Weeks Count for dashboards:
 2.  Click **Edit**.
     
     *[View the field descriptions on the Parameters
-    page](../Page_Desc/Parameters_dspConduct.htm).*
+    page](../Page_Desc/Parameters_dspConduct).*
 
 <!-- end list -->
 

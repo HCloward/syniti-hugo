@@ -30,18 +30,18 @@ fixing errors.
 Click **DATA ENTRY** for the Data Entry role on the *Request (Roles)*
 page and edit the records on the data entry page. This is recommended
 when only a few changes need to be made. Refer to [Manually Change
-Data](Enter_Data_for_a_Request.htm#Manually_Change_Data)  for more
+Data](Enter_Data_for_a_Request#Manually_Change_Data)  for more
 information.
 
 Download the request data to a spreadsheet and make changes in Excel.
 This is recommended when there are a lot of changes or calculations need
 to be made. Refer to [Import a File at the Request-Role
-Level](Import_a_File_at_the_Request%20Role_Level.htm)  for more
+Level](Import_a_File_at_the_Request%20Role_Level)  for more
 information.
 
 Use the *MassChange* page in dspCompose™ to execute a mass change on the
 remaining records on the *DataEntry* page. Refer to [Mass Change
-Data](Enter_Data_for_a_Request.htm#Mass_Change_Data)  for more
+Data](Enter_Data_for_a_Request#Mass_Change_Data)  for more
 information.
 
 To correct and post the failed records:
@@ -74,5 +74,5 @@ To correct and post the failed records:
 **NOTE:** A Workflow email is sent to the next role and the request is
 processed like any other.
 
-Refer to [Correct Rejected Records](Correct_Rejected_Records.htm) for
+Refer to [Correct Rejected Records](Correct_Rejected_Records) for
 additional information.

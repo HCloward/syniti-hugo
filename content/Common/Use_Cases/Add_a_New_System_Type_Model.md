@@ -9,7 +9,7 @@ A System Type Model contains the definition of a system, including the
 system’s tables, fields, properties, descriptions and relationships. The
 System Type Model can be used to build a complete System Type.
 
-Refer to [System Types](System_Types_Overview.htm) for more information.
+Refer to [System Types](System_Types_Overview) for more information.
 
 A System Type Model is built by creating views that match the required
 formats as defined in the system’s data dictionary. Specifically, Model
@@ -26,7 +26,7 @@ include at least the Table and Table Field Model Views.
 
 To view the required fields and data type formats for a Model View,
 click the button next to the Model View on the *[System Types
-Models](../Page_Desc/System_Types_Models_H.htm)* page.
+Models](../Page_Desc/System_Types_Models_H)* page.
 
 A complete System Type Model for SAP and a simplified Model for JDE are
 delivered with the DSP®.
@@ -41,7 +41,7 @@ To add a System Type Model:
 2.  Click **Add**.
     
     *[View the field descriptions for the System Types Models
-    page](../Page_Desc/System_Types_Models_H.htm)*
+    page](../Page_Desc/System_Types_Models_H)*
 
 3.  Enter text in the **SYSTEM TYPE MODEL** text box.
 

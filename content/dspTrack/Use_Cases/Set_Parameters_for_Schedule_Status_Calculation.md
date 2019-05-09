@@ -19,7 +19,7 @@ To set parameters for schedule status calculation at the plan level:
     
     [View the field descriptions for the Plan page’s Vertical View
     Status Configuration
-    tab](../Page_Desc/Plan_H.htm#tatus_Configuration_Tab)
+    tab](../Page_Desc/Plan_H#tatus_Configuration_Tab)
 
 6.  Enter a value in the **Pre Start Warn Threshold** field.
     
@@ -113,7 +113,7 @@ level:
     
     [View the field descriptions for the Plan page’s Vertical View
     Status Configuration
-    tab](../Page_Desc/Plan_H.htm#tatus_Configuration_Tab)
+    tab](../Page_Desc/Plan_H#tatus_Configuration_Tab)
 
 7.  Select an option in the **Schedule Status Outlook ID** list box.
     

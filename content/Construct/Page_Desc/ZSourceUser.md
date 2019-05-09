@@ -7,7 +7,7 @@ solution = 'Migration'
 
 <div class="use">
 
-Use this page to [Set up ZSources.](../Config/Set_up_ZSources.htm)
+Use this page to [Set up ZSources.](../Config/Set_up_ZSources)
 
 </div>
 

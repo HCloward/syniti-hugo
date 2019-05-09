@@ -16,5 +16,5 @@ content to individual users based on user filters.
 
 To view filters, click **Your Filters** in the *Navigation* pane. Refer
 to [Define
-Filters](Configure_User_Settings_Reports_and_Filters.htm#Define_Filters)
+Filters](Configure_User_Settings_Reports_and_Filters#Define_Filters)
 for detailed information.

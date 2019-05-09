@@ -15,7 +15,7 @@ Calendars are used in dspTrack™ for schedule status calculations. Each
 plan can have a default calendar assigned so that non-working days and
 holidays can be included in schedule status calculations. Refer to [Set
 Parameters for Schedule Status
-Calculations](../../dspTrack/Use_Cases/Set_Parameters_for_Schedule_Status_Calculation.htm)
+Calculations](../../dspTrack/Use_Cases/Set_Parameters_for_Schedule_Status_Calculation)
 for more information.
 
 A calendar named Default is included when dspTrack™ is installed.
@@ -30,7 +30,7 @@ than the default calendar be used in dspTrack™.  
 
 A user can also change the calendar for any plan in dspTrack™. Refer to
 [Add a Default Calendar to a Plan or All
-Plans](../../dspTrack/Use_Cases/Add_a_Default_Calendar_to_a_Plan1.htm)
+Plans](../../dspTrack/Use_Cases/Add_a_Default_Calendar_to_a_Plan1)
 for more information.
 
 **NOTE:** If a calendar is being used for a plan in dspTrack™, the
@@ -50,14 +50,14 @@ considerations.  A user can only be assigned to one calendar at a time.
 
 To use a calendar:
 
-  - [Add a Calendar](Add_a_Calendar.htm)
-  - [Copy a Calendar](Copy_a_Calendar.htm)
+  - [Add a Calendar](Add_a_Calendar)
+  - [Copy a Calendar](Copy_a_Calendar)
   - [Add and Remove a Calendar's
-    Users](Add_and_Remove_a_Calendars_Users.htm)
+    Users](Add_and_Remove_a_Calendars_Users)
   - [Set Work Days and Work Hours for a
-    Calendar](SetWorkDysHrsCalendar.htm)
+    Calendar](SetWorkDysHrsCalendar)
   - [Add an Exception to the
-    Calendar](Add_an_Exception_to_the_Calendar.htm)
+    Calendar](Add_an_Exception_to_the_Calendar)
   - [Copy Work Hours Across Work
-    Days](Copy_Work_Hours_Across_Work_Days.htm)
-  - [Delete a Calendar](Delete_a_Calendar.htm)
+    Days](Copy_Work_Hours_Across_Work_Days)
+  - [Delete a Calendar](Delete_a_Calendar)

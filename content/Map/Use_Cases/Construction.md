@@ -10,7 +10,7 @@ defined in the Source system.
 
 Using the Construction action in Map is also called using Enhanced
 Construction. Refer to [Enhanced
-Construction](../../Construct/Use_Cases/Enrichment_Construction.htm) for
+Construction](../../Construct/Use_Cases/Enrichment_Construction) for
 more information.
 
 **NOTE:** If the field group is All (the default field group (\*)) and
@@ -26,14 +26,14 @@ construct data.
 
 To create a field mapping using the Construction action on the
 <span style="font-style: italic;">[Field
-Mappings](../Page_Desc/Field_Mappings_H.htm)</span> page:
+Mappings](../Page_Desc/Field_Mappings_H)</span> page:
 
 1.  Select the field to be mapped.
 
 2.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the Field Mappings
-    page](../Page_Desc/Field_Mappings_H.htm)
+    page](../Page_Desc/Field_Mappings_H)
 
 3.  Select **Construction** from the **ACTION** list box.
 
@@ -58,7 +58,7 @@ Mappings](../Page_Desc/Field_Mappings_H.htm)</span> page:
     <span style="font-weight: bold;">SOURCE FIELD</span> and rules.
     
     **NOTE:** If the Auto Gen Level on the
-    <span style="font-style: italic;">[Automation](../../SQL_AutoGen/Page_Desc/Automation_page.htm)</span>
+    <span style="font-style: italic;">[Automation](../../SQL_AutoGen/Page_Desc/Automation_page)</span>
     page's <span style="font-style: italic;">Vertical</span> View is set
     to Off for the Target, the table and field are not created in the
     Target database and a page is not created in Construct.
@@ -67,9 +67,9 @@ The mapping must be approved by a Developer on the *Mapping
 Approvals*page for documentation purposes and to help track progress of
 the data migration project. Refer to
 <span style="color: #0000ff;">[Mapping
-Approvals](Approve_or_Reject_Mappings.htm)</span> and
+Approvals](Approve_or_Reject_Mappings)</span> and
 <span style="color: #0000ff;">[Assign Developers to a Target or
-Source](../../Design/Use_Cases/Add_Developers_and%20Business%20Contacts.htm)</span>
+Source](../../Design/Use_Cases/Add_Developers_and%20Business%20Contacts)</span>
 for more information.
 
 Once the mapping has been created, the **Action, Source Table, Source
@@ -83,7 +83,7 @@ the following events occurs:
 and Approved By field will be reset to NULL values. The Rejected By
 field does not update and contains the user ID of the Developer who
 rejected the mapping on the <span style="font-style: italic;">[Mapping
-Approval](../Page_Desc/Mapping_Approval_H.htm)</span> page. The Mapper
+Approval](../Page_Desc/Mapping_Approval_H)</span> page. The Mapper
 can contact the Developer with any questions.
 
 Once the fields allow update, edit them, then click **Save** and click

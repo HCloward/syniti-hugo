@@ -32,7 +32,7 @@ To create a custom workflow message:
 2.  Click **Add.**
     
     *[View the field descriptions for the Workflow Message Summary
-    page](../Page_Desc/WorkFlow_Message_Summary_H.htm)*
+    page](../Page_Desc/WorkFlow_Message_Summary_H)*
 
 3.  Enter the user-friendly name of the workflow in the **WORKFLOW
     NAME** field.
@@ -47,12 +47,12 @@ To create a custom workflow message:
 7.  Click **Edit** on the Page toolbar.
     
     [View the field descriptions for the Workflow Message Summary page's
-    Vertical View](../Page_Desc/WorkFlow_Message_Summary_H.htm)
+    Vertical View](../Page_Desc/WorkFlow_Message_Summary_H)
 
 8.  Select a schedule from the **Schedule ID** list box to control when
     the workflow email is sent. These schedules are defined in Common.
     Refer to [Create
-    Schedules](../../../Platform/Common/Use_Cases/Create_Schedules.htm)
+    Schedules](../../../Platform/Common/Use_Cases/Create_Schedules)
     fro detailed information.
 
 9.  Enter text to display in the body of the workflow email in the
@@ -83,7 +83,7 @@ System Administration.
 To add users to the workflow message:
 
 1.  From the *[Workflow Message
-    Summary](../Page_Desc/WorkFlow_Message_Summary_H.htm)* page’s
+    Summary](../Page_Desc/WorkFlow_Message_Summary_H)* page’s
     *Horizontal* View, click the **Users** icon for the workflow name.
 
 2.  The page opens in Add mode if no users have been added. If users
@@ -93,7 +93,7 @@ To add users to the workflow message:
     valid user set up in System Administration with security to Console.
     
     [View the field descriptions for the Workflow Message Summary User
-    page](../Page_Desc/WorkFlow_Message_Summary_User.htm)
+    page](../Page_Desc/WorkFlow_Message_Summary_User)
 
 4.  Click **Save**.
 
@@ -107,13 +107,13 @@ Administration before being added to the workflow summary.
 To register workflow views in Console:
 
 1.  From the **[Workflow Message
-    Summary](../Page_Desc/WorkFlow_Message_Summary_H.htm)*
+    Summary](../Page_Desc/WorkFlow_Message_Summary_H)*
     page’sHorizontal* View, click **Views** for the workflow name.
 
 2.  Click **Add** on the Page toolbar.
     
     [View  the field descriptions for the Workflow Summary Views
-    page](../Page_Desc/WorkFlow_Summary_Views_H.htm)
+    page](../Page_Desc/WorkFlow_Summary_Views_H)
 
 3.  Enter a sort order in the **PRIORITY** field to control the order in
     which the view is run, if more than one view is registered for a
@@ -132,7 +132,7 @@ To register workflow views in Console:
 8.  Click **Edit** on the Page toolbar.
     
     [View the field descriptions for the WorkFlow Summary Views Vertical
-    View](../Page_Desc/WorkFlow_Summary_Views_H.htm)
+    View](../Page_Desc/WorkFlow_Summary_Views_H)
 
 9.  Enter a title for the summary information that will appear in the
     workflow for this view in the **Title** field.
@@ -154,7 +154,7 @@ run immediately, ignoring the Next Run Time.
 To process a workflow message immediately:
 
 1.  From the *[Workflow Message
-    Summary](../Page_Desc/WorkFlow_Message_Summary_H.htm)* page’s
+    Summary](../Page_Desc/WorkFlow_Message_Summary_H)* page’s
     *Horizontal* View, click the **Process** icon for the workflow name;
     a confirmation message displays.
 2.  Click **Ok**.

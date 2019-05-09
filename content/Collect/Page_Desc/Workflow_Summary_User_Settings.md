@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Configure Workflow Summary User
-Settings](../Use_Cases/Configure_Workflow_Summary_User_Settings.htm).
+Settings](../Use_Cases/Configure_Workflow_Summary_User_Settings).
 
 </div>
 
@@ -33,7 +33,7 @@ Administrative \> Workflow Summary User Settings</span> in the
 <tr class="even">
 <td><p>WORK FLOW SUMMARY</p></td>
 <td><p>If enabled, the user receives summary emails of workflow notifications instead of a separate email for each notification.The workflow summary email is sent once daily.</p>
-<p><strong>NOTE:</strong> This check box must be enabled for the target and Data Controller so that the Data Controller will receive a warning email that data is going to be purged. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance.htm#Configure_Data_Protection">Configure Data Protection</a> for more information.</p></td>
+<p><strong>NOTE:</strong> This check box must be enabled for the target and Data Controller so that the Data Controller will receive a warning email that data is going to be purged. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance#Configure_Data_Protection">Configure Data Protection</a> for more information.</p></td>
 </tr>
 </tbody>
 </table>

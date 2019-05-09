@@ -10,7 +10,7 @@ the system(s) of record after all dependent Application and Review roles
 are completed.
 
 A Role Processor uses the *[Request
-Role](../Page_Desc/Request_Role_H.htm)* page to finish roles, indicating
+Role](../Page_Desc/Request_Role_H)* page to finish roles, indicating
 that the work assigned to that role is complete for the request. Once
 the user clicks the Finish button, the Final Finish process runs. At
 this point, the request status is either:
@@ -31,7 +31,7 @@ Finish Processing status does not display for the user.
     has downloaded successfully.
 
 Refer to [Final Finish Process for a
-Reque](Final_Finish_Process_for_a_Request_Overview.htm)st for more
+Reque](Final_Finish_Process_for_a_Request_Overview)st for more
 information.
 
 <span style="font-weight: bold;">NOTE</span>: The Post role cannot
@@ -42,8 +42,8 @@ with Errors, meaning that at least one posting process has failed.
 
 Before performing this task, a request must have been approved or the
 Review Role must be set to AutoFinish. Refer to [Approve a
-Request](Approve_a_Request.htm) and [Auto Finish a
-Role](Auto_Finish_a_Role.htm) for more information.
+Request](Approve_a_Request) and [Auto Finish a
+Role](Auto_Finish_a_Role) for more information.
 
 After the Final Finish process, when the Post role is finished:
 
@@ -57,21 +57,21 @@ within the business process are completed. Dependencies are considered
 completed even when a scenario exists as a dependency but is not
 technically part of the business process. Refer to [Business Process
 Execution during Final
-Finish](Business_Process_Execution_During_Final_Finish.htm) for more
+Finish](Business_Process_Execution_During_Final_Finish) for more
 information.
 
   - The users assigned to the Application role for the dependent
     scenario’s request receive a notification that work on the newly
     created request can begin. Refer to [Add a Dependent Scenario to a
-    Scenario](Add_a_Dependent_Scenario.htm) for more information.
+    Scenario](Add_a_Dependent_Scenario) for more information.
 
 <span style="font-weight: bold;">NOTE</span>: A setting can be
 configured at the Category level to post data automatically after all
 dependent roles are complete (i.e., the Application role(s) is finished
 and the Review role has approved the updates.)  In this case, the
 request process bypasses the Post role, and that role does not need to
-finish the request. Refer to [Create a Category](Create_a_Category.htm)
-and [Auto Post a Request](Post_a_Request.htm#Auto_Post_a_Request) for
+finish the request. Refer to [Create a Category](Create_a_Category)
+and [Auto Post a Request](Post_a_Request#Auto_Post_a_Request) for
 more information.  
 
 <span style="font-weight: bold;">NOTE</span>: For new requests that are

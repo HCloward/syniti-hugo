@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Register Workflow
-Events](../Use_Cases/Register_Workflow_Events.htm).
+Events](../Use_Cases/Register_Workflow_Events).
 
 </div>
 

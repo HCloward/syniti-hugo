@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Configure Logging
-Severities](../Use_Cases/Configure_Logging_Severities.htm).
+Severities](../Use_Cases/Configure_Logging_Severities).
 
 </div>
 
@@ -88,9 +88,9 @@ Formatting Info
 Html Pre Tag
 
 Displays an HTML preformat text applied to the log message in the
-Automate *[Log](Log.htm)* page.
+Automate *[Log](Log)* page.
 
 Html Post Tag
 
 Displays an HTML postformat text applied to the log message in the
-Automate *[Log](Log.htm)* page.
+Automate *[Log](Log)* page.

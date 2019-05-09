@@ -10,18 +10,18 @@ database.
 
 Import is also allowed from a System Type or from an Excel file (using a
 provided template). Refer to [Import Target Design from a System
-Type](Import_from_a_System_Type.htm) and [Import Target Design from an
-Excel File](Import_from_an_Excel_File.htm) for more information.
+Type](Import_from_a_System_Type) and [Import Target Design from an
+Excel File](Import_from_an_Excel_File) for more information.
 
 When initially importing from a database, the table(s) and fields are
 imported. When importing a table that has already been imported for the
 Target, only updates are applied.
 
 After a successful import, the table displays on the
-*[Targets](../Page_Desc/Targets_H_Design.htm)* page in Target Design,
+*[Targets](../Page_Desc/Targets_H_Design)* page in Target Design,
 with 'tt' appended to the front of the table name. When a user selects
 the Target on the *Targets* page, the fields in the Target table display
-on the *[Target Fields](../Page_Desc/Target_Fields_H_Target_Design.htm)*
+on the *[Target Fields](../Page_Desc/Target_Fields_H_Target_Design)*
 page.
 
 **NOTE:** Ordering of columns is lost when a table is reimported.
@@ -41,7 +41,7 @@ To import a database table in Target Design:
     
     **NOTE:** These data sources are registered in Common  and have the
     data source type of SqlServer. Refer to [Register a Data Source in
-    Common](../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common.htm)
+    Common](../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common)
     for more information.
 
 4.  Click the **IMPORT** check box to include a table in the import.

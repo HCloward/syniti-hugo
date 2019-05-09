@@ -28,7 +28,7 @@ To configure parameters in Transform:
 4.  Click **Edit**.
     
     *[View the field descriptions for the Parameters
-    page](../../Console/Page_Desc/Parameters.htm#Transform_Tab)*
+    page](../../Console/Page_Desc/Parameters#Transform_Tab)*
 
 5.  Update parameters as needed.
 

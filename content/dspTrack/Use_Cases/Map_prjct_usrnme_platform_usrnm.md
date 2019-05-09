@@ -27,7 +27,7 @@ user ID:</span>
     Otherwise, click **Add**.
     
     *[View the field descriptions for the Resource Synonym
-    page.](../Page_Desc/Resource_Synonym.htm)*
+    page.](../Page_Desc/Resource_Synonym)*
 
 6.  Select the platform user ID from the **USER ID** list box.
 

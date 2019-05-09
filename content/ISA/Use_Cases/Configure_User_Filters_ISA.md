@@ -8,7 +8,7 @@ rules that include the specified field(s).
 
 User filters can also be set on the
 <span style="font-style: italic;">[Project Distribution
-Users](../Page_Desc/Project_Distribution_Users.htm)</span> page for a
+Users](../Page_Desc/Project_Distribution_Users)</span> page for a
 specific project distribution.
 
 User filters are AND combined with project distribution filters. When
@@ -28,7 +28,7 @@ To define a filter for a user for all project distributions:
     <span style="font-weight: bold;">Add</span>.
     
     *[View the field descriptions for the User Filters
-    page](User_Filters_ISA.htm)*
+    page](User_Filters_ISA)*
 
 4.  Enter a filter field in **FIELD** field.
     
@@ -57,7 +57,7 @@ To define a filter for a user for a specific project distribution:
     **Add**.
     
     [View the field descriptions for the Project Distribution User
-    Filters page](../Page_Desc/Project_Distribution_User_Filters.htm)
+    Filters page](../Page_Desc/Project_Distribution_User_Filters)
 
 6.  Enter a filter field in **FIELD** field
     

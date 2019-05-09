@@ -12,8 +12,8 @@ system.
 the associated files and code to support the Custom template.</span>
 
 After a Custom template has been [added to a
-process](Add_the_Custom_Template_to_a_Process.htm) and the [process has
-been activated](Activate_the_Process_Custom_Template.htm), the process
+process](Add_the_Custom_Template_to_a_Process) and the [process has
+been activated](Activate_the_Process_Custom_Template), the process
 can be posted.
 
 Integrate automatically creates a process post for a process template
@@ -22,7 +22,7 @@ process is saved.</span>
 
 **NOTE**: Data can be posted using a multiple template process. Refer to
 [Post a Process with Multiple
-Templates](Post_a_Process_with_Multiple_Templates.htm) for more
+Templates](Post_a_Process_with_Multiple_Templates) for more
 information.
 
 **NOTE**: When posting data to a target system, a Template Administrator
@@ -33,7 +33,7 @@ process). When a process template that has an After Post Rule registered
 posts successfully, the data is passed to the next dependent process
 template as an input parameter. Refer to [Register After Post Rules to a
 Process
-Template](Register_After_Post_Rules_to_a_Process_Template_Overview.htm)
+Template](Register_After_Post_Rules_to_a_Process_Template_Overview)
 for more information.
 
 <span style="font-weight: bold;">NOTE</span>: A process must be active
@@ -58,7 +58,7 @@ To post data using a Custom template:
     work.
 
 5.  Return to the <span style="font-style: italic;">[Process
-    Post](../Page_Desc/Process_Post_H.htm)</span> page.
+    Post](../Page_Desc/Process_Post_H)</span> page.
 
 6.  Click the **Post** icon; a confirmation message displays.
 

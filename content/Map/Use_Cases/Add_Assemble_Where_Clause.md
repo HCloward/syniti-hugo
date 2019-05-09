@@ -14,7 +14,7 @@ To add an Assemble Where Clause in Map:
 1.  Select **ProcessArea** in the *Navigation* pane.
 
 2.  Click the **Targets** icon on the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page.
 
 3.  Click the **Sources** icon for a Target.
 
@@ -25,7 +25,7 @@ To add an Assemble Where Clause in Map:
     
     [View the field descriptions for the *Target Sources* page's
     Vertical
-    View](../Page_Desc/Target_Sources_H_Map.htm#Target_Sources_V)
+    View](../Page_Desc/Target_Sources_H_Map#Target_Sources_V)
 
 6.  Enter the WHERE clause in the **Assemble Where Clause** field.
     

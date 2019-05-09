@@ -15,11 +15,11 @@ starting point for Category Language-specific messages which may be
 edited.
 
 Refer to [Edit Category Language-specific
-Messages](Edit_Category_Language_specific_Messages.htm) for more
+Messages](Edit_Category_Language_specific_Messages) for more
 information.
 
 Refer to [Configure Workflow Messages
-Overview](Configure_Workflow_Messages_Overview.htm) for general
+Overview](Configure_Workflow_Messages_Overview) for general
 information.
 
 To view default workflow messages click

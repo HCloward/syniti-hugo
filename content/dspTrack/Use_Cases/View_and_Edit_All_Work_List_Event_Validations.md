@@ -19,7 +19,7 @@ To edit an Event Validation on this page:
 2.  Click **Edit**; *Vertical* View displays.
     
     [View the field descriptions for the Event Validations All
-    page](../Page_Desc/Event_Validations_All.htm)
+    page](../Page_Desc/Event_Validations_All)
 
 3.  Enter a value in **PRIORITY** field.
     
@@ -30,7 +30,7 @@ To edit an Event Validation on this page:
     
     **NOTE**: This data source must be registered in Common. Refer to
     [Register a Data Source in
-    Common](../../Common/Use_Cases/Register_a_Data_Source_in_Common.htm)
+    Common](../../Common/Use_Cases/Register_a_Data_Source_in_Common)
     for more information.
 
 5.  Select the name of the stored procedure or view from the

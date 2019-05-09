@@ -19,7 +19,7 @@ To customize actions:
 2.  Click **Add.**
     
     [View the field descriptions for the Automation Engine Action
-    page](../Page_Desc/Automation_Engine_Action_H.htm)
+    page](../Page_Desc/Automation_Engine_Action_H)
 
 3.  Enter an action in a DSP® component that calls the AE task or task
     group in the **ACTION** field.
@@ -37,7 +37,7 @@ To customize actions:
 7.  Click **Edit.**
     
     [View the field descriptions for the Automation Engine Action
-    page](../Page_Desc/Automation_Engine_Action_H.htm)
+    page](../Page_Desc/Automation_Engine_Action_H)
 
 8.  Enter an ID that uniquely identifies execution of AEID in the
     <span style="font-weight: bold;">Execution ID</span>field.

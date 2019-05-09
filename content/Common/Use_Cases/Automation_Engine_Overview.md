@@ -20,25 +20,25 @@ The Automation Engine hierarchy is as follows:
 
 This use case includes the following topics:
 
-  - [Register Public Plugins](Register_Public_Plugins.htm)
+  - [Register Public Plugins](Register_Public_Plugins)
 
-  - [Create Instructions](Create_Instructions.htm)
+  - [Create Instructions](Create_Instructions)
 
-  - [Copy Instructions](Copy_Instructions.htm)
+  - [Copy Instructions](Copy_Instructions)
 
-  - [Create Tasks](Create_Tasks.htm)
+  - [Create Tasks](Create_Tasks)
 
-  - [Define Instructions for Tasks](Define_Instructions_for_Tasks.htm)
+  - [Define Instructions for Tasks](Define_Instructions_for_Tasks)
 
-  - [Copy Tasks](Copy_Tasks.htm)
+  - [Copy Tasks](Copy_Tasks)
 
-  - [Create Task Groups](Create_Task_Groups.htm)
+  - [Create Task Groups](Create_Task_Groups)
 
-  - [Define Tasks for Task Group](Define_Tasks_for_Task_Group.htm)
+  - [Define Tasks for Task Group](Define_Tasks_for_Task_Group)
 
-  - [Copy Task Groups](Copy_Task_Groups.htm)
+  - [Copy Task Groups](Copy_Task_Groups)
 
-  - [Modify Actions](Modify_Actions.htm)
+  - [Modify Actions](Modify_Actions)
 
   - [Generate Records in the AE History
-    Table](Generate_Records_in_the_AE_History_Table.htm)
+    Table](Generate_Records_in_the_AE_History_Table)

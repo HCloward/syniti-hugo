@@ -7,7 +7,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Copy Task Groups](Copy_Task_Groups.htm).
+Use this page to [Copy Task Groups](Copy_Task_Groups).
 
 </div>
 

@@ -36,7 +36,7 @@ A template cannot be activated if:
     the template uses an external request scenario that creates
     Excel-initiated requests. Refer to [Map Columns from the Template to
     Columns from the
-    Spreadsheet](../../../Migration/Map/Use_Cases/Map_Columns_Template_to_Sprdsht.htm)
+    Spreadsheet](../../../Migration/Map/Use_Cases/Map_Columns_Template_to_Sprdsht)
      for more information.
 
 To activate a template:
@@ -61,6 +61,6 @@ tab.
 requests for the template, it cannot be deactivated. To make changes to
 template configuration, either finish the requests and deactivate the
 template, [Modify an Active Template in Developer
-Mode](Modify_an_Active_Template_in_Developer_Mode.htm), or delete all
+Mode](Modify_an_Active_Template_in_Developer_Mode), or delete all
 requests for the template (on the Templates page’s Vertical View, on the
 Advanced tab, click Delete All Requests).

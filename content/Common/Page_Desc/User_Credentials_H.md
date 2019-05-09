@@ -5,13 +5,13 @@ solution = 'Platform'
 
 # User Credentials H
 
-[User Credentials V](User_Credentials_H.htm#User_Credentials_V)
+[User Credentials V](User_Credentials_H#User_Credentials_V)
 
 <div class="use">
 
 Use this page to [Add Stored Credentials as a User on a Page in
 Integrate or
-dspCompose](../../../Data_Quality/dspCompose/Config/Add_Stored_Credentials_as_a_User_on_a_Page_in_Integrate_or_dspCompose.htm).
+dspCompose](../../../Data_Quality/dspCompose/Config/Add_Stored_Credentials_as_a_User_on_a_Page_in_Integrate_or_dspCompose).
 
 </div>
 
@@ -37,22 +37,22 @@ To access this page:
 <tr class="even">
 <td><p>DATA SOURCE ID</p></td>
 <td><p>Displays the name of the data source, registered in Common, to which credentials are added.</p>
-<p>Refer to <a href="../Use_Cases/Data_Sources_in_Common.htm">Data Source in Common</a> for more information.</p>
-<p><strong>NOTE:</strong> The data source for the template is associated with the connection selected in the CONNECTION ID list box on the <span style="font-style: italic;"><a href="../../Integrate/Page_Desc/Template_H.htm">Template</a></span> page’s <span style="font-style: italic;">Horizontal</span> View in Integrate. In dspCompose™, the connection is selected on the <span style="font-style: italic;">Vertical</span> View of the <span style="font-style: italic;"><a href="../../../Data_Quality/dspCompose/Page_Desc/Templates_H.htm">Templates</a></span> page. When the connection is set, the data source for the template is also set.</p>
-<p>The user credentials for the connection can be supplied using different methods. Refer to <a href="../../../Data_Quality/dspCompose/Config/User_Credentials_in_dspCompose.htm">User Credentials in dspCompose™</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Data_Sources_in_Common">Data Source in Common</a> for more information.</p>
+<p><strong>NOTE:</strong> The data source for the template is associated with the connection selected in the CONNECTION ID list box on the <span style="font-style: italic;"><a href="../../Integrate/Page_Desc/Template_H">Template</a></span> page’s <span style="font-style: italic;">Horizontal</span> View in Integrate. In dspCompose™, the connection is selected on the <span style="font-style: italic;">Vertical</span> View of the <span style="font-style: italic;"><a href="../../../Data_Quality/dspCompose/Page_Desc/Templates_H">Templates</a></span> page. When the connection is set, the data source for the template is also set.</p>
+<p>The user credentials for the connection can be supplied using different methods. Refer to <a href="../../../Data_Quality/dspCompose/Config/User_Credentials_in_dspCompose">User Credentials in dspCompose™</a> for more information.</p></td>
 </tr>
 </tbody>
 </table>
 
 ## <span id="User_Credentials_V"></span>User Credentials V
 
-[User Credentials H](User_Credentials_H.htm)
+[User Credentials H](User_Credentials_H)
 
 <div class="use">
 
 Use this page to [Add Stored Credentials as a User on a Page in
 Integrate or
-dspCompose](../../../Data_Quality/dspCompose/Config/Add_Stored_Credentials_as_a_User_on_a_Page_in_Integrate_or_dspCompose.htm).
+dspCompose](../../../Data_Quality/dspCompose/Config/Add_Stored_Credentials_as_a_User_on_a_Page_in_Integrate_or_dspCompose).
 
 </div>
 
@@ -69,9 +69,9 @@ dspCompose](../../../Data_Quality/dspCompose/Config/Add_Stored_Credentials_as_a_
 <tr class="odd">
 <td><p>Data Source ID</p></td>
 <td><p>Displays the name of the data source, registered in Common, to which credentials are added.</p>
-<p>Refer to <a href="../Use_Cases/Data_Sources_in_Common.htm">Data Source in Common</a> for more information.</p>
-<p><strong>NOTE:</strong> The data source for the template is associated with the connection selected in the CONNECTION ID list box on the <span style="font-style: italic;"><a href="../../Integrate/Page_Desc/Template_H.htm">Template</a></span> page’s <span style="font-style: italic;">Horizontal</span> View in Integrate. In dspCompose™, the connection is selected on the <span style="font-style: italic;">Vertical</span> View of the <span style="font-style: italic;"><a href="../../../Data_Quality/dspCompose/Page_Desc/Templates_H.htm">Templates</a></span> page. When the connection is set, the data source for the template is also set.</p>
-<p>The user credentials for the connection can be supplied using different methods. Refer to <a href="../../../Data_Quality/dspCompose/Config/User_Credentials_in_dspCompose.htm">User Credentials in dspCompose™</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Data_Sources_in_Common">Data Source in Common</a> for more information.</p>
+<p><strong>NOTE:</strong> The data source for the template is associated with the connection selected in the CONNECTION ID list box on the <span style="font-style: italic;"><a href="../../Integrate/Page_Desc/Template_H">Template</a></span> page’s <span style="font-style: italic;">Horizontal</span> View in Integrate. In dspCompose™, the connection is selected on the <span style="font-style: italic;">Vertical</span> View of the <span style="font-style: italic;"><a href="../../../Data_Quality/dspCompose/Page_Desc/Templates_H">Templates</a></span> page. When the connection is set, the data source for the template is also set.</p>
+<p>The user credentials for the connection can be supplied using different methods. Refer to <a href="../../../Data_Quality/dspCompose/Config/User_Credentials_in_dspCompose">User Credentials in dspCompose™</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>User</p></td>

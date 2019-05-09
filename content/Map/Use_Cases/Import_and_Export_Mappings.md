@@ -11,9 +11,9 @@ imported into another Source in Map.
 
 A default mapping set is delivered. Mapping sets can also be added on
 the <span style="font-style: italic;">[System Types
-Mappings](../../../Platform/Common/Page_Desc/System_Types_Mappings.htm)</span>
+Mappings](../../../Platform/Common/Page_Desc/System_Types_Mappings)</span>
 page and on the <span style="font-style: italic;">[Export Field
-Mappings](../Page_Desc/Export_Field_Mappings.htm)</span> page.
+Mappings](../Page_Desc/Export_Field_Mappings)</span> page.
 
 To import and export mappings:
 
@@ -43,7 +43,7 @@ To add a mapping set to a System Type  in Common:
 3.  Click <span style="font-weight: bold;">Edit</span> for a mapping.
     
     [View the field descriptions for the System Types Mappings
-    page](../../../Platform/Common/Page_Desc/System_Types_Mappings.htm)
+    page](../../../Platform/Common/Page_Desc/System_Types_Mappings)
 
 4.  Click the<span style="font-weight: bold;"> MAPPING SET ID</span>
     list box.
@@ -73,12 +73,12 @@ To import mappings in Map:
 
 1.  Verify mappings are set up for the Target Source in Common. Refer to
     Common documentation on [System
-    Types](../../../Platform/Common/Use_Cases/System_Types_Overview.htm)
+    Types](../../../Platform/Common/Use_Cases/System_Types_Overview)
     for detailed information.
 2.  Click **Map** in the Context bar.
 3.  Click the <span style="font-weight: bold;">Targets</span> icon on
     the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page.
 4.  Click the <span style="font-weight: bold;">Sources</span> icon for a
     Target.
 5.  Click <span style="font-weight: bold;">Vertical View</span> for the
@@ -104,7 +104,7 @@ To export mappings from a Source in Map:
 
 2.  Click the <span style="font-weight: bold;">Targets</span> icon on
     the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page.
 
 3.  Click the **Sources** icon for a Target.
 
@@ -115,7 +115,7 @@ To export mappings from a Source in Map:
 6.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the Export Field Mappings
-    page.](../Page_Desc/Export_Field_Mappings.htm)
+    page.](../Page_Desc/Export_Field_Mappings)
 
 7.  Select a mapping set from the
     <span style="font-weight: bold;">Mapping Set ID</span> list box or

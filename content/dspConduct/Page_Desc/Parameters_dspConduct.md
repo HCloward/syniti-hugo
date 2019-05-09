@@ -10,11 +10,11 @@ solution = 'Master Data Management'
 Use this page to:
 
   - [Set Preceding Weeks Count for
-    Dashboards](../Config/Set_Preceding_Weeks_Count_for_Dashboards.htm)
+    Dashboards](../Config/Set_Preceding_Weeks_Count_for_Dashboards)
   - [Set Currency Display
-    Label](../Config/Set_Currency_Display_Label.htm)
+    Label](../Config/Set_Currency_Display_Label)
   - [Set Calendar Used For Business Value
-    Calculations](../Config/Set_Calendar_Used_For_Business_Value_Calculations.htm)
+    Calculations](../Config/Set_Calendar_Used_For_Business_Value_Calculations)
 
 </div>
 
@@ -42,7 +42,7 @@ Preceding Weeks Count
 Displays the number of prior weeks to display on the count metrics
 charts.
 
-Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts.htm) for
+Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts) for
 more information about dashboards in dspConduct™.
 
 Business Value Parameters
@@ -51,12 +51,12 @@ Currency
 
 Displays the type of currency that is displayed for currency fields in
 dspConduct™ business processes. Average Cost Per Hour value on the
-*[Business Process](../Use_Cases/Manage_Business_Process.htm)* page’s
+*[Business Process](../Use_Cases/Manage_Business_Process)* page’s
 *Vertical* View must be entered based on the currency chosen.
 
 Refer to [Set Currency Display
-Label](../Config/Set_Currency_Display_Label.htm) and [Configure Business
-Value Parameters](../Use_Cases/Configure_Business_Value_Parameters.htm)
+Label](../Config/Set_Currency_Display_Label) and [Configure Business
+Value Parameters](../Use_Cases/Configure_Business_Value_Parameters)
 for more information.
 
 Business Value Calendar
@@ -65,5 +65,5 @@ Displays the calendar in Common that is used to calculate the Request
 Working Hours for the business value dashboard calculations.
 
 Refer to [Set Calendar Used For Business Value
-Calculations](../Config/Set_Calendar_Used_For_Business_Value_Calculations.htm)
+Calculations](../Config/Set_Calendar_Used_For_Business_Value_Calculations)
 for more information.

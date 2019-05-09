@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Escalate Late
-Tasks](../Use_Cases/Escalate_Late_Tasks.htm).
+Tasks](../Use_Cases/Escalate_Late_Tasks).
 
 </div>
 

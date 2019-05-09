@@ -3,15 +3,15 @@
 To set up security for the ISA:
 
 1.  [Create User
-    Accounts](../../../Platform/Sys_Admin/Use_Cases/Create_User_Accounts_in_System_Administration.htm)
+    Accounts](../../../Platform/Sys_Admin/Use_Cases/Create_User_Accounts_in_System_Administration)
     (performed by an Administrator).
 
 2.  [Create an ISA Security
-    Role](../Use_Cases/Create_an_ISA_Security_Role.htm) (performed by an
+    Role](../Use_Cases/Create_an_ISA_Security_Role) (performed by an
     Administrator).
 
 3.  [Assign Users to the ISA Security
-    Role](../../../Platform/Sys_Admin/Use_Cases/Assign_Users_to_Security_Roles.htm)
+    Role](../../../Platform/Sys_Admin/Use_Cases/Assign_Users_to_Security_Roles)
     (performed byan Administrator).
 
 4.  Select Information Steward Accelerator \> Configuration \> Users in
@@ -25,4 +25,4 @@ To set up security for the ISA:
     assigned in order to appear as an available user for distribution.
 
 5.  [Activate Users in a Project
-    Distribution.](../Use_Cases/Add_Users_to_a_Project_Distribution.htm)
+    Distribution.](../Use_Cases/Add_Users_to_a_Project_Distribution)

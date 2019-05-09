@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Import
-Mappings](../Use_Cases/Import_and_Export_Mappings.htm#Import_a_Mapping_Set).
+Mappings](../Use_Cases/Import_and_Export_Mappings#Import_a_Mapping_Set).
 
 </div>
 
@@ -17,7 +17,7 @@ To access this page in dspMigrate:
 1.  Select <span style="font-weight: bold;">Map </span>in the Context
     bar.
 2.  Click the <span style="font-weight: bold;">Targets</span> icon on
-    the *[Process Area Launch](Process_Area_Launch_map.htm)* page.
+    the *[Process Area Launch](Process_Area_Launch_map)* page.
 3.  Click the <span style="font-weight: bold;">Sources</span> icon for a
     Target.
 4.  Click the <span style="font-weight: bold;">Vertical View</span> icon
@@ -115,19 +115,19 @@ To access this page in dspMigrate:
 </tr>
 <tr class="even">
 <td><p>MAPPED ON</p></td>
-<td><p>Displays date and time when the MAPPING STATUS was set on the <em><a href="Field_Mappings_H.htm">Field Mappings</a></em> page.</p></td>
+<td><p>Displays date and time when the MAPPING STATUS was set on the <em><a href="Field_Mappings_H">Field Mappings</a></em> page.</p></td>
 </tr>
 <tr class="odd">
 <td><p>SUBMITTED BY</p></td>
-<td><p>Displays the user ID of the user who clicked Submit on the <span style="font-style: italic;"><a href="Field_Mappings_H.htm">Field Mappings</a></span> page.</p></td>
+<td><p>Displays the user ID of the user who clicked Submit on the <span style="font-style: italic;"><a href="Field_Mappings_H">Field Mappings</a></span> page.</p></td>
 </tr>
 <tr class="even">
 <td><p>SUBMITTED ON</p></td>
-<td><p>Displays date and time when the Submit button was clicked on the <em><a href="Field_Mappings_H.htm">Field Mappings</a></em> page.</p></td>
+<td><p>Displays date and time when the Submit button was clicked on the <em><a href="Field_Mappings_H">Field Mappings</a></em> page.</p></td>
 </tr>
 <tr class="odd">
 <td><p>APPROVED BY</p></td>
-<td><p>Displays user ID of Developer who approved the mapping on the <span style="font-size: 11.0pt;font-family: Arial, sans-serif;font-style: italic;"><a href="Mapping_Approval_H.htm">Mapping Approval</a></span> page.</p></td>
+<td><p>Displays user ID of Developer who approved the mapping on the <span style="font-size: 11.0pt;font-family: Arial, sans-serif;font-style: italic;"><a href="Mapping_Approval_H">Mapping Approval</a></span> page.</p></td>
 </tr>
 <tr class="even">
 <td><p>APPROVED ON</p></td>

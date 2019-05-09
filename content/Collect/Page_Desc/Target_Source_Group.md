@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Build and Refresh Tables for a Schedule
-Group](../Use_Cases/Build_and_Refresh_Tables_for_a_Schedule_Group.htm).
+Group](../Use_Cases/Build_and_Refresh_Tables_for_a_Schedule_Group).
 
 </div>
 
@@ -28,4 +28,4 @@ Source.
 | Refresh        | Click to manually extract a copy of data in the schedule group from source and load into the target.                                                  |
 | Clear Group    | Click to remove tables from the group. This process doesn’t delete tables; it moves tables to NoGroup group.                                          |
 | SCHEDULE GROUP | Displays name of the group used to restrict one table to run at a time.                                                                               |
-| Tables         | Click to open the <span style="font-style: italic;">[Target Source Tables](Target_Source_Tables.htm)</span> page to add tables to the schedule group. |
+| Tables         | Click to open the <span style="font-style: italic;">[Target Source Tables](Target_Source_Tables)</span> page to add tables to the schedule group. |

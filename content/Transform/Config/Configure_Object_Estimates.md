@@ -18,7 +18,7 @@ To edit an Object Estimate in Transform:
 2.  Click **Edit** for an Object Type.
     
     *[View the field descriptions for the Object Estimates (Setup)
-    page.](../Page_Desc/Object_Estimates_Setup.htm)*
+    page.](../Page_Desc/Object_Estimates_Setup)*
 
 3.  Update the **COUNT ESTIMATE**.
 

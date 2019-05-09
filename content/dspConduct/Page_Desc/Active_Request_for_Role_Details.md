@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to view details for the [Active Requests for
-Role](../Use_Cases/Active_Requests_for_Role.htm) chart.
+Role](../Use_Cases/Active_Requests_for_Role) chart.
 
 </div>
 

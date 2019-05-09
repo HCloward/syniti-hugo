@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Create
-Instructions](../Use_Cases/Create_Instructions.htm).
+Instructions](../Use_Cases/Create_Instructions).
 
 </div>
 

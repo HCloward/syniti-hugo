@@ -3,7 +3,7 @@
 <div class="use">
 
 Use this page to [Edit Rule Binding Descriptions, Implication and
-Recommendation](../Use_Cases/Edit_Rule_Bindings.htm).
+Recommendation](../Use_Cases/Edit_Rule_Bindings).
 
 </div>
 

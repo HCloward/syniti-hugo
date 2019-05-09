@@ -11,10 +11,10 @@ group of tables for a specific business unit, or for a list of material,
 customer or configuration tables.
 
 To create a schedule group for a Target Source, refer to [Set up
-Schedule Groups](../Config/Set_Up_Schedule_Groups.htm). <span>When a
+Schedule Groups](../Config/Set_Up_Schedule_Groups). <span>When a
 schedule group is assigned to a table, this table displays on the
 </span><span style="font-style: italic;">[Target Source
-Tables](../Page_Desc/Target_Source_Tables.htm)</span><span> page.</span>
+Tables](../Page_Desc/Target_Source_Tables)</span><span> page.</span>
 
 A user can add or remove tables from the schedule group to limit build
 and refresh to a specific set of tables on that page.
@@ -40,9 +40,9 @@ To build and refresh tables for a schedule group:
     
     **NOTE:** Tables for the schedule group can be added or deleted on
     the <span style="font-style: italic;">[Target Source
-    Tables](../Page_Desc/Target_Source_Tables.htm)</span><span> page..
+    Tables](../Page_Desc/Target_Source_Tables)</span><span> page..
     </span>To add tables if needed. refer to [Manually Register Tables
-    to Source](Manually_Register_Tables_to_Source.htm) for more
+    to Source](Manually_Register_Tables_to_Source) for more
     information.
 
 6.  Click <span style="font-weight: bold;">Build Package</span> to build

@@ -8,7 +8,7 @@ solution = 'Data Quality'
 When a user clicks **Validate** on the *Request (Roles)* page for a Data
 or a Review role, the request data is validated for that role. The types
 of validations that run depend on how dspCompose™ is configured. Refer
-to [Add Validations to Roles](Add_Role_Dependencies.htm) for more
+to [Add Validations to Roles](Add_Role_Dependencies) for more
 information.
 
 <span style="font-weight: bold;">NOTE:</span> The Validate button
@@ -47,7 +47,7 @@ To set the Force Reject Severity on the
 3.  Click **Edit**.
     
     *[View the field descriptions for the Parameters
-    page.](../Page_Desc/Parameters.htm)*
+    page.](../Page_Desc/Parameters)*
 
 4.  Select an option in the **Force Reject Severity** list box.
     
@@ -76,7 +76,7 @@ To set the Force Reject Severity for a template:
 5.  Click **Edit**.
     
     *[View the field descriptions for the Templates page’s Vertical
-    View.](../Page_Desc/Templates_H.htm#Templates_V_All_Tabs)*
+    View.](../Page_Desc/Templates_H#Templates_V_All_Tabs)*
 
 6.  Select an option in the **Force Reject Severity** list box.
     

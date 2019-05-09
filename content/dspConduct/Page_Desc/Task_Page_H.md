@@ -5,12 +5,12 @@ solution = 'Master Data Management'
 
 # Task Page H
 
-[Task Page V](Task_Page_H.htm#Task_Page_V)
+[Task Page V](Task_Page_H#Task_Page_V)
 
 <div class="use">
 
 Use this page to [View all Pages for a
-Task](../Use_Cases/View_all_Pages_for_a_Task.htm).
+Task](../Use_Cases/View_all_Pages_for_a_Task).
 
 </div>
 
@@ -33,12 +33,12 @@ To access this page
 <td><p>Update Page List</p></td>
 <td><p>Click to update the list of child pages assigned to the selected page and to update all the scenario role tasks to which that task is assigned.</p>
 <p>A Designer uses this feature if new Content WebApp pages are added.</p>
-<p>Refer to <a href="../Use_Cases/Update_the_List_of_Pages_Assigned_to_a_Task.htm">Update the List of Pages Assigned to a Task</a> for more information.</p>
+<p>Refer to <a href="../Use_Cases/Update_the_List_of_Pages_Assigned_to_a_Task">Update the List of Pages Assigned to a Task</a> for more information.</p>
 <p><strong>NOTE</strong>: This icon is disabled if multiple tasks are selected. The page list can be updated for one task at a time.</p></td>
 </tr>
 <tr class="odd">
 <td><p>PAGE ID</p></td>
-<td><p>Displays the name of the WebApp and the page within that WebApp that is used by the task selected on the <span style="font-style: italic;"><a href="Task_H.htm">Task</a></span> page. Task pages can be dspConduct™ pages or pages developed in the Content WebApp.</p></td>
+<td><p>Displays the name of the WebApp and the page within that WebApp that is used by the task selected on the <span style="font-style: italic;"><a href="Task_H">Task</a></span> page. Task pages can be dspConduct™ pages or pages developed in the Content WebApp.</p></td>
 </tr>
 <tr class="even">
 <td><p>PAGE TYPE</p></td>
@@ -63,7 +63,7 @@ To access this page
 
 ## <span id="Task_Page_V"></span>Task Page V
 
-[Task Page H](Task_Page_H.htm)
+[Task Page H](Task_Page_H)
 
 <table>
 <tbody>
@@ -75,11 +75,11 @@ To access this page
 <td><p>Update Page List</p></td>
 <td><p>Click to update the list of child pages assigned to the selected page and to update all the scenario role tasks to which that task is assigned.</p>
 <p>A Designer uses this feature if new Content WebApp pages are added.</p>
-<p>Refer to <a href="../Use_Cases/Update_the_List_of_Pages_Assigned_to_a_Task.htm">Update the List of Pages Assigned to a Task</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Update_the_List_of_Pages_Assigned_to_a_Task">Update the List of Pages Assigned to a Task</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Page ID</p></td>
-<td><p>Displays the name of the WebApp and the page within that WebApp that is used by the task selected on the <span style="font-style: italic;"><a href="Task_H.htm">Task</a></span> page. Task pages can be dspConduct™ pages or pages developed in the Content WebApp.</p></td>
+<td><p>Displays the name of the WebApp and the page within that WebApp that is used by the task selected on the <span style="font-style: italic;"><a href="Task_H">Task</a></span> page. Task pages can be dspConduct™ pages or pages developed in the Content WebApp.</p></td>
 </tr>
 <tr class="even">
 <td><p>Parent Page ID</p></td>
@@ -104,7 +104,7 @@ To access this page
 <td><p>Displays the prefix in the table name when a table is generated for a scenario &gt; role &gt; task combination that uses this page.</p>
 <p>When a table is generated, it follows the naming convention [Control table prefix]_[Page View’s Root Name]_[variant column name or required].</p>
 <p>For example, a content page named “Address” has a Horizontal View webRequestAddressHor. The control tables prefix configured for this Category is &quot;ttSRTC_&quot;. The task has an active variant configured for the “Country” field. On this page, for “Address”, the Control Table Prefix is “ttSRTC_RequestAddress_”. When created, the Control View table name is ttSRTC_RequestAddress_Country.</p>
-<p>Refer to <a href="../Use_Cases/Create_Tables_and_Views_for_Content_WebApp_Pages_Overview.htm">Create Tables and Views for Content WebApp Pages</a> and <a href="../Use_Cases/Activate_Configure_Column_Variants.htm">Activate and Configure Column Variants</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Create_Tables_and_Views_for_Content_WebApp_Pages_Overview">Create Tables and Views for Content WebApp Pages</a> and <a href="../Use_Cases/Activate_Configure_Column_Variants">Activate and Configure Column Variants</a> for more information.</p></td>
 </tr>
 </tbody>
 </table>

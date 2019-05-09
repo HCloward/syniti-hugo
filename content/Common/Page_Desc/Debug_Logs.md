@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Configure Debug Logs
-Settings](../Use_Cases/Configure_Debug_Logs_Settings.htm).
+Settings](../Use_Cases/Configure_Debug_Logs_Settings).
 
 </div>
 

@@ -13,11 +13,11 @@ Hover a cursor over a bar to view the number of inactive requests in
 that status.
 
 Click a bar to drill down to the *[All
-Requests](../Page_Desc/All_Requests.htm)* page to view all requests in
+Requests](../Page_Desc/All_Requests)* page to view all requests in
 the selected status.
 
 Refer to [View Dashboards in
-dspCompose™](View_Dashboards_in_dspCompose.htm) for information about
+dspCompose™](View_Dashboards_in_dspCompose) for information about
 chart features and the data that displays on charts.
 
 To access this chart in dspCompose™ select

@@ -28,13 +28,13 @@ External Request Scenario.
 An external request scenario that creates an Excel-initiated request
 requires the same configuration as an external request scenario. Refer
 to [Configure settings for an External Request
-Scenario](Configure_Settings_External_Rqst_Scenarios_that_Create_Excel.htm)
+Scenario](Configure_Settings_External_Rqst_Scenarios_that_Create_Excel)
 for more information.
 
 This type of scenario also requires additional configuration. Refer to
 [Configure settings for an External Request Scenario that creates
 Excel-initiated
-Requests](Configure_Settings_External_Rqst_Scenarios_that_Create_Excel.htm)
+Requests](Configure_Settings_External_Rqst_Scenarios_that_Create_Excel)
 for more information.
 
 To use an external request scenario that creates an Excel-initiated
@@ -43,7 +43,7 @@ request:
 1.  An external contact sends a request by email to an external data
     email account set up in dspCompose™. Refer to [Set up an External
     Data Email
-    Account](../Config/Set_up_an_External_Data_Email_Account.htm) for
+    Account](../Config/Set_up_an_External_Data_Email_Account) for
     more information.
 
 2.  The email poller runs, locates the email, and checks the email for
@@ -51,7 +51,7 @@ request:
     saved for an external request scenario that creates Excel-initiate
     requests. Refer to [Create an External Request Scenario for an
     Excel-initiated
-    Request](Create_an_External_Request_Scenario_for_an_Excel_Initiated_Requestel.htm)
+    Request](Create_an_External_Request_Scenario_for_an_Excel_Initiated_Requestel)
     for more information about aliases.
     
     **NOTE:** If the email’s subject line does not contain the alias,
@@ -64,7 +64,7 @@ request:
     the sender’s email address to the list of email addresses on the
     *Template (External Request Scenario Email Address)* page for the
     scenario. Refer to [Add Email Addresses for a
-    Scenario](Add_Email_Addresses_for_a_Scenario.htm) for more
+    Scenario](Add_Email_Addresses_for_a_Scenario) for more
     information.
     
     **NOTE:** If the email’s subject line does not contain a valid
@@ -95,13 +95,13 @@ request:
     template columns according to mappings created on the *Template
     (External Request Scenario Columns)* page. Refer to [Map Columns
     from the Template to Columns from the
-    Spreadsheet](../../../Migration/Map/Use_Cases/Map_Columns_Template_to_Sprdsht.htm)
+    Spreadsheet](../../../Migration/Map/Use_Cases/Map_Columns_Template_to_Sprdsht)
      for more information.
 
 7.  If custom rules have been registered as template-level events,
     dspCompose™ runs those rules on the data. Refer to [Create Custom
     Rules for Excel-initiated
-    Requests](Create_Custom_Rules_for_Excel_Initiated_Requests.htm)  for
+    Requests](Create_Custom_Rules_for_Excel_Initiated_Requests)  for
     more information.
 
 8.  Once the mapping and rules are complete, the request data is moved
@@ -115,21 +115,21 @@ validation, none of the worksheets in the Excel file will be processed.
 The external contact will receive a message from the first validation
 that fails.<span> </span> The external contact must correct and resubmit
 the Excel file. Refer to [Set Up Email
-Validations](Set_up_Email_Validations.htm) for more information.
+Validations](Set_up_Email_Validations) for more information.
 
 **NOTE:** The email poller is scheduled to run every 10 minutes. This
 value is configurable in System Administration.
 
 **NOTE:** Once the request is created, the workflow for processing the
 request is the same as any other request. Refer to [Process
-Requests](Process_Requests.htm) for more information.
+Requests](Process_Requests) for more information.
 
 This section includes:
 
   - [Configure Settings for External Request Scenarios that Create
     Excel-initiated
-    Requests](Configure_Settings_External_Rqst_Scenarios_that_Create_Excel.htm)
+    Requests](Configure_Settings_External_Rqst_Scenarios_that_Create_Excel)
   - [Configure an External Request Scenario for an Excel-initiated
-    Request](Configure_External_Rqst_Scenario_for_Excel_Initiated_Request.htm)
+    Request](Configure_External_Rqst_Scenario_for_Excel_Initiated_Request)
   - [Submit an Email for an External Request Scenario that Creates an
-    Excel-initiated request](Submit_Email_External_Reqst_Scenario.htm)
+    Excel-initiated request](Submit_Email_External_Reqst_Scenario)

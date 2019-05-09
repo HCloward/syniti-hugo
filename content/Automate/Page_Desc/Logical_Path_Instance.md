@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Add Logical
-Paths](../Use_Cases/Add_Logical_Paths.htm).
+Paths](../Use_Cases/Add_Logical_Paths).
 
 </div>
 
@@ -31,7 +31,7 @@ To access this page:
 <tr class="even">
 <td><p>INSTANCE</p></td>
 <td><p>Displays the environment name.</p>
-<p><strong>NOTE:</strong> The instance configured must match the instance selected on the Automate <em><a href="Parameters.htm">Parameters</a></em> page. If the instances do not match, the file processing will not work correctly.</p></td>
+<p><strong>NOTE:</strong> The instance configured must match the instance selected on the Automate <em><a href="Parameters">Parameters</a></em> page. If the instances do not match, the file processing will not work correctly.</p></td>
 </tr>
 <tr class="odd">
 <td><p>PATH</p></td>
@@ -64,7 +64,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Browse</p></td>
-<td><p>Click to open the <em><a href="Logical_Path_Instance_Browse.htm">Logical Path Instance (Browse)</a></em> page to browse the FTP site or the path for other folders or files, and change the FTP site or path if necessary. Refer to <a href="../Use_Cases/Browse_FTP_Site_or_Path.htm">Browse FTP Site or Path</a> for more information.</p></td>
+<td><p>Click to open the <em><a href="Logical_Path_Instance_Browse">Logical Path Instance (Browse)</a></em> page to browse the FTP site or the path for other folders or files, and change the FTP site or path if necessary. Refer to <a href="../Use_Cases/Browse_FTP_Site_or_Path">Browse FTP Site or Path</a> for more information.</p></td>
 </tr>
 </tbody>
 </table>
@@ -98,7 +98,7 @@ Instance
 Displays the environment name.
 
 **NOTE:** The instance configured must match the instance selected on
-the *Vertical* View of the Automate *[Parameters](Parameters.htm)* page.
+the *Vertical* View of the Automate *[Parameters](Parameters)* page.
 If the instances do not match, the file processing will not work
 correctly.
 
@@ -178,7 +178,7 @@ Click to test the instance’s connection to the logical path.
 Browse
 
 Click to open the *[Logical Path Instance
-(Browse)](Logical_Path_Instance_Browse.htm)* page to browse the FTP site
+(Browse)](Logical_Path_Instance_Browse)* page to browse the FTP site
 or the path for other folders or files, and change the FTP site or path
 if necessary. Refer to [Browse FTP Site or
-Path](../Use_Cases/Browse_FTP_Site_or_Path.htm) for more information.
+Path](../Use_Cases/Browse_FTP_Site_or_Path) for more information.

@@ -12,7 +12,7 @@ of the steps involved in executing an interface.
 Log severities assign a severity level to each task, such as debug,
 notice, and error. An image is associated with each severity level,
 which displays on the log. Refer to [View Logs for an
-Interface](View_Logs_for_an_Interface.htm) for more information on
+Interface](View_Logs_for_an_Interface) for more information on
 accessing an interface’s log.
 
 Automate is delivered with the following defined severities:
@@ -70,13 +70,13 @@ To configure a logging severity in Automate:
     
     [View the field description for the Logging Severities page’s
     Vertical
-    View](../Page_Desc/Logging_Severities.htm#LoggingSeveritiesV)
+    View](../Page_Desc/Logging_Severities#LoggingSeveritiesV)
 
 4.  Select an image from the **Image Name** list box.
     
     **NOTE:** Images are added and configured on the Images page in
     System Administration. Refer to the [Add an Image to the
-    DSP](../../Sys_Admin/Use_Cases/Add%20an%20Image%20to%20the%20DSP.htm)
+    DSP](../../Sys_Admin/Use_Cases/Add%20an%20Image%20to%20the%20DSP)
     for more information.
 
 5.  Enter an HTML preformat tag in the **Html Pre Tag** field.
@@ -84,7 +84,7 @@ To configure a logging severity in Automate:
 6.  Enter an HTML postformat tag in the **Html Post Tag** field.
     
     **NOTE:** These HTML tags configure the log message in the Automate
-    *[Log](../Page_Desc/Log.htm)* page. For example, the default
+    *[Log](../Page_Desc/Log)* page. For example, the default
     messages for Notice severities display in a green font and Error
     messages display in red.
 

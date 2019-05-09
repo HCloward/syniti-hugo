@@ -9,13 +9,13 @@ When a project file is imported into dspTrack™, the component matches
 the resources assigned to tasks to users registered in the platform.
 
 Refer to [Import Project Files into
-dspTrack™](Import_Project_Files_into_dspTrack.htm) for more
+dspTrack™](Import_Project_Files_into_dspTrack) for more
 information.
 
 Users can also be assigned to tasks manually.
 
 To add multiple users to a task, use a Security tag. Refer to [Configure
-Security Tags](Configure_Security_Tags.htm) for more information.
+Security Tags](Configure_Security_Tags) for more information.
 
 To add a few users to a task, use the *Plan Task User* page.
 
@@ -34,7 +34,7 @@ To add a user to a task:
     <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Plan Task User
-    page](../Page_Desc/Plan_Task_User.htm)
+    page](../Page_Desc/Plan_Task_User)
 
 5.  Select a user from the **USER ID** list box.
 
@@ -66,7 +66,7 @@ To add a user to a task:
     Task User*<span> </span>page. However, if a user is added to a task
     using a Security tag, the PINNED check box is not enabled by default
     for the user and must be manually enabled on the *Plan Task User*
-    page. Refer to [Use Tags](Use_Tags.htm) and [Configure Security
-    Tags](Configure_Security_Tags.htm) for more information.
+    page. Refer to [Use Tags](Use_Tags) and [Configure Security
+    Tags](Configure_Security_Tags) for more information.
 
 8.  Click **Save**.

@@ -2,13 +2,13 @@
 
 A user can run rules and send workflows for all Project Distributions in
 a project by clicking the **Process Project Rules** icon on the
-*[Project Summary](../Page_Desc/Project_Summary_H.htm)* page. When the
+*[Project Summary](../Page_Desc/Project_Summary_H)* page. When the
 user clicks this icon:
 
   - All rules and rule bindings with unprocessed run IDs are run for all
     project distributions in the selected project
   - Workflows are sent to all users in the project according to user
-    settings on the *[Parameters](../Page_Desc/ISA_Parameters.htm)* page
+    settings on the *[Parameters](../Page_Desc/ISA_Parameters)* page
 
 To process all rules for project distributions in a project:
 

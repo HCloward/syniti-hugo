@@ -35,5 +35,5 @@ Two icons are available:
 
 **NOTE:**  If the database is refreshed and a change has been made to
 the object, the audit trail of the modified SQL code is recorded. Refer
-to [View Object History](View_Object_History.htm) for detailed
+to [View Object History](View_Object_History) for detailed
 information.

@@ -10,7 +10,7 @@ with the external request scenario is active, no external request
 scenarios can be added, edited or deleted. To add or change external
 request scenarios, the template must be inactive and in Developer mode.
 Refer to [Modify an Active Template in Developer
-Mode](Modify_an_Active_Template_in_Developer_Mode.htm) for more
+Mode](Modify_an_Active_Template_in_Developer_Mode) for more
 information.
 
 To create an external request scenario:
@@ -29,7 +29,7 @@ To create an external request scenario:
     
     *[View the field descriptions for the Template (External Request
     Scenario)
-    page.](../Page_Desc/Template_External_Request_Scenario.htm)*
+    page.](../Page_Desc/Template_External_Request_Scenario)*
 
 7.  Enter a value in the **SUBJECT ALIAS** field.
     
@@ -83,19 +83,19 @@ To create an external request scenario:
     not select a connection ID, the default connection assigned to the
     Integrate Template is used for the request. Refer to [Establish a
     Connection to a Target
-    System](../../../Platform/Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview.htm)
+    System](../../../Platform/Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview)
     for more information.
     
     **NOTE:** The Process Templates for which a connection can be set
     are based on:
     
       - The Integrate template type. Refer to [Create a Basic
-        Template](../../../Platform/Integrate/Use_Cases/Create_a_Basic_Template.htm)
+        Template](../../../Platform/Integrate/Use_Cases/Create_a_Basic_Template)
         in Integrate for more information.
       - The "Allowed Connections" configured at the Integrate Process
         Template level. Refer to [Set Available Connections at the
         Process Template
-        Level](../../../Platform/Integrate/Use_Cases/Set_Connections_at_the_Process_Template_Level.htm)
+        Level](../../../Platform/Integrate/Use_Cases/Set_Connections_at_the_Process_Template_Level)
         in integrate for more information.
 
 11. Click **Edit**.
@@ -105,6 +105,6 @@ To create an external request scenario:
 13. Click **Save**.
 
 Continue with [Add Email Addresses for a
-Scenario](Add_Email_Addresses_for_a_Scenario.htm) and [Set External Role
+Scenario](Add_Email_Addresses_for_a_Scenario) and [Set External Role
 Contacts for an External Request
-Scenario](Set_External_Role_Contacts.htm).
+Scenario](Set_External_Role_Contacts).

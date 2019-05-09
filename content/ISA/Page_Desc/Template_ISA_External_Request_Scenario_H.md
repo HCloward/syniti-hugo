@@ -7,7 +7,7 @@ V](#Template__ISA_External_Request_Scenario__V)
 
 Use this page to [Create an External Request Scenario for an Information
 Steward-initiated
-Request](../Use_Cases/Create_an_External_Request_Scenario_for_an_Information_Steward%20initiated_Request.htm)<span class="MsoHyperlink">.</span>
+Request](../Use_Cases/Create_an_External_Request_Scenario_for_an_Information_Steward%20initiated_Request)<span class="MsoHyperlink">.</span>
 
 </div>
 
@@ -48,7 +48,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Connections</p></td>
-<td><p>Click to open the <em><a href="../../dspCompose/Page_Desc/Template_External_Request_Scenarios_Connections.htm">Template (External Request Scenarios Connections)</a></em> page to set a connection to a target system for each process template.</p></td>
+<td><p>Click to open the <em><a href="../../dspCompose/Page_Desc/Template_External_Request_Scenarios_Connections">Template (External Request Scenarios Connections)</a></em> page to set a connection to a target system for each process template.</p></td>
 </tr>
 </tbody>
 </table>
@@ -63,7 +63,7 @@ To access this page:
 
 Use this page to [Create an External Request Scenario for an Information
 Steward-initiated
-Request](../Use_Cases/Create_an_External_Request_Scenario_for_an_Information_Steward%20initiated_Request.htm)<span class="MsoHyperlink">.</span>
+Request](../Use_Cases/Create_an_External_Request_Scenario_for_an_Information_Steward%20initiated_Request)<span class="MsoHyperlink">.</span>
 
 </div>
 
@@ -101,7 +101,7 @@ Customers – Region) listed on the Report Data Viewer page in ISA.
 Connections
 
 Click to open the *[Template (External Request Scenarios
-Connections)](../../dspCompose/Page_Desc/Template_External_Request_Scenarios_Connections.htm)*
+Connections)](../../dspCompose/Page_Desc/Template_External_Request_Scenarios_Connections)*
 page to set a connection to a target system for each process template
 
 Advanced
@@ -147,7 +147,7 @@ External Request Create Rules
 
 Click to open the Template (Event Rule) page to add, edit and delete
 rules. Refer to [Create Custom Rules for Information Steward-initiated
-Requests](../Use_Cases/Create_Custom_Rules_for_Information_Steward%20initiated_Requests.htm)
+Requests](../Use_Cases/Create_Custom_Rules_for_Information_Steward%20initiated_Requests)
 for more information.
 
 **NOTE:** The count on this icon represents the number of rules that

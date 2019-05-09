@@ -6,7 +6,7 @@ solution = 'Platform'
 # Copy Work Hours Across Work Days
 
 Calendars are used in dspTrack™ and dspConcut™ components. Refer to [Use
-a Calendar](Use_a_Calendar.htm) for more information.
+a Calendar](Use_a_Calendar) for more information.
 
 A user can copy work hours from one work day across all the work days
 for a calendar instead of entering work hours for each work day in a

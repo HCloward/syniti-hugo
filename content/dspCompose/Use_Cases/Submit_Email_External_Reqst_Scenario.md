@@ -12,7 +12,7 @@ file; any erroneous data in the file should be corrected before sending
 the email.
 
 **NOTE**: The email must pass all validations. Refer to [Set up Email
-Validations](Set_up_Email_Validations.htm) for more information.
+Validations](Set_up_Email_Validations) for more information.
 
 The Excel file provides data for the first Data Entry role in the
 workflow.
@@ -22,14 +22,14 @@ To submit an email:
 1.  Send the email from the address configured for the scenario.
     
     **NOTE**: Refer to [Add Email Addresses for a
-    Scenario](Add_Email_Addresses_for_a_Scenario.htm) for more
+    Scenario](Add_Email_Addresses_for_a_Scenario) for more
     information.
 
 2.  Enter the email address configured as the external date email
     account in the **To** field.
     
     **NOTE**: Refer to [Set up External Data Email
-    Accounts](../Config/Set_up_an_External_Data_Email_Account.htm) for
+    Accounts](../Config/Set_up_an_External_Data_Email_Account) for
     more information.
 
 3.  Enter the alias for the scenario in the **Subject** field.
@@ -37,7 +37,7 @@ To submit an email:
     **NOTE**: The subject line of the email submitted for an external
     request scenario must contain this alias. Refer to [Create an
     External Request <span> </span>Scenario that Creates Excel-initiated
-    Requests](Create_an_External_Request_Scenario_for_an_Excel_Initiated_Requestel.htm)
+    Requests](Create_an_External_Request_Scenario_for_an_Excel_Initiated_Requestel)
     for more information.
 
 4.  Leave the email body blank.
@@ -48,7 +48,7 @@ To submit an email:
 
 If there are errors processing the scenario, the sender will receive a
 message from the external data email account. Refer to [Set up Email
-Validations](Set_up_Email_Validations.htm) for more information. Correct
+Validations](Set_up_Email_Validations) for more information. Correct
 the errors and resubmit the email.
 
 Once the email has been submitted successfully, the Data Entry role with
@@ -65,7 +65,7 @@ the next role in the workflow, either the next Data role or a Review
 role, and a user assigned to this next role receives a workflow message
 that the role is ready. <span> </span>Refer to [Create an External
 Request Scenario for an Excel-initiated
-Request](Create_an_External_Request_Scenario_for_an_Excel_Initiated_Requestel.htm)
+Request](Create_an_External_Request_Scenario_for_an_Excel_Initiated_Requestel)
 for more information.
 
 The newly created request displays on the *Requests* page. In the

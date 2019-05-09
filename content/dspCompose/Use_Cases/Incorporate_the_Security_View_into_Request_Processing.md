@@ -91,6 +91,6 @@ Once these changes have been made, subsequent requests submitted for the
 template will follow the security settings configured here.
 
 Refer to [Updates to Finishing a Data Role for Templates with the
-Security View](Updates_to_Finishing_a_Data_Role_for_Templates.htm) and
+Security View](Updates_to_Finishing_a_Data_Role_for_Templates) and
 [Add the Org Unit Security View to Template Role Validation
-Rules](Add_the_Org_Unit_Security_View_to.htm) for more information.
+Rules](Add_the_Org_Unit_Security_View_to) for more information.

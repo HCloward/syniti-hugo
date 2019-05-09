@@ -15,15 +15,15 @@ counts display for all Waves and Process Areas.
 
 When the chart is accessed from the
 <span style="font-style: italic;">[Wave : Process
-Areas](../../Console/Page_Desc/Wave_Process_Areas.htm)</span> page,
+Areas](../../Console/Page_Desc/Wave_Process_Areas)</span> page,
 counts display for the selected Wave and Process Area only.
 
 Click the bar to drill down to the [Field Construction by
-Object](Field_Construction_by_Object.htm) chart.
+Object](Field_Construction_by_Object) chart.
 
 <span style="font-weight: bold;">NOTE</span>: For general information
 about the data that displays on Construction charts, refer to [View the
-Dashboard in Construct](View_Dashboard_in_Construct.htm).
+Dashboard in Construct](View_Dashboard_in_Construct).
 
 To access this chart in Console from the
 <span style="font-style: italic;">Wave : Process Areas</span> page:

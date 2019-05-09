@@ -11,14 +11,14 @@ dependent scenario or role is processed. A Designer completes this task.
 
 Conditions must be added before they are assigned to a scenario
 dependency relationship. Refer to [Add Data-Driven Dependency Conditions
-to a Category](Add_Data_Driven_Dependency_Conditions.htm) for more
+to a Category](Add_Data_Driven_Dependency_Conditions) for more
 information.
 
 **NOTE:** A new condition can be added on the *[Scenario Dependency
 Condition
-Assignment](../Page_Desc/Scenario_Dependency_Condition_Assignment.htm)*
+Assignment](../Page_Desc/Scenario_Dependency_Condition_Assignment)*
 page. Conditions must be deleted on the
-*[Conditions](../Page_Desc/Conditions.htm)* page*.*
+*[Conditions](../Page_Desc/Conditions)* page*.*
 
 To assign a condition to a scenario dependency relationship in
 dspConduct™:
@@ -34,6 +34,6 @@ dspConduct™:
     
     *[View the field descriptions for the Scenario Dependency Condition
     Assignment
-    page.](../Page_Desc/Scenario_Dependency_Condition_Assignment.htm)*
+    page.](../Page_Desc/Scenario_Dependency_Condition_Assignment)*
 
 5.  Select one or more conditions, and then click the **Assign** icon.

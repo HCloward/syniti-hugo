@@ -22,10 +22,10 @@ performed manually.
 
 This use case includes the following topics:
 
-  - [Shippable Items in Detail](Shippable_Items_in_Detail.htm)
+  - [Shippable Items in Detail](Shippable_Items_in_Detail)
 
   - [Supporting Objects for
-    Templates](Supporting_Objects_for_Templates.htm)
+    Templates](Supporting_Objects_for_Templates)
 
   - [Include DSP® Pages Listed on Template (Objects)
-    Page](Include_DSP_Pages_Listed_on_Template_Objects_Page.htm)
+    Page](Include_DSP_Pages_Listed_on_Template_Objects_Page)

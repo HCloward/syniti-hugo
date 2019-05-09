@@ -13,9 +13,9 @@ Hover a cursor over a section of a chart to view the count of mappings
 for that status.
 
 Click the bar to drill down to the [Object Target Rules: Rule
-Status](Object_Target_Rules_Rule_Status.htm) chart.
+Status](Object_Target_Rules_Rule_Status) chart.
 
-Refer to [View Dashboards in Map](View_Dashboards_in_Map.htm) for
+Refer to [View Dashboards in Map](View_Dashboards_in_Map) for
 general information about chart features.
 
 To access the chart in Map:

@@ -9,7 +9,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Monitor Posts](../Use_Cases/Monitor_Posts.htm).
+Use this page to [Monitor Posts](../Use_Cases/Monitor_Posts).
 
 </div>
 
@@ -27,15 +27,15 @@ pane*.
 | STATUS                     | Displays the overall status of the process post.                                                                                               |
 | CURRENT TEMPLATE PRIORITY  | Displays the name of the process template currently being posted, or the last process template to be posted if the process post is complete.   |
 | POST START TIME            | Displays the date and time the posting began for the post engine record.                                                                       |
-| Post Adapter               | Click to open the *[Post Adapter](Post_Adapter.htm)* page to view the data exactly as it appears when posted using the Background Post method. |
+| Post Adapter               | Click to open the *[Post Adapter](Post_Adapter)* page to view the data exactly as it appears when posted using the Background Post method. |
 
 ## <span id="Post_Engine_V"></span>Post Engine V
 
-[Post Engine H](Post_Engine_H.htm)
+[Post Engine H](Post_Engine_H)
 
 <div class="use">
 
-Use this page to [Monitor Posts](../Use_Cases/Monitor_Posts.htm).
+Use this page to [Monitor Posts](../Use_Cases/Monitor_Posts).
 
 </div>
 

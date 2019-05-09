@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Import Target Design from a
-Database](../Use_Cases/Import_from_a_Database.htm).
+Database](../Use_Cases/Import_from_a_Database).
 
 </div>
 
@@ -41,13 +41,13 @@ To access this page:
 <tr class="even">
 <td><p>Execute Import</p></td>
 <td><p>Click to perform the import for those tables with the IMPORT check box enabled. The import process brings the tables and fields into the Target for the selected Object.</p>
-<p>Once imported, the tables become a Target of the Object, and are accessible on the <span style="font-style: italic;"><a href="Targets_H_Design.htm">Targets</a></span> page.</p>
+<p>Once imported, the tables become a Target of the Object, and are accessible on the <span style="font-style: italic;"><a href="Targets_H_Design">Targets</a></span> page.</p>
 <p>During the import, new records are added to the tables, fields, and look up tables. If the records have been imported into the Target previously, updates are applied to existing tables, fields and lookup tables.</p></td>
 </tr>
 <tr class="odd">
 <td><p>OBJECT ID</p></td>
 <td><p>Displays the Object that will contain the Target table once it is imported. contains the Target.</p>
-<p>Objects are added in Console. Refer to <a href="../../Console/Use_Cases/Add_Elements_Separately.htm#Add3">Add an Object</a> for more information.</p></td>
+<p>Objects are added in Console. Refer to <a href="../../Console/Use_Cases/Add_Elements_Separately#Add3">Add an Object</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>TABLENAME</p></td>

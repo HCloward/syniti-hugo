@@ -8,23 +8,23 @@ solution = 'Migration'
 Users can be assigned as a Business Contact or a Developer at the Target
 or Source level in Target Design and at the Object level in Console.
 Refer to [Add Individual Target
-Contacts](../../Console/Use_Cases/Add_Target_Contacts_to_Objects.htm#Add2)
+Contacts](../../Console/Use_Cases/Add_Target_Contacts_to_Objects#Add2)
 for more information.
 
 Two types of contacts can be assigned to a Target and Source.
 
   - *Developers* approve mappings on the *[Mapping
-    Approval](../../Map/Page_Desc/Mapping_Approval_H.htm)* page
+    Approval](../../Map/Page_Desc/Mapping_Approval_H)* page
     submitted for a Target-Source in Map on the *[Field
-    Mappings](../../Map/Page_Desc/Field_Mappings_H.htm)* page.
+    Mappings](../../Map/Page_Desc/Field_Mappings_H)* page.
     Developers must also have security set up to view the *Mapping
     Approval* page. Refer to [Approve or Reject
-    Mappings](../../Map/Use_Cases/Approve_or_Reject_Mappings.htm) for
+    Mappings](../../Map/Use_Cases/Approve_or_Reject_Mappings) for
     more information.
   - *Business Contacts* are used for reporting purposes and
     automatically receive public reports for the Target–Source in
     Transform. Refer to [Report
-    Delivery](../../Transform/Use_Cases/Report_Delivery_Overview.htm)
+    Delivery](../../Transform/Use_Cases/Report_Delivery_Overview)
     for more information.
 
 **NOTE:** Developers and Business Contacts can be added to a Target or
@@ -35,7 +35,7 @@ To add a Developer to a Target or Source in Target Design:
 1.  Select **Design** in the Context bar.
 
 2.  Click the <span style="font-weight: bold;">Targets</span> icon on
-    the *[Design](../Page_Desc/Design.htm)* page.
+    the *[Design](../Page_Desc/Design)* page.
 
 3.  Either click the **Developers** icon for a Target
     
@@ -47,7 +47,7 @@ To add a Developer to a Target or Source in Target Design:
 4.  Click **Add**.
     
     [View the field descriptions for the Target Contacts
-    page](../Page_Desc/Target_Contacts.htm)
+    page](../Page_Desc/Target_Contacts)
 
 5.  Select the developer’s user ID from the **USER ID** list box.
     
@@ -77,7 +77,7 @@ To add a Business Contact to a Target or Source in Target Design:
 4.  Click **Add**.
     
     [View the field descriptions for the Target Contacts
-    page](../Page_Desc/Target_Contacts.htm)
+    page](../Page_Desc/Target_Contacts)
 
 5.  Select the Business Contact’s user ID from the **USER ID** list box.
 

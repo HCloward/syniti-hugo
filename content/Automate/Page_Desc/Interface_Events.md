@@ -12,16 +12,16 @@ solution = 'Platform'
 Use this page to:
 
   - [Register Interface
-    Events](../Use_Cases/Register_Interface_Events.htm)
+    Events](../Use_Cases/Register_Interface_Events)
   - [Register Stored Procedure
-    Events](../Use_Cases/Register_Stored_Procedure_Events.htm)
-  - [Register WebApp Events](../Use_Cases/Register_WebApp_Events.htm)
+    Events](../Use_Cases/Register_Stored_Procedure_Events)
+  - [Register WebApp Events](../Use_Cases/Register_WebApp_Events)
   - [Register Workflow
-    Events](../Use_Cases/Register_Workflow_Events.htm)
+    Events](../Use_Cases/Register_Workflow_Events)
   - [Copy Files from One Folder to
-    Another](../Use_Cases/Copy_Files_from_One_Folder_to_Another.htm)
+    Another](../Use_Cases/Copy_Files_from_One_Folder_to_Another)
   - [Set Up a Looping
-    Process](../Use_Cases/Set_up_a_Looping_Process.htm)
+    Process](../Use_Cases/Set_up_a_Looping_Process)
 
 </div>
 
@@ -68,7 +68,7 @@ To access this page:
 <td><p>LOOP</p></td>
 <td><p>If checked, the event is intended to be processed multiple times based on input, (e.g. an Automate IO process that downloads multiple files, each of which must be processed individually).</p>
 <p>If unchecked, the event is not processed multiple times.</p>
-<p>Refer to <a href="../Use_Cases/Set_up_a_Looping_Process.htm">Set Up a Looping Process</a> for more information.</p>
+<p>Refer to <a href="../Use_Cases/Set_up_a_Looping_Process">Set Up a Looping Process</a> for more information.</p>
 <p>It is unchecked by default.</p></td>
 </tr>
 <tr class="even">
@@ -90,15 +90,15 @@ To access this page:
 <td><p>Parameters</p></td>
 <td><p>Click to open a parameters page unique to the Event Type:</p>
 <ul>
-<li>For Workflow events, the <em><a href="Workflow.htm">Workflow</a></em> page displays.</li>
-<li>For WebApp events, the <em><a href="WebApp_Event.htm">WebApp Event</a></em> page displays.</li>
-<li>For Stored Procedure events, the <em><a href="Stored_Procedure.htm">Stored Procedure</a></em> page displays.</li>
+<li>For Workflow events, the <em><a href="Workflow">Workflow</a></em> page displays.</li>
+<li>For WebApp events, the <em><a href="WebApp_Event">WebApp Event</a></em> page displays.</li>
+<li>For Stored Procedure events, the <em><a href="Stored_Procedure">Stored Procedure</a></em> page displays.</li>
 </ul>
 <p>Use these pages to set parameters for the event. The parameters in the code are automatically registered to the parameters page for the event.</p></td>
 </tr>
 <tr class="even">
 <td><p>Validations</p></td>
-<td><p>Click to open the <em><a href="Interface_Event_Validations.htm">Interface Event (Validations)</a></em> page. Use this page to add validations at the event level, versus at the interface level.</p>
+<td><p>Click to open the <em><a href="Interface_Event_Validations">Interface Event (Validations)</a></em> page. Use this page to add validations at the event level, versus at the interface level.</p>
 <p>The count on the icon is the total number of validations registered to the selected event.</p></td>
 </tr>
 </tbody>
@@ -124,10 +124,10 @@ Displays the stored procedure assigned to the event.
 
 Stored Procedure Parameters
 
-Click to open the *[Stored Procedure](Stored_Procedure.htm)* page to
+Click to open the *[Stored Procedure](Stored_Procedure)* page to
 view parameters passed to the event. The parameters in the stored
 procedure event code are automatically registered to the *[Stored
-Procedure](Stored_Procedure.htm)* page for the event.
+Procedure](Stored_Procedure)* page for the event.
 
 **NOTE:** This field only displays for Stored Procedure events.
 
@@ -159,10 +159,10 @@ selected in the Page ID field.
 
 WebApp Parameters
 
-Click to open the *[WebApp Event](WebApp_Event.htm)* page to view
+Click to open the *[WebApp Event](WebApp_Event)* page to view
 parameters (i.e., fields and values) passed to the event. The parameters
 in the WebApp event code are automatically registered to the *[WebApp
-Event](WebApp_Event.htm)* page for the event.
+Event](WebApp_Event)* page for the event.
 
 **NOTE:** This field only displays for WebApp events.
 
@@ -170,28 +170,28 @@ View
 
 Displays the workflow view used by the workflow event. The view is
 created in the Data Source assigned when the interface was created on
-the *[Interfaces](Interfaces.htm)* page.
+the *[Interfaces](Interfaces)* page.
 
 **NOTE:** This field only displays for Workflow events.
 
 Fields
 
-Click to open the *[Workflow (Email)](Workflow_Email.htm)* page to
+Click to open the *[Workflow (Email)](Workflow_Email)* page to
 configure the email settings for the workflow notification, such as
 subject line and body text. These fields must be added to the view and
 aliased correctly to be utilized by the workflow. Refer to *[Configure
 Workflow
-Fields](../../Sys_Admin/Use_Cases/Configure_Workflow_Fields.htm)* in the
+Fields](../../Sys_Admin/Use_Cases/Configure_Workflow_Fields)* in the
 System Administration help for more information.
 
 **NOTE:** This field only displays for Workflow events.
 
 Links
 
-Click to open the *[Workflow Links](Workflow_Links.htm)* page to add
+Click to open the *[Workflow Links](Workflow_Links)* page to add
 links that navigates a user to a specific page to then perform a
 function. Refer to *[Configure Workflow
-Links](../../Sys_Admin/Use_Cases/Configure_Workflow_Links.htm)* in the
+Links](../../Sys_Admin/Use_Cases/Configure_Workflow_Links)* in the
 System Administration help for more information.
 
 **NOTE:** This field only displays for Workflow events.
@@ -210,7 +210,7 @@ If populated, anonymous workflow is used and Workflow User ID displays
 the user ID who receives the workflow email.
 
 If blank, standard workflow is used. Refer to *[Workflow
-Overview](../../Sys_Admin/Use_Cases/Workflow_Views.htm)* in System
+Overview](../../Sys_Admin/Use_Cases/Workflow_Views)* in System
 Administration help for more information.
 
 **NOTE:** This field only displays for Workflow events.

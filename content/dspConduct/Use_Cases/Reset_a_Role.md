@@ -21,11 +21,11 @@ This section contains the following topics:
 A Review role is reset when a Role Processor rejects a role \> task
 combination during the review process.
 
-Refer to [Review a Request](Review_a_Request_Overview.htm) and [Reject a
-Request](Reject_a_Request.htm) for more information.
+Refer to [Review a Request](Review_a_Request_Overview) and [Reject a
+Request](Reject_a_Request) for more information.
 
 Before performing this task, a [request must have been
-created](Create_a_Request.htm) and a role with the type Application must
+created](Create_a_Request) and a role with the type Application must
 have been finished.
 
 Resetting a Review role:
@@ -58,7 +58,7 @@ initiates the workflow email to users assigned to the Application role
 (if that role has messaging enabled). The Reset process displays a
 notification from within dspConduct™ to users assigned to the role (if
 that role has messaging enabled). Refer to [Enable or Disable Messages
-for a Role](Enable_or_Disable_Messages_for_a_Role.htm) for more
+for a Role](Enable_or_Disable_Messages_for_a_Role) for more
 information.
 
 <span style="font-weight: bold;">NOTE</span>: A user who is not assigned
@@ -74,9 +74,9 @@ is incomplete after a role with the type of Application or Review has
 been finished.
 
 Before performing this task, [a request must have been
-created](Create_a_Request.htm) and a [role with the type Application
+created](Create_a_Request) and a [role with the type Application
 must have been
-finished](Finish_a_Role_with_the_Application_Role_Type.htm).
+finished](Finish_a_Role_with_the_Application_Role_Type).
 
 When a request is reset, the user assigned to the Application role for
 the request receives a notification depending on how the user and role
@@ -115,7 +115,7 @@ initiates the workflow email to users assigned to the next role (if that
 role has messaging enabled). The Reset process displays a notification
 from within dspConduct™ to users assigned to the next role (if that role
 has messaging enabled). Refer to [Enable or Disable Messages for a
-Role](Enable_or_Disable_Messages_for_a_Role.htm) for more information.
+Role](Enable_or_Disable_Messages_for_a_Role) for more information.
 
 <span style="font-weight: bold;">NOTE</span>: A user who is not assigned
 to the request’s role but is assigned to a role in the Category can view
@@ -138,7 +138,7 @@ To reset a role in dspConduct™:
     **NOTE:** The count on the Roles icon is the number of roles for the
     request. The count may not reflect the number of roles that display
     on the <span style="font-style: italic;">[Request
-    Role](../Page_Desc/Request_Role_H.htm)</span> page for the current
+    Role](../Page_Desc/Request_Role_H)</span> page for the current
     user. The current user can only access roles to which that user is
     assigned and roles that have the Auto Extend Display setting
     enabled.

@@ -17,7 +17,7 @@ the rule definition from Target Design each time Data Services Jobs are
 automatically generated.
 
 Refer to [Data Services
-AutoGen](../../Data_Services_AutoGen/Data_Services_Automation.htm) for
+AutoGen](../../Data_Services_AutoGen/Data_Services_Automation) for
 more information.
 
 When setting up a Basic rule, the user enters a field value to which the
@@ -25,8 +25,8 @@ Target field is set if rule conditions are met. Up to three combined
 conditions with an operator of = can be evaluated for each Basic rule.
 
 A Basic rule can be added to a field on the
-[*Targets*](../Page_Desc/Targets_H_Design.htm) page or the *[Target
-Fields](../Page_Desc/Target_Fields_H_Target_Design.htm)* page. On the
+[*Targets*](../Page_Desc/Targets_H_Design) page or the *[Target
+Fields](../Page_Desc/Target_Fields_H_Target_Design)* page. On the
 <span style="font-style: italic;">Targets</span> page, a user can select
 the field to which the Basic rule is applied. On the
 <span style="font-style: italic;">Target Fields</span> page, the user
@@ -41,7 +41,7 @@ has a Design Status of In Design.
 Basic rules are managed in Target Design. They are not edited or
 submitted in Map. These mappings have a message on the record on the
 <span style="font-style: italic;">[Field
-Mappings](../../Map/Page_Desc/Field_Mappings_H.htm)</span> page in Map
+Mappings](../../Map/Page_Desc/Field_Mappings_H)</span> page in Map
 stating that the rule was created in Target Design. The mapping for a
 field with a Basic rule displays in Map with an Action of Rule. If a
 field has both a Complex and Basic rule, the mapping displays in Map
@@ -50,7 +50,7 @@ with an Action of Manual Rule.
 After a Target with a Target field that has a Basic rule assigned is
 synced with Map, these rules are automatically sent to the
 <span style="font-style: italic;">[Mapping
-Approval](../../Map/Page_Desc/Mapping_Approval_H.htm)</span> page for a
+Approval](../../Map/Page_Desc/Mapping_Approval_H)</span> page for a
 developer to review them, however they do not require approval to be
 used by Data Services AutoGen.
 
@@ -86,7 +86,7 @@ To assign a Basic rule to a field at the Target level:
     Otherwise, click Add.
     
     *[View the field descriptions for the Rules: Basic Rule
-    page](../Page_Desc/Rules_Basic_Rule_H.htm)*
+    page](../Page_Desc/Rules_Basic_Rule_H)*
 
 4.  Select the field to which the rule applies in the **TARGET FIELD
     ID** list box.
@@ -148,7 +148,7 @@ To assign a Basic rule to a field at the Target level:
 For example, a user sets a Basic rule for the PSTAT field (Maintenance
 Status) on the ttMARA table by completing the fields on the
 <span style="font-style: italic;">[Rules: Basic
-Rule](../Page_Desc/Rules_Basic_Rule_H.htm)</span>page's
+Rule](../Page_Desc/Rules_Basic_Rule_H)</span>page's
 <span style="font-style: italic;">Vertical</span> View with these
 values.
 
@@ -177,7 +177,7 @@ To add a Basic rule to a target field in Target Design:
     <span style="font-style: italic;">Navigation</span> pane.
 
 2.  Click the **Targets** icon on the
-    *[Design](../Page_Desc/Design.htm)* page.
+    *[Design](../Page_Desc/Design)* page.
 
 3.  Select the **Fields** icon for a Target.
 
@@ -187,7 +187,7 @@ To add a Basic rule to a target field in Target Design:
     **Add**.
     
     *[View the field descriptions for the Rules: Basic
-    Rule page](../Page_Desc/Rules_Basic_Rule_H.htm)*
+    Rule page](../Page_Desc/Rules_Basic_Rule_H)*
 
 6.  Enter a value in the **PRIORITY** field.
     
@@ -236,7 +236,7 @@ To add a Basic rule to a target field in Target Design:
 For example, a user sets a Basic rule for the PSTAT field (Maintenance
 Status) on the ttMARA table by completing the fields on the
 <span style="font-style: italic;">[Rules: Basic
-Rule](../Page_Desc/Rules_Basic_Rule_H.htm)</span> page's
+Rule](../Page_Desc/Rules_Basic_Rule_H)</span> page's
 <span style="font-style: italic;">Vertical</span> View with these
 values.
 
@@ -255,7 +255,7 @@ and the PSTAT field for that record will be set to 1.
 
 Once the fields' Target is synced to Map, the Target Rules for the field
 display on the <span style="font-style: italic;">[Field
-Mappings](../../Map/Page_Desc/Field_Mappings_H.htm)</span> page in Map.
+Mappings](../../Map/Page_Desc/Field_Mappings_H)</span> page in Map.
 The fields and their settings are:
 
   - <span style="font-weight: bold;">Action</span>— Rule
@@ -273,5 +273,5 @@ The fields and their settings are:
   - <span style="font-weight: bold;">Mapped By</span>— Displays Target
     Design..
 
-Refer to [Sync Map and Target Design](Sync_Map_and_Target_Design_TD.htm)
+Refer to [Sync Map and Target Design](Sync_Map_and_Target_Design_TD)
 for more information.

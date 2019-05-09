@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Set Up Connection
-Types](../Config/Set_up_Connection_Types.htm).
+Types](../Config/Set_up_Connection_Types).
 
 </div>
 
@@ -68,12 +68,12 @@ To access this page:
 ## <span id="Connection_Type_Data1"></span>Connection Type Data Conversion V
 
 [Connection Type Data Conversion
-H](Connection_Type_Data_Conversion_H.htm)
+H](Connection_Type_Data_Conversion_H)
 
 <div class="use">
 
 Use this page to [Set Up Connection
-Types](../Config/Set_up_Connection_Types.htm).
+Types](../Config/Set_up_Connection_Types).
 
 </div>
 

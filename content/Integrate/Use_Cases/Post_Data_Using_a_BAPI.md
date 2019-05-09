@@ -8,12 +8,12 @@ solution = 'Platform'
 Integrate supports the execution of any RFC enabled Function Module in
 SAP, including the execution of RFCs and the posting of data via BAPIs.
 
-Refer to [Post Using RFC Execution](Post_Using_RFC_Execution.htm) for
+Refer to [Post Using RFC Execution](Post_Using_RFC_Execution) for
 more information about RFC execution.
 
 **NOTE**: Before creating a template, ensure the RFCs and BAPIs for the
 SAP connection have been downloaded.  Refer to [Extract RFC
-Functions](../Config/Extract_RFC_Functions.htm) for more information.
+Functions](../Config/Extract_RFC_Functions) for more information.
 
 A process based on a BAPI template will post data bi-directionally. Data
 is uploaded to be posted into SAP, and downloaded into tables that
@@ -24,7 +24,7 @@ required for BAPI templates. 
 **NOTE**: BAPI template types can use transaction stringing to pass
 return values to other templates assigned to a process. Refer to [Post
 Data Using Transaction
-Stringing](Post_Data_Using_Transaction_Stringing.htm) for more
+Stringing](Post_Data_Using_Transaction_Stringing) for more
 information.
 
 **NOTE**: Integrate is an automation tool that allows experienced SAP

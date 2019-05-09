@@ -7,7 +7,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [View Activity](View_Activity.htm).
+Use this page to [View Activity](View_Activity).
 
 </div>
 

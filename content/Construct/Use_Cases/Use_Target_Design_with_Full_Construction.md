@@ -12,7 +12,7 @@ To begin a Full Construction in Target Design, add a Target Source as
 (sdbDSPConstruct) is not used, the AutoGen process outlined in this
 section is not performed. Refer to [Update the WebApp and Source Data
 Source for
-Construct](../../Console/Use_Cases/Update_Construct_WebApp_and_Data_Source.htm)
+Construct](../../Console/Use_Cases/Update_Construct_WebApp_and_Data_Source)
 for more information.
 
 <span style="font-weight: bold;">NOTE</span> After a {Full Construction}
@@ -30,14 +30,14 @@ To add the Target Source in Target Design:
 2.  Click **Design** in the Context bar.
 
 3.  Click the **Targets** icon on the
-    *[Design](../../Design/Page_Desc/Design.htm)* page.
+    *[Design](../../Design/Page_Desc/Design)* page.
 
 4.  Click the **Sources** icon for a Target.
 
 5.  Click **Add**.
     
     *[View the field descriptions for the Target Sources
-    page](../../Design/Page_Desc/Target_Sources_H_Design.htm)*
+    page](../../Design/Page_Desc/Target_Sources_H_Design)*
     
     **NOTE**: The Add button is only available if the selected Target
     has a Design Status of In Design.
@@ -56,7 +56,7 @@ To add the Target Source in Target Design:
 10. Click **Edit**.
     
     [View the field descriptions for the Target Sources page’s Vertical
-    View](../../Design/Page_Desc/Target_Sources_H_Design.htm#Target_Sources_V)
+    View](../../Design/Page_Desc/Target_Sources_H_Design#Target_Sources_V)
 
 11. Select a value from the **Construct Auto Gen Level** list box.
     Values are:
@@ -85,7 +85,7 @@ To add the Target Source in Target Design:
         **NOTE:** The tabs on the *Construct* page’s *Vertical* View are
         created and displayed based on the Application Screen, Field
         Order and Key Field settings on the *[Target
-        Fields](../../Design/Page_Desc/Target_Fields_H_Target_Design.htm)*
+        Fields](../../Design/Page_Desc/Target_Fields_H_Target_Design)*
         page’s *Vertical* View:
         
           - If an application screen is specified, a tab with the
@@ -95,7 +95,7 @@ To add the Target Source in Target Design:
           - If **Vertical Only** is selected for **Construct Auto Gen
             Build View** all fields identified as key fields on the
             *[Target
-            Fields](../../Design/Page_Desc/Target_Fields_H_Target_Design.htm)*
+            Fields](../../Design/Page_Desc/Target_Fields_H_Target_Design)*
             page’s *Vertical* View are edited on a tab labeled Required
             Fields. Key fields are always displayed on the *Horizontal*
             View.
@@ -103,7 +103,7 @@ To add the Target Source in Target Design:
 
 13. Click **Save**.
 
-14. On the *[Targets](../../Design/Page_Desc/Targets_H_Design.htm)*
+14. On the *[Targets](../../Design/Page_Desc/Targets_H_Design)*
     page, select the Target.
 
 15. Click the **Sync to Map** icon in the Page toolbar.
@@ -125,7 +125,7 @@ Source is not present, the sync to Map process adds the Target or Source
 (within Collect) as needed before adding the table.
 
   - In Target Design, the data source sdbDSPConstruct is added to the
-    [Target Sources](../../Design/Page_Desc/Target_Sources_H_Design.htm)
+    [Target Sources](../../Design/Page_Desc/Target_Sources_H_Design)
     page as a Source data source.
   - In the sdbDSPConstruct data source, the pages, tables, menu
     registrations and the schema of the construction table are added.
@@ -171,9 +171,9 @@ Construct page.
 
   - When using Target Design with Full Construction, fields with an
     associated check table or domain value in Map on the *[Value Mapping
-    (Config)](../../Map/Page_Desc/Value_Mapping_Config_H.htm)* page are
+    (Config)](../../Map/Page_Desc/Value_Mapping_Config_H)* page are
     generated with list boxes and the list box format can be configured
-    on the *[Construct](../Page_Desc/Construct_Page.htm)* page. However,
+    on the *[Construct](../Page_Desc/Construct_Page)* page. However,
     list boxes are not generated for fields with a 'master data'
     configuration type.
 
@@ -202,7 +202,7 @@ Construct page.
   - In Target Design, to view the name of the construction page that was
     created, click *Vertical* View for the {Full Construction} Source
     data source on the *[Target
-    Sources](../../Design/Page_Desc/Target_Sources_H_Design.htm)* page.
+    Sources](../../Design/Page_Desc/Target_Sources_H_Design)* page.
     The Construction Page ID field lists the name of the page which
     follows the naming convention \[WebApp ID\] – \[Target table name\]
     – Full Construct – \[Wave name\].
@@ -213,7 +213,7 @@ updates the Construction Page ID field with this other page name, none
 of the automation (such as adding fields to the Construct page) is
 performed and the construction page must be built manually. Refer to
 [Build a Construction Page
-Manually](../../../Platform/Common/Use_Cases/Build_a_Construction_Page_Manually.htm)
+Manually](../../../Platform/Common/Use_Cases/Build_a_Construction_Page_Manually)
 for more information.
 
 **NOTE**: If a field is activated in Target Design after the Construct

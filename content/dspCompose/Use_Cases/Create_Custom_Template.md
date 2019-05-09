@@ -8,7 +8,7 @@ solution = 'Data Quality'
 <div class="use">
 
 Use this page to [Create a Custom
-Template](Create_a_Custom_Template_dspCompose.htm).
+Template](Create_a_Custom_Template_dspCompose).
 
 </div>
 

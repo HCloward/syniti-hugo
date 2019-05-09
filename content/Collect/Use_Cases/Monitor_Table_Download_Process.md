@@ -12,7 +12,7 @@ tasks have completed for the download.
 in Collect, a user must be assigned to a security role that has the
 Collect WebApp group WorkFlowFailureAll or WorkFlowFaiureByTargetAccess
 assigned. Refer to [Set
-Security](../../Sys_Admin/Use_Cases/Setting_security.htm) in System
+Security](../../Sys_Admin/Use_Cases/Setting_security) in System
 Administration for more information.
 
 To monitor the table download process:
@@ -30,4 +30,4 @@ To monitor the table download process:
 5.  Click <span style="font-weight: bold;">View Job Tasks</span>.
 
 [View the field descriptions for the Table Download Task List
-page](../Page_Desc/Table_Download_Task_List.htm)
+page](../Page_Desc/Table_Download_Task_List)

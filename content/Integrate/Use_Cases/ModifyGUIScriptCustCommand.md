@@ -31,7 +31,7 @@ captured in the GUI recording:  
     
     *[View the field descriptions for the GUI Script Data page’s
     Vertical
-    View.](../Page_Desc/GUI_Script_Data_H.htm#GUI_Script_Data_V_All)*
+    View.](../Page_Desc/GUI_Script_Data_H#GUI_Script_Data_V_All)*
     
     **NOTE**: The script line related to this field displays in **VB
     Script Line**.

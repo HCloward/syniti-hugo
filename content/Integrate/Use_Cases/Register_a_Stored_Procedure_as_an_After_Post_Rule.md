@@ -17,13 +17,13 @@ rule is encountered, Integrate runs the rule and waits for it to
 complete before running the next rule.
 
 Before performing this task, a Template Administrator must [create a
-category](../Config/Create_Categories.htm), [create a
-template](Create_a_Basic_Template.htm), and [create a
-process](Create_a_Process.htm). A stored procedure must be written and
+category](../Config/Create_Categories), [create a
+template](Create_a_Basic_Template), and [create a
+process](Create_a_Process). A stored procedure must be written and
 stored in a data source accessible to the platform.
 
 Refer to [Register After Post Rules to a Process Template
-Overview](Register_After_Post_Rules_to_a_Process_Template_Overview.htm)
+Overview](Register_After_Post_Rules_to_a_Process_Template_Overview)
 for general information.
 
 To register a stored procedure After Post rule in Integrate:
@@ -50,7 +50,7 @@ To register a stored procedure After Post rule in Integrate:
     
     [View the field descriptions for the Process Templates: After Post
     Rules
-    page](../../../Master_Data_Mgmt/dspConduct/Page_Desc/Process_Templates_After_Post_Rules_H.htm)
+    page](../../../Master_Data_Mgmt/dspConduct/Page_Desc/Process_Templates_After_Post_Rules_H)
 
 5.  Enter a number in the
     <span style="font-weight: bold;">Priority</span> field to set the

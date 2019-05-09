@@ -8,7 +8,7 @@ solution = 'Data Quality'
 <div class="use">
 
 Use this page to [Add a Data Source that Stores Views for
-Import](Add_a_Data_Source_that_Stores_Views_for_Import.htm).
+Import](Add_a_Data_Source_that_Stores_Views_for_Import).
 
 </div>
 
@@ -40,7 +40,7 @@ To access this page:
 <tr class="even">
 <td><p>Add</p></td>
 <td><p>Click to add the selected data source to the template’s Data role. Views from this data source can be imported into the data entry role for a request based on this template.</p>
-<p>The data source displays in the Data Source ID list box on the <span style="font-style: italic;"><a href="../Page_Desc/Request_Roles_H.htm"><span style="font-style: italic;">Request (Roles)</span></a></span> page’s <span style="font-style: italic;">Vertical</span> View.</p></td>
+<p>The data source displays in the Data Source ID list box on the <span style="font-style: italic;"><a href="../Page_Desc/Request_Roles_H"><span style="font-style: italic;">Request (Roles)</span></a></span> page’s <span style="font-style: italic;">Vertical</span> View.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Remove</p></td>

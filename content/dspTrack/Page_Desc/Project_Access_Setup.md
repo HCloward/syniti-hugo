@@ -7,7 +7,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Set Plan Security](../Config/Set_Plan_Security.htm).
+Use this page to [Set Plan Security](../Config/Set_Plan_Security).
 
 </div>
 
@@ -44,7 +44,7 @@ To access this page:
 <tr class="odd">
 <td><p>IGNORE DURING SYNC PROCESS</p></td>
 <td><p>If enabled, the READ ONLY setting for the user ID is ignored when the automatic synchronization procedure runs. The user's read only access is not updated during this procedure, which syncs the settings on the <span style="font-style: italic;">Plan Access Setup</span> page with the Security Role settings for dspTrack™.</p>
-<p>Refer to <a href="../Config/Use_Template_Security_Roles.htm">Use Template Security Roles</a> for more information.</p>
+<p>Refer to <a href="../Config/Use_Template_Security_Roles">Use Template Security Roles</a> for more information.</p>
 <p><strong>NOTE</strong>: If a user is assigned to the Business User role only, this feature is not available, as users assigned to the security role only do not display on this page.</p></td>
 </tr>
 </tbody>

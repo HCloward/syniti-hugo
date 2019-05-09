@@ -65,7 +65,7 @@ Setup \> Scenario Type</span> in the
     scenario type.
     
     [View the field descriptions for the Scenario Type
-    page](../Page_Desc/Scenario_Type.htm)
+    page](../Page_Desc/Scenario_Type)
 
 2.  Enter the scenario type name in the
     <span style="font-weight: bold;">SCENARIO TYPE</span> field.

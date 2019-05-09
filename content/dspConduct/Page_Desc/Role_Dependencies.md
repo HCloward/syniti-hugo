@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Add Dependencies to
-Roles](../Use_Cases/Role_Dependencies.htm#Add_Dependencies_to_Roles).
+Roles](../Use_Cases/Role_Dependencies#Add_Dependencies_to_Roles).
 
 </div>
 
@@ -26,7 +26,7 @@ To access this page:
 entered in IGC™ cannot be updated from within dspConduct™, and many of
 the fields and icons associated with the record are not active for that
 role dependency. Refer to [Update Custom Attributes for Governance
-Elements](../Use_Cases/Update_Custom_Attributes_for_Governance_Elements.htm)
+Elements](../Use_Cases/Update_Custom_Attributes_for_Governance_Elements)
 for more information.
 
 <table>
@@ -46,12 +46,12 @@ for more information.
 <tr class="odd">
 <td><p>DEPENDENT ROLE ID</p></td>
 <td><p>Displays the name of the role that must be finished before the current role can start.  For example, the Review role must have all the Application roles listed as dependent roles. The Review role cannot start until work on the Application roles is complete.</p>
-<p>Refer to <a href="../Use_Cases/Role_Dependencies.htm#Dependencies_and_Role_Types">Dependencies and Role Types</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Role_Dependencies#Dependencies_and_Role_Types">Dependencies and Role Types</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Conditions</p></td>
-<td><p>Click to open the <a href="Role_Depend_Cond_Assin_Page.htm">Role Dependency Condition Assignment</a> page to configure data driven dependencies if needed.</p>
-<p>Refer to <a href="../Use_Cases/Role_Dependencies.htm#Assign_a_Condition_to_a_Role_Dependency_Relationship">Assign a Condition to a Role Dependency Relationship</a> more information.</p></td>
+<td><p>Click to open the <a href="Role_Depend_Cond_Assin_Page">Role Dependency Condition Assignment</a> page to configure data driven dependencies if needed.</p>
+<p>Refer to <a href="../Use_Cases/Role_Dependencies#Assign_a_Condition_to_a_Role_Dependency_Relationship">Assign a Condition to a Role Dependency Relationship</a> more information.</p></td>
 </tr>
 </tbody>
 </table>

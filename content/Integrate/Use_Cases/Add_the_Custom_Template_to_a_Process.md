@@ -11,7 +11,7 @@ system.
 A user must create all of the associated files and code to support the
 Custom template.
 
-After [activating the template](Activate_the_Custom_Template.htm), it
+After [activating the template](Activate_the_Custom_Template), it
 must be added to a process. This process is used to post.
 
 To create a process and add a Custom template:
@@ -26,7 +26,7 @@ To create a process and add a Custom template:
     <span style="font-style: italic;">Vertical</span> View displays.
     
     [View the field descriptions for the Process page’s Vertical
-    View.](../Page_Desc/Process_H.htm#Process_V_All_Tabs)
+    View.](../Page_Desc/Process_H#Process_V_All_Tabs)
     
     <span style="font-weight: bold;">NOTE</span>: At least one active
     template must exist for the category before a process can be added.
@@ -36,7 +36,7 @@ To create a process and add a Custom template:
     
     <span style="font-weight: bold;">NOTE</span>: This value determines
     the order the process displays on the
-    <span style="font-style: italic;">[Process](../Page_Desc/Process_H.htm)</span>
+    <span style="font-style: italic;">[Process](../Page_Desc/Process_H)</span>
     page.
 
 5.  Enter a process name in
@@ -70,4 +70,4 @@ To create a process and add a Custom template:
     is automatically registered to the process.
 
 Continue with [Activate the
-Process.](Activate_the_Process_Custom_Template.htm)
+Process.](Activate_the_Process_Custom_Template)

@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [View History of an
-Interface](../Use_Cases/View_History_of_an_Interface.htm)
+Interface](../Use_Cases/View_History_of_an_Interface)
 
 .
 
@@ -55,7 +55,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>EVENTS</p></td>
-<td><p>Click to open the <em><a href="Monitor_Events.htm">Monitor (Events)</a></em> page to view and interact with interface events that are currently running or that have failed.</p></td>
+<td><p>Click to open the <em><a href="Monitor_Events">Monitor (Events)</a></em> page to view and interact with interface events that are currently running or that have failed.</p></td>
 </tr>
 </tbody>
 </table>
@@ -106,7 +106,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Events</p></td>
-<td><p>Click to open the <em><a href="Monitor_Events.htm">Monitor (Events)</a></em> page to view and interact with interface events that are currently running or that have failed.</p></td>
+<td><p>Click to open the <em><a href="Monitor_Events">Monitor (Events)</a></em> page to view and interact with interface events that are currently running or that have failed.</p></td>
 </tr>
 </tbody>
 </table>

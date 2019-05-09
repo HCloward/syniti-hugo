@@ -15,16 +15,16 @@ connect a column in a view with a field on a template.
 
 A user can create the view using the Auto Generate Database Objects
 feature. Refer to [Generate Database Objects
-Automatically](Generate_Database_Objects_Automatically.htm) for more
+Automatically](Generate_Database_Objects_Automatically) for more
 information. Views can also be created manually. Refer to [Create a View
-in SQL Server](Create_a_View_in_SQL_Server.htm) for more information.
+in SQL Server](Create_a_View_in_SQL_Server) for more information.
 
 The field mappings for process template loops can be created
 automatically using the Auto Generated Database Object feature. In this
 case, the MAPPING VALUE field and the TEMPLATE FIELD UNIQUE NAME field
 will have identical values. Refer to
 <span style="color: #0000ff;">[Generate Database Objects
-Automatically](Generate_Database_Objects_Automatically.htm)</span> for
+Automatically](Generate_Database_Objects_Automatically)</span> for
 more information.
 
 Once the process template loop is configured, a user can also configure
@@ -47,7 +47,7 @@ mapping automatically based on the fields in the recording.
 
 Synchronous templates also allow mappings to be tied to Return Values.
 Refer to [Post Data Using Transaction
-Stringing](Post_Data_Using_Transaction_Stringing.htm) for more
+Stringing](Post_Data_Using_Transaction_Stringing) for more
 information.
 
 **NOTE**: Template Process Loop Field Mappings cannot be edited if the
@@ -84,7 +84,7 @@ To configure field mapping manually for a BDC Script process template:
     
     *[View the field descriptions for the Process Template Loop Field
     Mappings
-    page.](../Page_Desc/Process_Template_Loop_Field_Mappings_H.htm)*
+    page.](../Page_Desc/Process_Template_Loop_Field_Mappings_H)*
 
 7.  Locate a **TEMPLATE FIELD UNIQUE NAME** to configure.
 

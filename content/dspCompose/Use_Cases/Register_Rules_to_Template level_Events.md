@@ -15,10 +15,10 @@ template for which the request was entered.
 
 Rules can also be run when a request is created as a result of an
 [External Request Scenario that Creates an Excel-initiated
-request](External_Request_Scenarios_that_Create_Excel_Initiated_Requests.htm)
+request](External_Request_Scenarios_that_Create_Excel_Initiated_Requests)
 or an [External Request Scenario that Creates an Information
 Steward-initiated
-request](../../ISA/Use_Cases/External_Request_Scenarios_that_Create_Information_Steward%20initiated_Requests.htm).
+request](../../ISA/Use_Cases/External_Request_Scenarios_that_Create_Information_Steward%20initiated_Requests).
 
 When creating the template-level event rule, the Template Administrator
 selects the rule that should run from a list of stored procedures from a
@@ -26,12 +26,12 @@ selected data source. These stored procedures can only accept the inputs
 RequestID, TemplateID, boaUserID, and boaSAPLanguge.
 
 Refer to [Register Rules to
-Tables](../../../Platform/Collect/Use_Cases/Add_Rules_and_Indices_to_Tables.htm#Register_Rules_to_Tables)
+Tables](../../../Platform/Collect/Use_Cases/Add_Rules_and_Indices_to_Tables#Register_Rules_to_Tables)
 for more information.
 
 **NOTE**: To add a rule at the template level, the template must not be
 active or must be in Developer Mode. Refer to [Modify an Active Template
-in Developer Mode](Modify_an_Active_Template_in_Developer_Mode.htm) for
+in Developer Mode](Modify_an_Active_Template_in_Developer_Mode) for
 more information.
 
 To register a rule for a template-level event:
@@ -48,7 +48,7 @@ To register a rule for a template-level event:
 5.  Click **Events**.
     
     *[View the field descriptions for the Template (Events)
-    page.](../Page_Desc/Template_Events.htm)*
+    page.](../Page_Desc/Template_Events)*
     
     **NOTE:**The available Events are:
     
@@ -81,7 +81,7 @@ To register a rule for a template-level event:
     Otherwise, click Add.
     
     [View the field descriptions for the Template (Event Rule)
-    page](../Page_Desc/Template_Event_Rule.htm)
+    page](../Page_Desc/Template_Event_Rule)
 
 7.  Enter a sort order in **PRIORITY** field.
     

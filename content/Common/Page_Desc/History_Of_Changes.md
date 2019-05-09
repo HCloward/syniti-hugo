@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [View Object
-History](../../../Migration/Construct/Use_Cases/View_Object_History.htm).
+History](../../../Migration/Construct/Use_Cases/View_Object_History).
 
 </div>
 

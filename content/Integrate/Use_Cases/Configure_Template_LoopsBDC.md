@@ -15,7 +15,7 @@ recording.
 
 When a template that uses loops is added to a process, each loop in the
 template becomes a process template loop. Refer to [Configure Template
-Loops for a BDC Script Template](Configure_Template_LoopsBDC.htm) for a
+Loops for a BDC Script Template](Configure_Template_LoopsBDC) for a
 process based on a BDC Script template.
 
 Looping is necessary when data in the same field at the detail level
@@ -41,7 +41,7 @@ To configure loops for a BDC script.
 2.  Click **BDC Screen**.
     
     *[View the field descriptions for the BDC Screen
-    page.](../Page_Desc/BDC_Screen_H.htm)*
+    page.](../Page_Desc/BDC_Screen_H)*
     
     **NOTE**: This page displays three loop-related columns when the
     **Enable Loop** check box is enabled: **LOOP PLUS**, **LOOP MINUS**,

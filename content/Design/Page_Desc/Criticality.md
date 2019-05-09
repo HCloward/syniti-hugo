@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Add Custom Criticality
-Levels](../Config/Add_Custom_Criticality_Levels.htm).
+Levels](../Config/Add_Custom_Criticality_Levels).
 
 </div>
 
@@ -32,7 +32,7 @@ To access this page:
 <td><p>CRITICALITY</p></td>
 <td><p>Displays the Criticality level used for reporting purposes. The platform is delivered with the values High, Medium, and Low. These values cannot be edited or deleted.</p>
 <p>Custom criticality levels can be added, edited, and deleted.</p>
-<p>The Criticality displays on the <span style="font-style: italic;"><a href="Target_Fields_H_Target_Design.htm">Target Fields</a></span> page.</p></td>
+<p>The Criticality displays on the <span style="font-style: italic;"><a href="Target_Fields_H_Target_Design">Target Fields</a></span> page.</p></td>
 </tr>
 <tr class="odd">
 <td><p>PRIORITY</p></td>
@@ -45,7 +45,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>ACTIVE</p></td>
-<td><p>If checked, the Criticality level is active and can be selected on the <span style="font-style: italic;"><a href="Target_Fields_H_Target_Design.htm">Target Fields</a></span><span style="font-style: italic;"> page </span>and used on reports. The platform-supplied levels cannot be made inactive.</p>
+<td><p>If checked, the Criticality level is active and can be selected on the <span style="font-style: italic;"><a href="Target_Fields_H_Target_Design">Target Fields</a></span><span style="font-style: italic;"> page </span>and used on reports. The platform-supplied levels cannot be made inactive.</p>
 <p>The check box is checked and cannot be unchecked for the DSP-supplied values High, Medium, and Low.</p></td>
 </tr>
 <tr class="even">

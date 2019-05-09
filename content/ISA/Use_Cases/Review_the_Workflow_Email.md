@@ -3,7 +3,7 @@
 Depending on a user’s workflow options settings,a workflow email can
 contain a summary oran attachment.
 
-Refer to [Attachments and Summaries](Summaries_and_Attachments.htm) for
+Refer to [Attachments and Summaries](Summaries_and_Attachments) for
 more information.
 
 Workflow emails for summaries and attachment have a link to the IS

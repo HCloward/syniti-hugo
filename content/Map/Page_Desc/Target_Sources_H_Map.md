@@ -12,10 +12,10 @@ solution = 'Migration'
 Use this page to:
 
   - [Set a Source Database
-    Object](../Use_Cases/Perform_Field_Mapping.htm#Set_a_Source_Database_Object)
-  - [Add ZActive Fields](../Use_Cases/Add_ZActive.htm)
+    Object](../Use_Cases/Perform_Field_Mapping#Set_a_Source_Database_Object)
+  - [Add ZActive Fields](../Use_Cases/Add_ZActive)
   - [Update Client and Language for all
-    Sources](../Use_Cases/Update_Client_and_Language_for_all_Sources.htm)
+    Sources](../Use_Cases/Update_Client_and_Language_for_all_Sources)
 
 </div>
 
@@ -26,7 +26,7 @@ To access this page:
 2.  Click <span style="font-weight: bold;">Map </span>in the Context
     bar.
 3.  Click the <span style="font-weight: bold;">Targets</span> icon on
-    the *[Process Area Launch](Process_Area_Launch_map.htm)* page.
+    the *[Process Area Launch](Process_Area_Launch_map)* page.
 4.  Click the <span style="font-weight: bold;">Sources</span> icon for a
     Target.
 
@@ -63,13 +63,13 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Update Row Sources</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Target_Sources_Add_Row.htm">Target Sources (Add Row)</a></span> page to add an Update Row Source to the selected Add Row.</p>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Target_Sources_Add_Row">Target Sources (Add Row)</a></span> page to add an Update Row Source to the selected Add Row.</p>
 <p>Add an Update Row when data from another Source table is needed to update the Add Row Source.</p>
-<p>Refer to <a href="../Use_Cases/Add_Update_Row_Sources.htm">Add Update Row Sources</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Add_Update_Row_Sources">Add Update Row Sources</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Mappings</p></td>
-<td><p>Click to open the <em><a href="Field_Mappings_H.htm">Field Mappings</a></em> page to create and reset field mappings for all fields in the context, to view the history for a selected mapping, or to view mapping details. A number does not display on this icon if no field mappings have been activated for the current context.</p></td>
+<td><p>Click to open the <em><a href="Field_Mappings_H">Field Mappings</a></em> page to create and reset field mappings for all fields in the context, to view the history for a selected mapping, or to view mapping details. A number does not display on this icon if no field mappings have been activated for the current context.</p></td>
 </tr>
 </tbody>
 </table>
@@ -82,14 +82,14 @@ To access this page:
 
 Use this page to:
 
-  - [Add ZActive](../Use_Cases/Add_ZActive.htm)
+  - [Add ZActive](../Use_Cases/Add_ZActive)
   - [Update Unmapped Add Row and Update Row Source Fields to
-    NotUsed](../Use_Cases/Update_Unmapped_Fields_to_NotUsed.htm#Update_Add_Row_and_Update_Row_Source_Fields)
-  - [Add Update Row Sources](../Use_Cases/Add_Update_Row_Sources.htm)
+    NotUsed](../Use_Cases/Update_Unmapped_Fields_to_NotUsed#Update_Add_Row_and_Update_Row_Source_Fields)
+  - [Add Update Row Sources](../Use_Cases/Add_Update_Row_Sources)
   - [Update Client and Language for all
-    Sources](../Use_Cases/Update_Client_and_Language_for_all_Sources.htm)
+    Sources](../Use_Cases/Update_Client_and_Language_for_all_Sources)
   - [Add an Assemble Where
-    Clause](../Use_Cases/Add_Assemble_Where_Clause.htm)
+    Clause](../Use_Cases/Add_Assemble_Where_Clause)
 
 </div>
 
@@ -100,20 +100,20 @@ Description
 Copy To
 
 Click to open the <span style="font-style: italic;">[Target Source Copy
-To](Target_Source_Copy_To.htm)</span> page to copy Source mappings from
+To](Target_Source_Copy_To)</span> page to copy Source mappings from
 the current Target Source to another Target Source combination.
 
 Export Field Mappings
 
 Click to export all field mappings with a MAPPING STATUS and a RULE
-STATUS of Complete on the *[Field Mappings](Field_Mappings_H.htm)* page
+STATUS of Complete on the *[Field Mappings](Field_Mappings_H)* page
 to the Common System Tables to be imported into Waves and other Process
 Areas.
 
 Import Field Mappings
 
 Click to open the <span style="font-style: italic;">[Import Field
-Mappings](Import_Field_Mappings.htm)</span> page to review and import
+Mappings](Import_Field_Mappings)</span> page to review and import
 all available mappings approved in other Waves to the current Source.
 
 Auto Update Not Used
@@ -124,7 +124,7 @@ mappings.
 Reset
 
 Click to reset the <span style="font-style: italic;">[Target Source
-Schema](Target_Source_Schema_H.htm) </span>page.
+Schema](Target_Source_Schema_H) </span>page.
 
 Resetting re-imports any additional fields for this Add Row Source from
 the System Type.
@@ -135,7 +135,7 @@ Track Changes
 
 If checked, workflow notifications are sent to users who are set up to
 receive mapping changes. Refer to [Set up User
-Notifications](../Config/Setup_User_Notifications.htm) for more
+Notifications](../Config/Setup_User_Notifications) for more
 information.
 
 Comment
@@ -168,7 +168,7 @@ table.
 System Type Table Fields
 
 Click to display the [System Types
-Tables](../../../Platform/Common/Page_Desc/System_Types_Tables_H.htm)
+Tables](../../../Platform/Common/Page_Desc/System_Types_Tables_H)
 page to view or update the System Type table & fields.
 
 ST Table Settings
@@ -216,8 +216,8 @@ Table Details
 **NOTE:** This label and the icons below it do not display if a Source
 database object has not been set. This is set on the
 <span style="font-style: italic;">Horizontal</span> View of the [Target
-Source (Add Row)](Target_Sources_Add_Row.htm) or [Target Sources (Update
-Row)](Target_Sources_Update_Row.htm) page.
+Source (Add Row)](Target_Sources_Add_Row) or [Target Sources (Update
+Row)](Target_Sources_Update_Row) page.
 
 Profile
 
@@ -227,13 +227,13 @@ data types.
 
 View Data
 
-Click to open the [Target Sources](Target_Sources_H_Map.htm) page to
+Click to open the [Target Sources](Target_Sources_H_Map) page to
 view the Source data.
 
 View Fields
 
 Click to open the <span style="font-style: italic;">[Table Field
-(Results)](../../../Platform/Common/Page_Desc/Table_Field_Results_H.htm)</span>
+(Results)](../../../Platform/Common/Page_Desc/Table_Field_Results_H)</span>
 page to view profile results such as field data type, length, the
 percentage of fields that do not have data, and the percentage of fields
 that have unique values.
@@ -247,7 +247,7 @@ information.
 
 This value is entered in Target Design on the *Vertical* View of the
 *[Target Lookup
-Table](../../Design/Page_Desc/Target_Lookup_Table_H.htm)* page.
+Table](../../Design/Page_Desc/Target_Lookup_Table_H)* page.
 
 Language
 
@@ -256,4 +256,4 @@ information.
 
 This value is entered in Target Design on the *Vertical* View of the
 *[Target Lookup
-Table](../../Design/Page_Desc/Target_Lookup_Table_H.htm)* page.
+Table](../../Design/Page_Desc/Target_Lookup_Table_H)* page.

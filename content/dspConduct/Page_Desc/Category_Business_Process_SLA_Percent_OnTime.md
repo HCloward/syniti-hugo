@@ -16,15 +16,15 @@ process, scenario, or role) being viewed.
 This chart displays the percentage of roles by specific business
 processes within the category completed on time according to established
 SLA settings based on active requests. Refer to [Set Up SLA
-Notifications in dspConduct™](../Config/Set_Up_SLA_Notifications.htm)
+Notifications in dspConduct™](../Config/Set_Up_SLA_Notifications)
 for more information.
 
-Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts.htm) for
+Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts) for
 general information about chart features.
 
 Click a bar in the chart to drill down to the [Business Process,
 Scenario SLA Percent On
-Time](Business_Process_Scenario_SLA_Percent_OnTime.htm) chart.
+Time](Business_Process_Scenario_SLA_Percent_OnTime) chart.
 
 To access this chart in dspConduct™:
 

@@ -5,7 +5,7 @@ solution = 'Platform'
 
 # Monitor Interfaces & Events
 
-The [Monitor](../Page_Desc/Monitor_H.htm) page displays and permits
+The [Monitor](../Page_Desc/Monitor_H) page displays and permits
 interaction with the interface events that are currently running or that
 have failed.
 

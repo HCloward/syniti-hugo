@@ -25,7 +25,7 @@ To add reports to a group:
 4.  Click **Add**.
     
     [View the field descriptions for the Group Reports
-    page](../Page_Desc/Group_Reports_H.htm)
+    page](../Page_Desc/Group_Reports_H)
 
 5.  Select a repository from the **REPOSITORY** list box to indicate
     where the report is located.
@@ -49,7 +49,7 @@ To add reports to a group:
 11. Click **Edit**.
     
     [View the field descriptions for the Group Reports page's Vertical
-    View](../Page_Desc/Group_Reports_H.htm)
+    View](../Page_Desc/Group_Reports_H)
 
 12. Enter a schedule in **Schedule Group** field to run large reports in
     a single thread.

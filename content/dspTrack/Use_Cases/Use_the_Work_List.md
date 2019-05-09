@@ -7,7 +7,7 @@ solution = 'Platform'
 
 The Work List displays tasks in active plans that are not complete and
 are assigned to the logged in user. To activate a plan, refer to
-[Activate and Deactivate a Plan](Activate_and_Deactivate_a_Plan.htm) for
+[Activate and Deactivate a Plan](Activate_and_Deactivate_a_Plan) for
 more information.
 
 A Work List Item, created on the *Work List Setup* page (Configuration
@@ -23,7 +23,7 @@ in the PROJECT and PLAN field on the
 <span style="font-style: italic;">Work List</span> and
 <span style="font-style: italic;">Work List Setup</span> page. These
 fields are blank for Work List Items. Refer to [Plan Tasks versus Work
-List Items](../Page_Desc/Plan_Tasks_Versus_Work_List_Items.htm) for more
+List Items](../Page_Desc/Plan_Tasks_Versus_Work_List_Items) for more
 information.
 
 To access the Work List, click the blue tab on the Quick Panel. The
@@ -37,16 +37,16 @@ allows a user to:
 
   - View the schedule status of a task. Refer to [Set Parameters for
     Schedule Status
-    Calculation](Set_Parameters_for_Schedule_Status_Calculation.htm) for
+    Calculation](Set_Parameters_for_Schedule_Status_Calculation) for
     more information about how a schedule status is set for a task.
 
   - Upload a file to a task. Refer to [Upload Files to a Plan, Task or
-    Work List Item](UpldFilesfoProjTaskWrkListItem.htm) for more
+    Work List Item](UpldFilesfoProjTaskWrkListItem) for more
     information.
 
   - Access a page with binding criteria if a task has Work List binding
     criteria configured. Refer to [Add Work List Binding Criteria to a
-    Work List Item or Plan Task](AddWrkLisBindingCriteriaItem.htm) for
+    Work List Item or Plan Task](AddWrkLisBindingCriteriaItem) for
     more information.
 
   - Move tasks through the workflow by clicking the Next Action icon.
@@ -61,7 +61,7 @@ allows a user to:
     Detail* page. Completed Work List Items display on the *Work List
     Detail* page only.
     
-    **NOTE**: Refer to [Task Status](../Page_Desc/Task_Status1.htm) for
+    **NOTE**: Refer to [Task Status](../Page_Desc/Task_Status1) for
     more information about how Plan Tasks and Work List Items move
     through the workflow.
 
@@ -70,7 +70,7 @@ allows a user to:
 
   - Access the *Work List Detail* page to view the tags and resources
     associated with a task. Refer to [View Work List
-    Details](View_Work_List_Details.htm) for more information.
+    Details](View_Work_List_Details) for more information.
 
 On the Work List’s *Vertical* View, a user can:
 
@@ -80,7 +80,7 @@ On the Work List’s *Vertical* View, a user can:
     
     **NOTE**: Comments or late comments may be required, depending on
     how the task is configured. Refer to [Set Comment Requirements for
-    Tasks](Set_Comment_Requirements_for_Tasks.htm) for more information.
+    Tasks](Set_Comment_Requirements_for_Tasks) for more information.
     
     <span style="font-weight: bold;">NOTE</span>: The Late Comment icon
     is disabled when the schedule status for a Plan Task or Work List
@@ -96,12 +96,12 @@ On the Work List’s *Vertical* View, a user can:
     the key displayed. <span>If the user clicks the Unbound Page icon,
     no binding criteria is passed to the page.</span> Refer to [Add Work
     List Binding Criteria to a Work List Item or Plan
-    Task](AddWrkLisBindingCriteriaItem.htm) for more information.
+    Task](AddWrkLisBindingCriteriaItem) for more information.
     
     **NOTE**: A user’s security settings will affect whether the user
     can access the page, and if the user can update data on the page.
 
   - View the Microsoft Project ID for the Plan Task, if the task was
     added during an import. Refer to [Import Project Files into
-    dspTrack™](Import_Project_Files_into_dspTrack.htm) for more
+    dspTrack™](Import_Project_Files_into_dspTrack) for more
     information.

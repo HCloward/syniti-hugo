@@ -19,7 +19,7 @@ To set the upload path:
 2.  Click **Edit**.
     
     [View the field descriptions for the Parameters page’s Validations
-    tab](../Page_Desc/Parameters_dspTrack.htm#Validations_Tab)
+    tab](../Page_Desc/Parameters_dspTrack#Validations_Tab)
 
 3.  Enter the path where project files should be uploaded in the Plan
     Upload File Path field.

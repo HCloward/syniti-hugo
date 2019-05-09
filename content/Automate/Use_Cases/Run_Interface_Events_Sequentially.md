@@ -27,7 +27,7 @@ To run Interface events sequentially in Automate:
 5.  Click **Add**.
     
     [View the field description for the Interface Event (Validations)
-    page](../Page_Desc/Interface_Event_Validations.htm)
+    page](../Page_Desc/Interface_Event_Validations)
 
 6.  Enter a value in the **Priority** field.
 
@@ -48,14 +48,14 @@ To run Interface events sequentially in Automate:
     
     [View the field description for the Interface Event (Validations)
     page’s Vertical
-    View](../Page_Desc/Interface_Event_Validations.htm#InterfaceEventValidationsV)
+    View](../Page_Desc/Interface_Event_Validations#InterfaceEventValidationsV)
 
 12. Enter a descriptive comment in the **Comment** field.
 
 13. Click **Save**.
 
 14. Return to the [*Interface
-    Events*](../Page_Desc/Interface_Events.htm) page.
+    Events*](../Page_Desc/Interface_Events) page.
 
 15. Click **Vertical View** for the event.
 
@@ -64,7 +64,7 @@ To run Interface events sequentially in Automate:
 17. Click **Edit**.
     
     [View the field description for the Interface Event page’s Vertical
-    View](../Page_Desc/Interface_Events.htm#InterfaceEventsV)
+    View](../Page_Desc/Interface_Events#InterfaceEventsV)
 
 18. Enter **10** in the **Retry Interval** field to indicate the stored
     procedure will retry 10 times.

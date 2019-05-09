@@ -9,7 +9,7 @@ When working in components of dspMigrate™ Advanced Data Migration (ADM),
 Console is accessible by clicking Console in the Context bar.
 
 Refer to [Context, the Context Bar, and
-Navigation](../../dspMigrate/Context_Navigation.htm) for more
+Navigation](../../dspMigrate/Context_Navigation) for more
 information.
 
 To access Console from outside of dspMigrate™:

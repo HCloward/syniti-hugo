@@ -11,7 +11,7 @@ dspMonitor.
 
 To register a report repository (referred to as a data source in
 Common), refer to [Register a Data Source in
-Common](../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common.htm).
+Common](../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common).
 
 To register a report repository in dspMonitor:
 
@@ -21,7 +21,7 @@ To register a report repository in dspMonitor:
 2.  Click **Add**.
     
     [View the field descriptions for the Report Repositories
-    page](../Page_Desc/Report_Repositories_H.htm)
+    page](../Page_Desc/Report_Repositories_H)
 
 3.  Select a report repository from the **REPOSITORY** list box.
     
@@ -37,7 +37,7 @@ To register a report repository in dspMonitor:
 6.  Click **Edit**.
     
     [View the field descriptions for the Report Repositories page's
-    Vertical View](../Page_Desc/Report_Repositories_H.htm)
+    Vertical View](../Page_Desc/Report_Repositories_H)
 
 7.  Update **Report Filter** if default value is not applicable.
     
@@ -68,7 +68,7 @@ To register a report repository in dspMonitor:
     **NOTE:** If no threshold is selected, the threshold ID set on the
     *Parameters* page is used in the data quality score status
     calculation. Refer to [Register Data Quality Score
-    Thresholds](Populate_Configuration_Tables.htm#Register_Data_Quality_Score_Thresholds)
+    Thresholds](Populate_Configuration_Tables#Register_Data_Quality_Score_Thresholds)
     for more information.
 
 11. Click **Save**.

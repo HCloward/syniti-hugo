@@ -7,7 +7,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Copy a Calendar](../Use_Cases/Copy_a_Calendar.htm).
+Use this page to [Copy a Calendar](../Use_Cases/Copy_a_Calendar).
 
 </div>
 

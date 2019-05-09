@@ -8,7 +8,7 @@ distribution and display in workflow templates.
 
 Once tables are refreshed in Collect, the custom attributes will display
 in the ISA. Refer to [Refresh
-Tables](../../../Platform/Collect/Use_Cases/Refresh_Overview.htm#Refresh_Tables)
+Tables](../../../Platform/Collect/Use_Cases/Refresh_Overview#Refresh_Tables)
 for more information.
 
 To assign rules to a Project Distribution using custom attributes:

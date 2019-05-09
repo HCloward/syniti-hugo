@@ -9,7 +9,7 @@ solution = 'Master Data Management'
 
 Use this page to [configure category org unit value assignments for
 roles at the position
-level](../Use_Cases/Set_a_Roles_Org_Unit_Value_Assignments.htm).
+level](../Use_Cases/Set_a_Roles_Org_Unit_Value_Assignments).
 
 </div>
 
@@ -40,7 +40,7 @@ To access this page:
 <tr class="odd">
 <td><p>OBJECT NAME</p></td>
 <td><p>Displays the category object name.</p>
-<p>A category object defines the kind of master data a WebApp is expected to process (i.e., the object(s) the category supports, such as Material, Customer or Vendor). Refer to <a href="../Use_Cases/Add_a_Category_Object.htm">Add a Category Object Overview</a> for more information.</p></td>
+<p>A category object defines the kind of master data a WebApp is expected to process (i.e., the object(s) the category supports, such as Material, Customer or Vendor). Refer to <a href="../Use_Cases/Add_a_Category_Object">Add a Category Object Overview</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>ROLES INCLUDED</p></td>
@@ -48,15 +48,15 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Org Unit1</p></td>
-<td><p>Click to open the <em><a href="Position_Category_Org_Unit1.htm">Position Category OrgUnit1</a></em> page where a system administrator assigns category Org Unit values to roles. The count on the icon is the number of OrgUnit1 values that have been included for roles in the position.</p></td>
+<td><p>Click to open the <em><a href="Position_Category_Org_Unit1">Position Category OrgUnit1</a></em> page where a system administrator assigns category Org Unit values to roles. The count on the icon is the number of OrgUnit1 values that have been included for roles in the position.</p></td>
 </tr>
 <tr class="even">
 <td><p>Org Unit2</p></td>
-<td><p>Click to open the <em><a href="Position_Category_Org_Unit2.htm">Position Category OrgUnit2</a></em> page where a system administrator assigns Org Unit values to roles. The count on the icon is the number of OrgUnit2 values that have been included for roles in the position.</p></td>
+<td><p>Click to open the <em><a href="Position_Category_Org_Unit2">Position Category OrgUnit2</a></em> page where a system administrator assigns Org Unit values to roles. The count on the icon is the number of OrgUnit2 values that have been included for roles in the position.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Org Unit3</p></td>
-<td><p>Click to open the <em><a href="Position_Category_Org_Unit3.htm">Position Category OrgUnit3</a></em> page where a system administrator assigns Org Unit values to roles. The count on the icon is the number of OrgUnit3 values that have been included for roles in the position. </p></td>
+<td><p>Click to open the <em><a href="Position_Category_Org_Unit3">Position Category OrgUnit3</a></em> page where a system administrator assigns Org Unit values to roles. The count on the icon is the number of OrgUnit3 values that have been included for roles in the position. </p></td>
 </tr>
 </tbody>
 </table>

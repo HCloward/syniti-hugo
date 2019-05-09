@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [build views based on the System Type
-Model.](../Use_Cases/Build%20Views%20based%20on%20a%20ST%20Model.htm)
+Model.](../Use_Cases/Build%20Views%20based%20on%20a%20ST%20Model)
 
 </div>
 

@@ -8,7 +8,7 @@ solution = 'Data Quality'
 <div class="use">
 
 Use this page to [View Dashboard
-Metrics](../Use_Cases/View_Dashboard_Metrics.htm).
+Metrics](../Use_Cases/View_Dashboard_Metrics).
 
 </div>
 

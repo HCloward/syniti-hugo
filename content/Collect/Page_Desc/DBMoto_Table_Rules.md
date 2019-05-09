@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Manage DBMoto® Table
-Rules](../Use_Cases/Manage_DBMoto_Table_Rules.htm).
+Rules](../Use_Cases/Manage_DBMoto_Table_Rules).
 
 </div>
 

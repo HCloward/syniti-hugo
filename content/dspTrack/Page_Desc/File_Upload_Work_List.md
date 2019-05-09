@@ -8,9 +8,9 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Upload Files for a Plan, Task or Work List
-Item](../Use_Cases/UpldFilesfoProjTaskWrkListItem.htm) and [Download and
+Item](../Use_Cases/UpldFilesfoProjTaskWrkListItem) and [Download and
 View Uploaded Files for Plans, Tasks, and Work List
-Items](../Use_Cases/DownloadViewUploadedFiles.htm).
+Items](../Use_Cases/DownloadViewUploadedFiles).
 
 </div>
 

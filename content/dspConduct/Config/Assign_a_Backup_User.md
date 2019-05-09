@@ -32,7 +32,7 @@ To assign a backup user:
 3.  Click **Edit**.
     
     [View the field descriptions for the My Settings
-    page](../Page_Desc/User_Settings_H.htm)
+    page](../Page_Desc/User_Settings_H)
 
 4.  Select a user ID from the **Backup User ID** list box.
 

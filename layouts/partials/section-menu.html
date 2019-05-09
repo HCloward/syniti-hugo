@@ -1,3 +1,4 @@
+<!-- This paritial template is what creates the left side nav for each section of content. It pulls information from the front matter including the title and the solution. It is used by the single.html layout. -->
 {{ $page := .currentPage}}
 
 {{ range where .menu "Section" $page.Section }}

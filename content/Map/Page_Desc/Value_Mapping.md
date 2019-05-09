@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Perform Value
-Mapping](../Use_Cases/Perform_Value_Mapping_Overview.htm).
+Mapping](../Use_Cases/Perform_Value_Mapping_Overview).
 
 </div>
 
@@ -19,7 +19,7 @@ To access this page:
 2.  Click <span style="font-weight: bold;">Map </span>in the Context
     bar.
 3.  Click the <span style="font-weight: bold;">Value Mapping</span> icon
-    on the *[Process Area Launch](Process_Area_Launch_map.htm)* page.
+    on the *[Process Area Launch](Process_Area_Launch_map)* page.
 
 <table>
 <tbody>
@@ -38,13 +38,13 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>CHECK TABLE</p></td>
-<td><p>Displays the name of the Target ERP check table. Click the link to open the <span><a href="Value_Mapping_Config_H.htm">Value Mapping (Config)</a></span> page to view details about the check table.</p>
+<td><p>Displays the name of the Target ERP check table. Click the link to open the <span><a href="Value_Mapping_Config_H">Value Mapping (Config)</a></span> page to view details about the check table.</p>
 <p>Check tables are also called lookup tables and are added in Target Design or imported with a System Type when it is imported into Target Design.</p></td>
 </tr>
 <tr class="odd">
 <td><p>DESCRIPTION</p></td>
 <td><p>Displays the description of the check table.</p>
-<p><strong>NOTE:</strong> This field may be populated when a System Type was imported into Target Design, or may have been updated by a user on the <span style="font-style: italic;"><a href="../../Design/Page_Desc/Target_Lookup_Table_H.htm">Target Lookup Table</a></span> page’s <span style="font-style: italic;">Vertical</span> View in Target Design.</p></td>
+<p><strong>NOTE:</strong> This field may be populated when a System Type was imported into Target Design, or may have been updated by a user on the <span style="font-style: italic;"><a href="../../Design/Page_Desc/Target_Lookup_Table_H">Target Lookup Table</a></span> page’s <span style="font-style: italic;">Vertical</span> View in Target Design.</p></td>
 </tr>
 <tr class="even">
 <td><p>MAPPED PERCENT</p></td>
@@ -56,15 +56,15 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>PROPOSED VALUES</p></td>
-<td><p>Displays the count of proposed values on the <em><a href="Value_Mapping_Legacy_to_Target_H.htm">Value Mapping (Legacy to Target)</a></em> page (as in, how many records have a Proposed Value entered) for the selected check table.  These values are for informational purposes only.</p></td>
+<td><p>Displays the count of proposed values on the <em><a href="Value_Mapping_Legacy_to_Target_H">Value Mapping (Legacy to Target)</a></em> page (as in, how many records have a Proposed Value entered) for the selected check table.  These values are for informational purposes only.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Values</p></td>
-<td><p>Click to open the <a href="Value_Mapping_Legacy_to_Target_H.htm"><em>Value Mapping (Legacy to Target)</em></a> page to perform value mappings for the selected check table. If mappings are 100% complete, no data displays on this page.</p></td>
+<td><p>Click to open the <a href="Value_Mapping_Legacy_to_Target_H"><em>Value Mapping (Legacy to Target)</em></a> page to perform value mappings for the selected check table. If mappings are 100% complete, no data displays on this page.</p></td>
 </tr>
 <tr class="even">
 <td><p>Mappings</p></td>
-<td><p>Click to open the <em><a href="Field_Mappings_H.htm">Field Mappings</a></em> page to view and edit the field mappings related to the check table.</p></td>
+<td><p>Click to open the <em><a href="Field_Mappings_H">Field Mappings</a></em> page to view and edit the field mappings related to the check table.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Tracking Value Mapping</p></td>

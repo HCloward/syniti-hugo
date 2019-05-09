@@ -5,12 +5,12 @@ solution = 'Master Data Management'
 
 # dspConduct Task H
 
-[dspConduct Task V](dspConduct_Task_H.htm#DGE_Task_V)
+[dspConduct Task V](dspConduct_Task_H#DGE_Task_V)
 
 <div class="use">
 
 Use this page to [View dspConduct Pages that are Assigned to
-Roles](../Use_Cases/View_a_Roles_dspConduct_Pages.htm).
+Roles](../Use_Cases/View_a_Roles_dspConduct_Pages).
 
 </div>
 
@@ -27,7 +27,7 @@ To access this page select <span style="font-weight: bold;">dspConduct
 </tr>
 <tr class="even">
 <td><p>TASK ID</p></td>
-<td><p>Displays the name of the task. Refer to <a href="../Use_Cases/Add_a_Task.htm">Add a Task in dspConduct™</a> for more information.</p></td>
+<td><p>Displays the name of the task. Refer to <a href="../Use_Cases/Add_a_Task">Add a Task in dspConduct™</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>TYPE</p></td>
@@ -48,7 +48,7 @@ To access this page select <span style="font-weight: bold;">dspConduct
 
 ## <span id="DGE_Task_V"></span>dspConduct Task V
 
-[dspConduct Task H](dspConduct_Task_H.htm)
+[dspConduct Task H](dspConduct_Task_H)
 
 <table>
 <tbody>
@@ -58,7 +58,7 @@ To access this page select <span style="font-weight: bold;">dspConduct
 </tr>
 <tr class="even">
 <td><p>Task ID</p></td>
-<td><p>Displays the name of the task. Refer to <a href="../Use_Cases/Add_a_Task.htm">Add a Task in dspConduct™</a> for more information.</p></td>
+<td><p>Displays the name of the task. Refer to <a href="../Use_Cases/Add_a_Task">Add a Task in dspConduct™</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Type</p></td>
@@ -76,7 +76,7 @@ To access this page select <span style="font-weight: bold;">dspConduct
 </tr>
 <tr class="odd">
 <td><p>Documentation</p></td>
-<td><p>Click the Upload a File icon to upload documentation related to the task. Refer to <a href="../Use_Cases/Upload_Documentation_at_the_Task_Level.htm">Upload Documentation at the Task Level</a> for more information.</p></td>
+<td><p>Click the Upload a File icon to upload documentation related to the task. Refer to <a href="../Use_Cases/Upload_Documentation_at_the_Task_Level">Upload Documentation at the Task Level</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Instructions</p></td>

@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Configure List Box
-Values.](../Use_Cases/Configure_List_Box_Values.htm)
+Values.](../Use_Cases/Configure_List_Box_Values)
 
 </div>
 
@@ -27,6 +27,6 @@ pane.
 | Field          | Description                                                                                                                                                           |
 | LIST           | Displays the name of the list and the name of the label that displays next to the list box on pages in dspMigrate™ Advanced Data Migration (ADM) components.          |
 | DESCRIPTION    | Displays a description of the list.                                                                                                                                   |
-| DISPLAY OPTION | Displays whether the list box options should display the data entered in the **VALUE** column, the **DESCRIPTION** column or both on the *[Values](Values.htm)* page. |
+| DISPLAY OPTION | Displays whether the list box options should display the data entered in the **VALUE** column, the **DESCRIPTION** column or both on the *[Values](Values)* page. |
 | DSP SUPPLIED   |                                                                                                                                                                       |
-| Values         | Click to open the *[Values](Values.htm)* page, to add, edit, and delete values for the selected list.                                                                 |
+| Values         | Click to open the *[Values](Values)* page, to add, edit, and delete values for the selected list.                                                                 |

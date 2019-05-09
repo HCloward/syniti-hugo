@@ -10,13 +10,13 @@ Before performing this task:
 1.  Create a looped template and process in Integrate. Refer to
     [Configure Process Template Loops for a BDC Script Template with
     Looping
-    Enabled](../../../Platform/Integrate/Use_Cases/ConfigureProcTempLoopsBDCLoopEn.htm)
+    Enabled](../../../Platform/Integrate/Use_Cases/ConfigureProcTempLoopsBDCLoopEn)
     or [Configure Process Template Loops for a GUI Script Template with
     Looping
-    Enabled](../../../Platform/Integrate/Use_Cases/ConfigureProcTemplLoopsGUILoopgEn.htm)
+    Enabled](../../../Platform/Integrate/Use_Cases/ConfigureProcTemplLoopsGUILoopgEn)
     in Integrate for more information.
 2.  [Create all tt Tables and tx Views for the Integrate
-    Process](Create_All_tt_Tables_and_tx_Views_for_the_Integrate_Process.htm)
+    Process](Create_All_tt_Tables_and_tx_Views_for_the_Integrate_Process)
 
 Once each **tt** table is created, use the tt table as a script to
 create an **rt** table. Add these columns to each **rt** table:
@@ -69,4 +69,4 @@ WebAppID where the view resides, and a WHERE clause 'WHERE \[PostError\]
 \>= 1'.
 
 Continue with [Create Custom Pages and
-Views](Create_Custom_Pages_and_Views.htm).
+Views](Create_Custom_Pages_and_Views).

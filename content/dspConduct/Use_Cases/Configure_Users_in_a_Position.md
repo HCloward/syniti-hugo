@@ -8,11 +8,11 @@ solution = 'Master Data Management'
 A Security Administrator can add users to a position. Before performing
 this task a user account must be created and configured in Common. Refer
 to [Create User Accounts in
-Common](../../../Platform/Common/Use_Cases/Create_User_Accounts_in_Common.htm)
+Common](../../../Platform/Common/Use_Cases/Create_User_Accounts_in_Common)
 for more information. An Administrator can also create user accounts.
 
 Common’s *[User
-Management](../../../Platform/Common/Page_Desc/User_Management_H.htm)*
+Management](../../../Platform/Common/Page_Desc/User_Management_H)*
 page, where user accounts are created and configured, can be accessed in
 dspConduct™ by selecting **dspConduct \> Security \> Common: User
 Management** in the *Navigation* pane.  
@@ -40,13 +40,13 @@ value.
 
 <span style="font-weight: bold;">NOTE:</span> All users in a position
 must be assigned to the same calendar in Common. Refer to [Use a
-Calendar](../../../Platform/Common/Use_Cases/Use_a_Calendar.htm) for
+Calendar](../../../Platform/Common/Use_Cases/Use_a_Calendar) for
 more information.
 
 When including users in a position, role conflicts are applied based on
 the roles that have been added to the position, and the role conflicts
-established on the *[Role (Conflicts)](../Page_Desc/Role_Conflicts.htm)*
-page. Refer to [Add a Conflict to a Role](Add_a_Conflict_to_a_Role.htm)
+established on the *[Role (Conflicts)](../Page_Desc/Role_Conflicts)*
+page. Refer to [Add a Conflict to a Role](Add_a_Conflict_to_a_Role)
 for more information.
 
 To configure users in a position in dspConduct™:
@@ -57,11 +57,11 @@ To configure users in a position in dspConduct™:
 2.  Click the **Users** icon for a position.
     
     *[View the field descriptions for the Position User
-    page](../Page_Desc/Position_User.htm).*
+    page](../Page_Desc/Position_User).*
 
 3.  Select a user, and then click the **Assign Calendar** icon to open
     the *[User
-    Management](../../../Platform/Common/Page_Desc/User_Management_H.htm)*
+    Management](../../../Platform/Common/Page_Desc/User_Management_H)*
     page to assign a calendar to the user.
     
     **NOTE:** A user must have a calendar assigned to be included in a

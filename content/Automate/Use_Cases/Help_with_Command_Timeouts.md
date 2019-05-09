@@ -14,5 +14,5 @@ events or validations are timing out, try these two solutions:
     Do not increase beyond 3500 seconds.
 
 Timeout settings are set on the *[Data
-Sources](../../Sys_Admin/Page_Desc/Data_Sources_HSysAdmi.htm#Advanced_Properties_Tab)*
+Sources](../../Sys_Admin/Page_Desc/Data_Sources_HSysAdmi#Advanced_Properties_Tab)*
 page on the Advanced Properties tab in System Administration.

@@ -15,7 +15,7 @@ To build a view:
 2.  Click **Add**.
     
     [View the field descriptions for the Build View
-    page](../Page_Desc/Build_View_H.htm)
+    page](../Page_Desc/Build_View_H)
 
 3.  Select database from **SOURCE DATABASE** list box to control the
     database where tables are referenced.
@@ -53,7 +53,7 @@ To build a view:
 Add client columns if binding (i.e., filtering) the new views (i.e.,
 views created from the Build View process) off client information.
 Client columns added will be bound based on the SAP Client specified on
-the *[*Build View*](../Page_Desc/Build_View_H.htm)* page.
+the *[*Build View*](../Page_Desc/Build_View_H)* page.
 
 To configure client columns:
 
@@ -68,7 +68,7 @@ To configure client columns:
 3.  Click **Add**.
     
     [View the field descriptions for the Client Column Name Variant
-    page](../Page_Desc/Client_Column_Name_Variant.htm)
+    page](../Page_Desc/Client_Column_Name_Variant)
 
 4.  Enter a variation of SAP Client in **COLUMN** field.
 
@@ -79,7 +79,7 @@ To configure client columns:
 Add language columns if binding (i.e., filtering) the new views off
 language information. Language columns added will be bound based on the
 SAP Language specified on the *[*Build
-View*](../Page_Desc/Build_View_H.htm)* page.
+View*](../Page_Desc/Build_View_H)* page.
 
 To configure language columns:
 
@@ -94,7 +94,7 @@ To configure language columns:
 3.  Click **Add.**
     
     [View the field descriptions for the Language Column Name Variant
-    page](../Page_Desc/Language_Column_Name_Variant.htm)
+    page](../Page_Desc/Language_Column_Name_Variant)
 
 4.  Enter a variation of SAP Language in **COLUMN** field.
 

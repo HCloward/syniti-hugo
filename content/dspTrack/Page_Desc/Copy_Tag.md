@@ -7,7 +7,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Copy Tag Tasks](../Use_Cases/Copy_Tags.htm).
+Use this page to [Copy Tag Tasks](../Use_Cases/Copy_Tags).
 
 </div>
 

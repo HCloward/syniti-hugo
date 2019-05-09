@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Copy a
-Target](../Use_Cases/Copy_a_Target_Collect.htm).
+Target](../Use_Cases/Copy_a_Target_Collect).
 
 </div>
 

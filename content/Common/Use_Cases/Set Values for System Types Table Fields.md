@@ -20,7 +20,7 @@ To set the value:
     Otherwise, click **Add**.
     
     *[View the field descriptions for the System Types Table Statics
-    page](../Page_Desc/System_Types_Table_Statics.htm)*
+    page](../Page_Desc/System_Types_Table_Statics)*
 
 5.  Enter the static value for the field in the **VALUE** field.
 

@@ -8,7 +8,7 @@ solution = 'Migration'
 The design of a Target can be imported from a System Type, which
 contains generic information about external systems (for example, Target
 and Legacy) used for a data migration. Refer to [System
-Types](../../../Platform/Common/Use_Cases/System_Types_Overview.htm) for
+Types](../../../Platform/Common/Use_Cases/System_Types_Overview) for
 more information about adding and configuring System Types.
 
 **NOTE:**On the *Targets* page, **Import Fields** is available in Target
@@ -18,13 +18,13 @@ Fields** icon.
 
 Target Import is also allowed (one or more Targets) from database tables
 or from an Excel file (using a template provided). Refer to [Import a
-Target Design from a Database](Import_from_a_Database.htm) or [Import a
-Target Design from an Excel](Import_from_an_Excel_File.htm) file for
+Target Design from a Database](Import_from_a_Database) or [Import a
+Target Design from an Excel](Import_from_an_Excel_File) file for
 more information.
 
 When importing from a System Type, the user selects the table in the
 System Type to import. After a successful import, the table displays on
-the *[Targets](../Page_Desc/Targets_H_Design.htm)* page in Target
+the *[Targets](../Page_Desc/Targets_H_Design)* page in Target
 Design, with the proper prefix appended to the front of the table name.
 When a user selects the Target on the *Targets* page, the fields in the
 Target table display on the *Target Fields* page.
@@ -46,7 +46,7 @@ Type Import</span> page displays 0.
 **NOTE**: A System Type cannot be imported if no tables have been
 registered for the System Type in Common. Refer to [Add System Tables
 and
-Fields](../../../Platform/Common/Use_Cases/Add_System_Tables_and_Fields.htm)
+Fields](../../../Platform/Common/Use_Cases/Add_System_Tables_and_Fields)
 for more information.
 
 To import a System Type in Target Design:
@@ -94,5 +94,5 @@ import, and the System Type tables for a Source contained an invalid
 length for a column, use the Reset functionality to update a Source
 table with the column’s correct length. Refer to [Reset Target Source
 Schema Field
-Lengths](../../Map/Use_Cases/Reset_Target_Source_Schema_Field_Lengths.htm)
+Lengths](../../Map/Use_Cases/Reset_Target_Source_Schema_Field_Lengths)
 for more information.

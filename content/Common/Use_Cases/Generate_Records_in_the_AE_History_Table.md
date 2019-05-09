@@ -10,10 +10,10 @@ user that encounters issues with AE processing. Users will be able to
 review the AE history processing with the flag turned on. A
 pre-requisite to inserting into the History table is ensuring that there
 are Targets in Target Design. Refer to [Add a
-Target](../../../Migration/Design/Use_Cases/Add_a_Target_in_Target_Design.htm)
+Target](../../../Migration/Design/Use_Cases/Add_a_Target_in_Target_Design)
 for more information.
 
-Refer to [Add Fields to Tables](Add_Fields_to_Tables.htm)  to add fields
+Refer to [Add Fields to Tables](Add_Fields_to_Tables)  to add fields
 to the System Type table.
 
 To generate records in the History table and add an index to the History
@@ -41,7 +41,7 @@ table:
 
 7.  Navigate to **Target Design** and change the Design Status to DESIGN
     FINISHED for a target. Refer to [Set the Design
-    Status](../../../Migration/Design/Use_Cases/Set_the_Design_Status.htm)
+    Status](../../../Migration/Design/Use_Cases/Set_the_Design_Status)
     for more information.
 
 8.  Ensure that entries have been added to ttAutomationEngineHistory in

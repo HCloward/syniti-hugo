@@ -9,11 +9,11 @@ If the default setting for Control Status or Required changes for a
 column in the Content WebApp, a Designer uses this feature to update the
 column setting for one variant, and then copy the columns setting to all
 of the other variants on the *[Scenario Role Task
-Column](../Page_Desc/Scenario_Role_Task_Column_H.htm)* page.
+Column](../Page_Desc/Scenario_Role_Task_Column_H)* page.
 
 Before performing this task, the design process must be complete and a
 task must be defined in the Content WebApp. Refer to [dspConduct™ Design
-Process Overview](dspConduct_Design_Process_Overview.htm) for more
+Process Overview](dspConduct_Design_Process_Overview) for more
 information.
 
 To copy settings to other variants in dspConduct™:
@@ -35,7 +35,7 @@ To copy settings to other variants in dspConduct™:
 7.  Click **Edit**.
     
     *[View the field descriptions for the Scenario Role Task Column
-    page.](../Page_Desc/Scenario_Role_Task_Column_H.htm)*
+    page.](../Page_Desc/Scenario_Role_Task_Column_H)*
 
 8.  Select the default value for the column from the **CONTROL STATUS**
     list box.

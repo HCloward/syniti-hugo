@@ -11,7 +11,7 @@ project.
 
 **NOTE**: The security keys for the project and plan must have been
 added to the security role as well. Refer to [Set Up Security for
-dspTrack™](../Config/Set_Security_in_dspTrack.htm) for more information.
+dspTrack™](../Config/Set_Security_in_dspTrack) for more information.
 
 When viewing all tasks in all projects (select **Late Tasks** in the
 *Navigation* pane), the managers that display on the *Late Task

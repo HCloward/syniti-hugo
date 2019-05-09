@@ -23,14 +23,14 @@ be edited.
 **NOTE**: Integrate allows a user to activate or deactivate all
 processes associated with a template from the *Template Processes* page.
 Refer to [Activate or Deactivate Multiple Processes for a
-Template](ActivateDeactivateMultProc.htm) for more information.
+Template](ActivateDeactivateMultProc) for more information.
 
 <span style="font-weight: bold;">NOTE:</span> When using dspConduct™
 component with Integrate, if the scenario is in any status other than
 Published, the Designer can activate or deactivate the process in
 Integrate as needed to test and troubleshoot the process. Refer to
 [Manage dspConduct™
-Scenarios](../../../Master_Data_Mgmt/dspConduct/Use_Cases/Manage_Scenarios.htm)
+Scenarios](../../../Master_Data_Mgmt/dspConduct/Use_Cases/Manage_Scenarios)
 for more information about working with scenarios in dspConduct™.
 
 Changes can no longer be made to process templates. The **Postings**

@@ -11,9 +11,9 @@ or reset.
 
 Workflow messages can also be sent after a [Final Finish package is
 created but fails to
-run](Send_Workflow_Notifications_when_a_Final_Finish_Package_Fails.htm),
+run](Send_Workflow_Notifications_when_a_Final_Finish_Package_Fails),
 or [when a post fails or
-succeeds](Send_Workflow_Notifications_when_a_Post_Fails_or_Succeeds.htm).
+succeeds](Send_Workflow_Notifications_when_a_Post_Fails_or_Succeeds).
 
 Workflow messages can be received via email, a notification in the DSP®,
 or both. By default, users receive workflow messages from dspConduct™
@@ -25,13 +25,13 @@ therefore does not need to receive notifications when events are
 completed.
 
 A user can change workflow receipt preferences for that user’s account
-on the *[My Settings](../Page_Desc/My_Settings.htm)* page.
+on the *[My Settings](../Page_Desc/My_Settings)* page.
 
 An Administrator can set workflow receipt preferences for all
 dspConduct™ users.
 
 To view the text of messages installed with dspConduct™, refer to [View
-Default Workflow Messages.](View_Default_Workflow_Messages.htm)
+Default Workflow Messages.](View_Default_Workflow_Messages)
 
 To set user preferences:
 
@@ -62,7 +62,7 @@ Alternatively:
 2.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the User Settings
-    page.](../Page_Desc/User_Settings_H.htm)
+    page.](../Page_Desc/User_Settings_H)
 
 3.  Enable or disable the check boxes as needed.
 

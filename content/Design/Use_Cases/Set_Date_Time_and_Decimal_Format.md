@@ -6,7 +6,7 @@ solution = 'Migration'
 # Set Date, Time, and Decimal Formats
 
 In Target Design, on the
-<span style="font-style: italic;">[Targets](../Page_Desc/Targets_H_Design.htm)</span>
+<span style="font-style: italic;">[Targets](../Page_Desc/Targets_H_Design)</span>
 page’s <span style="font-style: italic;">Vertical</span> View, users
 define formats for date, time, and decimal fields. This functionality
 allows the Target Design fields to be set to a data type of NVARCHAR as
@@ -23,7 +23,7 @@ standard Date or Time definition and specify whether the decimal
 separator is a ‘.’ or ‘,’.
 
 Refer to [Data Services
-AutoGen](../../Data_Services_AutoGen/Data_Services_Automation.htm) for
+AutoGen](../../Data_Services_AutoGen/Data_Services_Automation) for
 more information.
 
 Field formats are set at the Target level. There can be one date, time,
@@ -32,9 +32,9 @@ or decimal format per Target.
 <span style="font-weight: bold;">NOTE</span>: These formats can be
 updated from within Data Services AutoGen on the
 <span style="font-style: italic;">[Target Data Services Rule Global
-Variables](../../Transform/Page_Desc/Target_DS_Rule_Global_Variables.htm)</span>
+Variables](../../Transform/Page_Desc/Target_DS_Rule_Global_Variables)</span>
 page. Refer to [Configure Target Data Services Rule Global
-Variables](../../Transform/Use_Cases/Configure_Target_DS_Rule_Global_Var.htm)
+Variables](../../Transform/Use_Cases/Configure_Target_DS_Rule_Global_Var)
 for more information.
 
 There are two steps to applying a format to Target fields:
@@ -51,7 +51,7 @@ in Target Design:
     bar.
 
 2.  Click the <span style="font-weight: bold;">Targets</span>icon on the
-    *[Design](../Page_Desc/Design.htm)* page.
+    *[Design](../Page_Desc/Design)* page.
 
 3.  Click the <span style="font-weight: bold;"> Vertical View</span>
     icon for a Target.
@@ -59,7 +59,7 @@ in Target Design:
 4.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the Targets page’s Vertical
-    View](../Page_Desc/Targets_H_Design.htm#Targets_V)
+    View](../Page_Desc/Targets_H_Design#Targets_V)
 
 5.  Enter the format for date fields in the
     <span style="font-weight: bold;">Date Format</span> field.
@@ -95,7 +95,7 @@ To set the field format for a field in Target Design:
 5.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the Target Fields page’s Vertical
-    View](../Page_Desc/Target_Fields_H_Target_Design.htm#Target_Fields_V)
+    View](../Page_Desc/Target_Fields_H_Target_Design#Target_Fields_V)
 
 6.  Select the format (Date, Time, or Decimal) in the
     <span style="font-weight: bold;">Field Format</span> list box.

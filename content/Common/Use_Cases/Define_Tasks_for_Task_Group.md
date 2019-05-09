@@ -18,7 +18,7 @@ To define tasks for a task group:
     
     [View the field descriptions for the Automation Instruction Task
     Definition
-    page](../Page_Desc/Automation_Instruction_Task_Definition.htm)
+    page](../Page_Desc/Automation_Instruction_Task_Definition)
 
 4.  Enter an execution order of tasks in **PRIORITY** field.
 

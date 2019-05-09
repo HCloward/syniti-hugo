@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Add a Custom Request
-Status](../Use_Cases/Add_a_Custom_Request_Status.htm).
+Status](../Use_Cases/Add_a_Custom_Request_Status).
 
 </div>
 
@@ -51,7 +51,7 @@ To access this page, select <span style="font-weight: bold;">dspConduct
 <td><p>ARCHIVABLE</p></td>
 <td><p>If enabled, a request in this status can be archived.</p>
 <p>By default, a request is archived if it remains in the same status for 30 days. If the ARCHIVABLE check box is disabled, a request in this status will not be archived, even after the default setting of 30 days has passed.</p>
-<p><strong>NOTE:</strong> This setting can be updated at the category level. Refer to <a href="../Config/Set_the_Days_Active_for_a_Request_Status.htm">Set the Days Active for a Request Status</a> for more information.</p></td>
+<p><strong>NOTE:</strong> This setting can be updated at the category level. Refer to <a href="../Config/Set_the_Days_Active_for_a_Request_Status">Set the Days Active for a Request Status</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>ROLE ACCESS</p></td>

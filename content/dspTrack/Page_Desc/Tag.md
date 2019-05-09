@@ -7,7 +7,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Add a Tag](../Use_Cases/Add_a_Tag.htm).
+Use this page to [Add a Tag](../Use_Cases/Add_a_Tag).
 
 </div>
 
@@ -25,7 +25,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Copy Tag Tasks</p></td>
-<td><p>Click to open the <em><a href="Copy_Tag.htm">Copy Tag Tasks</a></em> page to copy all tasks to which this tag has been assigned to a plan specified on the <em>Copy TagTasks</em> page.</p></td>
+<td><p>Click to open the <em><a href="Copy_Tag">Copy Tag Tasks</a></em> page to copy all tasks to which this tag has been assigned to a plan specified on the <em>Copy TagTasks</em> page.</p></td>
 </tr>
 <tr class="odd">
 <td><p>NAME</p></td>
@@ -49,19 +49,19 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Plans</p></td>
-<td><p>Click to open the <em><a href="Plan_Tag.htm">Plan Tag</a></em> page to view a list of all plans that use the selected tag.</p></td>
+<td><p>Click to open the <em><a href="Plan_Tag">Plan Tag</a></em> page to view a list of all plans that use the selected tag.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Tasks</p></td>
-<td><p>Click to open the <em><a href="Plan_Task_Tag.htm">Plan Task Tag</a></em> page to view a list of all plan tasks or plans assigned to the tag.</p></td>
+<td><p>Click to open the <em><a href="Plan_Task_Tag">Plan Task Tag</a></em> page to view a list of all plan tasks or plans assigned to the tag.</p></td>
 </tr>
 <tr class="even">
 <td><p>Assign to Tasks</p></td>
-<td><p>Click to open the <em><a href="Tag_Plan_Task_Assignment.htm"><em>Tag Plan Task Assignment</em></a></em> page to add tasks to and remove tasks from the selected tag.</p></td>
+<td><p>Click to open the <em><a href="Tag_Plan_Task_Assignment"><em>Tag Plan Task Assignment</em></a></em> page to add tasks to and remove tasks from the selected tag.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Registrations</p></td>
-<td><p>Click to open the <em><a href="Security_Tag.htm">Security Tag</a></em> page or the <em>Logic Tag</em> page, depending on the Tag Type selected. Security tags can have users assigned, Logic tags can have validations and rule assigned.</p>
+<td><p>Click to open the <em><a href="Security_Tag">Security Tag</a></em> page or the <em>Logic Tag</em> page, depending on the Tag Type selected. Security tags can have users assigned, Logic tags can have validations and rule assigned.</p>
 <p><strong>NOTE</strong>: This icon is disabled for tags with a tag type of Plan.</p></td>
 </tr>
 </tbody>
@@ -73,9 +73,9 @@ To access this page:
 
 Use this page to:
 
-  - [Add a Tag](../Use_Cases/Add_a_Tag.htm)
+  - [Add a Tag](../Use_Cases/Add_a_Tag)
   - [Add Comment Requirements for
-    Tasks](../Use_Cases/Set_Comment_Requirements_for_Tasks.htm)
+    Tasks](../Use_Cases/Set_Comment_Requirements_for_Tasks)
 
 </div>
 

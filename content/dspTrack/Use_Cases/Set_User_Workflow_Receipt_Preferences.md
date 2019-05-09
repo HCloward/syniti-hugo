@@ -24,7 +24,7 @@ To set user preferences:
 2.  Click **Edit**.
     
     [View the field descriptions for the Workflow User Preference
-    page](../Page_Desc/Workflow_Preferences.htm)
+    page](../Page_Desc/Workflow_Preferences)
 
 3.  Select an option in the **MESSAGE TYPE ID** list box.
     

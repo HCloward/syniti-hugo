@@ -22,13 +22,13 @@ To configure and use comparison approvals:
 1.  Create the template. Comparison approvals can be used for requests
     based on BDC Scripts, GUI Scripts and custom templates.
 2.  [Configure the Comparison Approval
-    Setting](Configure_the_Comparison_Approval_Setting.htm)
+    Setting](Configure_the_Comparison_Approval_Setting)
 3.  [Register the CompareIns Stored
-    Procedure](Register_the_CompareIns_Stored_Procedure.htm)
+    Procedure](Register_the_CompareIns_Stored_Procedure)
 4.  [Create a Request for Comparison
-    Approval](Create_a_Request_for_Comparison_Approval.htm)
+    Approval](Create_a_Request_for_Comparison_Approval)
 5.  [Use the Comparison Approval
-    Page](Use_the_Comparison_Approval_Page.htm)
+    Page](Use_the_Comparison_Approval_Page)
 
 Once dspCompose™ is set to use Comparison Approvals, when a template is
 generated, dspCompose™ creates a stored procedure used to control the
@@ -38,7 +38,7 @@ and after data entries, the CompareIns stored procedure must be
 modified.
 
 Refer to [Sample Stored Procedure For Comparison
-Approval](Sample_Stored_Procedure_for_Comparison_Approval.htm) for an
+Approval](Sample_Stored_Procedure_for_Comparison_Approval) for an
 example of a modified stored procedure.
 
 The stored procedure is used to insert what is currently in SAP (the
@@ -47,5 +47,5 @@ request.
 
 **NOTE:** Comparison approvals can be used on a template that also
 allows partial approvals. Refer to [Perform a Partial
-Approval](Review_Request_Data.htm#Perform_a_Partial_Approval) for more
+Approval](Review_Request_Data#Perform_a_Partial_Approval) for more
 information.

@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [View the Profiling
-Results](../Use_Cases/View_the_Profiling_Results.htm).
+Results](../Use_Cases/View_the_Profiling_Results).
 
 </div>
 

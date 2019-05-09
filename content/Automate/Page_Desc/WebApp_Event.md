@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Register WebApp
-Events](../Use_Cases/Register_WebApp_Events.htm).
+Events](../Use_Cases/Register_WebApp_Events).
 
 </div>
 

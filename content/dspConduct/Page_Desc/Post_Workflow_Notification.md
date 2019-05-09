@@ -9,7 +9,7 @@ solution = 'Master Data Management'
 
 Use this page to [Configure Users who Receive Workflow Notifications for
 Successful or Failed Postings at the Scenario Role
-Level.](../Config/Send_Workflow_Notifications_when_a_Post_Fails_or_Succeeds.htm#Configure_Users_who_Receive_Workflow_Notifications_at_the_Scenario_Role_Level)
+Level.](../Config/Send_Workflow_Notifications_when_a_Post_Fails_or_Succeeds#Configure_Users_who_Receive_Workflow_Notifications_at_the_Scenario_Role_Level)
 
 </div>
 
@@ -44,7 +44,7 @@ To access this page:
 <tr class="odd">
 <td><p>LANGUAGE ID</p></td>
 <td><p>Displays the language used in the workflow message.</p>
-<p><strong>NOTE:</strong> Workflow messages must have been added for that language to the <a href="Category_Workflow_Language_Message_H.htm">Category Workflow Language Message</a> page for the Posted and Posted with Errors event. If they are not added, the notifications are not sent. Refer to <a href="../Config/Create_Language-specific_Workflow_Messages_for_a_Category.htm">Create Language-specific Workflow Messages</a> for more information.</p></td>
+<p><strong>NOTE:</strong> Workflow messages must have been added for that language to the <a href="Category_Workflow_Language_Message_H">Category Workflow Language Message</a> page for the Posted and Posted with Errors event. If they are not added, the notifications are not sent. Refer to <a href="../Config/Create_Language-specific_Workflow_Messages_for_a_Category">Create Language-specific Workflow Messages</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>SEND POST SUCCESS</p></td>

@@ -8,7 +8,7 @@ solution = 'Data Quality'
 <div class="use">
 
 Use this page to [View Your
-Applications](../Use_Cases/View_Your_Applications.htm).
+Applications](../Use_Cases/View_Your_Applications).
 
 </div>
 
@@ -28,7 +28,7 @@ To access this page, select **dspMonitor \> Your Applications** in the
 <tr class="odd">
 <td><p>SIGMA LEVEL</p></td>
 <td><p>Displays the sigma level based on data quality score calculations.</p>
-<p>The Enable Sigma Level checkbox on the <em><a href="Parameters.htm">Parameters</a></em> page must be checked for this field to display.</p></td>
+<p>The Enable Sigma Level checkbox on the <em><a href="Parameters">Parameters</a></em> page must be checked for this field to display.</p></td>
 </tr>
 <tr class="even">
 <td><p>OPPORTUNITIES</p></td>
@@ -64,7 +64,7 @@ To access this page, select **dspMonitor \> Your Applications** in the
 </tr>
 <tr class="odd">
 <td><p>Tables</p></td>
-<td><p>Click to open the <em><a href="Your_Application_Tables.htm">Your Application Tables</a></em> page.</p></td>
+<td><p>Click to open the <em><a href="Your_Application_Tables">Your Application Tables</a></em> page.</p></td>
 </tr>
 </tbody>
 </table>

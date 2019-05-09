@@ -27,11 +27,11 @@ considered construction complete is developed and applied at a client’s
 site based on client and Target system requirements.
 
 These fields display on pages in Construct on the *[Construct
-Object](../Page_Desc/Construct_Object.htm)*, *[Construct
-Target](../Page_Desc/Construct_Target.htm)* and *[Construct
-Page](../Page_Desc/Construct_Page.htm)* pages and are used in the
+Object](../Page_Desc/Construct_Object)*, *[Construct
+Target](../Page_Desc/Construct_Target)* and *[Construct
+Page](../Page_Desc/Construct_Page)* pages and are used in the
 Construct charts, accessible from Console and Target Design. Refer to
-[View Dashboard in Construct](View_Dashboard_in_Construct.htm) for more
+[View Dashboard in Construct](View_Dashboard_in_Construct) for more
 information.
 
 <span style="font-weight: bold;">NOTE</span>: A Utility Target cannot
@@ -39,15 +39,15 @@ use {Full Construction} as a Source data source.
 
 <span style="font-weight: bold;">NOTE</span>: New custom pages and
 existing custom pages created with Full Construction can use [Excel
-Integration](../../../Platform/Excel_Int/Use_Excel_Integration.htm) and
-[Bulk Execution](../../../Platform/Bulk_Exec/Use_Bulk_Execution.htm).
+Integration](../../../Platform/Excel_Int/Use_Excel_Integration) and
+[Bulk Execution](../../../Platform/Bulk_Exec/Use_Bulk_Execution).
 
 This section contains the following topics:
 
   - [Use Target Design with Full
-    Construction](Use_Target_Design_with_Full_Construction.htm)
+    Construction](Use_Target_Design_with_Full_Construction)
   - [Use Collect with Full
-    Construction](Use_Collect_with_Full_Construction.htm)
-  - [Use Map with Full Construction](Use_Map_with_Full_Construction.htm)
+    Construction](Use_Collect_with_Full_Construction)
+  - [Use Map with Full Construction](Use_Map_with_Full_Construction)
   - [View the Construction Page in
-    Construct](View_the_Construction_page_in_Construct.htm)
+    Construct](View_the_Construction_page_in_Construct)

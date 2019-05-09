@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to view details for the [Active Request for
-Category](../Use_Cases/Active_Request_Category.htm) chart sections.
+Category](../Use_Cases/Active_Request_Category) chart sections.
 
 </div>
 

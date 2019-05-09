@@ -14,7 +14,7 @@ Repository and can be published to any group(s).
 This use case consists of the following topics:
 
   - [Create Objects and Publish Reports to
-    Groups](Create_Objects_and_Publish_Reports_to_Groups.htm)
-  - [Register Object Reports](Register_Object_Reports.htm)
-  - [View Your Objects](View_Your_Objects.htm)
-  - [View Your Object Reports](View_Your_Object_Reports.htm)
+    Groups](Create_Objects_and_Publish_Reports_to_Groups)
+  - [Register Object Reports](Register_Object_Reports)
+  - [View Your Objects](View_Your_Objects)
+  - [View Your Object Reports](View_Your_Object_Reports)

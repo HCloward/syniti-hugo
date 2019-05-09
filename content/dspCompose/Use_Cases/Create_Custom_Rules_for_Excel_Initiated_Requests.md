@@ -22,5 +22,5 @@ platform (often in the cMass\_Data database), and be registered to the
 template-level event on the *Template (Event Rule)* page.
 
 Refer to [Register Rules to Template-level
-Events](Register_Rules_to_Template%20level_Events.htm) for details on
+Events](Register_Rules_to_Template%20level_Events) for details on
 how to create custom rules for Excel-initiated requests.

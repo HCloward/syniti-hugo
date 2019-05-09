@@ -13,14 +13,14 @@ To submit an email:
 1.  Send the email from the address configured for the scenario.
     
     **NOTE**: Refer to [Add Email Addresses for a
-    Scenario](Add_Email_Addresses_for_a_Scenario.htm) for more
+    Scenario](Add_Email_Addresses_for_a_Scenario) for more
     information.
 
 2.  Enter the email address configured as the external date email
     account in the **To** field.
     
     **NOTE**: Refer to [Set up External Email
-    Accounts](../Config/Set_up_an_External_Data_Email_Account.htm) for
+    Accounts](../Config/Set_up_an_External_Data_Email_Account) for
     more information.
 
 3.  Enter the alias for the scenario in the **Subject** field.
@@ -35,7 +35,7 @@ To submit an email:
       - Contain no other characters
         
         Refer to [Create the
-        Scenario](Create_an_External_Request_Scenario.htm) for more
+        Scenario](Create_an_External_Request_Scenario) for more
         information.
 
 4.  Leave the email body blank.
@@ -45,7 +45,7 @@ To submit an email:
 If there are errors processing the scenario, the sender will receive a
 message from the external data email account. Refer to [Set up Email
 Validations Including Custom Validation
-Rules](Set_up_Email_Validations.htm) for more information. Correct the
+Rules](Set_up_Email_Validations) for more information. Correct the
 errors and resubmit the email.
 
 Once the email has been submitted successfully, the first role in the

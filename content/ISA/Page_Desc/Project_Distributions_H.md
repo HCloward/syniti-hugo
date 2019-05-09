@@ -5,7 +5,7 @@
 <div class="use">
 
 Use this page to [Add Distributions to a
-Project](../Use_Cases/Add_Distributions_to_a_Project.htm).
+Project](../Use_Cases/Add_Distributions_to_a_Project).
 
 </div>
 
@@ -21,21 +21,21 @@ To access this page:
 | Field              | Description                                                                                                                                                                                                                                                                    |
 | DISTRIBUTION       | Displays the unique name of the Distribution, used to group users and Quality Dimensions in a project. If no Distributions exist for the project they must be added before any other work can occur in ISA.                                                                    |
 | DISTRIBUTION OWNER | Displays the user name of the user who is the primary contact of information for the data quality rules configured in the Distribution.                                                                                                                                        |
-| Rules              | Click to open the *[Project Distribution Rules](Project_Distribution_Rules.htm)* page to add and view the rules and bindings created in IS that are associated with the project Distribution.                                                                                  |
-| Users              | Click to open the *[Project Distribution Users](Project_Distribution_Users.htm)* page to add and user filters.                                                                                                                                                                 |
-| Filters            | Click to open the *[Project Distribution Filters](Project_Distribution_Filters.htm)* page to set up filters on fields to limit the data viewed on reports for the project distribution                                                                                         |
-| Quality Dimensions | Click to open the *[Project Quality Dimensions](Project_Quality_Dimensions.htm)* page to view projects and rules associated with Quality Dimensions.                                                                                                                           |
-| Custom Attributes  | Click to open the <span style="font-family: Arial, sans-serif;font-style: italic;">[Project Distribution Attributes](Project_Distribution_Attributes.htm)</span> page to add or remove rules from the project distribution based on the attributes assigned to the rule in IS. |
-| Workflow Template  | Click to open the <span style="font-family: Arial, sans-serif;font-style: italic;">[Workflow Template](Workflow_Template.htm)</span> page to add, edit or delete the templates used in workflows in the project distribution.                                                  |
+| Rules              | Click to open the *[Project Distribution Rules](Project_Distribution_Rules)* page to add and view the rules and bindings created in IS that are associated with the project Distribution.                                                                                  |
+| Users              | Click to open the *[Project Distribution Users](Project_Distribution_Users)* page to add and user filters.                                                                                                                                                                 |
+| Filters            | Click to open the *[Project Distribution Filters](Project_Distribution_Filters)* page to set up filters on fields to limit the data viewed on reports for the project distribution                                                                                         |
+| Quality Dimensions | Click to open the *[Project Quality Dimensions](Project_Quality_Dimensions)* page to view projects and rules associated with Quality Dimensions.                                                                                                                           |
+| Custom Attributes  | Click to open the <span style="font-family: Arial, sans-serif;font-style: italic;">[Project Distribution Attributes](Project_Distribution_Attributes)</span> page to add or remove rules from the project distribution based on the attributes assigned to the rule in IS. |
+| Workflow Template  | Click to open the <span style="font-family: Arial, sans-serif;font-style: italic;">[Workflow Template](Workflow_Template)</span> page to add, edit or delete the templates used in workflows in the project distribution.                                                  |
 
 ## <span id="_Project_Distributions_V"></span> Project Distributions V
 
-[Project Distributions H](Project_Distributions_H.htm)
+[Project Distributions H](Project_Distributions_H)
 
 <div class="use">
 
 Use this page to [Add Distributions to a
-Project](../Use_Cases/Add_Distributions_to_a_Project.htm).
+Project](../Use_Cases/Add_Distributions_to_a_Project).
 
 </div>
 
@@ -78,7 +78,7 @@ Schedule ID
 Displays the schedule created in Common used for sending notifications.
 
 Refer to [Create
-Schedules](../../../Platform/Common/Use_Cases/Create_Schedules.htm) for
+Schedules](../../../Platform/Common/Use_Cases/Create_Schedules) for
 more information.
 
 **NOTE**: If Distributions are configured to use the Schedule ID for

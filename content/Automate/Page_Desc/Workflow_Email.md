@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Register Workflow
-Events](../Use_Cases/Register_Workflow_Events.htm).
+Events](../Use_Cases/Register_Workflow_Events).
 
 </div>
 
@@ -38,7 +38,7 @@ View
 
 Displays the workflow view used by the workflow event. The view is
 created in the Data Source assigned when the interface was created on
-the *[Interfaces](Interfaces.htm)* page.
+the *[Interfaces](Interfaces)* page.
 
 Email Info
 

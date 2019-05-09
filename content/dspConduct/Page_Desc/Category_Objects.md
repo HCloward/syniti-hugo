@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to: [Add a Category
-Object](../Use_Cases/Add_a_Category_Object.htm).
+Object](../Use_Cases/Add_a_Category_Object).
 
 </div>
 

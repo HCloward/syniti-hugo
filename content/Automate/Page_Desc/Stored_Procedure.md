@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Register Stored Procedure
-Events](../Use_Cases/Register_Stored_Procedure_Events.htm).
+Events](../Use_Cases/Register_Stored_Procedure_Events).
 
 </div>
 

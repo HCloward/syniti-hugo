@@ -16,7 +16,7 @@ To modify text for password email notifications:
 2.  Click **Edit**.
     
     [View the field descriptions for the Parameters - User Management
-    page](../Page_Desc/Parameters_User_Management.htm)
+    page](../Page_Desc/Parameters_User_Management)
 
 3.  Modify the fields as needed.
     

@@ -7,7 +7,7 @@ solution = 'Migration'
 
 <div class="use">
 
-Use this page to [Copy a Wave](../Use_Cases/Copy_Elements.htm#Copy).
+Use this page to [Copy a Wave](../Use_Cases/Copy_Elements#Copy).
 
 </div>
 
@@ -28,5 +28,5 @@ toolbar.
 | ------------- | --------------------------------------------------------------------------------------- |
 | Field         | Description                                                                             |
 | Description   | Displays a description of the selected Wave to be copied.                               |
-| Original Name | Displays the name of the Wave selected on the *[Waves](Waves_H.htm)* page to be copied. |
+| Original Name | Displays the name of the Wave selected on the *[Waves](Waves_H)* page to be copied. |
 | New Name      | Enter a name for the copy of the Wave.                                                  |

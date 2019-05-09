@@ -42,7 +42,7 @@ setting, which can be set at the Parameter level (Configuration \>
 Parameters \> Basic Settings). Metrics can be retained for up to 10
 days. Additionally, each project has its own Days to Retain Metrics
 setting (set on the *Vertical View* of the *[Project
-Summary](../Page_Desc/Project_Summary_H.htm)* page), which, if set, will
+Summary](../Page_Desc/Project_Summary_H)* page), which, if set, will
 override the setting in Parameters.
 
 When the user drills down through the charts to the Report Data Viewer,
@@ -64,39 +64,39 @@ angles.
 
 ISA dashboards include the following charts:
 
-  - [Total Records Charts](Total_Records_Charts.htm)
-  - [Records by User Charts](Records_by_User_Charts.htm)
-  - [Records by Project Chart](Records_by_Project_Chart.htm)
-  - [Records by Distribution Chart](Records_by_Distribution_chart.htm)
-  - [Records by Rule Chart](Records_by_Rule_chart.htm)
+  - [Total Records Charts](Total_Records_Charts)
+  - [Records by User Charts](Records_by_User_Charts)
+  - [Records by Project Chart](Records_by_Project_Chart)
+  - [Records by Distribution Chart](Records_by_Distribution_chart)
+  - [Records by Rule Chart](Records_by_Rule_chart)
   - [Record Trend by Project Distribution
-    Chart](Record_Trend_by_Project_Distribution_Chart.htm)
-  - [Record Trend by Project Chart](Record_Trend_by_Project_Chart.htm)
+    Chart](Record_Trend_by_Project_Distribution_Chart)
+  - [Record Trend by Project Chart](Record_Trend_by_Project_Chart)
   - [Record Trend by Project Distribution Rule
-    Chart](Record_Trend_Prjt_Distrib_Rule_Chart.htm)
+    Chart](Record_Trend_Prjt_Distrib_Rule_Chart)
   - [Records by Distribution User
-    Chart](Records_by_Distribution_User_Chart.htm)
+    Chart](Records_by_Distribution_User_Chart)
   - [Record Trend by Project Distribution User
-    Chart](Record_Trend_Prjt_Distrib_User.htm)
+    Chart](Record_Trend_Prjt_Distrib_User)
   - [Records by Distribution User Rules
-    Chart](Records_Distribution_User_Rules.htm)
+    Chart](Records_Distribution_User_Rules)
   - [Record Trend by Project Distribution User Rule
-    Chart](Record_Trend_Prjt_Distrib_User_Rule.htm)
+    Chart](Record_Trend_Prjt_Distrib_User_Rule)
   - [Total Opportunities vs. Failures
-    Summary](Total_Opportunities_vs._Failures_Summary.htm)
+    Summary](Total_Opportunities_vs._Failures_Summary)
   - [Total Opportunities vs Failures By
-    Project](Total_Opportunities_vs_Failures_By_Project.htm)
+    Project](Total_Opportunities_vs_Failures_By_Project)
   - [Total Opportunities vs. Failures by
-    Distribution](Total_Opportunities_vs._Failures_by_Distribution.htm)
+    Distribution](Total_Opportunities_vs._Failures_by_Distribution)
   - [Total Opportunities vs. Failures by
-    Rule](Total_Opportunities_vs._Failures_by_Rule.htm)
-  - [Failure Percentage Summary](Failure_Percentage_Summary.htm)
-  - [Failure Percentage by Project](Failure_Percentage_by_Project.htm)
+    Rule](Total_Opportunities_vs._Failures_by_Rule)
+  - [Failure Percentage Summary](Failure_Percentage_Summary)
+  - [Failure Percentage by Project](Failure_Percentage_by_Project)
   - [Failure Percentage by
-    Distribution](Failure_Percentage_by_Distribution.htm)
-  - [Failure Percentage by Rule](Failure_Percentage_by_Rule.htm)
-  - [Dimension Summary](Dimension_Summary.htm)
-  - [Selected Dimension by Project](Selected_Dimension_by_Project.htm)
+    Distribution](Failure_Percentage_by_Distribution)
+  - [Failure Percentage by Rule](Failure_Percentage_by_Rule)
+  - [Dimension Summary](Dimension_Summary)
+  - [Selected Dimension by Project](Selected_Dimension_by_Project)
   - [Selected Dimension by
-    Distribution](Selected_Dimension_by_Distribution.htm)
-  - [Selected Dimension by Rule](Selected_Dimension_by_Rule.htm)
+    Distribution](Selected_Dimension_by_Distribution)
+  - [Selected Dimension by Rule](Selected_Dimension_by_Rule)

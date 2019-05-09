@@ -12,10 +12,10 @@ is 200 and the chart indicates that 200 records failed out of a possible
 Hover the cursor over the bar to see the total record count.
 
 Click a bar to drill down to the [Total Opportunities vs Failures By
-Project](Total_Opportunities_vs_Failures_By_Project.htm) chart.
+Project](Total_Opportunities_vs_Failures_By_Project) chart.
 
 <span style="font-weight: bold;">NOTE:</span> Refer to [View ISA
-Dashboards](View_ISA_Dashboards.htm) for general information about
+Dashboards](View_ISA_Dashboards) for general information about
 charts, including the type of data charts display, configuration of
 retention parameters for metrics and historical data, and how record
 counts differ on charts and reports.

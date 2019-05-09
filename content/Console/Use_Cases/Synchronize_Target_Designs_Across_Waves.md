@@ -23,7 +23,7 @@ To make comparisons easier to review, hide all matching comparisons
 Identical icon on the Page toolbar at each element level.
 
 The appearance of comparison colors is controlled on the
-<span style="font-style: italic;">[Parameters](../Page_Desc/Parameters.htm)</span>
+<span style="font-style: italic;">[Parameters](../Page_Desc/Parameters)</span>
 page in Console and can be updated. For example, by default, values that
 are in sync display in orange, but can be updated.
 
@@ -66,7 +66,7 @@ To compare target designs in Console:
 2.  Select the baseline Wave and click the
     <span style="font-weight: bold;" data-xmlns="http://www.w3.org/1999/xhtml">Build
     Comparison</span> icon in the Page toolbar on the
-    <span style="font-style: italic;" data-xmlns="http://www.w3.org/1999/xhtml">[Waves](../Page_Desc/Waves_H.htm)</span>
+    <span style="font-style: italic;" data-xmlns="http://www.w3.org/1999/xhtml">[Waves](../Page_Desc/Waves_H)</span>
     page.
 
 3.  Click
@@ -74,7 +74,7 @@ To compare target designs in Console:
     in the *Build Wave Comparison* page in the child pane.
     
     [View the field descriptions for the Build Wave Comparison
-    page](../Page_Desc/Build_Wave_Comparison.htm)
+    page](../Page_Desc/Build_Wave_Comparison)
 
 4.  Select the child Wave to compare to the baseline Wave in the
     <span style="font-weight: bold;" data-xmlns="http://www.w3.org/1999/xhtml">Wave
@@ -96,7 +96,7 @@ the compared Waves display on the
 View of the results page at each element level. For example, to view the
 comparison results for a target, on the
 <span style="font-style: italic;" data-xmlns="http://www.w3.org/1999/xhtml">[<span style="font-style: italic;" data-xmlns="http://www.w3.org/1999/xhtml">Build
-Wave Comparison</span>](../Page_Desc/Build_Wave_Comparison.htm)</span>
+Wave Comparison</span>](../Page_Desc/Build_Wave_Comparison)</span>
 page, click the **Targets** icon, then click the**Vertical** **View**
 icon for a target.
 
@@ -104,7 +104,7 @@ For example, a user compares a baseline Wave and a child Wave that both
 contain material data. On the
 <span style="font-style: italic;">Vertical</span> View of the
 <span style="font-style: italic;">[Wave Compare Process Area
-Results](../Page_Desc/Wave_Compare_for_Process_Area_Results_H.htm)</span>
+Results](../Page_Desc/Wave_Compare_for_Process_Area_Results_H)</span>
 page, the Process Areas are named the same but have different data
 sources. The user does not want to synchronize the data sources, so
 continues the review at the object level.
@@ -118,6 +118,6 @@ that do not need to be synced no longer display. The ttADRC target
 exists in one Wave and not the other. The user views this detail by
 hovering over the Status icon on the *Horizontal* View of the *[Wave
 Compare for Target
-Results](../Page_Desc/Wave_Compare_for_Target_Results.htm)* page for the
+Results](../Page_Desc/Wave_Compare_for_Target_Results)* page for the
 record. The user selects the ttADRC record and clicks the Sync Target
 icon on the Page toolbar to sync the targets in both Waves.

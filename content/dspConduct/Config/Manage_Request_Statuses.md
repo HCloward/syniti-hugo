@@ -6,7 +6,7 @@ solution = 'Master Data Management'
 # Manage Request Statuses Overview
 
 The <span style="font-style: italic;">[Request
-Status](../Page_Desc/Request_Status.htm)</span> page lists the default
+Status](../Page_Desc/Request_Status)</span> page lists the default
 statuses installed with dspConduct™. Default status cannot be edited or
 deleted.
 
@@ -22,7 +22,7 @@ archived, even after the default setting of 30 days has passed.
 
 <span style="font-weight: bold;">NOTE</span>: This setting can be
 updated at the category level. Refer to [Set the Days Active for a
-Request Status](Set_the_Days_Active_for_a_Request_Status.htm) for more
+Request Status](Set_the_Days_Active_for_a_Request_Status) for more
 information.
 
 <span style="font-weight: bold;">NOTE</span>: Setting the request status
@@ -87,7 +87,7 @@ is enabled.
 </tr>
 <tr class="even">
 <td><p>Scheduled</p></td>
-<td><p>The request is scheduled to be posted at the date and time set on the <span style="font-style: italic;"><a href="../Page_Desc/Request_Group_Post.htm">Request Group Post</a></span> page.</p></td>
+<td><p>The request is scheduled to be posted at the date and time set on the <span style="font-style: italic;"><a href="../Page_Desc/Request_Group_Post">Request Group Post</a></span> page.</p></td>
 <td><p>No</p></td>
 <td><p>No</p></td>
 <td><p>Yes</p></td>
@@ -108,7 +108,7 @@ is enabled.
 </tr>
 <tr class="odd">
 <td><p>Posting Started</p></td>
-<td><p>A user clicked the Group Post or Post icons on the <span style="font-style: italic;"><a href="../Page_Desc/Request_Group_Post.htm">Request Group Post</a></span> or <a href="../Page_Desc/Request_Post_Process.htm">Request Post Process</a> page but the posting processes have not completed yet. .</p></td>
+<td><p>A user clicked the Group Post or Post icons on the <span style="font-style: italic;"><a href="../Page_Desc/Request_Group_Post">Request Group Post</a></span> or <a href="../Page_Desc/Request_Post_Process">Request Post Process</a> page but the posting processes have not completed yet. .</p></td>
 <td><p>No</p></td>
 <td><p>No</p></td>
 <td><p>No</p></td>
@@ -152,6 +152,6 @@ access settings for that status.
 To work with request statuses:
 
   - [Add a Custom Request
-    Status](../Use_Cases/Add_a_Custom_Request_Status.htm)
+    Status](../Use_Cases/Add_a_Custom_Request_Status)
   - [Set the Days Active for a Request
-    Status](Set_the_Days_Active_for_a_Request_Status.htm)
+    Status](Set_the_Days_Active_for_a_Request_Status)

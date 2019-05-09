@@ -14,29 +14,29 @@ have been exported from Microsoft Project, or MS Project 2012 files (in
 
 Projects can also be exported from dspTrack™ to be updated in MS
 Project, then imported into dspTrack™ to update project data. Refer to
-[Export a Project File](Export_a_Project_File.htm) for more information.
+[Export a Project File](Export_a_Project_File) for more information.
 
 To import project files:
 
   - [Export a Project as an Excel Spreadsheet in MS
-    Project](Export_Project_Excl_Sprdsht_MSProject.htm)
+    Project](Export_Project_Excl_Sprdsht_MSProject)
 
   - [Import the Project File into
-    dspTrack™](Import_the_Project_File_into_dspTrack.htm)
+    dspTrack™](Import_the_Project_File_into_dspTrack)
 
-  - [Required Columns for Import](Required_Columns_for_Import.htm)
+  - [Required Columns for Import](Required_Columns_for_Import)
 
-  - [Task Status on Import](../Page_Desc/Task_Status_on_Import.htm)
+  - [Task Status on Import](../Page_Desc/Task_Status_on_Import)
 
  
 
 Optionally:
 
   - [Register Unregistered Users Imported into
-    dspTracl™](Register_Unregistered_Users_Imprtd_dspTrack.htm)
+    dspTracl™](Register_Unregistered_Users_Imprtd_dspTrack)
 
   - [Map a Project User Name to a User Name in the
-    Platform](Map_prjct_usrnme_platform_usrnm.htm)
+    Platform](Map_prjct_usrnme_platform_usrnm)
 
   - [Assign a Registered User's Tasks to Another
-    User](Assign_Registered_User_Tasks_Another_User.htm)
+    User](Assign_Registered_User_Tasks_Another_User)

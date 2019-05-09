@@ -10,14 +10,14 @@ which is called a context), and an Object used in the data migration
 project must have been created in Console.
 
 Refer to [Create the Contexts for Migration
-Projects](../../Console/Use_Cases/Create_Contexts_for_Migration_Projects.htm)
+Projects](../../Console/Use_Cases/Create_Contexts_for_Migration_Projects)
 for more information.
 
 Target Design is accessible through dspMigrate™ by clicking the Context
 bar. It is not accessible through the *Navigation* pane.
 
 Refer to [Context, the Context Bar, and
-Navigation](../../dspMigrate/Context_Navigation.htm) for more
+Navigation](../../dspMigrate/Context_Navigation) for more
 information.
 
 To access Design:

@@ -8,9 +8,9 @@ solution = 'Master Data Management'
 To set up security:
 
 1.  Create User Accounts in
-    [Common](../../../Platform/Common/Use_Cases/Create_User_Accounts_in_Common.htm)
+    [Common](../../../Platform/Common/Use_Cases/Create_User_Accounts_in_Common)
     or have an Administrator [create them in System
-    Administration](../../../Platform/Sys_Admin/Use_Cases/Create_User_Accounts_in_System_Administration.htm).
+    Administration](../../../Platform/Sys_Admin/Use_Cases/Create_User_Accounts_in_System_Administration).
     
     **NOTE**; Adding a user in Common allows for a more streamlined
     process for password maintenance, and is the recommended method for
@@ -24,17 +24,17 @@ To set up security:
 <!-- end list -->
 
 1.  [Create Security
-    Roles](../../../Platform/Sys_Admin/Use_Cases/Delivered_Security_Roles.htm)
+    Roles](../../../Platform/Sys_Admin/Use_Cases/Delivered_Security_Roles)
     (performed by an Administrator).
 
 2.  [Assign Users to Security
-    Role](../../../Platform/Sys_Admin/Use_Cases/Assign_Users_to_Security_Roles.htm)
+    Role](../../../Platform/Sys_Admin/Use_Cases/Assign_Users_to_Security_Roles)
     in
-    [Common](../../../Platform/Common/Use_Cases/Assign_a_User_to_a_Security_Role_in_Common.htm)
+    [Common](../../../Platform/Common/Use_Cases/Assign_a_User_to_a_Security_Role_in_Common)
     or have an Administrator assign them.
 
 3.  [Assign WebApp Groups to Security
-    Role](../../../Platform/Sys_Admin/Use_Cases/Assign_WebApp_Groups_to_Security_Role.htm)
+    Role](../../../Platform/Sys_Admin/Use_Cases/Assign_WebApp_Groups_to_Security_Role)
     (performed by an Administrator).
     
     **NOTE**: A user must belong to the Users Manager WebApp Group in
@@ -42,4 +42,4 @@ To set up security:
 
 <!-- end list -->
 
-1.  [Manage dspConduct™ Positions](../Use_Cases/Manage_Positions.htm)
+1.  [Manage dspConduct™ Positions](../Use_Cases/Manage_Positions)

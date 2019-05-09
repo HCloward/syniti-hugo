@@ -17,7 +17,7 @@ To configure secure parameters:
 2.  Click **Edit.**
     
     [View the field descriptions for the Parameters-Secure
-    page](../Page_Desc/Parameters_Secure.htm)
+    page](../Page_Desc/Parameters_Secure)
 
 3.  Update all fields if default values are not applicable.
 

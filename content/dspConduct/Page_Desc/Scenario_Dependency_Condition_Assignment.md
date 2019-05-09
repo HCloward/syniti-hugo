@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Assign a Condition to a Scenario Dependency
-Relationship](../Use_Cases/Assign_a_Condition_to_a_Scenario_Dependency_Relationship.htm).
+Relationship](../Use_Cases/Assign_a_Condition_to_a_Scenario_Dependency_Relationship).
 
 </div>
 

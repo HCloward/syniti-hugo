@@ -29,14 +29,14 @@ separate view.
 **NOTE**: If using the Auto Generate Database Objects feature, do not
 select a view name when adding the process that will be associated with
 the BDC Script template. Refer to [Generate Database Objects
-Automatically](Generate_Database_Objects_Automatically.htm) for more
+Automatically](Generate_Database_Objects_Automatically) for more
 information.
 
 Assign specific columns in the view to unique template fields using
 field mappings or generate them automatically using the Auto Generate
 Database Objects feature. Refer to [Configure Field Mappings for a
 Process Based on a BDC Script
-Template](ConfigureFieldMappingsBDC_Script_Template.htm) for more
+Template](ConfigureFieldMappingsBDC_Script_Template) for more
 information.
 
 If the process is based on a BDC Script template with multiple loops,
@@ -44,7 +44,7 @@ relationships must be established to link the views assigned to
 different loops.  A user can set up relationships manually or can use
 the Auto Generate Database Objects feature to create them automatically.
 Refer to [View and Configure Relationships for a Process Based on a BDC
-Script Template](ViewandConfigureRelationshipsBDC.htm) for more
+Script Template](ViewandConfigureRelationshipsBDC) for more
 information.
 
 **NOTE**: A process based on a BDC Script template with multiple loops
@@ -52,7 +52,7 @@ requires relationships between loops be established. Relationships map
 values in parent views to values in child views to link views assigned
 to different loops. Refer to [View and Configure Relationships for a
 Process Based on a BDC Script
-Template](ViewandConfigureRelationshipsBDC.htm) for more information.
+Template](ViewandConfigureRelationshipsBDC) for more information.
 
 **NOTE**: A process must be inactive to configure its process template
 loops.
@@ -77,7 +77,7 @@ To view process template loops:
 5.  Click **Edit** for a loop.
     
     *[View the field descriptions for the Process Template Loop
-    page.](../Page_Desc/Process_Template_Loop.htm)*
+    page.](../Page_Desc/Process_Template_Loop)*
 
 6.  Select a name in the **VIEW NAME** list box.
     
@@ -118,5 +118,5 @@ Objects feature:
       - Configures relationships for process template loops
 
 Refer to [Generate Database Objects
-Automatically](Generate_Database_Objects_Automatically.htm) for more
+Automatically](Generate_Database_Objects_Automatically) for more
 information.

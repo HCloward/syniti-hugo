@@ -14,7 +14,7 @@ informational purposes only.
 
 To access this page:
 
-1.  [Access Transform](../Config/Access_Transform.htm).
+1.  [Access Transform](../Config/Access_Transform).
 2.  Select **Configuration \> Setup \> Load Types (Setup)** in the
     *Navigation* pane.
 

@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Add an Org Unit to a Category
-Object](../Use_Cases/Manage_Org_Units.htm#Add_an_Org_Unit_Type_to_a_Category_Object).
+Object](../Use_Cases/Manage_Org_Units#Add_an_Org_Unit_Type_to_a_Category_Object).
 
 </div>
 
@@ -29,7 +29,7 @@ To access this page:
 <td><p>OBJECT NAME</p></td>
 <td><p>Displays the object name that will be processed by the selected category.</p>
 <p>If no records exist, the OBJECT NAME defaults to the category name.</p>
-<p><strong>NOTE:</strong> If the OBJECT NAME is not listed, click to add a new item. The <a href="Category_Objects.htm">Category Objects</a> page displays in add mode in another browser tab. Enter a value in the OBJECT NAME text box. Click Save.</p></td>
+<p><strong>NOTE:</strong> If the OBJECT NAME is not listed, click to add a new item. The <a href="Category_Objects">Category Objects</a> page displays in add mode in another browser tab. Enter a value in the OBJECT NAME text box. Click Save.</p></td>
 </tr>
 <tr class="odd">
 <td><p>ORG UNIT1TYPE</p></td>

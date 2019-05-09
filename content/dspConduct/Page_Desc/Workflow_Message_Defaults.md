@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to<span style="color: #0000ff;">[View Default Workflow
-Messages](../Config/View_Default_Workflow_Messages.htm)</span><span>.</span>
+Messages](../Config/View_Default_Workflow_Messages)</span><span>.</span>
 
 </div>
 

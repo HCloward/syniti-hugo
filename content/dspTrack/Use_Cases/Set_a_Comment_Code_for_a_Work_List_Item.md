@@ -23,7 +23,7 @@ To set a comment code for a Work List item:
     Otherwise, click **Add.**
     
     [View the field descriptions for the Item Comment Code
-    page](../Page_Desc/Item_Comment_Code.htm)
+    page](../Page_Desc/Item_Comment_Code)
 
 4.  Select a code from **LATE COMMENT CODE ID** list box.
     

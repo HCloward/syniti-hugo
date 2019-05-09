@@ -5,19 +5,19 @@ solution = 'Platform'
 
 # Table (Results) H
 
-### [Table (Results) V](Table_Results_H.htm#Table__Results__V)
+### [Table (Results) V](Table_Results_H#Table__Results__V)
 
 <div class="use">
 
 Use this page to
 
   - [Activate and Deactivate
-    Tables](../Use_Cases/Activate_and_Deactivate_Tables.htm)
+    Tables](../Use_Cases/Activate_and_Deactivate_Tables)
   - [Profile Individual
-    Tables](../Use_Cases/Profile_Data_Sources.htm#Profile_Individual_Tables)
+    Tables](../Use_Cases/Profile_Data_Sources#Profile_Individual_Tables)
   - [View Table
-    Results](../../../Migration/Construct/Use_Cases/View_Table_Results.htm)
-  - [Reset for a Table](../Use_Cases/Reset_Profiling.htm)
+    Results](../../../Migration/Construct/Use_Cases/View_Table_Results)
+  - [Reset for a Table](../Use_Cases/Reset_Profiling)
 
 </div>
 
@@ -52,13 +52,13 @@ table.
 | LAST UPDATED ON       | Displays the date and time when the table was most recently profiled.                                                                                      |
 | RECORD COUNT          | Displays the number of records in the table.                                                                                                               |
 | View Data             | Click to view details of the table data.                                                                                                                   |
-| Fields                | Click to open the <span style="font-style: italic;">[Table Field (Results)](Table_Field_Results_H.htm)</span> page to  view fields for the profiled table. |
+| Fields                | Click to open the <span style="font-style: italic;">[Table Field (Results)](Table_Field_Results_H)</span> page to  view fields for the profiled table. |
 | Execute               | Click to re-profile the data in the tables and rebuild the result set.                                                                                     |
 | Reset                 | Click to reset a running profile in the event an error occurs.                                                                                             |
 
 ## <span id="Table__Results__V"></span>Table (Results) V
 
-### [Table (Results) H](Table_Results_H.htm)
+### [Table (Results) H](Table_Results_H)
 
 Field
 

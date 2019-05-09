@@ -26,7 +26,7 @@ posting success or failure.
 
 The text of these workflow messages is set on the
 <span style="font-style: italic;">[Category Workflow Language
-Message](../Page_Desc/Category_Workflow_Language_Message_H.htm)</span>
+Message](../Page_Desc/Category_Workflow_Language_Message_H)</span>
 page for the Posted and Posted with Errors events.
 
 <span style="font-weight: bold;">NOTE</span>: Workflow notifications are
@@ -42,10 +42,10 @@ link.
 
 <span style="font-weight: bold;">NOTE</span>: When users are added on
 the <span style="font-style: italic;">[Post Workflow
-Notification](../Page_Desc/Post_Workflow_Notification.htm)</span> page,
+Notification](../Page_Desc/Post_Workflow_Notification)</span> page,
 those users are also added to the
 <span style="font-style: italic;">[Request Post Workflow
-Notification](../Page_Desc/Request_Post_Workflow_Notification.htm)</span>
+Notification](../Page_Desc/Request_Post_Workflow_Notification)</span>
 page. On that page, a user must be set as active to receive the
 notifications. Users are set to receive these notifications by default.
 
@@ -92,7 +92,7 @@ To add the Request Post Workflow Notification task to the Post role:
 4.  Click <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Role (Tasks)
-    page](../Page_Desc/Role_Task.htm)
+    page](../Page_Desc/Role_Task)
 
 5.  Enter the priority for the task in the
     <span style="font-weight: bold;">PRIORITY</span> field.
@@ -113,7 +113,7 @@ Configuring these settings at the scenario role level allows them to be
 set once for any request based on the scenario role. After a Designer
 saves a record at the scenario role level, the user is added to the
 [Request Post Notification
-Workflow](../Page_Desc/Request_Post_Workflow_Notification.htm) page.
+Workflow](../Page_Desc/Request_Post_Workflow_Notification) page.
 
 The Designer can also configure all of these settings at the request
 role level without adding them at the scenario role level.  Refer to
@@ -123,7 +123,7 @@ for more information.
 
 **NOTE**: Before performing this task, the Designer must access the
 <span style="font-style: italic;">[Category Workflow Language
-Message](../Page_Desc/Category_Workflow_Language_Message_H.htm)</span>
+Message](../Page_Desc/Category_Workflow_Language_Message_H)</span>
 page once for notifications to be sent. On this page, the Designer can
 set the email address that sends the notifications for events, including
 the Posted and Posted with Errors event used with these types of
@@ -131,7 +131,7 @@ notifications. The default language for notifications is English. If the
 text of the notifications is in another language, the Designer must add
 the translated text for that message. Refer to [Create Language-specific
 Workflow Messages for a
-Category](Create_Language-specific_Workflow_Messages_for_a_Category.htm)
+Category](Create_Language-specific_Workflow_Messages_for_a_Category)
 for more information. 
 
 To configure a user who can receive notification emails for posting
@@ -155,7 +155,7 @@ success or failure for the Post role:
 6.  Click <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Post Workflow Notification
-    page](../Page_Desc/Post_Workflow_Notification.htm)
+    page](../Page_Desc/Post_Workflow_Notification)
 
 7.  If the user is an external user, enter the ID of the external user
     in the <span style="font-weight: bold;">USER ID</span> combo box.
@@ -191,11 +191,11 @@ success or failure for the Post role:
     
     **NOTE**: Workflow messages must have been added for that language
     to the [Category Workflow Language
-    Message](../Page_Desc/Category_Workflow_Language_Message_H.htm)
+    Message](../Page_Desc/Category_Workflow_Language_Message_H)
      page for the Posted and Posted with Errors event. If they are not
     added, the notifications are not sent. Refer to [Create
     Language-specific Workflow
-    Messages](Create_Language-specific_Workflow_Messages_for_a_Category.htm)
+    Messages](Create_Language-specific_Workflow_Messages_for_a_Category)
     for more information.
 
 11. Click the <span style="font-weight: bold;">SEND POST SUCCESS</span>
@@ -225,7 +225,7 @@ set for any request based on the role.
 
 **NOTE**: Before performing this task, the Designer must access the
 <span style="font-style: italic;">[Category Workflow Language
-Message](../Page_Desc/Category_Workflow_Language_Message_H.htm)</span>
+Message](../Page_Desc/Category_Workflow_Language_Message_H)</span>
 page once for notifications to be sent. On this page, the Designer can
 set the email address that sends the notifications for events, including
 the Posted and Posted with Errors event used with these types of
@@ -233,7 +233,7 @@ notifications. The default language for notifications is English. If the
 text of the notifications is in another language, the Designer must add
 the translated text for that message. Refer to [Create Language-specific
 Workflow Messages
-f](Create_Language-specific_Workflow_Messages_for_a_Category.htm)or more
+f](Create_Language-specific_Workflow_Messages_for_a_Category)or more
 information. 
 
 To configure an external or registered user who can receive notification
@@ -253,14 +253,14 @@ emails for posting success or failure for the Post role:
     **NOTE:** The dspConduct™ task Request Post Workflow Notification
     must have been added to the role for this button to display. Refer
     to [Add Task Request Post Workflow Notification to the Post
-    Role](Send_Workflow_Notifications_when_a_Post_Fails_or_Succeeds.htm#Add_Task_Request_Post_Workflow_Notification_to_the_Post_Role)
+    Role](Send_Workflow_Notifications_when_a_Post_Fails_or_Succeeds#Add_Task_Request_Post_Workflow_Notification_to_the_Post_Role)
     for more information.
 
 5.  Click **Add**.
     
     [View the field descriptions for the Request Post Workflow
     Notification
-    page](../Page_Desc/Request_Post_Workflow_Notification.htm)
+    page](../Page_Desc/Request_Post_Workflow_Notification)
 
 6.  If the user is an external user, enter the ID of the external user
     in the **USER ID** combo box.
@@ -294,11 +294,11 @@ emails for posting success or failure for the Post role:
     
     **NOTE:** Workflow messages must have been added for that language
     to the *[Category Workflow Language
-    Message](../Page_Desc/Category_Workflow_Language_Message_H.htm)*
+    Message](../Page_Desc/Category_Workflow_Language_Message_H)*
     page for the Posted and Posted with Errors event. If they are not
     added, the notifications are not sent. Refer to [Create
     Language-specific Workflow
-    Messages](Create_Language-specific_Workflow_Messages_for_a_Category.htm)
+    Messages](Create_Language-specific_Workflow_Messages_for_a_Category)
     for more information.:
     
     **NOTE:** The languages that display in the list box are active

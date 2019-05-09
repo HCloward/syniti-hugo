@@ -3,7 +3,7 @@
 <div class="use">
 
 Use this page to [view a list of rule bindings associated with a
-project](../Use_Cases/View_Rule_Bindings.htm).
+project](../Use_Cases/View_Rule_Bindings).
 
 </div>
 

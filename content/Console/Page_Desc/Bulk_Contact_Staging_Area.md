@@ -10,9 +10,9 @@ solution = 'Migration'
 Use this page to:
 
   - [Add Users to theStaging
-    Area](../Use_Cases/Add_Target_Contacts_to_Objects.htm#Add)
+    Area](../Use_Cases/Add_Target_Contacts_to_Objects#Add)
   - [Assign a Position to
-    Users](../Use_Cases/Add_Target_Contacts_to_Objects.htm#Assign)
+    Users](../Use_Cases/Add_Target_Contacts_to_Objects#Assign)
 
 </div>
 
@@ -43,7 +43,7 @@ To access this page:
 <tr class="even">
 <td><p>Set As Developer</p></td>
 <td><p>Click to assign the selected user(s) to a position of Developer.</p>
-<p>Developers approve mappings on the <em><a href="../../Map/Page_Desc/Mapping_Approval_H.htm">Mapping Approval</a></em> page submitted for a Target-Source in Map on the <em><a href="../../Map/Page_Desc/Field_Mappings_H.htm">Field Mappings</a></em> page. Refer to <a href="../../Map/Use_Cases/Approve_or_Reject_Mappings.htm">Approve or Reject Mappings</a> for more information.</p></td>
+<p>Developers approve mappings on the <em><a href="../../Map/Page_Desc/Mapping_Approval_H">Mapping Approval</a></em> page submitted for a Target-Source in Map on the <em><a href="../../Map/Page_Desc/Field_Mappings_H">Field Mappings</a></em> page. Refer to <a href="../../Map/Use_Cases/Approve_or_Reject_Mappings">Approve or Reject Mappings</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Bulk User Object Assignment</p></td>

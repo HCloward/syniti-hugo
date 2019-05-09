@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Add a Scenario Level Default to a
-Category](../Use_Cases/Add_a_Scenario_Level_Default_Value_Rule_to_a_Category.htm).
+Category](../Use_Cases/Add_a_Scenario_Level_Default_Value_Rule_to_a_Category).
 
 </div>
 
@@ -55,8 +55,8 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Scenarios</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Scenario_Default_Rules.htm">Scenario (Default Rules)</a></span> page to view the scenarios to which the default rules apply.</p>
-<p>Refer to <a href="../Use_Cases/Assign_a_Default_Value_Rule_to_a_Scenario.htm">Assign a Default Value Rule to a Scenario</a> for more information.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Scenario_Default_Rules">Scenario (Default Rules)</a></span> page to view the scenarios to which the default rules apply.</p>
+<p>Refer to <a href="../Use_Cases/Assign_a_Default_Value_Rule_to_a_Scenario">Assign a Default Value Rule to a Scenario</a> for more information.</p></td>
 </tr>
 </tbody>
 </table>

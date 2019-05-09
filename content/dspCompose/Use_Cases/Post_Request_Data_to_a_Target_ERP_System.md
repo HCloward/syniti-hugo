@@ -13,17 +13,17 @@ non-peak work hours, for example, after 5:00 p.m.
 **NOTE**: When the Review role user clicks the **Approve** icon for the
 request, the user assigned to the Post role for the request receives an
 email if the **SEND WORKFLOW** check box is checked for that user on the
-*[User](../Page_Desc/User_H.htm)* page.
+*[User](../Page_Desc/User_H)* page.
 
 **NOTE**: If the request has Org Units assigned, dspCompose™ only sends
 workflow emails to users who have Org Unit security for values on the
 request.
 
 The posting options available for a request are set on the
-*[Parameters](../Page_Desc/Parameters.htm)* page on the **Posting and
+*[Parameters](../Page_Desc/Parameters)* page on the **Posting and
 File** tab. If a Template Administrator enables a check box on this
 page, that posting option is available to users with the Post role on
-the *[Request (Post)](../Page_Desc/Request_Post.htm)* page. If a
+the *[Request (Post)](../Page_Desc/Request_Post)* page. If a
 Template Administrator disables a check box on the *Parameters* page,
 the posting option does not display on the *Request (Post)* page, and is
 unavailable to the Post role when processing a request.
@@ -39,8 +39,8 @@ Foreground post method.
 A request is posted in the background if there is a large amount of data
 to process that may affect system performance or may time out a session.
 Monitor posts that run in the background on the *[Request Role Finish
-Monitor](../Page_Desc/Request_Role_Finish_Monitor.htm)* page. Refer to
-[Monitor Requests](Monitor_Requests.htm) for more information.
+Monitor](../Page_Desc/Request_Role_Finish_Monitor)* page. Refer to
+[Monitor Requests](Monitor_Requests) for more information.
 
 <span style="font-size: 11.0pt;">A post that runs in the foreground
 processes immediately and</span> is used for requests that do not time
@@ -62,7 +62,7 @@ Posting options include:
     credentials.
 
 Refer to [User Credentials in
-dspCompose™](../Config/User_Credentials_in_dspCompose.htm) for more
+dspCompose™](../Config/User_Credentials_in_dspCompose) for more
 information.
 
 <span style="font-weight: bold;">NOTE:</span> When posting in
@@ -70,7 +70,7 @@ dspCompose™ using the Schedule Post feature, users must be assigned to
 the Post Monitor group in Integrate to successfully post.
 
 Refer to [Display Posting Options on
-Requests](../Config/Display_Posting_Options_on_Requests.htm) for more
+Requests](../Config/Display_Posting_Options_on_Requests) for more
 information.
 
 To post request data in dspCompose™:
@@ -93,7 +93,7 @@ To post request data in dspCompose™:
     
     <span style="font-weight: bold;">NOTE:</span> If performing a
     Schedule Post, refer to [Setting the Post Start
-    Time](Setting_the_Post_Start_Time.htm) for more information.
+    Time](Setting_the_Post_Start_Time) for more information.
 
 4.  Click the applicable post method icon; a confirmation message
     displays.
@@ -101,15 +101,15 @@ To post request data in dspCompose™:
     <span style="font-weight: bold;">NOTE:</span> If the Foreground
     Post, Background Post or Post Later options do not display, check
     boxes for the corresponding posting methods are disabled on the
-    <span style="font-size: 11.0pt;font-style: italic;">[Parameters](../Page_Desc/Parameters.htm)</span><span style="font-size: 11.0pt;">
+    <span style="font-size: 11.0pt;font-style: italic;">[Parameters](../Page_Desc/Parameters)</span><span style="font-size: 11.0pt;">
     page. </span>Refer to [Display Posting Options on
-    Requests](../Config/Display_Posting_Options_on_Requests.htm) for
+    Requests](../Config/Display_Posting_Options_on_Requests) for
     more information.
     
     <span style="font-weight: bold;">NOTE:</span> If posting via Post
     Start Time, refer
     to<span style="font-size: 11.0pt;color: #0000ff;">[Setting the Post
-    Start Time](Setting_the_Post_Start_Time.htm)</span>for more
+    Start Time](Setting_the_Post_Start_Time)</span>for more
     information.
 
 5.  Click **Yes**.
@@ -120,9 +120,9 @@ To post request data in dspCompose™:
     out. In the case of a partially successful post, the initial Data
     Entry role is reset and the failed records display on the data entry
     page for the initial Data Entry role. Refer to [Review Posting
-    Messages](Review_Posting_Messages.htm) for more information.
+    Messages](Review_Posting_Messages) for more information.
 
-6.  Return to the *[Request (Roles)](../Page_Desc/Request_Roles_H.htm)*
+6.  Return to the *[Request (Roles)](../Page_Desc/Request_Roles_H)*
     page.
 
 7.  Click **Finish** for the **Post** Role ID.
@@ -138,17 +138,17 @@ Additional configuration settings allow a Template Administrator to set
 Collect rules to run on table data after the download is finished, and
 to specify filter columns for both source and target data. Refer to
 [Register Tables for Download as a Finish Process using
-Collect](Register_Tables_to_Download_as_a_Finish_Process_Using_Collect.htm)
+Collect](Register_Tables_to_Download_as_a_Finish_Process_Using_Collect)
 for more information.
 
 <span style="font-weight: bold;">NOTE</span>:  If no tables have been
 registered for download as a Finish process or no columns have been
 configured for the tables for download, warning messages display. Refer
 to [Register Tables for Download as a Finish Process using
-Collect](Register_Tables_to_Download_as_a_Finish_Process_Using_Collect.htm)
+Collect](Register_Tables_to_Download_as_a_Finish_Process_Using_Collect)
 for more information.
 
 <span style="font-weight: bold;">NOTE</span>: A rule can be associated
 with this template level event. Refer to [Register Rules to
-Template-level Events](Register_Rules_to_Template%20level_Events.htm)
+Template-level Events](Register_Rules_to_Template%20level_Events)
  for more information.

@@ -14,7 +14,7 @@ copied at a time.
 
 When viewing all mappings for a Source, only Source rules display on the
 <span style="font-style: italic;">[Field Mappings by Target Field (All
-Waves)](../Page_Desc/Field_Mappings_by_Target_Field_All_Waves.htm)</span>
+Waves)](../Page_Desc/Field_Mappings_by_Target_Field_All_Waves)</span>
 page. When viewing all mappings for a Target, only Target rules display.
 
 <span style="font-weight: bold;">NOTE:</span> If the selected field has
@@ -30,7 +30,7 @@ Groups.
 <span style="font-weight: bold;">NOTE:</span> Instead of copying a
 single mapping, a user can also import all mappings in a mapping set
 into a Source from a System Type. Refer to [Import and Export
-Mappings](Import_and_Export_Mappings.htm) for more information.
+Mappings](Import_and_Export_Mappings) for more information.
 
 To view all mappings for a field and copy a mapping to the selected
 Target or Source in Map:
@@ -39,7 +39,7 @@ Target or Source in Map:
 
 2.  Click the <span style="font-weight: bold;">Targets </span>icon on
     the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page
+    Launch](../Page_Desc/Process_Area_Launch_map)* page
     
     Or
     

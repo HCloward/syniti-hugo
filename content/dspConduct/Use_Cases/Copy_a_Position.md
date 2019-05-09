@@ -20,7 +20,7 @@ To copy a position:
 4.  Click **Edit**.
     
     *[View the field descriptions for the Copy Position
-    page](../Page_Desc/Copy_Position.htm).*
+    page](../Page_Desc/Copy_Position).*
 
 5.  Enter a name in the **New Position Name** field.
     
@@ -48,10 +48,10 @@ To copy a position:
     settings for roles and the org units at the role level, and the
     position level category org unit assignments are copied. Refer to
     [Configure Org Unit Value Assignments for Roles at the Role
-    Level](Set_a_Roles_Org_Unit_Value_Assignments.htm#Configure_Org_Unit_Value_Assignments__at_the_Role_Level)
+    Level](Set_a_Roles_Org_Unit_Value_Assignments#Configure_Org_Unit_Value_Assignments__at_the_Role_Level)
     and [Configure the Read-Only/Editable setting for Org Unit Value
     Assignments for
-    Roles](Set_a_Roles_Org_Unit_Value_Assignments.htm#Configure_the_Read_Only_Editable_setting_for_Org_Unit_Value_Assignments_for_Roles)
+    Roles](Set_a_Roles_Org_Unit_Value_Assignments#Configure_the_Read_Only_Editable_setting_for_Org_Unit_Value_Assignments_for_Roles)
     for more information.
 
 9.  Click the **Copy Business Processes** check box to enable it.

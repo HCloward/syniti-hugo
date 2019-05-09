@@ -9,9 +9,9 @@ solution = 'Data Quality'
 
 Use this page to:
 
-  - [Add Users to a Report](../Use_Cases/Add_Users_to_a_Report.htm)
+  - [Add Users to a Report](../Use_Cases/Add_Users_to_a_Report)
   - [Register Users to
-    Groups](../Use_Cases/Register_Users_to_Groups.htm)
+    Groups](../Use_Cases/Register_Users_to_Groups)
 
 </div>
 

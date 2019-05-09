@@ -12,7 +12,7 @@ A task is late if the task is not in a Completed status and:
     the critical path is late or
   - The task has passed a Threshold Warning. Refer to [Set Parameters
     for Task Status
-    Calculation](Set_Parameters_for_Schedule_Status_Calculation.htm) for
+    Calculation](Set_Parameters_for_Schedule_Status_Calculation) for
     more information about Threshold Warnings.
 
 When a task is late, it displays on the *Late Task* page. Late tasks
@@ -35,7 +35,7 @@ late tasks.
 new project or plan is created in dspTrack™.
 
 Refer to [Set Up Security for
-dspTrack™](../Config/Set_Security_in_dspTrack.htm) for more
+dspTrack™](../Config/Set_Security_in_dspTrack) for more
 information.
 
 There are two ways to access the *Late Task* page: view all late tasks

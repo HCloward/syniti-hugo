@@ -21,7 +21,7 @@ To import legacy BDCdirect® scripts into Integrate:
 3.  Click **Edit** for a script.
     
     [View the field descriptions for the BDCdirect: Script
-    page](../Page_Desc/BDCDirect_Script.htm)
+    page](../Page_Desc/BDCDirect_Script)
 
 4.  Update the **CATEGORY** field to change the default name of the
     Integrate category if needed.

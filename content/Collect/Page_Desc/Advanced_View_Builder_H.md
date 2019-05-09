@@ -10,8 +10,8 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Build Advanced
-Views](../Use_Cases/Build_Advanced_Views.htm) and [Create Collect Target
-Views](../../../Master_Data_Mgmt/dspConduct/Use_Cases/Auto_Generate_Request_related_Objects.htm#Create_Collect_Target_Views)
+Views](../Use_Cases/Build_Advanced_Views) and [Create Collect Target
+Views](../../../Master_Data_Mgmt/dspConduct/Use_Cases/Auto_Generate_Request_related_Objects#Create_Collect_Target_Views)
 for dspConduct™.
 
 </div>
@@ -35,12 +35,12 @@ pane.
 
 ## <span id="Advanced_View_Builder_V"></span>Advanced View Builder V
 
-[Advanced View Builder H](Advanced_View_Builder_H.htm)
+[Advanced View Builder H](Advanced_View_Builder_H)
 
 <div class="use">
 
 Use this page to [Build Advanced
-Views](../Use_Cases/Build_Advanced_Views.htm).
+Views](../Use_Cases/Build_Advanced_Views).
 
 </div>
 

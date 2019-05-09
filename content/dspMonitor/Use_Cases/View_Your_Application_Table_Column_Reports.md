@@ -20,7 +20,7 @@ To view application table column reports:
     
     *[View the field descriptions for the Your Application Table Column
     Reports
-    page](../Page_Desc/Your_Application_Table_Column_Reports_H.htm)*
+    page](../Page_Desc/Your_Application_Table_Column_Reports_H)*
 
 5.  Click the **View** icon to view the report data.
     

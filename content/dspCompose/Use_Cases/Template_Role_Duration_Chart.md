@@ -11,11 +11,11 @@ a template role (Data, Review, Post and DataExternal).
 Hover a cursor over a bar to see the count of requests with the longest
 days active for that template and role.
 
-Click a bar to open the *[All Requests](../Page_Desc/All_Requests.htm)*
+Click a bar to open the *[All Requests](../Page_Desc/All_Requests)*
 page to view details about the requests for the template role.
 
 Refer to [View Dashboards in
-dspCompose™](View_Dashboards_in_dspCompose.htm) for information about
+dspCompose™](View_Dashboards_in_dspCompose) for information about
 chart features and the data that displays on charts.
 
 To access this chart in dspCompose™:

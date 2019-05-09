@@ -12,7 +12,7 @@ To create a secure key:
 2.  Click **Add<span style="font-weight: normal;">.</span>**
     
     [View the field descriptions for the Keys
-    page](../Page_Desc/Keys.htm)
+    page](../Page_Desc/Keys)
 
 3.  Enter a value in **KEYIDENTIFIER** field.
     
@@ -30,7 +30,7 @@ To create a secure key:
     and stored in the table, but is not visible on the web page. Once
     created, the password cannot be modified. Refer to
     [Forgotten/Incorrect
-    Passwords](Forgotten_Incorrect_Encryption%20Passwords.htm) for more
+    Passwords](Forgotten_Incorrect_Encryption%20Passwords) for more
     information.
 
 5.  Update <span style="font-weight: bold;">KEY ALGORITHM</span> list

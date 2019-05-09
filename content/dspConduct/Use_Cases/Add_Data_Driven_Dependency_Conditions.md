@@ -8,20 +8,20 @@ solution = 'Master Data Management'
 A data-driven dependency condition identifies a condition within a field
 when processing a scenario that determines whether a subsequent
 dependent scenario or role is processed or if a workflow notification is
-sent. Refer to [Add a Dependent Scenario](Add_a_Dependent_Scenario.htm)
+sent. Refer to [Add a Dependent Scenario](Add_a_Dependent_Scenario)
 for more information.
 
 Before performing this task, [Design a Governance
-Hierarchy](dspConduct_Design_Process_Overview.htm).
+Hierarchy](dspConduct_Design_Process_Overview).
 
 Once conditions are added to the category, the Designer assigns
 conditions to a scenario dependency relationship.
 
 Conditions can also be assigned to roles. Refer to [Assign a Condition
 to a Role Dependency
-Relationship](Role_Dependencies.htm#Assign_a_Condition_to_a_Role_Dependency_Relationship)
+Relationship](Role_Dependencies#Assign_a_Condition_to_a_Role_Dependency_Relationship)
 and [Add Dependencies to
-Roles](Role_Dependencies.htm#Add_Dependencies_to_Roles) for more
+Roles](Role_Dependencies#Add_Dependencies_to_Roles) for more
 information.
 
 This topic contains the following sections:
@@ -66,7 +66,7 @@ To add data-driven dependency conditions to a category in dspConduct™:
 3.  Click **Edit**.
     
     [View the field descriptions for the Category page's Vertical
-    View.](../Page_Desc/Category_H.htm#Category_V)
+    View.](../Page_Desc/Category_H#Category_V)
 
 4.  Select the data source for the condition table in the **Condition
     Table Datasource Id** list box.
@@ -81,7 +81,7 @@ To add data-driven dependency conditions to a category in dspConduct™:
     **Add**.
     
     *[View the field descriptions for the Conditions
-    page.](../Page_Desc/Conditions.htm)*
+    page.](../Page_Desc/Conditions)*
 
 2.  Select the table name for the condition from the **TABLE NAME** list
     box.
@@ -102,10 +102,10 @@ To add data-driven dependency conditions to a category in dspConduct™:
 A Designer can view the scenarios or roles that use data-driven
 dependency conditions at the category level.
 
-Before performing this task, [Create a Category](Create_a_Category.htm),
+Before performing this task, [Create a Category](Create_a_Category),
 [Add Data-Driven Dependency Conditions](#) and [Assign a Condition to a
 Scenario Dependency
-Relationship](Assign_a_Condition_to_a_Scenario_Dependency_Relationship.htm).
+Relationship](Assign_a_Condition_to_a_Scenario_Dependency_Relationship).
 
 To view the dependency relationships for a data-driven dependency
 condition in dspConduct™:
@@ -117,7 +117,7 @@ condition in dspConduct™:
 4.  Click the **SCENARIO DEPENDENCIES** or **ROLE DEPENDENCIES** icon.
 
 *[View the field descriptions for the Scenario Dependency Condition
-page.](../Page_Desc/Scenario_Dependency_Condition.htm)*
+page.](../Page_Desc/Scenario_Dependency_Condition)*
 
 *[View the field descriptions for the Role Dependency Condition
-page.](../Page_Desc/Role_Dependency_Condition.htm)*
+page.](../Page_Desc/Role_Dependency_Condition)*

@@ -7,9 +7,9 @@ solution = 'Platform'
 
 Before completing this task, an Administrator:
 
-  - [Creates a User Account in Common](Create_a_User.htm)
+  - [Creates a User Account in Common](Create_a_User)
   - [Send a Temporary Password for a New
-    User](Send_a_Temporary_Password_to_a_User.htm)
+    User](Send_a_Temporary_Password_to_a_User)
 
 An Administrator then assigns a user to a security role. A role is a
 single unit used to authorize specified security (such as access to
@@ -25,7 +25,7 @@ To assign a user to a security role:
     
     **NOTE:** All the security roles for the selected user display on
     the <span style="font-style: italic;">[User
-    Role](../Page_Desc/User_Role.htm)</span> page.
+    Role](../Page_Desc/User_Role)</span> page.
 
 4.  Select the **ROLE ID** to assign to the user.
     

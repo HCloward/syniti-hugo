@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Add a Variant to a
-Task](../Use_Cases/Add_a_Variant_to_a_Task.htm).
+Task](../Use_Cases/Add_a_Variant_to_a_Task).
 
 </div>
 

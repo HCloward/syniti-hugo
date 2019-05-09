@@ -41,4 +41,4 @@ sorted together based on priority, but all are placed below those items
 with Active, Comment and Development status.
 
 *[View the field descriptions for the Status (Setup)
-page](../Page_Desc/Status_Setup.htm)*
+page](../Page_Desc/Status_Setup)*

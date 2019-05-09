@@ -13,7 +13,7 @@ Templates can be reused for multiple requests.
 A user can also create a custom template or base a dspCompose™ template
 on an Integrate template.
 
-Refer to [Create Templates](Create_Templates.htm) for more information.
+Refer to [Create Templates](Create_Templates) for more information.
 
 Once a template is created, it requires additional configuration by the
 Template Administrator.
@@ -28,36 +28,36 @@ customizations from being overwritten during any upgrades.
 
 To configure a template, the template must be inactive or must be in
 Developer Mode. Refer to [Modify an Active Template in Developer
-Mode](Modify_an_Active_Template_in_Developer_Mode.htm) for more
+Mode](Modify_an_Active_Template_in_Developer_Mode) for more
 information.
 
 To configure a template the following options are available:
 
   - [Add and Configure Template
-    Roles](Add_and_Configure_Template_Roles.htm)
+    Roles](Add_and_Configure_Template_Roles)
   - [Configure Columns for File Generation and Data
-    Entry](Configure_Columns_for_File_Generation.htm)
+    Entry](Configure_Columns_for_File_Generation)
   - [Add Org Units to
-    Templates](Set_up_Org_Units.htm#Add_Org_Units_to_a_Template)
-  - [Link a Template to a Page](Link_a_Template_to_a_Page.htm)
-  - [Add Users to Templates](Add_Users_to_Templates.htm)
-  - [Set Validation Threshold](Set_Validation_Threshold.htm)
-  - [Configure Retention Parameters](Configure_Retention_Parameters.htm)
+    Templates](Set_up_Org_Units#Add_Org_Units_to_a_Template)
+  - [Link a Template to a Page](Link_a_Template_to_a_Page)
+  - [Add Users to Templates](Add_Users_to_Templates)
+  - [Set Validation Threshold](Set_Validation_Threshold)
+  - [Configure Retention Parameters](Configure_Retention_Parameters)
   - [Assign Default Data Source and
-    Views](Assign_Default_Data_Source_and_Views.htm)
+    Views](Assign_Default_Data_Source_and_Views)
   - [Add a Data Source that Stores Views for
-    Import](Add_a_Data_Source_that_Stores_Views_for_Import.htm)
+    Import](Add_a_Data_Source_that_Stores_Views_for_Import)
   - [Add a Rule to a Template Role
-    Event](Add_a_Rule_to_a_Template_Role_Event.htm)
+    Event](Add_a_Rule_to_a_Template_Role_Event)
   - [Register Rules to Template-level
-    Events](Register_Rules_to_Template%20level_Events.htm)
+    Events](Register_Rules_to_Template%20level_Events)
   - [Set Tables to Store Posting
-    Feedback](Set_Tables_to_Store_Posting_Feedback.htm)
-  - [Set Force Reject Severity](Set_Force_Reject_Severity.htm)
+    Feedback](Set_Tables_to_Store_Posting_Feedback)
+  - [Set Force Reject Severity](Set_Force_Reject_Severity)
   - [Register Tables for Download as a Finish
-    Process](Register_Tables_to_Download_as_a_Finish_Process_Using_Collect.htm)
+    Process](Register_Tables_to_Download_as_a_Finish_Process_Using_Collect)
   - [Register Tables for Download through Data
-    Services](Register_Tables_for_Download_through_Data_Services.htm)
-  - [Activate the Template](Activate_the_Template.htm)
+    Services](Register_Tables_for_Download_through_Data_Services)
+  - [Activate the Template](Activate_the_Template)
   - [Modify an Active Template in Developer
-    Mode](Modify_an_Active_Template_in_Developer_Mode.htm)
+    Mode](Modify_an_Active_Template_in_Developer_Mode)

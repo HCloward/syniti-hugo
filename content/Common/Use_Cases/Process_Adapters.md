@@ -7,7 +7,7 @@ solution = 'Platform'
 
 The <span style="font-style: italic;">[Process Adapters](#)</span> and
 <span style="font-style: italic;">[Process Adapter
-Properties](../Page_Desc/Process_Adapter_Properties.htm)</span> pages
+Properties](../Page_Desc/Process_Adapter_Properties)</span> pages
 are used for
 
   - AutoGen by users with Administrator access and
@@ -15,7 +15,7 @@ are used for
 
 The entries on these pages are only created programmatically when
 setting up a Data Services entry in the *[Data Source
-Registry](../Page_Desc/Data_Source_Registry_H.htm)* page.
+Registry](../Page_Desc/Data_Source_Registry_H)* page.
 
 A process adapter cannot be deleted but the properties can be edited.
 
@@ -54,7 +54,7 @@ To edit the process adapter entries:
 2.  Click **Edit** in the *Process Adapter* page.
     
     [View the field descriptions for the Process Adapters
-    page](../Page_Desc/Process_Adapter.htm)
+    page](../Page_Desc/Process_Adapter)
     
     **NOTE:** The only field that is editable is the **MAX INSTANCE
     COUNT** field.
@@ -77,7 +77,7 @@ To edit the process adapter properties:
 2.  Click **Edit** in the *Process Adapter Properties* page.
     
     *[View the field descriptions for the Process Adapter Properties
-    page](../Page_Desc/Process_Adapter_Properties.htm)*
+    page](../Page_Desc/Process_Adapter_Properties)*
     
     **NOTE:** The only fields that are editable are the **VALUE** and
     **DESCRIPTION** fields.
@@ -87,7 +87,7 @@ To edit the process adapter properties:
     **NOTE:** The value or text entered in the **VALUE** field is
     dependent on the value in the **PROPERTY NAME** field. Refer to the
     *[Process Adapter
-    Properties](../Page_Desc/Process_Adapter_Properties.htm)* page for
+    Properties](../Page_Desc/Process_Adapter_Properties)* page for
     more information.
 
 4.  Enter the **DESCRIPTION** for the property.

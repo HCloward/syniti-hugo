@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Add Templates to a
-Process](../Use_Cases/Add_Templates_to_a_Process.htm).
+Process](../Use_Cases/Add_Templates_to_a_Process).
 
 </div>
 
@@ -37,32 +37,32 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Allowed Connections</p></td>
-<td><p>Click to open the <a href="Process_Template_Connections.htm">Process Template Connections</a> page to modify the connections for the process template.</p>
+<td><p>Click to open the <a href="Process_Template_Connections">Process Template Connections</a> page to modify the connections for the process template.</p>
 <p>The count on the icon is the number of connections that exist for the selected process template.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Loops</p></td>
-<td><p>Click to open the<a href="Process_Template_Loop.htm"><em>Process Template Loop</em></a> page to view and edit the loops in this process template. The number is the total number of loops in the template process  whether the loops are included or not.</p></td>
+<td><p>Click to open the<a href="Process_Template_Loop"><em>Process Template Loop</em></a> page to view and edit the loops in this process template. The number is the total number of loops in the template process  whether the loops are included or not.</p></td>
 </tr>
 <tr class="even">
 <td><p>After Post Rules</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="../../../Master_Data_Mgmt/dspConduct/Page_Desc/Process_Templates_After_Post_Rules_H.htm">Process Templates: After Post Rules</a></span> page to register rules that run after the selected process template finishes posting.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="../../../Master_Data_Mgmt/dspConduct/Page_Desc/Process_Templates_After_Post_Rules_H">Process Templates: After Post Rules</a></span> page to register rules that run after the selected process template finishes posting.</p></td>
 </tr>
 </tbody>
 </table>
 
 ## <span id="Process_Templates_V"></span>Process Templates V
 
-[Process Templates H](Process_Templates_H.htm)
+[Process Templates H](Process_Templates_H)
 
 <div class="use">
 
 Use this page to:
 
   - [Configure Process Template Loops for an XML
-    Template](../Use_Cases/ConfigureProcessTemplateLoopsXML.htm)
+    Template](../Use_Cases/ConfigureProcessTemplateLoopsXML)
   - [Configure Process Template Loops for a Delimited or User Defined
-    Template](../Use_Cases/ConfigureProcessTemplateLoopsDelimited.htm)
+    Template](../Use_Cases/ConfigureProcessTemplateLoopsDelimited)
 
 </div>
 
@@ -110,4 +110,4 @@ string.
 |                       |                                                                                                                                                                                                                                                                                                                                                                                                          |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Field                 | Description                                                                                                                                                                                                                                                                                                                                                                                              |
-| Copy Process Template | <span style="font-size: 11.0pt;line-height: 107%;font-family: Calibri, sans-serif;">Click to open the </span><span style="font-size: 11.0pt;line-height: 107%;font-family: Calibri, sans-serif;font-style: italic;">[Copy](Copy.htm)</span><span style="font-size: 11.0pt;line-height: 107%;font-family: Calibri, sans-serif;"> page to create a process template based on this process template.</span> |
+| Copy Process Template | <span style="font-size: 11.0pt;line-height: 107%;font-family: Calibri, sans-serif;">Click to open the </span><span style="font-size: 11.0pt;line-height: 107%;font-family: Calibri, sans-serif;font-style: italic;">[Copy](Copy)</span><span style="font-size: 11.0pt;line-height: 107%;font-family: Calibri, sans-serif;"> page to create a process template based on this process template.</span> |

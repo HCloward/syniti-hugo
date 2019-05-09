@@ -10,7 +10,7 @@ An existing calendar can be used as the basis for a new calendar.
 A copied calendar copies the work days, work hours, and exceptions.
 
 Calendars are used in the dspTrack™ and dspConduct™ components. Refer to
-[Use a Calendar](Use_a_Calendar.htm) for more information.
+[Use a Calendar](Use_a_Calendar) for more information.
 
 **NOTE**:  A calendar’s users are not copied.
 
@@ -25,7 +25,7 @@ To copy a calendar:
 4.  Click **Edit**.
     
     [View the field descriptions for the Copy Calendar
-    page.](../Page_Desc/Copy_Calendar.htm)
+    page.](../Page_Desc/Copy_Calendar)
 
 5.  Enter the unique name of the new calendar in the **New Name** field.
 
@@ -38,5 +38,5 @@ To copy a calendar:
 
 9.  Click **Ok**.
 
-10. Refresh the *[Calendar](../Page_Desc/Calendar.htm)* page to view the
+10. Refresh the *[Calendar](../Page_Desc/Calendar)* page to view the
     new calendar.

@@ -12,7 +12,7 @@ Import Allowed check box must be enabled on the
 tab for the Data role. Access this check box via Teams \> Templates \>
 Roles \> Vertical View of the Data role. A data source must also be set
 for the Data role. Refer to [Add a Data Source that Stores Views for
-Import](Add_a_Data_Source_that_Stores_Views_for_Import.htm) for more
+Import](Add_a_Data_Source_that_Stores_Views_for_Import) for more
 information.  
 
 dspCompose™ accommodates complex posting workflows that have multiple
@@ -47,7 +47,7 @@ Import cannot be used to update data.
 
 **NOTE**: A user can set a default data source and view for the
 template. Refer to [Assign Default Data Source and
-Views](Assign_Default_Data_Source_and_Views.htm) for more information.
+Views](Assign_Default_Data_Source_and_Views) for more information.
 
 To import a view that contains the request data:
 
@@ -61,7 +61,7 @@ To import a view that contains the request data:
 4.  Click **Edit**.
     
     *[View the field descriptions for the Request Roles page’s Vertical
-    View.](../Page_Desc/Request_Roles_H.htm)*
+    View.](../Page_Desc/Request_Roles_H)*
 
 5.  Select an option from the **Data Source ID** list box.
     
@@ -69,7 +69,7 @@ To import a view that contains the request data:
     views that can be imported into the request. The data source must be
     added at the template-role level for the Data role. Refer to [Add a
     Data Source that Stores Views for
-    Import](Add_a_Data_Source_that_Stores_Views_for_Import.htm) for more
+    Import](Add_a_Data_Source_that_Stores_Views_for_Import) for more
     information.
 
 6.  Select an option from the **View** list box.
@@ -82,7 +82,7 @@ To import a view that contains the request data:
 8.  Click **ViewWhere Clause Builder**.
     
     *[View the field descriptions for the Request (Role View Filter)
-    page.](../Page_Desc/Request_Role_View_Filter.htm)*
+    page.](../Page_Desc/Request_Role_View_Filter)*
     
     **NOTE:** A Where clause is used for import only, and not when
     deleting records. If the user selects the **Delete Data Before

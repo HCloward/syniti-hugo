@@ -13,16 +13,16 @@ counts are for all Process Areas in the selected Wave.
 
 When the chart is accessed from the
 <span style="font-style: italic;">[Wave : Process
-Areas](../../Console/Page_Desc/Wave_Process_Areas.htm)</span> page in
+Areas](../../Console/Page_Desc/Wave_Process_Areas)</span> page in
 Console, counts display for the selected Process Area only.
 
 Hover a cursor over a section of a chart to view the count of mappings
 for that status.
 
 Click a bar to view the [Field Mapping Summary by Wave & Process
-Area](Field_Mapping_Summary_by_Wave_and_Process_Area.htm) chart.
+Area](Field_Mapping_Summary_by_Wave_and_Process_Area) chart.
 
-Refer to [View Dashboards in Map](View_Dashboards_in_Map.htm) for
+Refer to [View Dashboards in Map](View_Dashboards_in_Map) for
 general information about chart features.
 
 To access the chart in Console from the

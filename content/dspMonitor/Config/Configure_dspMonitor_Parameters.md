@@ -17,7 +17,7 @@ To configure dspMonitor™ parameters:
 2.  Click **Edit**.
     
     [View the field descriptions for the Parameters
-    page](../Page_Desc/Parameters.htm)
+    page](../Page_Desc/Parameters)
 
 3.  Update all fields if default values are not applicable.
 

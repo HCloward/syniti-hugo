@@ -12,12 +12,12 @@ must contain at least one scenario but can also contain many.
 
 To work with business processes:
 
-  - [Add a Business Process](Add_Business_Process.htm)
+  - [Add a Business Process](Add_Business_Process)
   - [Configure Business Value
-    Parameters](Configure_Business_Value_Parameters.htm)
+    Parameters](Configure_Business_Value_Parameters)
   - [Add a Scenario to a Business
-    Process](Add_a_Scenario_to_a_Business_Process.htm)
+    Process](Add_a_Scenario_to_a_Business_Process)
   - [View Business Process
-    Visualization](View_Business%20_Process_Visualization.htm)
-  - [Copy a Business Process](Copy_a_Business_Process.htm)
-  - [Deactivate a Business Process](Deactivate_Business_Process.htm)
+    Visualization](View_Business%20_Process_Visualization)
+  - [Copy a Business Process](Copy_a_Business_Process)
+  - [Deactivate a Business Process](Deactivate_Business_Process)

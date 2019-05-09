@@ -22,7 +22,7 @@ item will be queued as a background job as well.
 
 Users who have access to at least one context have access to Transform.
 Refer to [Grant Users Access to
-dspMigrate™](../dspMigrate/Set_Up_Security_for_dspMigrate.htm) for
+dspMigrate™](../dspMigrate/Set_Up_Security_for_dspMigrate) for
 more information.
 
 Before getting started with Transform, some settings may need to be
@@ -30,18 +30,18 @@ configured.
 
 Review the following steps and perform setup as needed.
 
-  - [Access Transform](Config/Access_Transform.htm)
-  - [Set up Data Sources](Config/Set_up_Data_Sources_for_Transform.htm)
-  - [Configure Parameters](Config/Configure_Parameters.htm)
+  - [Access Transform](Config/Access_Transform)
+  - [Set up Data Sources](Config/Set_up_Data_Sources_for_Transform)
+  - [Configure Parameters](Config/Configure_Parameters)
   - [Configure Import Export
-    Types](Config/Configure_Import_Export_Types.htm)
-  - [Configure Object Estimates](Config/Configure_Object_Estimates.htm)
-  - [Configure Sampling Methods](Config/Configure_Sampling_Methods.htm)
-  - [Configure Sample Size](Config/Configure_Sample_Size.htm)
+    Types](Config/Configure_Import_Export_Types)
+  - [Configure Object Estimates](Config/Configure_Object_Estimates)
+  - [Configure Sampling Methods](Config/Configure_Sampling_Methods)
+  - [Configure Sample Size](Config/Configure_Sample_Size)
   - [Configure Score Card
-    Limits](Config/Configure_Score_Card_Limits.htm)
+    Limits](Config/Configure_Score_Card_Limits)
   - [Configure Complexity
-    Values](Config/Configure_Complexity_Values.htm)
-  - [View Status](Config/View_Status.htm)
-  - [Configure Target Types](Config/Configure_Target_Types.htm)
-  - [Add Report Types](Config/Add_Report_Types.htm)
+    Values](Config/Configure_Complexity_Values)
+  - [View Status](Config/View_Status)
+  - [Configure Target Types](Config/Configure_Target_Types)
+  - [Add Report Types](Config/Add_Report_Types)

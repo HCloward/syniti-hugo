@@ -20,11 +20,11 @@ as an independent guide for posting that can be assigned to many
 processes.
 
 **NOTE**: A BDC Script template can also be created by copying a
-template. Refer to [Copy a Template](Copy_a_Template.htm) for more
+template. Refer to [Copy a Template](Copy_a_Template) for more
 information. Integrate allows the screens in a BDC Script template to be
 merged with another BDC Script template. Refer to [Merge or Copy BDC
 Screens to Another BDC Script
-Template](MergeCopyBDCScrnsAnotherBDCScript.htm) for more information.
+Template](MergeCopyBDCScrnsAnotherBDCScript) for more information.
 
 A process, a series of posting steps, defines how Integrate takes data
 from the platform and transfers it to SAP. Each posting step is a

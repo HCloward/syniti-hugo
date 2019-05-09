@@ -26,7 +26,7 @@ in an Excel spreadsheet to NULL and copy the data into the table.
 
 <span style="font-weight: bold;">NOTE</span>: Data can be posted using a
 multiple template process. Refer to [Post a Process with Multiple
-Templates](Post_a_Process_with_Multiple_Templates.htm) for more
+Templates](Post_a_Process_with_Multiple_Templates) for more
 information.
 
 <span style="font-weight: bold;">NOTE</span>: When posting data to a
@@ -37,7 +37,7 @@ posting with a multi-template process). When a process template that has
 an After Post Rule registered posts successfully, the data is passed to
 the next dependent process template as an input parameter. Refer to
 [Register After Post Rules to a Process
-Template](Register_After_Post_Rules_to_a_Process_Template_Overview.htm)
+Template](Register_After_Post_Rules_to_a_Process_Template_Overview)
 for more information.
 
 **NOTE**: A process must be active to add or edit a process post.
@@ -50,7 +50,7 @@ template:  
 2.  Click **Edit** for a process post; the *Vertical* View displays. 
     
     *[View the field descriptions for the Process Post page’s Vertical
-    View.](../Page_Desc/Process_Post_H.htm#Process_Post_V_All_Tabs)*
+    View.](../Page_Desc/Process_Post_H#Process_Post_V_All_Tabs)*
 
 3.  Enter a where clause to restrict the data set in **Where Clause**.
     
@@ -78,7 +78,7 @@ template:  
 9.  Enter a user name and password for SAP if needed.
     
     **NOTE**: Refer to .[Establish a Connection to a Target
-    System](../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview.htm)
+    System](../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview)
     for more information.
 
 10. Click **Save**.

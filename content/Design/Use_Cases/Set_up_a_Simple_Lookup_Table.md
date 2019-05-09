@@ -7,7 +7,7 @@ solution = 'Migration'
 
 A simple lookup table contains one key.
 
-Refer to [Set up Lookup Tables](Set_up_Lookup_Tables.htm) for more
+Refer to [Set up Lookup Tables](Set_up_Lookup_Tables) for more
 information.
 
 A lookup table that already exists can be edited or a lookup table can
@@ -22,7 +22,7 @@ table, the Value Mapping process will concatenate Target values from the
 multiple key fields into a single field. To map fields on a multiple key
 lookup table, use the RuleXref action for the field to be mapped on the
 <span style="font-style: italic;">[Field
-Mappings](../../Map/Page_Desc/Field_Mappings_H.htm)</span> page.
+Mappings](../../Map/Page_Desc/Field_Mappings_H)</span> page.
 RuleXref concatenates Source values and is the recommended Migration
 Solution process to load the values correctly into the Value Mapping
 process.
@@ -30,7 +30,7 @@ process.
 <span style="font-weight: bold;">NOTE</span>: A description for the
 Lookup Table Value table can be added on the
 <span style="font-style: italic;">[Target Lookup
-Table](../Page_Desc/Target_Lookup_Table_H.htm)</span> page's
+Table](../Page_Desc/Target_Lookup_Table_H)</span> page's
 <span style="font-style: italic;">Vertical</span> View in the
 Description field.
 
@@ -42,7 +42,7 @@ To add or edit a simple lookup table in Target Design:
 2.  Click **Edit** or **Add**
     
     .*[View the field descriptions for the Target Lookup Table
-    page.](../Page_Desc/Target_Lookup_Table_H.htm)*
+    page.](../Page_Desc/Target_Lookup_Table_H)*
 
 3.  Enter the name of the table that contains the values that are used
     in value mapping in the **VALUE** **TABLE NAME** field.
@@ -61,7 +61,7 @@ To add or edit a simple lookup table in Target Design:
     
     **NOTE**: This field displays in Map on the *Vertical* View of the
     *[Value Mapping
-    (Config)](../../Map/Page_Desc/Value_Mapping_Config_H.htm)* page.
+    (Config)](../../Map/Page_Desc/Value_Mapping_Config_H)* page.
 
 7.  Enter the name of the column that stores the descriptions for the
     values in the value table in the **DESCRIPTION TABLE COLUMN** field.

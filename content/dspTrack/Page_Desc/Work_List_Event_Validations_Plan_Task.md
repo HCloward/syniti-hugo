@@ -11,7 +11,7 @@ V](#Work_List_Event_Validations_-_Plan_Task_V)
 <div class="use">
 
 Use this page to register [Work List Event Validations to Plan
-Tasks.](../Use_Cases/Register_WorkList_Event_Validations_Plan_Task.htm)
+Tasks.](../Use_Cases/Register_WorkList_Event_Validations_Plan_Task)
 
 </div>
 
@@ -41,7 +41,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>TAG ID</p></td>
-<td><p>Displays the name of the tag used by the task to assign the validation.  Refer to <a href="../Use_Cases/Configure_Logic_Tags.htm">Configure Logic Tags</a> for more information.</p>
+<td><p>Displays the name of the tag used by the task to assign the validation.  Refer to <a href="../Use_Cases/Configure_Logic_Tags">Configure Logic Tags</a> for more information.</p>
 <p><strong>NOTE:</strong> If the validation is assigned directly to a Task or Plan (without using a tag), then this field is empty.</p></td>
 </tr>
 <tr class="odd">
@@ -82,7 +82,7 @@ To access this page:
 <div class="use">
 
 Use this page to register [Work List Event Validations to Plan
-Tasks.](../Use_Cases/Register_WorkList_Event_Validations_Plan_Task.htm)
+Tasks.](../Use_Cases/Register_WorkList_Event_Validations_Plan_Task)
 
 </div>
 
@@ -104,7 +104,7 @@ Tasks.](../Use_Cases/Register_WorkList_Event_Validations_Plan_Task.htm)
 </tr>
 <tr class="even">
 <td><p>Tag ID</p></td>
-<td><p>Displays the name of the tag used by the task to assign the validation.  Refer to <a href="../Use_Cases/Configure_Logic_Tags.htm">Configure Logic Tags</a> for more information.</p>
+<td><p>Displays the name of the tag used by the task to assign the validation.  Refer to <a href="../Use_Cases/Configure_Logic_Tags">Configure Logic Tags</a> for more information.</p>
 <p><strong>NOTE:</strong> If the validation is assigned directly to a Task or Plan (without using a tag), then this field is empty.</p></td>
 </tr>
 <tr class="odd">

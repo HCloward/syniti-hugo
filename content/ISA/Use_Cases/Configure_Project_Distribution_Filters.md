@@ -31,7 +31,7 @@ To define a filter for a project distribution:
     Add.
     
     *[View the field descriptions for the Project Distribution Filters
-    page](../Page_Desc/Project_Distribution_Filters.htm)*
+    page](../Page_Desc/Project_Distribution_Filters)*
 
 5.  Enter a filter field in **FIELD** field.
     

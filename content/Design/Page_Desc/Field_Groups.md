@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Create Field
-Groups](../Use_Cases/Create_Field_Groups.htm).
+Groups](../Use_Cases/Create_Field_Groups).
 
 </div>
 
@@ -32,7 +32,7 @@ To access this page:
 <td><p>FIELD GROUP</p></td>
 <td><p>Displays the name of the field group filter used to organize fields into subsets so that different rules, criticality levels, requirements settings and documentation can be set for these subsets based on values in related fields. Target Design is delivered with a default field group (*) .</p>
 <p>The default field group cannot be updated or deleted.</p>
-<p>Once added, the FIELD GROUP is an option on the <span style="font-style: italic;"><a href="Object_Field_Groups.htm">Object Field Groups</a></span> page in the Field Group ID list box.</p>
+<p>Once added, the FIELD GROUP is an option on the <span style="font-style: italic;"><a href="Object_Field_Groups">Object Field Groups</a></span> page in the Field Group ID list box.</p>
 <p><strong>NOTE</strong>: Naming each field group after the filter value it is based on is a good practice.</p></td>
 </tr>
 <tr class="odd">
@@ -59,7 +59,7 @@ To access this page:
 <td><p>RULE PRIORITY OFFSET</p></td>
 <td><p>Displays a number (<span>always negative) that is subtracted from the rule’s priority to set the order the rule is run.</span></p>
 <p>The default field group (*) displays 0. This feature cannot be used for the default field group.</p>
-<p>Refer to <a href="../Use_Cases/Set_Rule_Priority_for_Fields_in_Field_Groups.htm">Set Rule Priority for Fields in Field Groups</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Set_Rule_Priority_for_Fields_in_Field_Groups">Set Rule Priority for Fields in Field Groups</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>DSP SUPPLIED</p></td>

@@ -10,7 +10,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [View Request Changes as the Review
-Role](../Use_Cases/Review_Request_Changes.htm#View_Request_Changes_as_the_Review_Role).
+Role](../Use_Cases/Review_Request_Changes#View_Request_Changes_as_the_Review_Role).
 
 </div>
 
@@ -37,7 +37,7 @@ To access this page:
 <tr class="odd">
 <td><p>KEY TO RECORD</p></td>
 <td><p>Displays the key values of the record. Each key value is separated by the pipe character ( | ).</p>
-<p><strong>NOTE:</strong> This field displays if the Primary Key check box is checked on the <em><a href="Audit_Table_Column_Registration.htm">Audit Table Column Registration</a></em> page.</p></td>
+<p><strong>NOTE:</strong> This field displays if the Primary Key check box is checked on the <em><a href="Audit_Table_Column_Registration">Audit Table Column Registration</a></em> page.</p></td>
 </tr>
 <tr class="even">
 <td><p>TABLE NAME</p></td>

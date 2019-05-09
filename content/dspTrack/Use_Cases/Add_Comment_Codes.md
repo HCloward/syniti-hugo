@@ -20,7 +20,7 @@ To add a comment code:
 2.  Click **Add**.
     
     [View the field descriptions for the Comment Codes
-    page](../Page_Desc/Comment_Codes.htm)
+    page](../Page_Desc/Comment_Codes)
 
 3.  Enter the code name in **CODE NAME** field.
     

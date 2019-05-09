@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [View History of an
-Interface](../Use_Cases/View_History_of_an_Interface.htm).
+Interface](../Use_Cases/View_History_of_an_Interface).
 
 </div>
 

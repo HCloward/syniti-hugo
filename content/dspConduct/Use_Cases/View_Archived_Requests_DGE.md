@@ -17,7 +17,7 @@ Requests are archived when:
 
 A request remains in a request status longer than the number of days set
 on the <span style="font-style: italic;">[Category Request
-Status](../Page_Desc/Category_Request_Status.htm)</span> page
+Status](../Page_Desc/Category_Request_Status)</span> page
 
 An event runs in the Content WebApp that archives the request
 
@@ -29,29 +29,29 @@ Request-related table data.
 
 Use the following pages, accessed for a request on the
 <span style="font-style: italic;">[Archived
-Request](../Page_Desc/Archived_Requests.htm)</span> page, to view
+Request](../Page_Desc/Archived_Requests)</span> page, to view
 details.
 
-  - [Archived Request Roles](../Page_Desc/Archived_Request_Roles.htm)
+  - [Archived Request Roles](../Page_Desc/Archived_Request_Roles)
     page displays roles assigned to the archived request.
   - [Archived Request Role
-    Task](../Page_Desc/Archived_Request_Role_Task.htm) page displays the
+    Task](../Page_Desc/Archived_Request_Role_Task) page displays the
     tasks assigned to a role for the selected archived request.
   - [Archived Request Role
-    Log](../Page_Desc/Archived_Request_Role_Log.htm) page displays log
+    Log](../Page_Desc/Archived_Request_Role_Log) page displays log
     records that detail when Request/Request Role activities occurred,
     such as whether a request was ever reset or rejected, or the date a
     role was finished.
   - [Archived Request Post
-    Process](../Page_Desc/Archived_Request_Post_Process.htm) page
+    Process](../Page_Desc/Archived_Request_Post_Process) page
     displays the Integrate process(es) assigned to the archived request
     at the scenario level.
   - [Archived Request Post
-    Message](../Page_Desc/Archived_Request_Post_Message.htm) page
+    Message](../Page_Desc/Archived_Request_Post_Message) page
     displays the posting message returned for each record from the
     target system.
   - [Archived Finish Download
-    Messages](../Page_Desc/Archived_Finish_Download_Messages.htm)
+    Messages](../Page_Desc/Archived_Finish_Download_Messages)
     displays every action that took place during the Post role’s Final
     Finish download for the archived request.
 
@@ -59,5 +59,5 @@ details.
 
   - If an active request had SLA details, the
     <span style="font-style: italic;">[Archived Request Role
-    SLA](../Page_Desc/Archived_Request_Role_SLA.htm)</span> page
+    SLA](../Page_Desc/Archived_Request_Role_SLA)</span> page
     displays the SLA details once the request is archived.

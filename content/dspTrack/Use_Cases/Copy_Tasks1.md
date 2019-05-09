@@ -16,7 +16,7 @@ copied:
 
 <span style="font-weight: bold;">NOTE</span>: A Plan Task cannot be
 copied to a Plan that is active. Refer to [Activate and Deactivate a
-Plan](Activate_and_Deactivate_a_Plan.htm) for more information.
+Plan](Activate_and_Deactivate_a_Plan) for more information.
 
 To copy a task:
 
@@ -37,7 +37,7 @@ To copy a task:
 7.  Click **Edit**.
     
     [View the field descriptions for the Copy Plan Task
-    page](Copy_Plan_Task.htm)
+    page](Copy_Plan_Task)
 
 8.  Enter a suffix in the **Task Copy Suffix** field if the names of all
     copied tasks should have a suffix.

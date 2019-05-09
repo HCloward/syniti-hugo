@@ -15,13 +15,13 @@ the request.
 <span style="font-weight: bold;">NOTE</span>: If the custom page should
 allow a user to perform a mass change, refer to [Add a Mass Change
 Custom Link to a Custom
-Page](Add_a_Mass_Change_Custom_Link_to_a_Custom_Page.htm) for more
+Page](Add_a_Mass_Change_Custom_Link_to_a_Custom_Page) for more
 information.
 
 **NOTE**: To add a custom page to a role at the template level, the
 template must not be active or must be in Developer Mode. Refer to
 [Modify an Active Template in Developer
-Mode](Modify_an_Active_Template_in_Developer_Mode.htm) for more
+Mode](Modify_an_Active_Template_in_Developer_Mode) for more
 information.
 
 **NOTE**: dspCompose™ does not apply a Review filter set for a Review
@@ -46,7 +46,7 @@ To assign a custom page to a template role:
     
     *[View the field descriptions for the Template (Role) page’s
     Vertical
-    View.](../Page_Desc/Template_Role_H.htm#Template_Role_V_All_Tabs)*
+    View.](../Page_Desc/Template_Role_H#Template_Role_V_All_Tabs)*
 
 8.  Select a component in the **WebApp ID** list box that contains the
     custom page.

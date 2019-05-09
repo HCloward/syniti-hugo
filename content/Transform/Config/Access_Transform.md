@@ -10,7 +10,7 @@ Transform is accessible through dspMigrate™ Advanced Data Migration
 *Navigation* pane.
 
 Refer to[Context, the Context Bar, and
-Navigation](../../dspMigrate/Context_Navigation.htm) for more
+Navigation](../../dspMigrate/Context_Navigation) for more
 information.
 
 To access Transform:

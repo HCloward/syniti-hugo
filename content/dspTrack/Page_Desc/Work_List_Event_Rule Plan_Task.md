@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Register Work List Event Rules to a Plan
-Task](../Use_Cases/Register_Work_List_Event_Rules_for_a_Plan_Task.htm).
+Task](../Use_Cases/Register_Work_List_Event_Rules_for_a_Plan_Task).
 
 </div>
 
@@ -47,7 +47,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>TAG ID</p></td>
-<td><p>Displays the name of the tag to which the rule is assigned if it was added to the task using a tag. Refer to <a href="../Use_Cases/Configure_Logic_Tags.htm">Configure Logic Tags</a> for more information.</p>
+<td><p>Displays the name of the tag to which the rule is assigned if it was added to the task using a tag. Refer to <a href="../Use_Cases/Configure_Logic_Tags">Configure Logic Tags</a> for more information.</p>
 <p><strong>NOTE</strong>: If the rule is assigned directly to a Plan Task, Work List Item, or plan (without using a tag), then this field is blank.</p></td>
 </tr>
 <tr class="even">

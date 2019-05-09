@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Resolve Duplicate
-Candidates](../Use_Cases/Resolve_Duplicate_Candidates.htm).
+Candidates](../Use_Cases/Resolve_Duplicate_Candidates).
 
 </div>
 

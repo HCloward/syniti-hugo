@@ -33,14 +33,14 @@ Custom fields can be added to a template that uses loops. Loops must
 have been created before adding custom fields. The loop that contains
 the custom field is identified when adding the field. Refer to
 [Configure Process Template Loops for a BDC Script Template with Looping
-Enabled](ConfigureProcTempLoopsBDCLoopEn.htm) for more information.
+Enabled](ConfigureProcTempLoopsBDCLoopEn) for more information.
 
 <span style="font-weight: bold;">NOTE</span>: Custom fields cannot be
 added to active templates.
 
 Once a field has been added, a conditional can be applied to the field.
 Refer to [Configure a Conditional for a BDC
-Screen](ConfigureConditionalBDCScrn.htm) for more information.
+Screen](ConfigureConditionalBDCScrn) for more information.
 
 To add a custom field:
 
@@ -66,7 +66,7 @@ To add a custom field:
     be added to an active template.
     
     [View the field descriptions for the Custom Fields
-    page.](../Page_Desc/Custom_Fields.htm)
+    page.](../Page_Desc/Custom_Fields)
 
 7.  Enter the name of the custom field in the
     <span style="font-weight: bold;">NAME</span> field.

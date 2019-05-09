@@ -17,7 +17,7 @@ the Role Type of Data.
 
 **NOTE:** The data available to specific users for review can be
 controlled using Review filters. Refer to [Create Review
-Filters](Add_Users_to_Templates.htm#Create_Review_Filters) for more
+Filters](Add_Users_to_Templates#Create_Review_Filters) for more
 information.
 
 **NOTE:** Review filters only apply to dspCompose™-generated
@@ -27,7 +27,7 @@ then the Review filters do not apply to that page.
 **NOTE:** When the Data Entry role user clicks **Finish** for the role,
 the user assigned to the Review role for the request will receive an
 email if the **SEND WORKFLOW** check box is enabled for that user on the
-*[User](../Page_Desc/User_H.htm)* page. If multiple Data Entry roles
+*[User](../Page_Desc/User_H)* page. If multiple Data Entry roles
 exist for the template, the Review role will receive the notification
 when the final Data Entry role in the workflow clicks **Finish**.
 
@@ -63,7 +63,7 @@ To review the request data:
     
     **NOTE:** If the parameter **Allow Partial Approval** is enabled on
     the **Template** tab of the
-    *[Parameters](../Page_Desc/Parameters.htm)* page, the Review role
+    *[Parameters](../Page_Desc/Parameters)* page, the Review role
     can approve or reject each record separately. Refer to [Perform a
     Partial Approval](#Perform_a_Partial_Approval) for further
     information.
@@ -71,12 +71,12 @@ To review the request data:
     **NOTE**: If the **Use Comparison Approval Page** check box is
     enabled for the Template, the review page displays both the current
     target system’s values and the values changed. Refer to [Use
-    Comparison Approvals](Use_Comparison_Approvals.htm) for more
+    Comparison Approvals](Use_Comparison_Approvals) for more
     information.
 
 5.  Click Back button on the browser to return to the
     <span style="font-style: italic;">[<span style="font-style: italic;">Request
-    (Role)</span>](../Page_Desc/Request_Roles_H.htm)</span>page.
+    (Role)</span>](../Page_Desc/Request_Roles_H)</span>page.
 
 6.  Click **Approve** to confirm the data is correct. This process
     initiates the workflow email to users assigned to the Post role.
@@ -96,16 +96,16 @@ information remains and can be edited.
 
 **NOTE**: To target a role for request rejection from a Review role,
 refer to [Set Target Role for Request Rejections from a Review
-Role](Set_Target_Role_for_Request_Rejections.htm) for more information.
+Role](Set_Target_Role_for_Request_Rejections) for more information.
 
 **NOTE**: When the Review role user clicks **Reject** for any records on
 the request, the user assigned to the initial Data Entry role for the
 request will receive an email if the **SEND WORKFLOW** check box is
-enabled for that user on the *[User](../Page_Desc/User_H.htm)* page.
+enabled for that user on the *[User](../Page_Desc/User_H)* page.
 
 <span style="font-weight: bold;">NOTE</span>: If another role is
 specified on the *[*Template
-(Role)*](../Page_Desc/Template_Role_H.htm)*page *Vertical* View,
+(Role)*](../Page_Desc/Template_Role_H)*page *Vertical* View,
 **Approve and Finish Settings** tab, in the **Reject Role Target** list
 box, that role receives the email instead of the initial Data Entry
 role. <span>The Reject Role Target list box only displays when a user
@@ -113,7 +113,7 @@ clicks Vertical View on
 the</span><span style="font-style: italic;">Template
 (Role)</span><span>page for the Review Role.</span> Refer to [Set Target
 Role for Request
-Rejections](Set_Target_Role_for_Request_Rejections.htm) for more
+Rejections](Set_Target_Role_for_Request_Rejections) for more
 information.
 
 **NOTE**: If the request has Org Units assigned, dspCompose™ only sends
@@ -149,7 +149,7 @@ To reject a role:
 4.  Click **Edit**.
     
     *[View the field descriptions for the Reject
-    page.](../Page_Desc/Reject.htm)*
+    page.](../Page_Desc/Reject)*
 
 5.  Enter a justification for the role rejection in **REJECTION
     REASON**.
@@ -172,10 +172,10 @@ rejecting all of the records in the request.
 
 **NOTE**: To allow partial approval, select the *Vertical* View for the
 Review role on the *[*Template
-(Roles)*](../Page_Desc/Template_Role_H.htm)* page. On the **Approve and
+(Roles)*](../Page_Desc/Template_Role_H)* page. On the **Approve and
 Finish Settings** tab, click the **Allow Partial Approval** check box to
 enable it. To set this globally, on the
-*[Parameters](../Page_Desc/Parameters.htm)* page, on the **Template**
+*[Parameters](../Page_Desc/Parameters)* page, on the **Template**
 tab, click **Allow Partial Approval.**
 
 **NOTE**: If the request has Org Units assigned, dspCompose™ only sends
@@ -208,7 +208,7 @@ OR
 7.  Click **Edit**.
     
     *[View the field descriptions for the Reject
-    page.](../Page_Desc/Reject.htm)*
+    page.](../Page_Desc/Reject)*
 
 8.  Enter a justification for the role rejection in **REJECTION REASON**
     field.
@@ -238,7 +238,7 @@ page’s *Vertical* View on the **Approve and Finish Settings** tab for
 the Review role), that role is assigned the new request and the one that
 receives the email that the request is ready for processing. Refer to
 [Set Target Role for Request
-Rejections](Set_Target_Role_for_Request_Rejections.htm) for more
+Rejections](Set_Target_Role_for_Request_Rejections) for more
 information
 
 **NOTE:** If the original request had Org Unit values assigned, those

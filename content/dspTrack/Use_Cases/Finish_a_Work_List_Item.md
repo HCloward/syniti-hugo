@@ -15,7 +15,7 @@ the</span>*<span>Work List Detail</span>*<span>page only.</span>
 **NOTE**: A user may be required to add a comment to <span> </span>a
 Plan Task or Work List Item <span> </span>that is late to finish it.
 Refer to [Set Comment Requirements for
-Tasks](Set_Comment_Requirements_for_Tasks.htm) for more information.
+Tasks](Set_Comment_Requirements_for_Tasks) for more information.
 
 <span style="font-weight: bold;">NOTE:</span> Work on a task cannot
 finish if the task is in a status of Waiting on Dependency. In this
@@ -33,5 +33,5 @@ To finish a Plan Task or Work List Item:
 dspTrack™ removes the item from the Work List and updates the Actual
 Finish Date for the item.
 
-Refer to [Task Status](../Page_Desc/Task_Status1.htm) for more
+Refer to [Task Status](../Page_Desc/Task_Status1) for more
 information.

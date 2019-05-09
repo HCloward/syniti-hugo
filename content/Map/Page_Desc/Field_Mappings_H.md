@@ -11,17 +11,17 @@ solution = 'Migration'
 
 Use this page to:
 
-  - [Perform Field Mapping](../Use_Cases/Perform_Field_Mapping.htm)
+  - [Perform Field Mapping](../Use_Cases/Perform_Field_Mapping)
   - [Work with Target Sources that have Multi-part
-    Keys](../Use_Cases/Work_with_Sources_with_Multipart_Keys.htm)
+    Keys](../Use_Cases/Work_with_Sources_with_Multipart_Keys)
   - [Build a Remediation
-    Report](../Use_Cases/Build_a_Remediation_Report.htm)
+    Report](../Use_Cases/Build_a_Remediation_Report)
 
 </div>
 
 <span style="font-weight: bold;">NOTE:</span> Bulk Execution has been
 enabled on this page. Refer to [Use Bulk
-Execution](../../../Platform/Bulk_Exec/Use_Bulk_Execution.htm) for more
+Execution](../../../Platform/Bulk_Exec/Use_Bulk_Execution) for more
 information.
 
 To view all field mappings for the selected Target in Map:
@@ -31,7 +31,7 @@ To view all field mappings for the selected Target in Map:
 2.  Select <span style="font-weight: bold;">Map </span>in the Context
     bar.
 3.  Click the <span style="font-weight: bold;">Targets</span> icon on
-    the *[Process Area Launch](Process_Area_Launch_map.htm)* page.
+    the *[Process Area Launch](Process_Area_Launch_map)* page.
 4.  Click the <span style="font-weight: bold;">Mappings</span> icon for
     a Target.
 
@@ -65,7 +65,7 @@ To view all mappings for fields in a field group in Map:
 </tr>
 <tr class="even">
 <td><p>Submit</p></td>
-<td><p>Click to build a view and a stored procedure for the selected field mapping(s) in the object database. This process creates a record on the <em><a href="Mapping_Approval_H.htm">Mapping Approval</a></em> page for the Developer to review. The rule can then be registered in Transform.</p>
+<td><p>Click to build a view and a stored procedure for the selected field mapping(s) in the object database. This process creates a record on the <em><a href="Mapping_Approval_H">Mapping Approval</a></em> page for the Developer to review. The rule can then be registered in Transform.</p>
 <p>After the mapping has been created, the following fields  do not allow update:</p>
 <ul>
 <li>Action</li>
@@ -80,7 +80,7 @@ To view all mappings for fields in a field group in Map:
 </ul>
 <p><strong>NOTE:</strong> When a user clicks Reset, the Submitted By field, on the <em>Vertical</em> View of the <em><a href="#">Field Mappings</a></em> page is updated to display the user name of the user who clicked Reset. The Submitted On field, on the <em>Vertical</em> View of the <em>Field Mappings</em> page, is updated to reflect the date of the reset.</p>
 <ul>
-<li>The Developer clicks Revision Requested on the <em><a href="Mapping_Approval_H.htm">Mapping Approval</a></em> page</li>
+<li>The Developer clicks Revision Requested on the <em><a href="Mapping_Approval_H">Mapping Approval</a></em> page</li>
 </ul>
 <p>Once the fields allow update, the user can edit them, then click Save and click Submit. This updated mapping is sent to the Developer for review on the <span style="font-style: italic;">Mapping Approval</span> page.</p></td>
 </tr>
@@ -93,7 +93,7 @@ To view all mappings for fields in a field group in Map:
 <td><p>Reset</p></td>
 <td><p>Click to clear the Mapping Status and Rule Status for the selected field mapping(s). This process allows the mapper to remap the field(s).</p>
 <p><strong>NOTE:</strong> When a user clicks Reset, the Submitted By field, on the <em>Vertical</em> View of the <em>Field Mappings</em> page, is updated to display the user name of the user who clicked Reset. The <span>Submitted</span> On field, on the <em>Vertical</em> View of the <em>Field Mappings</em> page, is updated to reflect the date of the reset.</p>
-<p><strong>NOTE:</strong> The Reset Field Mapping parameter set in Console on the <em><a href="../../Console/Page_Desc/Parameters.htm">Parameters</a></em> page controls how a mapping is updated when it is reset.</p>
+<p><strong>NOTE:</strong> The Reset Field Mapping parameter set in Console on the <em><a href="../../Console/Page_Desc/Parameters">Parameters</a></em> page controls how a mapping is updated when it is reset.</p>
 <div>
 <p>Options are:</p>
 <ul>
@@ -116,15 +116,15 @@ To view all mappings for fields in a field group in Map:
 </tr>
 <tr class="odd">
 <td><p>Field Details</p></td>
-<td><p>Click to open the <em><a href="../../Design/Page_Desc/Target_Fields_H_Target_Design.htm">Target Fields</a></em> page in Target Design to view details about the selected field.</p></td>
+<td><p>Click to open the <em><a href="../../Design/Page_Desc/Target_Fields_H_Target_Design">Target Fields</a></em> page in Target Design to view details about the selected field.</p></td>
 </tr>
 <tr class="even">
 <td><p>History</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Field_Mapping_History.htm">Field Mapping History</a></span> page to view the history of the mapping for the selected field.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Field_Mapping_History">Field Mapping History</a></span> page to view the history of the mapping for the selected field.</p></td>
 </tr>
 <tr class="odd">
 <td><p>View all Waves Mappings</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Field_Mappings_by_Target_Field_All_Waves.htm">Field Mappings by Target Field (All Waves)</a></span> page to view a history of all mappings across all Waves and Process Areas (from System Types) for the selected field. A user can also copy a mapping to the selected Target or Source.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Field_Mappings_by_Target_Field_All_Waves">Field Mappings by Target Field (All Waves)</a></span> page to view a history of all mappings across all Waves and Process Areas (from System Types) for the selected field. A user can also copy a mapping to the selected Target or Source.</p></td>
 </tr>
 <tr class="even">
 <td><p>METRIC GROUP</p></td>
@@ -136,7 +136,7 @@ To view all mappings for fields in a field group in Map:
 </tr>
 <tr class="even">
 <td><p>FIELD PRIORITY</p></td>
-<td><p>Displays the order that fields should be mapped, and the order that fields display on the <span style="font-style: italic;">Field Mappings</span> page in Map. Field priority is set on the <span style="font-style: italic;"><a href="../../Design/Page_Desc/Target_Fields_H_Target_Design.htm">Target Fields</a></span> page in Target Design in the Field Order field.</p></td>
+<td><p>Displays the order that fields should be mapped, and the order that fields display on the <span style="font-style: italic;">Field Mappings</span> page in Map. Field priority is set on the <span style="font-style: italic;"><a href="../../Design/Page_Desc/Target_Fields_H_Target_Design">Target Fields</a></span> page in Target Design in the Field Order field.</p></td>
 </tr>
 <tr class="odd">
 <td><p>SOURCE DETAILS</p></td>
@@ -147,7 +147,7 @@ To view all mappings for fields in a field group in Map:
 </tr>
 <tr class="even">
 <td><p><span id="Mapping Actions" class="popUpLink">ACTION</span></p></td>
-<td><p>Displays action used to map field. Refer to <a href="../Use_Cases/Perform_Field_Mapping.htm#Select_an_Action">Select an Action</a> for more information.</p></td>
+<td><p>Displays action used to map field. Refer to <a href="../Use_Cases/Perform_Field_Mapping#Select_an_Action">Select an Action</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>LOOKUP</p></td>
@@ -173,7 +173,7 @@ To view all mappings for fields in a field group in Map:
 </tr>
 <tr class="even">
 <td><p>RULE SQL</p></td>
-<td><p>Displays the SQL for the rule entered on the <span style="font-style: italic;"><a href="Mapping_Approval_H.htm">Mapping Approval</a></span> page. A developer must enter SQL when rejecting a mapping that has a Manual, Rule or RuleXref action.</p></td>
+<td><p>Displays the SQL for the rule entered on the <span style="font-style: italic;"><a href="Mapping_Approval_H">Mapping Approval</a></span> page. A developer must enter SQL when rejecting a mapping that has a Manual, Rule or RuleXref action.</p></td>
 </tr>
 <tr class="odd">
 <td><p>MAPPING STATUS</p></td>
@@ -194,23 +194,23 @@ To view all mappings for fields in a field group in Map:
 <li>A green icon is Complete.</li>
 </ul>
 <p>Rule status is updated by the system and cannot be changed by the user in Map.</p>
-<p>Rule status can be updated in SQL AutoGen on the <a href="../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H.htm">Automation SQL Field Mappings</a> page. Refer to <a href="../../SQL_AutoGen/Use_Cases/Update_a_Rule_Status.htm">Update a Rule Status</a> for more information.  </p></td>
+<p>Rule status can be updated in SQL AutoGen on the <a href="../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H">Automation SQL Field Mappings</a> page. Refer to <a href="../../SQL_AutoGen/Use_Cases/Update_a_Rule_Status">Update a Rule Status</a> for more information.  </p></td>
 </tr>
 </tbody>
 </table>
 
 ## <span id="Field_Mappings_V"></span>Field Mappings V
 
-[Field Mappings H](Field_Mappings_H.htm)
+[Field Mappings H](Field_Mappings_H)
 
 <div class="use">
 
 Use this page to:
 
-  - [Perform Field Mapping](../Use_Cases/Perform_Field_Mapping.htm)
-  - When adding a [Rule](../Use_Cases/Rule.htm) action to a mapping
+  - [Perform Field Mapping](../Use_Cases/Perform_Field_Mapping)
+  - When adding a [Rule](../Use_Cases/Rule) action to a mapping
   - [Build a Remediation
-    Report](../Use_Cases/Build_a_Remediation_Report.htm)
+    Report](../Use_Cases/Build_a_Remediation_Report)
 
 </div>
 
@@ -241,9 +241,9 @@ Rule status is updated by the system and cannot be changed by the user
 in Map.
 
 Rule status can be updated in SQL AutoGen on the [Automation SQL Field
-Mappings](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H.htm)
+Mappings](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H)
 page. Refer to [Update a Rule
-Status](../../SQL_AutoGen/Use_Cases/Update_a_Rule_Status.htm)for more
+Status](../../SQL_AutoGen/Use_Cases/Update_a_Rule_Status)for more
 information.  
 
 Mapping
@@ -267,7 +267,7 @@ Source cannot be used as an External Source type. The External Source
 table must be registered as an Update Row first.
 
 Refer to [Add an External
-Source](../Use_Cases/Add_an_External_Source.htm) for more information.
+Source](../Use_Cases/Add_an_External_Source) for more information.
 
 Lookup
 
@@ -288,7 +288,7 @@ mapping is not joined to another.
 Source that is external is auto derived.
 
 Refer to [Add Relationship Joins to
-Sources](../Use_Cases/Add_Relationship_Joins_to_Source.htm) for more
+Sources](../Use_Cases/Add_Relationship_Joins_to_Source) for more
 information.
 
 Instruction
@@ -305,7 +305,7 @@ Rule Where Clause
 Displays the Where Clause used to filter the records to which a rule is
 applied. The clause must consist of a column name, an operator and a
 value. For example, Active = '1'. Refer to [Register Rules to
-Tables](../../../Platform/Collect/Use_Cases/Add_Rules_and_Indices_to_Tables.htm#Register_Rules_to_Tables)
+Tables](../../../Platform/Collect/Use_Cases/Add_Rules_and_Indices_to_Tables#Register_Rules_to_Tables)
 for more information.
 
 Remediation Value

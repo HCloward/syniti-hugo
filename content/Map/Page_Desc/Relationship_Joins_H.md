@@ -10,7 +10,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Add Relationship Joins to
-Sources.](../Use_Cases/Add_Relationship_Joins_to_Source.htm)
+Sources.](../Use_Cases/Add_Relationship_Joins_to_Source)
 
 </div>
 
@@ -21,7 +21,7 @@ To access this page:
 2.  Click <span style="font-weight: bold;">Map</span> in the Context
     bar.
 3.  Click the <span style="font-weight: bold;">Targets</span> icon on
-    the *[Process Area Launch](Process_Area_Launch_map.htm)* page.
+    the *[Process Area Launch](Process_Area_Launch_map)* page.
 4.  Click the <span style="font-weight: bold;">Sources</span> icon for a
     Target in the Parent pane.
 5.  Click the **Update Row Sources** icon for a Target Source in the
@@ -48,7 +48,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>SOURCE DATABASE OBJECT ID</p></td>
-<td><p>Displays the source object within the database, which may be different from the Source Rule table. This value is inherited from the Source Database Object field on the <em><a href="Target_Sources_H_Map.htm">Target Sources</a></em> page in Map.</p></td>
+<td><p>Displays the source object within the database, which may be different from the Source Rule table. This value is inherited from the Source Database Object field on the <em><a href="Target_Sources_H_Map">Target Sources</a></em> page in Map.</p></td>
 </tr>
 <tr class="odd">
 <td><p>JOIN SQL</p></td>
@@ -56,7 +56,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Fields</p></td>
-<td><p>Click to open the <em><a href="Relationship_Fields.htm">Relationship Fields</a></em> page to edit fields used in the relationship.</p></td>
+<td><p>Click to open the <em><a href="Relationship_Fields">Relationship Fields</a></em> page to edit fields used in the relationship.</p></td>
 </tr>
 </tbody>
 </table>
@@ -68,7 +68,7 @@ To access this page:
 <div class="use">
 
 Use this page to [Add Relationship Joins to
-Sources.](../Use_Cases/Add_Relationship_Joins_to_Source.htm)
+Sources.](../Use_Cases/Add_Relationship_Joins_to_Source)
 
 </div>
 

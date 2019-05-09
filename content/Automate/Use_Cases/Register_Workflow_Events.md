@@ -8,7 +8,7 @@ solution = 'Platform'
 Workflow events execute a pre-defined workflow view. The workflow view
 is selected from a list that contains all views found in the Automate
 Data Source selected when adding an interface on the
-*[Interfaces](../Page_Desc/Interfaces.htm)* page. Since simple workflow
+*[Interfaces](../Page_Desc/Interfaces)* page. Since simple workflow
 events are expected to execute quickly, the Retry Parameters are not
 necessary; WebApp events only try to execute once.
 
@@ -20,7 +20,7 @@ When creating the workflow view in the Data Source:
   - Include at least 2 fields: EmailToSubject and Body.
 
 Refer to [Workflow
-Overview](../../Sys_Admin/Use_Cases/Workflow_Views.htm) in System
+Overview](../../Sys_Admin/Use_Cases/Workflow_Views) in System
 Administration for more details about creating workflow views.
 
 The workflow event parameters uniquely define the record within the view
@@ -36,7 +36,7 @@ To register a workflow event in Automate:
 3.  Click **Add**.
     
     [View the field description for the Interface Events
-    page](../Page_Desc/Interface_Events.htm)
+    page](../Page_Desc/Interface_Events)
 
 4.  Enter a value in the **PRIORITY** field.
     
@@ -48,11 +48,11 @@ To register a workflow event in Automate:
 6.  Select a page ID from the **PAGE ID** list box configure where the
     event runs. This field displays a list of all WebApp pages that have
     public events defined. Refer to [About Automate
-    Events](About_Automate_Events.htm) for more information.
+    Events](About_Automate_Events) for more information.
 
 7.  Click the **LOOP** check box to enable it, indicating the event is
     intended to be processed multiple times based on input. Refer to
-    [Set Up a Looping Process](Set_up_a_Looping_Process.htm) for more
+    [Set Up a Looping Process](Set_up_a_Looping_Process) for more
     information.
 
 8.  Enter a descriptive comment in the **COMMENT** field.
@@ -63,7 +63,7 @@ To register a workflow event in Automate:
     the fields that display on the *Vertical* View.
     
     [View the field description for the Interface Events page’s Vertical
-    View](../Page_Desc/Interface_Events.htm#InterfaceEventsV)
+    View](../Page_Desc/Interface_Events#InterfaceEventsV)
 
 10. Select a Workflow event from the **Event** list box.
 
@@ -72,7 +72,7 @@ To register a workflow event in Automate:
     
     **NOTE:** The view is created in the Data Source assigned when the
     interface was created on the
-    *[Interfaces](../Page_Desc/Interfaces.htm)* page.
+    *[Interfaces](../Page_Desc/Interfaces)* page.
 
 12. Select the protocol for sending and receiving emails from the
     **Workflow Method** list box.
@@ -84,7 +84,7 @@ To register a workflow event in Automate:
     the To field of the workflow view) or semi-anonymous workflow (i.e.,
     the user is automatically signed into their account without entering
     credentials), leave Workflow User ID blank. Refer to [Workflow
-    Overview](../../Sys_Admin/Use_Cases/Workflow_Views.htm) in System
+    Overview](../../Sys_Admin/Use_Cases/Workflow_Views) in System
     Administration for more information.
 
 14. Enter a number in the **Workflow Expire Days** field. After the
@@ -125,7 +125,7 @@ To register a workflow event in Automate:
         
         **NOTE:** These fields must be added to the view and aliased
         correctly to be utilized in the workflow. Refer to [Create a
-        Workflow](../../WebApp_Dev/Create_a_Workflow.htm) in the System
+        Workflow](../../WebApp_Dev/Create_a_Workflow) in the System
         Administration help.
     
       - **Links –** Click to create links in the Workflow notification.

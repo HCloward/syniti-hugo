@@ -12,15 +12,15 @@ to this user.
 
 Before performing this task, the Template Administrator must add a
 template. Refer to [Create a BDC Script
-Template](../Use_Cases/Create_a_BDC_Script_Template.htm) and [Create a
-GUI Script Template](../Use_Cases/Create_a_GUI_Script_Template.htm) in
+Template](../Use_Cases/Create_a_BDC_Script_Template) and [Create a
+GUI Script Template](../Use_Cases/Create_a_GUI_Script_Template) in
 dspCompose™ or [Manage
-Templates](../../../Platform/Integrate/Use_Cases/Manage_Templates.htm)
+Templates](../../../Platform/Integrate/Use_Cases/Manage_Templates)
 in Integrate for more information.
 
 The user credentials for the connection can be supplied using different
 methods. Refer to [User Credentials in
-dspCompose™](User_Credentials_in_dspCompose.htm) for more information.
+dspCompose™](User_Credentials_in_dspCompose) for more information.
 
 In Integrate, a user can store credentials for BDC Script, GUI Script,
 BAPI and RFC template types. In dspCompose™, credentials can be stored
@@ -32,26 +32,26 @@ stored credentials for the user name per data source.  
 <span style="font-weight: bold;">NOTE</span>: Credentials are required
 when recording a BDC Script or GUI Script. If the system does not detect
 credentials when the user clicks the Record icon on the
-<span style="font-style: italic;">[Template](../../../Platform/Integrate/Page_Desc/Template_H.htm)</span>
+<span style="font-style: italic;">[Template](../../../Platform/Integrate/Page_Desc/Template_H)</span>
 page’s <span style="font-style: italic;">Vertical</span> View in
 Integrate, or clicks the Record icon on the
 <span style="font-style: italic;">[Create Template
-(Recording)](../Use_Cases/Create_Template_Recording.htm)</span> page in
+(Recording)](../Use_Cases/Create_Template_Recording)</span> page in
 dspCompse™, the <span style="font-style: italic;">[User
-Credentials](../../../Platform/Common/Page_Desc/User_Credentials_H.htm)</span>
+Credentials](../../../Platform/Common/Page_Desc/User_Credentials_H)</span>
 page displays and the user must add credentials. Refer to [User
-Credentials in dspCompose™](User_Credentials_in_dspCompose.htm) for more
+Credentials in dspCompose™](User_Credentials_in_dspCompose) for more
 information.  If credentials are detected, the recording process
 continues as expected  
 
 <span style="font-weight: bold;">NOTE</span>: The data source for the
 template is associated with the connection selected in the CONNECTION ID
 list box on the
-<span style="font-style: italic;">[Template](../../../Platform/Integrate/Page_Desc/Template_H.htm)</span>
+<span style="font-style: italic;">[Template](../../../Platform/Integrate/Page_Desc/Template_H)</span>
 page’s <span style="font-style: italic;">Horizontal</span> View in
 Integrate. In dspCompose™, the connection is selected on the
 <span style="font-style: italic;">Vertical</span> View of the
-<span style="font-style: italic;">[Templates](../Page_Desc/Templates_H.htm)</span>
+<span style="font-style: italic;">[Templates](../Page_Desc/Templates_H)</span>
 page. When the connection is set, the data source for the template is
 also set.
 
@@ -72,7 +72,7 @@ To add user credentials as a user in Integrate:
     
     **NOTE:** If the source page specifies a specific connection, the
     <span style="font-style: italic;">[User
-    Credentials](../../../Platform/Common/Page_Desc/User_Credentials_H.htm)</span>
+    Credentials](../../../Platform/Common/Page_Desc/User_Credentials_H)</span>
     page's <span style="font-style: italic;">Vertical</span> View
     displays. If the source page does not have a specific connection,
     the <span style="font-style: italic;">Horizontal</span> View of the
@@ -108,7 +108,7 @@ To add user credentials as a user in dspCompose™:
     
     **NOTE:** If the source page specifies a specific connection, the
     <span style="font-style: italic;">[User
-    Credentials](../../../Platform/Common/Page_Desc/User_Credentials_H.htm)</span>
+    Credentials](../../../Platform/Common/Page_Desc/User_Credentials_H)</span>
     page's <span style="font-style: italic;">Vertical</span> View
     displays. If the source page does not have a specific connection,
     the <span style="font-style: italic;">Horizontal</span> View of the

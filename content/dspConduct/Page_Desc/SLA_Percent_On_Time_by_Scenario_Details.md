@@ -6,7 +6,7 @@ solution = 'Master Data Management'
 # SLA Percent On Time by Scenario Details
 
 Use this page to view details for the [SLA Percent On Time by
-Scenario](SLA_Percent_On_Time_by_Scenario.htm) chart, based on active
+Scenario](SLA_Percent_On_Time_by_Scenario) chart, based on active
 requests.
 
 To access this chart in dspConduct™:

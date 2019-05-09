@@ -29,7 +29,7 @@ To register a ZSource in Construct:
 2.  Click **Add**.
     
     [View the field descriptions for the ZSource
-    page](../Page_Desc/Z_Source.htm)
+    page](../Page_Desc/Z_Source)
 
 3.  Enter a Source name in the **Z SOURCE** field.
 
@@ -40,7 +40,7 @@ To register a ZSource in Construct:
 6.  Click **Add**.
     
     [View the field descriptions for the ZSourceUser
-    page](../Page_Desc/ZSourceUser.htm)
+    page](../Page_Desc/ZSourceUser)
 
 7.  Select a name from the **USER NAME** list box.
 

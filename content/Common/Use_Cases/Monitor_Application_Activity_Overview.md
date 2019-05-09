@@ -14,9 +14,9 @@ CranSoft and System Administration WebApps.
 
 This use case includes the following topics:
 
-  - [View Activity](View_Activity.htm)
-  - [Delete Monitored Records](Delete_Monitor_Records.htm)
-  - [Configure Debug Logs Settings](Configure_Trace_Parameters.htm)
-  - [View Debug Logs](View_Debug_Logs.htm)
+  - [View Activity](View_Activity)
+  - [Delete Monitored Records](Delete_Monitor_Records)
+  - [Configure Debug Logs Settings](Configure_Trace_Parameters)
+  - [View Debug Logs](View_Debug_Logs)
   - [Add a Debug Log to a Custom
-    WebApp](Add_a_Debug_Log_to_a_Custom_WebApp.htm)
+    WebApp](Add_a_Debug_Log_to_a_Custom_WebApp)

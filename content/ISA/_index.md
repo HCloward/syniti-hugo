@@ -14,9 +14,9 @@ attached to an email or can view a summary of the rule’s data.
 
 Project Distributions, along with users, have rules. These rules have
 associated Quality Dimensions by which rules are grouped. Filters can be
-applied at the [user](Use_Cases/Configure_User_Filters_ISA.htm) or
+applied at the [user](Use_Cases/Configure_User_Filters_ISA) or
 [project
-distribution](Use_Cases/Configure_Project_Distribution_Filters.htm)
+distribution](Use_Cases/Configure_Project_Distribution_Filters)
 level to filter the data sets sent to specific user groups.
 
 Once rules are processed in IS, ISA sends workflow emails to users who
@@ -29,7 +29,7 @@ IS scorecard and back to the DSP platform workflow.
 A dashboard is also available in the ISA to visualize the project
 distribution and user level statistics not available in the IS
 scorecards. Refer to [View the ISA
-Dashboard](Use_Cases/View_ISA_Dashboards.htm) for more information.
+Dashboard](Use_Cases/View_ISA_Dashboards) for more information.
 
 ## Workflow Frequency
 
@@ -58,7 +58,7 @@ Use CMC to:
 
   - Create projects
   - [Create a Database Connection to Store IS failed
-    Data](Config/Create_a_Database_Connection_to_Store_IS_Failed_Data.htm)
+    Data](Config/Create_a_Database_Connection_to_Store_IS_Failed_Data)
 
 Use Information Steward to:
 
@@ -67,28 +67,28 @@ Use Information Steward to:
   - Create views
   - Create rules
   - Bind the rules to tables or views
-  - [Run the rules](Config/Run_Rules_in_IS.htm)
+  - [Run the rules](Config/Run_Rules_in_IS)
 
 Use the System Administration component of the Data Stewardship Platform
 (DSP)® to:
 
 1.  [Add
-    Users](../../Platform/Sys_Admin/Use_Cases/Create_User_Accounts_in_System_Administration.htm)
+    Users](../../Platform/Sys_Admin/Use_Cases/Create_User_Accounts_in_System_Administration)
 2.  [Create an ISA Security
-    Role](Use_Cases/Create_an_ISA_Security_Role.htm)
+    Role](Use_Cases/Create_an_ISA_Security_Role)
 3.  [Assign a Key Value of Target -dgRepository\_IS to the Security
-    Role](../../Platform/Sys_Admin/Use_Cases/Assign_Keys_to_Security_Role.htm)
+    Role](../../Platform/Sys_Admin/Use_Cases/Assign_Keys_to_Security_Role)
 4.  [Add WebApp groups to the security
-    role](../../Platform/Sys_Admin/Use_Cases/Assign_WebApp_Groups_to_Security_Role.htm)
+    role](../../Platform/Sys_Admin/Use_Cases/Assign_WebApp_Groups_to_Security_Role)
 5.  [Add Users to the Security
-    Role](../../Platform/Sys_Admin/Use_Cases/Assign_Users_to_Security_Roles.htm)
+    Role](../../Platform/Sys_Admin/Use_Cases/Assign_Users_to_Security_Roles)
 6.  [Set the Connection information for the ISSAP data
-    source](Use_Cases/SetconnectionISRepositorySysAdmin.htm)
+    source](Use_Cases/SetconnectionISRepositorySysAdmin)
 
 Use the Common component of the Data Stewardship Platform (DSP)® to:
 
 1.  [Add an SAP Data Services
-    Definition](../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common.htm)
+    Definition](../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common)
 
 Use the Collect component of the Data Stewardship Platform (DSP)® to:
 
@@ -98,15 +98,15 @@ Use the Collect component of the Data Stewardship Platform (DSP)® to:
     Edit \> select an option in the Data Services ID list box.
 
 2.  [Set Data Services
-    Connections](Config/Set_Data_Services_Connections.htm)
+    Connections](Config/Set_Data_Services_Connections)
 
 3.  [Build and Refresh
-    tables](../../Platform/Collect/Use_Cases/Build_Package_for_Table.htm)
+    tables](../../Platform/Collect/Use_Cases/Build_Package_for_Table)
 
 4.  [Refresh Tables if Projects, Rules, or Rule Bindings are
-    Updated](Config/Refresh_Tables_if_Projects_Rules_or_Rule_Bindings_are_Updated.htm)
+    Updated](Config/Refresh_Tables_if_Projects_Rules_or_Rule_Bindings_are_Updated)
 
 Use the ISA to:
 
 1.  [Activate Users in a Project
-    Distribution](Use_Cases/Add_Users_to_a_Project_Distribution.htm)
+    Distribution](Use_Cases/Add_Users_to_a_Project_Distribution)

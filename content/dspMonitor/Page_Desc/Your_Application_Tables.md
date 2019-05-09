@@ -12,9 +12,9 @@ solution = 'Data Quality'
 Use this page to:
 
   - [View Your Application
-    Tables](../Use_Cases/View_Your_Application_Tables.htm)
+    Tables](../Use_Cases/View_Your_Application_Tables)
   - [Profile a Target Table in
-    dspMonitor](../Use_Cases/Profile_a_Target_Table_in_dspMonitor.htm)
+    dspMonitor](../Use_Cases/Profile_a_Target_Table_in_dspMonitor)
 
 </div>
 
@@ -40,7 +40,7 @@ To access this page:
 <tr class="even">
 <td><p>SIGMA LEVEL</p></td>
 <td><p>Displays the sigma level based on data quality score calculations.</p>
-<p>The Enable Sigma Level checkbox on the <em><a href="Parameters.htm">Parameters</a></em> page must be checked for this field to display.</p></td>
+<p>The Enable Sigma Level checkbox on the <em><a href="Parameters">Parameters</a></em> page must be checked for this field to display.</p></td>
 </tr>
 <tr class="odd">
 <td><p>OPPORTUNITIES</p></td>
@@ -76,11 +76,11 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Columns</p></td>
-<td><p>Click to open the <em><a href="Your_Application_Table_Columns.htm">Your Application Table Columns</a></em> page to view data quality information for the columns in the application table.</p></td>
+<td><p>Click to open the <em><a href="Your_Application_Table_Columns">Your Application Table Columns</a></em> page to view data quality information for the columns in the application table.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Reports</p></td>
-<td><p>Click to open the <em><a href="Your_Application_Table_Reports_H.htm">Your Application Table Reports</a></em> page to view all application table reports to which the logged in user has access.</p></td>
+<td><p>Click to open the <em><a href="Your_Application_Table_Reports_H">Your Application Table Reports</a></em> page to view all application table reports to which the logged in user has access.</p></td>
 </tr>
 </tbody>
 </table>
@@ -94,9 +94,9 @@ To access this page:
 Use this page to:
 
   - [View Your Application
-    Tables](../Use_Cases/View_Your_Application_Tables.htm)
+    Tables](../Use_Cases/View_Your_Application_Tables)
   - [Profile a Target Table in
-    dspMonitor](../Use_Cases/Profile_a_Target_Table_in_dspMonitor.htm)
+    dspMonitor](../Use_Cases/Profile_a_Target_Table_in_dspMonitor)
 
 </div>
 
@@ -105,6 +105,6 @@ Use this page to:
 | Field       | Description                                                                                                                                                                             |
 | Application | Displays the name of the application.                                                                                                                                                   |
 | Table Name  | Displays the name of the table.                                                                                                                                                         |
-| Profile     | Click to profile the application table. Refer to [Profile a Target Table in dspMonitor™](../Use_Cases/Profile_a_Target_Table_in_dspMonitor.htm) for information about profiling tables. |
+| Profile     | Click to profile the application table. Refer to [Profile a Target Table in dspMonitor™](../Use_Cases/Profile_a_Target_Table_in_dspMonitor) for information about profiling tables. |
 | View Data   | Click to view data within report.                                                                                                                                                       |
-| View Fields | Click to open the *[Table Field (Results)](../../../Platform/Common/Page_Desc/Table_Field_Results_H.htm)* page in Common to view the results of a profile run on the table.             |
+| View Fields | Click to open the *[Table Field (Results)](../../../Platform/Common/Page_Desc/Table_Field_Results_H)* page in Common to view the results of a profile run on the table.             |

@@ -12,7 +12,7 @@ Administrator can use the Custom Link WebApp Customization feature in
 System Administration to add the link.
 
 Refer to [Assign a Custom Page to a Template
-Role](Assign_a_Custom_Page_to_Template_Role.htm) and [Create Custom
+Role](Assign_a_Custom_Page_to_Template_Role) and [Create Custom
 Pages and Views for the BAPI
-Process](Create_Custom_Pages_and_Views_for_the_BAPI_Process.htm) for
+Process](Create_Custom_Pages_and_Views_for_the_BAPI_Process) for
 more information about creating custom pages.

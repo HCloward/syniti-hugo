@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Set Up Database
-Functions](../Use_Cases/Set_up_Database_Functions.htm).
+Functions](../Use_Cases/Set_up_Database_Functions).
 
 </div>
 

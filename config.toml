@@ -1,6 +1,7 @@
 baseURL = "https://heathercl.gitlab.io/dsp-hugo/"
 languageCode = "en-us"
-title = "BOA Documentation"
+title = "Syniti Documentation"
+disablePathToLower = true
 # enableEmoji = true
 # enableRobotsTXT = true
 # googleAnalytics = ("tracking number goes here")

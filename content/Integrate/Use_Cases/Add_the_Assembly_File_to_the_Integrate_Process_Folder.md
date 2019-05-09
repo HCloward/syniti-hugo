@@ -18,7 +18,7 @@ can access it.
 <span style="font-weight: bold;">NOTE</span>: To perform this task, a
 user must have permission to add files to the DSP® installation on the
 application server and the custom assembly must exist. Refer to [Create
-a Custom Assembly](Create_a_Custom_Assembly.htm) for more information.
+a Custom Assembly](Create_a_Custom_Assembly) for more information.
 
 Copy the assembly file along with any dependent assemblies to the
 Integrate Processes folder on the DSP®  Application Server. This path is
@@ -32,4 +32,4 @@ folder is associated with Integrate. The assembly file(s) must be copied
 to the folder below this GUID.
 
 Continue with [Create a Custom
-Template](Create_a_Custom_Template_Integrate.htm).
+Template](Create_a_Custom_Template_Integrate).

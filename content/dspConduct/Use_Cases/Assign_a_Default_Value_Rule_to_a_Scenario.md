@@ -11,12 +11,12 @@ mandatory.
 
 Before performing this task, a category and scenario must be added.
 Refer to [dspConduct™ Design Process
-Overview](dspConduct_Design_Process_Overview.htm) for more information
+Overview](dspConduct_Design_Process_Overview) for more information
 on creating elements in dspConduct™.
 
 A Designer must have already added a default value rule to the
 scenario’s category. Refer to [Add a Scenario Level Default Value
-Rule](Add_a_Scenario_Level_Default_Value_Rule_to_a_Category.htm) to a
+Rule](Add_a_Scenario_Level_Default_Value_Rule_to_a_Category) to a
 Category for more information.
 
 To assign a default rule to a scenario in dspConduct™:
@@ -32,7 +32,7 @@ To assign a default rule to a scenario in dspConduct™:
     **Add**.
     
     *[View the field descriptions for the Scenario (Default Rules)
-    page.](../Page_Desc/Scenario_Default_Rules.htm)*
+    page.](../Page_Desc/Scenario_Default_Rules)*
 
 5.  Select the default rule ID from the **DEFAULT RULE ID** list box.
 

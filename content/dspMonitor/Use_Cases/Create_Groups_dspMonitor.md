@@ -15,7 +15,7 @@ To create a group:
 2.  Click **Add**.
     
     [View the field descriptions for the Groups
-    page](../Page_Desc/Groups_H.htm)
+    page](../Page_Desc/Groups_H)
 
 3.  Enter a group name (without spaces) in **GROUP ID** field. 
 
@@ -34,7 +34,7 @@ To create a group:
     often reports are run for each user in the group.
     
     **NOTE:** Schedules are maintained in Common. Refer to [Create
-    Schedules](../../../Platform/Common/Use_Cases/Create_Schedules.htm)
+    Schedules](../../../Platform/Common/Use_Cases/Create_Schedules)
     for detailed information.
 
 7.  Select a schedule from **WORKFLOW SCHEDULE ID** list box to
@@ -53,7 +53,7 @@ To create a group:
 10. Click **Edit**.
     
     [View the field descriptions for the Groups page's Vertical
-    View](../Page_Desc/Groups_H.htm#Groups_V_All_Tabs)
+    View](../Page_Desc/Groups_H#Groups_V_All_Tabs)
 
 11. Select a threshold from the **Threshold ID** list box.
 

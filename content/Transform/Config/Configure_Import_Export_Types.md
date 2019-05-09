@@ -27,7 +27,7 @@ To add an Import/Export Type in Transform:
 2.  Click **Add**.
     
     *[View the field descriptions for the Import/Export Types (Setup)
-    page.](../Page_Desc/Import_Export_Types_Setup.htm)*
+    page.](../Page_Desc/Import_Export_Types_Setup)*
 
 3.  Enter a name in the **TYPE** field to uniquely identify the Import
     or Export type.

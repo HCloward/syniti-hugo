@@ -5,7 +5,7 @@ solution = 'Data Quality'
 
 # Configure the Comparison Approval Setting
 
-Refer to [Use Comparison Approvals](Use_Comparison_Approvals.htm) for
+Refer to [Use Comparison Approvals](Use_Comparison_Approvals) for
 general information.
 
 Access the *Template (Role)* page and enable a check box to allow
@@ -22,4 +22,4 @@ To configure the comparison approval setting:
 6.  Click the **Use Comparison Approval Page** check box to enable it.
 
 Continue with [Register the CompareIns Stored
-Procedure](Register_the_CompareIns_Stored_Procedure.htm).
+Procedure](Register_the_CompareIns_Stored_Procedure).

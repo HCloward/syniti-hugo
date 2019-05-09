@@ -10,9 +10,9 @@ solution = 'Platform'
 Use this page to:
 
   - [Clear All
-    Schedules](../Use_Cases/Schedule_Updates_to_Tables.htm#Clear_All_Schedules)
+    Schedules](../Use_Cases/Schedule_Updates_to_Tables#Clear_All_Schedules)
   - [Update All
-    Schedules](../Use_Cases/Schedule_Updates_to_Tables.htm#Update_All_Schedules)
+    Schedules](../Use_Cases/Schedule_Updates_to_Tables#Update_All_Schedules)
 
 </div>
 

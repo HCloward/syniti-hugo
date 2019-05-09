@@ -17,7 +17,7 @@ To move a file:
     <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Toolkit: File/Folder Operations
-    page](../Page_Desc/Toolkit_File_Folder_Operations_H.htm)
+    page](../Page_Desc/Toolkit_File_Folder_Operations_H)
 
 2.  Enter a source directory and file (e.g.,
     C:\\ExampleFolder\\ExampleFile.txt) where file currently exists in
@@ -30,7 +30,7 @@ To move a file:
     <span style="font-style: italic;">Vertical</span> View displays.
     
     [View the field descriptions for the Toolkit: File/Folder Operations
-    page](../Page_Desc/Toolkit_File_Folder_Operations_H.htm)
+    page](../Page_Desc/Toolkit_File_Folder_Operations_H)
 
 5.  Click **IO Copy Overwrite** check box to enable it, overwriting the
     target file during the move process (optional).

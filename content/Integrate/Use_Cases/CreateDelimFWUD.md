@@ -17,7 +17,7 @@ Each data element in a Fixed Width file has a defined length.  On the
 full length.
 
 **NOTE**: Begin template creation on the *Template* page in *Horizontal*
-View. Refer to [Create a Basic Template](Create_a_Basic_Template.htm)
+View. Refer to [Create a Basic Template](Create_a_Basic_Template)
 for more information.
 
 To create a Delimited or Fixed Width template on the *Vertical* View of
@@ -33,7 +33,7 @@ the *Template* page:
 3.  Click **Edit**.
     
     *[View the field descriptions for the Template page’s Vertical
-    View.](../Page_Desc/Template_H.htm#Template_V_All_Tabs)*
+    View.](../Page_Desc/Template_H#Template_V_All_Tabs)*
 
 4.  Click <span style="font-weight: bold;">Configuration</span> tab.
 

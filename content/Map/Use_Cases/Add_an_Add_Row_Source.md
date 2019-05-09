@@ -10,7 +10,7 @@ and inserted into the target table. Records in an Add Row Source table
 are used for reconciliation.
 
 An Add Row Source is added in Target Design. Refer to [Assign a Source
-to a Target](../../Design/Use_Cases/Assign_a_Source_to_a_Target.htm) for
+to a Target](../../Design/Use_Cases/Assign_a_Source_to_a_Target) for
 more information.
 
 An additional Add Row Source can also be added in Map.
@@ -31,12 +31,12 @@ Source.
 <span style="font-weight: bold;">NOTE</span>: After Add Row Sources are
 added, their fields are mapped on the
 <span style="font-style: italic;">[Field
-Mappings](../Page_Desc/Field_Mappings_H.htm)</span> page. To map all Add
+Mappings](../Page_Desc/Field_Mappings_H)</span> page. To map all Add
 Row Sources, the <span style="font-style: italic;">Field Mappings</span>
 page must be accessed by clicking the Mappings icon on the [Target
-Sources (Add Row)](../Page_Desc/Target_Sources_Add_Row.htm) page. Refer
+Sources (Add Row)](../Page_Desc/Target_Sources_Add_Row) page. Refer
 to [Access the Field Mappings
-Page](Perform_Field_Mapping.htm#Access_the_Field_Mappings_Page) for more
+Page](Perform_Field_Mapping#Access_the_Field_Mappings_Page) for more
 information.
 
 To add an Add Row Source in Map:
@@ -46,7 +46,7 @@ To add an Add Row Source in Map:
 
 2.  Click the <span style="font-weight: bold;">Targets</span> icon on
     the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page.
 
 3.  Click the <span style="font-weight: bold;">Sources</span> icon for a
     target.
@@ -54,7 +54,7 @@ To add an Add Row Source in Map:
 4.  Click <span style="font-weight: bold;">Add</span>
     
     [View the field descriptions for the Target Sources
-    page](../Page_Desc/Target_Sources_H_Map.htm)
+    page](../Page_Desc/Target_Sources_H_Map)
 
 5.  Select the Source name from the
     <span style="font-weight: bold;">Source ID</span> list box.
@@ -64,7 +64,7 @@ To add an Add Row Source in Map:
     
     **NOTE:** This database is registered in Common. Refer to [Register
     a Data Source in
-    Common](../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common.htm)
+    Common](../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common)
     for more information
 
 7.  Click <span style="font-weight: bold;">Save</span>; the

@@ -23,7 +23,7 @@ To use the Excel Import Adapter to export an Excel file:
     <span style="font-weight: bold;">Add</span> on the Page toolbar.
     
     [View the field descriptions for the Toolkit: Excel
-    page](../Page_Desc/Toolkit_Excel_H.htm)
+    page](../Page_Desc/Toolkit_Excel_H)
 
 2.    Enter the table name to export in
     the<span style="font-style: normal;font-weight: bold;">EXCEL EXPORT
@@ -33,7 +33,7 @@ To use the Excel Import Adapter to export an Excel file:
     <span style="font-style: italic;">Vertical</span> View displays.
     
     [View the field descriptions for the Toolkit: Excel
-    page](../Page_Desc/Toolkit_Excel_H.htm)
+    page](../Page_Desc/Toolkit_Excel_H)
 
 4.  Enter a table name of the calling component's database into which
     exports from the Excel file are processed in **Excel Export Table

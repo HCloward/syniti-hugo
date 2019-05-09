@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Auto-generate Request-related
-Objects](../Use_Cases/Auto_Generate_Request_related_Objects.htm).
+Objects](../Use_Cases/Auto_Generate_Request_related_Objects).
 
 </div>
 
@@ -42,8 +42,8 @@ request-related objects have been built.
 </tr>
 <tr class="odd">
 <td><p>Creation Log</p></td>
-<td><p>Click to open the <em><a href="Request_Objects_Creation_Log.htm">Request Objects Creation Log</a></em> page to view the records added once the objects have been built.</p>
-<p><strong>NOTE</strong>: This icon is also accessible on the <em><a href="Category_H.htm">Category</a></em> page's <em>Vertical</em> View on the Rules and Actions tab.</p></td>
+<td><p>Click to open the <em><a href="Request_Objects_Creation_Log">Request Objects Creation Log</a></em> page to view the records added once the objects have been built.</p>
+<p><strong>NOTE</strong>: This icon is also accessible on the <em><a href="Category_H">Category</a></em> page's <em>Vertical</em> View on the Rules and Actions tab.</p></td>
 </tr>
 <tr class="even">
 <td><p>TABLE NAME</p></td>
@@ -67,7 +67,7 @@ request-related objects have been built.
 </tr>
 <tr class="odd">
 <td><p>Table Columns</p></td>
-<td><p>Click to open the <em><a href="Default_WebApp_Request_Table_Columns_H.htm">Default WebApp Request Table Columns</a></em> page to view the page and table columns definitions that will be used when request-related objects are auto-generated.</p></td>
+<td><p>Click to open the <em><a href="Default_WebApp_Request_Table_Columns_H">Default WebApp Request Table Columns</a></em> page to view the page and table columns definitions that will be used when request-related objects are auto-generated.</p></td>
 </tr>
 </tbody>
 </table>

@@ -12,7 +12,7 @@ that data is posted to a target system for the request.
 If scenario dependencies exist, the child scenario is processed when its
 dependent scenario is complete. Refer to [Business Process Execution
 with Scenario Dependencies During Final
-Finish](Business_Process_Execution_with_Scenario_Dependencies_During_Final_Finish.htm)
+Finish](Business_Process_Execution_with_Scenario_Dependencies_During_Final_Finish)
 for more information.
 
 <span style="font-weight: bold;">NOTE</span>: For new requests that are

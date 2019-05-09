@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Set User Workflow Receipt
-Preferences](../Use_Cases/Set_User_Workflow_Receipt_Preferences.htm).
+Preferences](../Use_Cases/Set_User_Workflow_Receipt_Preferences).
 
 </div>
 

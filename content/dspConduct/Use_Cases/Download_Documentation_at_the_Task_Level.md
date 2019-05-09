@@ -9,10 +9,10 @@ A Designer performs this task.
 
 Before this task can be completed, perform the following tasks:
 
-  - [Create a Category](Create_a_Category.htm)
-  - [Add a Task](Add_a_Task.htm)
+  - [Create a Category](Create_a_Category)
+  - [Add a Task](Add_a_Task)
   - [Upload a document at the Task
-    level](Upload_Documentation_at_the_Task_Level.htm)
+    level](Upload_Documentation_at_the_Task_Level)
 
 To download documentation at the task level in dspConduct™:
 

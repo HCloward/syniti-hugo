@@ -22,7 +22,7 @@ platform) where tables are refreshed with source data using Collect.
 Each target is represented as a separate line on the chart.
 
 Refer to [View Dashboard in
-Collect](../Use_Cases/View_Dashboard_in_Collect.htm) for general
+Collect](../Use_Cases/View_Dashboard_in_Collect) for general
 information about how data displays on dashboards.
 
 To access the chart in Collect, click

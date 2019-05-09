@@ -44,7 +44,7 @@ To set a parent dependency for a Target table:
     bar.
 
 2.  Click the <span style="font-weight: bold;">Targets</span> icon on
-    the *[Design](../Page_Desc/Design.htm)* page.
+    the *[Design](../Page_Desc/Design)* page.
 
 3.  Click the <span style="font-weight: bold;">Dependencies</span> icon
     for a Target.
@@ -53,7 +53,7 @@ To set a parent dependency for a Target table:
     <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Target Dependencies
-    page](../Page_Desc/Target_Dependencies.htm)
+    page](../Page_Desc/Target_Dependencies)
 
 5.  Select the table name from the
     <span style="font-weight: bold;">PARENT TARGET ID</span> list box.
@@ -74,7 +74,7 @@ To set a parent dependency for a Target table:
     <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Target Dependency Relationship
-    page](../Page_Desc/Target_Dependency_Relationship.htm)
+    page](../Page_Desc/Target_Dependency_Relationship)
 
 9.  Select a field name in the <span style="font-weight: bold;">PARENT
     FIELD</span> list box.
@@ -94,7 +94,7 @@ To set a parent dependency for a Target table:
 12. Click <span style="font-weight: bold;">Save</span>.
 
 13. Navigate to the [Target
-    Dependencies](../Page_Desc/Target_Dependencies.htm) page.
+    Dependencies](../Page_Desc/Target_Dependencies) page.
 
 14. Click the **Find Dependencies** icon on the Page toolbar.
 

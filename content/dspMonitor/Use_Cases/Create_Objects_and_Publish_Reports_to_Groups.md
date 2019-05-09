@@ -15,7 +15,7 @@ To create an object:
 1.  Create a group.
     
     **NOTE:** A *group* is a collection of reports. Refer to the [Create
-    Groups](Create_Groups_dspMonitor.htm) section for detailed
+    Groups](Create_Groups_dspMonitor) section for detailed
     information.
 
 2.  Select **Configuration \> Objects** in *Navigation* pane.
@@ -23,7 +23,7 @@ To create an object:
 3.  Click **Add**.
     
     [View the field descriptions for the Objects
-    page](../Page_Desc/Objects_dspMonitor.htm)
+    page](../Page_Desc/Objects_dspMonitor)
 
 4.  Enter object in **OBJECT NAME** field.
 
@@ -37,7 +37,7 @@ To create an object:
 8.  Click **Edit**.
     
     [*View the field descriptions for the Objects page's Vertical
-    View*](../Page_Desc/Objects_dspMonitor.htm#Objects)
+    View*](../Page_Desc/Objects_dspMonitor#Objects)
 
 9.  Select a threshold from the **Threshold ID** list box.
 
@@ -48,7 +48,7 @@ To create an object:
 12. Register reports to an object.
     
     **NOTE:** Refer to [Register Reports to
-    Objects](Register_Object_Reports.htm#Register_Reports_to_Objects)
+    Objects](Register_Object_Reports#Register_Reports_to_Objects)
     for detailed information.
 
 13. Click **Publish** to register all reports for the object to a group.
@@ -56,7 +56,7 @@ To create an object:
 14. Click **Edit**.
     
     [View the field descriptions for the Object Publish
-    page](../Page_Desc/Object_Publish.htm)
+    page](../Page_Desc/Object_Publish)
 
 15. Select a group from **Group ID** list box.
 

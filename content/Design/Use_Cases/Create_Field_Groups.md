@@ -19,7 +19,7 @@ FIELD FIELD = MTART and FILTER VALUE = FERT.
 
 Once a field group has been added, assign it to an object so that it can
 be applied to the fields in the Targets in that object. Refer to [Assign
-a Field Group to an Object](Assign_a_Field_Group_to_an_Object.htm) for
+a Field Group to an Object](Assign_a_Field_Group_to_an_Object) for
 more information.
 
 <span style="font-weight: bold;">NOTE</span>: The default field group
@@ -33,7 +33,7 @@ To create a field group in Target Design:
 2.  Click <span style="font-weight: bold;">Add</span>.
     
     *[View the field descriptions for the Field Groups
-    page](../Page_Desc/Field_Groups.htm)*
+    page](../Page_Desc/Field_Groups)*
 
 3.  Enter a field group name in the
     <span style="font-weight: bold;">NAME</span> field.
@@ -58,7 +58,7 @@ To create a field group in Target Design:
     group (\*) rule to an update field in the **RULE PRIORITY OFFSET**
     field. Refer to  <span style="font-family: Arial, sans-serif;">[Set
     Rule Priority for Fields in Field
-    Groups](Set_Rule_Priority_for_Fields_in_Field_Groups.htm)</span> for
+    Groups](Set_Rule_Priority_for_Fields_in_Field_Groups)</span> for
     more information.
 
 8.  Click <span style="font-weight: bold;">Save</span>.

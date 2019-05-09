@@ -10,9 +10,9 @@ solution = 'Platform'
 Use this page to:
 
   - [Add Post Action
-    Rules](../Use_Cases/Add_Post_Action_Table_Rules.htm)
+    Rules](../Use_Cases/Add_Post_Action_Table_Rules)
   - [Configure Rule
-    Columns](../Use_Cases/Set_Up_Post_Action_Rule_Tables.htm#Configure_Rule_Columns)
+    Columns](../Use_Cases/Set_Up_Post_Action_Rule_Tables#Configure_Rule_Columns)
 
 </div>
 

@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Set Values for System Types Table
-Fields](../Use_Cases/Set%20Values%20for%20System%20Types%20Table%20Fields.htm).
+Fields](../Use_Cases/Set%20Values%20for%20System%20Types%20Table%20Fields).
 
 </div>
 
@@ -20,7 +20,7 @@ To access this page:
 4.  Click the **Static Value List** icon for the field.
 
 **NOTE:** Excel Integration has been enabled on this page. Refer to [Use
-Excel Integration](../../Excel_Int/Use_Excel_Integration.htm) for more
+Excel Integration](../../Excel_Int/Use_Excel_Integration) for more
 information.
 
 |             |                                        |

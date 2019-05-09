@@ -56,13 +56,13 @@ Primary Key, is automatically a Hard Required field.
 
 To configure columns:
 
-  - [Configure Column Display](Configure_Column_Display.htm)
-  - [Set a Column’s Control Status](Set_a_Columns_Control_Status.htm)
+  - [Configure Column Display](Configure_Column_Display)
+  - [Set a Column’s Control Status](Set_a_Columns_Control_Status)
   - [Add List Boxes to an Excel
-    File](Add_List_Boxes_to_an_Excel_File.htm)
+    File](Add_List_Boxes_to_an_Excel_File)
   - [Format Required Fields in an Excel
-    File](Format_Required_Fields_in_an_Excel_File.htm)
+    File](Format_Required_Fields_in_an_Excel_File)
   - [Create Validations for List
-    Boxes](Register_Validations_to_List_Boxes.htm)
+    Boxes](Register_Validations_to_List_Boxes)
   - [Import a Column Added to the Role’s Assigned
-    Page](Import_a_Column_Added_to_the_Roles_Assigned_Page.htm)
+    Page](Import_a_Column_Added_to_the_Roles_Assigned_Page)

@@ -19,7 +19,7 @@ registered in the DSP®.
 
 The Designer can select other rules at the scenario level as needed.
 Refer to [Add Process Rules at the Scenario
-Level](Add_Process_Rules_at_the_Scenario_Level.htm) for more
+Level](Add_Process_Rules_at_the_Scenario_Level) for more
 information.
 
 To register a rule for a category process in dspConduct:
@@ -39,7 +39,7 @@ To register a rule for a category process in dspConduct:
 5.  Click <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Category Process Rule
-    page](../Page_Desc/Category_Process_Rule.htm)
+    page](../Page_Desc/Category_Process_Rule)
 
 6.  Enter a value in the
     <span style="font-weight: bold;">PRIORITY</span> field.

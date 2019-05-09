@@ -17,7 +17,7 @@ To skip filters:
 2.  Click **Add**.
     
     [View the field descriptions for the View Build Skip SPRAS Table
-    List page](../Page_Desc/View_Build_Skip_SPRAS_Table_List.htm)
+    List page](../Page_Desc/View_Build_Skip_SPRAS_Table_List)
 
 3.  Enter table to include on SPRAS filters in **TABLE NAME** field.
 

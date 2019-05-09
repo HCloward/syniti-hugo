@@ -29,7 +29,7 @@ should be assigned to the template role must be granted access on the
 
 **NOTE**: To add a role at the template level, the template must not be
 active or must be in Developer Mode. Refer to [Modify an Active Template
-in Developer Mode](Modify_an_Active_Template_in_Developer_Mode.htm) for
+in Developer Mode](Modify_an_Active_Template_in_Developer_Mode) for
 more information.
 
 To create a role at the template level:
@@ -44,7 +44,7 @@ To create a role at the template level:
 4.  Click **Add**.
     
     *[View the field descriptions for the Template (Role)
-    page.](../Page_Desc/Template_Role_H.htm)*
+    page.](../Page_Desc/Template_Role_H)*
 
 5.  Enter the sort order in **PRIORITY
     <span style="font-weight: normal;">field</span>**, which determines
@@ -57,7 +57,7 @@ To create a role at the template level:
     never be set up such that, for example, a role with priority of 50
     would become available for processing before a role with priority of
     30 or 40 had been processed. Refer to [Add Role
-    Dependencies](Add_Role_Dependencies.htm) for more information.
+    Dependencies](Add_Role_Dependencies) for more information.
 
 6.  Select an option from the **ROLE ID** list box.
 

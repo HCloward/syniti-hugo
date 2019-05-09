@@ -12,8 +12,8 @@ Removing unused Source values allows a user to more easily value map, as
 only relevant Source values display.
 
 Before this task can be performed, the lookup table must have been
-[created or imported](../../Design/Use_Cases/Set_up_Lookup_Tables.htm)
-and a mapping with the [Xref](Xref.htm) or [RuleXref](Rule_Xref.htm)
+[created or imported](../../Design/Use_Cases/Set_up_Lookup_Tables)
+and a mapping with the [Xref](Xref) or [RuleXref](Rule_Xref)
 action must be created.
 
 To remove the unused Source values:
@@ -23,7 +23,7 @@ To remove the unused Source values:
 
 2.  Click the <span style="font-weight: bold;">Targets</span> icon on
     the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page.
 
 3.  Click the <span style="font-weight: bold;">Mappings</span> icon for
     a Target.

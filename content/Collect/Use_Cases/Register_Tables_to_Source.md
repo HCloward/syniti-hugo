@@ -17,14 +17,14 @@ SAP tables.
 
 There are two ways to register tables to a source:
 
-  - **[**Import a Group Table**](Import_Group_Tables.htm)** – Used to
+  - **[**Import a Group Table**](Import_Group_Tables)** – Used to
     import System Type tables delivered with Common. This method
     facilitates the process of registering tables by importing content
     delivered with Common into Collect.
-  - **[Manually](Manually_Register_Tables_to_Source.htm)** – Used if the
+  - **[Manually](Manually_Register_Tables_to_Source)** – Used if the
     source is not a System Type delivered with Common.
 
 A user can also [Use the Manual Data Services Package
-Type](Use_the_Manual_Data_Services_Package_Type.htm).
+Type](Use_the_Manual_Data_Services_Package_Type).
 
-Continue with [Encrypt Columns](Encrypt_Columns.htm).
+Continue with [Encrypt Columns](Encrypt_Columns).

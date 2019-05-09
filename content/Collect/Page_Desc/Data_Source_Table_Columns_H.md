@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Modify Configuration of Data Source Table
-Columns](../Use_Cases/Modify_Configuration_of_Data_Source_Table_Columns.htm).
+Columns](../Use_Cases/Modify_Configuration_of_Data_Source_Table_Columns).
 
 </div>
 
@@ -75,12 +75,12 @@ To access this page:
 
 ## <span id="Data_Source_Table1"></span>Data Source Table Columns V
 
-[Data Source Table Columns H](Data_Source_Table_Columns_H.htm)
+[Data Source Table Columns H](Data_Source_Table_Columns_H)
 
 <div class="use">
 
 Use this page to [Modify Configuration of Data Source Table
-Columns](../Use_Cases/Modify_Configuration_of_Data_Source_Table_Columns.htm).
+Columns](../Use_Cases/Modify_Configuration_of_Data_Source_Table_Columns).
 
 </div>
 

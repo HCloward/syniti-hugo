@@ -6,7 +6,7 @@ solution = 'Master Data Management'
 # SLA Percent On Time by Role Details
 
 Use this page to view details for the [SLA Percent On Time by
-Role](SLA_Percent_On_Time_by_Role.htm) chart.
+Role](SLA_Percent_On_Time_by_Role) chart.
 
 To access this chart in dspConduct™:
 

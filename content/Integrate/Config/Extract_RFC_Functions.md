@@ -11,7 +11,7 @@ SAP, including the execution of RFCs and the posting of data via BAPIs.
 Before creating a BAPI/RFC template, a Template Administrator must
 extract the list of RFC functions and their descriptions enabled in the
 SAP system using the <span style="font-style: italic;">[Data Source
-Registry](../../Common/Page_Desc/Data_Source_Registry_H.htm)</span> page
+Registry](../../Common/Page_Desc/Data_Source_Registry_H)</span> page
 in Common.
 
 Integrate pulls the definition of the Function Module from SAP to

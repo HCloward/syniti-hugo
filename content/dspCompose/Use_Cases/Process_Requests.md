@@ -9,30 +9,30 @@ A *request* is a mass change data process object that is created,
 approved and posted in a single batch.
 
 A request is based on a template. Refer to [Create
-Templates](Create_Templates.htm) and [Configure
-Templates](Configure_Templates.htm) for more information.
+Templates](Create_Templates) and [Configure
+Templates](Configure_Templates) for more information.
 
 Processing a request is the act of entering, reviewing and posting data
 to a target ERP system using dspCompose™.
 
 There are three methods to update request data in dspCompose™: manual
 change, mass change, or external change. Refer to [Enter Data for a
-Request](Create_Requests.htm) for more information.
+Request](Create_Requests) for more information.
 
 To process a request, a user must be:
 
   - Assigned to a role or roles for the template the request is based
-    on. Refer to [Add Users to Templates](Add_Users_to_Templates.htm)
+    on. Refer to [Add Users to Templates](Add_Users_to_Templates)
     for more information.
 
   - Assigned to an Org Unit that is also assigned to the request’s
     template if the template uses Org Units. Refer to [Assign Users to
-    Org Units](Set_up_Org_Units.htm#Assign_Users_to_Org_Units) for more
+    Org Units](Set_up_Org_Units#Assign_Users_to_Org_Units) for more
     information.
 
   -  Assigned to Org Unit values assigned to the request if the template
     uses Org Units. Refer to [Set Org Unit Assignment Security for a
-    Request](Request_Org_Unit_Assignments.htm#Set_Org_Unit_Assignment_Security_for_a_Request)
+    Request](Request_Org_Unit_Assignments#Set_Org_Unit_Assignment_Security_for_a_Request)
     for more information.
 
 **NOTE**: If the Org Unit values assigned to a user are not assigned at
@@ -58,42 +58,42 @@ the Role Type of Data.
 
 To process a request:
 
-  - [Create Requests](Create_Requests.htm)
+  - [Create Requests](Create_Requests)
 
-  - [Enter Data for a Request](Enter_Data_for_a_Request.htm)
+  - [Enter Data for a Request](Enter_Data_for_a_Request)
 
-  - [Review Request Data](Review_Request_Data.htm)
+  - [Review Request Data](Review_Request_Data)
 
   - [Post Request Data to the Target ERP
-    System](Post_Request_Data_to_a_Target_ERP_System.htm)
+    System](Post_Request_Data_to_a_Target_ERP_System)
 
 A user can also:
 
   - [Add a Mass Change Custom Link to a Custom
-    Page](Add_a_Mass_Change_Custom_Link_to_a_Custom_Page.htm)
+    Page](Add_a_Mass_Change_Custom_Link_to_a_Custom_Page)
 
   - [Import a View at the Request-Role
-    Level](Import_a_View_at_the_Request%20Role_Level.htm)
+    Level](Import_a_View_at_the_Request%20Role_Level)
 
   - [Import a File at the Request-Role
-    Level](Import_a_File_at_the_Request%20Role_Level.htm)
+    Level](Import_a_File_at_the_Request%20Role_Level)
 
-  - [Validate a Role](Validate_a_Role.htm)
+  - [Validate a Role](Validate_a_Role)
 
-  - [Reset a Role](Reset_a_Role.htm)
+  - [Reset a Role](Reset_a_Role)
 
-  - [Correct Rejected Records](Correct_Rejected_Records.htm)
+  - [Correct Rejected Records](Correct_Rejected_Records)
 
-  - [Review Posting Messages](Review_Posting_Messages.htm)
+  - [Review Posting Messages](Review_Posting_Messages)
 
   - [Correct and Post Failed
-    Records](Correct_and_Post_Failed_Records.htm)
+    Records](Correct_and_Post_Failed_Records)
 
   - [View Data from the Finish Download
-    Process](View_Data_from_the_Finish_Download_Process.htm)
+    Process](View_Data_from_the_Finish_Download_Process)
 
-  - [Change Request Status](Change_Request_Status.htm)
+  - [Change Request Status](Change_Request_Status)
 
-  - [Archive Requests](Archive_Requests.htm)
+  - [Archive Requests](Archive_Requests)
 
-  - [Monitor Requests](Monitor_Requests.htm)
+  - [Monitor Requests](Monitor_Requests)

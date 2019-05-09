@@ -3,7 +3,7 @@
 <div class="use">
 
 Use this page to [set user filters at the project distribution
-level.](../Use_Cases/Configure_User_Filters_ISA.htm)
+level.](../Use_Cases/Configure_User_Filters_ISA)
 
 </div>
 

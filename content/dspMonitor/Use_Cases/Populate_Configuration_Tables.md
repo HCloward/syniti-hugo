@@ -30,7 +30,7 @@ To register Quality Dimensions:
 2.  Click **Add**.
     
     [View the field descriptions for the Quality Dimension
-    page](../Page_Desc/Quality_Dimension.htm)
+    page](../Page_Desc/Quality_Dimension)
 
 3.  Enter a dimension in **QUALITY DIMENSION** field.
 
@@ -52,7 +52,7 @@ pages, charts and dashboards in dspMonitor™.
 
 dspMonitor™ is delivered with a default threshold setting based on the
 sigma levels displayed on the *[Sigma
-Levels](../Page_Desc/Sigma_Levels.htm)* page. Additional threshold
+Levels](../Page_Desc/Sigma_Levels)* page. Additional threshold
 settings can be added to meet the project needs.
 
 To register data quality score thresholds:
@@ -63,7 +63,7 @@ To register data quality score thresholds:
 2.  Click **Add**.
     
     [View the field descriptions for the Data Quality Score Thresholds
-    page](DQS_Thresholds.htm)
+    page](DQS_Thresholds)
 
 3.  Enter a name in the **NAME** field.
 
@@ -74,10 +74,10 @@ To register data quality score thresholds:
     **WARNING THRESHOLD** field.
     
     **NOTE:** If Enable Sigma Level is checked on the
-    *[Parameters](../Page_Desc/Parameters.htm)* page, sigma levels are
+    *[Parameters](../Page_Desc/Parameters)* page, sigma levels are
     available for selection in the critical and warning threshold list
     boxes. Sigma levels can be viewed on the *[Sigma
-    Levels](../Page_Desc/Sigma_Levels.htm)* page.
+    Levels](../Page_Desc/Sigma_Levels)* page.
 
 6.  Click
 **Save**.
@@ -133,5 +133,5 @@ Graph:
 13. Update the graph to match the local groups, if applicable.
 
 14. Click **Upload** on the *[*Group Metric
-    Graph*](../Page_Desc/Group_Metric_Graph.htm)* page to upload the
+    Graph*](../Page_Desc/Group_Metric_Graph)* page to upload the
     modified Excel file.

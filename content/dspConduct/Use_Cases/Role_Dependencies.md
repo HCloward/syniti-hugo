@@ -10,7 +10,7 @@ progression of tasks that must be finished to complete a request. For
 example, dependencies establish that when processing a request to start
 a Post role type, the Application and Review role types must BOTH first
 be completed. The buttons on the [Request Role
-Task](../Page_Desc/Request_Role_Task.htm) page  for the Post role is
+Task](../Page_Desc/Request_Role_Task) page  for the Post role is
 disabled until all Application roles and the Review role that the Post
 role depends on are completed.
 
@@ -20,7 +20,7 @@ scenarios but only apply if both roles are within the same scenario.  
 
 Role records become active when the dependent roles are completed. A
 role is completed when the Role Processor clicks the Finish button on
-the [Request Role](../Page_Desc/Request_Role_H.htm) page and the
+the [Request Role](../Page_Desc/Request_Role_H) page and the
 validations all pass.
 
 As roles are finished, workflow emails are sent to the users assigned to
@@ -41,7 +41,7 @@ role can begin when certain conditions are met.
 
 <span style="font-weight: bold;">NOTE</span>: Scenarios also have
 dependencies. Refer to [Add a Dependent Scenario to a
-Scenario](Add_a_Dependent_Scenario.htm) for more
+Scenario](Add_a_Dependent_Scenario) for more
 information.
 
 ## <span id="Dependencies_and_Role_Types"></span>Dependencies and Role Types
@@ -80,12 +80,12 @@ record. A Post role must have a higher priority than a Review role.
 configured to execute automatically if dependencies are completed.
 Results can be emailed to the Requestor and any other persona configured
 at the request level. This Auto Post Role option is set on the [Scenario
-(Roles)](../Page_Desc/Scenarios_Roles_H.htm) page’s
+(Roles)](../Page_Desc/Scenarios_Roles_H) page’s
 <span style="font-style: italic;">Vertical</span> View.
 
 <span style="font-weight: bold;">NOTE</span>: The Auto Post Role option
 can only be set for the Post role.  Refer to [Auto Post a
-Request](Post_a_Request.htm#Auto_Post_a_Request) for more information.
+Request](Post_a_Request#Auto_Post_a_Request) for more information.
 
 ## <span id="Add_Dependencies_to_Roles"></span>Add Dependencies to Roles
 
@@ -95,7 +95,7 @@ started until its dependent role is completed.
 Dependencies allow a Designer to reuse roles to design dynamic business
 processes and scenarios rapidly and effectively.
 
-Before performing this task, [Add Roles](Add_a_Role.htm) with the role
+Before performing this task, [Add Roles](Add_a_Role) with the role
 type of Application, Review, and Post.  
 
 To add dependencies to roles in dspConduct™:
@@ -113,13 +113,13 @@ To add dependencies to roles in dspConduct™:
     click <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Role (Dependencies)
-    page.](../Page_Desc/Role_Dependencies.htm)
+    page.](../Page_Desc/Role_Dependencies)
 
 5.  Select the role upon which the selected role depends in the
     <span style="font-weight: bold;">DEPENDENT ROLE ID</span> list box.
 
 6.  Set dependencies based on role type. Refer to [Dependencies and Role
-    Types](Role_Dependencies.htm#Dependencies_and_Role_Types) for more
+    Types](Role_Dependencies#Dependencies_and_Role_Types) for more
     information.
 
 7.  Click
@@ -133,13 +133,13 @@ role is processed. A Designer completes this task.
 
 Conditions must be added before they are assigned to a role dependency
 relationship. Refer to [Add Data-Driven Dependency Conditions to a
-Category](Add_Data_Driven_Dependency_Conditions.htm) for more
+Category](Add_Data_Driven_Dependency_Conditions) for more
 information.
 
 **NOTE:** A new condition can be added on *[Role Dependency Condition
-Assignment](../Page_Desc/Role_Depend_Cond_Assin_Page.htm)* page.
+Assignment](../Page_Desc/Role_Depend_Cond_Assin_Page)* page.
 Conditions must be deleted on the
-*[Conditions](../Page_Desc/Conditions.htm)* page*.*
+*[Conditions](../Page_Desc/Conditions)* page*.*
 
 To assign a condition to a scenario dependency relationship in
 dspConduct™:
@@ -154,6 +154,6 @@ dspConduct™:
 4.  Click the **Conditions** icon for a scenario dependency.
     
     *[View the field descriptions for the Role Dependency Condition
-    Assignment page.](../Page_Desc/Role_Depend_Cond_Assin_Page.htm)*
+    Assignment page.](../Page_Desc/Role_Depend_Cond_Assin_Page)*
 
 5.  Select one or more conditions, and then click the **Assign** icon.

@@ -10,16 +10,16 @@ version of the file or a completely different file.
 
 Before performing this task:
 
-  - [Create a category](Create_a_Category.htm)
+  - [Create a category](Create_a_Category)
 
 Add one of the following elements depending on which one the user is
 working with at the moment:
 
-  - [Add a role](Add_a_Role.htm)
-  - [Add a scenario](Add_Scenario.htm)
-  - [Add a business process](Add_Business_Process.htm)
+  - [Add a role](Add_a_Role)
+  - [Add a scenario](Add_Scenario)
+  - [Add a business process](Add_Business_Process)
   - [Upload an Element
-    Document](Upload_and_Download_Element_Documentation.htm)
+    Document](Upload_and_Download_Element_Documentation)
 
 To replace an element document:
 

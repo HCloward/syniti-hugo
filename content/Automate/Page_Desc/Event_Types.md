@@ -10,17 +10,17 @@ solution = 'Platform'
 Use this page to:
 
   - [Register Interface
-    Events](../Use_Cases/Register_Interface_Events.htm)
-  - [About Automate Events](../Use_Cases/About_Automate_Events.htm)
+    Events](../Use_Cases/Register_Interface_Events)
+  - [About Automate Events](../Use_Cases/About_Automate_Events)
   - [Register Stored Procedure
-    Events](../Use_Cases/Register_Stored_Procedure_Events.htm)
-  - [Register WebApp Events](../Use_Cases/Register_WebApp_Events.htm)
+    Events](../Use_Cases/Register_Stored_Procedure_Events)
+  - [Register WebApp Events](../Use_Cases/Register_WebApp_Events)
   - [Register Workflow
-    Events](../Use_Cases/Register_Workflow_Events.htm)
+    Events](../Use_Cases/Register_Workflow_Events)
   - [Copy Files from One Folder to
-    Another](../Use_Cases/Copy_Files_from_One_Folder_to_Another.htm)
+    Another](../Use_Cases/Copy_Files_from_One_Folder_to_Another)
   - [Set Up a Looping
-    Process](../Use_Cases/Set_up_a_Looping_Process.htm)
+    Process](../Use_Cases/Set_up_a_Looping_Process)
 
 </div>
 

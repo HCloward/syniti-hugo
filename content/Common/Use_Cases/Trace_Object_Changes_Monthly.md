@@ -6,7 +6,7 @@ solution = 'Platform'
 # Trace Object Changes Monthly
 
 This chart displays a monthly count of all changes for all object types
-in the  data source selected on the [Analyze](../Page_Desc/Analyze.htm)
+in the  data source selected on the [Analyze](../Page_Desc/Analyze)
 page.
 
 <span>The number in the x-axis is the number of the month in the year.
@@ -21,11 +21,11 @@ until the month has ended.
 this period has passed, the summary data is not retained.
 
 Click a data point on the chart to drill down to the *[SQL Objects with
-History](../Page_Desc/SQL_Objects_With_History.htm)* page to view an
+History](../Page_Desc/SQL_Objects_With_History)* page to view an
 audit trail of changes to all objects for the object type.
 
 Refer to [View Trace Dashboard: Object
-Summary](View_Trace_Dashboard_Object_Summary.htm) for information about
+Summary](View_Trace_Dashboard_Object_Summary) for information about
 the type of data that displays on charts.
 
 To access the chart in Common:

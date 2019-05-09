@@ -8,11 +8,11 @@ solution = 'Master Data Management'
 A task defines a unit of work and is associated with the web page or
 group of web pages where the work is performed. A Designer can view all
 of a task’s associated pages and additional details on the *[Task
-Page](../Page_Desc/Task_Page_H.htm)* page.
+Page](../Page_Desc/Task_Page_H)* page.
 
 These pages are then added to a scenario \> role \> task combination,
 and can be viewed on the *[Scenario Role Task
-Page](../Page_Desc/Scenario_Role_Task_Page.htm)* page.
+Page](../Page_Desc/Scenario_Role_Task_Page)* page.
 
 If a Designer adds a page to the Content WebApp that is a child of
 another page, update the page list for that parent task.

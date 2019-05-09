@@ -8,7 +8,7 @@ solution = 'Data Quality'
 <div class="use">
 
 Use this page to [Register Quality
-Dimensions](../Use_Cases/Populate_Configuration_Tables.htm#Register_Quality_Dimensions).
+Dimensions](../Use_Cases/Populate_Configuration_Tables#Register_Quality_Dimensions).
 
 </div>
 
@@ -31,7 +31,7 @@ Configuration \> Quality Dimension** in *Navigation* pane.
 </tr>
 <tr class="odd">
 <td><p>PRIORITY</p></td>
-<td><p>Displays the priority order used to display the quality dimensions in the list box on the <em><a href="Repository_Reports_H.htm">Repository Reports</a></em> page’s vertical view and on the <em>Data Quality Scoring Dashboard</em> page.</p></td>
+<td><p>Displays the priority order used to display the quality dimensions in the list box on the <em><a href="Repository_Reports_H">Repository Reports</a></em> page’s vertical view and on the <em>Data Quality Scoring Dashboard</em> page.</p></td>
 </tr>
 <tr class="even">
 <td><p>DESCRIPTION</p></td>

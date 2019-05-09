@@ -10,7 +10,7 @@ V](#Wave_Gate_Metrics_Value_Mapping_V)
 
 <div class="use">
 
-Use this page to [View Metrics](../Use_Cases/View_Metrics_Map.htm).
+Use this page to [View Metrics](../Use_Cases/View_Metrics_Map).
 
 </div>
 
@@ -21,10 +21,10 @@ To access this page:
 2.  Click <span style="font-weight: bold;">Map </span>in the Context
     bar.
 3.  Click the <span style="font-weight: bold;">Metrics</span> icon on
-    the *[Process Area Launch](Process_Area_Launch_map.htm)* page.
+    the *[Process Area Launch](Process_Area_Launch_map)* page.
 4.  Click the <span style="font-weight: bold;">Gate Value Mapping</span>
     icon on the *[Metrics and Reports
-    Landing](Metrics_and_Reports_Landing.htm)* page.
+    Landing](Metrics_and_Reports_Landing)* page.
 
 <table>
 <tbody>
@@ -75,7 +75,7 @@ H](#Wave_Gate_Metrics_Value_Mapping_H)
 
 <div class="use">
 
-Use this page to [View Metrics](../Use_Cases/View_Metrics_Map.htm).
+Use this page to [View Metrics](../Use_Cases/View_Metrics_Map).
 
 </div>
 
@@ -117,10 +117,10 @@ by the Snap Shot process in Map. The percentage is calculated by the
 number of value mapped fields plus the number of fields marked as not
 relevant (fields that have the NOT RELEVANT check box enabled on the
 *[Value Mapping (Legacy to
-Target)](Value_Mapping_Legacy_to_Target_H.htm)* page) divided by the
+Target)](Value_Mapping_Legacy_to_Target_H)* page) divided by the
 total number of value mapped fields. This process is run automatically
 once daily, but can be run at any time by clicking the Metrics icon on
-the *[Process Area Launch](Process_Area_Launch_map.htm)* page, then
+the *[Process Area Launch](Process_Area_Launch_map)* page, then
 clicking the Process icon.
 
 **NOTE:** If the current date is later than the GATE DATE, the Snap Shot
@@ -151,7 +151,7 @@ Value Mapping Details
 Value Mapping Mapped
 
 Displays the total number of check tables with value mappings that have
-been mapped on the *[Value Mapping](Value_Mapping.htm)* page.
+been mapped on the *[Value Mapping](Value_Mapping)* page.
 
 Value Mapping Not Relevant Mapped
 

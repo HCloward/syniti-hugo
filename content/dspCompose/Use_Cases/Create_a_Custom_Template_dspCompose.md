@@ -13,7 +13,7 @@ linking dspCompose™ to existing applications to use pages from these
 applications to create a custom component.
 
 Refer to [Set up and Post a BAPI using Integrate and
-dspCompose™](Set_up_and_Post_a_BAPI_Using_Integrate_and_dspCompose.htm)
+dspCompose™](Set_up_and_Post_a_BAPI_Using_Integrate_and_dspCompose)
 for more information.
 
 <span style="font-weight: bold;">NOTE</span>: A Post Message table must
@@ -38,7 +38,7 @@ To create a custom template:
     Otherwise, click **Add**.
     
     *[View the field descriptions for the Create Custom Template
-    page.](Create_Custom_Template.htm)*
+    page.](Create_Custom_Template)*
 
 4.  Enter a name in **TEMPLATE NAME** field.
     
@@ -54,7 +54,7 @@ To create a custom template:
     
     <span style="font-weight: bold;">NOTE</span>: Refer to [Establish a
     Connection to a Target
-    System](../../../Platform/Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview.htm)
+    System](../../../Platform/Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview)
     for more information.
 
 7.  Click **Save<span style="font-weight: normal;">.</span>**
@@ -91,7 +91,7 @@ To create a custom template:
 15. Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the Templates page's Vertical
-    View.](../Page_Desc/Templates_H.htm#Templates_V_All_Tabs)
+    View.](../Page_Desc/Templates_H#Templates_V_All_Tabs)
 
 16. If the custom template should be based on an Integrate template,
     select the template from **Integrate Template ID** list box.
@@ -101,7 +101,7 @@ To create a custom template:
     
     **NOTE**: If the template should be linked to a page in another
     component, refer to [Link a Template to a
-    Page](Link_a_Template_to_a_Page.htm) for more
+    Page](Link_a_Template_to_a_Page) for more
     information.
 
 18. Click<span style="font-size: 11.0pt;font-family: Arial, sans-serif;font-weight: bold;">Save</span>.
@@ -114,7 +114,7 @@ To create a custom template:
     the page displays in add mode. Otherwise, click **Add**.
     
     [View the field descriptions for the Template (Archive Settings)
-    page](../Page_Desc/Template_Archive_Settings.htm)
+    page](../Page_Desc/Template_Archive_Settings)
     
     **NOTE**: Maintain custom archive tables on the *Template (Archive
     Settings)* page. These tables must be configured in order to
@@ -150,7 +150,7 @@ To create a custom template:
 27. Click <span style="font-weight: bold;">Edit</span>.
     
     <span style="font-style: italic;">[View the field descriptions for
-    the Templates page](../Page_Desc/Templates_H.htm)</span>
+    the Templates page](../Page_Desc/Templates_H)</span>
 
 28. Select an option from the **Template Archive Web App ID** list box.
     
@@ -179,7 +179,7 @@ To create a custom template:
     <span style="font-weight: bold;">NOTE</span>: Do not generate a
     custom template until the custom page settings have been entered on
     the Template (Role) page. Refer to [Assign a Custom Page to a
-    Template Role](Assign_a_Custom_Page_to_Template_Role.htm) for more
+    Template Role](Assign_a_Custom_Page_to_Template_Role) for more
     information.
     
     **NOTE**: Clicking this icon is required, and must be performed

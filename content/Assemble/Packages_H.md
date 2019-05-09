@@ -9,7 +9,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Create Packages](Create_Packages.htm).
+Use this page to [Create Packages](Create_Packages).
 
 </div>
 
@@ -93,7 +93,7 @@ Packages</span> in the
 
 <div class="use">
 
-Use this page to [Create Packages](Create_Packages.htm).
+Use this page to [Create Packages](Create_Packages).
 
 </div>
 

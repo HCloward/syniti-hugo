@@ -25,23 +25,23 @@ To register data quality score thresholds for a Collect target:
 4.  Click **Add**.
     
     [View the field descriptions for the Target Table Threshold
-    page](../Page_Desc/Target_Table_Threshold.htm)
+    page](../Page_Desc/Target_Table_Threshold)
 
 5.  Select the table name from the **TABLE NAME** list box.
 
 6.  Select the threshold ID from the **THRESHOLD ID** list box.
     
     **NOTE:** If a new threshold is set on the *[Report Target
-    Tables](../Page_Desc/Report_Target_Tables%20H.htm)* page this value
+    Tables](../Page_Desc/Report_Target_Tables%20H)* page this value
     is automatically updated. The table is automatically added here if
     it did not already exist. Refer to [Register Collect Target Tables
-    to a Report](Register_Collect_Target_Tables_to_a_Report.htm).
+    to a Report](Register_Collect_Target_Tables_to_a_Report).
     
     **NOTE:** If no threshold is selected here or on the *[Report Target
-    Tables](../Page_Desc/Report_Target_Tables%20H.htm)* page, the
-    threshold set on the *[Parameters](../Page_Desc/Parameters.htm)*
+    Tables](../Page_Desc/Report_Target_Tables%20H)* page, the
+    threshold set on the *[Parameters](../Page_Desc/Parameters)*
     page is used. Refer to [Register Data Quality Score
-    Thresholds](Populate_Configuration_Tables.htm#Register_Data_Quality_Score_Thresholds)
+    Thresholds](Populate_Configuration_Tables#Register_Data_Quality_Score_Thresholds)
     for more information about thresholds.
 
 7.  Click **Save**.

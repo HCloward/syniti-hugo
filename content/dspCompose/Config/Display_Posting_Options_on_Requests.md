@@ -6,11 +6,11 @@ solution = 'Data Quality'
 # Display Posting Options on Requests
 
 The **Posting and File** tab on the
-*[Parameters](../Page_Desc/Parameters.htm)* page has check boxes that
+*[Parameters](../Page_Desc/Parameters)* page has check boxes that
 correspond to the posting options available in dspCompose™. If a
 Template Administrator enables a check box on this page, that posting
 option is available to users with the Post role on the *[Request
-(Post)](../Page_Desc/Request_Post.htm)* page. If a Template
+(Post)](../Page_Desc/Request_Post)* page. If a Template
 Administrator disables a check box on the *Parameters* page, the posting
 option does not display on the *Request (Post)* page and is unavailable
 to the Post role when submitting a request.
@@ -27,7 +27,7 @@ method.
 A request is posted in the background if there is a large amount of data
 to process that may affect system performance or may time out a session.
 Monitor posts that run in the background on the *[Request Role Finish
-Monitor](../Page_Desc/Request_Role_Finish_Monitor.htm)* page.
+Monitor](../Page_Desc/Request_Role_Finish_Monitor)* page.
 
 <span style="font-size: 11.0pt;font-family: Arial, sans-serif;">A post
 that runs in the foreground processes immediately and is appropriate for
@@ -49,7 +49,7 @@ Posting options include:
     credentials.
 
 Refer to [User Credentials in
-dspCompose](User_Credentials_in_dspCompose.htm) for more information.
+dspCompose](User_Credentials_in_dspCompose) for more information.
 
 <span style="font-weight: bold;">NOTE</span>: When posting in dspCompose
 using the Schedule Post feature, users must have permission to the Post

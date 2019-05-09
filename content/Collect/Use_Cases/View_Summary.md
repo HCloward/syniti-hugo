@@ -12,10 +12,10 @@ error occurred.
 To monitor download activity, click **Summary** in the *Navigation*
 pane. Use these  pages to monitor activity:
 
-**[Job Summary](../Page_Desc/Job_Summary.htm)** –View activity organized
+**[Job Summary](../Page_Desc/Job_Summary)** –View activity organized
 by download status, either Completed or Error.
 
-[Job Detail](../Page_Desc/Job_Detail_H.htm) – View all activity for all
+[Job Detail](../Page_Desc/Job_Detail_H) – View all activity for all
 download statuses.
 
 <span style="font-weight: bold;">Target Summary</span> – View activity

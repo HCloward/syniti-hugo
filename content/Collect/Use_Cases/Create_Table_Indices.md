@@ -7,12 +7,12 @@ solution = 'Platform'
 
 Before performing this task:
 
-  - [Register Tables to Source](Register_Tables_to_Source.htm)
-  - [Encrypt Columns](Encrypt_Columns.htm)
-  - [Configure RFC Options](Configure_RFC_Options.htm)
-  - [Register Table Rules](Register_Table_Rules.htm)
+  - [Register Tables to Source](Register_Tables_to_Source)
+  - [Encrypt Columns](Encrypt_Columns)
+  - [Configure RFC Options](Configure_RFC_Options)
+  - [Register Table Rules](Register_Table_Rules)
 
 Refer to [Add Rule and Indices to
-Tables](Add_Rules_and_Indices_to_Tables.htm) for details on this step.
+Tables](Add_Rules_and_Indices_to_Tables) for details on this step.
 
-Continue with [Build Package](Build_Package1.htm).
+Continue with [Build Package](Build_Package1).

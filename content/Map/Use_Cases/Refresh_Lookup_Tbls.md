@@ -15,7 +15,7 @@ To refresh check table values for the Target and the Source in Map:
 
 1.  Select **Map** on the Context bar.
 2.  Click the **Targets** icon on the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page.
 3.  Click the **Mappings** icon for a Target.
 4.  Click the **LOOKUP** link for a mapping with an action of XRef or
     RuleXref.
@@ -23,7 +23,7 @@ To refresh check table values for the Target and the Source in Map:
     message displays.
 6.  Click **OK**.
 7.  Click the **Sources** icon on the *[Value Mapping
-    (Config)](../Page_Desc/Value_Mapping_Config_H.htm)* page.
+    (Config)](../Page_Desc/Value_Mapping_Config_H)* page.
 8.  Click the **Value Mappings** icon for the SOURCE – CHECK TABLE
     combination.
 9.  Click the **Refresh** icon for the Source tables; a confirmation
@@ -39,7 +39,7 @@ Target is processed. Unmapped Source value fields are deleted.
 
 Lookup tables are primarily configured in Target Design. Refer to [Set
 up Lookup
-Tables](../../Design/Use_Cases/Set_up_a_Simple_Lookup_Table.htm) for
+Tables](../../Design/Use_Cases/Set_up_a_Simple_Lookup_Table) for
 more information. A few settings must be updated in Map. Select
 Configuration \> Value Mapping (Config) to access to edit settings for
 lookup tables.

@@ -16,7 +16,7 @@ Administrator:
 A user can then:
 
 5.  [Create projects and plans in
-    dspTrack](../Use_Cases/Organize_Plans_with_Projects.htm).  
+    dspTrack](../Use_Cases/Organize_Plans_with_Projects).  
 
 An Administrator can then:
 
@@ -27,4 +27,4 @@ An Administrator can then:
 time a new project and plan is created in dspTrack™.
 
 Users can also be granted or denied access to a specific plan. Refer to
-[Set Plan Security](Set_Plan_Security.htm) for more information.
+[Set Plan Security](Set_Plan_Security) for more information.

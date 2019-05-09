@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Add a System Type Model
-Table](../Use_Cases/Add_a_New_System_Type_Model_Table.htm).
+Table](../Use_Cases/Add_a_New_System_Type_Model_Table).
 
 </div>
 
@@ -21,7 +21,7 @@ To access this page:
 
 <span style="font-weight: bold;">NOTE:</span> Excel Integration has been
 enabled on this page. Refer to [Use Excel
-Integration](../../Excel_Int/Use_Excel_Integration.htm) for more
+Integration](../../Excel_Int/Use_Excel_Integration) for more
 information.
 
 <table>

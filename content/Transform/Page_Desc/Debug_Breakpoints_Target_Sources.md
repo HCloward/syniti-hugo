@@ -8,20 +8,20 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Debug Rules and Reports Using
-Breakpoints](../Use_Cases/Debug_Rules_and_Reports_using_Brkpnts.htm).
+Breakpoints](../Use_Cases/Debug_Rules_and_Reports_using_Brkpnts).
 
 </div>
 
 To access this page:
 
-1.  [Access Transform](../Config/Access_Transform.htm).
+1.  [Access Transform](../Config/Access_Transform).
 2.  Click the **Targets** icon on the *[Process Area
-    Launch](Process_Area_Launch.htm)* page.
+    Launch](Process_Area_Launch)* page.
 3.  Click the **Sources** icon for a Target.
 4.  Click the **Debug** icon on the Page toolbar on the *[Target
-    Sources](Target_Sources_H.htm)* page, the *[Target Source
-    Reports](Target_Source_Reports_H.htm)* page, or the *[Target Source
-    Rules](Target_Source_Rules_H.htm)* page.
+    Sources](Target_Sources_H)* page, the *[Target Source
+    Reports](Target_Source_Reports_H)* page, or the *[Target Source
+    Rules](Target_Source_Rules_H)* page.
 
 |                          |                                                                                                                                               |
 | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |

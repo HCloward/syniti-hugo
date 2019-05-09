@@ -8,8 +8,8 @@ solution = 'Platform'
 <div class="use">
 
 Use this page while configuring a [BAPI
-template](../Use_Cases/Configure_a_BAPI_Template.htm) or an [RFC
-template](../Use_Cases/Configure_a_RFC_Template.htm).
+template](../Use_Cases/Configure_a_BAPI_Template) or an [RFC
+template](../Use_Cases/Configure_a_RFC_Template).
 
 </div>
 
@@ -29,8 +29,8 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>RFC Documentation</p></td>
-<td><p>Click to open the <em><a href="Template%20RFC%20Documentation.htm">Template: RFC Documentation</a></em> page to view the documentation about the BAPI/RFC that has been extracted from SAP for the selected record.</p>
-<p><strong>NOTE:</strong> Documentation for a BAPI\RFC must exist in SAP to display on this page. Refer to <a href="../Config/Extract_RFC_Functions.htm">Extract RFC Functions</a> for more information.</p></td>
+<td><p>Click to open the <em><a href="Template%20RFC%20Documentation">Template: RFC Documentation</a></em> page to view the documentation about the BAPI/RFC that has been extracted from SAP for the selected record.</p>
+<p><strong>NOTE:</strong> Documentation for a BAPI\RFC must exist in SAP to display on this page. Refer to <a href="../Config/Extract_RFC_Functions">Extract RFC Functions</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>LOOP NAME</p></td>
@@ -39,7 +39,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>BAPI Definition</p></td>
-<td><p>Click to open the <em><a href="BAPI%20RFC%20Definition%20Field.htm">BAPI\RFC Definition: Field</a></em> page to view the fields for the selected loop.</p></td>
+<td><p>Click to open the <em><a href="BAPI%20RFC%20Definition%20Field">BAPI\RFC Definition: Field</a></em> page to view the fields for the selected loop.</p></td>
 </tr>
 </tbody>
 </table>

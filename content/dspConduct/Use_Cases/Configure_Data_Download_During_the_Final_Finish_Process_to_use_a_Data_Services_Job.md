@@ -8,18 +8,18 @@ solution = 'Master Data Management'
 If the Finish Type is DataServices, the Data Services Job must exist in
 the repository and the repository must exist as a data source registered
 in the platform. Refer to [Register a Data Source in
-Common](../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common.htm)
+Common](../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common)
 for more information.
 
 <span style="font-weight: bold;">NOTE</span>: Refer to [Final Finish
 Process for a Request
-Overview](Final_Finish_Process_for_a_Request_Overview.htm) for general
+Overview](Final_Finish_Process_for_a_Request_Overview) for general
 information.
 
 <span style="font-weight: bold;">NOTE</span>: dspConduct™ does not
 confirm that the job exists when registering a job or table on the
 <span style="font-style: italic;">[Task Final Finish
-Tables](../Page_Desc/Task_Final_Finish_Tables_H.htm)</span> page. An
+Tables](../Page_Desc/Task_Final_Finish_Tables_H)</span> page. An
 error displays during the Final Finish if the tables or job does not
 exist.
 
@@ -39,7 +39,7 @@ process:
 5.  Click <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Task Final Finish Tables
-    page](../Page_Desc/Task_Final_Finish_Tables_H.htm)
+    page](../Page_Desc/Task_Final_Finish_Tables_H)
 
 6.  Select **DataServices** from the **FINISH TYPE** list box.
 
@@ -47,11 +47,11 @@ process:
     
     **NOTE:**The execution order of packages is by priority of the role
     (specified on the
-    <span style="font-style: italic;">[Role](../Page_Desc/Role_H_dspConduct.htm)</span>
+    <span style="font-style: italic;">[Role](../Page_Desc/Role_H_dspConduct)</span>
     page) to which the task is assigned, and then the order is specified
     by the order in which the package is added on the
     <span style="font-style: italic;">[Task Final Finish
-    Tables](../Page_Desc/Task_Final_Finish_Tables_H.htm)</span> page.
+    Tables](../Page_Desc/Task_Final_Finish_Tables_H)</span> page.
 
 8.  Click **Save**; *Vertical* View displays.
     
@@ -91,7 +91,7 @@ To configure Global Variables for a Data Services job::
     
     [View the field descriptions for the Data Services Global Variables
     Setup
-    page](../Page_Desc/Data_Services_Global_Variables_Setup_in_dspConduct.htm)
+    page](../Page_Desc/Data_Services_Global_Variables_Setup_in_dspConduct)
 
 7.  Enter the name of the variable in the
     <span style="font-weight: bold;">NAME</span> field.

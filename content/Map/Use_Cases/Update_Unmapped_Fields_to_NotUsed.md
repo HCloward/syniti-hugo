@@ -16,7 +16,7 @@ To automatically update unmapped fields to NotUsed in Map:
 1.  Click **ProcessArea** in the *Navigation* pane.
 
 2.  Click the **Targets**icon on the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page.
 
 3.  Click the **Sources** icon for a TARGET ID.
 
@@ -35,11 +35,11 @@ and Update Row Sources to NotUsed once a field is mapped in another Add
 Row or Update Row Source. This option only updates actions that have not
 been set (as in, the ACTION field is blank) on the
 <span style="font-style: italic;">[Field
-Mappings](../Page_Desc/Field_Mappings_H.htm)</span> page in Map.
+Mappings](../Page_Desc/Field_Mappings_H)</span> page in Map.
 
 If an Add Row or Update Row Source is mapped to another Add Row or
 Update Row Source in Map, the Auto Set Not Used for Multiple Sources
-setting on the *[Parameters](../../Console/Page_Desc/Parameters.htm)*
+setting on the *[Parameters](../../Console/Page_Desc/Parameters)*
 page in Console controls how Map updates an action that is not set. Map
 updates the ACTION field on the *Field Mappings* page once the mapping
 is saved.
@@ -73,7 +73,7 @@ To set this option in Console:
 3.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the Parameter's page in
-    Console.](../../Console/Page_Desc/Parameters.htm)
+    Console.](../../Console/Page_Desc/Parameters)
 
 4.  Select an option from the <span style="font-weight: bold;">Auto Set
     Not Used for Multiple Sources</span> list box.

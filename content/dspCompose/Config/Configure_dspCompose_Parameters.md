@@ -16,7 +16,7 @@ To configure parameters:
 2.  Click **Edit**.
     
     *[View the field descriptions for the Parameters
-    page.](../Page_Desc/Parameters.htm)*
+    page.](../Page_Desc/Parameters)*
 
 3.  Update parameters as needed.
 

@@ -20,7 +20,7 @@ been added to the list view.
 **NOTE**:To change the Excel Column Control settings for a template
 role, the template must not be active or must be in Developer Mode.
 Refer to [Modify an Active Template in Developer
-Mode](Modify_an_Active_Template_in_Developer_Mode.htm) for more
+Mode](Modify_an_Active_Template_in_Developer_Mode) for more
 information.
 
 **NOTE**:On the *Template (Role Excel Column Control)* page, the **Excel
@@ -52,7 +52,7 @@ To add a list box to an Excel column:
     
     *[View the field descriptions for the Template (Role Excel Column
     Control) page’s Vertical
-    View.](../Page_Desc/Template_Role_Excel_Column_Control_H.htm)*
+    View.](../Page_Desc/Template_Role_Excel_Column_Control_H)*
 
 7.  Select the data source for the list box values in the **List Data
     Source ID** list box.
@@ -88,5 +88,5 @@ box settings are imported from the platform, the Template Administrator
 should verify that these list box settings (source, value column,
 display column) are valid in Excel. Refer to [Import a Column Added to
 the Role’s Assigned
-Page](Import_a_Column_Added_to_the_Roles_Assigned_Page.htm) for more
+Page](Import_a_Column_Added_to_the_Roles_Assigned_Page) for more
 information.

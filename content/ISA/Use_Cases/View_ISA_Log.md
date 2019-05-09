@@ -39,6 +39,6 @@ To view the Log, either select
 
 **NOTE:** To help debug or locate a process causing an error, click
 **Clear Logs** on the
-<span style="font-style: italic;">[Log](../Page_Desc/Log_ISA.htm)</span>
+<span style="font-style: italic;">[Log](../Page_Desc/Log_ISA)</span>
 page to delete all debug logs for the application and re-run the process
 to view only the debug log for that process.

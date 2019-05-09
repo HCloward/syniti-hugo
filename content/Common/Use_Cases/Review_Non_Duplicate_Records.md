@@ -13,7 +13,7 @@ To review non duplicate records:
 1.  From the *Results* page, click **Non Duplicates** icon.
     
     *[View the field descriptions for the NonDuplicates
-    page](../Page_Desc/NonDuplicates.htm)*
+    page](../Page_Desc/NonDuplicates)*
 
 2.  Review the duplicate record pairs. There are two options:
     

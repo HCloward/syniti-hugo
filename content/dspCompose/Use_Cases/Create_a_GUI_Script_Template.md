@@ -15,7 +15,7 @@ dspCompose™, not by saving data in SAP.
 
 The process for recording a template in dspCompose™ is the same as the
 recording process in Integrate. Refer to [Record a GUI
-Script](../../../Platform/Integrate/Use_Cases/Record_a_GUI_Script.htm)
+Script](../../../Platform/Integrate/Use_Cases/Record_a_GUI_Script)
  in Int
 
 egrate for detailed information about recording a GUI template.
@@ -37,7 +37,7 @@ To create a template based on a new GUI recording in dspCompose:
     Otherwise, click **Add**.
     
     [View the field descriptions for the Create Template (Recording)
-    page](Create_Template_Recording.htm)
+    page](Create_Template_Recording)
 
 4.  Enter a name in the **TEMPLATE NAME** field.
     
@@ -59,7 +59,7 @@ To create a template based on a new GUI recording in dspCompose:
     not select a connection ID, the default connection assigned to the
     Integrate Template is used for the request. Refer to [Establish a
     Connection to a Target
-    System](../../../Platform/Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview.htm)
+    System](../../../Platform/Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview)
     for more information.
 
 7.  Click **Save**.
@@ -69,10 +69,10 @@ To create a template based on a new GUI recording in dspCompose:
 9.  Record the transaction.
     
     **NOTE:** Refer to [Record a GUI
-    Script](../../../Platform/Integrate/Use_Cases/Record_a_GUI_Script.htm)
+    Script](../../../Platform/Integrate/Use_Cases/Record_a_GUI_Script)
     in Integrate for detailed information about recording a template.
     Refer to [BDC Script and GUI Script Recording
-    Tips](../../../Platform/Integrate/Use_Cases/BDCScriptGUIScriptRecTips.htm)
+    Tips](../../../Platform/Integrate/Use_Cases/BDCScriptGUIScriptRecTips)
     in Integrate for recording tips.
 
 10. Once the recording is complete, return to dspCompose™ and click
@@ -82,5 +82,5 @@ To create a template based on a new GUI recording in dspCompose:
 
 12. Click **Ok**.
 
-Refer to [Configure Templates](Configure_Templates.htm) for more
+Refer to [Configure Templates](Configure_Templates) for more
 information.

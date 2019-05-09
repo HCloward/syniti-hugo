@@ -15,12 +15,12 @@ event to:
 A few notes about looping:
 
   - Before setting up looping events, add Logical Paths and File
-    Operations. Refer to [Add Logical Paths](Add_Logical_Paths.htm) and
-    [Add File Operations](Add_File_Operations.htm) for more information.
+    Operations. Refer to [Add Logical Paths](Add_Logical_Paths) and
+    [Add File Operations](Add_File_Operations) for more information.
   - Looping must be enabled for all events for the @filename to be
     populated with the most current Path/File.  If Looping is not
     enabled on any succeeding events (by clicking the Loop check box on
-    the *[Interface Events](../Page_Desc/Interface_Events.htm)* page,
+    the *[Interface Events](../Page_Desc/Interface_Events)* page,
     only the last value of the @filename will be available to that
     event.
   - Looping is not needed on a FileIterator when there is no other
@@ -40,7 +40,7 @@ delete the files from the source folder.
 3.  Click **Add**.
     
     [View the field description for the Interface Events
-    page](../Page_Desc/Interface_Events.htm)
+    page](../Page_Desc/Interface_Events)
 
 4.  Enter a value in the **PRIORITY** field.
     
@@ -60,7 +60,7 @@ delete the files from the source folder.
 9.  Click **Save**; the *Vertical* View displays.
     
     [View the field description for the Interface Events page’s Vertical
-    View](../Page_Desc/Interface_Events.htm#InterfaceEventsV)
+    View](../Page_Desc/Interface_Events#InterfaceEventsV)
 
 10. Select **FileIterator** from the **Event** list box.
 
@@ -71,7 +71,7 @@ delete the files from the source folder.
 13. Click **Add**.
     
     [View the field description for the WebApp Event
-    page](../Page_Desc/WebApp_Event.htm)
+    page](../Page_Desc/WebApp_Event)
 
 14. Enter the **@filename** in the **Field** combo box.
     
@@ -87,7 +87,7 @@ delete the files from the source folder.
 17. Enter **Operation** in the **Field** combo box.
 
 18. Enter the name of a File Operation that was created on the [File
-    Operations](../Page_Desc/File_Operations.htm) page in **Value**
+    Operations](../Page_Desc/File_Operations) page in **Value**
     field.
 
 19. Click **Save**.
@@ -102,7 +102,7 @@ the FileName is passed to a batch job
 3.  Click **Add**.
     
     [View the field description for the Interface Events
-    page](../Page_Desc/Interface_Events.htm)
+    page](../Page_Desc/Interface_Events)
 
 4.  Enter a value in the **PRIORITY** field.
     
@@ -122,7 +122,7 @@ the FileName is passed to a batch job
 9.  Click **Save**; the *Vertical* View displays.
     
     [View the field description for the Interface Events page’s Vertical
-    View](../Page_Desc/Interface_Events.htm#InterfaceEventsV)
+    View](../Page_Desc/Interface_Events#InterfaceEventsV)
 
 10. Select **CommandExec** from the **Event** list box.
 
@@ -133,7 +133,7 @@ the FileName is passed to a batch job
 13. Click **Add**.
     
     [View the field description for the WebApp Event
-    page](../Page_Desc/WebApp_Event.htm)
+    page](../Page_Desc/WebApp_Event)
 
 14. Enter **commandname** in the **Field** combo box.
 
@@ -190,7 +190,7 @@ to the “Description” field.
 3.  Click **Add**.
     
     [View the field description for the Interface Events
-    page](../Page_Desc/Interface_Events.htm)
+    page](../Page_Desc/Interface_Events)
 
 4.  Enter a value in the **PRIORITY** field.
     
@@ -209,7 +209,7 @@ to the “Description” field.
 9.  Click **Save**.
 
 10. Click the **Stored Procedure Parameters** icon to open the *[Stored
-    Procedure](../Page_Desc/Stored_Procedure.htm)* page.
+    Procedure](../Page_Desc/Stored_Procedure)* page.
     
     **NOTE:** When adding a stored procedure as an event, the parameters
     in the stored procedure are automatically created for the event.

@@ -14,7 +14,7 @@ varies from the setup of a Fixed Width or Delimited template as an XML
 file has several additional options. 
 
 **NOTE**: Begin template creation on the *Template* page in *Horizontal*
-View. Refer to [Create a Basic Template](Create_a_Basic_Template.htm)
+View. Refer to [Create a Basic Template](Create_a_Basic_Template)
 for more information.
 
 **NOTE**: The steps below describe adding structures and elements for
@@ -160,7 +160,7 @@ To add fields (elements and attributes) to a structure:
     **NOTE**: The name is used when mapping the template to data via a
     process, so should be the equivalent of a column name in the view in
     SQL that contains the data to map. Refer to [Add Data to be Included
-    in the XML file in SQL](AddDataIncludedXMLSQL.htm) for more
+    in the XML file in SQL](AddDataIncludedXMLSQL) for more
     information. 
 
 4.  Enter details about the field in **DESCRIPTION**. The user entered
@@ -170,7 +170,7 @@ To add fields (elements and attributes) to a structure:
     selected **Element**.
     
     **NOTE**: Refer to [Elements and
-    Attributes](Elements_and_Attributes.htm) for more information.
+    Attributes](Elements_and_Attributes) for more information.
 
 6.  Enter the output of the field in **OUTPUT**. The user entered
     **street**.

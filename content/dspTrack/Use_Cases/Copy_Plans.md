@@ -33,7 +33,7 @@ To copy a plan:
 
 6.  Click **Edit**.
     
-    [View the field descriptions for the Copy Plan page](Copy_Plan.htm)
+    [View the field descriptions for the Copy Plan page](Copy_Plan)
 
 7.  Enter a suffix in the **Task Copy Suffix** field if the names of all
     copied tasks should have a suffix.

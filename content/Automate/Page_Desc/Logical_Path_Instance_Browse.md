@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Browse FTP Site or
-Path](../Use_Cases/Browse_FTP_Site_or_Path.htm).
+Path](../Use_Cases/Browse_FTP_Site_or_Path).
 
 </div>
 

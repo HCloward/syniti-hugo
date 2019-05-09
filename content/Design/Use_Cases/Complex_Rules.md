@@ -15,7 +15,7 @@ when writing the rule. When an AutoGen request is processed, a
 placeholder where Complex rules can be developed is created.
 
 Refer to [Data Services
-AutoGen](../../Data_Services_AutoGen/Data_Services_Automation.htm) for
+AutoGen](../../Data_Services_AutoGen/Data_Services_Automation) for
 more information.
 
 This section contains the following topics:
@@ -31,13 +31,13 @@ This section contains the following topics:
 <span style="font-weight: bold;">NOTE:</span> If a field has both a
 Complex and Basic rule, the mapping also displays in Map with an Action
 of Manual Rule on the <span style="font-style: italic;">[Field
-Mappings](../../Map/Page_Desc/Field_Mappings_H.htm)</span> page.
+Mappings](../../Map/Page_Desc/Field_Mappings_H)</span> page.
 
 <span style="font-weight: bold;">NOTE:</span> After a Target with a
 Target field that has a Basic rule or Complex rule assigned is synced
 with Map, these rules are automatically sent to the
 <span style="font-style: italic;">[Mapping
-Approval](../../Map/Page_Desc/Mapping_Approval_H.htm)</span> page for a
+Approval](../../Map/Page_Desc/Mapping_Approval_H)</span> page for a
 developer to review them; however, they do not require approval to be
 used by Data Services AutoGen.
 
@@ -64,7 +64,7 @@ To add a Complex rule in Target Design:
     **Add**.
     
     *[View the field descriptions for the Rules: Complex Rule
-    page](../Page_Desc/Rules_Complex_Rule_H.htm)*
+    page](../Page_Desc/Rules_Complex_Rule_H)*
 
 2.  Enter a unique name for the rule in the **NAME** field.
     
@@ -109,7 +109,7 @@ can store a SQL function, BODS functions or stored procedure. Once the
 fields' Target is synced to Map, the Target Rules for the fields display
 on the
 <span style="font-style: italic;">[<span style="font-style: italic;">Field
-Mappings</span>](../../Map/Page_Desc/Field_Mappings_H.htm)</span> page.
+Mappings</span>](../../Map/Page_Desc/Field_Mappings_H)</span> page.
 
 For a field with a Complex rule that uses a BODS function, the settings
 on the<span style="font-style: italic;"> Field Mappings</span> page in
@@ -146,7 +146,7 @@ page in Map are:
   - <span style="font-weight: bold;">Comment</span>— Indicates the rule
     has been added in Target Design  
 
-Refer to [Sync Map and Target Design](Sync_Map_and_Target_Design_TD.htm)
+Refer to [Sync Map and Target Design](Sync_Map_and_Target_Design_TD)
 for more
 information.
 
@@ -167,7 +167,7 @@ To assign a Complex rule to a Target field in Target Design:
 
 1.  Select **Design** in the Context bar.
 
-2.  Click the **Targets**icon on the *[Design](../Page_Desc/Design.htm)*
+2.  Click the **Targets**icon on the *[Design](../Page_Desc/Design)*
     page.
 
 3.  Click the **Fields** icon for a Target.
@@ -186,7 +186,7 @@ To assign a Complex rule to a Target field in Target Design:
     ID** list box.
     
     **NOTE**: Execution stages are added on the *[Rules: Execution
-    Stage](../Page_Desc/Rules_Execution_Stage_Complex_Rule.htm)* page.
+    Stage](../Page_Desc/Rules_Execution_Stage_Complex_Rule)* page.
     Refer to [Add an Execution Stage](#Add_an_Execution_Stage) for more
     information.
 
@@ -215,7 +215,7 @@ To create an execution stage in Target Design:
 2.  Click **Add**.
     
     *[View the field descriptions for the Rules: Execution Stage
-    page](../Page_Desc/Rules_Execution_Stage_H.htm)*
+    page](../Page_Desc/Rules_Execution_Stage_H)*
 
 3.  Enter a unique name for the stage in the **NAME** field.
 

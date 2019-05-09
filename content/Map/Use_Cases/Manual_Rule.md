@@ -12,8 +12,8 @@ automatically generated and must be written.
 are managed in Target Design. They are not edited or submitted in Map.
 The mapping for a field with either a complex rule or both a complex and
 a basic rule displays in Map with an Action of Manual Rule.  Refer to
-[Add a Basic Rule](../../Design/Use_Cases/Basic_Rules.htm) and [Add a
-Complex Rule](../../Design/Use_Cases/Complex_Rules.htm) for more
+[Add a Basic Rule](../../Design/Use_Cases/Basic_Rules) and [Add a
+Complex Rule](../../Design/Use_Cases/Complex_Rules) for more
 information.
 
 <span style="font-weight: bold;">NOTE</span>: A mapping with a Manual
@@ -26,14 +26,14 @@ the Target Relationship ID field on the
 
 To create a field mapping using the Manual Rule action on the
 <span style="font-style: italic;">[Field
-Mappings](../Page_Desc/Field_Mappings_H.htm)</span> page:
+Mappings](../Page_Desc/Field_Mappings_H)</span> page:
 
 1.  Select the field to be mapped.
 
 2.  Click <span style="font-weight: bold;">Edit</span>.
     
         [View the field descriptions for the Field Mappings
-    page](../Page_Desc/Field_Mappings_H.htm)
+    page](../Page_Desc/Field_Mappings_H)
 
 3.  Select **Manual Rule** from the **ACTION** list box.
 
@@ -49,12 +49,12 @@ Mappings](../Page_Desc/Field_Mappings_H.htm)</span> page:
     Page toolbar.
 
 The mapping must be approved by a Developer on the *[Mapping
-Approval](../Page_Desc/Mapping_Approval_H.htm)* page for documentation
+Approval](../Page_Desc/Mapping_Approval_H)* page for documentation
 purposes and to help track progress of the data migration project. Refer
 to <span style="color: #0000ff;">[Mapping
-Approvals](Approve_or_Reject_Mappings.htm)</span> and
+Approvals](Approve_or_Reject_Mappings)</span> and
 <span style="color: #0000ff;">[Assign Developers to a Target or
-Source](../../Design/Use_Cases/Add_Developers_and%20Business%20Contacts.htm)</span>
+Source](../../Design/Use_Cases/Add_Developers_and%20Business%20Contacts)</span>
 for more information.
 
 Once the mapping has been submitted, the **Action, Source Table, Source

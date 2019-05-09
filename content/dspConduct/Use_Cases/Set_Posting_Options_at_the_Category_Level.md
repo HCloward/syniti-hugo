@@ -15,11 +15,11 @@ after the posting options are updated.
 
 These options can be overridden at the scenario level and viewed, but
 not updated, at the request level. Refer to [Update Posting Options at
-the Scenario Level](Update_Posting_Options_at_the_Scenario_%20Level.htm)
+the Scenario Level](Update_Posting_Options_at_the_Scenario_%20Level)
 for more information.
 
 Refer to [BDC Post Methods and Settings on the Advanced
-tab](../../../Platform/Integrate/Page_Desc/BDCPostMethodsSettingsAdvTab.htm)
+tab](../../../Platform/Integrate/Page_Desc/BDCPostMethodsSettingsAdvTab)
 for more information about posting methods.
 
 To set posting options in dspConduct™:
@@ -35,7 +35,7 @@ To set posting options in dspConduct™:
 5.  Click **Edit**.
     
     *[View the field descriptions for the Category Process page’s
-    Vertical View.](../Page_Desc/Category_Process.htm#Category)*
+    Vertical View.](../Page_Desc/Category_Process#Category)*
 
 6.  Update options as needed.
     

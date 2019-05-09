@@ -11,7 +11,7 @@ Jobs, for example change data capture.
 Prior to adding this package type configure the connection information
 used by SAP Data Services at the Target Source level. Refer to
 [Configure Source for SAP Data
-Services](Register_and_Use_Sources.htm#Configure_Source_for_SAP_Data_Services)
+Services](Register_and_Use_Sources#Configure_Source_for_SAP_Data_Services)
 for more information.
 
 To use the package type:
@@ -67,7 +67,7 @@ Displays the format of the Schema Name object in a Download job. Default
 value is **TFM\_\#TARGETTABLE\#**.
 
 1.  Add a table to the Source. Refer to [Manually Register Tables to
-    Source](Manually_Register_Tables_to_Source.htm) for more
+    Source](Manually_Register_Tables_to_Source) for more
     information.
 2.  Select **Manual Data Services** in the **Package Type** list box.
 3.  Click **Save**.

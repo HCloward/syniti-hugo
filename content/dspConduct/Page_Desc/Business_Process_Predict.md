@@ -10,10 +10,10 @@ dates for active requests from the average running business process.
 This dashboard shows based on predictions which processes will be the
 best and worst performing.
 
-Click a bar to drill down to the <span>*[Request](Request.htm)*</span>
+Click a bar to drill down to the <span>*[Request](Request)*</span>
 page.
 
-Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts.htm) for
+Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts) for
 general information about chart features.
 
 To access this chart in dspConduct<span>™</span>:

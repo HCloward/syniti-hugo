@@ -38,7 +38,7 @@ To register a user:
 7.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the Plan User Registration
-    page](../Page_Desc/Plan_User_Registration.htm)
+    page](../Page_Desc/Plan_User_Registration)
 
 8.  Enter the user’s name in **NAME** field.
 
@@ -77,7 +77,7 @@ To edit the registered user:
     page.
     
     [View the field descriptions for the Plan User Registration
-    page](../Page_Desc/Plan_User_Registration.htm)
+    page](../Page_Desc/Plan_User_Registration)
 
 2.  Update the name in the <span style="font-weight: bold;">USER
     ID</span> field.
@@ -87,7 +87,7 @@ To edit the registered user:
     **NOTE**: A user can update the user ID in this field to assign the
     current user's tasks to another user in the platform. Refer to
     [Assign a Registered User's Tasks to Another
-    User](Assign_Registered_User_Tasks_Another_User.htm) for more
+    User](Assign_Registered_User_Tasks_Another_User) for more
     information about using this feature.
 
 3.  Enter a name in the <span style="font-weight: bold;">NAME</span>

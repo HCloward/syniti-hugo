@@ -12,14 +12,14 @@ the design of objects in a database.
 
 This use case covers the following topics:
 
-  - [Configure Trace Parameters](Configure_Trace_Parameters.htm)
+  - [Configure Trace Parameters](Configure_Trace_Parameters)
   - [Activate and Deactivate Data
-    Source](Activate_and_Deactivate_Data_Source.htm)
+    Source](Activate_and_Deactivate_Data_Source)
   - [View
-    Objects](../../../Migration/Construct/Use_Cases/View_Objects.htm)
+    Objects](../../../Migration/Construct/Use_Cases/View_Objects)
   - [View Object
-    Charts](../../../Migration/Construct/Use_Cases/View_Object_Charts.htm)
+    Charts](../../../Migration/Construct/Use_Cases/View_Object_Charts)
   - [View Object
-    History](../../../Migration/Construct/Use_Cases/View_Object_History.htm)
+    History](../../../Migration/Construct/Use_Cases/View_Object_History)
   - [Download Rate of Change
-    Spreadsheet](Download_Rate_of_Change_Spreadsheet.htm)
+    Spreadsheet](Download_Rate_of_Change_Spreadsheet)

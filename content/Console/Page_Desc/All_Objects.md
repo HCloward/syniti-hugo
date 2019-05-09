@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Assign Contacts to
-Objects](../Use_Cases/Add_Target_Contacts_to_Objects.htm#Assign2).
+Objects](../Use_Cases/Add_Target_Contacts_to_Objects#Assign2).
 
 </div>
 

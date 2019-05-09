@@ -17,7 +17,7 @@ roles they have tasks to complete. The email contains a link to trigger
 specific events and to launch the relevant page in dspCompose™.
 
 Workflow messages can be configured. Refer to [Configure Workflow
-Messages](Configure_Workflow_Messages.htm) for more information.
+Messages](Configure_Workflow_Messages) for more information.
 
 <span style="font-weight: bold;">NOTE:</span> Workflow messages can be
 configured for the languages that display in the LANGUAGE ID column.

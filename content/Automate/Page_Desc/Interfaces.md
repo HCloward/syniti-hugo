@@ -11,14 +11,14 @@ solution = 'Platform'
 
 Use this page to:
 
-  - [Create an Interface](../Use_Cases/Create_an_Interface.htm)
-  - [Schedule Interfaces](../Use_Cases/Schedule_Interfaces.htm)
+  - [Create an Interface](../Use_Cases/Create_an_Interface)
+  - [Schedule Interfaces](../Use_Cases/Schedule_Interfaces)
   - [Activate Interfaces, Events and
-    Validations](../Use_Cases/Activate_Interfaces_Events.htm)
-  - [Test Interfaces](../Use_Cases/Test_Interfaces.htm)
-  - [Schedule Interfaces](../Use_Cases/Schedule_Interfaces.htm)
+    Validations](../Use_Cases/Activate_Interfaces_Events)
+  - [Test Interfaces](../Use_Cases/Test_Interfaces)
+  - [Schedule Interfaces](../Use_Cases/Schedule_Interfaces)
   - [View History of an
-    Interface](../Use_Cases/View_History_of_an_Interface.htm)
+    Interface](../Use_Cases/View_History_of_an_Interface)
 
 </div>
 
@@ -100,17 +100,17 @@ To access this page, select **Interfaces** in the *Navigation* pane.
 </tr>
 <tr class="odd">
 <td><p>Events</p></td>
-<td><p>Click to open the <em><a href="Interface_Events.htm">Interface Events</a></em> page. Use this page to register interface events.</p>
+<td><p>Click to open the <em><a href="Interface_Events">Interface Events</a></em> page. Use this page to register interface events.</p>
 <p>The count on the icon is the total number of events registered to the selected interface.</p></td>
 </tr>
 <tr class="even">
 <td><p>Validations</p></td>
-<td><p>Click to open the <a href="Interface_Validations.htm"><em>Interface Validations</em></a> page. Use this page to register interface event validations.</p>
+<td><p>Click to open the <a href="Interface_Validations"><em>Interface Validations</em></a> page. Use this page to register interface event validations.</p>
 <p>The count on the icon is the total number of validations registered to the selected interface.</p></td>
 </tr>
 <tr class="odd">
 <td><p>History</p></td>
-<td><p>Click to open the <em><a href="Interface_History.htm">Interface History</a></em>page to view historical details of the interface: when it ran,  how long it took to run, tasks associated with the interface, etc.</p></td>
+<td><p>Click to open the <em><a href="Interface_History">Interface History</a></em>page to view historical details of the interface: when it ran,  how long it took to run, tasks associated with the interface, etc.</p></td>
 </tr>
 </tbody>
 </table>
@@ -131,7 +131,7 @@ This page contains the following tabs:
 <div class="use">
 
 Use this tab to [Create an
-Interface](../Use_Cases/Create_an_Interface.htm).
+Interface](../Use_Cases/Create_an_Interface).
 
 </div>
 
@@ -181,7 +181,7 @@ the *[Horizontal](#InterfacesH)* View.
 
 Monitor
 
-Click to open the *[Monitor](Monitor_H.htm)* page to view and interact
+Click to open the *[Monitor](Monitor_H)* page to view and interact
 with interfaces that are currently running or that have failed.
 
 Reset
@@ -195,7 +195,7 @@ History Info
 
 History
 
-Click to open the *[Interface History](Interface_History.htm)* page to
+Click to open the *[Interface History](Interface_History)* page to
 view historical data of the interface: when it ran, how long it took to
 run, tasks associated with the interface, etc.
 
@@ -216,8 +216,8 @@ Displays the date and time at which the interface last completed.
 Use this tab to:
 
   - [Set Up Notifications for an
-    Interface](../Use_Cases/Set_Up_Notifications_for_an_Interface.htm)
-  - [Schedule Interfaces](../Use_Cases/Schedule_Interfaces.htm)
+    Interface](../Use_Cases/Set_Up_Notifications_for_an_Interface)
+  - [Schedule Interfaces](../Use_Cases/Schedule_Interfaces)
 
 </div>
 
@@ -238,7 +238,7 @@ Use this tab to:
 <tr class="even">
 <td><p>Business Role</p></td>
 <td><p>Displays the role that receives the notification workflow email, depending on how workflow notification options are set.</p>
-<p>A user is assigned to a role. Refer to <a href="../Use_Cases/Assign_Users_to_Roles.htm">Assign Users to Roles</a> for more information. </p></td>
+<p>A user is assigned to a role. Refer to <a href="../Use_Cases/Assign_Users_to_Roles">Assign Users to Roles</a> for more information. </p></td>
 </tr>
 <tr class="odd">
 <td><p>Business Notification Option</p></td>
@@ -272,7 +272,7 @@ Use this tab to:
 <div class="use">
 
 Use this tab to [Schedule
-Interfaces](../Use_Cases/Schedule_Interfaces.htm).
+Interfaces](../Use_Cases/Schedule_Interfaces).
 
 </div>
 
@@ -383,8 +383,8 @@ It is checked by default.
 
 Use this tab to:
 
-  - [Schedule Interfaces](../Use_Cases/Schedule_Interfaces.htm)
-  - [Test Interfaces](../Use_Cases/Test_Interfaces.htm)
+  - [Schedule Interfaces](../Use_Cases/Schedule_Interfaces)
+  - [Test Interfaces](../Use_Cases/Test_Interfaces)
 
 </div>
 
@@ -396,7 +396,7 @@ Use this tab to:
 </tr>
 <tr class="even">
 <td><p>Debug Mode</p></td>
-<td><p>If checked, Storage Level is ignored and only tasks with severities of Debug and higher are written to the <em><a href="Log.htm">Log</a></em> page.</p>
+<td><p>If checked, Storage Level is ignored and only tasks with severities of Debug and higher are written to the <em><a href="Log">Log</a></em> page.</p>
 <p>If unchecked, all tasks are written to the interface’s log.</p>
 <p>It is unchecked by default.</p></td>
 </tr>

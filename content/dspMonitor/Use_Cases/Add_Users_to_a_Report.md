@@ -16,7 +16,7 @@ To add users to a group:
 
 <span style="font-weight: bold;">NOTE</span>: The group must have at
 least one report assigned for data to display on this page. Refer to
-[Add Reports to a Group](Add_Reports_to_a_Group.htm) for more
+[Add Reports to a Group](Add_Reports_to_a_Group) for more
 information.
 
 2\.<span style="font: 7.0pt &#39;Times New Roman&#39;;">   </span> Click
@@ -32,7 +32,7 @@ available if the current user is the group owner for the group.
 **Add**.
 
 [View the field descriptions for the Group Users
-page](../Page_Desc/Group_Users.htm)
+page](../Page_Desc/Group_Users)
 
 5\.<span style="font: 7.0pt &#39;Times New Roman&#39;;">   </span> Select
 user name from **USER ID** list box.

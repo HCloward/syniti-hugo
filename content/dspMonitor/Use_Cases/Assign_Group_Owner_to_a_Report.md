@@ -22,10 +22,10 @@ group:
 **Edit** for Group ID.
 
 [View the field descriptions for the Groups
-page](../Page_Desc/Groups_H.htm)
+page](../Page_Desc/Groups_H)
 
 **NOTE:** If a group has not been created for the group owner, refer to
-[Create Groups](Create_Groups_dspMonitor.htm) for detailed
+[Create Groups](Create_Groups_dspMonitor) for detailed
 information.
 
 3\.<span style="font: 7.0pt &#39;Times New Roman&#39;;">   </span> Select

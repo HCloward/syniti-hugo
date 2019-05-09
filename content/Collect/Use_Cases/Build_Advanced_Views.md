@@ -19,7 +19,7 @@ To use the advance build feature:
 2.  Click **Add**.
     
     [View the field descriptions for the Advanced View Builder
-    page](../Page_Desc/Advanced_View_Builder_H.htm)
+    page](../Page_Desc/Advanced_View_Builder_H)
 
 3.  Select a database where the rules will be created from **DATABASE
     FOR VIEWS** list box. This database cannot be the same as database

@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Monitor Interfaces &
-Events](../Use_Cases/Monitor_Interfaces_Events.htm).
+Events](../Use_Cases/Monitor_Interfaces_Events).
 
 </div>
 
@@ -54,7 +54,7 @@ To access this page, select **Monitor** in the *Navigation* pane.
 </tr>
 <tr class="even">
 <td><p>NEXT RETRY DATE</p></td>
-<td><p>Displays the next date on which to retry running the interface if the event failed. Refer to <a href="../Use_Cases/Set_Retry_Parameters.htm">Set Retry Parameters</a> for more information.</p></td>
+<td><p>Displays the next date on which to retry running the interface if the event failed. Refer to <a href="../Use_Cases/Set_Retry_Parameters">Set Retry Parameters</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>RETRY COUNT</p></td>
@@ -70,7 +70,7 @@ To access this page, select **Monitor** in the *Navigation* pane.
 </tr>
 <tr class="even">
 <td><p>Events</p></td>
-<td><p>Click to open the <a href="Monitor_Events.htm"><em>Monitor (Events)</em></a> page to view and interact with interface events that are currently running or that have failed.</p>
+<td><p>Click to open the <a href="Monitor_Events"><em>Monitor (Events)</em></a> page to view and interact with interface events that are currently running or that have failed.</p>
 <p>The count on the icon is the total number of events registered to the selected interface.</p></td>
 </tr>
 <tr class="odd">
@@ -114,7 +114,7 @@ To access this page, select **Monitor** in the *Navigation* pane.
 </tr>
 <tr class="odd">
 <td><p>Next Retry Date</p></td>
-<td><p>Displays the next date on which to retry running the interface if it failed. Refer to <a href="../Use_Cases/Set_Retry_Parameters.htm">Set Retry Parameter</a>s for more information.</p></td>
+<td><p>Displays the next date on which to retry running the interface if it failed. Refer to <a href="../Use_Cases/Set_Retry_Parameters">Set Retry Parameter</a>s for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Retry Count</p></td>
@@ -136,7 +136,7 @@ To access this page, select **Monitor** in the *Navigation* pane.
 </tr>
 <tr class="odd">
 <td><p>Events</p></td>
-<td><p>Click to open the <em><a href="Monitor_Events.htm">Monitor (Events)</a></em> page to view and interact with interface events that are currently running or that have failed.</p>
+<td><p>Click to open the <em><a href="Monitor_Events">Monitor (Events)</a></em> page to view and interact with interface events that are currently running or that have failed.</p>
 <p>The count on the icon is the total number of events registered to the selected interface.</p></td>
 </tr>
 <tr class="even">

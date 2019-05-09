@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Configure Duplicates
-Parameters.](../Use_Cases/Configure_Duplicates_Parameters.htm)
+Parameters.](../Use_Cases/Configure_Duplicates_Parameters)
 
 </div>
 
@@ -58,7 +58,7 @@ process.
 Remove Blank Lines
 
 Click to remove blank lines from the HTML formatted output on the
-*[Candidates](Candidates.htm)* page. This action makes each object block
+*[Candidates](Candidates)* page. This action makes each object block
 smaller as white space is removed. When comparing objects with multiple
 lines, such as address data, multiple lines may cause the data to not
 line up on the page. If needed, the Remove Blank Lines check box can be

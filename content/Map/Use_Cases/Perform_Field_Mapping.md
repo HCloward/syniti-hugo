@@ -16,7 +16,7 @@ To map a field, at a high level:
 4.  Click **Edit**.
     
     [View the field descriptions for the Field Mappings
-    page](../Page_Desc/Field_Mappings_H.htm)
+    page](../Page_Desc/Field_Mappings_H)
 
 5.  [Select an Action](#Select_an_Action).
 
@@ -32,7 +32,7 @@ To map a field, at a high level:
     Target or Source to review the mapping on the
     <span style="font-style: italic;">Mapping Approval</span> page.
     Refer to [Approve or Reject
-    Mappings](Approve_or_Reject_Mappings.htm) for more information.
+    Mappings](Approve_or_Reject_Mappings) for more information.
 
 <span style="font-weight: bold;">NOTE:</span> Click
 <span style="font-weight: bold;">Submit All</span> to submit all
@@ -43,11 +43,11 @@ submitted).
 **NOTE:** Once the mapping has been approved, the
 <span style="font-weight: bold;">RULE STATUS</span> is updated to In
 Progress, and the field mapping is considered complete for Gate Wave
-Metrics. Refer to [View Metrics](View_Metrics_Map.htm) for more
+Metrics. Refer to [View Metrics](View_Metrics_Map) for more
 information. 
 
 Refer to [Mapping Status and Rule
-Status](Mapping_Status_and_Rule_Status.htm) for information about how
+Status](Mapping_Status_and_Rule_Status) for information about how
 statuses change throughout the mapping process.
 
 ## <span id="Prepare_for_Field_Mapping"></span>Prepare for Field Mapping
@@ -55,7 +55,7 @@ statuses change throughout the mapping process.
 Before performing field mapping, perform the following tasks:
 
   - [Sync Map and Target
-    Design](../../Design/Use_Cases/Sync_Map_and_Target_Design_TD.htm)
+    Design](../../Design/Use_Cases/Sync_Map_and_Target_Design_TD)
 
   - Set a Source Database
 Object
@@ -93,7 +93,7 @@ To set the Source database in Map:
 
 2.  Click the <span style="font-weight: bold;">Targets</span> icon on
     the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page.
 
 3.  Click the <span style="font-weight: bold;">Sources</span> icon for a
     Target.
@@ -103,7 +103,7 @@ To set the Source database in Map:
 5.  Click **Edit**.
     
     [View the field descriptions for the Target Sources page's Vertical
-    View](../Page_Desc/Target_Sources_H_Map.htm)
+    View](../Page_Desc/Target_Sources_H_Map)
 
 6.  Select a table or view from the **Source Database Object** list box.
 
@@ -113,7 +113,7 @@ To set the Source database in Map:
 ## <span id="Access_the_Field_Mappings_Page"></span>Access the *Field Mappings* Page
 
 Map provides multiple navigation paths to the *[Field
-Mappings](../Page_Desc/Field_Mappings_H.htm)* page. Depending on how the
+Mappings](../Page_Desc/Field_Mappings_H)* page. Depending on how the
 page is accessed, different fields can be mapped.
 
 <table>
@@ -125,7 +125,7 @@ page is accessed, different fields can be mapped.
 <tr class="even">
 <td><ol>
 <li>Click <strong>ProcessArea</strong> in the <em>Navigation</em> pane.</li>
-<li>Click the <strong>Targets</strong> icon on the <em><a href="../Page_Desc/Process_Area_Launch_map.htm">Process Area Launch</a></em> page.</li>
+<li>Click the <strong>Targets</strong> icon on the <em><a href="../Page_Desc/Process_Area_Launch_map">Process Area Launch</a></em> page.</li>
 <li>Click the <strong>Sources</strong> icon for a Target.</li>
 <li>Click the <strong>Update Row Sources</strong> icon for a Source.</li>
 <li>Click the <strong>Secondary Source</strong> icon for an Add Row Source.</li>
@@ -136,7 +136,7 @@ page is accessed, different fields can be mapped.
 <tr class="odd">
 <td><ol>
 <li>Click <strong>ProcessArea</strong> in the <em>Navigation</em> pane.</li>
-<li>Click the <strong>Targets</strong> icon on the <em><a href="../Page_Desc/Process_Area_Launch_map.htm">Process Area Launch</a></em> page.</li>
+<li>Click the <strong>Targets</strong> icon on the <em><a href="../Page_Desc/Process_Area_Launch_map">Process Area Launch</a></em> page.</li>
 <li>Click the <strong>Mappings</strong> icon for a Target.</li>
 </ol></td>
 <td><p>All field mappings for the selected Target.</p>
@@ -145,7 +145,7 @@ page is accessed, different fields can be mapped.
 <tr class="even">
 <td><ol>
 <li>Click <strong>ProcessArea</strong> in the <em>Navigation</em> pane.</li>
-<li>Click the <strong>Targets</strong> icon on the <em><a href="../Page_Desc/Process_Area_Launch_map.htm">Process Area Launch</a></em> page.</li>
+<li>Click the <strong>Targets</strong> icon on the <em><a href="../Page_Desc/Process_Area_Launch_map">Process Area Launch</a></em> page.</li>
 <li>Click the <strong>Sources</strong> icon for a Target..</li>
 <li>Click the <strong>Mappings</strong> icon for a Source.</li>
 </ol></td>
@@ -155,7 +155,7 @@ page is accessed, different fields can be mapped.
 <tr class="odd">
 <td><ol>
 <li>Click <strong>ProcessArea</strong> in the <em>Navigation</em> pane.</li>
-<li>Click the <strong>Targets</strong> icon on the <em><a href="../Page_Desc/Process_Area_Launch_map.htm">Process Area Launch</a></em> page.</li>
+<li>Click the <strong>Targets</strong> icon on the <em><a href="../Page_Desc/Process_Area_Launch_map">Process Area Launch</a></em> page.</li>
 <li>Click the <strong>Field Groups</strong> icon for a Target.</li>
 <li>Click the <strong>Mappings</strong> icon for a field group.</li>
 </ol></td>
@@ -164,7 +164,7 @@ page is accessed, different fields can be mapped.
 <tr class="even">
 <td><ol>
 <li>Click <strong>ProcessArea</strong> in the <em>Navigation</em> pane.</li>
-<li>Click the <strong>Targets</strong> icon on the <em><a href="../Page_Desc/Process_Area_Launch_map.htm">Process Area Launch</a></em> page.</li>
+<li>Click the <strong>Targets</strong> icon on the <em><a href="../Page_Desc/Process_Area_Launch_map">Process Area Launch</a></em> page.</li>
 <li>Click the <strong>Sources</strong> icon for a Target.</li>
 <li>Click the <strong>Update Row Sources</strong> icon for a Source.</li>
 <li>Click the <strong>Mappings</strong> icon for an Add Row Source.</li>
@@ -196,16 +196,16 @@ process is the same.
 These options are available in the ACTION list box on the *Field
 Mappings* page:
 
-  - [Construction](Construction.htm)
-  - [Copy](Copy_Map.htm)
-  - [Default](Default_Action.htm)
-  - [Internal](Internal.htm)
-  - [Manual Rule](Manual_Rule.htm)
-  - [Manual Construction](Manual_Construction.htm)
-  - [Not Used](Not_Used.htm)
-  - [Rule](Rule.htm)
-  - [Rule Xref](Rule_Xref.htm)
-  - [Xref](Xref.htm)
+  - [Construction](Construction)
+  - [Copy](Copy_Map)
+  - [Default](Default_Action)
+  - [Internal](Internal)
+  - [Manual Rule](Manual_Rule)
+  - [Manual Construction](Manual_Construction)
+  - [Not Used](Not_Used)
+  - [Rule](Rule)
+  - [Rule Xref](Rule_Xref)
+  - [Xref](Xref)
 
 Depending on the action selected, different fields are required for the
 record on the *Field Mappings* page. The following table lists the
@@ -224,14 +224,14 @@ the sections corresponding to each action for more information.
  
 
 The <span style="font-style: italic;">[Field
-Mappings](../Page_Desc/Field_Mappings_H.htm)</span> page is a single
+Mappings](../Page_Desc/Field_Mappings_H)</span> page is a single
 resource that allows users to map fields, view details about mappings,
 and perform mapping-related tasks, including:
 
   - [Update Unmapped Fields to
-    NotUsed](Update_Unmapped_Fields_to_NotUsed.htm)
-  - [View all Mappings for a Target](View_all_Mappings_for_a_Target.htm)
-  - [View Field Mapping History](View_Field_Mapping_History.htm)
+    NotUsed](Update_Unmapped_Fields_to_NotUsed)
+  - [View all Mappings for a Target](View_all_Mappings_for_a_Target)
+  - [View Field Mapping History](View_Field_Mapping_History)
   - [Restore Current Field Mapping From
-    History](Restore_Current_Field_Mapping_From_History.htm)
-  - [Copy a Mapping](Copy_a_Mapping.htm)
+    History](Restore_Current_Field_Mapping_From_History)
+  - [Copy a Mapping](Copy_a_Mapping)

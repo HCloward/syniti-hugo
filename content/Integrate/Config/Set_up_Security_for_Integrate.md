@@ -14,7 +14,7 @@ To set up security, an Administrator:
 
 A user can then:
 
-5.  [Create Integrate Categories](Create_Categories.htm) in Integrate.
+5.  [Create Integrate Categories](Create_Categories) in Integrate.
     
     An Administrator can then:
 

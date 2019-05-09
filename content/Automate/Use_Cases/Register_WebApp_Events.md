@@ -19,7 +19,7 @@ To register a WebApp event in Automate:
 3.  Click **Add**.
     
     [View the field description for the Interface Events
-    page](../Page_Desc/Interface_Events.htm)
+    page](../Page_Desc/Interface_Events)
 
 4.  Enter a value in the **PRIORITY** field.
     
@@ -30,14 +30,14 @@ To register a WebApp event in Automate:
     
     **NOTE:** The PAGE ID field displays a list of all WebApp pages that
     have public events defined. Refer to [About Automate
-    Events](About_Automate_Events.htm) for more information.
+    Events](About_Automate_Events) for more information.
 
 6.  Select a page ID from the **PAGE ID** list box to configure where
     the event runs.
 
 7.  Click the **LOOP** check box to enable it, indicating the event is
     intended to be processed multiple times based on input. Refer to
-    [Set Up a Looping Process](Set_up_a_Looping_Process.htm) for more
+    [Set Up a Looping Process](Set_up_a_Looping_Process) for more
     information.
 
 8.  Enter a descriptive comment in the **COMMENT** field.
@@ -48,7 +48,7 @@ To register a WebApp event in Automate:
     determines the fields that display on the *Vertical* View.
     
     [View the field description for the Interface Events page’s Vertical
-    View](../Page_Desc/Interface_Events.htm#InterfaceEventsV)
+    View](../Page_Desc/Interface_Events#InterfaceEventsV)
 
 10. Select a WebApp event from the **Event** list box.
     
@@ -62,7 +62,7 @@ To register a WebApp event in Automate:
 <!-- end list -->
 
 1.  Click the **Web App Parameters** icon to open the *[WebApp
-    Events](../Page_Desc/WebApp_Event.htm)* page. Use this page to enter
+    Events](../Page_Desc/WebApp_Event)* page. Use this page to enter
     field and values to pass to the event.
     
     **NOTE:** When adding a WebApp as an event, the parameters in the

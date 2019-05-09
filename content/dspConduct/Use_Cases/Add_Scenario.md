@@ -5,15 +5,15 @@ solution = 'Master Data Management'
 
 # Add a Scenario
 
-The *[Scenario](../Page_Desc/Scenario_H.htm)* page allows a Designer to
+The *[Scenario](../Page_Desc/Scenario_H)* page allows a Designer to
 add to a scenario to a category. Refer to [Create a
-Category](Create_a_Category.htm) for information about adding a
+Category](Create_a_Category) for information about adding a
 category.
 
 Once added, a scenario can be added to a business process from a
 different category than the business process’s parent category. Refer to
 [Allow a Scenario to be used in other
-Categories](Allow_a_Scenario_to_be_used_in_Other_Categories.htm) for
+Categories](Allow_a_Scenario_to_be_used_in_Other_Categories) for
 more information.
 
 To add a scenario to a category in dspConduct™:
@@ -30,7 +30,7 @@ To add a scenario to a category in dspConduct™:
 4.  Click **Add**.
     
     *[View the field descriptions for the Scenario
-    page.](../Page_Desc/Scenario_H.htm)*
+    page.](../Page_Desc/Scenario_H)*
 
 5.  Enter a scenario name in the **NAME** field.
 
@@ -63,7 +63,7 @@ To add a scenario to a category in dspConduct™:
 9.  Click **Save**; the *Scenario* page's *Vertical* View displays.
     
     *[View the field descriptions for the Scenario page’s Vertical
-    View.](../Page_Desc/Scenario_H.htm#Scenario_V)*
+    View.](../Page_Desc/Scenario_H#Scenario_V)*
 
 10. Select the owner in the **Owner** list box. if needed.
     
@@ -75,11 +75,11 @@ To add a scenario to a category in dspConduct™:
     
     **NOTE:** This is the org unit to be used to create child requests
     for the scenario. Refer to [Configure Child Scenario
-    Criteria](Configure_Child_Scenario_Criteria.htm) for more
+    Criteria](Configure_Child_Scenario_Criteria) for more
     information.
 
 12. Enter comments in the **Comment** field.
 
 13. Click **Save**.
 
-Continue with [Add a Role to a Scenario](Add_a_Role_to_a_Scenario.htm).
+Continue with [Add a Role to a Scenario](Add_a_Role_to_a_Scenario).

@@ -27,12 +27,12 @@ To add a custom information type:
 2.  Click **Add**.
     
     *[View the field descriptions for the Information Type
-    page](../Page_Desc/Information%20Type.htm)*
+    page](../Page_Desc/Information%20Type)*
 
 3.  Enter a name in the **Information Type** field.
     
     **NOTE:** This name displays on the *[Data
-    Classification](../Page_Desc/Data%20Classification.htm)* page.
+    Classification](../Page_Desc/Data%20Classification)* page.
 
 4.  Enable the **RETENTION PERIOD WARNING** check box if needed.
     

@@ -31,7 +31,7 @@ To configure workflow content:
 3.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the Parameters
-    page](../Page_Desc/Parameters.htm)
+    page](../Page_Desc/Parameters)
 
 4.  Configure the Workflow Parameters as needed.
 
@@ -71,7 +71,7 @@ groups:
 **Edit<span style="font-weight: normal;">.</span>**
 
 [View the field descriptions for the Groups page's Vertical
-View](../Page_Desc/Groups_H.htm)
+View](../Page_Desc/Groups_H)
 
 5\.<span style="font: 7.0pt &#39;Times New Roman&#39;;">   </span> Select
 a schedule form **Workflow Schedule ID** to control when workflow emails
@@ -83,7 +83,7 @@ group in case a user sets the schedule at a different frequency. If
 these fields are left blank, default values are automatically entered.
 
 **NOTE:** Schedules are maintained in Common. Refer to [Create
-Schedules](../../../Platform/Common/Use_Cases/Create_Schedules.htm) for
+Schedules](../../../Platform/Common/Use_Cases/Create_Schedules) for
 detailed information.
 
 6\.<span style="font: 7.0pt &#39;Times New Roman&#39;;">   </span> Click
@@ -108,14 +108,14 @@ users:
 **Edit<span style="font-weight: normal;">.</span>**
 
 [View the field descriptions for the User (Reports)
-page](../Page_Desc/User_Reports_H.htm)
+page](../Page_Desc/User_Reports_H)
 
 4\.<span style="font: 7.0pt &#39;Times New Roman&#39;;">   </span> Select
 a schedule form **Workflow Schedule ID** to control when workflow emails
 are sent for the group.
 
 **NOTE:** Schedules are maintained in Common. Refer to [Create
-Schedules](../../../Platform/Common/Use_Cases/Create_Schedules.htm) for
+Schedules](../../../Platform/Common/Use_Cases/Create_Schedules) for
 detailed information.
 
 5\.<span style="font: 7.0pt &#39;Times New Roman&#39;;">   </span> Click

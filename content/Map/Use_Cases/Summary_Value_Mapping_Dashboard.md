@@ -12,7 +12,7 @@ field, while the target system uses the value US. Value mapping converts
 the source value to the target value for every occurrence of the source
 value in the field.
 
-Refer to [Perform Value Mapping](Perform_Value_Mapping.htm) for more
+Refer to [Perform Value Mapping](Perform_Value_Mapping) for more
 information.
 
 Select <span style="font-weight: bold;">Process Area Launch \> Value
@@ -25,10 +25,10 @@ day, week and month is also provided.
 This dashboard contains the following charts:
 
   - [Value Mapping Completed By Check
-    Table](Value_Mapping_Completed_by_Check_Table.htm)
+    Table](Value_Mapping_Completed_by_Check_Table)
   - [Value Mapping Daily By Check
-    Table](Value_Mapping_Daily_by_Check_Table.htm)
+    Table](Value_Mapping_Daily_by_Check_Table)
   - [Value Mapping Weekly By Check
-    Table](Value_Mapping_Weekly_by_Check_Table.htm)
+    Table](Value_Mapping_Weekly_by_Check_Table)
   - [Value Mapping Monthly By Check
-    Table](Value_Mapping_Monthly_by_Check_Table.htm)
+    Table](Value_Mapping_Monthly_by_Check_Table)

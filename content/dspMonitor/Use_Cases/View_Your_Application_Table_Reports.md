@@ -17,7 +17,7 @@ To view application table reports:
 3.  Click the **Reports** icon.
     
     *[View the field descriptions for the Your Application Table Reports
-    page](../Page_Desc/Your_Application_Table_Reports_H.htm)*
+    page](../Page_Desc/Your_Application_Table_Reports_H)*
 
 4.  Click the **View** icon to view the report data.
     

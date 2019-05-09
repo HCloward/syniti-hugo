@@ -18,7 +18,7 @@ however, it can be modified per template.
 
 **NOTE**: To modify a retention parameter, the template must not be
 active or must be in Developer Mode. Refer to [Modify an Active Template
-in Developer Mode](Modify_an_Active_Template_in_Developer_Mode.htm) for
+in Developer Mode](Modify_an_Active_Template_in_Developer_Mode) for
 more information.
 
 To configure retention parameters for a template:
@@ -37,7 +37,7 @@ To configure retention parameters for a template:
 6.  Click **Edit** for a request status.
     
     *[View the field descriptions for the Template (Request Retention)
-    page.](../Page_Desc/Template_Request_Retention.htm)*
+    page.](../Page_Desc/Template_Request_Retention)*
 
 7.  Enter a value in **RETENTION INTERVAL** field.
     
@@ -46,7 +46,7 @@ To configure retention parameters for a template:
 
 8.  Click **Save**.
 
-Refer to [Archive Requests](Archive_Requests.htm) for more information.
+Refer to [Archive Requests](Archive_Requests) for more information.
 
 Request statuses used by active requests are:
 
@@ -56,7 +56,7 @@ Request statuses used by active requests are:
   - <span style="font-weight: bold;">Posting Scheduled –</span> The
     request is scheduled to be posted using the Schedule Post posting
     option. Refer to [Post Request Data to the Target ERP
-    System](Post_Request_Data_to_a_Target_ERP_System.htm) for more
+    System](Post_Request_Data_to_a_Target_ERP_System) for more
     information.
   - <span style="font-weight: bold;">Posting</span> – The request is
     currently being posted to the Target ERP system.
@@ -65,7 +65,7 @@ Request statuses used by active requests are:
   - <span style="font-weight: bold;">Posted with Errors</span> – At
     least one record in the request has not posted successfully to the
     Target ERP system. Refer to [Correct and Post Failed
-    Records](Correct_and_Post_Failed_Records.htm) for more information.
+    Records](Correct_and_Post_Failed_Records) for more information.
   - <span style="font-weight: bold;">Finish Processing</span> – The
     posting process for the request is finished. The Post role has
     clicked the Finish button for the request on the
@@ -90,11 +90,11 @@ Request statuses used by inactive requests are:
   - <span style="font-weight: bold;">Cancelled</span> – The request has
     been cancelled. <span>A cancelled request can be archived, but
     cannot be reset. Refer to [Change Request
-    Status](Change_Request_Status.htm) for more information.</span>
+    Status](Change_Request_Status) for more information.</span>
   - <span style="font-weight: bold;">Deleted</span> –
     <span style="font-family: Arial, sans-serif;">The request has been
     deleted and cannot be reset. The data entry records for the deleted
     request cannot be archived and are deleted from the Data database
     once the Service (Archive Requests) runs.</span><span> Refer to
-    [Change Request Status](Change_Request_Status.htm) for more
+    [Change Request Status](Change_Request_Status) for more
     information.</span>

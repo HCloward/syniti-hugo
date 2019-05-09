@@ -7,7 +7,7 @@ solution = 'Platform'
 
 System types can be added depending on the needs of the project. Common
 is delivered with an SAP and JDE model that can be used to import those
-System Types. Refer to [Import a Model](Import%20a%20Model.htm) for more
+System Types. Refer to [Import a Model](Import%20a%20Model) for more
 information.
 
 To add System Types:
@@ -17,7 +17,7 @@ To add System Types:
 2.  Click **Add**.
     
     [View the field descriptions for the System Types
-    page](../Page_Desc/System_Types_H.htm)
+    page](../Page_Desc/System_Types_H)
 
 3.  Enter the name of the external system in **SYSTEM TYPE** field.
 
@@ -27,7 +27,7 @@ To add System Types:
 5.  Click **Save**; the *Vertical* View displays.
     
     [View the field descriptions for the System Types
-    page](../Page_Desc/System_Types_H.htm)
+    page](../Page_Desc/System_Types_H)
 
 6.  Enter comments about the external system in **Comments** field.
 

@@ -27,7 +27,7 @@ pane.
 
 ## <span id="Workflow_Summary_History1"></span>Workflow Summary History V
 
-[Workflow Summary History H](Workflow_Summary_History_H.htm)
+[Workflow Summary History H](Workflow_Summary_History_H)
 
 <div class="use">
 

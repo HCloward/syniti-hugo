@@ -9,13 +9,13 @@ Validations registered at the Plan Task level execute for the selected
 task.
 
 Work List Event Validations can also be set at the [Plan
-Task](Register_WorkList_Event_Validations_Plan_Task.htm) level, [Work
-List Item](Register_WorkList_Event_Valid_WorkList_Item.htm) level, at
-the [tag](Configure_Logic_Tags.htm) level, and at the
-[plan](Register_WorkList_Event_Validations_Plan.htm) level.
+Task](Register_WorkList_Event_Validations_Plan_Task) level, [Work
+List Item](Register_WorkList_Event_Valid_WorkList_Item) level, at
+the [tag](Configure_Logic_Tags) level, and at the
+[plan](Register_WorkList_Event_Validations_Plan) level.
 
 Refer to [Register Work List Event
-Validations](Register_Work_List_Event_Validations.htm) for more
+Validations](Register_Work_List_Event_Validations) for more
 information about registering validations at the plan level, viewing and
 editing all validations, and parameters that can be used for Work List
 Event Validations.
@@ -35,7 +35,7 @@ To add a Work List Event Validation to a plan task:
     
     [View the field descriptions for the Work List Event Validation -
     Plan Task
-    page](../Page_Desc/Work_List_Event_Validations_Plan_Task.htm)
+    page](../Page_Desc/Work_List_Event_Validations_Plan_Task)
 
 5.  Enter a value in **PRIORITY** field.
     
@@ -51,7 +51,7 @@ To add a Work List Event Validation to a plan task:
     
     **NOTE:** This data source must be registered in Common. Refer to
     [Register a Data Source in
-    Common](../../Common/Use_Cases/Register_a_Data_Source_in_Common.htm)
+    Common](../../Common/Use_Cases/Register_a_Data_Source_in_Common)
     for more information.
 
 9.  Select the name of the stored procedure or view from the

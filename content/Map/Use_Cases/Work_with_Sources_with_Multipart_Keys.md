@@ -34,11 +34,11 @@ page in Map or a view created from the source table.  
 
 To map a multi-part key in a source to a single key in a target using
 the <span style="font-style: italic;">[Field
-Mappings](../Page_Desc/Field_Mappings_H.htm)</span> page:
+Mappings](../Page_Desc/Field_Mappings_H)</span> page:
 
 1.  Assign the source to the target in Target Design.
 2.  Click the **Targets** icon on the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page in Map.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page in Map.
 3.  Click the <span style="font-weight: bold;">Sources</span> icon for a
     Target.
 4.  Click the <span style="font-weight: bold;">Mapping</span> icon for

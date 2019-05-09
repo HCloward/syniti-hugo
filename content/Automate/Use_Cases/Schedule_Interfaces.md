@@ -11,13 +11,13 @@ second.
 
 If an interface does not have a schedule (as in., the Schedule Info
 fields are not populated on the *Vertical* View of the
-*[Interfaces](../Page_Desc/Interfaces.htm#InterfacesV)* page), the
+*[Interfaces](../Page_Desc/Interfaces#InterfacesV)* page), the
 interface must be run manually until a schedule is added.
 
 **NOTE:** It is recommended to synchronize Retry Intervals and Interface
 Schedules so that two instances of the same interface are not attempting
 to run at the same time.  Refer to [Set Retry
-Parameters](Set_Retry_Parameters.htm) for more information.
+Parameters](Set_Retry_Parameters) for more information.
 
 Interfaces can be scheduled to run two ways (as determined by the
 SCHEDULE TYPE field):
@@ -35,9 +35,9 @@ interface runs.
 
 **NOTE:** The exact time the interface runs is determined by how
 frequently the [Interface
-(Initiator)](Configure_Automate_Service.htm#InterfaceInitiator) service
+(Initiator)](Configure_Automate_Service#InterfaceInitiator) service
 page runs. By default, this service page runs every 30 seconds (refer to
-the [Configure Automate Service Pages](Configure_Automate_Service.htm)
+the [Configure Automate Service Pages](Configure_Automate_Service)
 section for information on the recommended schedule).
 
 When the Interface (Initiator) service pages runs, an interface is
@@ -59,7 +59,7 @@ To run an interface on a Frequency schedule in Automate:
 4.  Click **Edit**.
     
     [View the field description for the Interfaces page’s Vertical
-    View](../Page_Desc/Interfaces.htm#InterfacesV)
+    View](../Page_Desc/Interfaces#InterfacesV)
 
 5.  Enter the number of times an interface is run per chosen unit of
     measure in the **Frequency** field.
@@ -107,7 +107,7 @@ To run an interface on a Run Time schedule in Automate:
 4.  Click **Edit**.
     
     [View the field description for the Interfaces page’s Vertical
-    View](../Page_Desc/Interfaces.htm#InterfacesV)
+    View](../Page_Desc/Interfaces#InterfacesV)
 
 5.  Enter the specific time when the interface is to run in the **Run
     Time** field.
@@ -137,7 +137,7 @@ To manually run an interface in Automate:
   - **Debug –** Immediately runs the interface in the foreground with
     full logging information. Debug Mode must be enabled on the
     *Vertical* View of the
-    *[Interfaces](../Page_Desc/Interfaces.htm#InterfacesV)* page.
+    *[Interfaces](../Page_Desc/Interfaces#InterfacesV)* page.
 
   - **Execute –** Immediately runs the interface in the foreground.
 

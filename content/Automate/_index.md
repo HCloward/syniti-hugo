@@ -36,16 +36,16 @@ Automate can support any native DSP® response capability including:
 
 ## Set Up and Configuration for Automate
 
-  - [Set Up Automate Security](Use_Cases/Set_Up_Automate_Security.htm)
+  - [Set Up Automate Security](Use_Cases/Set_Up_Automate_Security)
   - [Configure Logging
-    Severities](Use_Cases/Configure_Logging_Severities.htm)
-  - [Add Logging Modules](Use_Cases/Add_Logging_Modules.htm)
-  - [Add Roles](Use_Cases/Add_Roles.htm)
-  - [Assign Users to Roles](Use_Cases/Assign_Users_to_Roles.htm)
+    Severities](Use_Cases/Configure_Logging_Severities)
+  - [Add Logging Modules](Use_Cases/Add_Logging_Modules)
+  - [Add Roles](Use_Cases/Add_Roles)
+  - [Assign Users to Roles](Use_Cases/Assign_Users_to_Roles)
   - [Configure Automate
-    Parameters](Use_Cases/Configure_Automate_Parameters.htm)
-  - [Add Logical Paths](Use_Cases/Add_Logical_Paths.htm)
-  - [Browse FTP Site or Path](Use_Cases/Browse_FTP_Site_or_Path.htm)
-  - [Add File Operations](Use_Cases/Add_File_Operations.htm)
+    Parameters](Use_Cases/Configure_Automate_Parameters)
+  - [Add Logical Paths](Use_Cases/Add_Logical_Paths)
+  - [Browse FTP Site or Path](Use_Cases/Browse_FTP_Site_or_Path)
+  - [Add File Operations](Use_Cases/Add_File_Operations)
   - [Configure Automate Service
-    Pages](Use_Cases/Configure_Automate_Service.htm)
+    Pages](Use_Cases/Configure_Automate_Service)

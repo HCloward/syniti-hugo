@@ -9,7 +9,7 @@ A Template Administrator can configure an IG Universal Connect Template
 by selecting a Boomi Process ID that is used while posting data.
 
 **NOTE**: For general information about Templates, refer to [Create a
-Basic Template.](../Integrate/Use_Cases/Create_a_Basic_Template.htm)
+Basic Template.](../Integrate/Use_Cases/Create_a_Basic_Template)
 
 To create an IG Universal Connect Template in Integrate:
 
@@ -20,7 +20,7 @@ To create an IG Universal Connect Template in Integrate:
 3.  Click **Add**.
     
     [View the field descriptions for the Template
-    page](../Integrate/Page_Desc/Template_H.htm)
+    page](../Integrate/Page_Desc/Template_H)
 
 <!-- end list -->
 
@@ -43,4 +43,4 @@ To create an IG Universal Connect Template in Integrate:
 7.  Click **Save**.
 
 Continue with [Activate the
-Template.](Activate%20the%20Template%20IGUC.htm)
+Template.](Activate%20the%20Template%20IGUC)

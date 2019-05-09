@@ -10,7 +10,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Add a Role to a
-Scenario](../Use_Cases/Add_a_Role_to_a_Scenario.htm).
+Scenario](../Use_Cases/Add_a_Role_to_a_Scenario).
 
 </div>
 
@@ -28,7 +28,7 @@ data that was entered in IGC™ cannot be updated from within dspConduct™,
 and many of the fields and icons associated with the record are not
 active for that scenario role. Refer to [Update Custom Attributes for
 Governance
-Elements](../Use_Cases/Update_Custom_Attributes_for_Governance_Elements.htm)
+Elements](../Use_Cases/Update_Custom_Attributes_for_Governance_Elements)
 for more information.
 
 <table>
@@ -47,53 +47,53 @@ for more information.
 <tr class="odd">
 <td><p>ROLE</p></td>
 <td><p>Displays the role ID assigned on the <em>Role</em> page.</p>
-<p>When adding roles to a scenario, if a role is not in the list box, the user can click the <strong>Click to add a new item</strong> link to open the <em>Role</em> page in another browser tab. Refer to <a href="../Use_Cases/Add_a_Role.htm">Add a Role in dspConduct™</a> for more information.</p></td>
+<p>When adding roles to a scenario, if a role is not in the list box, the user can click the <strong>Click to add a new item</strong> link to open the <em>Role</em> page in another browser tab. Refer to <a href="../Use_Cases/Add_a_Role">Add a Role in dspConduct™</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>ROLE ID</p></td>
-<td><p>Displays the role ID assigned on the <em><a href="Role_H_dspConduct.htm">Role</a></em> page.</p>
-<p>When adding roles to a scenario, if a role is not in the list box, the user can click the <strong>Click to add a new item</strong> link to open the <em>Role</em> page in another browser tab. Refer to <a href="../Use_Cases/Add_a_Role.htm">Add a Role in dspConduct™</a> for more information.</p>
+<td><p>Displays the role ID assigned on the <em><a href="Role_H_dspConduct">Role</a></em> page.</p>
+<p>When adding roles to a scenario, if a role is not in the list box, the user can click the <strong>Click to add a new item</strong> link to open the <em>Role</em> page in another browser tab. Refer to <a href="../Use_Cases/Add_a_Role">Add a Role in dspConduct™</a> for more information.</p>
 <p><strong>NOTE</strong>: This field displays roles that have tasks assigned or roles that were imported form IGC™. Roles added in dspConduct™ without tasks do not display.</p></td>
 </tr>
 <tr class="odd">
 <td><p>WORK DAYS</p></td>
 <td><p>Displays the number of days estimated to complete the tasks assigned to the role.</p>
-<p><strong>NOTE:</strong> Leave blank to default to the values set up on <em>Roles</em> page’s <em>Vertical</em> View. Refer to <a href="../Config/Set_Up_SLA_Notifications.htm">Set up SLA notifications in dspConduct™</a> for more information.</p>
+<p><strong>NOTE:</strong> Leave blank to default to the values set up on <em>Roles</em> page’s <em>Vertical</em> View. Refer to <a href="../Config/Set_Up_SLA_Notifications">Set up SLA notifications in dspConduct™</a> for more information.</p>
 <p><strong>NOTE</strong>: When a role is imported from IGC™ and this field is blank in dspConduct™, the value entered in IGC™ is used. If this field already contains a value in dspConduct™, this value is not updated.</p></td>
 </tr>
 <tr class="even">
 <td><p>WORK HOURS</p></td>
 <td><p>Displays the number of hours estimated to complete the tasks assigned to the role.</p>
-<p><strong>NOTE:</strong> Leave blank to default to the values set up on <em>Roles</em> page’s <em>Vertical</em> View. Refer to <a href="../Config/Set_Up_SLA_Notifications.htm">Set up SLA notifications in dspConduct™</a> for more information.</p>
+<p><strong>NOTE:</strong> Leave blank to default to the values set up on <em>Roles</em> page’s <em>Vertical</em> View. Refer to <a href="../Config/Set_Up_SLA_Notifications">Set up SLA notifications in dspConduct™</a> for more information.</p>
 <p><strong>NOTE</strong>: When a role is imported from IGC™ and this field is blank in dspConduct™, the value entered in IGC™ is used. If this field already contains a value in dspConduct™, this value is not updated.</p></td>
 </tr>
 <tr class="odd">
 <td><p>WORK MINUTES</p></td>
 <td><p>Displays the number of minutes estimated to complete the tasks assigned to the role.</p>
-<p><strong>NOTE</strong>: Leave blank to default to the values set up on <em>Roles</em> page’s <em>Vertical</em> View. Refer to <a href="../Config/Set_Up_SLA_Notifications.htm">Set up SLA notifications in dspConduct™</a> for more information.</p>
+<p><strong>NOTE</strong>: Leave blank to default to the values set up on <em>Roles</em> page’s <em>Vertical</em> View. Refer to <a href="../Config/Set_Up_SLA_Notifications">Set up SLA notifications in dspConduct™</a> for more information.</p>
 <p><strong>NOTE</strong>: When a role is imported from IGC™ and this field is blank in dspConduct™, the value entered in IGC™ is used. If this field already contains a value in dspConduct™, this value is not updated.</p></td>
 </tr>
 <tr class="even">
 <td><p>Events</p></td>
-<td><p>Click to open the <a href="Scenario_Role_Event.htm">Scenario Role Event</a> page to add a custom business rule to an even for the selected role.</p>
-<p>Refer to <a href="../Use_Cases/Add_Custom_Business_Rules.htm">Add Custom Business Rules</a> for more information.</p></td>
+<td><p>Click to open the <a href="Scenario_Role_Event">Scenario Role Event</a> page to add a custom business rule to an even for the selected role.</p>
+<p>Refer to <a href="../Use_Cases/Add_Custom_Business_Rules">Add Custom Business Rules</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Tasks</p></td>
-<td><p>Click to open the <em><a href="Scenario_Role_Task_H.htm">Scenario Role Task</a></em> page.</p></td>
+<td><p>Click to open the <em><a href="Scenario_Role_Task_H">Scenario Role Task</a></em> page.</p></td>
 </tr>
 </tbody>
 </table>
 
 ## <span id="Scenarios__Roles__V"></span>Scenarios (Roles) V
 
-[Scenarios (Roles) H](Scenarios_Roles_H.htm)
+[Scenarios (Roles) H](Scenarios_Roles_H)
 
 <div class="use">
 
 Use this page to [Configure the Post Later Feature at the Scenario -
 Role
-Level](../Use_Cases/Configure_the_Post_Later_Feature_at_the_Scenario_Role_Level.htm).
+Level](../Use_Cases/Configure_the_Post_Later_Feature_at_the_Scenario_Role_Level).
 
 </div>
 
@@ -106,13 +106,13 @@ Level](../Use_Cases/Configure_the_Post_Later_Feature_at_the_Scenario_Role_Level.
 <tr class="even">
 <td><p>Role</p></td>
 <td><p>Displays the role ID assigned on the <em>Role</em> page.</p>
-<p>When adding roles to a scenario, if a role is not in the list box, the user can click the <strong>Click to add a new item</strong> link to open the <em>Role</em> page in another browser tab. Refer to <a href="../Use_Cases/Add_a_Role.htm">Add a Role in dspConduct™</a> for more information.</p></td>
+<p>When adding roles to a scenario, if a role is not in the list box, the user can click the <strong>Click to add a new item</strong> link to open the <em>Role</em> page in another browser tab. Refer to <a href="../Use_Cases/Add_a_Role">Add a Role in dspConduct™</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Auto Post Role</p></td>
 <td><p>Click to enable the role as an auto post role within the scenario.</p>
-<p><strong>NOTE:</strong> This option only displays for roles of type Post. If this option is enabled, then once the request data dependencies have been completed, posting is automatically initiated. A user is not required to click the Post button to initiate the posting. Refer to <a href="../Use_Cases/Post_a_Request.htm#Auto_Post_a_Request">Auto Post a Request</a>  for more information.</p>
-<p><strong>NOTE:</strong> The Auto Post Role feature can only be used if default credentials are set for all connections used by the scenario's Integrate processes. Refer to <a href="../Use_Cases/Add_an_Integrate_Process_to_a_Scenario.htm">Add a Process to a Scenario</a> and <a href="../../../Platform/Common/Use_Cases/Add_Default_User_Credentials_to_a_Connection.htm">Add Default User Credentials to a Connection</a> for more information.</p></td>
+<p><strong>NOTE:</strong> This option only displays for roles of type Post. If this option is enabled, then once the request data dependencies have been completed, posting is automatically initiated. A user is not required to click the Post button to initiate the posting. Refer to <a href="../Use_Cases/Post_a_Request#Auto_Post_a_Request">Auto Post a Request</a>  for more information.</p>
+<p><strong>NOTE:</strong> The Auto Post Role feature can only be used if default credentials are set for all connections used by the scenario's Integrate processes. Refer to <a href="../Use_Cases/Add_an_Integrate_Process_to_a_Scenario">Add a Process to a Scenario</a> and <a href="../../../Platform/Common/Use_Cases/Add_Default_User_Credentials_to_a_Connection">Add Default User Credentials to a Connection</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Auto Finish Role</p></td>
@@ -132,9 +132,9 @@ Level](../Use_Cases/Configure_the_Post_Later_Feature_at_the_Scenario_Role_Level.
 </tr>
 <tr class="even">
 <td><p>Scheduled Post Allowed</p></td>
-<td><p>If enabled, a user assigned to this scenario &gt; role combination can schedule a posting to run at a later time. The Post Later options display on the <span style="font-style: italic;"><a href="Request_Group_Post.htm">Request Group Post</a></span> page. If disabled, the Post Later options do not display on the <span style="font-style: italic;">Request Group Post</span> page.</p>
-<p>The setting can also be configured for all scenario &gt; role combinations on the <span style="font-style: italic;"><a href="Role_H_dspConduct.htm">Role</a></span> page. </p>
-<p>Refer to <a href="../Use_Cases/Configure_the_Post_Later_Feature_at_the_Scenario_Role_Level.htm">Configure the Post Later Feature at the Scenario Role Level</a>, <a href="../Use_Cases/Configure_the_Post_Later_Feature_at_the_Role_Level.htm">Configure the Post Later Feature at the Role Level,</a> and <a href="../Use_Cases/Post_a_Request.htm#Schedule_a_Post_for_a_Specified_Date_and_Time">Schedule a Post for a Specified Date and Time</a> for more information.</p></td>
+<td><p>If enabled, a user assigned to this scenario &gt; role combination can schedule a posting to run at a later time. The Post Later options display on the <span style="font-style: italic;"><a href="Request_Group_Post">Request Group Post</a></span> page. If disabled, the Post Later options do not display on the <span style="font-style: italic;">Request Group Post</span> page.</p>
+<p>The setting can also be configured for all scenario &gt; role combinations on the <span style="font-style: italic;"><a href="Role_H_dspConduct">Role</a></span> page. </p>
+<p>Refer to <a href="../Use_Cases/Configure_the_Post_Later_Feature_at_the_Scenario_Role_Level">Configure the Post Later Feature at the Scenario Role Level</a>, <a href="../Use_Cases/Configure_the_Post_Later_Feature_at_the_Role_Level">Configure the Post Later Feature at the Role Level,</a> and <a href="../Use_Cases/Post_a_Request#Schedule_a_Post_for_a_Specified_Date_and_Time">Schedule a Post for a Specified Date and Time</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Allow Update For Extend Scenarios</p></td>
@@ -143,13 +143,13 @@ Level](../Use_Cases/Configure_the_Post_Later_Feature_at_the_Scenario_Role_Level.
 </tr>
 <tr class="even">
 <td><p>Post Workflow Notifications</p></td>
-<td><p>Click to open the<span style="font-style: italic;"> <a href="Post_Workflow_Notification.htm">Post Workflow Notification</a></span> page to add external users and register platform users who receive workflow notifications when a post succeeds or fails.</p>
+<td><p>Click to open the<span style="font-style: italic;"> <a href="Post_Workflow_Notification">Post Workflow Notification</a></span> page to add external users and register platform users who receive workflow notifications when a post succeeds or fails.</p>
 <p>The count on the icon represents the number of users who receive these notifications.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Documentation</p></td>
-<td><p>Click to open the <em><a href="Element_Documentation.htm">Element Documentation</a></em> page to upload or download documentation regarding the scenario role.</p>
-<p>Refer to <a href="../Use_Cases/Upload_Documentation_at_the_Scenario_Role_Level.htm">Upload Documentation at the Scenario Role Level</a> more information.</p></td>
+<td><p>Click to open the <em><a href="Element_Documentation">Element Documentation</a></em> page to upload or download documentation regarding the scenario role.</p>
+<p>Refer to <a href="../Use_Cases/Upload_Documentation_at_the_Scenario_Role_Level">Upload Documentation at the Scenario Role Level</a> more information.</p></td>
 </tr>
 </tbody>
 </table>

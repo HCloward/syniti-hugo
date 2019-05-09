@@ -10,7 +10,7 @@ capabilities that may be difficult or impossible to express using a
 stored procedure, for example, to send a file over FTP or to read
 encrypted column data. Before registering an external process
 validation, create the plugin. Refer to [Plugins
-Overview](../../Sys_Admin/Use_Cases/Plugins%20Overview.htm) in System
+Overview](../../Sys_Admin/Use_Cases/Plugins%20Overview) in System
 Administration help for more information.
 
 To register external process validations in Automate:
@@ -30,7 +30,7 @@ To register external process validations in Automate:
 4.  Click **Add**.
     
     [View the field description for the Interface Validations
-    page](../Page_Desc/Interface_Validations.htm)
+    page](../Page_Desc/Interface_Validations)
 
 5.  Enter a value in the **PRIORITY** field to indicate the order in
     which the interface’s external processes run.
@@ -77,7 +77,7 @@ To register external process validations in Automate:
     
     [View the field description for the Interface Validations page’s
     Vertical
-    View](../Page_Desc/Interface_Validations.htm#InterfaceValidationsV)
+    View](../Page_Desc/Interface_Validations#InterfaceValidationsV)
 
 11. Click the **Validation Plugin** list box to select a registered
     plugin.

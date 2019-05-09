@@ -17,7 +17,7 @@ and cannot be assigned to a multiple template process.
 
 Multiple templates in a process can use transaction stringing during the
 posting process. Refer to [Post Data Using Transaction
-Stringing](Post_Data_Using_Transaction_Stringing.htm) for more
+Stringing](Post_Data_Using_Transaction_Stringing) for more
 information.
 
 <span style="font-weight: bold;">NOTE</span>: If a process based on a
@@ -34,13 +34,13 @@ Foreground Post icon does not display on the Posting tab of the
 added to run after a template in a multi-template process. These rules
 return data that is used as an input parameter for the next template in
 the process. Refer to [Register After Post Rules to a Process
-Template](Register_After_Post_Rules_to_a_Process_Template_Overview.htm)
+Template](Register_After_Post_Rules_to_a_Process_Template_Overview)
 for more information.
 
 To post data for a process with multiple templates:
 
 1.  Add templates and activate them. Refer to [Create a Basic
-    Template](Create_a_Basic_Template.htm) and the sections for adding
+    Template](Create_a_Basic_Template) and the sections for adding
     each template type for more information.
     
     **NOTE**: The steps for template creation and activation for
@@ -49,7 +49,7 @@ To post data for a process with multiple templates:
     in a process.
 
 2.  Add a process, and add the templates to the process. Refer to [Add
-    Templates to a Process](Add_Templates_to_a_Process.htm) for more
+    Templates to a Process](Add_Templates_to_a_Process) for more
     information.
     
     **NOTE**: When adding a template, the priority set for each template
@@ -62,18 +62,18 @@ To post data for a process with multiple templates:
       - Use the Auto Generate Database Objects feature to automatically
         add tables and views for the template. Refer to [Generate
         Database Objects
-        Automatically](Generate_Database_Objects_Automatically.htm) for
+        Automatically](Generate_Database_Objects_Automatically) for
         more information.
       - Each loop must be linked to the parent loop through a
         relationship. Refer to [View and Configure Relationships for a
         Process Based on a BDC Script
-        Template](ViewandConfigureRelationshipsBDC.htm), [View and
+        Template](ViewandConfigureRelationshipsBDC), [View and
         Configure Relationships for a Process Based on a GUI Script
-        Template](VwConfigureRelshpsGUIe.htm), [View and Configure
+        Template](VwConfigureRelshpsGUIe), [View and Configure
         Relationships for a Process Based on a
-        BAPI](ViewandConfigureFieldMappingsBAPI.htm), and [View and
+        BAPI](ViewandConfigureFieldMappingsBAPI), and [View and
         Configure Relationships for a Process Bases on an
-        RFC](VwConfigureRshpsProcRFC.htm) for more information.
+        RFC](VwConfigureRshpsProcRFC) for more information.
 
 4.  Activate the process. Refer to the sections for adding each template
     type for more information.
@@ -81,16 +81,16 @@ To post data for a process with multiple templates:
 5.  Configure the process post. Use the **BDC Post Method** of
     **StandardSAPPosting**. No other options are allowed for
     multi-template processes. Refer to [Posting
-    Methods](Posting_Methods.htm), [Use a Process Post Record to Post to
+    Methods](Posting_Methods), [Use a Process Post Record to Post to
     SAP for a Process Based on a BDC Script
-    Template](Post_Data_for_a_Process_Based_on_a_BDC_Script_Template.htm),
+    Template](Post_Data_for_a_Process_Based_on_a_BDC_Script_Template),
     [Use a Process Post Record to Post to SAP for a Process Based on a
     GUI Script
-    Template](Post_Data_for_a_Process_Based_on_a_GUI_Script_Template.htm),
+    Template](Post_Data_for_a_Process_Based_on_a_GUI_Script_Template),
     [Use a Process Post to Post Data for a Process Based on a
-    BAPI](Post_Data_for_a_Process_Based_on_a_BAPI.htm) or [Use a Process
+    BAPI](Post_Data_for_a_Process_Based_on_a_BAPI) or [Use a Process
     Post to Post Data for a Process Based on an
-    RFC](Post_Data_for_a_Process_Based_on_an_RFC.htm) for more
+    RFC](Post_Data_for_a_Process_Based_on_an_RFC) for more
     information.
 
 6.  Set up testing scenarios for a process with multiple templates on
@@ -111,18 +111,18 @@ To post data for a process with multiple templates:
     Post* page’s *Vertical* View. When posting the process, Integrate
     will only post the GUI Script template, and the GUI debug script can
     be used on the template. Refer to [Debug a GUI Script
-    Posting](Debug_a_GUI_Script_Posting.htm) for more information.
+    Posting](Debug_a_GUI_Script_Posting) for more information.
 
 7.  Post the data. If the posting fails, troubleshoot the errors using
     information on the *Messages* page or download the message file on
     the *Message File* page. Refer to [Tips and
-    Troubleshooting](Tips_and_Troubleshooting_Integrate.htm) for more
+    Troubleshooting](Tips_and_Troubleshooting_Integrate) for more
     information.
 
 8.  Resubmit the post after correcting any errors. Click **Reset** for
     the process post on the *Process Post* page’s *Vertical* View on the
     **Posting** tab, then post the data again. Refer to [Reset and
-    Resubmit a Failed Post](Reset_and_Resubmit_a_Failed_Post.htm) for
+    Resubmit a Failed Post](Reset_and_Resubmit_a_Failed_Post) for
     more information.
 
 **NOTE**: After resetting a post it can be submitted again regardless of

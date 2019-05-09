@@ -11,7 +11,7 @@ This chart displays all requests for a role by
 Click a section to drill down to the *All Requests for Role Details*
 page.
 
-Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts.htm) for
+Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts) for
 general information about chart features.
 
 To access this chart in dspConduct™:

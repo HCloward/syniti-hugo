@@ -9,7 +9,7 @@ When a project file is imported into dspTrack™, the predecessor tasks
 and dependency types are also imported.
 
 Refer to [Import Project Files into
-dspTrack™](Import_Project_Files_into_dspTrack.htm) for more
+dspTrack™](Import_Project_Files_into_dspTrack) for more
 information.
 
 A predecessor task can also be added manually.
@@ -28,7 +28,7 @@ not finish until its predecessor task has finished. In this case, if a
 user clicks Next Action on the Work List for a Plan task that is in
 Waiting on Dependency status, an error message displays.
 
-Refer to [Use Dependency Types](Use_Dependency_Types.htm) for more
+Refer to [Use Dependency Types](Use_Dependency_Types) for more
 information.
 
 To add a predecessor task to a Plan Task:
@@ -45,7 +45,7 @@ To add a predecessor task to a Plan Task:
     Dependency* page displays in add mode. Otherwise, click **Add**.
     
     [View the field descriptions for the Plan Task Dependency
-    page](../Page_Desc/Plan_Task_Dependency.htm)
+    page](../Page_Desc/Plan_Task_Dependency)
     
     **NOTE:** By default DEPENDENCY TYPE ID list box defaults to
     FinishtoStart.

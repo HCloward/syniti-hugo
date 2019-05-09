@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Create an Escalation
-Process](../Use_Cases/Create_an_Escalation_Process.htm).
+Process](../Use_Cases/Create_an_Escalation_Process).
 
 </div>
 
@@ -27,7 +27,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>PRIORITY</p></td>
-<td><p>Displays a number to determine the order the managers display on the <em><a href="Late_Task_Escalation.htm">Late Task Escalation</a></em> page.</p></td>
+<td><p>Displays a number to determine the order the managers display on the <em><a href="Late_Task_Escalation">Late Task Escalation</a></em> page.</p></td>
 </tr>
 <tr class="odd">
 <td><p>NAME</p></td>

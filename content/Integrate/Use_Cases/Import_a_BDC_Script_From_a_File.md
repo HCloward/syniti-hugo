@@ -24,10 +24,10 @@ a flat file, and then upload and import it into the template.
 
 **NOTE**: A user can also record a script using Integrate. Refer to
 [*<span style="color: #0000ff;">Record a BDC
-Script</span>*](Record_a_BDC_Script.htm) for more information.
+Script</span>*](Record_a_BDC_Script) for more information.
 
 **NOTE**: Begin template creation on the *Template* page in *Horizontal*
-View. Refer to [Create a Basic Template](Create_a_Basic_Template.htm)
+View. Refer to [Create a Basic Template](Create_a_Basic_Template)
 for more information.
 
 To upload and import a BDC script from a file on the *Vertical* View of
@@ -63,7 +63,7 @@ the *Template* page:
     multiple headers with infinite details to be posted. Looping can be
     enabled during template creation or after recording. Refer to
     [Configure Template Loops for a BDC Script
-    Template](Configure_Template_LoopsBDC.htm) for detailed
+    Template](Configure_Template_LoopsBDC) for detailed
     information. 
 
 11. Click **BDC Screen** to view all screens captured in the recording.
@@ -72,11 +72,11 @@ For each of the BDC Screens, add, edit or delete the conditionals and
 subsequent actions by selecting *Vertical* View for a record, then
 clicking the **Conditionals** button. Refer to
 [*<span style="color: #0000ff;font-style: normal;">Configure a
-Conditional for a BDC Screen</span>*](ConfigureConditionalBDCScrn.htm)
+Conditional for a BDC Screen</span>*](ConfigureConditionalBDCScrn)
 for more information. 
 
 **NOTE:** The default records created should suffice for most instances;
 however, they can be modified or deleted as necessary. Refer to
 [*<span style="color: #0000ff;font-style: normal;">Manage BDC Screens
-and Fields</span>*](Manage_BDC_Screens_and_Fields.htm) for detailed
+and Fields</span>*](Manage_BDC_Screens_and_Fields) for detailed
 information.

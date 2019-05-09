@@ -14,7 +14,7 @@ following custom pages and views:
 
 **NOTE:** If the custom page should allow a user to perform a mass
 change, refer to [Add a Mass Change Custom Link to a Custom
-Page](Add_a_Mass_Change_Custom_Link_to_a_Custom_Page.htm) for more
+Page](Add_a_Mass_Change_Custom_Link_to_a_Custom_Page) for more
 information.
 
 ## <span id="Create_Data_Entry_Page_and_View"></span>Create Data Entry Page and View

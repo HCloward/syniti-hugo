@@ -26,13 +26,13 @@ angles.
 
 Collect includes these charts:
 
-  - [Target Daily Summary](../Page_Desc/Target_Daily_Summary.htm)
-  - [Target Weekly Summary](../Page_Desc/Target_Weekly_Summary.htm)
-  - [Target Monthly Summary](../Page_Desc/Target_Monthly_Summary.htm)
-  - [Target Table Status](../Page_Desc/Target_Table_Status.htm)
+  - [Target Daily Summary](../Page_Desc/Target_Daily_Summary)
+  - [Target Weekly Summary](../Page_Desc/Target_Weekly_Summary)
+  - [Target Monthly Summary](../Page_Desc/Target_Monthly_Summary)
+  - [Target Table Status](../Page_Desc/Target_Table_Status)
   - [Target Source Weekly Metric
-    Chart](../Page_Desc/Target_Source_Weekly_Metric_Chart.htm)
+    Chart](../Page_Desc/Target_Source_Weekly_Metric_Chart)
   - [Target Source Daily Metric
-    Chart](../Page_Desc/Target_Source_Daily_Metric_Chart.htm)
+    Chart](../Page_Desc/Target_Source_Daily_Metric_Chart)
   - [Target Source Monthly Metric
-    Chart](../Page_Desc/Target_Source_Monthly_Metric_Chart.htm)
+    Chart](../Page_Desc/Target_Source_Monthly_Metric_Chart)

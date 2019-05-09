@@ -16,14 +16,14 @@ the Content WebApp’s database.
 
 If column configuration is updated on the
 <span style="font-style: italic;">[Scenario Role Task
-Column](../Page_Desc/Scenario_Role_Task_Column_H.htm)</span> page after
+Column](../Page_Desc/Scenario_Role_Task_Column_H)</span> page after
 the objects have been created, a Designer can update the data used by
 the control views. In this case, the tables and views remain as they are
 and the data in the table for this one particular scenario and role are
 updated.
 
 Refer to [Create Tables and Views for Content WebApp Pages
-Overview](Create_Tables_and_Views_for_Content_WebApp_Pages_Overview.htm)
+Overview](Create_Tables_and_Views_for_Content_WebApp_Pages_Overview)
 for general information.
 
 To update data in a control table:
@@ -68,6 +68,6 @@ To update the column list and rebuild the control table:
     </span>icon in the Page toolbar.
 7.  Click the <span style="font-weight: bold;">Pages</span> icon on the
     <span style="font-style: italic;">[Scenario Role
-    Task](../Page_Desc/Scenario_Role_Task_H.htm)</span> page.
+    Task](../Page_Desc/Scenario_Role_Task_H)</span> page.
 8.  Click the <span style="font-weight: bold;">Create Control
     Table</span> icon in the Page toolbar.

@@ -14,8 +14,8 @@ distribution), do not configure multiple attachment templates in the
 same language for the same project.
 
 Workflow email templates can be configured at the
-[parameter](Configure_Workflow_Templates_at_the_Parameter_Level.htm) or
-[project](Configure_Workflow_Templates_at_the_Project__Level.htm) level
+[parameter](Configure_Workflow_Templates_at_the_Parameter_Level) or
+[project](Configure_Workflow_Templates_at_the_Project__Level) level
 as well.
 
 When the ISA applies templates, a user’s project distribution-level
@@ -37,18 +37,18 @@ To configure a workflow template at the project distribution level:
 4.  Click **Edit**.
     
     *[View the field descriptions for the Workflow Template
-    page.](../Page_Desc/Workflow_Template.htm)*
+    page.](../Page_Desc/Workflow_Template)*
 
 5.  Select the language that will be used for the email message from the
     **LANGUAGE ID** field. Refer to [Create Language-specific Workflow
     Email
-    Templates](Create_Language%20specific_Workflow_Email_Templates.htm)
+    Templates](Create_Language%20specific_Workflow_Email_Templates)
     for more information..
     
     **NOTE:** Users can access the information on the report through an
     attachment, a summary, or links depending on the user’s workflow
     attachment options.  Refer to [Configure Workflow
-    Options](Configure_Workflow_OptionsISA.htm) for more information.
+    Options](Configure_Workflow_OptionsISA) for more information.
 
 6.  Update the text that will appear in the subject of the email as
     needed in the **SUBJECT** field.

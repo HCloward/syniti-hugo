@@ -13,7 +13,7 @@ default values are saved in the request role data.
 **NOTE**: To assign the data source and views for a template, the
 template must not be active or must be in Developer Mode. Refer to
 [Modify an Active Template in Developer
-Mode](Modify_an_Active_Template_in_Developer_Mode.htm) for more
+Mode](Modify_an_Active_Template_in_Developer_Mode) for more
 information.
 
 To set a default data source and view for a template:
@@ -32,7 +32,7 @@ To set a default data source and view for a template:
 6.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the Template (Role) page's Vertical
-    View](../Page_Desc/Template_Role_H.htm)
+    View](../Page_Desc/Template_Role_H)
 
 7.  Select a data source ID from the **View Import Data Source ID
     Default** list box.

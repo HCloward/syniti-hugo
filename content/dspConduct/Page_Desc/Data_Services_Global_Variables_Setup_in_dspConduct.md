@@ -9,7 +9,7 @@ solution = 'Master Data Management'
 
 Use this page to [Configure Data Download During the Final Finish
 Process to use a Data Services
-Job](../Use_Cases/Configure_Data_Download_During_the_Final_Finish_Process_to_use_a_Data_Services_Job.htm).
+Job](../Use_Cases/Configure_Data_Download_During_the_Final_Finish_Process_to_use_a_Data_Services_Job).
 
 </div>
 

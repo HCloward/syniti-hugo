@@ -13,18 +13,18 @@ Use this page to:
 
   - [Use a Process Post Record to Post to SAP for a Process Based on a
     BDC Script
-    Template](../Use_Cases/Post_Data_for_a_Process_Based_on_a_BDC_Script_Template.htm)
+    Template](../Use_Cases/Post_Data_for_a_Process_Based_on_a_BDC_Script_Template)
   - [Use a Process Post Record to Post to SAP for a Process Based on a
     GUI Script
-    Template](../Use_Cases/Post_Data_for_a_Process_Based_on_a_GUI_Script_Template.htm)
+    Template](../Use_Cases/Post_Data_for_a_Process_Based_on_a_GUI_Script_Template)
   - [Use a Process Post Record to Post to SAP for a Process Based on a
-    BAPI](../Use_Cases/Post_Data_for_a_Process_Based_on_a_BAPI.htm)
+    BAPI](../Use_Cases/Post_Data_for_a_Process_Based_on_a_BAPI)
   - [Use a Process Post Record to Post to SAP for a Process Based on an
-    RFC](../Use_Cases/Post_Data_for_a_Process_Based_on_an_RFC.htm)
+    RFC](../Use_Cases/Post_Data_for_a_Process_Based_on_an_RFC)
   - [Create and Transfer Delimited or Fixed Width
-    Files](../Use_Cases/CreateTransferDelimFWidthFiles.htm)
+    Files](../Use_Cases/CreateTransferDelimFWidthFiles)
   - [Create and Transfer XML
-    Files](../Use_Cases/Create_and_Transfer_XML_Files.htm)
+    Files](../Use_Cases/Create_and_Transfer_XML_Files)
 
 </div>
 
@@ -59,7 +59,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Connections</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Process_Post_Connections.htm">Process Post Connections</a></span> page to set the connections for each process template. The Connection ID list box displays the connections added at the process template level on the <a href="Process_Template_Connections.htm">Process Template Connections</a> page..</p>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Process_Post_Connections">Process Post Connections</a></span> page to set the connections for each process template. The Connection ID list box displays the connections added at the process template level on the <a href="Process_Template_Connections">Process Template Connections</a> page..</p>
 <p>The count on the icon is the number of connections set for the Process Post record.</p>
 <p><strong>NOTE:</strong> There must be one target system connection for each process template in the process.</p></td>
 </tr>
@@ -70,18 +70,18 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Monitor</p></td>
-<td><p>Click to open the <em><a href="Post_Monitor_H.htm">Post Monitor</a></em> page for the selected process post to view the post status.</p></td>
+<td><p>Click to open the <em><a href="Post_Monitor_H">Post Monitor</a></em> page for the selected process post to view the post status.</p></td>
 </tr>
 <tr class="odd">
 <td><p>View Messages</p></td>
-<td><p>Click to open the <em><a href="Messages_H.htm">Messages</a></em> page to view messages returned from the process post.</p></td>
+<td><p>Click to open the <em><a href="Messages_H">Messages</a></em> page to view messages returned from the process post.</p></td>
 </tr>
 </tbody>
 </table>
 
 ## <span id="Process_Post_V_buttons"></span>Process Post V Buttons
 
-[Process Post H](Process_Post_H.htm)
+[Process Post H](Process_Post_H)
 
 <span style="font-weight: bold;">NOTE</span>: These buttons display
 above all
@@ -91,32 +91,32 @@ tabs.
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Field                 | Description                                                                                                                                                                                                                                                                                |
 | Post                  | Click to post the process post.                                                                                                                                                                                                                                                            |
-| View Messages         | Click to open the *[Messages](Messages_H.htm)* page to view messages returned from the process post.                                                                                                                                                                                       |
+| View Messages         | Click to open the *[Messages](Messages_H)* page to view messages returned from the process post.                                                                                                                                                                                       |
 | Delete Messages       | Click to delete all messages for the process post. Messages must be deleted manually.                                                                                                                                                                                                      |
-| View Posting Defaults | Click to open the *[Posting Defaults](../Use_Cases/Posting_Defaults.htm)* page to view the default posting values for a process post. This values are set in Common on the *[Parameters Integrate](../../Common/Page_Desc/Parameters_Integrate.htm)* page on the **Posting Defaults** tab. |
+| View Posting Defaults | Click to open the *[Posting Defaults](../Use_Cases/Posting_Defaults)* page to view the default posting values for a process post. This values are set in Common on the *[Parameters Integrate](../../Common/Page_Desc/Parameters_Integrate)* page on the **Posting Defaults** tab. |
 
 ## <span id="Process_Post_V_All_Tabs"></span>Process Post V All Tabs
 
-[Process Post H](Process_Post_H.htm)
+[Process Post H](Process_Post_H)
 
 <div class="use">
 
 Use this page to:
 
   - [Post Data for a Process Based on a BDC Script
-    Template](../Use_Cases/Post_Data_for_a_Process_Based_on_a_BDC_Script_Template.htm)
+    Template](../Use_Cases/Post_Data_for_a_Process_Based_on_a_BDC_Script_Template)
   - [Post Data for a Process Based on a GUI Script
-    Template](../Use_Cases/Post_Data_for_a_Process_Based_on_a_GUI_Script_Template.htm)
+    Template](../Use_Cases/Post_Data_for_a_Process_Based_on_a_GUI_Script_Template)
   - [Post Data for a Process Based on a
-    BAPI](../Use_Cases/Post_Data_for_a_Process_Based_on_a_BAPI.htm)
+    BAPI](../Use_Cases/Post_Data_for_a_Process_Based_on_a_BAPI)
   - [Post Data for a Process Based on an
-    RFC](../Use_Cases/Post_Data_for_a_Process_Based_on_an_RFC.htm)
+    RFC](../Use_Cases/Post_Data_for_a_Process_Based_on_an_RFC)
   - [Post Data Using an SAP Data Services
-    Job](../Use_Cases/Post_Data_Using_an_SAP_Data_Services_Job_Overview.htm)
+    Job](../Use_Cases/Post_Data_Using_an_SAP_Data_Services_Job_Overview)
   - [Create and Transfer Delimited or Fixed Width
-    Files](../Use_Cases/CreateTransferDelimFWidthFiles.htm)
+    Files](../Use_Cases/CreateTransferDelimFWidthFiles)
   - [Create and Transfer XML
-    Files](../Use_Cases/Create_and_Transfer_XML_Files.htm)
+    Files](../Use_Cases/Create_and_Transfer_XML_Files)
 
 </div>
 
@@ -226,7 +226,7 @@ Create GUI Debug Script
 
 If enabled, Integrate creates a copy of the GUI script run against SAP
 and writes it to the Message table along with the results of the post.
-Download the debug script from the *[Messages](Messages_H.htm)* page and
+Download the debug script from the *[Messages](Messages_H)* page and
 run it in the SAP GUI to debug a GUI script posting.
 
 Create Full GUI Debug Script
@@ -303,7 +303,7 @@ Foreground Post
 
 Click to immediately post data in the foreground using the SAP user ID
 and password entered on the *[User
-Credentials](../../Common/Page_Desc/User_Credentials_H.htm)* page.
+Credentials](../../Common/Page_Desc/User_Credentials_H)* page.
 
 This icon does not display if the process is based on a GUI script
 template, or if the process includes multiple templates and one of them
@@ -328,7 +328,7 @@ Stored Credentials
 User Credentials
 
 Click to open the <span style="font-style: italic;">[User
-Credentials](../../Common/Page_Desc/User_Credentials_H.htm)</span> page
+Credentials](../../Common/Page_Desc/User_Credentials_H)</span> page
 to add login credentials to use for the process post for a given data
 source.
 
@@ -336,14 +336,14 @@ Credentials Detected
 
 If enabled, the system has user credentials for the process post. Refer
 to [User Credentials in
-Integrate](../Config/User_Credentials_in_Integrate.htm) for more
+Integrate](../Config/User_Credentials_in_Integrate) for more
 information.
 
 Status & Return
 
 Monitor
 
-Click to open the *[Post Monitor](Post_Monitor_H.htm)* page to view
+Click to open the *[Post Monitor](Post_Monitor_H)* page to view
 information about the post including the status.
 
 Reset Post

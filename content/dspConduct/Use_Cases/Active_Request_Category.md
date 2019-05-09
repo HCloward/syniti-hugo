@@ -8,10 +8,10 @@ solution = 'Master Data Management'
 This chart displays number of requests by status in a category.
 
 Click a section to open [Active Request for Category
-Details](../Page_Desc/Active_Request_for_Category_Details.htm) for a
+Details](../Page_Desc/Active_Request_for_Category_Details) for a
 request in the *Vertical* View.
 
-Refer to [View Charts in dspConduct™](View_Charts.htm) for general
+Refer to [View Charts in dspConduct™](View_Charts) for general
 information about chart features.
 
 To access this chart in dspConduct™:

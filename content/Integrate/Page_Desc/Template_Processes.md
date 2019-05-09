@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Activate or Deactivate Multiple Processes for a
-Template](../Use_Cases/ActivateDeactivateMultProc.htm).
+Template](../Use_Cases/ActivateDeactivateMultProc).
 
 </div>
 

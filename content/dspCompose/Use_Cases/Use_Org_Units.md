@@ -49,14 +49,14 @@ use them.
 
 To use Org Units:
 
-  - [Create Org Units](Set_up_Org_Units.htm#Create_Org_Units)
+  - [Create Org Units](Set_up_Org_Units#Create_Org_Units)
   - [Assign Users to Org
-    Units](Set_up_Org_Units.htm#Assign_Users_to_Org_Units)
+    Units](Set_up_Org_Units#Assign_Users_to_Org_Units)
   - [Add Org Units to a
-    Template](Set_up_Org_Units.htm#Add_Org_Units_to_a_Template)
+    Template](Set_up_Org_Units#Add_Org_Units_to_a_Template)
   - [Set Org Unit Assignment Security for a
-    Request](Request_Org_Unit_Assignments.htm#Set_Org_Unit_Assignment_Security_for_a_Request)
+    Request](Request_Org_Unit_Assignments#Set_Org_Unit_Assignment_Security_for_a_Request)
   - [Configure and Confirm Request Org Unit
-    Assignments](Request_Org_Unit_Assignments.htm)
+    Assignments](Request_Org_Unit_Assignments)
   - [Incorporate the Security View into Request
-    Processing](Incorporate_the_Security_View_into_Request_Processing.htm)
+    Processing](Incorporate_the_Security_View_into_Request_Processing)

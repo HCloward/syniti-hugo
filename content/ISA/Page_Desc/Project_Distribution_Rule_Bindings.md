@@ -4,11 +4,11 @@
 
 Use this page to:
 
-  - [View Rule Bindings](../Use_Cases/View_Rule_Bindings.htm)
+  - [View Rule Bindings](../Use_Cases/View_Rule_Bindings)
   - [Deactivate Columns for Project Distribution Rule
-    Bindings](../Use_Cases/Deactivate_Columns_for_Project_Distribution_Rule_Bindings.htm)
+    Bindings](../Use_Cases/Deactivate_Columns_for_Project_Distribution_Rule_Bindings)
   - [Edit Rule Binding Descriptions, Implication and
-    Recommendation](../Use_Cases/Edit_Rule_Bindings.htm)
+    Recommendation](../Use_Cases/Edit_Rule_Bindings)
 
 </div>
 
@@ -37,7 +37,7 @@ To access this page:
 <td><p>RULE BINDING ID</p></td>
 <td><p>Displays a comma-delimited list of the table and columns to which the rule is bound.</p>
 <p>Displays the description of the rule binding if specified at Project Summary &gt; Rule Binding List or the Table and Binding Field list.</p>
-<p>Click the link to open the <em><a href="Rule_Binding_Detail.htm">Rule Binding Detail</a></em> page to update the rule binding.</p>
+<p>Click the link to open the <em><a href="Rule_Binding_Detail">Rule Binding Detail</a></em> page to update the rule binding.</p>
 <p><strong>NOTE</strong>: Rule Bindings are only displayed if the rule has been scored.</p></td>
 </tr>
 <tr class="odd">
@@ -58,7 +58,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Field Activation</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="../Use_Cases/Activate_Columns.htm">Activate Columns</a></span>page to activate and deactivate columns on the table. The values in these columns will display for the rule binding.</p>
+<td><p>Click to open the <span style="font-style: italic;"><a href="../Use_Cases/Activate_Columns">Activate Columns</a></span>page to activate and deactivate columns on the table. The values in these columns will display for the rule binding.</p>
 <p><strong>NOTE:</strong> The number on this icon is the count of active columns in the table.</p></td>
 </tr>
 </tbody>

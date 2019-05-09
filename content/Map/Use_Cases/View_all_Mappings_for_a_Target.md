@@ -19,8 +19,8 @@ To view the Rule Book in Map:
 
 2.  Click the <span style="font-weight: bold;">Metrics</span> icon on
     the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page.
 
 3.  Click the <span style="font-weight: bold;">Rule Book</span> icon on
     the *[Metrics and Reports
-    Landing](../Page_Desc/Metrics_and_Reports_Landing.htm)* page.
+    Landing](../Page_Desc/Metrics_and_Reports_Landing)* page.

@@ -10,9 +10,9 @@ requests at the Category level that are then used by default for all
 scenarios in the category.
 
 Refer to [Set Posting Options at the Category
-Level](Set_Posting_Options_at_the_Category_Level.htm) and [BDC Post
+Level](Set_Posting_Options_at_the_Category_Level) and [BDC Post
 Methods and Settings on the Advanced
-tab](../../../Platform/Integrate/Page_Desc/BDCPostMethodsSettingsAdvTab.htm)
+tab](../../../Platform/Integrate/Page_Desc/BDCPostMethodsSettingsAdvTab)
 for more information.
 
 These options can be overridden at the scenario level, and viewed but
@@ -31,7 +31,7 @@ To update posting options for a scenario:
 5.  Click **Edit**.
     
     [*View the field descriptions for the Scenario Process page’s
-    Vertical View*](../Page_Desc/Scenario_Process.htm#Scenario)
+    Vertical View*](../Page_Desc/Scenario_Process#Scenario)
 
 6.  Update options as needed.
     

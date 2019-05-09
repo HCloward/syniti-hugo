@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Copy a Target in Target
-Design](../Use_Cases/Copy_a_Target_in_Target_Design.htm).
+Design](../Use_Cases/Copy_a_Target_in_Target_Design).
 
 </div>
 
@@ -19,7 +19,7 @@ To access this page:
 2.  Select <span style="font-weight: bold;">Design </span>in the Context
     bar.
 3.  Click the <span style="font-weight: bold;">Objects</span>icon on the
-    *[Design](Design.htm)* page.
+    *[Design](Design)* page.
 4.  Click the <span style="font-weight: bold;">Copy Targets</span> icon
     for an Object.
 
@@ -35,7 +35,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Targets to Copy</p></td>
-<td><p>Click to open the <em><a href="Copy_Targets.htm">Copy Targets</a></em> page to select the Targets to copy.</p>
+<td><p>Click to open the <em><a href="Copy_Targets">Copy Targets</a></em> page to select the Targets to copy.</p>
 <p>The number on the button indicates the number of Targets that will be copied. All Targets in the Object are selected by default</p></td>
 </tr>
 <tr class="even">

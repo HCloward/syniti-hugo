@@ -17,7 +17,7 @@ escalation process. Users must be assigned to security roles that have
 the WebApp Groups Power User, Power Designer or Administrator assigned.
 Users assigned to the Template Security Role DSPTrack.Administror can
 also configure the escalation process. Refer to [Set Up Security for
-dspTrack™](../Config/Set_Security_in_dspTrack.htm) for more information.
+dspTrack™](../Config/Set_Security_in_dspTrack) for more information.
 
 The escalation process is comprised of two sets of users.
 
@@ -57,7 +57,7 @@ To create an escalation process:
     mode. Otherwise, click **Add**.
     
     [View the field descriptions for the Escalation Process
-    page](../Page_Desc/Escalation_Hierarchy.htm)
+    page](../Page_Desc/Escalation_Hierarchy)
 
 2.  Enter a descriptive name for the Escalation process in the
     <span style="font-weight: bold;">PROCESS</span>**NAME** field.
@@ -72,7 +72,7 @@ To add a manager to the escalation process:
     mode. Otherwise, click **Add**.
     
     [View the field descriptions for the User List - Receive Work List
-    Escalations page](../Page_Desc/Escalation_Hierarchy_Contact.htm)
+    Escalations page](../Page_Desc/Escalation_Hierarchy_Contact)
 
 2.  Enter a number in the **PRIORITY** field to determine the order the
     managers (i.e., the users who receive emails when tasks are late)

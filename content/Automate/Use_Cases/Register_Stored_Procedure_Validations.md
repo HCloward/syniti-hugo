@@ -22,7 +22,7 @@ To register stored procedure interface validations in Automate:
 4.  Click **Add**.
     
     [View the field description for the Interface Validations
-    page](../Page_Desc/Interface_Validations.htm)
+    page](../Page_Desc/Interface_Validations)
 
 5.  Enter a value in the **PRIORITY** field to indicate the order in
     which the interface’s stored procedures run
@@ -70,12 +70,12 @@ To register stored procedure interface validations in Automate:
     
     [View the field description for the Interface Validations page’s
     Vertical
-    View](../Page_Desc/Interface_Validations.htm#InterfaceValidationsV)
+    View](../Page_Desc/Interface_Validations#InterfaceValidationsV)
 
 11. Select a registered validation view from the **Validation
     Procedure** list box. Only views ending in “Val” display, as defined
     by the Validation Filter field on the
-    *[Parameters](../Page_Desc/Parameters.htm)* page.
+    *[Parameters](../Page_Desc/Parameters)* page.
 
 12. Enter a descriptive comment in the **Comment** field.
 

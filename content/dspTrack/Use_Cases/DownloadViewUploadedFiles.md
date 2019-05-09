@@ -16,7 +16,7 @@ The *File Upload* page displays:
   - For a Work List Item, all files for that item
 
 Refer to [Upload files for a Plan, Task or Work List
-Item](UpldFilesfoProjTaskWrkListItem.htm) for more information.
+Item](UpldFilesfoProjTaskWrkListItem) for more information.
 
 To download and view files of any type related to the plan, task, or
 Work List Item:

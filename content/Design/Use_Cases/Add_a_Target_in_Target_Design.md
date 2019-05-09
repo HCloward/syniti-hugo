@@ -9,10 +9,10 @@ While the easiest method to add a Target table is through import, a user
 can also manually enter a Target, and then manually add fields to it.
 
 Refer to [Import a Target Design from a System
-Type](Import_from_a_System_Type.htm), [Import Target Design from a
-Database](Import_from_a_Database.htm), [Import Target Design from an
-Excel File](Import_from_an_Excel_File.htm), and [Add Fields to a
-Target](Add_Fields_to_a_Target.htm) for more information.
+Type](Import_from_a_System_Type), [Import Target Design from a
+Database](Import_from_a_Database), [Import Target Design from an
+Excel File](Import_from_an_Excel_File), and [Add Fields to a
+Target](Add_Fields_to_a_Target) for more information.
 
 To add a Target:
 
@@ -21,14 +21,14 @@ To add a Target:
 2.  Click **Add**.
 
 3.  *[View the field descriptions for the Targets
-    page](../Page_Desc/Targets_H_Design.htm)*
+    page](../Page_Desc/Targets_H_Design)*
 
 4.  Select an Object from the **OBJECT ID** list box.
     
     **NOTE**: These Objects were added in Console. The Objects that
     display are associated with the Wave and Process Area selected in
     the Context bar. Refer to [Add an
-    Object](../../Console/Use_Cases/Add_Elements_Separately.htm#Add3)
+    Object](../../Console/Use_Cases/Add_Elements_Separately#Add3)
     for more information.
 
 5.  Enter a value in the **PRIORITY** text box.
@@ -49,7 +49,7 @@ To add a Target:
     Design, which displays as a link in the DESIGN STATUS column.
     Clicking this link does not open the
     <span style="font-style: italic;">[Set Design
-    Status](Set_Design_Status.htm)</span> page until the Target is
+    Status](Set_Design_Status)</span> page until the Target is
     saved.
 
 8.  Select an option from the **USAGE** list box.
@@ -73,12 +73,12 @@ To add a Target:
     
     **NOTE**: These System Types were added in Common. Refer to [Add
     System
-    Types](../../../Platform/Common/Use_Cases/Add_System_Types.htm) for
+    Types](../../../Platform/Common/Use_Cases/Add_System_Types) for
     more information.
     
     **NOTE**: Importing a System Type is the most common method of
     adding a Target. Refer to [Import a Target Design from a System
-    Type](Import_from_a_System_Type.htm) for more information.
+    Type](Import_from_a_System_Type) for more information.
 
 10. Enter a table name in the **TARGET SYSTEM TABLE NAME** field.
     

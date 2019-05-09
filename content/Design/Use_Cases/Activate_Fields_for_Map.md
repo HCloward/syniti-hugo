@@ -14,7 +14,7 @@ the Target's Design Status is Design Finished, Complete or Inactive.
 
 For a Target field to be mapped in Map on the Field Mappings  page, the
 field must be active and visible Refer to [Set Field Visibility for
-Mapping](Set_Field_Visibility_for_Mapping.htm) for more information.
+Mapping](Set_Field_Visibility_for_Mapping) for more information.
 Utility field does not exist in the Target system, but is used to
 register rules and reports to in Transform.
 
@@ -44,7 +44,7 @@ Type import. When the Active For Mapping Default check box is checked
 for a field in Common \> System Types \> Tables \> Fields \> Vertical
 View, the ACTIVE check box on the Target Fields page is automatically
 enabled for the field in Target Design.  Refer to [Add Fields to
-Tables](../../../Platform/Common/Use_Cases/Add_Fields_to_Tables.htm) in
+Tables](../../../Platform/Common/Use_Cases/Add_Fields_to_Tables) in
 Common for more information.
 
 When a field is activated, Map checks the mapping history for that field
@@ -61,7 +61,7 @@ user selects this field mapping on the Target Fields page in Target
 Design and clicks the Deactivate icon in the Page toolbar. The field
 mapping is deleted, but the details of the field mapping are retained in
 mapping history. A user makes the field active again on the *[Target
-Fields](../Page_Desc/Target_Fields_H_Target_Design.htm)* page in Target
+Fields](../Page_Desc/Target_Fields_H_Target_Design)* page in Target
 Design. The mapping displays on the Field Mappings page in Map with the
 details from mapping history (the copy action and the Source table and
 Source field to be mapped to the Target field). The mapping status is
@@ -76,7 +76,7 @@ To activate or deactivate a field in Target Design:
 1.  Select **Design**  from the Context bar.
 
 2.  Click the **Targets** icon on the
-    *[Design](../Page_Desc/Design.htm)* page.
+    *[Design](../Page_Desc/Design)* page.
 
 3.  Click the **Fields** icon for a Target.
 

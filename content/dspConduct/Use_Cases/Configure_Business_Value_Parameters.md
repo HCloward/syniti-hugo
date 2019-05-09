@@ -7,7 +7,7 @@ solution = 'Master Data Management'
 
 A Designer can set the values that are used to calculate the information
 displayed on the business value dashboard charts. Refer to [View
-Business Value Dashboard](View_Business_Value_Dashboard.htm) for more
+Business Value Dashboard](View_Business_Value_Dashboard) for more
 information about the dashboard.
 
 Before performing this task, the Designer must set the currency symbol
@@ -15,9 +15,9 @@ that represents the currency being used by the organization if the
 currency symbol is other than the default. The designer must also select
 the calendar to be used for the working hours calculations if the
 calendar is other than the default dspConduct calendar. Refer to [Set
-Currency Display Label](../Config/Set_Currency_Display_Label.htm) and
+Currency Display Label](../Config/Set_Currency_Display_Label) and
 [Set Calendar Used For Business Value
-Calculations](../Config/Set_Calendar_Used_For_Business_Value_Calculations.htm)
+Calculations](../Config/Set_Calendar_Used_For_Business_Value_Calculations)
 for more information.
 
 To track business value the Designer enters a baseline of the number of
@@ -34,7 +34,7 @@ calculate business value as follows:
     **NOTE:** Actual Hours are calculated as the number of hours between
     the time the first request role began and the time the last request
     role was finished based on the calendar (that is set on the
-    *_[Parameters](../Page_Desc/Parameters_dspConduct.htm)_* page).
+    *_[Parameters](../Page_Desc/Parameters_dspConduct)_* page).
 
   - **Total Hours Saved** = Sum of Previous Request Total Hours Saved +
     Current Request Hours Saved
@@ -57,7 +57,7 @@ To configure business value parameters:
     
     [*View the field descriptions for the Business Process page’s
     Vertical
-    View*](../Page_Desc/Business_Process_H.htm#Business_Process_V)
+    View*](../Page_Desc/Business_Process_H#Business_Process_V)
 
 5.  Enter the baseline hours in the **Baseline Hours** field.
     
@@ -69,12 +69,12 @@ To configure business value parameters:
     
     **NOTE:** Enter the average cost per hour based on the **Current
     Application Currency** field. The application currency is set on the
-    *[Parameters](../Page_Desc/Parameters_dspConduct.htm)* page. Refer
+    *[Parameters](../Page_Desc/Parameters_dspConduct)* page. Refer
     to [Set Currency Display
-    Label](../Config/Set_Currency_Display_Label.htm) for more
+    Label](../Config/Set_Currency_Display_Label) for more
     information.
 
 7.  Click **Save**.
 
 Continue with [Add a Scenario to a Business
-Process](Add_a_Scenario_to_a_Business_Process.htm).
+Process](Add_a_Scenario_to_a_Business_Process).

@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Add Work List Binding Criteria to a Work List Item or
-Plan Task](../Use_Cases/AddWrkLisBindingCriteriaItem.htm).
+Plan Task](../Use_Cases/AddWrkLisBindingCriteriaItem).
 
 </div>
 

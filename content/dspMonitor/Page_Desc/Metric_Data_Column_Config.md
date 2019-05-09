@@ -8,7 +8,7 @@ solution = 'Data Quality'
 <div class="use">
 
 Use this page to [Track Error Records on
-Reports](../Use_Cases/Track_Error_Records_on_Reports.htm).
+Reports](../Use_Cases/Track_Error_Records_on_Reports).
 
 </div>
 

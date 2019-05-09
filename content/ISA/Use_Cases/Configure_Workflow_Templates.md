@@ -11,11 +11,11 @@ records for each rule for a project distribution
 An email with a link to the information in the ISA and a link to the
 scorecard in IS to view the progress of error resolution.  
 
-Refer to [Attachments and Summaries](Summaries_and_Attachments.htm) for
+Refer to [Attachments and Summaries](Summaries_and_Attachments) for
 more information.
 
 A user’s workflow options set the type of email each user will receive.
-Refer to [Configure Workflow Options](Configure_Workflow_OptionsISA.htm)
+Refer to [Configure Workflow Options](Configure_Workflow_OptionsISA)
 for more information.
 
 The types of templates for workflows that can be configured are:
@@ -31,10 +31,10 @@ all users in that project distribution have selected to receive
 summaries as a workflow option.
 
 **NOTE:** Workflow email templates can be configured at the
-[parameter](Configure_Workflow_Templates_at_the_Parameter_Level.htm),
-[project](Configure_Workflow_Templates_at_the_Project__Level.htm), or
+[parameter](Configure_Workflow_Templates_at_the_Parameter_Level),
+[project](Configure_Workflow_Templates_at_the_Project__Level), or
 [project
-distribution](Configure_Workflow_Templates_at_the_Project_Distribution_Level.htm)
+distribution](Configure_Workflow_Templates_at_the_Project_Distribution_Level)
 level to allow emails to be customized for all users in the ISA, all
 users in a project, or all users in a project distribution.
 

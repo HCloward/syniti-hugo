@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Set up Schedule
-Groups](../Config/Set_Up_Schedule_Groups.htm).
+Groups](../Config/Set_Up_Schedule_Groups).
 
 </div>
 

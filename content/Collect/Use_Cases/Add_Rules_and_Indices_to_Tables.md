@@ -61,7 +61,7 @@ To register a rule to a table:
 5.  Click **Add**.
     
     [View the field descriptions for the Table (Rule)
-    page](../Page_Desc/Table_Rule_H.htm)
+    page](../Page_Desc/Table_Rule_H)
 
 6.  Enter order in which rule runs in **PRIORITY** field.
 
@@ -104,7 +104,7 @@ To register a rule to a table:
 15. Click **Edit**.
     
     [View the field descriptions for the Table (Rule) page's Vertical
-    View](../Page_Desc/Table_Rule_H.htm)
+    View](../Page_Desc/Table_Rule_H)
 
 16. Enter notes about rule in **Comment** field.
 
@@ -131,7 +131,7 @@ after the data has been reloaded.
 process. Primary keys for source systems are automatically created if
 **Download Indices Keys** is enabled for the source. To build keys and
 indices for non-SAP sources, verify the Download Keys Indexes check box
-on the *[Target Sources](../Page_Desc/Target_Sources_H_Collect.htm)*
+on the *[Target Sources](../Page_Desc/Target_Sources_H_Collect)*
 page's *Vertical* View is enabled.
 
 To build indices or primary keys for SAP:
@@ -147,7 +147,7 @@ To build indices or primary keys for SAP:
 5.  Click **Add**.
     
     [View the field descriptions for the Table (Indices)
-    page](../Page_Desc/Table_Indices_H.htm)
+    page](../Page_Desc/Table_Indices_H)
 
 6.  Enter a name in **INDEX ID** field.
 
@@ -171,7 +171,7 @@ To build indices or primary keys for SAP:
 11. Click **Add**.
     
     [View the field descriptions for the Target Source Table Index
-    Columns page](../Page_Desc/Target_Source_Table_Index_Columns.htm)
+    Columns page](../Page_Desc/Target_Source_Table_Index_Columns)
 
 12. Select a value from **COLUMN** list box to indicate the table column
     impacted by the index.

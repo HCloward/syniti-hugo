@@ -44,7 +44,7 @@ To copy a template:
 6.  Click **Edit**.
     
     [View the field descriptions for the Copy
-    page.](../Page_Desc/Copy.htm)
+    page.](../Page_Desc/Copy)
 
 7.  Select a category name in the **Copy to Category** list box.
     

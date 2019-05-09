@@ -8,12 +8,12 @@ solution = 'Platform'
 Rules registered at the Plan Task level execute for the selected task.
 
 Work List Event Rules can also be registered at the
-[plan](Register_Work_List_Event_Rules_for_a_Plan.htm) level, [Work List
-Item](Register_WorkList_Event_Rules_WorkList_Item.htm) level, or
-[tag](Configure_Logic_Tags.htm) level.
+[plan](Register_Work_List_Event_Rules_for_a_Plan) level, [Work List
+Item](Register_WorkList_Event_Rules_WorkList_Item) level, or
+[tag](Configure_Logic_Tags) level.
 
 Refer to [Register Work List Event
-Rules](Register_Work_List_Event_Rules.htm) for more information about
+Rules](Register_Work_List_Event_Rules) for more information about
 viewing and editing all rules from one page, and about parameters that
 can be used in Work List Event Rules.
 
@@ -31,7 +31,7 @@ To add a Work List Event Rule to a plan task:
     Otherwise, click Add.
     
     [View the field descriptions for the Work List Event Rule - Plan
-    Task page](../Page_Desc/Work_List_Event_Rule%20Plan_Task.htm)
+    Task page](../Page_Desc/Work_List_Event_Rule%20Plan_Task)
 
 5.  Enter a value in the **PRIORITY** field.
     
@@ -44,7 +44,7 @@ To add a Work List Event Rule to a plan task:
     **NOTE:** The rule runs in this order if multiple rules are assigned
     to the plan task.These options are data sources registered in
     Common. Refer to [Register a Data Source in
-    Common](../../Common/Use_Cases/Register_a_Data_Source_in_Common.htm)
+    Common](../../Common/Use_Cases/Register_a_Data_Source_in_Common)
     for more information.
 
 7.  Select the rule in the **RULE** list box.

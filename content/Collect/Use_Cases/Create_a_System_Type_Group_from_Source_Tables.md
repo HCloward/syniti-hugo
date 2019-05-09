@@ -12,10 +12,10 @@ number of tables must be created and downloaded.
 Create these groups using one of these methods:
 
   - [Create System Type groups from the Fetch
-    process.](Create_Groups_from_the_Fetch_Process.htm)
+    process.](Create_Groups_from_the_Fetch_Process)
   - Create System Type groups from existing source tables.
   - [Create System Type groups manually in
-    Common.](../../Common/Use_Cases/Add_System_Types_Groups.htm)
+    Common.](../../Common/Use_Cases/Add_System_Types_Groups)
 
 To create groups from Existing Source Tables:
 

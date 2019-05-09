@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Set the Days Active for a Request
-Status](../Config/Set_the_Days_Active_for_a_Request_Status.htm).
+Status](../Config/Set_the_Days_Active_for_a_Request_Status).
 
 </div>
 

@@ -26,7 +26,7 @@ on the *Navigation* pane.
 To view debug logs to assist while troubleshooting posting errors, in
 Common, select <span style="font-weight: bold;">Job Monitor \> Debug
 Logs</span>. Refer to Common documentation on [Configure Debug Logs
-Settings](../../../Platform/Common/Use_Cases/Configure_Debug_Logs_Settings.htm)
+Settings](../../../Platform/Common/Use_Cases/Configure_Debug_Logs_Settings)
 and [View Debug
-Logs](../../../Platform/Common/Use_Cases/View_Debug_Logs.htm) for more
+Logs](../../../Platform/Common/Use_Cases/View_Debug_Logs) for more
 information.

@@ -16,22 +16,22 @@ functionality can be incorporated using the following steps:
 1.  Create a Looped Template and Process in Integrate. Refer to
     [Configure Process Template Loops for a BDC Script Template with
     Looping
-    Enabled](../../../Platform/Integrate/Use_Cases/ConfigureProcTempLoopsBDCLoopEn.htm)
+    Enabled](../../../Platform/Integrate/Use_Cases/ConfigureProcTempLoopsBDCLoopEn)
     or [Configure Process Template Loops for a GUI Script Template with
     Looping
-    Enabled](../../../Platform/Integrate/Use_Cases/ConfigureProcTemplLoopsGUILoopgEn.htm)
+    Enabled](../../../Platform/Integrate/Use_Cases/ConfigureProcTemplLoopsGUILoopgEn)
     in Integrate for more information.
 2.  [Create all tt tables and tx views for the Integrate
-    Process](Create_All_tt_Tables_and_tx_Views_for_the_Integrate_Process.htm),
+    Process](Create_All_tt_Tables_and_tx_Views_for_the_Integrate_Process),
     either manually or by using the Auto Generate feature of Integrate
 3.  [Create rt Tables from the tt
-    Tables](Create_rt_Tables_from_the_tt_Tables.htm)
-4.  [Create Custom Pages and Views](Create_Custom_Pages_and_Views.htm)
+    Tables](Create_rt_Tables_from_the_tt_Tables)
+4.  [Create Custom Pages and Views](Create_Custom_Pages_and_Views)
     in dspCompose™ to enter Template data
 5.  [Create a Template that Uses the Custom Pages in
-    dspCompose™](Use_the_Custom_Pages_in_dspCompose_for_the_BAPI_Process.htm)
+    dspCompose™](Use_the_Custom_Pages_in_dspCompose_for_the_BAPI_Process)
 6.  [Add Custom Roles for the Looped
-    Template](Add_Custom_Roles_for_the_Looped_Template.htm)
+    Template](Add_Custom_Roles_for_the_Looped_Template)
 
 **NOTE:** These generic instructions should provide the steps needed to
 use a multi-loop Integrate template with dspCompose™. These instructions

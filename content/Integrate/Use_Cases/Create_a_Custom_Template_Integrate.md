@@ -15,7 +15,7 @@ Custom template.
 assembly file name and the Type Full Name (NameSpace + Class Name) to
 enter them while creating the template. The system does not validate
 this information. Refer to [Create a Custom
-Assembly](Create_a_Custom_Assembly.htm) for more information.
+Assembly](Create_a_Custom_Assembly) for more information.
 
 <span style="font-weight: bold;">NOTE</span>: A Custom template does not
 have a connection type because the implementation is defined by the
@@ -33,7 +33,7 @@ To create a template:
 3.  Click <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Template
-    page.](../Page_Desc/Template_H.htm)
+    page.](../Page_Desc/Template_H)
 
 4.  Enter a name in <span style="font-weight: bold;">TEMPLATE
     NAME</span> field.
@@ -77,4 +77,4 @@ To create a template:
 10. Click <span style="font-weight: bold;">Save</span>.
 
 Continue with [Activate the Custom
-Template](Activate_the_Custom_Template.htm).
+Template](Activate_the_Custom_Template).

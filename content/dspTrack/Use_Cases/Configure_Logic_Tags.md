@@ -46,7 +46,7 @@ To add a rule to the tag:
     
     [View the field descriptions for the Work List Event Rules - Tag
     Registration
-    page](../Page_Desc/Work_List_Event_Rules_Tag_Registration.htm)
+    page](../Page_Desc/Work_List_Event_Rules_Tag_Registration)
 
 5.  Enter a value in the **PRIORITY** field.
     
@@ -59,7 +59,7 @@ To add a rule to the tag:
     
     **NOTE**: These options are data sources registered in Common. Refer
     to [Register a Data Source in
-    Common](../../Common/Use_Cases/Register_a_Data_Source_in_Common.htm)
+    Common](../../Common/Use_Cases/Register_a_Data_Source_in_Common)
     for more information.
 
 7.  Select the rule in the **RULE** list box.
@@ -85,12 +85,12 @@ The rule will run for tasks assigned to this tag depending on the option
 selected in the WORK LIST EVENT ID list box.
 
 Work List Event Rules can also be registered at the
-[plan](Register_Work_List_Event_Rules_for_a_Plan.htm) level, [Work List
-Item](Register_WorkList_Event_Rules_WorkList_Item.htm) level and [Plan
-Task](Register_Work_List_Event_Rules_for_a_Plan_Task.htm) level.
+[plan](Register_Work_List_Event_Rules_for_a_Plan) level, [Work List
+Item](Register_WorkList_Event_Rules_WorkList_Item) level and [Plan
+Task](Register_Work_List_Event_Rules_for_a_Plan_Task) level.
 
 Refer to [Register Work List Event
-Rules](Register_Work_List_Event_Rules.htm) for more information about
+Rules](Register_Work_List_Event_Rules) for more information about
 viewing and editing all rules from one page, and about parameters that
 can be used in Work List Event Rules.
 
@@ -109,7 +109,7 @@ To add a validation<span> </span>to the tag:
     
     [View the field descriptions for the Work List Event Validations -
     Tag Registration
-    page](../Page_Desc/Work_List_Event_Validations_Tag_Registration.htm)
+    page](../Page_Desc/Work_List_Event_Validations_Tag_Registration)
 
 5.  Enter a value in the **PRIORITY** field.
     
@@ -130,7 +130,7 @@ To add a validation<span> </span>to the tag:
     options are data sources registered in Common. Refer
     to</span><span class="Apple-converted-space"> </span>[Register a
     Data Source in
-    Common](../../Common/Use_Cases/Register_a_Data_Source_in_Common.htm)
+    Common](../../Common/Use_Cases/Register_a_Data_Source_in_Common)
     for more information.
 
 9.  Select the name of the stored procedure or view from the
@@ -159,14 +159,14 @@ The validation will run for the task assigned to this tag depending on
 the option selected in the WORK LIST EVENT ID list box.
 
 Work List Event Validations can also be set at the [Plan
-Task](Register_WorkList_Event_Validations_Plan_Task.htm) level, [Work
-List Item](Register_WorkList_Event_Valid_WorkList_Item.htm) level, and
-the [plan](Register_WorkList_Event_Validations_Plan.htm) level.
+Task](Register_WorkList_Event_Validations_Plan_Task) level, [Work
+List Item](Register_WorkList_Event_Valid_WorkList_Item) level, and
+the [plan](Register_WorkList_Event_Validations_Plan) level.
 
 Refer to [Register Work List Event
-Validations](Register_Work_List_Event_Validations.htm) for more
+Validations](Register_Work_List_Event_Validations) for more
 information about viewing and editing all validations from one page, and
 about parameters that can be used in Work List Event validations.
 
-Refer to [Assign a Tag to Tasks](Assign_a_Tag_to_Tasks.htm) to continue
+Refer to [Assign a Tag to Tasks](Assign_a_Tag_to_Tasks) to continue
 with configuring Logic tags.

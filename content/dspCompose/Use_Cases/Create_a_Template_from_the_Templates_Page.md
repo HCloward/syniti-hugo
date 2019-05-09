@@ -5,7 +5,7 @@ solution = 'Data Quality'
 
 # Create a Template For Advanced Users
 
-Creating a template from the *[Templates](../Page_Desc/Templates_H.htm)*
+Creating a template from the *[Templates](../Page_Desc/Templates_H)*
 page provides access to configuration settings to customize the
 template. The method can be used by advanced users familiar with
 dspCompose™.
@@ -27,7 +27,7 @@ To create a template:
 3.  Click **Add**; the *Vertical* View displays.
     
     *[View a field descriptions of the Templates page’s Vertical
-    View.](../Page_Desc/Templates_H.htm#Templates_V_All_Tabs)*
+    View.](../Page_Desc/Templates_H#Templates_V_All_Tabs)*
 
 4.  Enter a name in the **Template Name** field.
     
@@ -72,7 +72,7 @@ To create a template:
     not select a connection ID, the default connection assigned to the
     Integrate Template is used for the request. Refer to [Establish a
     Connection to a Target
-    System](../../../Platform/Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview.htm)
+    System](../../../Platform/Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview)
     for more information.
 
 8.  Click **Save**.
@@ -92,12 +92,12 @@ To create a template:
 10. Record the transaction.
     
     **NOTE**: Refer to [Record a BDC
-    Script](../../../Platform/Integrate/Use_Cases/Record_a_BDC_Script.htm)
+    Script](../../../Platform/Integrate/Use_Cases/Record_a_BDC_Script)
     or [Record a GUI
-    Script](../../../Platform/Integrate/Use_Cases/Record_a_GUI_Script.htm)
+    Script](../../../Platform/Integrate/Use_Cases/Record_a_GUI_Script)
     in Integrate for detailed information about recording a template.
     Refer to [BDC Script and GUI Script Recording
-    Tips](../../../Platform/Integrate/Use_Cases/BDCScriptGUIScriptRecTips.htm)
+    Tips](../../../Platform/Integrate/Use_Cases/BDCScriptGUIScriptRecTips)
     in Integrate for recording tips.
     
     **NOTE:** If a mistake was made during the recording, click the
@@ -106,7 +106,7 @@ To create a template:
     
     **NOTE:** Once a template has been recorded it must be further
     configured and generated before it can be used in requests. Refer to
-    [Configure Templates](Configure_Templates.htm) for more information.
+    [Configure Templates](Configure_Templates) for more information.
 
 11. For BDC Script or GUI Script Type templates, click **Generate** on
     the **General** tab; a confirmation message displays.
@@ -117,7 +117,7 @@ To create a template:
     Integrate creates a process with an identical name to the template.
     Integrate than creates the data entry pages based on this template
     and automatically maps the fields. Refer to [Data
-    Objects](Data_Objects.htm) for more information.
+    Objects](Data_Objects) for more information.
 
 13. Click the **Configuration** tab to access a link to the newly
     created Integrate process (in the field **Integrate Process ID**).
@@ -129,9 +129,9 @@ To create a template:
     template to be used for requests.
     
     **NOTE:** Refer to [Activate the
-    Template](Activate_the_Template.htm) for more information.
+    Template](Activate_the_Template) for more information.
 
 15. Configure the template as needed.
     
-    **NOTE:** Refer to [Configure Templates](Configure_Templates.htm)
+    **NOTE:** Refer to [Configure Templates](Configure_Templates)
     for detailed information.

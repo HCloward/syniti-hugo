@@ -13,9 +13,9 @@ required only under certain data conditions, field groups are used to
 define the conditions, fields, values, and requirement setting.
 
 Field groups are created in Target Design and are used on the *[*Field
-Mappings*](../Page_Desc/Field_Mappings_H.htm)* page in Map. To view
+Mappings*](../Page_Desc/Field_Mappings_H)* page in Map. To view
 field groups, select ProcessArea \> Targets \> Field Groups.
 
 Refer to [Work with Field
-Groups](../../Design/Use_Cases/Work_with_Field_Groups.htm) for more
+Groups](../../Design/Use_Cases/Work_with_Field_Groups) for more
 information.

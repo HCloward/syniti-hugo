@@ -16,10 +16,10 @@ process, scenario, or role) being viewed.<span> </span>
 This chart displays the percentage of roles within the specific scenario
 completed on time according to established SLA settings based on active
 requests. Refer to [Set Up SLA Notifications in
-dspConduct™](../Config/Set_Up_SLA_Notifications.htm) for more
+dspConduct™](../Config/Set_Up_SLA_Notifications) for more
 information.
 
-Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts.htm) for
+Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts) for
 general information about chart features.
 
 To access this chart in dspConduct™:

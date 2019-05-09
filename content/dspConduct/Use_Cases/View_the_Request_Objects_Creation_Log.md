@@ -19,7 +19,7 @@ To access the log at any time:
 4.  Click the **Request Table and Views Creation Log** icon.
 
 The log can also be accessed on the *[Default WebApp Request
-Table](../Page_Desc/Default%20WebApp%20Request%20Table.htm)* page by
+Table](../Page_Desc/Default%20WebApp%20Request%20Table)* page by
 clicking Creation Log in the Page toolbar. However it is only accessible
 on that page until objects are built. Once objects are built and the
 user navigates away from the *Default WebApp Request Table* page, that

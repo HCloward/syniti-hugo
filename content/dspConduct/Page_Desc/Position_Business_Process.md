@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to <span>[configure business processes in a
-position](../Use_Cases/Configure_Business_Processes_in_a_Position.htm)</span>.
+position](../Use_Cases/Configure_Business_Processes_in_a_Position)</span>.
 
 </div>
 

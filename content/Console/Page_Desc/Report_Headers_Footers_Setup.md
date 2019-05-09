@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Set Headers and Footers for Transform
-Reports](../../Transform/Config/Set_Up_Headers_and_Footers.htm).
+Reports](../../Transform/Config/Set_Up_Headers_and_Footers).
 
 </div>
 

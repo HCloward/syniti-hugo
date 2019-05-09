@@ -6,17 +6,17 @@ solution = 'Migration'
 # Target Sources (Update Row) H
 
 [Target Sources (Update Row)
-V](Target_Sources_Update_Row.htm#Target_Sources__Update_Row__V)
+V](Target_Sources_Update_Row#Target_Sources__Update_Row__V)
 
 <div class="use">
 
 Use this page to:
 
-  - [Add Add Row Sources](../Use_Cases/Add_an_Add_Row_Source.htm)
-  - [Add Update Row Sources](../Use_Cases/Add_Update_Row_Sources.htm)
-  - [Add an External Source](../Use_Cases/Add_an_External_Source.htm)
+  - [Add Add Row Sources](../Use_Cases/Add_an_Add_Row_Source)
+  - [Add Update Row Sources](../Use_Cases/Add_Update_Row_Sources)
+  - [Add an External Source](../Use_Cases/Add_an_External_Source)
   - [Add Relationship Joins to
-    Sources](../Use_Cases/Add_Relationship_Joins_to_Source.htm)
+    Sources](../Use_Cases/Add_Relationship_Joins_to_Source)
 
 </div>
 
@@ -27,7 +27,7 @@ To access this page:
 2.  Click <span style="font-weight: bold;">Map </span>in the Context
     bar.
 3.  Click the <span style="font-weight: bold;">Targets</span> icon on
-    the *[Process Area Launch](Process_Area_Launch_map.htm)* page.
+    the *[Process Area Launch](Process_Area_Launch_map)* page.
 4.  Click the <span style="font-weight: bold;">Sources</span> icon for a
     Target.
 5.  Click the <span style="font-weight: bold;">Update Row Sources</span>
@@ -60,11 +60,11 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Mappings</p></td>
-<td><p>Click to open the <em><a href="Field_Mappings_H.htm">Field Mappings</a></em> page to create and reset field mappings for all fields in the selected Update Row source, to view the history for a selected mapping, or to view mapping details. A number does not display on this icon if no field mappings have been activated for the current context.</p></td>
+<td><p>Click to open the <em><a href="Field_Mappings_H">Field Mappings</a></em> page to create and reset field mappings for all fields in the selected Update Row source, to view the history for a selected mapping, or to view mapping details. A number does not display on this icon if no field mappings have been activated for the current context.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Relationships</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Relationship_Joins_H.htm">Relationship Joins</a></span> page to add relationship joins for Add Row and Update Row source tables.</p>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Relationship_Joins_H">Relationship Joins</a></span> page to add relationship joins for Add Row and Update Row source tables.</p>
 <p>When a Target is synced with Target Design, relationships are loaded for the Target based on the dependencies set in Target Design.</p>
 <p>For example, the MARC table has a parent relationship with the MARD table (as in, MARD is a child of MARC).</p>
 <p>The key fields used in the relationship between the tables are MATNR and WERKS.</p>
@@ -79,7 +79,7 @@ To access this page:
 
 ## <span id="Target_Sources__Update_Row__V"></span>Target Sources (Update Row) V
 
-[Target Sources (Update Row) H](Target_Sources_Update_Row.htm)
+[Target Sources (Update Row) H](Target_Sources_Update_Row)
 
 Field
 
@@ -87,21 +87,21 @@ Description
 
 Copy To
 
-Click to open the *[Target Source Copy To](Target_Source_Copy_To.htm)*
+Click to open the *[Target Source Copy To](Target_Source_Copy_To)*
 page to copy source mappings from the current Target Source to another
 Target Source combination.
 
 Export Field Mappings
 
 Click to export all field mappings with a MAPPING STATUS and a RULE
-STATUS of Complete on the *[Field Mappings](Field_Mappings_H.htm)* page
+STATUS of Complete on the *[Field Mappings](Field_Mappings_H)* page
 to the Common System Tables to be imported into Waves and other Process
 Areas.
 
 Import Field Mappings
 
 Click to open the*[Import Field
-Mappings](Import_Field_Mappings.htm)*page to review and import all
+Mappings](Import_Field_Mappings)*page to review and import all
 available mappings approved in other Waves to the current source.
 
 Auto Update Not Used
@@ -119,7 +119,7 @@ Track Changes
 
 If checked, workflow notifications are sent to users who are set up to
 receive mapping changes. Refer to [Set up User
-Notifications](../Config/Setup_User_Notifications.htm) for more
+Notifications](../Config/Setup_User_Notifications) for more
 information.
 
 Comment
@@ -129,7 +129,7 @@ Displays a brief, user-defined comment about the source.
 Relationships
 
 Click to open the <span style="font-style: italic;">[Relationship
-Joins](Relationship_Joins_H.htm)</span> page to add relationship joins
+Joins](Relationship_Joins_H)</span> page to add relationship joins
 for Add Row and Update Row source tables.
 
 When a Target is synced with Target Design, relationships are loaded for
@@ -164,7 +164,7 @@ Update Row source.
 Schema Columns
 
 Click to open the <span style="font-style: italic;">[Target Source
-Schema](Target_Source_Schema_H.htm)</span> page to reset Target Source
+Schema](Target_Source_Schema_H)</span> page to reset Target Source
 schema field lengths. If a source was added in Target Design during a
 System Type import, and the System Type tables for a source contained an
 invalid length for a column, use the Reset functionality to update a
@@ -173,7 +173,7 @@ source table with the column’s correct length.
 System Type Table Fields
 
 Click to open the <span style="font-style: italic;">[System Types Tables
-Fields](../../../Platform/Common/Page_Desc/System_Types_Table_Fields_H.htm)</span>
+Fields](../../../Platform/Common/Page_Desc/System_Types_Table_Fields_H)</span>
 page to view the fields in the source table.
 
 ST Table Settings
@@ -204,7 +204,7 @@ rules
 **NOTE:** If the Add Row source has an Add Row Source Override field
 entered on the <span style="font-style: italic;">Vertical V</span>iew of
 the <span style="font-style: italic;">[Target
-Sources](Target_Sources_H_Map.htm)</span> page, then the Update Row
+Sources](Target_Sources_H_Map)</span> page, then the Update Row
 source’s Update Row Source Override field on this page must match the
 Add Row Source Override field.
 
@@ -217,7 +217,7 @@ view.
 **NOTE:** If the Add Row source has an Add Row Source Override field
 entered on the <span style="font-style: italic;">Vertical V</span>iew of
 the <span style="font-style: italic;">[Target
-Sources](Target_Sources_H_Map.htm)</span> page, then the Update Row
+Sources](Target_Sources_H_Map)</span> page, then the Update Row
 source’s Update Row Source Override field on this page must match the
 Add Row Source Override field.
 
@@ -227,8 +227,8 @@ Table Details
 database object has not been set. This is set on the
 <span style="font-style: italic;">Horizontal</span> View of the
 <span style="font-style: italic;">[Target Source (Add
-Row](Target_Sources_Add_Row.htm))</span> or [Target Sources (Update
-Row)](Target_Sources_Update_Row.htm) page.
+Row](Target_Sources_Add_Row))</span> or [Target Sources (Update
+Row)](Target_Sources_Update_Row) page.
 
 Profile
 
@@ -238,13 +238,13 @@ data types.
 
 View Data
 
-Click to open the [Target Sources](Target_Sources_H_Map.htm) page to
+Click to open the [Target Sources](Target_Sources_H_Map) page to
 view the source data.
 
 View Fields
 
 Click to open the <span style="font-style: italic;">[Table Field
-(Results)](../../../Platform/Common/Page_Desc/Table_Field_Results_H.htm)</span>
+(Results)](../../../Platform/Common/Page_Desc/Table_Field_Results_H)</span>
 page to view profile results such as field data type, length, the
 percentage of fields that do not have data, and the percentage of fields
 that have unique values.

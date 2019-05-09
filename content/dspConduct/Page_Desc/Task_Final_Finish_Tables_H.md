@@ -6,7 +6,7 @@ solution = 'Master Data Management'
 # Task Final Finish Tables H
 
 [Task Final Finish Tables
-V](Task_Final_Finish_Tables_H.htm#ask_Final_Finish_Tables_V)
+V](Task_Final_Finish_Tables_H#ask_Final_Finish_Tables_V)
 
 <div class="use">
 
@@ -14,12 +14,12 @@ Use this page to:
 
   - [Configure Data Download During the Final Finish Process to use a
     Data Services
-    Job](../Use_Cases/Configure_Data_Download_During_the_Final_Finish_Process_to_use_a_Data_Services_Job.htm)
+    Job](../Use_Cases/Configure_Data_Download_During_the_Final_Finish_Process_to_use_a_Data_Services_Job)
   - [Configure Data Download During the Final Finish Process to use a
     CranPort
-    Package](../Use_Cases/Configure_Data_Download_During_the_Final_Finish_Process_to_use_a_CranPort_Package.htm)
+    Package](../Use_Cases/Configure_Data_Download_During_the_Final_Finish_Process_to_use_a_CranPort_Package)
   - [Configure Data Download During the Final Finish Process to use a
-    DBMoto Package](../Use_Cases/Configure_FinalFinish_DBMoto.htm)
+    DBMoto Package](../Use_Cases/Configure_FinalFinish_DBMoto)
 
 </div>
 
@@ -52,7 +52,7 @@ To access this page:
 <tr class="odd">
 <td><p>PRIORITY</p></td>
 <td><p>Displays the execution order of CranPort packages or Data Services jobs.Does not apply to DBMoto packages.</p>
-<p>The execution order of packages is by priority of the role (specified on the <em><a href="Role_H_dspConduct.htm">Role</a></em> page) to which the task is assigned, and then the order is specified by the order in which the package is added on the <span style="font-style: italic;"><a href="Task_Final_Finish_Tables_H.htm">Task Final Finish Tables</a></span> page.</p></td>
+<p>The execution order of packages is by priority of the role (specified on the <em><a href="Role_H_dspConduct">Role</a></em> page) to which the task is assigned, and then the order is specified by the order in which the package is added on the <span style="font-style: italic;"><a href="Task_Final_Finish_Tables_H">Task Final Finish Tables</a></span> page.</p></td>
 </tr>
 <tr class="even">
 <td><p>DATA SERVICES JOB NAME</p></td>
@@ -78,7 +78,7 @@ To access this page:
 
 ## <span id="ask_Final_Finish_Tables_V"></span>Task Final Finish Tables V
 
-[Task Final Finish Tables H](Task_Final_Finish_Tables_H.htm)
+[Task Final Finish Tables H](Task_Final_Finish_Tables_H)
 
 **NOTE:** The fields that display on this page are determined by the
 selected Finish Type.
@@ -108,7 +108,7 @@ selected Finish Type.
 <tr class="odd">
 <td><p>Priority</p></td>
 <td><p>Displays the execution order of CranPort packages or Data Services jobs. Does not apply to DBMoto packages.</p>
-<p>The execution order of packages is by priority of the role (specified on the <a href="Role_H_dspConduct.htm"><em>Role</em></a> page) to which the task is assigned, and then the order is specified by the order in which the package is added on the <a href="Task_Final_Finish_Tables_H.htm"><em>Task Final Finish Tables</em></a> page.</p></td>
+<p>The execution order of packages is by priority of the role (specified on the <a href="Role_H_dspConduct"><em>Role</em></a> page) to which the task is assigned, and then the order is specified by the order in which the package is added on the <a href="Task_Final_Finish_Tables_H"><em>Task Final Finish Tables</em></a> page.</p></td>
 </tr>
 <tr class="even">
 <td><p>Source</p></td>
@@ -126,9 +126,9 @@ selected Finish Type.
 </tr>
 <tr class="odd">
 <td><p>Run Rules After Download</p></td>
-<td><p>This option determines the Collect rules to run on a table after download when a user with the Post role clicks Finish for the request on the <em><a href="Request_Role_H.htm">Request Role</a></em> page. Options are:</p>
+<td><p>This option determines the Collect rules to run on a table after download when a user with the Post role clicks Finish for the request on the <em><a href="Request_Role_H">Request Role</a></em> page. Options are:</p>
 <ul>
-<li><strong>All – Run all of the rules:</strong> If multiple rules are registered to the table in Collect, dspConduct™ runs them on the table after download in the order the rules were added on the Collect <span style="font-style: italic;"><a href="../../../Platform/Collect/Page_Desc/Table_Rule_H.htm">Table (Rule)</a></span> page.</li>
+<li><strong>All – Run all of the rules:</strong> If multiple rules are registered to the table in Collect, dspConduct™ runs them on the table after download in the order the rules were added on the Collect <span style="font-style: italic;"><a href="../../../Platform/Collect/Page_Desc/Table_Rule_H">Table (Rule)</a></span> page.</li>
 <li><strong>None – Do not run any rules:</strong> Though rules are registered to the table in Collect, dspConduct™ does not run those rules on the downloaded table.</li>
 <li><strong>NoParametersOnly</strong> – Run only Collect rules that do not contain input parameters, such as an Insert rule.</li>
 <li><strong>ParametersOnly</strong> – Run Collect rules that contain input parameters, such as an Update rule.</li>
@@ -148,12 +148,12 @@ selected Finish Type.
 </tr>
 <tr class="even">
 <td><p>Where Clause Builder</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Task_Final_Finish_Where_Clause.htm">Task Final Finish Where Clause</a></span> page. Where Clauses should be specified for Finish Type of CranPort.</p>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Task_Final_Finish_Where_Clause">Task Final Finish Where Clause</a></span> page. Where Clauses should be specified for Finish Type of CranPort.</p>
 <p><strong>NOTE:</strong> This field does not display if the finish type is Data Services.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Global Variables</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Data_Services_Global_Variables_Setup_in_dspConduct.htm">Data Services Global Variables Setup</a></span> page if the Data Services job is to run on one table only.</p>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Data_Services_Global_Variables_Setup_in_dspConduct">Data Services Global Variables Setup</a></span> page if the Data Services job is to run on one table only.</p>
 <p><strong>NOTE:</strong> This field is not available for Finish Type of CranPort.</p></td>
 </tr>
 </tbody>

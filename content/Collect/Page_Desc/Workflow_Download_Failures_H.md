@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [View Workflow Download
-Failures](../Use_Cases/View_Workflow_Download_Failures.htm).
+Failures](../Use_Cases/View_Workflow_Download_Failures).
 
 </div>
 
@@ -33,12 +33,12 @@ pane.
 
 ## <span id="Workflow_Download1"></span>Workflow Download Failures V
 
-[Workflow Download Failures H](Workflow_Download_Failures_H.htm)
+[Workflow Download Failures H](Workflow_Download_Failures_H)
 
 <div class="use">
 
 Use this page to [View Workflow Download
-Failures](../Use_Cases/View_Workflow_Download_Failures.htm).
+Failures](../Use_Cases/View_Workflow_Download_Failures).
 
 </div>
 

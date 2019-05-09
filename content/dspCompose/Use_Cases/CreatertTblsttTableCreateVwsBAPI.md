@@ -8,9 +8,9 @@ solution = 'Data Quality'
 Before performing these steps:
 
 1.  [Post Data Using A
-    BAPI](../../../Platform/Integrate/Use_Cases/Post_Data_Using_a_BAPI.htm)
+    BAPI](../../../Platform/Integrate/Use_Cases/Post_Data_Using_a_BAPI)
 2.  [Create all tt Tables and Views for the BAPI
-    Process](Create_tt_Tables_and_Views_for_the_BAP_Process.htm)
+    Process](Create_tt_Tables_and_Views_for_the_BAP_Process)
 
 Once each **tt** table is created, use it as a script to create an
 **rt** table. Add the following columns to each table.
@@ -71,4 +71,4 @@ the WebAppID where the view resides, and a WHERE clause 'WHERE
 \[PostError\] \>= 1'.
 
 Continue with [Create Custom Pages and Views for the BAPI
-Process](Create_Custom_Pages_and_Views_for_the_BAPI_Process.htm).
+Process](Create_Custom_Pages_and_Views_for_the_BAPI_Process).

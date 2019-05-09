@@ -7,7 +7,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Add Indices](../Use_Cases/Add_Indices.htm).
+Use this page to [Add Indices](../Use_Cases/Add_Indices).
 
 </div>
 
@@ -19,7 +19,7 @@ To access this page:
 
 <span style="font-weight: bold;">NOTE:</span> Excel Integration has been
 enabled on this page. Refer to [Use Excel
-Integration](../../Excel_Int/Use_Excel_Integration.htm) for more
+Integration](../../Excel_Int/Use_Excel_Integration) for more
 information.
 
 <table>
@@ -48,7 +48,7 @@ information.
 </tr>
 <tr class="even">
 <td><p>Index Fields</p></td>
-<td><p>Click the <span style="font-style: italic;"><a href="System_Types_Index_Fields.htm">System Types Index Fields</a></span> page to add, edit and delete table fields for the index.</p></td>
+<td><p>Click the <span style="font-style: italic;"><a href="System_Types_Index_Fields">System Types Index Fields</a></span> page to add, edit and delete table fields for the index.</p></td>
 </tr>
 <tr class="odd">
 <td><p>DSP SUPPLIED</p></td>

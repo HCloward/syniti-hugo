@@ -12,8 +12,8 @@ for the Data and Review roles on the
 validations have been registered to the template or when column
 properties have been added to the Data Entry page for the template,
 thereby triggering the use of the validation rules. Refer to [Add
-Validations to Roles](Add_Validations_to_Roles.htm) and [Enable Role
-Validations](../Config/Enable_Role_Validations.htm) for more
+Validations to Roles](Add_Validations_to_Roles) and [Enable Role
+Validations](../Config/Enable_Role_Validations) for more
 information.
 
 Validations allow for template-specific data standards to be applied at
@@ -71,12 +71,12 @@ records that fail a validation whose severity meets or exceeds the Force
 Reject Severity. These records cannot be approved by the Review role and
 are automatically rejected and sent back to the Data role for
 correction. Refer to [Set Force Reject
-Severity](Set_Force_Reject_Severity.htm) for more information.
+Severity](Set_Force_Reject_Severity) for more information.
 
 Set role-level and page-level validations on the *Template (Role
 Validations)* page.
 
-Refer to [Add Validations to Roles](Add_Validations_to_Roles.htm) for
+Refer to [Add Validations to Roles](Add_Validations_to_Roles) for
 more information.
 
 To validate a role:

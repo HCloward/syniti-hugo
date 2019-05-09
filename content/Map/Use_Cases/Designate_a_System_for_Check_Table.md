@@ -24,7 +24,7 @@ To define a Target system for a check table in Map:
 3.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the Value Mapping (Config)
-    page](../Page_Desc/Value_Mapping_Config_H.htm)
+    page](../Page_Desc/Value_Mapping_Config_H)
 
 4.  Select the Target system that stores the selected check table in the
     <span style="font-weight: bold;">Value Data Source ID</span> list

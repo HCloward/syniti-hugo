@@ -31,7 +31,7 @@ or use the Auto Generate Database Objects feature.
 When creating a process, select a template to be assigned to the
 process.  After saving the process, add additional templates. Refer to
 [*<span style="color: #0000ff;font-style: normal;">Add Templates to a
-Process</span>*](Add_Templates_to_a_Process.htm) for more information.
+Process</span>*](Add_Templates_to_a_Process) for more information.
 
 **NOTE**: A user cannot create a process until at least one category and
 one active template exist in Integrate because a process is assigned to
@@ -39,7 +39,7 @@ a category. A category must have at least one active template before a
 process can be created.
 
 A process can be copied to another category. Refer to [Copy a
-Process](Copy_a_Process.htm) for more information.
+Process](Copy_a_Process) for more information.
 
 To create a process:
 
@@ -53,7 +53,7 @@ To create a process:
 3.  Click **Add** on Page toolbar; the *Vertical* View displays.
     
     *[View the field descriptions for the Process page’s Vertical
-    View.](../Page_Desc/Process_H.htm#Process_V_All_Tabs)*
+    View.](../Page_Desc/Process_H#Process_V_All_Tabs)*
     
     **NOTE:** At least one active template must exist for the category
     before a process can be added.
@@ -143,4 +143,4 @@ To create a process:
 17. Add additional templates, if applicable.
 
 **NOTE:** Refer to [Add Templates to a
-Process](Add_Templates_to_a_Process.htm) for detailed information.
+Process](Add_Templates_to_a_Process) for detailed information.

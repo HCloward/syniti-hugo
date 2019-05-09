@@ -8,13 +8,13 @@ solution = 'Data Quality'
 An external request scenario allows dspCompose™ to create a request when
 an external contact sends an email to an email address designated to
 receive dspCompose™ workflows. Refer to [Use External Request
-Scenarios](Use_External_Request_Scenarios.htm) for more information.
+Scenarios](Use_External_Request_Scenarios) for more information.
 
 **NOTE**: If the template associated with the external request scenario
 is active, no external request scenarios can be added, edited or deleted
 for that template. Updates are restricted. Refer to [Edit an Active
 template with an external request scenario that uses an Excel-initiated
-request](Edit_Active_Template_External_Rqst_Scnario.htm) for more
+request](Edit_Active_Template_External_Rqst_Scnario) for more
 information.
 
 In an external request scenario that creates an Excel-initiated request,
@@ -35,19 +35,19 @@ The third row is the first data record imported into the staging table.
 Before creating this type of scenario, some configuration is required.
 Refer to [Configure Settings for External Request Scenarios that Create
 Excel-initiated
-Requests](Configure_Settings_External_Rqst_Scenarios_that_Create_Excel.htm)
+Requests](Configure_Settings_External_Rqst_Scenarios_that_Create_Excel)
 for more information.
 
 To understand the external request scenario process, refer to [External
 Request Scenarios that Create Excel-initiated
-Requests](External_Request_Scenarios_that_Create_Excel_Initiated_Requests.htm)
+Requests](External_Request_Scenarios_that_Create_Excel_Initiated_Requests)
 for more information.
 
 Some settings for an external request scenario that creates an
 Excel-initialed request can be automatically populated when a
 spreadsheet is uploaded. Refer to [Automatically Set Settings when
 Creating an External Request Scenario that Creates an Excel-initiated
-Request](Automatically_Set__Settings_When_Createng_an_External.htm) for
+Request](Automatically_Set__Settings_When_Createng_an_External) for
 more information.
 
 To create an external request scenario for an Excel-initiated request:
@@ -71,7 +71,7 @@ To create an external request scenario for an Excel-initiated request:
     
     *[View the field descriptions for the Template (External Request
     Scenario)
-    page](../Page_Desc/Template_External_Request_Scenario.htm)*
+    page](../Page_Desc/Template_External_Request_Scenario)*
 
 6.  Enter a value in the **SUBJECT ALIAS** field.
     
@@ -123,7 +123,7 @@ To create an external request scenario for an Excel-initiated request:
     **NOTE**: The TARGET ERP SYSTEM is the connection ID to use for the
     created request. SAP connections are added in Common. Refer to
     [Establish an SAP
-    Connection](../../../Platform/Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview.htm)
+    Connection](../../../Platform/Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview)
     for more information.
 
 11. Click **Save**; the *Vertical* View displays.
@@ -209,6 +209,6 @@ clicking Clear Staging Area, then click Build Staging
 Area.<span> </span>
 
 Refer to [Map Columns from the Scenario to Columns from the
-Spreadsheet](../../../Migration/Map/Use_Cases/Map_Columns_Template_to_Sprdsht.htm)
+Spreadsheet](../../../Migration/Map/Use_Cases/Map_Columns_Template_to_Sprdsht)
 for more information to continue configuring the external request
 scenario.

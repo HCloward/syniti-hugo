@@ -15,7 +15,7 @@ For Data roles and External Data roles, a rule can be configured to run
 when a user:
 
   - Clicks Data Entry on the *[*Request
-    (Roles)*](../Page_Desc/Request_Roles_H.htm)* page to enter or update
+    (Roles)*](../Page_Desc/Request_Roles_H)* page to enter or update
     request data
 
   - Validates the role by clicking **Validate** on the *Request (Roles)*
@@ -23,8 +23,8 @@ when a user:
 
 **NOTE**: The **Validate** button displays for the Data and Review role
 if role validations exist for the template. Refer to [Add Validations to
-Roles](Add_Validations_to_Roles.htm) and [Enable Role
-Validations](../Config/Enable_Role_Validations.htm) for more
+Roles](Add_Validations_to_Roles) and [Enable Role
+Validations](../Config/Enable_Role_Validations) for more
 information.
 
   - Finishes the role by clicking **Finish** on the *Request (Roles)*
@@ -46,8 +46,8 @@ For Review roles, a rule can be configured to run when a user:
 
 **NOTE**: The **Validate** button displays for the Data and Review role
 if role validations exist for the template. Refer to [Add Validations to
-Roles](Add_Validations_to_Roles.htm) and [Enable Role
-Validations](../Config/Enable_Role_Validations.htm) for more
+Roles](Add_Validations_to_Roles) and [Enable Role
+Validations](../Config/Enable_Role_Validations) for more
 information.
 
   - Finishes the role by clicking **Finish** on the *Request (Roles)*
@@ -64,7 +64,7 @@ For Post roles, a rule can be configured to run when a user
 
 **NOTE**: To add a rule, the template must not be active or must be in
 Developer Mode. Refer to [Modify an Active Template in Developer
-Mode](Modify_an_Active_Template_in_Developer_Mode.htm) for more
+Mode](Modify_an_Active_Template_in_Developer_Mode) for more
 information.
 
 To add a rule to a template role event:
@@ -81,7 +81,7 @@ To add a rule to a template role event:
 5.  Click **Rules** for the event.
     
     *[View the field descriptions for the Template (Role Event Rule)
-    page.](../Page_Desc/Template_Role_Event_Rule.htm)*
+    page.](../Page_Desc/Template_Role_Event_Rule)*
 
 6.  Enter a sort order in **PRIORITY**.
     

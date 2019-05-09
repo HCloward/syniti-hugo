@@ -37,7 +37,7 @@ fails, processing stops and the event the validation was registered to
 does not run.
 
 **NOTE:** That message was entered in the Message field on the *[Email
-Validation Message](../Page_Desc/Email_Validation_Message.htm)* page.
+Validation Message](../Page_Desc/Email_Validation_Message)* page.
 
 dspCompose™ is delivered with multiple email
 validations.
@@ -107,7 +107,7 @@ To edit the default email validations:
 5.  Click **Edit** to update the message text.
     
     [View the field descriptions for the Email Validation Message
-    page.](../Page_Desc/Email_Validation_Message.htm)
+    page.](../Page_Desc/Email_Validation_Message)
 
 6.  Enter the text of the message for a language in the **MESSAGE**
     field.
@@ -135,7 +135,7 @@ To add a custom email validation:
 2.  Click **Add**.
     
     *[View the field descriptions for the Email Validation
-    page.](../Page_Desc/Email_Validation.htm)*
+    page.](../Page_Desc/Email_Validation)*
 
 3.  Enter a sort order in the **PRIORITY** field.
     
@@ -169,7 +169,7 @@ To add a custom email validation:
 11. Click **Edit** next to the message’s language.
     
     [View the field descriptions for the Email Validation Message
-    page](../Page_Desc/Email_Validation_Message.htm)
+    page](../Page_Desc/Email_Validation_Message)
 
 12. Enter the text for the email validation failure error message in the
     **MESSAGE** field.

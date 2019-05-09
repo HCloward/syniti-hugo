@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [configure sources for SAP Data
-Services](../Use_Cases/Register_and_Use_Sources.htm#Configure_Source_for_SAP_Data_Services).
+Services](../Use_Cases/Register_and_Use_Sources#Configure_Source_for_SAP_Data_Services).
 
 </div>
 

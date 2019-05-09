@@ -10,7 +10,7 @@ solution = 'Data Quality'
 <div class="use">
 
 Use this page to [Register Reports to a Report
-Repository](../Use_Cases/Register_Reports_to_a_Report_Repo.htm).
+Repository](../Use_Cases/Register_Reports_to_a_Report_Repo).
 
 </div>
 
@@ -59,7 +59,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Target Tables</p></td>
-<td><p>Click to open the <em><a href="Report_Target_Tables%20H.htm">Report Target Tables</a></em> page to register target tables to reports.</p></td>
+<td><p>Click to open the <em><a href="Report_Target_Tables%20H">Report Target Tables</a></em> page to register target tables to reports.</p></td>
 </tr>
 </tbody>
 </table>
@@ -71,7 +71,7 @@ To access this page:
 <div class="use">
 
 Use this page to [Register Reports to a Report
-Repository](../Use_Cases/Register_Reports_to_a_Report_Repo.htm).
+Repository](../Use_Cases/Register_Reports_to_a_Report_Repo).
 
 </div>
 
@@ -86,7 +86,7 @@ This page contains the following tabs:
 <div class="use">
 
 Use this tab to [Configure the Business Value
-Dashboard](../Use_Cases/Configure_the_Business_Value_Dashboard.htm).
+Dashboard](../Use_Cases/Configure_the_Business_Value_Dashboard).
 
 </div>
 
@@ -131,7 +131,7 @@ A Quality Dimension is a recognized term used by data management
 professionals to describe a feature of data that can be measured or
 assessed against defined standards to determine data quality. Refer to
 [Register Quality
-Dimensions](../Use_Cases/Populate_Configuration_Tables.htm#Register_Quality_Dimensions)
+Dimensions](../Use_Cases/Populate_Configuration_Tables#Register_Quality_Dimensions)
 for more information.
 
 **NOTE:** dspMonitor™ is delivered with six industry standard quality
@@ -187,14 +187,14 @@ Displays the threshold ID used for data quality scoring.
 **NOTE:** If no threshold is selected the threshold ID set on the
 *Parameters* page is used in the data quality status calculation. Refer
 to [Register Data Quality Score
-Thresholds](../Use_Cases/Populate_Configuration_Tables.htm#Register_Data_Quality_Score_Thresholds)
+Thresholds](../Use_Cases/Populate_Configuration_Tables#Register_Data_Quality_Score_Thresholds)
 for more information.
 
 Business Value Parameters
 
 Application Currency
 
-Displays the currency set on the *[Parameters](Parameters.htm)* page,
+Displays the currency set on the *[Parameters](Parameters)* page,
 and used for the Cost per Failure calculation on the Business Value
 dashboard.
 
@@ -211,9 +211,9 @@ Error).
 <div class="use">
 
 Use this tab to while [Registering Reports to a Report
-Repository](../Use_Cases/Register_Reports_to_a_Report_Repo.htm) and to
+Repository](../Use_Cases/Register_Reports_to_a_Report_Repo) and to
 [Track Error Records on
-Reports](../Use_Cases/Track_Error_Records_on_Reports.htm).
+Reports](../Use_Cases/Track_Error_Records_on_Reports).
 
 </div>
 

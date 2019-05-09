@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Add Utility Field
-Defaults](../Use_Cases/Add_Utility_Field_Defaults.htm).
+Defaults](../Use_Cases/Add_Utility_Field_Defaults).
 
 </div>
 
@@ -25,7 +25,7 @@ pane.
 |               |                                                                                                                                  |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | Field         | Description                                                                                                                      |
-| NAME          | Displays the name that displays in the DEFAULT VALUE list box on the *[Append Utility Column](Append_Utility_Columns.htm)* page. |
+| NAME          | Displays the name that displays in the DEFAULT VALUE list box on the *[Append Utility Column](Append_Utility_Columns)* page. |
 | DEFAULT VALUE | Displays the default value associated with the name.                                                                             |
 | DESCRIPTION   | Displays a description of the default value.                                                                                     |
 | DSP SUPPLIED  |                                                                                                                                  |

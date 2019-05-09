@@ -9,9 +9,9 @@ solution = 'Platform'
 
 Use this page to:
 
-  - [Add a System Type Group](../Use_Cases/Add_System_Types_Groups.htm)
+  - [Add a System Type Group](../Use_Cases/Add_System_Types_Groups)
   - [Activate or Deactivate Tables in a System Type
-    Group](../Use_Cases/Activate_Deactivate_Tbls_System_Type_Group.htm)
+    Group](../Use_Cases/Activate_Deactivate_Tbls_System_Type_Group)
 
 </div>
 
@@ -25,7 +25,7 @@ To access this page:
 
 <span style="font-weight: bold;">NOTE:</span> Excel Integration has been
 enabled on this page. Refer to [Use Excel
-Integration](../../Excel_Int/Use_Excel_Integration.htm) for more
+Integration](../../Excel_Int/Use_Excel_Integration) for more
 information.
 
 |                         |                                                                                                                                                                               |
@@ -37,4 +37,4 @@ information.
 | SCHEMA OWNER            | Displays the schema of the target database that contains the tables.                                                                                                          |
 | ACTIVE                  | If checked, system tables are downloaded from the source. If unchecked, the tables are not downloaded.                                                                        |
 | DSP SUPPLIED            |                                                                                                                                                                               |
-| Post Action Table Rules | Click to open the *[System Types Group Table Rules](System_Types_Group_Table_Rules.htm)* page to manage rules applied to the table after it is downloaded from source system. |
+| Post Action Table Rules | Click to open the *[System Types Group Table Rules](System_Types_Group_Table_Rules)* page to manage rules applied to the table after it is downloaded from source system. |

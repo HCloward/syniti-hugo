@@ -14,7 +14,7 @@ feature to automatically create a view with all fields required to
 support the template type. Refer to
 *<span style="color: #0000ff;font-style: normal;">[Generate Database
 Objects
-Automatically](Generate_Database_Objects_Automatically.htm)</span>* for
+Automatically](Generate_Database_Objects_Automatically)</span>* for
 detailed information.
 
 Once a view and corresponding tables have been added, populate the

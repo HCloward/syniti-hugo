@@ -6,7 +6,7 @@ solution = 'Platform'
 # Configure Columns
 
 Once the object is registered in Common, the way in which columns
-display on the *[Results](../Page_Desc/Results.htm)* page can be
+display on the *[Results](../Page_Desc/Results)* page can be
 configured, such as bolding a field name or adding a page break.
 
 To configure view columns:
@@ -26,7 +26,7 @@ To configure view columns:
     Otherwise, click **Add**.
     
     [View the field descriptions for the Object Columns
-    page](../Page_Desc/Object_Columns_H.htm)
+    page](../Page_Desc/Object_Columns_H)
     
     **NOTE:** The **KEY** check box is enabled for the key column of the
     table.
@@ -41,7 +41,7 @@ To configure view columns:
     CityStateZip.
 
 7.  Configure how the data displays in the
-    <span style="font-style: italic;">[Results](../Page_Desc/Results.htm)</span>
+    <span style="font-style: italic;">[Results](../Page_Desc/Results)</span>
     page using the following settings:
     
       - **Show Name** – Displays the column name.
@@ -50,7 +50,7 @@ To configure view columns:
       - **Line Break** – Places a line break after the column. This
         feature allows the five fields to be formatted to fit nicely in
         the
-        <span style="font-style: italic;">[Results](../Page_Desc/Results.htm)</span>
+        <span style="font-style: italic;">[Results](../Page_Desc/Results)</span>
         page. For example, a line break would appear after the Name and
         Address fields, but not after the City and Region fields. The
         later fields are typically displayed on the same line in an
@@ -61,7 +61,7 @@ To configure view columns:
 9.  Click **Edit** on Page toolbar.
     
     [View the field descriptions  for the Object Columns page's Vertical
-    View](../Page_Desc/Object_Columns_H.htm)
+    View](../Page_Desc/Object_Columns_H)
 
 10. Select a value from the **Dictionary ID** list box to associate a
     dictionary (that contains a list of words and synonyms) with the

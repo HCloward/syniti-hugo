@@ -21,7 +21,7 @@ Console:
 4.  Click **Edit**.
     
     [View the field descriptions for the Wave: Process Areas
-    page](../Page_Desc/Wave_Process_Areas.htm)
+    page](../Page_Desc/Wave_Process_Areas)
 
 5.  Select the target system in the **Target System Data Source ID**
     list box.

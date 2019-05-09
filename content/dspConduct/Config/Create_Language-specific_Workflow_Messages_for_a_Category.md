@@ -16,7 +16,7 @@ required..  
 <span style="font-weight: bold;">NOTE</span>: Regardless of the
 notification's language, a Designer must navigate to the [Category
 Workflow Language
-Message](../Page_Desc/Category_Workflow_Language_Message_H.htm) page for
+Message](../Page_Desc/Category_Workflow_Language_Message_H) page for
 workflow messages to be created.  If a Designer does not navigate to the
 page, workflow messages are not sent.
 
@@ -36,7 +36,7 @@ To navigate to the page:
 
 Category Workflow Language Messages are initially created with the
 values from the Workflow Message Defaults. Refer to [View Default
-Workflow Messages](View_Default_Workflow_Messages.htm) for more
+Workflow Messages](View_Default_Workflow_Messages) for more
 information.
 
 The message body text may be changed to the language-specific text.  The
@@ -62,7 +62,7 @@ To change the message body text and set the Email From:
 5.  Click <span style="font-weight: bold;">Edit</span> for a message.
     
     [View the field descriptions for the Category Workflow Language
-    Message page](../Page_Desc/Category_Workflow_Language_Message_H.htm)
+    Message page](../Page_Desc/Category_Workflow_Language_Message_H)
 
 6.  Change the message body text to the language-specific text if
     applicable in the <span style="font-weight: bold;">MESSAGE</span>

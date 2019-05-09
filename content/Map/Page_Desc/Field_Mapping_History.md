@@ -10,9 +10,9 @@ solution = 'Migration'
 Use this page to:
 
   - [View Field Mapping
-    History](../Use_Cases/View_Field_Mapping_History.htm)
+    History](../Use_Cases/View_Field_Mapping_History)
   - [Restore Current Field Mapping From
-    History](../Use_Cases/Restore_Current_Field_Mapping_From_History.htm)
+    History](../Use_Cases/Restore_Current_Field_Mapping_From_History)
 
 </div>
 
@@ -21,7 +21,7 @@ To access this page in dspMigrate:
 1.  Select <span style="font-weight: bold;">Map </span> <span>in the
     Context bar.</span>
 2.  Click the <span style="font-weight: bold;">Targets</span> icon on
-    the *[Process Area Launch](Process_Area_Launch_map.htm)* page.
+    the *[Process Area Launch](Process_Area_Launch_map)* page.
 3.  Click the <span style="font-weight: bold;">Mappings</span> icon for
     a Target.
 4.  Select a field and click the
@@ -77,7 +77,7 @@ To access this page in dspMigrate:
 </tr>
 <tr class="even">
 <td><p>MAPPED BY</p></td>
-<td><p>Displays the user name of the user who selected Complete in the Mapping Status list box on the <span style="font-style: italic;"><a href="Field_Mappings_H.htm">Field Mappings</a></span> page.</p></td>
+<td><p>Displays the user name of the user who selected Complete in the Mapping Status list box on the <span style="font-style: italic;"><a href="Field_Mappings_H">Field Mappings</a></span> page.</p></td>
 </tr>
 <tr class="odd">
 <td><p>MAPPED ON</p></td>
@@ -93,7 +93,7 @@ To access this page in dspMigrate:
 </tr>
 <tr class="even">
 <td><p>APPROVED BY</p></td>
-<td><p>Displays the user ID of the Developer who approved the mapping on the <em><a href="Mapping_Approval_H.htm">Mapping Approval</a></em> page.</p></td>
+<td><p>Displays the user ID of the Developer who approved the mapping on the <em><a href="Mapping_Approval_H">Mapping Approval</a></em> page.</p></td>
 </tr>
 <tr class="odd">
 <td><p>APPROVED ON</p></td>
@@ -129,7 +129,7 @@ To access this page in dspMigrate:
 <td><p>METRIC GROUP</p></td>
 <td><p>Displays the metric group name.</p>
 <p>Metric groups are added in Target Design and are a subcategory of field groups. They prioritize and organize fields in field groups for mapping.</p>
-<p>Refer to <a href="../../Design/Use_Cases/Work_with_Metric_Groups.htm">Work with Metric Groups</a> for more information.</p></td>
+<p>Refer to <a href="../../Design/Use_Cases/Work_with_Metric_Groups">Work with Metric Groups</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>CHECK TABLE</p></td>

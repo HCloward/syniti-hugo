@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Assign a Tag to
-Tasks](../Use_Cases/Assign_a_Tag_to_Tasks.htm).
+Tasks](../Use_Cases/Assign_a_Tag_to_Tasks).
 
 </div>
 

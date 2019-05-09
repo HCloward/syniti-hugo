@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Add Language
-Columns](../Use_Cases/Build_Views.htm#Add_Language_Columns).
+Columns](../Use_Cases/Build_Views#Add_Language_Columns).
 
 </div>
 

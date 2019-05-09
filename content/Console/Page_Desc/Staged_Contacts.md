@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Assign Contacts to
-Objects](../Use_Cases/Add_Target_Contacts_to_Objects.htm#Assign2).
+Objects](../Use_Cases/Add_Target_Contacts_to_Objects#Assign2).
 
 </div>
 
@@ -31,7 +31,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Bulk Contact Staging Area</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Bulk_Contact_Staging_Area.htm">Bulk Contact Staging Area</a></span> page after contacts have been assigned to Objects.</p>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Bulk_Contact_Staging_Area">Bulk Contact Staging Area</a></span> page after contacts have been assigned to Objects.</p>
 <p><strong>NOTE:</strong> If multiple contacts are selected on this page, this icon is disabled.</p></td>
 </tr>
 <tr class="odd">
@@ -64,7 +64,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>SEND WORKFLOW</p></td>
-<td><p>If checked, the contact will receive an email if a record is added on the <em><a href="Object_Decisions_H.htm">Object Decisions</a></em> page and that record has the SEND WORKFLOW check box checked.</p></td>
+<td><p>If checked, the contact will receive an email if a record is added on the <em><a href="Object_Decisions_H">Object Decisions</a></em> page and that record has the SEND WORKFLOW check box checked.</p></td>
 </tr>
 </tbody>
 </table>

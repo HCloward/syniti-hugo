@@ -10,7 +10,7 @@ execution environment registered to the IG Universal Connect data source
 to post to a different atom (Dev, QA or Prod, for example).
 
 See [Set Available Connections at the Process Template
-Level](../Integrate/Use_Cases/Set_Connections_at_the_Process_Template_Level.htm)
+Level](../Integrate/Use_Cases/Set_Connections_at_the_Process_Template_Level)
 for general information.
 
 **NOTE**: The Process Template cannot be edited if the Process is
@@ -32,7 +32,7 @@ To update the atom for a Process Template connection:
 6.  Click **Edit**
     
     [View the field descriptions for the Process Template Connections
-    page](../Integrate/Page_Desc/Process_Template_Connections.htm)
+    page](../Integrate/Page_Desc/Process_Template_Connections)
 
 7.  Select the atom in the **Atom ID** list box.
 

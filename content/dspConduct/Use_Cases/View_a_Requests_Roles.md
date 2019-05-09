@@ -6,13 +6,13 @@ solution = 'Master Data Management'
 # View a Request’s Roles
 
 On the <span style="font-style: italic;">[Request
-Role](../Page_Desc/Request_Role_H.htm)</span> page, a Role Processor can
+Role](../Page_Desc/Request_Role_H)</span> page, a Role Processor can
 review the roles assigned to requests to which the user has access. Only
 requests with roles that are assigned to the current user display.
 
-Before performing this task, [add a role](Add_a_Role.htm), [add a task
-to the role](Add_a_Task_to_a_Role.htm), and [create a
-request](Create_a_Request.htm).
+Before performing this task, [add a role](Add_a_Role), [add a task
+to the role](Add_a_Task_to_a_Role), and [create a
+request](Create_a_Request).
 
 <span style="font-weight: bold;">NOTE</span>: The logged in user must
 have been assigned to the role.
@@ -26,7 +26,7 @@ regardless of whether the user is assigned to the role.
 
 The role no longer displays on the
 <span style="font-style: italic;">[Request
-Role](../Page_Desc/Request_Role_H.htm)</span> page when the request:
+Role](../Page_Desc/Request_Role_H)</span> page when the request:
 
   - Has posted successfully to the target system (in the case of roles
     with the Auto Extend Display option enabled)

@@ -23,7 +23,7 @@ configuration.
 <span style="font-weight: bold;">NOTE</span>: Request data can also be
 sent to dspCompose™ by an External Data role. Refer to [Use External
 Data Roles in Request
-Processing](Use_External_Data_Roles_in_Request_Processing.htm) for more
+Processing](Use_External_Data_Roles_in_Request_Processing) for more
 information. An external request scenario can use an External Date role
 as the initial role, but is not required to do so.
 
@@ -37,26 +37,26 @@ automatically creates a request for that template.
 Before setting up external request scenarios, other settings must be
 configured. Refer to [Configure Settings for External Data Processing
 and External Request
-Scenarios](../Config/Configure_Settings_for_External_Data_Processing.htm)
+Scenarios](../Config/Configure_Settings_for_External_Data_Processing)
 for more information.
 
 To use an external request scenario to process a request:
 
 1.  An external user sends a request by email to an external data email
     account set up in dspCompose™. Refer to [Set up an External Data
-    Email Account](../Config/Set_up_an_External_Data_Email_Account.htm)
+    Email Account](../Config/Set_up_an_External_Data_Email_Account)
     for more information.
 2.  The dspCompose™ Email Poller runs, processes the found email, and
     checks the email for an alias in the subject line that exactly
     matches the alias saved for the scenario. Refer to  [Create an
-    External Request Scenario](Create_an_External_Request_Scenario.htm)
+    External Request Scenario](Create_an_External_Request_Scenario)
     for more information about aliases.
 3.  If an email’s subject line contains an alias that has been
     configured for an external request scenario, dspCompose™ compares
     the sender’s email address to the list of email addresses on the
     *Template (External Request Scenario Email Address)* page for the
     scenario. Refer to [Add Email Addresses for a
-    Scenario](Add_Email_Addresses_for_a_Scenario.htm) for more
+    Scenario](Add_Email_Addresses_for_a_Scenario) for more
     information.
 4.  If the email has been added to the external request scenario,
     dspCompose™ creates a new request for the template using the
@@ -72,18 +72,18 @@ schedule to run every 10 minutes.
 
 <span style="font-weight: bold;">NOTE</span>: Once the request is
 created, the workflow for processing the request is the same as any
-other request. Refer to [Process Requests](Process_Requests.htm) for
+other request. Refer to [Process Requests](Process_Requests) for
 more information.
 
 This section includes:
 
   - [Configure an External Request
-    Scenario](Configure_an_External_Request_Scenario.htm)
+    Scenario](Configure_an_External_Request_Scenario)
   - [Set External Role Contacts for an External Request
-    Scenario](Set_External_Role_Contacts.htm)
+    Scenario](Set_External_Role_Contacts)
   - [Set the Current User as the External Role
-    Contact](Set_the_Current_User_as_the_External_Role_Contact.htm)
+    Contact](Set_the_Current_User_as_the_External_Role_Contact)
   - [Submit an Email for an External Request
-    Scenario](Submit_an_Email_for_an_External_Request_Scenario.htm)
+    Scenario](Submit_an_Email_for_an_External_Request_Scenario)
   - [Add Email Addresses for a
-    Scenario](Add_Email_Addresses_for_a_Scenario.htm)
+    Scenario](Add_Email_Addresses_for_a_Scenario)

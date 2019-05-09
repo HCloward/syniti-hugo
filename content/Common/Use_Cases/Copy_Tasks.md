@@ -22,7 +22,7 @@ pane.
 **Edit<span style="font-weight: normal;">.</span>**
 
 [View the field descriptions for the Copy: Automation Instruction Task
-page](Copy_Automation_Instruction_Task.htm)
+page](Copy_Automation_Instruction_Task)
 
 4\.<span style="font: 7.0pt &#39;Times New Roman&#39;;">   </span> Enter
 name of new task in **New Task Name** field.

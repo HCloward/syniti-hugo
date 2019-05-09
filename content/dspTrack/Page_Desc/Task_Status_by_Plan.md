@@ -13,12 +13,12 @@ Hover a cursor over a section of the bar that represents task status and
 the count of tasks in that status display for that plan.
 
 Refer to [View the Dashboard in
-dspTrack™](../Use_Cases/View_Dashboards_in_dspTrack.htm) for general
+dspTrack™](../Use_Cases/View_Dashboards_in_dspTrack) for general
 information about the type of data that displays on charts.
 
 Click the bar to open the
-<span style="font-style: italic;">[Plan](Plan_H.htm)</span> and
-[<span style="font-style: italic;">Plan Task</span>](Plan_Task_H.htm)
+<span style="font-style: italic;">[Plan](Plan_H)</span> and
+[<span style="font-style: italic;">Plan Task</span>](Plan_Task_H)
 page for the selected plan and task.
 
 To access the chart in dspTrack™:

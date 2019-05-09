@@ -41,7 +41,7 @@ field:
 
   - The NAME, KEY and LOOKUP TABLE fields on the
     <span style="font-style: italic;">[Target
-    Fields](../Page_Desc/Target_Fields_H_Target_Design.htm)</span> page
+    Fields](../Page_Desc/Target_Fields_H_Target_Design)</span> page
     cannot be edited.
   - The Extend to Field Groups option is not available.
   - Basic Rules and Complex Rules cannot be configured.
@@ -51,7 +51,7 @@ To add fields to a Target in Target Design:
 1.  Select **Design** in the Context bar.
 
 2.  Click the <span style="font-weight: bold;">Targets</span> icon on
-    the *[Design](../Page_Desc/Design.htm)* page.
+    the *[Design](../Page_Desc/Design)* page.
 
 3.  Click the **Fields** icon for a Target.
 
@@ -63,7 +63,7 @@ To add fields to a Target in Target Design:
     Target has a Design Status of Design Finished, Complete or Inactive.
     
     *[View the field descriptions for the Target Fields
-    page](../Page_Desc/Target_Fields_H_Target_Design.htm)*
+    page](../Page_Desc/Target_Fields_H_Target_Design)*
 
 5.  Enter a number in the <span style="font-weight: bold;">FIELD
     ORDER</span> field.
@@ -84,9 +84,9 @@ To add fields to a Target in Target Design:
 8.  Select an option in the **LOOKUP TABLE** list box.
     
     **NOTE**: Click the **+** icon to open the *[Target Lookup
-    Table](../Page_Desc/Target_Lookup_Table_H.htm)* page to add a lookup
+    Table](../Page_Desc/Target_Lookup_Table_H)* page to add a lookup
     table if needed. Refer to [Set Up Lookup
-    Tables](Set_up_a_Simple_Lookup_Table.htm) for more information.
+    Tables](Set_up_a_Simple_Lookup_Table) for more information.
 
 9.  Select an option in the
     <span style="font-weight: bold;">USAGE</span> field if necessary.
@@ -116,7 +116,7 @@ To add fields to a Target in Target Design:
     Values in this list box can be added on the
     <span style="font-style: italic;">Required</span> page
     (Configuration \> Required). Refer to [Add Custom Requirement
-    Settings](../Config/Add_Custom_Requirement_Settings.htm) for more
+    Settings](../Config/Add_Custom_Requirement_Settings) for more
     information.
 
 11. Select an option in the **CRITICALITY** list box.
@@ -126,12 +126,12 @@ To add fields to a Target in Target Design:
     **NOTE**: Custom Criticality values can be added on the
     <span style="font-style: italic;">Criticality</span> page
     (Configuration \> Criticality). Refer to [Add Custom Criticality
-    Levels](../Config/Add_Custom_Criticality_Levels.htm) for more
+    Levels](../Config/Add_Custom_Criticality_Levels) for more
     information.
 
 12. Disable the **ACTIVE** check box if the field should not be mapped
     and should not be included in Auto Generation. Refer to [Activate or
-    Deactivate Target Fields for Mapping](Activate_Fields_for_Map.htm)
+    Deactivate Target Fields for Mapping](Activate_Fields_for_Map)
     for more information.
 
 13. Click the **KEY FIELD** check box if the field is the key on the
@@ -147,7 +147,7 @@ To add fields to a Target in Target Design:
     zLegacyMATNR field is created automatically. A user deletes the
     zLegacy MATNR field, while the MATNR field remains a Natural Key
     field. When a user clicks the Sync to Map icon on the
-    *[Targets](../Page_Desc/Targets_H_Design.htm)* page, the zLegacy
+    *[Targets](../Page_Desc/Targets_H_Design)* page, the zLegacy
     MATNR is added back to the Target.
     
     **NOTE**:Key fields are created during field mapping. Keys on the
@@ -167,4 +167,4 @@ To add fields to a Target in Target Design:
     **NOTE**: Once the Design Status is set to Design Finished or
     Complete, these fields are pushed into Map as Target fields that can
     be mapped on the *[Field
-    Mappings](../../Map/Page_Desc/Field_Mappings_H.htm)* page.
+    Mappings](../../Map/Page_Desc/Field_Mappings_H)* page.

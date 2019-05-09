@@ -33,7 +33,7 @@ tasks as some pages can be navigated to as child pages from the main
 task page header. Tasks and pages can be enabled to use Microsoft Excel
 Interoperability so that they can create or update data for the tasks
 within Excel. Refer to [Use Excel
-Integration](../../Platform/Excel_Int/Use_Excel_Integration.htm) for
+Integration](../../Platform/Excel_Int/Use_Excel_Integration) for
 more information.
 
 A role is a collection of tasks and a unit of security where an
@@ -71,19 +71,19 @@ given access can create, read, update and delete data.
 dspConduct™ supports mass change data to be posted via Integrate, a
 BackOffice Associates® component used as the posting mechanism and
 script repository. Refer to
-[Integrate](../../Platform/Integrate/Integrate_Overview.htm) for
+[Integrate](../../Platform/Integrate/Integrate_Overview) for
 detailed information.
 
 Documents can be attached to governance elements to provide instructions
 and supporting documentation that communicates information to users of
 the governance process about how to work with certain elements. Refer to
 [Upload and Download Element
-Documentation](Use_Cases/Upload_and_Download_Element_Documentation.htm)
+Documentation](Use_Cases/Upload_and_Download_Element_Documentation)
 for more information.
 
 A dashboard is available in dspConduct™ with charts that show metrics
 for velocity and efficiency in roles processing. Refer to [View Charts
-in dspConduct™](Use_Cases/View_Charts.htm) for more information.
+in dspConduct™](Use_Cases/View_Charts) for more information.
 
 ## Setup and Configuration for dspConduct™
 
@@ -91,24 +91,24 @@ Before using dspConduct™, ensure the following tasks are completed, if
 applicable.
 
   - [Set Up Security for
-    dspConduct™](Config/Set_Up_Security_for_dspConduct.htm)
-  - [Assign a Backup User](Config/Assign_a_Backup_User.htm)
+    dspConduct™](Config/Set_Up_Security_for_dspConduct)
+  - [Assign a Backup User](Config/Assign_a_Backup_User)
   - [Set User Workflow Receipt
-    Preferences](Config/Set_User_Workflow_Receipt_Preferences.htm)
+    Preferences](Config/Set_User_Workflow_Receipt_Preferences)
   - [Configure Workflow Messages
-    Overview](Config/Configure_Workflow_Messages_Overview.htm)
+    Overview](Config/Configure_Workflow_Messages_Overview)
   - [Set up SLA Notifications in
-    dspConduct™](Config/Set_Up_SLA_Notifications.htm)
+    dspConduct™](Config/Set_Up_SLA_Notifications)
   - [Configure SLA settings at the Business Process Scenario Role
-    Level](Config/Configure_SLA_Settings_at_the_BPSR_Level.htm)
+    Level](Config/Configure_SLA_Settings_at_the_BPSR_Level)
   - [Set Up Service Pages for Service Level Agreements (SLA) in
-    dspConduct™](Config/Set_Up_Service_Pages_for_SLAs.htm)
+    dspConduct™](Config/Set_Up_Service_Pages_for_SLAs)
   - [Set Preceding Weeks Count for
-    Dashboards](Config/Set_Preceding_Weeks_Count_for_Dashboards.htm)
-  - [Set Currency Display Label](Config/Set_Currency_Display_Label.htm)
+    Dashboards](Config/Set_Preceding_Weeks_Count_for_Dashboards)
+  - [Set Currency Display Label](Config/Set_Currency_Display_Label)
   - [Set Calendar Used For Business Value
-    Calculations](Config/Set_Calendar_Used_For_Business_Value_Calculations.htm)
-  - [Manage Request Statuses](Config/Manage_Request_Statuses.htm)
+    Calculations](Config/Set_Calendar_Used_For_Business_Value_Calculations)
+  - [Manage Request Statuses](Config/Manage_Request_Statuses)
 
 <span style="font-weight: bold;">NOTE:</span> A new data source named
 DGE\_ElementDocument\_FilePath whose data source type is “Local File” is

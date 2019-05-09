@@ -6,7 +6,7 @@ solution = 'Master Data Management'
 # Task Final Finish Where Clause
 
 Use this page to [Create a Final Finish Where Clause for a CranPort
-Package](../Use_Cases/Create_a_Final_Finish_Where_Clause_for_a_CranPort_Package.htm).
+Package](../Use_Cases/Create_a_Final_Finish_Where_Clause_for_a_CranPort_Package).
 
 <div class="use">
 

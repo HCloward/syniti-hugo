@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Set Up Notifications for an
-Interface](Set_Up_Notifications_for_an_Interface.htm).
+Interface](Set_Up_Notifications_for_an_Interface).
 
 </div>
 

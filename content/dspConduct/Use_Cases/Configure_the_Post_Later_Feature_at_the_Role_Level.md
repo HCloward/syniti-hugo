@@ -10,15 +10,15 @@ Post role type to schedule a post to process at a specified date and
 time.
 
 Refer to [Schedule a Post for a Specified Date and
-Time](Post_a_Request.htm#Schedule_a_Post_for_a_Specified_Date_and_Time)
+Time](Post_a_Request#Schedule_a_Post_for_a_Specified_Date_and_Time)
 for more information.
 
 Before performing this task, [Design a Governance
-Hierarchy](dspConduct_Design_Process_Overview.htm) and [add a
-role](Add_a_Role.htm) with the Post role type.
+Hierarchy](dspConduct_Design_Process_Overview) and [add a
+role](Add_a_Role) with the Post role type.
 
 When the Designer updates the Schedule Post Allowed setting on the
-<span style="font-style: italic;">[Role](../Page_Desc/Role_H_dspConduct.htm)</span>
+<span style="font-style: italic;">[Role](../Page_Desc/Role_H_dspConduct)</span>
 page’s <span style="font-style: italic;">Vertical</span> View, a
 confirmation message displays that determines how the update affects:
 
@@ -54,7 +54,7 @@ a date and time for a post.
 scenario \> role combination, and it is at this level that access to the
 Post Later feature is controlled. Refer to [Configure the Post Later
 Feature at the Scenario - Role
-Level](Configure_the_Post_Later_Feature_at_the_Scenario_Role_Level.htm)
+Level](Configure_the_Post_Later_Feature_at_the_Scenario_Role_Level)
 for more information.
 
 To configure Post Later at the role level:

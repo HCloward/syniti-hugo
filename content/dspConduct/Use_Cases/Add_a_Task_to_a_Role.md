@@ -6,7 +6,7 @@ solution = 'Master Data Management'
 # Add a Task to a Role
 
 The <span style="font-style: italic;">[Role
-(Task)](../Page_Desc/Role_Task.htm)</span> page allows a Designer to add
+(Task)](../Page_Desc/Role_Task)</span> page allows a Designer to add
 existing tasks to a role.
 
 Each task is performed on a web page designed to collect and validate
@@ -16,15 +16,15 @@ site and is stored in the Content WebApp.
 
 The pages available for a task are those pages in the Content WebApp set
 at the Category level in the Default Web App ID field on the
-[Category](../Page_Desc/Category_H.htm) page.
+[Category](../Page_Desc/Category_H) page.
 
-Before performing this step, [add a role](Add_a_Role.htm) and [add a
-task](Add_a_Task.htm).
+Before performing this step, [add a role](Add_a_Role) and [add a
+task](Add_a_Task).
 
 This step is required to complete setup for a role. A role must have at
 least one task assigned.
 
-Refer to [Manage Tasks](Manage_Tasks.htm) for general information about
+Refer to [Manage Tasks](Manage_Tasks) for general information about
 tasks.
 
 <span style="font-weight: bold;">NOTE</span>: One or more different
@@ -45,7 +45,7 @@ To add a task to a role:
 4.  Click <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Role (Task)
-    page](../Page_Desc/Role_Task.htm)
+    page](../Page_Desc/Role_Task)
 
 5.  Enter a value in the
     <span style="font-weight: bold;">PRIORITY</span> field.
@@ -61,9 +61,9 @@ To add a task to a role:
     category.
     
     **NOTE:** These tasks were added on the
-    <span style="font-style: italic;">[Task](../Page_Desc/Task_H.htm)</span>
+    <span style="font-style: italic;">[Task](../Page_Desc/Task_H)</span>
     page. To add a task, click the + icon in the list box. Refer to [Add
-    a Task](Add_a_Task.htm) for more information.
+    a Task](Add_a_Task) for more information.
     
     **NOTE:** Once the task is added to the role, the TYPE field is
     populated by the Task Type set for the task on the

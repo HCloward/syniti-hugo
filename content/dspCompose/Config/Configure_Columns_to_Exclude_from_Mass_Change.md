@@ -10,7 +10,7 @@ available on the *Request Mass Change* page when a user with the Data
 role enters request data for a mass change.
 
 Refer to [Mass Change
-Data](../Use_Cases/Enter_Data_for_a_Request.htm#Mass_Change_Data) for
+Data](../Use_Cases/Enter_Data_for_a_Request#Mass_Change_Data) for
 more information.
 
 To exclude columns:
@@ -21,7 +21,7 @@ To exclude columns:
 2.  Click **Add**.
     
     *[View the field descriptions for the Mass Change Exclude Columns
-    page.](../Page_Desc/Mass_Change_Exclude_Columns.htm)*
+    page.](../Page_Desc/Mass_Change_Exclude_Columns)*
 
 3.  Enter column information in **COLUMN NAME** field.
 

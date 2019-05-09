@@ -14,7 +14,7 @@ the security administrator if conflicts of interest exist between a user
 and the assigned role(s).
 
 Before this task can be performed, multiple roles must exist within the
-category.<span> </span>Refer to [Add a Role](Add_a_Role.htm) for more
+category.<span> </span>Refer to [Add a Role](Add_a_Role) for more
 information.
 
 To add conflicts to roles:
@@ -30,11 +30,11 @@ To add conflicts to roles:
     click **Add**.
     
     [View the field descriptions for the Role (Conflicts)
-    page.](../Page_Desc/Role_Conflicts.htm)
+    page.](../Page_Desc/Role_Conflicts)
 
 5.  Select the name of the role that is in conflict with the role
     selected on the
-    <span style="font-style: italic;">[Role](../Page_Desc/Role_H_dspConduct.htm)</span>
+    <span style="font-style: italic;">[Role](../Page_Desc/Role_H_dspConduct)</span>
     page from the **CONFLICTROLEID** list box.
     
     **NOTE:** A user who is assigned to both roles can only execute one

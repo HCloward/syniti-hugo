@@ -33,7 +33,7 @@ generated.
 
 **NOTE:** To change these settings, the template must not be active or
 must be in Developer Mode. Refer to [Modify an Active Template in
-Developer Mode](Modify_an_Active_Template_in_Developer_Mode.htm) for
+Developer Mode](Modify_an_Active_Template_in_Developer_Mode) for
 more information.
 
 To set a column’s Control Status for a template at the Review role
@@ -67,5 +67,5 @@ items in the range. To select a noncontiguous range of items, hold down
 the Ctrl key and select each item.
 
 Refer to [Import a File at the Request-Role
-Level](Import_a_File_at_the_Request%20Role_Level.htm) for more
+Level](Import_a_File_at_the_Request%20Role_Level) for more
 information.

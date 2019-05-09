@@ -16,7 +16,7 @@ are created:
     mapped with an Action of Construct in Map.
     
     **NOTE:** Key fields are set as hard required on the
-    *[Construct](../Page_Desc/Construct_Page.htm)* page and required
+    *[Construct](../Page_Desc/Construct_Page)* page and required
     fields are set to soft required.
 
   - A CranPort package associated with the Collect Target Source table
@@ -31,11 +31,11 @@ are created:
 The Source for Enrichment Construction is added as an Update Row Source,
 and the relationship join to the Add Row Source is added automatically.
 The joins can be viewed in Map on the *[Relationship
-Joins](../../Map/Page_Desc/Relationship_Joins_H.htm)* page. As with any
+Joins](../../Map/Page_Desc/Relationship_Joins_H)* page. As with any
 mapping, the Construction mapping must go through the Approvals process.
 The developer assigned to the Target-Source reviews the Construct page
 to approve or reject it. Refer to [Approve or Reject
-Mappings](../../Map/Use_Cases/Approve_or_Reject_Mappings.htm) for more
+Mappings](../../Map/Use_Cases/Approve_or_Reject_Mappings) for more
 information.
 
 Once approved, a construction page is created that contains only the
@@ -45,5 +45,5 @@ same number of records as in the Source.
 <span style="font-weight: bold;">NOTE</span>: New custom pages and
 existing custom pages created with Enrichment Construction can use
 [Excel
-Integration](../../../Platform/Excel_Int/Use_Excel_Integration.htm) and
-[Bulk Execution](../../../Platform/Bulk_Exec/Use_Bulk_Execution.htm).
+Integration](../../../Platform/Excel_Int/Use_Excel_Integration) and
+[Bulk Execution](../../../Platform/Bulk_Exec/Use_Bulk_Execution).

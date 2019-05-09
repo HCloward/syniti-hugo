@@ -17,7 +17,7 @@ To create a task:
 2.  Click **Add.**
     
     [View the field descriptions for the Automation Instruction Tasks
-    page](../Page_Desc/Automation_Instruction_Task_H.htm)
+    page](../Page_Desc/Automation_Instruction_Task_H)
 
 3.  Enter the name of task in **Name** field.
 

@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Add Post Action Table
-Rules](../Use_Cases/Add_Post_Action_Table_Rules.htm).
+Rules](../Use_Cases/Add_Post_Action_Table_Rules).
 
 </div>
 
@@ -27,6 +27,6 @@ Table.
 |                               |                                                                                                                                                                                                                                                                                 |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Field                         | Description                                                                                                                                                                                                                                                                     |
-| DATABASE RULE ID              | Displays database function name run against the table. The options in this list box are configured on the *[Database Function Setup](Database_Function_Setup.htm)* page. Refer to [Set up Database Functions](../Use_Cases/Set_up_Database_Functions.htm) for more information. |
+| DATABASE RULE ID              | Displays database function name run against the table. The options in this list box are configured on the *[Database Function Setup](Database_Function_Setup)* page. Refer to [Set up Database Functions](../Use_Cases/Set_up_Database_Functions) for more information. |
 | DSP SUPPLIED                  |                                                                                                                                                                                                                                                                                 |
 | Post Action Table Rule Fields | Click the <span style="font-style: italic;">[System Type Group Table Rule Fields](#)</span> page to add, edit and delete fields impacted by the database rule.                                                                                                                  |

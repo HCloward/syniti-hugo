@@ -5,23 +5,23 @@ solution = 'Migration'
 
 # Target Fields H
 
-[Target Fields V](Target_Fields_H_Target_Design.htm#Target_Fields_V)
+[Target Fields V](Target_Fields_H_Target_Design#Target_Fields_V)
 
 <div class="use">
 
 Use this page to
 
-  - [Add Fields to a Target](../Use_Cases/Add_Fields_to_a_Target.htm)
+  - [Add Fields to a Target](../Use_Cases/Add_Fields_to_a_Target)
   - [Activate or Deactivate Target Fields for
-    Mapping](../Use_Cases/Activate_Fields_for_Map.htm)
+    Mapping](../Use_Cases/Activate_Fields_for_Map)
   - [Extend Fields to Field
-    Groups](../Use_Cases/Extend_a_Field_to_a_Field_Group.htm)
+    Groups](../Use_Cases/Extend_a_Field_to_a_Field_Group)
 
 </div>
 
 <span style="font-weight: bold;">NOTE:</span> Bulk Execution has been
 enabled on this page. Refer to [Use Bulk
-Execution](../../../Platform/Bulk_Exec/Use_Bulk_Execution.htm) for more
+Execution](../../../Platform/Bulk_Exec/Use_Bulk_Execution) for more
 information.
 
 To access this page:
@@ -31,7 +31,7 @@ To access this page:
 2.  Select <span style="font-weight: bold;">Design </span>in the Context
     bar.
 3.  Click the <span style="font-weight: bold;">Targets</span>icon on the
-    *[Design](Design.htm)* page.
+    *[Design](Design)* page.
 4.  Click the <span style="font-weight: bold;">Fields</span> icon for a
     Target.
 
@@ -54,30 +54,30 @@ To access this page:
 <td><p>Click to activate the selected field(s) for mapping.</p>
 <p>When adding a field manually, the field is active by default.</p>
 <p>When importing fields via a System Type import, all fields are configured as Inactive unless they are marked for active in the System Type.</p>
-<p>Refer to <a href="../Use_Cases/Activate_Fields_for_Map.htm">Activate or Deactivate Target Fields for Mapping</a> for more information.</p>
+<p>Refer to <a href="../Use_Cases/Activate_Fields_for_Map">Activate or Deactivate Target Fields for Mapping</a> for more information.</p>
 <p><strong>NOTE</strong>: If the Target's Design Status is Design Finished, Complete or Inactive, this icon is disabled.</p></td>
 </tr>
 <tr class="even">
 <td><p>Deactivate</p></td>
 <td><p>Click to deactivate the selected field(s) from mapping.</p>
 <p>If a field is a key field and has the KEY FIELD check box enabled on the <span style="font-style: italic;">Target Fields</span> page, the field cannot be deactivated. Uncheck the KEY FIELD check box before deactivating the field.</p>
-<p>Refer to <a href="../Use_Cases/Activate_Fields_for_Map.htm">Activate or Deactivate Target Fields for Mapping</a> for more information.</p>
+<p>Refer to <a href="../Use_Cases/Activate_Fields_for_Map">Activate or Deactivate Target Fields for Mapping</a> for more information.</p>
 <p><strong>NOTE</strong>: If the Target's Design Status is Design Finished, Complete or Inactive, this icon is disabled.</p></td>
 </tr>
 <tr class="odd">
 <td><p>FIELD GROUP ID</p></td>
 <td><p><span>Displays the name of the field group to which the field belongs. All fields are assigned to the default field group (*). Field groups are used to organize data to be able to apply different rules, criticality levels, requirements settings against each group depending on the values of data in a related field..</span></p>
-<p>Refer to <a href="../Use_Cases/Work_with_Field_Groups.htm">Work with Field Groups</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Work_with_Field_Groups">Work with Field Groups</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>METRIC GROUP ID</p></td>
 <td><p>Displays the name of the metric group to which the field is assigned. Metric groups are a subset of field groups. Metric groups are delineated into logical sets of fields that relate to a screen within the Target system. For SAP-related objects, the metric groups can represent the tabs within an SAP screen or TCode (for example, Customer Basic, Sales, Company and Accounting).</p>
-<p>Refer to <a href="../Use_Cases/Work_with_Metric_Groups.htm">Work with Metric Groups</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Work_with_Metric_Groups">Work with Metric Groups</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>FIELD ORDER</p></td>
 <td><p>Displays the order of the field entered on the <span style="font-style: italic;">Target Fields</span> page.</p>
-<p>The order is used to sort the <span style="font-style: italic;"><a href="../../Map/Page_Desc/Field_Mappings_H.htm">Field Mappings</a></span> page in Map. Key and required fields are given a lower number (as in, a higher priority) than optional fields.</p></td>
+<p>The order is used to sort the <span style="font-style: italic;"><a href="../../Map/Page_Desc/Field_Mappings_H">Field Mappings</a></span> page in Map. Key and required fields are given a lower number (as in, a higher priority) than optional fields.</p></td>
 </tr>
 <tr class="even">
 <td><p>ACTIVE</p></td>
@@ -101,21 +101,21 @@ To access this page:
 <li><span style="font-weight: bold;">Natural</span> – The field exists in the Target system. The system adds a “z” to the front of the field name used in the Source table.</li>
 <li><span style="font-weight: bold;">Utility</span> – The field does not exist in the Target system, but can be used to register rules and reports to in Transform. Fields of this type should be captured in Target Design.  The user can choose whether this field should be mapped by using the Visibility field on the <span style="font-style: italic;">Vertical</span> view.  A utility field is added to the Target table to be used by the AutoGen process.  Utility fields will be appended to BOTH the Target and Source table as is. No “z” field will be appended.</li>
 </ul>
-<p><strong>NOTE</strong>: A visibility can be set so that Utility fields can be mapped. Refer to <a href="../Use_Cases/Set_Field_Visibility_for_Mapping.htm">Set Field Visibility for Mapping</a>  for more information.</p>
-<p><strong>NOTE</strong>: By default, the visibility of a Utility field is set to NONE, except for zLegacy keys. zLegacy key fields will default to Source visibility. Refer to <a href="../Use_Cases/Allow_Mapping_of_Utility_Columns.htm">Allow Mapping of Utility Columns</a> for more information.</p>
+<p><strong>NOTE</strong>: A visibility can be set so that Utility fields can be mapped. Refer to <a href="../Use_Cases/Set_Field_Visibility_for_Mapping">Set Field Visibility for Mapping</a>  for more information.</p>
+<p><strong>NOTE</strong>: By default, the visibility of a Utility field is set to NONE, except for zLegacy keys. zLegacy key fields will default to Source visibility. Refer to <a href="../Use_Cases/Allow_Mapping_of_Utility_Columns">Allow Mapping of Utility Columns</a> for more information.</p>
 <p><strong>NOTE</strong>: If the field is Natural, the Verify Post Load check box is enabled by default when a user clicks the Activate icon on the Page toolbar.</p></td>
 </tr>
 <tr class="even">
 <td><p>LOOKUP TABLE</p></td>
-<td><p>Displays the name of the check table to which a field belongs. Click the link to open the <em><a href="Target_Lookup_Table_H.htm">Target Lookup Table</a></em> page to configure check table values.</p>
-<p>Refer to <a href="../Use_Cases/Set_up_Lookup_Tables.htm">Set up Lookup Tables</a> for more information.</p>
+<td><p>Displays the name of the check table to which a field belongs. Click the link to open the <em><a href="Target_Lookup_Table_H">Target Lookup Table</a></em> page to configure check table values.</p>
+<p>Refer to <a href="../Use_Cases/Set_up_Lookup_Tables">Set up Lookup Tables</a> for more information.</p>
 <p><strong>NOTE</strong>: This field cannot be edited for zLegacy fields.</p></td>
 </tr>
 <tr class="odd">
 <td><p>CRITICALITY</p></td>
 <td><p>Displays the Criticality level, which is used for reporting purposes. The platform is delivered with the values High, Medium, and Low. These values cannot be edited or deleted.</p>
 <p>Custom criticality levels can be added, edited, and deleted.</p>
-<p>Refer to <a href="../Config/Add_Custom_Criticality_Levels.htm">Add Custom Criticality Levels</a> for more information.</p></td>
+<p>Refer to <a href="../Config/Add_Custom_Criticality_Levels">Add Custom Criticality Levels</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>REQUIRED</p></td>
@@ -146,17 +146,17 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Basic Rules</p></td>
-<td><p>Click to open the <a href="Rules_Basic_Rule_H.htm"><em>Rules: Basic Rules</em></a> page to add basic rules, logic conditions to apply to the data in the field. Basic rules are automatically generated and include binding criteria. Multiple basic rules can be added and are combined with AND.</p>
+<td><p>Click to open the <a href="Rules_Basic_Rule_H"><em>Rules: Basic Rules</em></a> page to add basic rules, logic conditions to apply to the data in the field. Basic rules are automatically generated and include binding criteria. Multiple basic rules can be added and are combined with AND.</p>
 <p>This icon is disabled if the Target’s Design Status is Design Finished, Complete or Inactive.</p>
-<p>Refer to <a href="../Use_Cases/Basic_Rules.htm">Add a Basic Rule</a> for more information.</p>
+<p>Refer to <a href="../Use_Cases/Basic_Rules">Add a Basic Rule</a> for more information.</p>
 <p>If the field is a zLegacy field, Basic rules cannot be configured.</p></td>
 </tr>
 <tr class="even">
 <td><p>Complex Rules</p></td>
-<td><p>Click to open the <a href="Rules_Field_Complex_Rules.htm"><em>Rules: Field Complex Rules</em></a> page to add the documentation for a complex rule. Complex rules are not automatically generated.</p>
+<td><p>Click to open the <a href="Rules_Field_Complex_Rules"><em>Rules: Field Complex Rules</em></a> page to add the documentation for a complex rule. Complex rules are not automatically generated.</p>
 <p>Complex rules provide information that the Data Services developer uses when writing the rule. When an AutoGen request is processed, a placeholder where complex rules can be developed is created.</p>
 <p>This icon is disabled if the Target’s design status is Design Finished, Complete or Inactive.</p>
-<p>Refer to <a href="../Use_Cases/Complex_Rules.htm">Add a Complex Rule</a>  for more information.</p>
+<p>Refer to <a href="../Use_Cases/Complex_Rules">Add a Complex Rule</a>  for more information.</p>
 <p><strong>NOTE</strong>: If the field is a zLegacy field, Complex rules cannot be configured.</p></td>
 </tr>
 </tbody>
@@ -164,19 +164,19 @@ To access this page:
 
 ## <span id="Target_Fields_V"></span>Target Fields V
 
-[Target Fields H](Target_Fields_H_Target_Design.htm)
+[Target Fields H](Target_Fields_H_Target_Design)
 
 <div class="use">
 
 Use this page to
 
-  - [Add Fields to a Target](../Use_Cases/Add_Fields_to_a_Target.htm)
+  - [Add Fields to a Target](../Use_Cases/Add_Fields_to_a_Target)
   - [Activate or Deactivate Target Fields for
-    Mapping](../Use_Cases/Activate_Fields_for_Map.htm)
+    Mapping](../Use_Cases/Activate_Fields_for_Map)
   - [Extend Fields to Field
-    Groups](../Use_Cases/Extend_a_Field_to_a_Field_Group.htm)
+    Groups](../Use_Cases/Extend_a_Field_to_a_Field_Group)
   - [Set Visibility for Mapping of Target and Source
-    Fields](../Use_Cases/Set_Field_Visibility_for_Mapping.htm)
+    Fields](../Use_Cases/Set_Field_Visibility_for_Mapping)
 
 </div>
 
@@ -223,13 +223,13 @@ Displays how the field is used. Values are:
 
 **NOTE**: A visibility can be set so that Utility fields can be mapped.
 Refer to [Set Visibility for Mapping of Target and Source
-Fields](../Use_Cases/Set_Field_Visibility_for_Mapping.htm)  for more
+Fields](../Use_Cases/Set_Field_Visibility_for_Mapping)  for more
 information.
 
 **NOTE**: By default, the visibility of a Utility field is set to NONE,
 with the exception of zLegacy keys. zLegacy key fields will default to
 Source visibility.  Refer to [Set Visibility for Appended Utility
-Columns](../Use_Cases/Allow_Mapping_of_Utility_Columns.htm) for more
+Columns](../Use_Cases/Allow_Mapping_of_Utility_Columns) for more
 information.
 
 **NOTE**: If the field is Natural, the Verify Post Load check box is
@@ -245,7 +245,7 @@ values cannot be edited or deleted.
 Custom criticality levels can be added, edited, and deleted.
 
 Refer to [Add Custom Criticality
-Levels](../Config/Add_Custom_Criticality_Levels.htm) for more
+Levels](../Config/Add_Custom_Criticality_Levels) for more
 information.
 
 Required
@@ -269,12 +269,12 @@ application screen has not been entered.
 **NOTE:** If using Target Design with Full Construction and the option
 to generate a *Vertical* View is selected in the Construct AutoGen Build
 View field on the *[Target
-Sources](Target_Sources_H_Design.htm#Target_Sources_V)* page’s
+Sources](Target_Sources_H_Design#Target_Sources_V)* page’s
 *Vertical* View, this field is used to as the tab name on the *Vertical*
 View.
 
 Refer to [Use Target Design with Full
-Construction](../../Construct/Use_Cases/Use_Target_Design_with_Full_Construction.htm)
+Construction](../../Construct/Use_Cases/Use_Target_Design_with_Full_Construction)
 for more information.
 
 Display Name
@@ -292,7 +292,7 @@ tabs within an SAP screen or TCode (for example, Customer Basic, Sales,
 Company and Accounting).
 
 Refer to [Work with Metric
-Groups](../Use_Cases/Work_with_Metric_Groups.htm) for more information.
+Groups](../Use_Cases/Work_with_Metric_Groups) for more information.
 
 Field Oder
 
@@ -301,12 +301,12 @@ Displays the order the field displays on the screen in the ERP system.
 **NOTE:** If using Target Design with Full Construction and the option
 to generate a *Vertical* View is selected in the Construct AutoGen Build
 View field on the [Target
-Sources](Target_Sources_H_Design.htm#Target_Sources_V) page’s *Vertical*
+Sources](Target_Sources_H_Design#Target_Sources_V) page’s *Vertical*
 View, this field is used to determine the order of the fields on the
 *Vertical* View.
 
 Refer to [Use Target Design with Full
-Construction](../../Construct/Use_Cases/Use_Target_Design_with_Full_Construction.htm)
+Construction](../../Construct/Use_Cases/Use_Target_Design_with_Full_Construction)
 for more information.
 
 Active
@@ -341,12 +341,12 @@ during SQL AutoGen.
 **NOTE:** If using Target Design with Full Construction and the option
 to generate a *Vertical* View is selected in the Construct Auto Gen
 Build View field on the *[Target
-Sources](Target_Sources_H_Design.htm#Target_Sources_V)* page’s
+Sources](Target_Sources_H_Design#Target_Sources_V)* page’s
 *Vertical* View, this field determines the key fields on the *Vertical*
 view.
 
 Refer to [Use Target Design with Full
-Construction](../../Construct/Use_Cases/Use_Target_Design_with_Full_Construction.htm)
+Construction](../../Construct/Use_Cases/Use_Target_Design_with_Full_Construction)
 for more information.
 
 Verify Post Load
@@ -384,7 +384,7 @@ Visibility
 
 Displays how the field is used in mapping and whether it displays on the
 <span style="font-style: italic;">[Field
-Mappings](../../Map/Page_Desc/Field_Mappings_H.htm)</span> page in Map.
+Mappings](../../Map/Page_Desc/Field_Mappings_H)</span> page in Map.
 
 Values are:
 
@@ -407,10 +407,10 @@ Details
 Lookup Table
 
 Displays the name of the check table to which a field belongs. Click the
-link to open the *[Target Lookup Table](Target_Lookup_Table_H.htm)* page
+link to open the *[Target Lookup Table](Target_Lookup_Table_H)* page
 to configure check table values.
 
-Refer to [Set up Lookup Tables](../Use_Cases/Set_up_Lookup_Tables.htm)
+Refer to [Set up Lookup Tables](../Use_Cases/Set_up_Lookup_Tables)
 for more information.
 
 **NOTE**: This field cannot be edited for zLegacy fields.
@@ -456,7 +456,7 @@ during Data Services AutoGen. Values are Date, Time and Decimal.
 
 The Field Format works in conjunction with the Date Format, Time Format,
 and Decimal Format fields on the
-[<span style="font-style: italic;">Targets</span>](Targets_H_Design.htm)
+[<span style="font-style: italic;">Targets</span>](Targets_H_Design)
 page's <span style="font-style: italic;">Vertical</span> View, where the
 actual format for data fields is stored.
 
@@ -470,7 +470,7 @@ process with a data type of NVARCHAR. When validation rules are written
 for this field in Data Services AutoGen, the format of the Received By
 Date field is set as YYYYDDMM so that it can be loaded into the Target
 with no errors.  Refer to [Set the Date, Time, and Decimal
-Formats](../Use_Cases/Set_Date_Time_and_Decimal_Format.htm) for more
+Formats](../Use_Cases/Set_Date_Time_and_Decimal_Format) for more
 information.
 
 <div style="mso-element: comment-list;">
@@ -515,7 +515,7 @@ no documentation has been uploaded for the Target field.
 
 Basic Rules
 
-Click to open the [*Rules: Basic Rules*](Rules_Basic_Rule_H.htm) page to
+Click to open the [*Rules: Basic Rules*](Rules_Basic_Rule_H) page to
 add basic rules, logic conditions to apply to the data in the field.
 Basic rules are autogenerated during Data Services AutoGen and include
 binding criteria, Multiple basic rules can be added and are combined
@@ -530,7 +530,7 @@ configured.
 Complex Rules
 
 Click to open the [*Rules: Field Complex
-Rules*](Rules_Field_Complex_Rules.htm) page to add the documentation for
+Rules*](Rules_Field_Complex_Rules) page to add the documentation for
 a complex rule. Complex rules are not generated.
 
 **NOTE**: Complex Rules are for documentation purposes only to describe

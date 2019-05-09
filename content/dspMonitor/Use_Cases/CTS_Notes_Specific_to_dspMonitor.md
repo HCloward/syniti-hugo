@@ -25,4 +25,4 @@ The Report Repository, Object, Group and Filter can be sent
 independently.
 
 Refer to System Administration for detailed information regarding the
-[CTS process](../../../Platform/Sys_Admin/Use_Cases/CTS_Overview.htm).
+[CTS process](../../../Platform/Sys_Admin/Use_Cases/CTS_Overview).

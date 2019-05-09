@@ -41,7 +41,7 @@ To create a Schedule Group in Collect:
 2.  Click **Add**.
     
     [View the field descriptions for the Schedule Groups
-    page](../Page_Desc/Schedule_Groups.htm)
+    page](../Page_Desc/Schedule_Groups)
 
 3.  Enter a unique name in the **SCHEDULE GROUP** field.
     
@@ -89,7 +89,7 @@ To assign a schedule group to a table:
 4.  Click **Edit**.
     
     [View the field descriptions for the Tables page's Vertical
-    View](../Page_Desc/Tables_H.htm)
+    View](../Page_Desc/Tables_H)
 
 5.  Select a group from **Schedule Group** list box.
 

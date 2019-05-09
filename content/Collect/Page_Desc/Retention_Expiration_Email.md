@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Update the Retention Expiration
-Email](../../Common/Use_Cases/Update%20the%20Retention%20Expiration%20Email.htm).
+Email](../../Common/Use_Cases/Update%20the%20Retention%20Expiration%20Email).
 
 </div>
 
@@ -29,7 +29,7 @@ To access this page in Common:
 </tr>
 <tr class="even">
 <td><p>Subject Line</p></td>
-<td><p>Displays the subject line of the workflow email sent when an object's retention date is within the number of days set in the Retention Expiration Date Notification field on the <em><a href="../../Common/Page_Desc/Parameters_Collect.htm">Parameters - Collect</a></em> page's Workflow Settings tab.</p>
+<td><p>Displays the subject line of the workflow email sent when an object's retention date is within the number of days set in the Retention Expiration Date Notification field on the <em><a href="../../Common/Page_Desc/Parameters_Collect">Parameters - Collect</a></em> page's Workflow Settings tab.</p>
 <p><strong>NOTE:</strong> A value preceded and followed by # is a dynamic substitution value for replacement at run time.</p></td>
 </tr>
 <tr class="odd">

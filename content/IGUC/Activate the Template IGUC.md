@@ -9,7 +9,7 @@ A Template Administrator can activate the IG Universal Connect Template
 so it can be added to a Process.
 
 Before performing this task, [create the
-Template](Create%20an%20IG%20Universal%20Connect%20Template.htm).
+Template](Create%20an%20IG%20Universal%20Connect%20Template).
 
 To activate a Template in Integrate:
 
@@ -29,4 +29,4 @@ Once a Template is activated, it cannot be edited until it is
 deactivated.
 
 Continue with [Add the Template to a
-Process](Add%20the%20Template%20to%20a%20Process%20IGUC.htm).
+Process](Add%20the%20Template%20to%20a%20Process%20IGUC).

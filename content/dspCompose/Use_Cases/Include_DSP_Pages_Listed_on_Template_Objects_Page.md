@@ -12,7 +12,7 @@ To include DSP® pages in the CTS:
 
 1.  Create a CTS package that contains a CTS Item for each page and add
     CTS Item Keys. Refer to [Create Package and Build Archive in Source
-    Instance](../../../Platform/Sys_Admin/Use_Cases/CreatePckgeBuildArcSrceInstance.htm)
+    Instance](../../../Platform/Sys_Admin/Use_Cases/CreatePckgeBuildArcSrceInstance)
     for detailed information.
     
     1.  When adding CTS Items to the package, select **CranSoft-Page**

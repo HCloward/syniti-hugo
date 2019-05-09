@@ -12,11 +12,11 @@ solution = 'Platform'
 Use this page to:
 
   - [Delete GUI Script
-    Fields](../Use_Cases/Delete_GUI_Script_Fields.htm)
+    Fields](../Use_Cases/Delete_GUI_Script_Fields)
   - [Copy a GUI Script Data
-    Record.](../Use_Cases/Copy_a_GUI_Script_Data_Record.htm)
+    Record.](../Use_Cases/Copy_a_GUI_Script_Data_Record)
   - [Configure Template Loops for a GUI Script
-    Template](../Use_Cases/Configure_Template_LoopsGUI.htm)
+    Template](../Use_Cases/Configure_Template_LoopsGUI)
 
 </div>
 
@@ -44,12 +44,12 @@ Data**.
 
 ## <span id="GUI_Script_Data_V_All"></span>GUI Script Data V All Tabs
 
-[GUI Script Data H](GUI_Script_Data_H.htm)
+[GUI Script Data H](GUI_Script_Data_H)
 
 <div class="use">
 
 Use this page to [Modify a GUI Script with a Custom
-Command](../Use_Cases/ModifyGUIScriptCustCommand.htm).
+Command](../Use_Cases/ModifyGUIScriptCustCommand).
 
 </div>
 
@@ -123,7 +123,7 @@ script.</span>
 Conditionals
 
 Click to open the *[*GUI Script
-Conditionals*](GUI_Script_Conditionals.htm)* page to add, edit or delete
+Conditionals*](GUI_Script_Conditionals)* page to add, edit or delete
 a data condition. Only one condition can be added for each record. If
 the condition is true, the resulting posting script includes the data
 from the process template field mappings associated with the field.
@@ -151,5 +151,5 @@ Displays the number of rows visible in the table in SAP.
 
 Commands
 
-Click to open the *[*GUI Script Commands*](GUI_Script_Commands.htm)*
+Click to open the *[*GUI Script Commands*](GUI_Script_Commands)*
 page to view the commands captured during the GUI script recording.

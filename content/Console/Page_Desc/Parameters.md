@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Set Parameters for Other
-Components](../Config/Set_Parameters_for_Other_Components.htm)
+Components](../Config/Set_Parameters_for_Other_Components)
 
 </div>
 
@@ -55,7 +55,7 @@ Migration Source Database Filter
 
 Displays the filter Console uses when displaying options in the **SOURCE
 ID** list box on the
-*[Source](../../../Platform/Collect/Use_Cases/Register_and_Use_Sources.htm)*
+*[Source](../../../Platform/Collect/Use_Cases/Register_and_Use_Sources)*
 page’s *Horizontal* View and *Vertical* Views. This filter selects the
 Source data source as a database that begins with **sdb**.
 
@@ -93,7 +93,7 @@ Xref Prefix
 
 Displays the prefix added to a cross reference field during the
 Transform automation process. When using a cross reference rule (on the
-*[Field Mappings](../../Map/Page_Desc/Field_Mappings_H.htm)* page in Map
+*[Field Mappings](../../Map/Page_Desc/Field_Mappings_H)* page in Map
 by selecting Xref or RuleXref in the **ACTION** list box) that requires
 additional or multiple rules to determine a value, Map creates a
 **zField** and a **zLegacy** field on the source table used in
@@ -142,10 +142,10 @@ to the sync process.
 
 If unchecked, when mapping is deleted and added back, the user must use
 the Restore option on the <span style="font-style: italic;">[Field
-Mapping History](../../Map/Page_Desc/Field_Mapping_History.htm)</span>
+Mapping History](../../Map/Page_Desc/Field_Mapping_History)</span>
 page to restore the mapping. Refer to [Restore Current Field Mapping
 From
-History](../../Map/Use_Cases/Restore_Current_Field_Mapping_From_History.htm)
+History](../../Map/Use_Cases/Restore_Current_Field_Mapping_From_History)
 for more information.
 
 Build Xref Target Rules
@@ -171,9 +171,9 @@ Reset Field Mapping
 
 Displays the action taken when a user clicks the Reset icon for a field
 mapping on the *[Field
-Mappings](../../Map/Page_Desc/Field_Mappings_H.htm)* page n Map or the
+Mappings](../../Map/Page_Desc/Field_Mappings_H)* page n Map or the
 *[Automation SQL Field
-Mappings](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H.htm)*
+Mappings](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H)*
 page in SQL AutoGen.
 
 Options are:
@@ -228,7 +228,7 @@ Source Priority Multiplier
 
 Displays the number used to multiply against the field’s priority on the
 *[Target
-Fields](../../Design/Page_Desc/Target_Fields_H_Target_Design.htm)* page
+Fields](../../Design/Page_Desc/Target_Fields_H_Target_Design)* page
 in Map and the result is the Priority for the Rule in Transform. Source
 rules will be registered in Transform using this priority, leaving gaps
 in the priority numbers to be used for manual rules. For example, if the
@@ -447,7 +447,7 @@ the Business Data Transformation and Report Delivery via Transform.
 Report Header
 
 Displays the header that will appear on all reports as defined on the
-*[Report Headers/Footers (Setup)](Report_Headers_Footers_Setup.htm)*
+*[Report Headers/Footers (Setup)](Report_Headers_Footers_Setup)*
 page, accessible from *Navigation* pane in Transform by selecting
 **Configuration \> Setup**.
 
@@ -499,7 +499,7 @@ documents as HTML files every time an object, target or Target Source is
 processed.
 
 Refer to [Generate Documentation for Objects, Targets, and Target
-Sources](../../Transform/Use_Cases/Generate_Documentation.htm) for more
+Sources](../../Transform/Use_Cases/Generate_Documentation) for more
 information.
 
 Report Max Rows
@@ -572,7 +572,7 @@ packages are saved on the web server for review.
 **NOTE**: This tab is only accessible if the current user is a member of
 the WebApp group Wavesynchronizer in Console or is assigned to a
 security role with access to the page. Refer to [Set
-Security](../../../Platform/Sys_Admin/Use_Cases/Setting_security.htm) in
+Security](../../../Platform/Sys_Admin/Use_Cases/Setting_security) in
 System Administration for more information.
 
 <table>

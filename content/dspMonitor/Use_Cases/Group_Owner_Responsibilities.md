@@ -12,6 +12,6 @@ group.
 
 Group Owner responsibilities are:
 
-  - [Assign Group Owner to a Group](Assign_Group_Owner_to_a_Report.htm)
-  - [Add Users to a Report](Add_Users_to_a_Report.htm)
-  - [Add Reports to a Group](Add_Reports_to_a_Group.htm)
+  - [Assign Group Owner to a Group](Assign_Group_Owner_to_a_Report)
+  - [Add Users to a Report](Add_Users_to_a_Report)
+  - [Add Reports to a Group](Add_Reports_to_a_Group)

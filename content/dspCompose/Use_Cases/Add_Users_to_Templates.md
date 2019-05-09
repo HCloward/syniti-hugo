@@ -22,7 +22,7 @@ the template level.
 
 **NOTE**: If a template uses Org Units, a user must also be assigned to
 those Org Units to access the request data. Refer to [Assign Users to
-Org Units](Set_up_Org_Units.htm#Assign_Users_to_Org_Units) for more
+Org Units](Set_up_Org_Units#Assign_Users_to_Org_Units) for more
 information.
 
 This topic contains the following sections:
@@ -58,13 +58,13 @@ To grant user access to a template at the template level:
 4.  Click **Add**.
     
     *[View a field descriptions of the Template (Users)
-    page.](../Page_Desc/Template_Users_H.htm)*
+    page.](../Page_Desc/Template_Users_H)*
 
 5.  Select an option from the **USERID** list box.
     
     **NOTE**: The USER ID list box displays users who have been granted
     access to dspCompose™. Refer to [Add Users to
-    dspCompose™](../Config/Add_Users_to_dspCompose.htm) for more
+    dspCompose™](../Config/Add_Users_to_dspCompose) for more
     information.
 
 6.  Click **Save**.
@@ -81,7 +81,7 @@ filter set on this page.
 A Review filter allows a Template Administrator to set column,
 conditional, and value combinations at the template user level to limit
 the data displayed to a user for approval. On the *[*User Template
-Filter*](../Page_Desc/User_Template_Filter.htm)* page, a Template
+Filter*](../Page_Desc/User_Template_Filter)* page, a Template
 Administrator can create a Review filter for each user with access to
 the review role for a request based on a template. This set up allows
 multiple users to each view and approve a different subset of request
@@ -106,7 +106,7 @@ then the Review filters do not apply to that page.
 
 **NOTE**: If the template has Org Unit assignments, these assignments
 will also affect the request data that a user can access. Refer to [Set
-up Org Units](Set_up_Org_Units.htm) for more information.
+up Org Units](Set_up_Org_Units) for more information.
 
 To create a Review filter at the template level:
 
@@ -123,7 +123,7 @@ To create a Review filter at the template level:
     the page displays in add mode. Otherwise, click Add on Toolbar.
     
     [View the field descriptions for the User Template Filter
-    page](../Page_Desc/User_Template_Filter.htm)
+    page](../Page_Desc/User_Template_Filter)
 
 5.  Select a column from the **COLUMN NAME** list box.
     

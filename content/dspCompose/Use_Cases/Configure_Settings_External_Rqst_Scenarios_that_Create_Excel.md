@@ -9,7 +9,7 @@ External Request Scenarios that Create Excel-initiated requests require
 additional configuration compared to other external request scenarios.
 Refer to [Configure Settings for External Data Processing and External
 Request
-Scenarios](../Config/Configure_Settings_for_External_Data_Processing.htm)
+Scenarios](../Config/Configure_Settings_for_External_Data_Processing)
 for more information.
 
 ### Excel-initiated Template Role Configuration
@@ -21,7 +21,7 @@ external request scenario that creates an Excel-initiated request, there
 cannot be an External Data role defined.
 
 Refer to [Add and Configure Template
-Roles](Add_and_Configure_Template_Roles.htm) for more information.
+Roles](Add_and_Configure_Template_Roles) for more information.
 
 ### Excel File Format
 
@@ -45,7 +45,7 @@ A sample Excel file in the proper format must exist, where
 After the sample Excel file’s worksheet name has been specified for the
 template, the sample Excel file is uploaded and processed. Refer to
 [Create an External Request Scenario for an Excel-initiated
-Request](Configure_External_Rqst_Scenario_for_Excel_Initiated_Request.htm)
+Request](Configure_External_Rqst_Scenario_for_Excel_Initiated_Request)
 for more information.
 
 ### ALLOW EXCEL Check Box
@@ -53,7 +53,7 @@ for more information.
 When creating the external request scenario, the ALLOW EXCEL check box
 must be enabled on the *Template (External Request Scenario)* page.
 Refer to [Create an External Request Scenario for an Excel-initiated
-Request](Configure_External_Rqst_Scenario_for_Excel_Initiated_Request.htm)
+Request](Configure_External_Rqst_Scenario_for_Excel_Initiated_Request)
 for more information.
 
 ### Map Columns in the Worksheet to Template Columns
@@ -71,7 +71,7 @@ the table used for the Data Entry role for the request, it is either:
   - Replaced by a fixed value
 
 Refer to [Map Columns from the Template to Columns from the Excel
-File](../../../Migration/Map/Use_Cases/Map_Columns_Template_to_Sprdsht.htm)
+File](../../../Migration/Map/Use_Cases/Map_Columns_Template_to_Sprdsht)
 for more information.
 
 ### Use Custom Rules on Imported Data
@@ -84,5 +84,5 @@ Entry role for the request.
 Custom rules are an optional feature.
 
 Refer to [Create Custom Rules for Excel-initiated
-Requests](Create_Custom_Rules_for_Excel_Initiated_Requests.htm) for more
+Requests](Create_Custom_Rules_for_Excel_Initiated_Requests) for more
 information.

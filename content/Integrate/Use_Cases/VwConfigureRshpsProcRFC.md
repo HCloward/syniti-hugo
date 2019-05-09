@@ -18,7 +18,7 @@ can automatically determine relationships using the Auto Generate
 Database Objects feature.  Refer to
 *<span style="color: #0000ff;font-style: normal;">[Generate Database
 Objects
-Automatically](Generate_Database_Objects_Automatically.htm)</span>* for
+Automatically](Generate_Database_Objects_Automatically)</span>* for
 more information.
 
 **NOTE:** If the **VIEW NAME** for a process template’s first loop is
@@ -41,7 +41,7 @@ To view relationships and configure them manually (if necessary):
 2.  Click **Edit** for an Upload relationship.
     
     *[View the field descriptions for the Process Template Loop View
-    Relationships page.](ProcTempLoopVwRlipsBDCGUIBAPIRFC.htm)*
+    Relationships page.](ProcTempLoopVwRlipsBDCGUIBAPIRFC)*
     
     **NOTE:** The **Parent Direction** and **Child Direction** display
     Upload. The View Name for the Parent Upload is the view name
@@ -84,7 +84,7 @@ To view relationships and configure them manually (if necessary):
 6.  Click **Edit** for a Download relationship.
     
     [View the field descriptions for the Process Template Loop View
-    Relationships page.](ProcTempLoopVwRlipsBDCGUIBAPIRFC.htm)
+    Relationships page.](ProcTempLoopVwRlipsBDCGUIBAPIRFC)
     
     **NOTE:** The **Parent Direction** displays **Upload**. The **Child
     Direction** displays **Download**.

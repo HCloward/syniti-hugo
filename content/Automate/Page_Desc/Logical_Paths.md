@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Add Logical
-Paths](../Use_Cases/Add_Logical_Paths.htm).
+Paths](../Use_Cases/Add_Logical_Paths).
 
 </div>
 
@@ -54,7 +54,7 @@ To access this page, select **IO Config \> Logical Paths** in the
 </tr>
 <tr class="even">
 <td><p>Instances</p></td>
-<td><p>Click to open the <em><a href="Logical_Path_Instance.htm">Logical Path (Instance)</a></em> page to configure the environment for the logical path. The count on the icon is the total number of instances registered to the selected logical path.</p>
+<td><p>Click to open the <em><a href="Logical_Path_Instance">Logical Path (Instance)</a></em> page to configure the environment for the logical path. The count on the icon is the total number of instances registered to the selected logical path.</p>
 <p>The count on the icon is the total number of instances registered to the selected logical path.</p></td>
 </tr>
 </tbody>
@@ -129,7 +129,7 @@ To access this page, select **IO Config \> Logical Paths** in the
 </tr>
 <tr class="odd">
 <td><p>Instances</p></td>
-<td><p>Click to open the <em><a href="Logical_Path_Instance.htm">Logical Path (Instance)</a></em> page to configure the environment for the logical path.</p>
+<td><p>Click to open the <em><a href="Logical_Path_Instance">Logical Path (Instance)</a></em> page to configure the environment for the logical path.</p>
 <p>The count on the icon is the total number of instances registered to the selected logical path.</p></td>
 </tr>
 </tbody>

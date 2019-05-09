@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Assign Users to
-Roles](../Use_Cases/Assign_Users_to_Roles.htm). 
+Roles](../Use_Cases/Assign_Users_to_Roles). 
 
 </div>
 
@@ -30,12 +30,12 @@ To access this page:
 <tr class="odd">
 <td><p>INSTANCE</p></td>
 <td><p>Displays the instance for the user.</p>
-<p><strong>NOTE:</strong> The Instance selected MUST match the Instance field in 2 additional places for email notifications to properly work: the <a href="Parameters.htm"><em>Parameters</em></a>page in Automate and the <em><a href="../../Sys_Admin/Page_Desc/Parameters_All_TabsSysAdmin.htm">Parameters</a></em> page in System Administration.</p>
-<p>Refer to <a href="../Use_Cases/Set_Up_Notifications_for_an_Interface.htm">Set Up Notifications for an Interface</a> for more information.</p></td>
+<p><strong>NOTE:</strong> The Instance selected MUST match the Instance field in 2 additional places for email notifications to properly work: the <a href="Parameters"><em>Parameters</em></a>page in Automate and the <em><a href="../../Sys_Admin/Page_Desc/Parameters_All_TabsSysAdmin">Parameters</a></em> page in System Administration.</p>
+<p>Refer to <a href="../Use_Cases/Set_Up_Notifications_for_an_Interface">Set Up Notifications for an Interface</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>USER ID</p></td>
-<td><p>Displays the user added to the role. Refer to <a href="../Use_Cases/Set_Up_Automate_Security.htm">Set Up Automate Security</a> to populate the User ID list box.</p></td>
+<td><p>Displays the user added to the role. Refer to <a href="../Use_Cases/Set_Up_Automate_Security">Set Up Automate Security</a> to populate the User ID list box.</p></td>
 </tr>
 </tbody>
 </table>

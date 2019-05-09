@@ -42,21 +42,21 @@ angles.
 
 dspCompose™ includes these charts:
 
-  - [All Requests Chart](All_Requests_Chart.htm)
-  - [Team Request Counts Chart](Team_Request_Counts_Chart.htm)
+  - [All Requests Chart](All_Requests_Chart)
+  - [Team Request Counts Chart](Team_Request_Counts_Chart)
   - [Team Average Records/Request
-    Chart](Team_Average_Records_Request_Chart.htm)
-  - [Active Requests Chart](Active_Requests_Chart.htm)
-  - [Inactive Requests Chart](Inctive_Requests_Chart.htm)
-  - [Archived Requests Chart](Archived_Requests_Chart.htm)
-  - [Active Requests for User Chart](Active_Requests_for_User_Chart.htm)
+    Chart](Team_Average_Records_Request_Chart)
+  - [Active Requests Chart](Active_Requests_Chart)
+  - [Inactive Requests Chart](Inctive_Requests_Chart)
+  - [Archived Requests Chart](Archived_Requests_Chart)
+  - [Active Requests for User Chart](Active_Requests_for_User_Chart)
   - [Inactive Requests for User
-    Chart](Inctive_Requests_for_User_Chart.htm)
+    Chart](Inctive_Requests_for_User_Chart)
   - [Archived Requests for User
-    Chart](Archived_Requests_for_User_Chart.htm)
-  - [Team Templates Chart](Team_Templates_Chart.htm)
+    Chart](Archived_Requests_for_User_Chart)
+  - [Team Templates Chart](Team_Templates_Chart)
   - [Active Requests Time Taken (Days)
-    Chart](Active%20Requests_Time_Taken_Days_Chart.htm)
-  - [Template Role Duration Chart](Template_Role_Duration_Chart.htm)
-  - [Top 15 Template Request Counts](Top_15_Template_Request_Counts.htm)
-  - [Top 15 Request Record Counts](Top_15_Request_Record_Counts.htm)
+    Chart](Active%20Requests_Time_Taken_Days_Chart)
+  - [Template Role Duration Chart](Template_Role_Duration_Chart)
+  - [Top 15 Template Request Counts](Top_15_Template_Request_Counts)
+  - [Top 15 Request Record Counts](Top_15_Request_Record_Counts)

@@ -11,12 +11,12 @@ V](#Work_List_Event_Validations_-_Work_List_Setup_Task__V)
 <div class="use">
 
 Use this page to view Work List Event Validations assigned to Plan Tasks
-accessed from the *[Work List Setup](Work_List_Setup_H.htm)* page.
+accessed from the *[Work List Setup](Work_List_Setup_H)* page.
 
 </div>
 
 Refer to [Register Work List Event Validations for Work List
-Items](../Use_Cases/Register_WorkList_Event_Valid_WorkList_Item.htm) for
+Items](../Use_Cases/Register_WorkList_Event_Valid_WorkList_Item) for
 more information.
 
 To access this page:
@@ -72,24 +72,24 @@ To access this page:
 <tr class="even">
 <td><p>TAG ID</p></td>
 <td><p>Displays the name of the tag used by the task to assign the validation. If the validation is assigned directly to a Task or Plan (without using a tag), then this field is empty.</p>
-<p>Refer to <a href="../Use_Cases/Configure_Logic_Tags.htm">Configure Logic Tags</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Configure_Logic_Tags">Configure Logic Tags</a> for more information.</p></td>
 </tr>
 </tbody>
 </table>
 
 ## <span id="Work_List_Event_Validations_-_Work_List_Setup_Task__V"></span>Work List Event Validations - Work List Setup Task  V
 
-[Horizontal View](WorkList_Event_Validations_WorkList_Setup_Task.htm)
+[Horizontal View](WorkList_Event_Validations_WorkList_Setup_Task)
 
 <div class="use">
 
 Use this page to view Work List Event Validations assigned to Plan Tasks
-accessed from the *[Work List Setup](Work_List_Setup_H.htm)* page.
+accessed from the *[Work List Setup](Work_List_Setup_H)* page.
 
 </div>
 
 Refer to [Register Work List Event Validations for Work List
-Items](../Use_Cases/Register_WorkList_Event_Valid_WorkList_Item.htm) for
+Items](../Use_Cases/Register_WorkList_Event_Valid_WorkList_Item) for
 more information.
 
 <table>
@@ -113,7 +113,7 @@ more information.
 <tr class="odd">
 <td><p>Tag ID</p></td>
 <td><p>Displays the name of the tag to which the validation is assigned. If the validation is assigned directly to a Task or Plan (without using a tag), then this field is empty.</p>
-<p>Refer to <a href="../Use_Cases/Configure_Logic_Tags.htm">Configure Logic Tags</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Configure_Logic_Tags">Configure Logic Tags</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Configuration</p></td>

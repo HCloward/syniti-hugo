@@ -22,7 +22,7 @@ To set up the data source and connection information in the DSP®:
 2.  Click **Add**.
     
     [View the field descriptions for the Data Sources
-    page](../../../Platform/Sys_Admin/Page_Desc/Data_Sources_HSysAdmi.htm)
+    page](../../../Platform/Sys_Admin/Page_Desc/Data_Sources_HSysAdmi)
 
 3.  Enter **ISSAP** in **DATA SOURCE NAME** field.
 

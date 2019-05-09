@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Send Workflow Summary On
-Demand](Send_Workflow_Summary_On_Demand.htm).
+Demand](Send_Workflow_Summary_On_Demand).
 
 </div>
 

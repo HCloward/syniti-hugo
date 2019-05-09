@@ -8,13 +8,13 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Copy a Report Delivery
-Filter](../Use_Cases/Report_Delivery_Filters.htm#Copy_a_Report_Delivery_Filter).
+Filter](../Use_Cases/Report_Delivery_Filters#Copy_a_Report_Delivery_Filter).
 
 </div>
 
 To access this page:
 
-1.  [Access Transform](../Config/Access_Transform.htm).
+1.  [Access Transform](../Config/Access_Transform).
 
 2.  Select **Configuration \> User Filter \> User filter (By Filter)**
     in the *Navigation* pane.
@@ -40,7 +40,7 @@ To access this page:
 <tr class="even">
 <td><p>Copy User</p></td>
 <td><p>If enabled, the assigned users of the original filter are moved to the new filter. Because the assigned user(s) are moved from the original filter, the original filter will lose its user assignments. A user can be assigned to only one filter at a time.</p>
-<p>If disabled, the new filter will have no users assigned to it initially. Refer to .<a href="../Use_Cases/Report_Delivery_Filters.htm#Assign_a_User_to_a_Report_Delivery_Filter">Assign a User to a Report Delivery Filter</a>.</p></td>
+<p>If disabled, the new filter will have no users assigned to it initially. Refer to .<a href="../Use_Cases/Report_Delivery_Filters#Assign_a_User_to_a_Report_Delivery_Filter">Assign a User to a Report Delivery Filter</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Copy Filter</p></td>

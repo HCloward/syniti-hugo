@@ -23,7 +23,7 @@ user can also:
     update with value mapping values. Ensure Bulk Execution is enabled
     on the *Value Mapping (Legacy to Target)* page. Once data entry is
     complete, import that data into the DSP. Refer to [Use Excel
-    Integration](../../../Platform/Excel_Int/Use_Excel_Integration.htm)
+    Integration](../../../Platform/Excel_Int/Use_Excel_Integration)
     for more information.
 
 <span style="font-weight: bold;">NOTE:</span> The Source table and
@@ -32,7 +32,7 @@ automatically set. They must be entered on the Vertical View of the
 Legacy Value (Source Table Fields) page.
 
 The *[Value Mapping (Legacy to
-Target)](../Page_Desc/Value_Mapping_Legacy_to_Target_H.htm)* page
+Target)](../Page_Desc/Value_Mapping_Legacy_to_Target_H)* page
 displays all values that are mapped to the Target table in a lookup
 table for all Sources.
 
@@ -43,14 +43,14 @@ toolbar.
 To perform value mapping in Map:
 
 1.  Create a rule with an XRef or RuleXref action on the *[Field
-    Mappings](../Page_Desc/Field_Mappings_H.htm)* page. Refer to
-    <span style="font-size: 11.0pt;font-family: Arial, sans-serif;color: #0000ff;">[Xref](Xref.htm)</span>
+    Mappings](../Page_Desc/Field_Mappings_H)* page. Refer to
+    <span style="font-size: 11.0pt;font-family: Arial, sans-serif;color: #0000ff;">[Xref](Xref)</span>
     or
     <span style="font-size: 11.0pt;font-family: Arial, sans-serif;color: #0000ff;">[Rule
-    Xref](Rule_Xref.htm)</span> for more information.
+    Xref](Rule_Xref)</span> for more information.
 
 2.  Click the **Value Mappings** icon on the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page.
     
     **NOTE:** The *Value Mapping* page provides an overview of value
     mappings by check table.
@@ -64,12 +64,12 @@ To perform value mapping in Map:
     **NOTE:** Only those lookup tables with a Type of Configuration are
     available to be value mapped using this process. This value is set
     in Target Design on the *[Target Lookup
-    Table](../../Design/Page_Desc/Target_Lookup_Table_H.htm)* page.
+    Table](../../Design/Page_Desc/Target_Lookup_Table_H)* page.
 
 4.  Click **Edit**.
     
     *[View the field descriptions for the Value Mapping (Legacy to
-    Target) page](../Page_Desc/Value_Mapping_Legacy_to_Target_H.htm)*
+    Target) page](../Page_Desc/Value_Mapping_Legacy_to_Target_H)*
 
 5.  Select an option from the **TARGET VALUE** list box
     
@@ -82,7 +82,7 @@ To perform value mapping in Map:
     
     **NOTE:** The PROPOSED VALUE field is for informational purposes
     only. The count of proposed values displays on the *[Value
-    Mapping](../Page_Desc/Value_Mapping.htm)* page.
+    Mapping](../Page_Desc/Value_Mapping)* page.
 
 7.  Enter text in the **COMMENT** field.
 

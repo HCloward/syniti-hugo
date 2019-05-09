@@ -8,11 +8,11 @@ solution = 'Platform'
 Work List Items, like Plan Tasks, display on the Work List unless they
 are in Completed status. After work on a Plan Task or Work List Item
 completes, they can be viewed on the
-[<span style="font-style: italic;">Plan</span>*Task*](../Page_Desc/Plan_Task_H.htm)
+[<span style="font-style: italic;">Plan</span>*Task*](../Page_Desc/Plan_Task_H)
 page only.
 
 Work List Items, added on the *[Work List
-Setup](../Page_Desc/Work_List_Setup_H.htm)* page, are not assigned to a
+Setup](../Page_Desc/Work_List_Setup_H)* page, are not assigned to a
 plan and do not have predecessor tasks. They cannot be in a Waiting on
 Dependency status and cannot have Tags assigned.
 
@@ -22,7 +22,7 @@ to a plan and can have predecessor tasks. They can be in Waiting on
 Dependency status.
 
 Refer to [Plan Tasks Versus Work List
-Items](../Page_Desc/Plan_Tasks_Versus_Work_List_Items.htm) for more
+Items](../Page_Desc/Plan_Tasks_Versus_Work_List_Items) for more
 information.
 
 On the *Work List Setup* page, Plan Tasks and Work List items can be
@@ -37,7 +37,7 @@ To add and configure a Work List Item:
     View</span> displays.
     
     [View the Work List Setup page’s Vertical
-    View](../Page_Desc/Work_List_Setup_H.htm#Work_List_Setup_V)
+    View](../Page_Desc/Work_List_Setup_H#Work_List_Setup_V)
 
 3.  Enter an item name in the **ItemName** field.
 
@@ -60,7 +60,7 @@ To add and configure a Work List Item:
     
     **NOTE:** The Key Name(s) for the page selected in this list box
     displays on the *[Work List Binding
-    Criteria](../Page_Desc/Work_List_Binding_Criteria.htm)* page after
+    Criteria](../Page_Desc/Work_List_Binding_Criteria)* page after
     the Work List Item is saved. On the *Work List Binding Criteria*
     page, the user selects a key description, then a key value for the
     key name from a list box.
@@ -71,7 +71,7 @@ To add and configure a Work List Item:
     on the *Work List Binding Criteria* page. The *Work List Binding
     Criteria* page is populated with data for the Work List Item once
     the item is saved. Refer to [Add Work List Binding Criteria to a
-    Work List Item](AddWrkLisBindingCriteriaItem.htm) for more
+    Work List Item](AddWrkLisBindingCriteriaItem) for more
     information.
     
     **NOTE:** If a LinkToPage is not selected for the item, the *Work
@@ -82,4 +82,4 @@ To add and configure a Work List Item:
 
 **NOTE:**This item displays on the <span>Work List</span> for users
 assigned to the item. Refer to [Add Users to a Work List
-Item](Add_Users_to_an_Item.htm) for more information.
+Item](Add_Users_to_an_Item) for more information.

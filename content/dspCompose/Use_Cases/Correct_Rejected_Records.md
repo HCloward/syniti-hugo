@@ -27,16 +27,16 @@ There are three ways to fix rejected records:
   - Download the records into the dspCompose™ generated Excel
     spreadsheet, edit the records and upload the spreadsheet. Refer to
     [Import a File at the Request-Role
-    Level](Import_a_File_at_the_Request%20Role_Level.htm)  for more
+    Level](Import_a_File_at_the_Request%20Role_Level)  for more
     information.
 
   - Make the change on the *Mass Change* page. Refer to  [Mass Change
-    Data](Enter_Data_for_a_Request.htm#Mass_Change_Data) for more
+    Data](Enter_Data_for_a_Request#Mass_Change_Data) for more
     information.
 
   - Manually edit the records on the data entry page. Refer to
      [Manually Change
-    Data](Enter_Data_for_a_Request.htm#Manually_Change_Data)  for more
+    Data](Enter_Data_for_a_Request#Manually_Change_Data)  for more
     information.
 
 To view the rejected records:

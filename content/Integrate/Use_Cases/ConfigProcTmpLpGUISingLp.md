@@ -33,14 +33,14 @@ the record in the view. The Loop Name is blank.
 **NOTE**: If using the Auto Generate Database Objects feature, do not
 select a view name when adding the process that will be associated with
 the GUI Script template with a single loop. Refer to [Generate Database
-Objects Automatically](Generate_Database_Objects_Automatically.htm) for
+Objects Automatically](Generate_Database_Objects_Automatically) for
 more information.
 
 Assign specific columns in the view to unique template fields using
 field mappings or generate them automatically using the Auto Generate
 Database Objects feature. Refer to[Configure Field Mappings for a
 Process based on a GUI Script
-Template](ConfigureFieldMappingsGUI_Script_Template.htm)<span style="color: #000000;">for
+Template](ConfigureFieldMappingsGUI_Script_Template)<span style="color: #000000;">for
 more information.</span>
 
 **NOTE**: A process must be inactive to configure its process template
@@ -71,7 +71,7 @@ a process template loop:
 1.  On the *Process Template Loop* page, click **Edit** for a loop.
     
     *[View the field descriptions for the Process Template Loop
-    page.](../Page_Desc/Process_Template_Loop.htm)*
+    page.](../Page_Desc/Process_Template_Loop)*
 
 2.  Select a name in the **VIEW NAME** list box.
     
@@ -111,5 +111,5 @@ The feature also:
     have the same value.
 
 Refer to [Generate Database Objects
-Automatically](Generate_Database_Objects_Automatically.htm) for more
+Automatically](Generate_Database_Objects_Automatically) for more
 information.

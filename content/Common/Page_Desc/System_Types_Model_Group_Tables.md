@@ -10,9 +10,9 @@ solution = 'Platform'
 Use this page to
 
   - [Add a System Type Model
-    Group](../Use_Cases/Add%20a%20System%20Type%20Model%20Group.htm)
+    Group](../Use_Cases/Add%20a%20System%20Type%20Model%20Group)
   - [Activate or Deactivate Tables in a System Type Model
-    Group](../Use_Cases/ActiveDeactiveTblsSystmTypeModelGrp.htm)
+    Group](../Use_Cases/ActiveDeactiveTblsSystmTypeModelGrp)
 
 </div>
 
@@ -25,7 +25,7 @@ To access this page:
 
 <span style="font-weight: bold;">NOTE:</span> Excel Integration has been
 enabled on this page. Refer to [Use Excel
-Integration](../../Excel_Int/Use_Excel_Integration.htm) for more
+Integration](../../Excel_Int/Use_Excel_Integration) for more
 information.
 
 |                |                                                                                                      |

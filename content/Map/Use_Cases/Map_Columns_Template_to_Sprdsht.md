@@ -22,7 +22,7 @@ Replaced by a fixed value
 **NOTE**: An Excel file must have been successfully processed for the
 scenario prior to performing these steps. Refer to [Create an External
 Request Scenario for an Excel-initiated
-Request](../../../Data_Quality/dspCompose/Use_Cases/Create_an_External_Request_Scenario_for_an_Excel_Initiated_Requestel.htm)
+Request](../../../Data_Quality/dspCompose/Use_Cases/Create_an_External_Request_Scenario_for_an_Excel_Initiated_Requestel)
 for more information.
 
 **NOTE**: If a template uses an external request scenario that creates
@@ -59,7 +59,7 @@ two criteria are met:
   - An Excel file has been successfully processed for this
     scenario.<span> </span> Refer to [Create an External Request
     Scenario for an Excel-initiated
-    Request](../../../Data_Quality/dspCompose/Use_Cases/Create_an_External_Request_Scenario_for_an_Excel_Initiated_Requestel.htm)
+    Request](../../../Data_Quality/dspCompose/Use_Cases/Create_an_External_Request_Scenario_for_an_Excel_Initiated_Requestel)
     for more information.
   - The Template has been generated. Generate a template on the
     *Templates* page’s *Vertical* View on the General tab.
@@ -75,7 +75,7 @@ To map a column from the Excel file to a column in the template:
     
     [View the field descriptions for the *Template (External Request
     Scenario Column)*
-    page](../../../Data_Quality/dspCompose/Page_Desc/Template_External_Request_Scenario.htm)
+    page](../../../Data_Quality/dspCompose/Page_Desc/Template_External_Request_Scenario)
     
     **NOTE:** The COLUMN NAME is the name of the table’s column in the
     template.
@@ -94,7 +94,7 @@ To map a column from the Excel file to a fixed value:
     
     [View the field descriptions for the *Template (External Request
     Scenario Column)*
-    page](../../../Data_Quality/dspCompose/Page_Desc/Template_External_Request_Scenario_Column.htm)
+    page](../../../Data_Quality/dspCompose/Page_Desc/Template_External_Request_Scenario_Column)
     
     **NOTE:** The COLUMN NAME is the name of the table’s column in the
     template.

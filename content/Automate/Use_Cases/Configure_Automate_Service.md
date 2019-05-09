@@ -37,7 +37,7 @@ To configure a service page’s schedule:
     
     [View the field description for the Service Properties tab the Pages
     page’s Vertical
-    View](../../Sys_Admin/Page_Desc/Pages_H.htm#ServiceAdvPropstab)
+    View](../../Sys_Admin/Page_Desc/Pages_H#ServiceAdvPropstab)
 
 6.  Enter a new value in the **Service Qty** field.
 
@@ -49,7 +49,7 @@ To configure a service page’s schedule:
 
 **Description:** Deletes all History records that were older than what
 is defined in the History Retention days on the
-*[Parameters](../Page_Desc/Parameters.htm)* page. For example, if the
+*[Parameters](../Page_Desc/Parameters)* page. For example, if the
 History Retention is set to 30, any History records older than 30 days
 are deleted.
 
@@ -76,9 +76,9 @@ and mark all the jobs as "failed."
 
 **Description:** Deletes old records out of the Trace Logs records (when
 Debug Mode is enabled on the *Vertical* View of the
-*[Interfaces](../Page_Desc/Interfaces.htm#InterfacesV)* page), and the
+*[Interfaces](../Page_Desc/Interfaces#InterfacesV)* page), and the
 Logical Path list of folders and file records (located on the *[Logical
-Path Instance (Browse)](../Page_Desc/Logical_Path_Instance_Browse.htm)*
+Path Instance (Browse)](../Page_Desc/Logical_Path_Instance_Browse)*
 page.
 
 **Default Schedule:** Once daily (Service Qty is set to 1 and Service

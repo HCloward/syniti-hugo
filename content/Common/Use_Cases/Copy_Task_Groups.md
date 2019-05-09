@@ -18,7 +18,7 @@ To copy a task:
 3.  Click **Edit.**
     
     [View the field descriptions for the Copy: Automation Instruction
-    Task Group page](Copy_Automation_Instruction_Task_Group.htm)
+    Task Group page](Copy_Automation_Instruction_Task_Group)
 
 4.  Enter a name of new task in **New Task Group Name** field.
 

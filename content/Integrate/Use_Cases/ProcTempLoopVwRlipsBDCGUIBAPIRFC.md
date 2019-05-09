@@ -10,13 +10,13 @@ solution = 'Platform'
 Use this page to:
 
   - [View and Configure Relationships for a Process Based on a BDC
-    Script Template](ViewandConfigureRelationshipsBDC.htm)
+    Script Template](ViewandConfigureRelationshipsBDC)
   - [View and Configure Relationships for a Process Based on a GUI
-    Script Template](VwConfigureRelshpsGUIe.htm)
+    Script Template](VwConfigureRelshpsGUIe)
   - [View and Configure Relationships for a Process Based on a
-    BAPI](VwConfigureRlshipsProcBAPI.htm)
+    BAPI](VwConfigureRlshipsProcBAPI)
   - [View and Configure Relationships for a Process Based on an
-    RFC](VwConfigureRshpsProcRFC.htm)
+    RFC](VwConfigureRshpsProcRFC)
 
 </div>
 

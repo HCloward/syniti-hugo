@@ -8,11 +8,11 @@ solution = 'Data Quality'
 Before performing this task:
 
   - [Configure the Comparison Approval
-    Setting](Configure_the_Comparison_Approval_Setting.htm)
+    Setting](Configure_the_Comparison_Approval_Setting)
   - [Register the CompareIns Stored
-    Procedure](Register_the_CompareIns_Stored_Procedure.htm)
+    Procedure](Register_the_CompareIns_Stored_Procedure)
   - [Create a Request for Comparison
-    Approval](Create_a_Request_for_Comparison_Approval.htm)
+    Approval](Create_a_Request_for_Comparison_Approval)
 
 The Comparison Approval functionality allows the Review role user to see
 both the current SAP field value as well as the value the field will be
@@ -34,7 +34,7 @@ update and then clicking **Save**.
 
 After Comparison Approval is complete, the request can be processed like
 any other request. Refer to [Review Request
-Data](Review_Request_Data.htm), [Correct Rejected
-Records](Correct_Rejected_Records.htm) and [Post Request Data to the
-Target ERP System](Post_Request_Data_to_a_Target_ERP_System.htm) for
+Data](Review_Request_Data), [Correct Rejected
+Records](Correct_Rejected_Records) and [Post Request Data to the
+Target ERP System](Post_Request_Data_to_a_Target_ERP_System) for
 more information.

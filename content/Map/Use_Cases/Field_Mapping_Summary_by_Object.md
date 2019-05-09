@@ -13,23 +13,23 @@ When the chart is accessed from the Field Mapping by Wave & Process Area
 chart, these counts are for all Objects in the selected Process Area.
 
 When the chart is accessed from the
-<span style="font-style: italic;">[Objects](../Page_Desc/Objects_map.htm)</span>
+<span style="font-style: italic;">[Objects](../Page_Desc/Objects_map)</span>
 page in Map counts display for the selected Process Area only.
 
 Hover a cursor over a section of a chart to view the count of mappings
 for that status.
 
 Click the bar to drill down to the [Field Mapping Summary by
-Target](Field_Mapping_Summary_by_Target.htm) chart.
+Target](Field_Mapping_Summary_by_Target) chart.
 
-Refer to [View Dashboards in Map](View_Dashboards_in_Map.htm) for
+Refer to [View Dashboards in Map](View_Dashboards_in_Map) for
 general information about chart features.
 
 To access the chart in Map:
 
 1.  Click **Map** in the Context bar.
 2.  Click the **Objects** icon on the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page.
 3.  Click the **Summary Field Mapping** icon for an Object.
 
 To access the chart from the Field Mapping by Wave & Process Area chart:

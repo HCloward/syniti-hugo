@@ -16,12 +16,12 @@ This section contains the following topics:
 
 A Designer uses the <span style="font-style: italic;">[Category Import
 View
-Configuration](../Page_Desc/Category_Import_View_Configuration.htm)</span>
+Configuration](../Page_Desc/Category_Import_View_Configuration)</span>
 page to import a task view for a category.
 
 Before performing this task, the design process must be complete and a
 task must be defined in the Content WebApp. Refer to [dspConduct™ Design
-Process Overview](dspConduct_Design_Process_Overview.htm) for more
+Process Overview](dspConduct_Design_Process_Overview) for more
 information.
 
 To import a task view for a category in dspConduct™:
@@ -36,7 +36,7 @@ To import a task view for a category in dspConduct™:
     
     *[View the field descriptions for the Category Import View
     Configuration
-    page.](../Page_Desc/Category_Import_View_Configuration.htm)*
+    page.](../Page_Desc/Category_Import_View_Configuration)*
 
 4.  Select a task view to import from the **TASK IMPORT VIEW** list box.
 
@@ -48,7 +48,7 @@ To import a task view for a category in dspConduct™:
 7.  Click the **Import Tasks** icon.
     
     *[View the field descriptions for the Task Import Staging
-    page.](../Page_Desc/Task_Import_Staging.htm)*
+    page.](../Page_Desc/Task_Import_Staging)*
     
     **NOTE:** The task records in the view are compared to the task
     records in the WebApp. If the Action field is Change, the task
@@ -83,7 +83,7 @@ includes the column settings for the variant.
 
 Before performing this task, the design process must be complete and a
 task must be defined in the Content WebApp. Refer to [dspConduct™ Design
-Process Overview](dspConduct_Design_Process_Overview.htm) for more
+Process Overview](dspConduct_Design_Process_Overview) for more
 information.
 
 To import a variant view for a category in dspConduct™:
@@ -98,7 +98,7 @@ To import a variant view for a category in dspConduct™:
     
     *[View the field descriptions for the Category Import View
     Configuration
-    page.](../Page_Desc/Category_Import_View_Configuration.htm)*
+    page.](../Page_Desc/Category_Import_View_Configuration)*
 
 4.  Select a variant view to import from the **VARIANT IMPORT VIEW**
     list box.
@@ -111,7 +111,7 @@ To import a variant view for a category in dspConduct™:
 7.  Click the **Import Variants** icon.
     
     *[View the field descriptions for the Variant Import Staging
-    page.](../Page_Desc/Variant_Import_Staging.htm)*
+    page.](../Page_Desc/Variant_Import_Staging)*
     
     **NOTE**: The parent pane displays the variants in the view (the
     conditions for each column). The child pane displays column settings
@@ -142,7 +142,7 @@ To import a variant view for a category in dspConduct™:
 10. To update a column setting select the record and click **Edit**.
     
     *[View the field descriptions for the Variant Column Import Staging
-    page.](../Page_Desc/Variant_Column_Import_Staging.htm)*
+    page.](../Page_Desc/Variant_Column_Import_Staging)*
 
 11. Select the default value for the column from the **CONTROL STATUS**
     list box.

@@ -22,7 +22,7 @@ To update project data for a dspTrack™ plan:
 
 **NOTE**: The critical path in dspTrack™ can be updated from MSProject
 without requiring an export and import of data. Refer to [Calculate the
-Critical Path for a Plan](Calculate_the_Critical_Path_for_a_Plan.htm)
+Critical Path for a Plan](Calculate_the_Critical_Path_for_a_Plan)
 for more information.
 
 Data can pass between dspTack™ and MSProject when:
@@ -41,8 +41,8 @@ Data can pass between dspTack™ and MSProject when:
     project](#A_project_file_is_Exported_from_dspTrack__and_Imported_into_MSProject_to_Update_MSProject_Data_)
 
 Refer to [Required Column for
-Import](Required_Columns_for_Import.htm)<span> </span>and [Export a
-Project File](Export_a_Project_File.htm) for more information about
+Import](Required_Columns_for_Import)<span> </span>and [Export a
+Project File](Export_a_Project_File) for more information about
 which columns are imported into and exported from
 dspTrack™.
 
@@ -52,10 +52,10 @@ dspTrack™.
 dspTrack™ to create a new plan, all data comes from MSProject.
 
 dspTrack™ sets the task status for each task. Refer to [Task Status on
-Import](../Page_Desc/Task_Status_on_Import.htm) for more information.
+Import](../Page_Desc/Task_Status_on_Import) for more information.
 
 Refer to [Import Project Files into
-dspTrack™](Import_Project_Files_into_dspTrack.htm) for more
+dspTrack™](Import_Project_Files_into_dspTrack) for more
 information.
 
 ### <span id="MSProject_File_is_Imported_into_dspTrack__to_Update_an_Existing_Plan"></span><span style="font-size: 14.0pt;">MSProject File is Imported into dspTrack™ to Update an Existing</span><span> </span><span class="Heading2Char" style="font-size: 14.0pt;">Plan</span>
@@ -90,14 +90,14 @@ update occur in dspTrack™:
       - The planned start date, planned finish date, actual start date
         or actual finish date are updated in the MSProject file.
 
-Refer to [Receive Workflow Messages](Receive_Workflow_Messages.htm) for
+Refer to [Receive Workflow Messages](Receive_Workflow_Messages) for
 more information.
 
 If data for any other imported field has been updated in the MSProject
 file, that data will be updated in dspTrack™.
 
 Refer to [Import Project Files into
-dspTrack™](Import_Project_Files_into_dspTrack.htm) for more
+dspTrack™](Import_Project_Files_into_dspTrack) for more
 information.
 
 ### <span id="A_project_file_is_Exported_from_dspTrack__and_Imported_into_MSProject_to_Update_MSProject_Data_"></span>A project file is Exported from dspTrack™ and Imported into MSProject to Update MSProject Data<span> </span>
@@ -105,7 +105,7 @@ information.
 All data exported from dspTrack™ updates MSProject data when it is
 imported into MSProject.
 
-Refer to [Export a Project File](Export_a_Project_File.htm) for
+Refer to [Export a Project File](Export_a_Project_File) for
 information about which columns are exported from
 dspTrack™.
 

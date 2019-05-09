@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Add Contacts for an
-Object](../Use_Cases/Configure_Object.htm#Add).
+Object](../Use_Cases/Configure_Object#Add).
 
 </div>
 
@@ -27,10 +27,10 @@ Object.
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Field         | Description                                                                                                                                                                           |
 | CONTACT       | Displays the contact name. This contact may or may not be registered in the Platform.                                                                                                 |
-| POSITION      | Displays the contact’s position. These options are set on the *[List Value Configuration](List_Value_Configuration.htm)* page and can be edited.                                      |
+| POSITION      | Displays the contact’s position. These options are set on the *[List Value Configuration](List_Value_Configuration)* page and can be edited.                                      |
 | PHONE         | Displays the contact’s phone number.                                                                                                                                                  |
 | EMAIL         | Displays the contact’s email address.                                                                                                                                                 |
 | LOCATION      | Displays the contact’s location.                                                                                                                                                      |
 | TIME ZONE     | Displays the time zone the contact works in.                                                                                                                                          |
 | COMMENT       | Displays user-entered comments about the contact.                                                                                                                                     |
-| SEND WORKFLOW | If checked, the contact will receive an email if a record is added on the *[Object Decisions](Object_Decisions_H.htm)* page and the **WORKFLOW** check box is enabled for the record. |
+| SEND WORKFLOW | If checked, the contact will receive an email if a record is added on the *[Object Decisions](Object_Decisions_H)* page and the **WORKFLOW** check box is enabled for the record. |

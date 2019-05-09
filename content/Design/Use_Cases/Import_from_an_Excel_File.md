@@ -9,23 +9,23 @@ The design of a Target can be imported from an Excel file. A user must
 download a formatted template, add data and import the Excel file.
 
 Import is also allowed from a System Type or database tables. Refer to
-[Import Target Design from a System Type](Import_from_a_System_Type.htm)
-and [Import Target Design from a Database](Import_from_a_Database.htm)
+[Import Target Design from a System Type](Import_from_a_System_Type)
+and [Import Target Design from a Database](Import_from_a_Database)
 for more information.
 
 After a successful import, the table displays on the
-*[Targets](../Page_Desc/Targets_H_Design.htm)* page in Target Design,
+*[Targets](../Page_Desc/Targets_H_Design)* page in Target Design,
 with 'tt' appended to the front of the table name. When a user selects
 the Target on the *Targets* page, the fields in the Target table (i.e.,
 the fields entered in the Excel file) display on the *[Target
-Fields](../Page_Desc/Target_Fields_H_Target_Design.htm)* page.
+Fields](../Page_Desc/Target_Fields_H_Target_Design)* page.
 
 When an Excel file is imported, the fields marked as key in the Excel
 file have the KEY FIELD, VERIFY POST LOAD and the ACTIVE check box
 enabled by default. Additionally, the REQUIRED field is set to Technical
 Required and the CRITICALITY is set to High. Other fields must be made
 active to be used in the Target. Refer to [Activate and Deactivate
-Target Fields for Mapping](Activate_Fields_for_Map.htm) for more
+Target Fields for Mapping](Activate_Fields_for_Map) for more
 information.
 
 **NOTE:** The uploaded Excel file is saved to the import file data
@@ -41,7 +41,7 @@ To edit the import path in Target Design:
 2.  Click **Edit**.
     
     *[View the field descriptions for the Target Import Configuration
-    page](../Page_Desc/Target_Import_Configuration.htm)*
+    page](../Page_Desc/Target_Import_Configuration)*
 
 3.  Select a path in the **IMPORT FILE DATASOURCE** list box.
 
@@ -149,7 +149,7 @@ the following table.
 </tr>
 <tr class="even">
 <td><p>Priority</p></td>
-<td><p>Enter a number for the order that the table should be processed and the order the table displays on the <em><a href="../Page_Desc/Targets_H_Design.htm">Targets</a></em> page in Target Design.</p></td>
+<td><p>Enter a number for the order that the table should be processed and the order the table displays on the <em><a href="../Page_Desc/Targets_H_Design">Targets</a></em> page in Target Design.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Description</p></td>

@@ -17,12 +17,12 @@ successfully, dspCompose™ resets the validation count.
 <span style="font-weight: bold;">NOTE:</span> For the Validate button to
 display on the <span style="font-style: italic;">Request (Roles)</span>
 page, validations must exist for the template. Refer to [Add Validations
-to Roles](Add_Validations_to_Roles.htm)  for more information.
+to Roles](Add_Validations_to_Roles)  for more information.
 
 **NOTE:** To set a validation threshold and contacts at the template
 level, the template must not be active or must be in Developer Mode.
 Refer to [Modify an Active Template in Developer
-Mode](Modify_an_Active_Template_in_Developer_Mode.htm) for more
+Mode](Modify_an_Active_Template_in_Developer_Mode) for more
 information.
 
 <span style="font-weight: bold;">NOTE:</span> This setting is not
@@ -44,7 +44,7 @@ To set a validation threshold and add contacts:
 6.  Click **Edit**.
     
     *[View the field descriptions for the Template (Role) page’s
-    Vertical View.](../Page_Desc/Template_Role_H.htm)*
+    Vertical View.](../Page_Desc/Template_Role_H)*
 
 7.  Enter a number in the **Validation Threshold** field.
     
@@ -61,7 +61,7 @@ To set a validation threshold and add contacts:
     
     [View the field descriptions for the Template (Role Validation
     Threshold Contact)
-    page](../Page_Desc/Template_Role_Validation_Threshold_Contact.htm)
+    page](../Page_Desc/Template_Role_Validation_Threshold_Contact)
 
 10. Select a user from the **USER ID** list box.
     

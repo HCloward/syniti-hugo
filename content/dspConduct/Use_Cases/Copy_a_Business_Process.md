@@ -28,7 +28,7 @@ To copy a business process:
     
     [View the field descriptions for the Copy Options tab on the
     Business Process page's Vertical
-    View](../Page_Desc/Business_Process_H.htm#Copy_Options)
+    View](../Page_Desc/Business_Process_H#Copy_Options)
 
 <!-- end list -->
 
@@ -39,4 +39,4 @@ To copy a business process:
 5.  Click **OK.**
 
 **NOTE:** The new business process displays on the [Business
-Process](../Page_Desc/Business_Process_H.htm) page.
+Process](../Page_Desc/Business_Process_H) page.

@@ -30,7 +30,7 @@ To populate values automatically:
     
     *[View the field descriptions for the Template (External Request
     Scenario)
-    page](../Page_Desc/Template_External_Request_Scenario.htm)*
+    page](../Page_Desc/Template_External_Request_Scenario)*
 
 6.  Enter a value in the **SUBJECT ALIAS** field.
     
@@ -63,7 +63,7 @@ To populate values automatically:
     
     **NOTE**: The REQUEST CONNECTION ID is the connection ID to use for
     the created request. Refer to [Establish a Target System
-    Connection](../../../Platform/Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview.htm)
+    Connection](../../../Platform/Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview)
     for more information.
 
 10. Click **Save**; the *Vertical* View displays.
@@ -104,7 +104,7 @@ To populate values automatically:
     with request-ready data will be mailed to the external data email
     account to create requests for this template. Refer to [Map Columns
     from the Template to Columns from the Excel
-    File](../../../Migration/Map/Use_Cases/Map_Columns_Template_to_Sprdsht.htm)
+    File](../../../Migration/Map/Use_Cases/Map_Columns_Template_to_Sprdsht)
     for more information.
     
       - The Staging Table Name field displays st\[Template
@@ -137,6 +137,6 @@ clicking Clear Staging Area, then click Build Staging
 Area.<span> </span>
 
 Refer to [Map Columns from the Scenario to Columns from the
-Spreadsheet](../../../Migration/Map/Use_Cases/Map_Columns_Template_to_Sprdsht.htm)
+Spreadsheet](../../../Migration/Map/Use_Cases/Map_Columns_Template_to_Sprdsht)
 for more information to continue configuring the external request
 scenario.

@@ -3,7 +3,7 @@
 <div class="use">
 
 Use this page to [Assign Project Distribution Rules using Custom
-Attributes](../Use_Cases/Assign_Prjt_Distrib_Rules_Custom_Attribs.htm).
+Attributes](../Use_Cases/Assign_Prjt_Distrib_Rules_Custom_Attribs).
 
 </div>
 

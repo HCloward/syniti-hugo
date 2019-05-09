@@ -31,7 +31,7 @@ To copy a project:
 5.  Click **Edit**.
     
     [View the field descriptions for the Copy Project
-    page](../Page_Desc/Copy_Project.htm)
+    page](../Page_Desc/Copy_Project)
 
 6.  Enter a suffix in the **Task Copy Suffix** field if the names of all
     copied tasks should have a suffix.

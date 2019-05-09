@@ -18,7 +18,7 @@ To register a report:
 3.  Click **Add**.
     
     [View the field descriptions for the Repository Reports page's
-    Vertical View](../Page_Desc/Repository_Reports_H.htm)
+    Vertical View](../Page_Desc/Repository_Reports_H)
 
 4.  Select a report from **Report** list box.
 
@@ -69,7 +69,7 @@ To register a report:
     
     **NOTE:** Additional Quality Dimensions can be added. Refer to
     [Register Quality
-    Dimensions](Populate_Configuration_Tables.htm#Register_Quality_Dimensions)
+    Dimensions](Populate_Configuration_Tables#Register_Quality_Dimensions)
     for more information.
 
 11. Update **Status** field if default value is not applicable. Values
@@ -116,10 +116,10 @@ To register a report:
     list box. (optional)
     
     **NOTE:** If no threshold is selected the threshold ID set on the
-    *[Parameters](../Page_Desc/Parameters.htm)* page is used in the data
+    *[Parameters](../Page_Desc/Parameters)* page is used in the data
     quality score status calculation. Refer to [Register Data Quality
     Score
-    Thresholds](Populate_Configuration_Tables.htm#Register_Data_Quality_Score_Thresholds)
+    Thresholds](Populate_Configuration_Tables#Register_Data_Quality_Score_Thresholds)
     for more information.
 
 17. Click **Metric Data Information** tab.
@@ -129,7 +129,7 @@ To register a report:
     
     **NOTE:** Metric data can be tracked in order to determine how long
     an error exists in a report. Refer to [Track Error Records on
-    Reports](Track_Error_Records_on_Reports.htm) for detailed
+    Reports](Track_Error_Records_on_Reports) for detailed
     information.
 
 19. Click **Save**.

@@ -17,11 +17,11 @@ Registering and using targets includes the following actions:
   - [Refresh Target](#Refresh_Target)
   - [View Target Table Metrics](#View_Target_Table_Metrics)
 
-**NOTE**: A user can also [Copy a Target](Copy_a_Target_Collect.htm).
+**NOTE**: A user can also [Copy a Target](Copy_a_Target_Collect).
 
 **NOTE**: If using DBMoto, [Avoid Timeouts When Building a DBMoto®
 Target
-Connection](Avoid_Timeouts_When_Building_a_DBMoto_Target_Connection.htm).
+Connection](Avoid_Timeouts_When_Building_a_DBMoto_Target_Connection).
 
 ## <span id="Register_Targets"></span>Register Targets
 
@@ -35,7 +35,7 @@ To register a target:
 2.  Click **Add.**
     
     [View the field descriptions for the Targets
-    page](../Page_Desc/Targets_H_Collect.htm)
+    page](../Page_Desc/Targets_H_Collect)
 
 3.  Select a database from the **TARGET** list box.
     
@@ -48,7 +48,7 @@ To register a target:
 6.  Click **Edit**.
     
     [View the field descriptions for the Targets page's Vertical
-    View](../Page_Desc/Targets_H_Collect.htm)
+    View](../Page_Desc/Targets_H_Collect)
 
 7.  Update the **Collation Type** list box if the default value is not
     applicable.
@@ -83,7 +83,7 @@ To register a target:
     **NOTE:** If using Data Services, set the **Data Services Connection
     Type** at the Target-Source level. Refer to [Configure Source for
     SAP Data
-    Services](Register_and_Use_Sources.htm#Configure_Source_for_SAP_Data_Services)
+    Services](Register_and_Use_Sources#Configure_Source_for_SAP_Data_Services)
     section for detailed information.
     
     **NOTE:** Consider creating and registering an additional repository
@@ -129,7 +129,7 @@ password and RFC DLL process that utilize the DSN must be verified
 outside this process. If a target or a source system password changes,
 update the password in the connection table and [rebuild all the
 packages from the
-source](Register_and_Use_Sources.htm#Build_Package_for_Source).
+source](Register_and_Use_Sources#Build_Package_for_Source).
 
 Continue with Assign Target Security.
 
@@ -165,7 +165,7 @@ single target; therefore, multiple sources can be registered to a
 target.
 
 Refer to [Register Sources to
-Target](Register_and_Use_Sources.htm#Register_Sources_to_Target) for
+Target](Register_and_Use_Sources#Register_Sources_to_Target) for
 detailed information.
 
 Continue with Refresh Target.

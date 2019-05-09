@@ -9,7 +9,7 @@ solution = 'Migration'
 
 This page is used to document joins in the Target tables. Refer to [Add
 Relationship Joins to
-Sources](../../Map/Use_Cases/Add_Relationship_Joins_to_Source.htm) for
+Sources](../../Map/Use_Cases/Add_Relationship_Joins_to_Source) for
 more information.
 
 </div>
@@ -21,7 +21,7 @@ To access this page:
 2.  Select <span style="font-weight: bold;">Design </span>in the Context
     bar.
 3.  Click the <span style="font-weight: bold;">Targets</span>icon on the
-    *[Design](Design.htm)* page.
+    *[Design](Design)* page.
 4.  Click the <span style="font-weight: bold;">Vertical View</span> icon
     for a Target.
 5.  Click the <span style="font-weight: bold;">Target Table Join</span>

@@ -12,11 +12,11 @@ Tuesday and Thursday, or every October 19<sup>th</sup>.
 
 **NOTE:** If using a schedule to send workflow notifications from ISA,
 update the ISA parameter Days to Retain Files (ISA
-*[Parameters](../../../Data_Quality/ISA/Page_Desc/ISA_Parameters.htm)*
+*[Parameters](../../../Data_Quality/ISA/Page_Desc/ISA_Parameters)*
 page Basic Settings tab) so that it is at least equal to the number of
 days in the longest schedule registered to a Project Distribution. Refer
 to [Schedule Workflow
-Notifications](../../../Data_Quality/ISA/Use_Cases/Schedule_Workflow_Notifications.htm)
+Notifications](../../../Data_Quality/ISA/Use_Cases/Schedule_Workflow_Notifications)
 for more information.
 
 To create a schedule:
@@ -26,7 +26,7 @@ To create a schedule:
 2.  Click **Add**.
     
     [View the field descriptions for the Schedules
-    page](../Page_Desc/Schedules_H.htm)
+    page](../Page_Desc/Schedules_H)
 
 3.  Enter the name of schedule in the **Name** field.
     
@@ -51,7 +51,7 @@ To create a schedule:
 10. Click the link for the **Recurrence ID**.
     
     [View the field descriptions for the Schedule – Configure
-    page](../Page_Desc/Schedule_Configure.htm)
+    page](../Page_Desc/Schedule_Configure)
     
     **NOTE:** The fields available to configure the schedule vary
     according to the Recurrence ID.

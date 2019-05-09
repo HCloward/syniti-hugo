@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Set Up Connection
-Types](../Config/Set_up_Connection_Types.htm).
+Types](../Config/Set_up_Connection_Types).
 
 </div>
 
@@ -25,16 +25,16 @@ pane.
 | TARGET CONNECTION TYPE | Displays the database connection type for the target.                                                                                                                                |
 | OLE PROVIDER           | Displays name of OLE settings.                                                                                                                                                       |
 | ODBC DRIVER            | Displays name of driver used in the Windows ODBC setup for the DSN.                                                                                                                  |
-| Sources                | Click to open the <span style="font-style: italic;">[Source Connection Types](Source_Connection_Types_H.htm)</span> page to add, edit and delete sources connections for the target. |
+| Sources                | Click to open the <span style="font-style: italic;">[Source Connection Types](Source_Connection_Types_H)</span> page to add, edit and delete sources connections for the target. |
 
 ## <span id="Connection_Types_V"></span>Connection Types V
 
-[Connection Types H](Connection_Types_H.htm)
+[Connection Types H](Connection_Types_H)
 
 <div class="use">
 
 Use this page to [Set Up Connection
-Types](../Config/Set_up_Connection_Types.htm).
+Types](../Config/Set_up_Connection_Types).
 
 </div>
 

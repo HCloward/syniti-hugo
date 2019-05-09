@@ -9,38 +9,38 @@ A template represents a process that will be governed and executed using
 dspCompose™.
 
 All templates must belong to a team. Refer to [Create
-Teams](Create_Teams.htm) for more information.
+Teams](Create_Teams) for more information.
 
 ## Template Types
 
   - **BDC and GUI script templates** contain an SAP recording and can be
     reused for multiple requests. Scripts can either be recorded in SAP
     directly from dspCompose™ or imported from Integrate. Refer to
-    [Create a GUI Script Template](Create_a_GUI_Script_Template.htm) and
-    [Create a BDC Script Template](Create_a_BDC_Script_Template.htm) for
+    [Create a GUI Script Template](Create_a_GUI_Script_Template) and
+    [Create a BDC Script Template](Create_a_BDC_Script_Template) for
     more information.
   - **Templates based on Integrate templates** — dspCompose™ templates
     can also work with BDC or GUI scripts with multiple loops enabled.
     Refer to [Use dspCompose™ with Integrate Looped
-    Templates](Use_dspCompose_with_Integrate_Looped_Templates.htm) for
+    Templates](Use_dspCompose_with_Integrate_Looped_Templates) for
     more information.
   - **Custom templates** Refer to [Create a Custom
-    Template](Create_a_Custom_Template_dspCompose.htm) for more
+    Template](Create_a_Custom_Template_dspCompose) for more
     information.
 
 Advanced users access configuration settings to customize the template
 by adding the template on the *Templates* page. Refer to [Create a
 Template for Advanced
-Users](Create_a_Template_from_the_Templates_Page.htm) for more
+Users](Create_a_Template_from_the_Templates_Page) for more
 information.
 
 The user who creates the template has access to all of the template
 roles and can add users to the template roles. Refer to [Add Users to
-Templates](Add_Users_to_Templates.htm) for more information.
+Templates](Add_Users_to_Templates) for more information.
 
 Once a template has been created and generated, a user can view all of
 the associated data objects dspCompose™ created for the template. Refer
-to [View Data Objects](Data_Objects.htm) for more information.
+to [View Data Objects](Data_Objects) for more information.
 
 ## <span id="dspCompose_and_Integrate"></span>dspCompose™ and Integrate
 
@@ -62,16 +62,16 @@ template and process from Integrate.
 
 This section contains the following topics:
 
-  - [Create Teams](Create_Teams.htm)
-  - [Create a BDC Script Template](Create_a_BDC_Script_Template.htm)
-  - [Create a GUI Script Template](Create_a_GUI_Script_Template.htm)
-  - [Create a Custom Template](Create_a_Custom_Template_dspCompose.htm)
+  - [Create Teams](Create_Teams)
+  - [Create a BDC Script Template](Create_a_BDC_Script_Template)
+  - [Create a GUI Script Template](Create_a_GUI_Script_Template)
+  - [Create a Custom Template](Create_a_Custom_Template_dspCompose)
   - [Create a Template from an Integrate
-    Template](Create_a_Tempate_from_an_Integrate_Template.htm)
+    Template](Create_a_Tempate_from_an_Integrate_Template)
   - [Create a Template for Advanced
-    Users](Create_a_Template_from_the_Templates_Page.htm)
-  - [Data Objects](Data_Objects.htm)
+    Users](Create_a_Template_from_the_Templates_Page)
+  - [Data Objects](Data_Objects)
 
 Once a template is created, it requires additional configuration by the
 Template Administrator. Refer to [Configure
-Templates](Configure_Templates.htm) for more information.
+Templates](Configure_Templates) for more information.

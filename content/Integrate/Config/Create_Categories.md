@@ -18,7 +18,7 @@ To create a category:
 2.  Click **Add** on Page toolbar.
     
     *[View the field descriptions for the Categories
-    page.](../Page_Desc/Category.htm)*
+    page.](../Page_Desc/Category)*
 
 3.  Enter a category name in **CATEGORY**.
 
@@ -28,7 +28,7 @@ To create a category:
 
 After creating a category, create a template for the category. Refer to
 [*<span style="color: #0000ff;font-style: normal;">Create a Basic
-Template</span>*](../Use_Cases/Create_a_Basic_Template.htm) for more
+Template</span>*](../Use_Cases/Create_a_Basic_Template) for more
 information.
 
 **NOTE**: To delete a category, no processes or templates can be

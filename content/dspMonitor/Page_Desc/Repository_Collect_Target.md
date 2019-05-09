@@ -8,7 +8,7 @@ solution = 'Data Quality'
 <div class="use">
 
 Use this page to [Register Collect Targets to a Report
-Repository](../Use_Cases/Register_Collect_Targets_to_a_Report_Repository.htm).
+Repository](../Use_Cases/Register_Collect_Targets_to_a_Report_Repository).
 
 </div>
 
@@ -39,7 +39,7 @@ To access this page:
 <tr class="odd">
 <td><p>COLLECT TARGET</p></td>
 <td><p>Displays the name of the collect target associated with the report repository.</p>
-<p><strong>NOTE:</strong> Only Collect targets with sources that are active on the <em><a href="../../../Platform/Collect/Page_Desc/Target_Sources_H_Collect.htm">Target Sources</a></em> page are displayed.</p></td>
+<p><strong>NOTE:</strong> Only Collect targets with sources that are active on the <em><a href="../../../Platform/Collect/Page_Desc/Target_Sources_H_Collect">Target Sources</a></em> page are displayed.</p></td>
 </tr>
 <tr class="even">
 <td><p>INCLUDED</p></td>
@@ -47,7 +47,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Configure Thresholds</p></td>
-<td><p>Click to open the <em><a href="Target_Table_Threshold.htm">Target Table Threshold</a></em> page to set reporting thresholds at the target level.</p>
+<td><p>Click to open the <em><a href="Target_Table_Threshold">Target Table Threshold</a></em> page to set reporting thresholds at the target level.</p>
 <p><strong>NOTE:</strong> The thresholds set at target table level are global for the target across all repositories using the Collect target.</p></td>
 </tr>
 </tbody>

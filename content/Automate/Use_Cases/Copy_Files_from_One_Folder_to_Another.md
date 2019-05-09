@@ -7,8 +7,8 @@ solution = 'Platform'
 
 Before performing this task:
 
-  - [Add Logical Paths](Add_Logical_Paths.htm)
-  - [Add File Operations](Add_File_Operations.htm)
+  - [Add Logical Paths](Add_Logical_Paths)
+  - [Add File Operations](Add_File_Operations)
 
 To copy files from one folder to another in Automate:
 
@@ -19,7 +19,7 @@ To copy files from one folder to another in Automate:
 3.  Click **Add**.
     
     [View the field description for the Interface Events
-    page](../Page_Desc/Interface_Events.htm)
+    page](../Page_Desc/Interface_Events)
 
 4.  Enter a value in the **PRIORITY** field.
     
@@ -36,7 +36,7 @@ To copy files from one folder to another in Automate:
 8.  Click **Save**; the *Vertical* View displays.
     
     [View the field description for the Interface Events page’s Vertical
-    View](../Page_Desc/Interface_Events.htm#InterfaceEventsV)
+    View](../Page_Desc/Interface_Events#InterfaceEventsV)
 
 9.  Select **FileIterator** from the **Event** list box.
 

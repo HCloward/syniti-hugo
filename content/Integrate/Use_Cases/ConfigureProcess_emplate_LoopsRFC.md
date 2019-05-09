@@ -18,7 +18,7 @@ RFC templates. 
 return values to other templates assigned to a process. Refer to
 [*<span style="color: #0000ff;font-style: normal;">Post Data Using
 Transaction
-Stringing</span>*](Post_Data_Using_Transaction_Stringing.htm) for more
+Stringing</span>*](Post_Data_Using_Transaction_Stringing) for more
 information.
 
 Once the RFC template has been created and added to a process, the
@@ -50,13 +50,13 @@ Objects feature to perform them automatically.
     should be read from/written to respectively
     
     **NOTE**: Refer to [View and Configure Field Mappings for a Process
-    Based on an RFC](VwConfigureFldMappingsProcRFC.htm) for more
+    Based on an RFC](VwConfigureFldMappingsProcRFC) for more
     information.
 
   - Configure the relationships for the all of the loops
     
     **NOTE**: Refer to [View and Configure Relationships for a Process
-    Bases on an RFC](VwConfigureRshpsProcRFC.htm) for more information.
+    Bases on an RFC](VwConfigureRshpsProcRFC) for more information.
 
 **NOTE**: If a process template contains a loop with more than 655
 columns (which may occur when working with a BAPI/RFC template type),
@@ -78,7 +78,7 @@ To configure process template loops:
 4.  Click the **Loops** icon for a process template.
     
     *[View the field descriptions for the Process Template Loop
-    page.](../Page_Desc/Process_Template_Loop.htm)*
+    page.](../Page_Desc/Process_Template_Loop)*
 
 **NOTE**: The number of loops displays on the **Loop** icon. 
 
@@ -149,7 +149,7 @@ To use the optional Auto Generate Database Objects feature:
     page.
     
     **NOTE**: Refer to [View and Configure Field Mappings for a Process
-    Based on an RFC](VwConfigureFldMappingsProcRFC.htm) for more
+    Based on an RFC](VwConfigureFldMappingsProcRFC) for more
     information.
 
 <!-- end list -->
@@ -157,7 +157,7 @@ To use the optional Auto Generate Database Objects feature:
   - Configures relationships for process template loops
     
     **NOTE**: Refer to [View and Configure Relationships for a Process
-    Bases on an RFC](VwConfigureRshpsProcRFC.htm) for more information.
+    Bases on an RFC](VwConfigureRshpsProcRFC) for more information.
 
 <!-- end list -->
 

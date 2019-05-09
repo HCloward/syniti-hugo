@@ -11,7 +11,7 @@ V](#Category_Workflow_Language_Message_V)
 <div class="use">
 
 Use this page to [Edit Category Language-specific
-Messages](../Config/Edit_Category_Language_specific_Messages.htm).
+Messages](../Config/Edit_Category_Language_specific_Messages).
 
 </div>
 
@@ -62,14 +62,14 @@ To access this page:
 <p>If disabled, the message is not sent.</p>
 <p><strong>NOTE:</strong> The check box is selected by default for all default events with the exception of the LateNotify event.</p>
 <p><strong>NOTE:</strong> The LateSummary Event sends a summary email that contains links to Requests that have late roles. The LateNotify event sends individual emails for each late role. If both of these events are enabled, a user receives both a summary email and individual emails for each late Role. It is recommended that either LateNotify Event or LateSummary Event be activated but not both.</p>
-<p>Refer to <a href="../Config/Set_Up_SLA_Notifications.htm">Set up SLA Notifications in dspConduct™</a> for more information on SLAs, which  determine when a request is late.</p></td>
+<p>Refer to <a href="../Config/Set_Up_SLA_Notifications">Set up SLA Notifications in dspConduct™</a> for more information on SLAs, which  determine when a request is late.</p></td>
 </tr>
 </tbody>
 </table>
 
 ## <span id="Category_Workflow_Language_Message_V"></span>Category Workflow Language Message V
 
-[Workflow Language Message H](Category_Workflow_Language_Message_H.htm)
+[Workflow Language Message H](Category_Workflow_Language_Message_H)
 
 <table>
 <tbody>

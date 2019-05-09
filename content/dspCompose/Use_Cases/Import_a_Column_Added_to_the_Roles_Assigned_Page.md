@@ -18,7 +18,7 @@ process.
 **NOTE**: If columns are removed from the platform page assigned to the
 template role, the columns must be manually removed on the *[Template
 (Role Excel Column
-Control)](../Page_Desc/Template_Role_Excel_Column_Control_H.htm)* page.
+Control)](../Page_Desc/Template_Role_Excel_Column_Control_H)* page.
 
 To import columns:
 

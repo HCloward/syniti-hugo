@@ -10,7 +10,7 @@ V](#Wave_Process_Area_Gate1)
 
 <div class="use">
 
-Use this page to [View Metrics](../Use_Cases/View_Metrics_Map.htm).
+Use this page to [View Metrics](../Use_Cases/View_Metrics_Map).
 
 </div>
 
@@ -21,10 +21,10 @@ To access this page:
 2.  Click <span style="font-weight: bold;">Map </span>in the Context
     bar.
 3.  Click the <span style="font-weight: bold;">Metrics</span> icon on
-    the *[Process Area Launch](Process_Area_Launch_map.htm)* page.
+    the *[Process Area Launch](Process_Area_Launch_map)* page.
 4.  Click the<span style="font-weight: bold;"> Gate Field Mapping</span>
     icon on the *[Metrics and Reports
-    Landing](Metrics_and_Reports_Landing.htm)* page.
+    Landing](Metrics_and_Reports_Landing)* page.
 
 <table>
 <tbody>
@@ -51,7 +51,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>MAPPING COMPLETED</p></td>
-<td><p>Displays the number of field mappings with a MAPPING STATUS set to Complete and a RULE STATUS set to Complete on the <em><a href="Field_Mappings_H.htm">Field Mappings</a></em> page.</p></td>
+<td><p>Displays the number of field mappings with a MAPPING STATUS set to Complete and a RULE STATUS set to Complete on the <em><a href="Field_Mappings_H">Field Mappings</a></em> page.</p></td>
 </tr>
 <tr class="odd">
 <td><p>MAPPING TOTAL</p></td>
@@ -79,7 +79,7 @@ H](#Wave_Proc_Area_Gate_Metrics_Field_Mapping_H)
 
 <div class="use">
 
-Use this page to [View Metrics](../Use_Cases/View_Metrics_Map.htm).
+Use this page to [View Metrics](../Use_Cases/View_Metrics_Map).
 
 </div>
 
@@ -114,7 +114,7 @@ Field Active
 
 Displays the number of fields that have the ACTIVE check box enabled on
 the *[Target
-Fields](../../Design/Page_Desc/Target_Fields_H_Target_Design.htm)* page.
+Fields](../../Design/Page_Desc/Target_Fields_H_Target_Design)* page.
 
 Field Total
 
@@ -175,7 +175,7 @@ the *Field Mappings* page in Map for all Targets in the context. 
 Target Rule Total
 
 Displays the number of Target rules on the *[Field
-Mappings](Field_Mappings_H.htm)* page in Map for all Targets in the
+Mappings](Field_Mappings_H)* page in Map for all Targets in the
 context.
 
 Target Rule Mapping Group Completed

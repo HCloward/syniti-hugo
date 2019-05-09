@@ -37,7 +37,7 @@ To update External Role contacts for a request:
 6.  Click **Edit**.
     
     *[View the field descriptions for the Request (External Role
-    Contacts) page.](../Page_Desc/Request_External_Role_Contacts.htm)*
+    Contacts) page.](../Page_Desc/Request_External_Role_Contacts)*
 
 7.  Enter the name in the **CONTACT NAME** field.
     
@@ -52,7 +52,7 @@ To update External Role contacts for a request:
     the ExternalData event. Language-specific messages are added on the
     *Workflow Message* page and the *Workflow Language Message* page.
     Refer to [Configure Workflow
-    Messages](../Config/Configure_Workflow_Messages.htm) for more
+    Messages](../Config/Configure_Workflow_Messages) for more
     information.
 
 10. Click **Save**.
@@ -84,7 +84,7 @@ To update External Role contacts for a request:
 
 **NOTE:** The **Roles** button will not be active until both the
 External Contacts and the Org Units have been confirmed. Refer to [Use
-Org Units](Use_Org_Units.htm) for more information.
+Org Units](Use_Org_Units) for more information.
 
 Once this request is activated, dspCompose™ sends the spreadsheet to the
 user designated as the external contact for the External Data role. This

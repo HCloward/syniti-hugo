@@ -19,7 +19,7 @@ To view results:
 4.  Click **Results** on Page toolbar.
     
     [View the field descriptions for the Results
-    page](../../../Platform/Common/Page_Desc/Results.htm)
+    page](../../../Platform/Common/Page_Desc/Results)
 
 5.  Review the **RESULT STATUS** to determine if there are unresolved
     candidates that must be reviewed. Options are:
@@ -37,11 +37,11 @@ To view results:
     
     1.  Add the business user to the Common WebApp, then add the user to
         the Analyze WebApp Group. Refer to [Assign Users to WebApp
-        Groups](../../../Platform/Sys_Admin/Use_Cases/Assign_Users_to_WebApp_Groups.htm)
+        Groups](../../../Platform/Sys_Admin/Use_Cases/Assign_Users_to_WebApp_Groups)
         in System Administration for more information.
     2.  Assign a user-specific security definition to each business
         user. Add the Analyze data source(s) that are used in the
         Duplicate Detection process as a key to each user’s security
         definition. Refer to [Establish User-specific Security
-        Definitions](../../../Platform/Sys_Admin/Use_Cases/Establish_UserSpecific_Security_Definitions.htm)
+        Definitions](../../../Platform/Sys_Admin/Use_Cases/Establish_UserSpecific_Security_Definitions)
         in System Administration for more information.

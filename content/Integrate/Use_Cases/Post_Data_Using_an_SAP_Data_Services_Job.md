@@ -12,13 +12,13 @@ Data Services Repository and a job name) when posting data.
 
 For general information about SAP Data Services Job templates, refer to
 [Post Data Using  an SAP Data Services Job
-Overview](Post_Data_Using_an_SAP_Data_Services_Job_Overview.htm).
+Overview](Post_Data_Using_an_SAP_Data_Services_Job_Overview).
 
 Before performing this task, [create a
-template,](Create_an_SAP_Data_Services_Job_template.htm)[activate the
-template](Activate_the_Template_DS_Job.htm), [add the template to a
-process](Add_the_Template_to_a_Process_DSJob.htm) and [activate the
-process](Activate_the_Process_DS_Job.htm).
+template,](Create_an_SAP_Data_Services_Job_template)[activate the
+template](Activate_the_Template_DS_Job), [add the template to a
+process](Add_the_Template_to_a_Process_DSJob) and [activate the
+process](Activate_the_Process_DS_Job).
 
 When a process is posted with an SAP Data Services Job template,
 Integrate runs the  tx\*Int view mapped at the Process – Template – Loop
@@ -42,7 +42,7 @@ posting with a multi-template process). When a process template that has
 an After Post rule registered posts successfully, the data is passed to
 the next dependent process template as an input parameter. Refer to
 [Register After Post Rules to a Process
-Template](Register_After_Post_Rules_to_a_Process_Template_Overview.htm)
+Template](Register_After_Post_Rules_to_a_Process_Template_Overview)
 for more information.
 
 To edit a process post and post data for a process in Integrate:  
@@ -61,7 +61,7 @@ To edit a process post and post data for a process in Integrate:  
     displays.
     
     [View the field descriptions for the Process Post page’s Vertical
-    View.](../Page_Desc/Process_Post_H.htm#Process_Post_V_All_Tabs)
+    View.](../Page_Desc/Process_Post_H#Process_Post_V_All_Tabs)
 
 5.  Enter a where clause to restrict the data set in the
     <span style="font-weight: bold;">Where Clause</span> field.

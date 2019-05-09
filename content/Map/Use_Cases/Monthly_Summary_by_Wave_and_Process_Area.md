@@ -16,14 +16,14 @@ Hover a cursor over a data point to view the number of field mappings in
 that status for the Wave and Process Area for that month.
 
 Click the line for a Wave and Process Area to drill down to the
-*[Objects](../Page_Desc/Objects_map.htm)* page to view the objects that
+*[Objects](../Page_Desc/Objects_map)* page to view the objects that
 are in the context. From here, drill down to other dashboards that
 display field mapping summaries at the object and target level.
 
-Refer to [Monthly Summary By Object](Monthly_Summary_by_Object.htm) for
+Refer to [Monthly Summary By Object](Monthly_Summary_by_Object) for
 more information.
 
-Refer to [View Dashboards in Map](View_Dashboards_in_Map.htm) for
+Refer to [View Dashboards in Map](View_Dashboards_in_Map) for
 general information about chart features.
 
 To access the chart in Map:
@@ -32,7 +32,7 @@ To access the chart in Map:
     bar.
 2.  Click the <span style="font-weight: bold;">Metrics </span>icon on
     the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page.
 3.  Click the <span style="font-weight: bold;">Metric Charts </span>icon
     on the *[Metrics and Reports
-    Landing](../Page_Desc/Metrics_and_Reports_Landing.htm)* page.
+    Landing](../Page_Desc/Metrics_and_Reports_Landing)* page.

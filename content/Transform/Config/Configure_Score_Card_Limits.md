@@ -22,7 +22,7 @@ To edit a Score Card Limit in Transform:
 2.  Click **Edit** for a score card limit.
     
     *[View the field descriptions for the Score Card Limits (Setup)
-    page](../Page_Desc/Score_Card_Limits_Setup.htm)*
+    page](../Page_Desc/Score_Card_Limits_Setup)*
 
 3.  Enter a value in the **SEVERITY** field.
 

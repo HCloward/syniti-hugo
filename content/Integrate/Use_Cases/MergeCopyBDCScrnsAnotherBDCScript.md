@@ -52,7 +52,7 @@ To merge all BDC screens with another BDC Script template:
 6.  Click **Edit**.
     
     *[View the field descriptions for the Copy
-    page.](../Page_Desc/Copy.htm)*
+    page.](../Page_Desc/Copy)*
 
 7.  Select a category name in the **Copy to Category** list box.
     
@@ -93,7 +93,7 @@ To copy a BDC screen to another BDC Script template:
 8.  Click **Edit**.
     
     *[View the field descriptions for the Copy
-    page.](../Page_Desc/Copy.htm)*
+    page.](../Page_Desc/Copy)*
 
 9.  Select a category name in the **Copy to Category** list box.
     

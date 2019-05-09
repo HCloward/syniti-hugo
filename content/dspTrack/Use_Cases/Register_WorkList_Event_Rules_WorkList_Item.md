@@ -10,12 +10,12 @@ Work List Event Rule can be added to a Work List Item using the Rules
 icon on this page.
 
 Work List Event Rules can also be registered at the
-[plan](Register_Work_List_Event_Rules_for_a_Plan.htm) level,  [Plan
-Task](Register_Work_List_Event_Rules_for_a_Plan_Task.htm) level or
-[tag](Configure_Logic_Tags.htm) level.
+[plan](Register_Work_List_Event_Rules_for_a_Plan) level,  [Plan
+Task](Register_Work_List_Event_Rules_for_a_Plan_Task) level or
+[tag](Configure_Logic_Tags) level.
 
 Refer to [Register Work List Event
-Rules](Register_Work_List_Event_Rules.htm) for more information about
+Rules](Register_Work_List_Event_Rules) for more information about
 viewing and editing all rules from one page, and about parameters that
 can be used in Work List Event Rules.
 
@@ -37,7 +37,7 @@ To add a Work List Event Rule to a Work List Item:
     
     [View the field descriptions for the Work List Event Rule - Work
     List Setup
-    page](../Page_Desc/Work_List_Event_Validations_Work_List_Setup_H.htm)
+    page](../Page_Desc/Work_List_Event_Validations_Work_List_Setup_H)
 
 3.  Enter a value in the **PRIORITY** field.
     
@@ -49,7 +49,7 @@ To add a Work List Event Rule to a Work List Item:
     
     **NOTE:** These options are data sources registered in Common. Refer
     to [Register a Data Source in
-    Common](../../Common/Use_Cases/Register_a_Data_Source_in_Common.htm)
+    Common](../../Common/Use_Cases/Register_a_Data_Source_in_Common)
     for more information.
 
 5.  Select the rule in the **RULE** list box.

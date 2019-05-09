@@ -5,7 +5,7 @@
 <div class="use">
 
 Use this page to [Download ISA Metrics Summary
-Information](../Use_Cases/Download_ISA_Metrics_Summary_Information.htm).
+Information](../Use_Cases/Download_ISA_Metrics_Summary_Information).
 
 </div>
 
@@ -17,12 +17,12 @@ this page depend on how the page is accessed.
 
   - If this page is accessed when a user drills down through the [Total
     Opportunities vs Failures
-    Summary](../Use_Cases/Total_Opportunities_vs._Failures_Summary.htm)
+    Summary](../Use_Cases/Total_Opportunities_vs._Failures_Summary)
     dashboard or the [Failure Percentage
-    Summary](../Use_Cases/Failure_Percentage_Summary.htm) dashboard, the
+    Summary](../Use_Cases/Failure_Percentage_Summary) dashboard, the
     rules and all rule bindings for the selected rule display.
   - If the page is accessed from the [Report Data Viewer
-    (](Report_Data_Viewer.htm)Report Data Viewer \> Reports \> Metrics
+    (](Report_Data_Viewer)Report Data Viewer \> Reports \> Metrics
     icon for a report) the data displays for the selected rule and rule
     binding only.
   - If the page is accessed by selecting **Advanced \> Metrics Summary**
@@ -53,7 +53,7 @@ this page depend on how the page is accessed.
 </tr>
 <tr class="odd">
 <td><p>RULE BINDING ID</p></td>
-<td><p>Displays the description of the rule binding. The description can be added on the <span style="font-style: italic;"><a href="Rule_Binding_List.htm">Rule Binding List</a></span> page.</p></td>
+<td><p>Displays the description of the rule binding. The description can be added on the <span style="font-style: italic;"><a href="Rule_Binding_List">Rule Binding List</a></span> page.</p></td>
 </tr>
 <tr class="even">
 <td><p>RECORD COUNT</p></td>
@@ -77,7 +77,7 @@ this page depend on how the page is accessed.
 
 ## <span><span id="Metric_Summary_V"></span>Metric Summary V</span>
 
-<span>[Metric Summary H](Metric_Summary_H.htm)</span>
+<span>[Metric Summary H](Metric_Summary_H)</span>
 
 <table>
 <colgroup>

@@ -13,7 +13,7 @@ can add this page in the Content WebApp for users to access.
 The diagram displays the:
 
   - Request status for the request selected on the
-    *[Request](../Page_Desc/Request.htm)* page
+    *[Request](../Page_Desc/Request)* page
   - Scenario to which the request belongs
   - Roles in the scenario
   - Status of each role (i.e., Finished or Not finished)

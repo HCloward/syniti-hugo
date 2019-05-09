@@ -70,7 +70,7 @@ To map a column from the staging table to a column in the template:
     
     [View the field descriptions for the Template (External Request
     Scenario Column)
-    page](../../dspCompose/Page_Desc/Template_External_Request_Scenario_Column.htm)
+    page](../../dspCompose/Page_Desc/Template_External_Request_Scenario_Column)
 
 <!-- end list -->
 
@@ -94,7 +94,7 @@ To map a column from the staging table to a fixed value:
     
     [View the field descriptions for the Template (External Request
     Scenario Column)
-    page](../../dspCompose/Page_Desc/Template_External_Request_Scenario_Column.htm)
+    page](../../dspCompose/Page_Desc/Template_External_Request_Scenario_Column)
     
     <span style="font-weight: bold;">NOTE</span>: The COLUMN NAME is the
     name of the table’s column in the template.
@@ -117,5 +117,5 @@ Steward-initiated request, the request uses the fixed value for this
 column in the table used for the first Data Entry role for the request.
 
 Refer to [Create a Request in dspCompose™ from the ISA Report Data
-Viewer Page](Create_a_Request_in_dspCompose_From_ISA.htm) for more
+Viewer Page](Create_a_Request_in_dspCompose_From_ISA) for more
 information.

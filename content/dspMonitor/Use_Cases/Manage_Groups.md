@@ -15,10 +15,10 @@ modified to allow more granularity in linking reports and users.
 
 This use case covers the following topics:
 
-  - [Create Groups](Create_Groups_dspMonitor.htm)
+  - [Create Groups](Create_Groups_dspMonitor)
 
-  - [Group Owner Responsibilities](Group_Owner_Responsibilities.htm)
+  - [Group Owner Responsibilities](Group_Owner_Responsibilities)
 
-  - [Register Reports to Groups](Register_Reports_to_Groups.htm)
+  - [Register Reports to Groups](Register_Reports_to_Groups)
 
-  - [Register Users to Groups](Register_Users_to_Groups.htm)
+  - [Register Users to Groups](Register_Users_to_Groups)

@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Add Table Join
-Relationships](../Use_Cases/Add_Table_Join_Relationships.htm).
+Relationships](../Use_Cases/Add_Table_Join_Relationships).
 
 </div>
 
@@ -23,7 +23,7 @@ To access this page:
 4.  Click **Fields** for join.
 
 **NOTE:** Excel Integration has been enabled on this page. Refer to [Use
-Excel Integration](../../Excel_Int/Use_Excel_Integration.htm) for more
+Excel Integration](../../Excel_Int/Use_Excel_Integration) for more
 information.
 
 <table>

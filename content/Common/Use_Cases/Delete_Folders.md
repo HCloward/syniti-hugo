@@ -20,7 +20,7 @@ To delete a folder:
     <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Toolkit: File/Folder Operations
-    page](../Page_Desc/Toolkit_File_Folder_Operations_H.htm)
+    page](../Page_Desc/Toolkit_File_Folder_Operations_H)
 
 2.  Enter source directory that is to be deleted in **IO DELETE SOURCE**
     field.

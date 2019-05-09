@@ -5,12 +5,12 @@ solution = 'Master Data Management'
 
 # Add a Role to a Scenario
 
-The [Scenario (Roles)](../Page_Desc/Scenarios_Roles_H.htm) page allows a
+The [Scenario (Roles)](../Page_Desc/Scenarios_Roles_H) page allows a
 Designer to assign one or more roles to a scenario. A role can be added
 to multiple scenarios.
 
-Before performing this task, [Create a Category](Create_a_Category.htm)
-and [Add a Scenario](Add_Scenario.htm).
+Before performing this task, [Create a Category](Create_a_Category)
+and [Add a Scenario](Add_Scenario).
 
 To add a role to a scenario in dspConduct™:
 
@@ -25,7 +25,7 @@ To add a role to a scenario in dspConduct™:
 4.  Click **Add**.
     
     [View the field descriptions for the Scenario (Roles)
-    page](../Page_Desc/Scenarios_Roles_H.htm)
+    page](../Page_Desc/Scenarios_Roles_H)
 
 5.  Select the role ID from the **ROLE ID** list box.
 
@@ -40,7 +40,7 @@ To add a role to a scenario in dspConduct™:
     
     **NOTE**: The Work Days, Work Hours, and Work Minute fields are
     optional. Refer to [Set up SLA notifications in
-    dspConduct™](../Config/Set_Up_SLA_Notifications.htm) for more
+    dspConduct™](../Config/Set_Up_SLA_Notifications) for more
     information about the prerequisites for setting up SLAs and how the
     SLAs work at the various levels for dspConduct™ elements.
 
@@ -70,4 +70,4 @@ To add a role to a scenario in dspConduct™:
 13. Click **Save**.
 
 Continue with [Add a Dependent Scenario to a
-Scenario](Add_a_Dependent_Scenario.htm).
+Scenario](Add_a_Dependent_Scenario).

@@ -14,7 +14,7 @@ To add a user:
 3.  Click **Users for a Distribution**.
     
     *[View the field descriptions for the Project Distribution Users
-    page.](../Page_Desc/Project_Distribution_Users.htm)*
+    page.](../Page_Desc/Project_Distribution_Users)*
     
     **NOTE**: If no records exist, the page displays in add mode.
     Otherwise, click **Add**.
@@ -22,7 +22,7 @@ To add a user:
 4.  Select a user from the **User ID** list box.
     
     **NOTE**: This list contains all users registered to ISA. Refer to
-    [Set Up Security for ISA](../Config/Set_Up_Security_for_ISA.htm) for
+    [Set Up Security for ISA](../Config/Set_Up_Security_for_ISA) for
     more information.
     
     **NOTE**: To be displayed in the User ID list box, the user account

@@ -7,7 +7,7 @@ solution = 'Migration'
 
 <div class="use">
 
-Use this page to [Set up ZSources.](../Config/Set_up_ZSources.htm)
+Use this page to [Set up ZSources.](../Config/Set_up_ZSources)
 
 </div>
 
@@ -24,4 +24,4 @@ pane.
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Field    | Description                                                                                                                                        |
 | Z SOURCE | Displays name of Source where data is being created.                                                                                               |
-| Users    | Click to open the <span style="font-style: italic;">[ZSourceUser](ZSourceUser.htm)</span> page to manage users who can create data for the Source. |
+| Users    | Click to open the <span style="font-style: italic;">[ZSourceUser](ZSourceUser)</span> page to manage users who can create data for the Source. |

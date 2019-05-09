@@ -10,7 +10,7 @@ teams, and all templates belong to a team. At least one team must exist
 before a template can be created.
 
 Users must be added to dspCompose to be added to a team. Refer to [Add
-Users to dspCompose™](../Config/Add_Users_to_dspCompose.htm) for more
+Users to dspCompose™](../Config/Add_Users_to_dspCompose) for more
 information.
 
 To create a team:
@@ -25,7 +25,7 @@ To create a team:
 2.  Click **Add**.
     
     *[View the field descriptions for the Team
-    page.](../Page_Desc/Team.htm)*
+    page.](../Page_Desc/Team)*
 
 3.  Enter a name in **TEAM NAME** field.
 

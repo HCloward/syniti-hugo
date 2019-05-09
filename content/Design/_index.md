@@ -17,10 +17,10 @@ Type, or Excel file, or can be added manually.
 
 To get started.
 
-  - [Access Design](Config/Access_Design.htm)
+  - [Access Design](Config/Access_Design)
   - [Set Up Security for
-    Design](../dspMigrate/Set_Up_Security_for_dspMigrate.htm)
+    Design](../dspMigrate/Set_Up_Security_for_dspMigrate)
   - [Add Custom Requirement
-    Settings](Config/Add_Custom_Requirement_Settings.htm)
+    Settings](Config/Add_Custom_Requirement_Settings)
   - [Add Custom Criticality
-    Levels](Config/Add_Custom_Criticality_Levels.htm)
+    Levels](Config/Add_Custom_Criticality_Levels)

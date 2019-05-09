@@ -17,7 +17,7 @@ When a Template Administrator deletes a template, dspCompose™ deletes
 all system-generated objects used by the template.
 
 If the template uses Org Units, additional objects related to Org Units
-are also generated. Refer to [Use Org Units](Use_Org_Units.htm) for more
+are also generated. Refer to [Use Org Units](Use_Org_Units) for more
 information.
 
 This topic contains the following sections:
@@ -45,7 +45,7 @@ validations in the dspCompose\_Data WebApp and database to prevent
 customizations from being overwritten during any upgrades.
 
 **NOTE:** Data objects cannot be added, edited or deleted for an active
-template. Refer to [Activate the Template](Activate_the_Template.htm)
+template. Refer to [Activate the Template](Activate_the_Template)
 for detailed information for activating and deactivating templates.
 
 To edit template objects after the template has been generated:
@@ -67,7 +67,7 @@ To edit template objects after the template has been generated:
 7.  Click **Edit** to make changes to an object if needed.
     
     *[View the field descriptions for the Template (Objects)
-    page.](../Page_Desc/Template_Objects.htm)*
+    page.](../Page_Desc/Template_Objects)*
 
 8.  Click **Save**.
 

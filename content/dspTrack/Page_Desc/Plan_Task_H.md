@@ -10,13 +10,13 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Add a Plan
-Task](../Use_Cases/Add_a_Plan_Task_Manually.htm).
+Task](../Use_Cases/Add_a_Plan_Task_Manually).
 
 </div>
 
 <span style="font-weight: bold;">NOTE:</span> Bulk Execution has been
 enabled on this page. Refer to [Use Bulk
-Execution](../../Bulk_Exec/Use_Bulk_Execution.htm) for more information.
+Execution](../../Bulk_Exec/Use_Bulk_Execution) for more information.
 
 To access this page:
 
@@ -32,7 +32,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Copy Plan Task</p></td>
-<td><p>Click to open the <em><a href="../Use_Cases/Copy_Plan_Task.htm">Copy Plan Task</a></em> page to copy the selected task to use as the basis for a new task.</p></td>
+<td><p>Click to open the <em><a href="../Use_Cases/Copy_Plan_Task">Copy Plan Task</a></em> page to copy the selected task to use as the basis for a new task.</p></td>
 </tr>
 <tr class="odd">
 <td><p>SCHEDULE STATUS</p></td>
@@ -42,7 +42,7 @@ To access this page:
 <li><strong>Yellow</strong> – the task has reached a threshold set to indicate that the task is in danger of being late.</li>
 <li><strong>Red</strong> – the task is late. If a given task is part of the critical path for a project, and a task before it in the critical path is late, then this given task will also display as late.</li>
 </ul>
-<p>Refer to <a href="../Use_Cases/Set_Parameters_for_Schedule_Status_Calculation.htm">Set Parameters for Schedule Status Calculation</a> for more information</p></td>
+<p>Refer to <a href="../Use_Cases/Set_Parameters_for_Schedule_Status_Calculation">Set Parameters for Schedule Status Calculation</a> for more information</p></td>
 </tr>
 <tr class="even">
 <td><p>NAME</p></td>
@@ -51,7 +51,7 @@ To access this page:
 <tr class="odd">
 <td><p>TASK STATUS</p></td>
 <td><p>Displays the status of the task in the workflow. Values are Ready, Waiting on Dependency, In Progress and Completed.</p>
-<p>Refer to <a href="Task_Status1.htm">Task Status</a> for more information.</p></td>
+<p>Refer to <a href="Task_Status1">Task Status</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>PLANNED START DATE</p></td>
@@ -72,26 +72,26 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Users</p></td>
-<td><p>Click to open the <em><a href="Plan_Task_User.htm">Plan Task User</a></em> page to assign resources to the task. The number on this icon is the number of users assigned to the task.</p></td>
+<td><p>Click to open the <em><a href="Plan_Task_User">Plan Task User</a></em> page to assign resources to the task. The number on this icon is the number of users assigned to the task.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Predecessor Tasks</p></td>
-<td><p>Click to open the <em><a href="Plan_Task_Dependency.htm">Plan Task Dependency</a></em> page to set up predecessor and successor relationships for the task. Refer to Use <a href="../Use_Cases/Use_Dependency_Types.htm">Dependency Types</a> for more information.</p>
+<td><p>Click to open the <em><a href="Plan_Task_Dependency">Plan Task Dependency</a></em> page to set up predecessor and successor relationships for the task. Refer to Use <a href="../Use_Cases/Use_Dependency_Types">Dependency Types</a> for more information.</p>
 <p>The number on this icon is the number of tasks that have a predecessor dependency with the selected task.</p></td>
 </tr>
 <tr class="even">
 <td><p>Assign Tags</p></td>
-<td><p>Click to open the <em><a href="Plan_Task_Tag_Assignment.htm">Plan Task Tag Assignment</a></em> page to assign tags to and remove tags from the selected task. Refer to <a href="../Use_Cases/Assign_a_Tag_to_Tasks.htm">Assign a Tag to Tasks</a> for more information.</p>
+<td><p>Click to open the <em><a href="Plan_Task_Tag_Assignment">Plan Task Tag Assignment</a></em> page to assign tags to and remove tags from the selected task. Refer to <a href="../Use_Cases/Assign_a_Tag_to_Tasks">Assign a Tag to Tasks</a> for more information.</p>
 <p>The number on this icon is the number of tags assigned to the selected task.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Rules</p></td>
-<td><p>Click to open the <em><a href="Work_List_Event_Rule%20Plan_Task.htm"><em>Work List Event Rule– Plan Task</em></a></em> page to add, edit and delete the rules that are executed for the task when work on the task starts or finishes.</p>
+<td><p>Click to open the <em><a href="Work_List_Event_Rule%20Plan_Task"><em>Work List Event Rule– Plan Task</em></a></em> page to add, edit and delete the rules that are executed for the task when work on the task starts or finishes.</p>
 <p>The number on this icon is the number of rules that have been added for the selected task.</p></td>
 </tr>
 <tr class="even">
 <td><p>Validations</p></td>
-<td><p>Click to open the <em><a href="Work_List_Event_Validations_Plan_Task.htm">Work List Event Validations-Plan Task</a></em> page to add, edit and delete the validations that are executed for the task when work on the task starts or finishes.</p>
+<td><p>Click to open the <em><a href="Work_List_Event_Validations_Plan_Task">Work List Event Validations-Plan Task</a></em> page to add, edit and delete the validations that are executed for the task when work on the task starts or finishes.</p>
 <p>The number on this icon is the number of validations that have been added for the selected task.</p></td>
 </tr>
 </tbody>
@@ -99,7 +99,7 @@ To access this page:
 
 ## <span id="Plan_Task_V"></span>Plan Task V
 
-[Plan Task H](Plan_Task_H.htm)
+[Plan Task H](Plan_Task_H)
 
 This page has the following tabs:
 
@@ -113,8 +113,8 @@ This page has the following tabs:
 Use this tab to
 
   - [Set Comment Requirements for
-    Tasks](../Use_Cases/Set_Comment_Requirements_for_Tasks.htm)
-  - [Add a Comment to a Task](../Use_Cases/Add_a_Comment_to_a_Task.htm)
+    Tasks](../Use_Cases/Set_Comment_Requirements_for_Tasks)
+  - [Add a Comment to a Task](../Use_Cases/Add_a_Comment_to_a_Task)
 
 </div>
 
@@ -134,7 +134,7 @@ Task Status
 
 Displays the status of the task. Values are Ready, Waiting on
 Dependency, In Progress, and Completed. Refer to [Task
-Status](Task_Status1.htm) for more information.
+Status](Task_Status1) for more information.
 
 Planned Start Date
 
@@ -151,13 +151,13 @@ Documentation
 Attachments
 
 Click to open the
-<span style="font-style: italic;">[Attachments](Attachments.htm)</span>page
+<span style="font-style: italic;">[Attachments](Attachments)</span>page
 to upload a file and download and view an uploaded file.
 
 Refer to [Upload Files for a Plan, Task or Work List
-Item](../Use_Cases/UpldFilesfoProjTaskWrkListItem.htm) and [Download and
+Item](../Use_Cases/UpldFilesfoProjTaskWrkListItem) and [Download and
 View Uploaded Files for a Plan, Task, or Work List
-Item](../Use_Cases/DownloadViewUploadedFiles.htm) for more information.
+Item](../Use_Cases/DownloadViewUploadedFiles) for more information.
 
 Require Comment
 
@@ -235,13 +235,13 @@ Late Comment
 Click to open the *Item Comment Code* page to add a late comment code
 and a comment to the task. Comment codes qualify the late reason for
 Plan Tasks, such as Error in Development or Pending Validation. Refer to
-[Use Comment Codes](../Use_Cases/Use_Comment_Codes.htm) for more
+[Use Comment Codes](../Use_Cases/Use_Comment_Codes) for more
 information.
 
 **NOTE**: Entering a late comment may be required, depending on how
 comment requirements for tasks are set. Refer to [Set Comment
 Requirements for
-Tasks](../Use_Cases/Set_Comment_Requirements_for_Tasks.htm) for more
+Tasks](../Use_Cases/Set_Comment_Requirements_for_Tasks) for more
 information.
 
 Audit Information
@@ -285,7 +285,7 @@ Progress.
 <td><p>Critical</p></td>
 <td><p>If enabled, the task is on the Critical Path. If this task is late, the schedule status of all other tasks in the Critical Path that are scheduled after this task are also late.</p>
 <p>This value can be set manually or when a project file is imported.</p>
-<p>Refer to<a href="../Use_Cases/Calculate_the_Critical_Path_for_a_Plan.htm"> Calculate the Critical Path for a Plan</a>  for more information.</p></td>
+<p>Refer to<a href="../Use_Cases/Calculate_the_Critical_Path_for_a_Plan"> Calculate the Critical Path for a Plan</a>  for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Milestone</p></td>
@@ -306,15 +306,15 @@ Progress.
 </tr>
 <tr class="even">
 <td><p>Predecessor Tasks</p></td>
-<td><p>Click to open the <em><a href="Plan_Task_Dependency.htm">Plan Task Dependency</a></em> page to add, edit and delete dependency relationships for the selected task.</p>
-<p><strong>NOTE</strong>: A predecessor dependency can affect Task Status on the Work List. Refer to <a href="../Use_Cases/Use_Dependency_Types.htm">Use Dependency Types</a> for more information.</p>
+<td><p>Click to open the <em><a href="Plan_Task_Dependency">Plan Task Dependency</a></em> page to add, edit and delete dependency relationships for the selected task.</p>
+<p><strong>NOTE</strong>: A predecessor dependency can affect Task Status on the Work List. Refer to <a href="../Use_Cases/Use_Dependency_Types">Use Dependency Types</a> for more information.</p>
 <p>The number on this icon is the number of tasks that have a predecessor dependency with the selected task.</p>
 <p>View dependencies for all tasks in the plan on the <em>Project Dependency</em> page.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Successor Tasks</p></td>
-<td><p>Click to open <em><a href="Plan_Task_Dependency_Successor.htm">Plan Task Dependency Successor</a></em> page to view a list of successor tasks related to the selected task.</p>
-<p><strong>NOTE</strong>: A successor Dependency can affect Task Status on the Work List. Refer to <a href="../Use_Cases/Use_Dependency_Types.htm">Use Dependency Types</a> for more information.</p>
+<td><p>Click to open <em><a href="Plan_Task_Dependency_Successor">Plan Task Dependency Successor</a></em> page to view a list of successor tasks related to the selected task.</p>
+<p><strong>NOTE</strong>: A successor Dependency can affect Task Status on the Work List. Refer to <a href="../Use_Cases/Use_Dependency_Types">Use Dependency Types</a> for more information.</p>
 <p>View dependencies for all tasks in the plan on the <em>Project Dependency</em> page.</p></td>
 </tr>
 </tbody>

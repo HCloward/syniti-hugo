@@ -29,14 +29,14 @@ If a chart is 3D, a 3D Controls icon is available to adjust the chart
 angles.
 
 Refer to [Full Construction and Enrichment
-Construction](Full_Construction_and_Enhanced_Construction.htm) for more
+Construction](Full_Construction_and_Enhanced_Construction) for more
 information.
 
 Construction charts include:
 
-  - [Field Construction by Wave](Field_Construction_by_Wave.htm)
+  - [Field Construction by Wave](Field_Construction_by_Wave)
   - [Field Construction by Wave & Process
-    Area](Field_Construction_by_Wave_Process_Area.htm)
-  - [Field Construction by Object](Field_Construction_by_Object.htm)
+    Area](Field_Construction_by_Wave_Process_Area)
+  - [Field Construction by Object](Field_Construction_by_Object)
   - [Field Construction by
-    Target](Field_Construction_by_Target_Construct.htm)
+    Target](Field_Construction_by_Target_Construct)

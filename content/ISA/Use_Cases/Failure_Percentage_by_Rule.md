@@ -5,7 +5,7 @@ and the percentage of total records that passed all rules broken out by
 rule and rule binding.
 
 <span style="font-weight: bold;">NOTE</span>: Refer to [View ISA
-Dashboards](View_ISA_Dashboards.htm) for general information about
+Dashboards](View_ISA_Dashboards) for general information about
 charts, including the type of data charts display, configuration of
 retention parameters for metrics and historical data, and how record
 counts differ on charts and reports.

@@ -8,13 +8,13 @@ solution = 'Data Quality'
 Before performing these steps:
 
 1.  [Post Data Using A
-    BAPI](../../../Platform/Integrate/Use_Cases/Post_Data_Using_a_BAPI.htm)
+    BAPI](../../../Platform/Integrate/Use_Cases/Post_Data_Using_a_BAPI)
 2.  [Create all tt Tables and Views for the BAPI
-    Process](Create_tt_Tables_and_Views_for_the_BAP_Process.htm)
+    Process](Create_tt_Tables_and_Views_for_the_BAP_Process)
 3.  [Create rt Tables From the tt Tables and Create Views for the BAPI
-    Process](CreatertTblsttTableCreateVwsBAPI.htm)
+    Process](CreatertTblsttTableCreateVwsBAPI)
 4.  [Create Custom Pages and Views for the BAPI
-    Process](Create_Custom_Pages_and_Views_for_the_BAPI_Process.htm)
+    Process](Create_Custom_Pages_and_Views_for_the_BAPI_Process)
 
 Once all the custom pages and their views are created, use them in
 dspCompose™ for the BAPI process.
@@ -28,7 +28,7 @@ To create the template:
 3.  Click **Add**.
     
     *[View the field descriptions for the Templates page’s Vertical
-    View.](../Page_Desc/Templates_H.htm#Templates_V_All_Tabs)*
+    View.](../Page_Desc/Templates_H#Templates_V_All_Tabs)*
 
 4.  Enter a name in **Template Name** field.
 
@@ -46,18 +46,18 @@ To create the template:
 10. Click **Add**.
     
     *[View the field descriptions for the Template (Post Message Tables)
-    page.](../Page_Desc/Template_Post_Message_Tables.htm)*
+    page.](../Page_Desc/Template_Post_Message_Tables)*
     
     <span style="font-weight: bold;">NOTE:</span> When the custom
     template is saved, one post message table is created by default. A
     post message table for the main table created in [Create all tt
     Tables and Views for the BAPI
-    Process](Create_tt_Tables_and_Views_for_the_BAP_Process.htm) must
+    Process](Create_tt_Tables_and_Views_for_the_BAP_Process) must
     also be added.
 
 11. Select the data source that stores the **tt** table created in
     [Create all tt Tables and Views for the BAPI
-    Process](Create_tt_Tables_and_Views_for_the_BAP_Process.htm) from
+    Process](Create_tt_Tables_and_Views_for_the_BAP_Process) from
     the **DATA SOURCE ID** list box.
 
 12.  Select the **tt** table name from the **TABLE NAME** list box.
@@ -77,7 +77,7 @@ To create the template:
 19. Click **Edit**.
     
     *[View the field descriptions for the Templates page’s Vertical
-    View.](../Page_Desc/Templates_H.htm)*
+    View.](../Page_Desc/Templates_H)*
 
 20. Select the name of the Integrate BAPI process created in Create a
     BAPI Template and Process in Integrate from the **Integrate Process
@@ -87,11 +87,11 @@ To create the template:
 
 22. Select the component name that contains the Archive page created in
     [Create Archive
-    Page](Create_Custom_Pages_and_Views_for_the_BAPI_Process.htm#Create_Archive_Page_for_the_BAPI_Process)
+    Page](Create_Custom_Pages_and_Views_for_the_BAPI_Process#Create_Archive_Page_for_the_BAPI_Process)
     from the **Template Archive WebAppID** list box.
 
 23. Select the page name for the Archive page created in [Create Archive
-    Page](Create_Custom_Pages_and_Views_for_the_BAPI_Process.htm#Create_Archive_Page_for_the_BAPI_Process)
+    Page](Create_Custom_Pages_and_Views_for_the_BAPI_Process#Create_Archive_Page_for_the_BAPI_Process)
     from the **Template Archive Page ID** list box
 
 24. Click **Save**.
@@ -109,14 +109,14 @@ To add the custom data entry and review pages to the template roles:
 5.  Click **Edit**.
     
     *[View the field descriptions for the Template (Role) page's
-    Vertical View](../Page_Desc/Template_Role_H.htm)*
+    Vertical View](../Page_Desc/Template_Role_H)*
 
 6.  Select the name of the component that stores the custom data entry
     page from the **Web App ID** list box.
     
     **NOTE:** The Web App ID is the data entry page created in [Create
     Data Entry Page and
-    View](Create_Custom_Pages_and_Views_for_the_BAPI_Process.htm#Create_Data_Entry_Page_and_View_for_the_BAPI_Process).
+    View](Create_Custom_Pages_and_Views_for_the_BAPI_Process#Create_Data_Entry_Page_and_View_for_the_BAPI_Process).
 
 7.  Select the name of the page from the **Page ID** list box.
 
@@ -134,14 +134,14 @@ To add the custom data entry and review pages to the template roles:
 13. Click **Edit**.
     
     *[View the field descriptions for the Template (Role) page's
-    Vertical View](../Page_Desc/Template_Role_H.htm)*
+    Vertical View](../Page_Desc/Template_Role_H)*
 
 14. Select the name of the component that stores the custom review page
     from the **Web App ID** list box.
     
     **NOTE:** The Web App ID is the data entry page created in [Create
     Approval Page and
-    View](Create_Custom_Pages_and_Views_for_the_BAPI_Process.htm#Create_Approval_Page_and_View_for_the_BAPI_Process).
+    View](Create_Custom_Pages_and_Views_for_the_BAPI_Process#Create_Approval_Page_and_View_for_the_BAPI_Process).
 
 15. Select the name of the page from the **Page ID** list box.
 
@@ -152,11 +152,11 @@ To add the custom data entry and review pages to the template roles:
 To process the request:
 
 1.  Activate the template.  
-    Refer to [Activate the Template](Activate_the_Template.htm)  for
+    Refer to [Activate the Template](Activate_the_Template)  for
     more information.
 
 2.  Create a request based on the template.  
-    Refer to [Create Requests](Create_Requests.htm)  for more
+    Refer to [Create Requests](Create_Requests)  for more
     information.
 
 3.  Click **Roles** for the template.
@@ -164,10 +164,10 @@ To process the request:
 4.  Click **DATA ENTRY** for the Data role.
     
     **NOTE:** The Data Entry page created in [Create Data Entry Page and
-    View](Create_Custom_Pages_and_Views_for_the_BAPI_Process.htm#Create_Data_Entry_Page_and_View_for_the_BAPI_Process)
+    View](Create_Custom_Pages_and_Views_for_the_BAPI_Process#Create_Data_Entry_Page_and_View_for_the_BAPI_Process)
     displays. The standard import options to facilitate data entry can
     be used. Refer to [Import a View at the Request-Role
-    Level](Import_a_View_at_the_Request%20Role_Level.htm) for more
+    Level](Import_a_View_at_the_Request%20Role_Level) for more
     information.
 
 5.  Click **Finish** for the Data role once data entry is complete.
@@ -175,7 +175,7 @@ To process the request:
 6.  Review and approve the role.
     
     **NOTE:** The Approval page created in [Create Approval Page and
-    View](Create_Custom_Pages_and_Views_for_the_BAPI_Process.htm#Create_Approval_Page_and_View_for_the_BAPI_Process)
+    View](Create_Custom_Pages_and_Views_for_the_BAPI_Process#Create_Approval_Page_and_View_for_the_BAPI_Process)
     displays when the Review role clicks DATA ENTRY.
 
 7.  Click **DATA ENTRY** for the Post role.

@@ -10,7 +10,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Register After Post Rules to a Process
-Template](../../../Platform/Integrate/Use_Cases/Register_After_Post_Rules_to_a_Process_Template_Overview.htm).
+Template](../../../Platform/Integrate/Use_Cases/Register_After_Post_Rules_to_a_Process_Template_Overview).
 
 </div>
 
@@ -46,12 +46,12 @@ To access this page:
 ## <span id="Process"></span>Process Templates After Post Rules V
 
 [Process Templates: After Post Rules
-H](../../../Platform/Integrate/Page_Desc/Process_Template_Loop_Field_Mappings_H.htm)
+H](../../../Platform/Integrate/Page_Desc/Process_Template_Loop_Field_Mappings_H)
 
 <div class="use">
 
 Use this page to [Register After Post Rules to a Process
-Template](../../../Platform/Integrate/Use_Cases/Register_After_Post_Rules_to_a_Process_Template_Overview.htm).
+Template](../../../Platform/Integrate/Use_Cases/Register_After_Post_Rules_to_a_Process_Template_Overview).
 
 </div>
 
@@ -90,7 +90,7 @@ When a Business Rule After Post Rule is encountered, Integrate runs the
 rule and waits for it to complete before running the next rule.
 
 Refer to [Register a Stored Procedure as an After Post
-Rule](../../../Platform/Integrate/Use_Cases/Register_a_Stored_Procedure_as_an_After_Post_Rule.htm)
+Rule](../../../Platform/Integrate/Use_Cases/Register_a_Stored_Procedure_as_an_After_Post_Rule)
 for more information.
 
 Collect
@@ -125,7 +125,7 @@ The target Where clause selects records to delete from the target before
 the download.
 
 Refer to [Register a Collect Download After Post Rule
-Manually](../../../Platform/Integrate/Use_Cases/Register_a_Collect_Download_After_Post_Rule_Manually.htm)
+Manually](../../../Platform/Integrate/Use_Cases/Register_a_Collect_Download_After_Post_Rule_Manually)
   for more information.
 
 Collect Source Where Clause
@@ -138,18 +138,18 @@ The data returned from this Where clause is used as an input parameter
 to the next template in the process.
 
 Refer to [Register a Collect Download After Post Rule
-Manually](../../../Platform/Integrate/Use_Cases/Register_a_Collect_Download_After_Post_Rule_Manually.htm)
+Manually](../../../Platform/Integrate/Use_Cases/Register_a_Collect_Download_After_Post_Rule_Manually)
 for more information.
 
 Collect Where Clause
 
 Click to open the [Process Template: After Post Rule: Collect
-Where](../../../Platform/Integrate/Page_Desc/Process_Template_After_Post_Rule_Collect_Where.htm)
+Where](../../../Platform/Integrate/Page_Desc/Process_Template_After_Post_Rule_Collect_Where)
 page to add the inputs to a Where clause that is built automatically at
 run time.
 
 Refer to [Register a Collect Download After Post Rule that is Built
-Automatically](../../../Platform/Integrate/Use_Cases/Register_a_Collect_Download_After_Post_Rule_that_is_Built_Automatically.htm)
+Automatically](../../../Platform/Integrate/Use_Cases/Register_a_Collect_Download_After_Post_Rule_that_is_Built_Automatically)
 for more information.
 
 Collect Run Rules After Download
@@ -173,5 +173,5 @@ failure is found then that status is written as the status for the
 posting of that template.
 
 Refer to [Register a Status View as an After Post
-Rule](../../../Platform/Integrate/Use_Cases/Register_a_Status_View_as_an_After_Post_Rule.htm)
+Rule](../../../Platform/Integrate/Use_Cases/Register_a_Status_View_as_an_After_Post_Rule)
 for more information.

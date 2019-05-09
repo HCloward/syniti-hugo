@@ -42,7 +42,7 @@ To modify the configuration of data source table columns:
     
     [View the field descriptions for the Data Source Table Columns
     page’s Vertical
-    View](../Page_Desc/Data_Source_Table_Columns_H.htm#Data_Source_Table1)
+    View](../Page_Desc/Data_Source_Table_Columns_H#Data_Source_Table1)
 
 10. Enter column name converted to the defined data type and loaded into
     the target table in <span style="font-weight: bold;">Column</span>

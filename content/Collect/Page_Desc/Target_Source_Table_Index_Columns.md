@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Create Indices for
-Tables](../Use_Cases/Add_Rules_and_Indices_to_Tables.htm#Create_Indices_for_Tables).
+Tables](../Use_Cases/Add_Rules_and_Indices_to_Tables#Create_Indices_for_Tables).
 
 </div>
 

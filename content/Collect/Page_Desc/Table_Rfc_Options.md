@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Configure RFC
-Options.](../Use_Cases/Configure_RFC_Options.htm)
+Options.](../Use_Cases/Configure_RFC_Options)
 
 </div>
 

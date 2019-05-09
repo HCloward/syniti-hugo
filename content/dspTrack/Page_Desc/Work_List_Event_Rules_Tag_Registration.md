@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Configure Logic
-Tags](../Use_Cases/Configure_Logic_Tags.htm).
+Tags](../Use_Cases/Configure_Logic_Tags).
 
 </div>
 
@@ -19,7 +19,7 @@ To access this page:
     <span style="font-style: italic;">Navigation</span> pane.
 2.  Click the <span style="font-weight: bold;">Registrations</span> icon
     for a Logic tag on the <span style="font-style: italic;">[Tag - All
-    Types](Tag.htm)</span> page.
+    Types](Tag)</span> page.
 3.  Click the Roles icon for a logic tag.
 
 <table>

@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Add an Exception to the
-Calendar](../Use_Cases/Add_an_Exception_to_the_Calendar.htm).
+Calendar](../Use_Cases/Add_an_Exception_to_the_Calendar).
 
 </div>
 

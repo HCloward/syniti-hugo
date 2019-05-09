@@ -29,7 +29,7 @@ There are two options for generating child requests:
 
 <span style="font-weight: bold;">NOTE</span>: Org units are set up at
 the category level. Refer to [Add an Org Unit Type to a Category
-Object](Manage_Org_Units.htm#Add_an_Org_Unit_Type_to_a_Category_Object)
+Object](Manage_Org_Units#Add_an_Org_Unit_Type_to_a_Category_Object)
 for more information.
 
 To configure child scenario criteria:
@@ -42,7 +42,7 @@ To configure child scenario criteria:
 3.  Click **Vertical View** for a scenario.
     
     [View the field descriptions for the Scenario page’s Vertical
-    View.](../Page_Desc/Scenario_H.htm#Scenario_V)
+    View.](../Page_Desc/Scenario_H#Scenario_V)
 
 4.  Click **Edit**.
 

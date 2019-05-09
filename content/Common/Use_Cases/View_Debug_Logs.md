@@ -14,4 +14,4 @@ To view the debug log for a component of the DSP®:
 2.  Click **View Debug Log** for the DSP® component.
 
 [View the field descriptions for the Debug Log
-page](../Page_Desc/Debug_Log_H.htm)
+page](../Page_Desc/Debug_Log_H)

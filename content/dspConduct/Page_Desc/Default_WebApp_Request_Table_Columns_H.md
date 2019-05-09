@@ -10,7 +10,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Auto-generate Request-related
-Objects](../Use_Cases/Auto_Generate_Request_related_Objects.htm).
+Objects](../Use_Cases/Auto_Generate_Request_related_Objects).
 
 </div>
 

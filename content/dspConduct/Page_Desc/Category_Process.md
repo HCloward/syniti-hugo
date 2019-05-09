@@ -10,7 +10,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Set Allowed Processes at the Category
-Level](../Use_Cases/Set_Allowed_Processes_at_the_Category_Level.htm).
+Level](../Use_Cases/Set_Allowed_Processes_at_the_Category_Level).
 
 </div>
 
@@ -28,12 +28,12 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>INTEGRATE PROCESS ID</p></td>
-<td><p>Displays the name of the Integrate process. Click the name link and the <span style="font-style: italic;"><a href="../../../Platform/Integrate/Page_Desc/Process_H.htm">Process</a></span> page in Integrate displays with details about the process.</p>
+<td><p>Displays the name of the Integrate process. Click the name link and the <span style="font-style: italic;"><a href="../../../Platform/Integrate/Page_Desc/Process_H">Process</a></span> page in Integrate displays with details about the process.</p>
 <p><strong>NOTE:</strong> Only active processes display.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Rules</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Category_Process_Rule.htm">Category Process Rule</a></span> page to assign stored procedures that need to execute before the process is used for posting. </p>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Category_Process_Rule">Category Process Rule</a></span> page to assign stored procedures that need to execute before the process is used for posting. </p>
 <p>Rules are optional. Every process does not require a rule.</p>
 <p>The stored procedures are written by the Designer.</p>
 <p>The count on the icon represents the number of rules that exist for the category process.</p></td>
@@ -48,7 +48,7 @@ To access this page:
 <div class="use">
 
 Use this page to [Set Posting Options at the Category
-Level](../Use_Cases/Set_Posting_Options_at_the_Category_Level.htm).
+Level](../Use_Cases/Set_Posting_Options_at_the_Category_Level).
 
 </div>
 
@@ -83,7 +83,7 @@ BDC Post Method
 
 Displays the method used for posting the request. Refer to [BDC Post
 Methods and Settings on the Advanced
-tab](../../../Platform/Integrate/Page_Desc/BDCPostMethodsSettingsAdvTab.htm)
+tab](../../../Platform/Integrate/Page_Desc/BDCPostMethodsSettingsAdvTab)
 for more information.
 
 Group Name

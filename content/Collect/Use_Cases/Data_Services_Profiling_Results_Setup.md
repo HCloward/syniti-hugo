@@ -19,18 +19,18 @@ Download](#Schedule_the_Target_to_Download)
 To register the target and Target Source:
 
 1.  Register the Target (Refer to [Register
-    Targets](Register_and_Use_Targets.htm#Register_Targets) in Collect
+    Targets](Register_and_Use_Targets#Register_Targets) in Collect
     for detailed information).
 2.  Register the Target Source to the Target. (Refer to [Register
     Sources to
-    Target](Register_and_Use_Sources.htm#Register_Sources_to_Target) in
+    Target](Register_and_Use_Sources#Register_Sources_to_Target) in
     Collect for detailed information).
 
 **NOTE:** The connection between the Target and the Target Source should
 be tested. (Refer to[Test Target
-Connection](Register_and_Use_Targets.htm#Test_Target_Connection) and
+Connection](Register_and_Use_Targets#Test_Target_Connection) and
 [Test Source
-Connection](Register_and_Use_Sources.htm#Test_Source_Connection) in
+Connection](Register_and_Use_Sources#Test_Source_Connection) in
 Collect for detailed
 information.)
 
@@ -45,7 +45,7 @@ To add tables to the target and Target Source:
 3.  Click **Add**.
     
     [View the field descriptions for the Table’s page Vertical
-    View.](../Page_Desc/Tables_H.htm#Tables_V_All_Tabs)
+    View.](../Page_Desc/Tables_H#Tables_V_All_Tabs)
 
 4.  Enter the **TABLE** name.
 
@@ -71,6 +71,6 @@ details.
 To schedule the target to download:
 
 1.  Schedule the Target to download. (Refer to [Set up Schedule
-    Groups](../Config/Set_Up_Schedule_Groups.htm) in Collect for more
+    Groups](../Config/Set_Up_Schedule_Groups) in Collect for more
     information).
 2.  The profiling results can be viewed once the download is complete.

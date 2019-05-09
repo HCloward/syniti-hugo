@@ -28,18 +28,18 @@ captures all the data to provide to the four Integrate templates on a
 single record.
 
 On the <span style="font-style: italic;">[Template (Post Message
-Tables)](../Page_Desc/Template_Post_Message_Tables.htm)</span> page in
+Tables)](../Page_Desc/Template_Post_Message_Tables)</span> page in
 dspCompose™, a user must associate the post message table for each Post
 Error Column and Post Message Column combination with its respective
 Integrate Template ID.
 
 Refer to [Post Request Data to the Target ERP
-System](Post_Request_Data_to_a_Target_ERP_System.htm) for more
+System](Post_Request_Data_to_a_Target_ERP_System) for more
 information.
 
 **NOTE:** To set tables for posting feedback, the template must not be
 active or must be in Developer Mode. Refer to [Modify an Active Template
-in Developer Mode](Modify_an_Active_Template_in_Developer_Mode.htm) for
+in Developer Mode](Modify_an_Active_Template_in_Developer_Mode) for
 more information.
 
 <span style="font-weight: bold;">NOTE:</span> A Post Message table must
@@ -67,7 +67,7 @@ To set the tables to store posting feedback:
 6.  Click **Add**.
     
     *[View the field descriptions for the Template (Post Message Tables)
-    page.](../Page_Desc/Template_Post_Message_Tables.htm)*
+    page.](../Page_Desc/Template_Post_Message_Tables)*
 
 7.  Select a data source from the **DATA SOURCE** list box.
     

@@ -18,22 +18,22 @@ performed</span> until:
     Map
 
 Refer to [Add a
-Source](../../Design/Use_Cases/Assign_a_Source_to_a_Target.htm) and
+Source](../../Design/Use_Cases/Assign_a_Source_to_a_Target) and
 [Sync Target Design and
-Map](../../Design/Use_Cases/Sync_Map_and_Target_Design_TD.htm) for more
+Map](../../Design/Use_Cases/Sync_Map_and_Target_Design_TD) for more
 information.
 
 When a Source is copied, the mapping status and rule status for all
 copied mappings is Pending Review. Refer to [Mapping Status and Rule
-Status](Mapping_Status_and_Rule_Status.htm) for more information.
+Status](Mapping_Status_and_Rule_Status) for more information.
 
 To copy a Source in Map:
 
-1.  [Access Map](../Config/Access_Map.htm).
+1.  [Access Map](../Config/Access_Map).
 
 2.  Click the <span style="font-weight: bold;">Targets</span> icon on
     the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page.
 
 3.  Click the <span style="font-weight: bold;">Sources</span> icon for a
     Target.
@@ -45,7 +45,7 @@ To copy a Source in Map:
 6.  Click **Edit**.
     
     [*View the field descriptions for the Target Source Copy To
-    page*](../Page_Desc/Target_Source_Copy_To.htm)
+    page*](../Page_Desc/Target_Source_Copy_To)
 
 7.  Select an expanded name of the Source, which includes the Wave,
     Process Area, Object and Target from the **Copy To Source Database

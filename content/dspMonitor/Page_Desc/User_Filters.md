@@ -8,7 +8,7 @@ solution = 'Data Quality'
 <div class="use">
 
 Use this page to [Define
-Filters](../Use_Cases/Configure_User_Settings_Reports_and_Filters.htm#Define_Filters).
+Filters](../Use_Cases/Configure_User_Settings_Reports_and_Filters#Define_Filters).
 
 </div>
 

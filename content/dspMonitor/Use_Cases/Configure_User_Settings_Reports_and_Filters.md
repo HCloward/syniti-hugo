@@ -30,13 +30,13 @@ To customize user settings:
     pane.
     
     **NOTE:** All users with security to dspMonitor™ display. Refer to
-    [Security](../Config/Set_Up_Security_for_dspMonitor.htm) for
+    [Security](../Config/Set_Up_Security_for_dspMonitor) for
     detailed information on granting user security to dspMonitor™.
 
 2.  Click the **Edit** icon for a USER ID row.
     
     [View the field descriptions for the Users Reports/Filters
-    page](../Page_Desc/Users_Reports_Filters.htm)
+    page](../Page_Desc/Users_Reports_Filters)
 
 3.  Select an option in the **REPORT HEADER ID** list box if default
     value is not applicable.
@@ -96,13 +96,13 @@ To customize report settings:
 3.  Click **Edit**.
     
     [View the field descriptions for the User (Reports)
-    page](../Page_Desc/User_Reports_H.htm)
+    page](../Page_Desc/User_Reports_H)
 
 4.  Update the **WORKFLOW SCHEDULE ID** list box to change the frequency
     of workflow emails if the default value is not applicable.
     
     **NOTE:** Schedules are maintained in Common. Refer to [Create
-    Schedules](../../../Platform/Common/Use_Cases/Create_Schedules.htm)
+    Schedules](../../../Platform/Common/Use_Cases/Create_Schedules)
     for detailed information.
 
 5.  Click **Save**.
@@ -130,7 +130,7 @@ To customize report settings:
 10. Click **Edit**.
     
     [View the field descriptions for the User (Reports) page's Vertical
-    View](../Page_Desc/User_Reports_H.htm)
+    View](../Page_Desc/User_Reports_H)
 
 11. Enter a filter in **Where Clause** field, if **WHERE CLAUSE MANUAL**
     check box is enabled.
@@ -151,7 +151,7 @@ more complex than those supported by the user filter options.
 When **Where Clause Manual** is enabled, user filters are ignored and
 only the Where clause defined on the
 <span style="font-style: italic;">Vertical</span> View of the *[*User
-(Reports)*](../Page_Desc/User_Reports_H.htm)* page is used. If the
+(Reports)*](../Page_Desc/User_Reports_H)* page is used. If the
 **Where Clause Manual** field is not enabled, it is assumed that there
 is no Where clause and the report is not filtered.
 
@@ -169,7 +169,7 @@ To define a Where clause for a report:
 5.  Click **Edit**.
     
     [View the field descriptions for the User (Reports) page's Vertical
-    View](../Page_Desc/User_Reports_H.htm)
+    View](../Page_Desc/User_Reports_H)
 
 6.  Enter a filter in **Where Clause** field.
 
@@ -195,7 +195,7 @@ To define a filter for a user:
 3.  Click **Add**.
     
     [View the field descriptions for the User (Filters)
-    page](../Page_Desc/User_Filters.htm)
+    page](../Page_Desc/User_Filters)
 
 4.  Enter a filter field in **FIELD** field.
 

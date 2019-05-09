@@ -9,7 +9,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Add System Types](../Use_Cases/Add_System_Types.htm).
+Use this page to [Add System Types](../Use_Cases/Add_System_Types).
 
 </div>
 
@@ -29,7 +29,7 @@ System Types</span> in
 </tr>
 <tr class="even">
 <td><p>Import from Data Source or Model</p></td>
-<td><p>Click to open the <a href="System_Types_Import.htm"><em>System Types Import</em></a> page to import a System Type. Refer to I<a href="../Use_Cases/Import_a_Data_Source.htm">mport a Data Source</a> and <a href="../Use_Cases/Import%20a%20Model.htm">Import a Model</a> for more information.</p></td>
+<td><p>Click to open the <a href="System_Types_Import"><em>System Types Import</em></a> page to import a System Type. Refer to I<a href="../Use_Cases/Import_a_Data_Source">mport a Data Source</a> and <a href="../Use_Cases/Import%20a%20Model">Import a Model</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>SYSTEM TYPE</p></td>
@@ -41,16 +41,16 @@ System Types</span> in
 </tr>
 <tr class="odd">
 <td><p>Tables</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="System_Types_Tables_H.htm">System Types Tables</a></span> page to add, edit and delete tables for the System Type. The count on the icon is the total number of tables in the System Type.</p>
-<p>Refer to <a href="../Use_Cases/Manually_Add_System_Tables.htm">Manually Add System Type Tables</a> for more information.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="System_Types_Tables_H">System Types Tables</a></span> page to add, edit and delete tables for the System Type. The count on the icon is the total number of tables in the System Type.</p>
+<p>Refer to <a href="../Use_Cases/Manually_Add_System_Tables">Manually Add System Type Tables</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Groups</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="System_Types_Groups.htm">System Types Groups</a></span> page to add, edit and delete groups for the System Type.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="System_Types_Groups">System Types Groups</a></span> page to add, edit and delete groups for the System Type.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Target Mappings</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="System_Types_Mappings.htm">System Types Mapping</a>s</span> page to add, edit and delete generic way to set up mappings that are imported into Map.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="System_Types_Mappings">System Types Mapping</a>s</span> page to add, edit and delete generic way to set up mappings that are imported into Map.</p></td>
 </tr>
 <tr class="even">
 <td><p>DSP SUPPLIED</p></td>
@@ -61,11 +61,11 @@ System Types</span> in
 
 ## <span id="System_Types_V"></span>System Types V
 
-[System Types H](System_Types_H.htm)
+[System Types H](System_Types_H)
 
 <div class="use">
 
-Use this page to [Add System Types](../Use_Cases/Add_System_Types.htm).
+Use this page to [Add System Types](../Use_Cases/Add_System_Types).
 
 </div>
 
@@ -75,19 +75,19 @@ Description
 
 Tables
 
-Click to open the [System Types Tables](System_Types_Tables_H.htm) page
+Click to open the [System Types Tables](System_Types_Tables_H) page
 to add, edit and delete tables for the System Type.
 
 Refer to [Manually Add System Type
-Tables](../Use_Cases/Manually_Add_System_Tables.htm) for more
+Tables](../Use_Cases/Manually_Add_System_Tables) for more
 information.
 
 Import From Data Source or Model
 
-Click to open the [System Types Import](System_Types_Import.htm) page to
+Click to open the [System Types Import](System_Types_Import) page to
 import tables and fields to the System Type from a data source or model.
-Refer to [Import a Data Source](../Use_Cases/Import_a_Data_Source.htm)
-and [Import a Model](../Use_Cases/Import%20a%20Model.htm) for more
+Refer to [Import a Data Source](../Use_Cases/Import_a_Data_Source)
+and [Import a Model](../Use_Cases/Import%20a%20Model) for more
 information.
 
 Basic

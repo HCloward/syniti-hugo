@@ -22,12 +22,12 @@ Workflow Service </span>pages must execute.
 The Request SLA Notification Workflow service page sends any messages
 from LateNotify event, if the event is enabled on the *[Category
 Workflow Language
-Message](../Page_Desc/Category_Workflow_Language_Message_H.htm) page.*
+Message](../Page_Desc/Category_Workflow_Language_Message_H) page.*
 
 The Request SLA Summary Workflow service page sends any messages from
 the LateSummary event if the event is enabled on the *[Category Workflow
 Language
-Message](../Page_Desc/Category_Workflow_Language_Message_H.htm)*page.
+Message](../Page_Desc/Category_Workflow_Language_Message_H)*page.
 
 **NOTE**: The LateSummary event sends a summary email that contains
 links to requests that have late roles. The LateNotify event sends

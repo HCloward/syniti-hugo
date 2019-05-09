@@ -35,9 +35,9 @@ There are three methods to update request data in dspCompose™:
     outside of dspCompose™, it can be imported into the request using
     the View or File methods. To externally change data with a file or a
     view, refer to [Import a View at the Request-Role
-    Level](Import_a_View_at_the_Request%20Role_Level.htm) and [Import a
+    Level](Import_a_View_at_the_Request%20Role_Level) and [Import a
     File at the Request-Role
-    Level](Import_a_File_at_the_Request%20Role_Level.htm).
+    Level](Import_a_File_at_the_Request%20Role_Level).
 
 ## <span id="Manually_Change_Data"></span>Manually Change Data
 
@@ -50,10 +50,10 @@ Manually update or enter data in dspCompose™ if:
 **NOTE**: A user assigned to the Data role for the request will receive
 an email when a request is ready to be processed if the **SEND
 WORKFLOW** check box is enabled for the user on the
-*[User](../Page_Desc/User_H.htm)* page.
+*[User](../Page_Desc/User_H)* page.
 
 **NOTE**: If the request has Org Units assigned, dspCompose™ will only
-send[User H](../Page_Desc/User_H.htm) workflow emails to users who have
+send[User H](../Page_Desc/User_H) workflow emails to users who have
 Org Unit security for values on the request.
 
 <span style="font-weight: bold;">NOTE</span>: The Finish process
@@ -84,7 +84,7 @@ To manually change request data:
 5.  Click **Save**.
 
 6.  Navigate to the *[*Request
-    (Roles)*](../Page_Desc/Request_Roles_H.htm)*page.
+    (Roles)*](../Page_Desc/Request_Roles_H)*page.
 
 7.  Click **Finish** when data entry is complete.
     
@@ -111,7 +111,7 @@ finished. In other words, a user assigned to each Org Unit Value must
 finish the Data role before the request can move to the Review role.
 Until this condition is met, the Finish button will remain active. Refer
 to [Updates to Finishing a Data Role for Templates with the Security
-View](Updates_to_Finishing_a_Data_Role_for_Templates.htm) for more
+View](Updates_to_Finishing_a_Data_Role_for_Templates) for more
 information.
 
 ## <span id="Mass_Change_Data"></span>Mass Change Data
@@ -119,7 +119,7 @@ information.
 The Mass Change feature permits users to update records based on a field
 and a value on the data entry page using an update statement formed by
 dspCompose™ that uses the settings on the *[Request Mass
-Change](../Page_Desc/Request_Mass_Change_H.htm)* page. This page
+Change](../Page_Desc/Request_Mass_Change_H)* page. This page
 provides a way to make mass changes to data on the data entry pages
 quickly, accurately and without having to move the data out of the DSP®.
 Use the Where Clause Builder to further filter the data that requires an
@@ -135,7 +135,7 @@ the request.
 
 **NOTE**: Columns can be excluded from mass change. Refer to [Configure
 Columns to Exclude from Mass
-Change](../Config/Configure_Columns_to_Exclude_from_Mass_Change.htm) for
+Change](../Config/Configure_Columns_to_Exclude_from_Mass_Change) for
 more information.
 
 **NOTE**: Multiple mass changes can be applied for a single data entry
@@ -147,7 +147,7 @@ Units that use a mass change, if the
 Entry page has been modified to include the security view and boaUserID,
 only the records to which the user has access will be updated when mass
 change is executed. Refer to [Incorporate the Security View into Request
-Processing](Incorporate_the_Security_View_into_Request_Processing.htm)
+Processing](Incorporate_the_Security_View_into_Request_Processing)
 for more information.
 
 <span style="font-weight: bold;">NOTE</span>: The Finish process
@@ -178,7 +178,7 @@ To mass change data:
 5.  Click **Edit**.
     
     *[View the field descriptions for the Request Mass Change
-    page.](../Page_Desc/Request_Mass_Change_H.htm)*
+    page.](../Page_Desc/Request_Mass_Change_H)*
 
 6.  Select a column from **COLUMN NAME** list box.
     
@@ -217,7 +217,7 @@ To mass change data:
 13. Click **View Data** to view a report of the mass changed data.
 
 14. Navigate to the *[Request
-    (Roles)](../Page_Desc/Request_Roles_H.htm)* page.
+    (Roles)](../Page_Desc/Request_Roles_H)* page.
 
 15. Click **Finish** when the data update is complete.
     
@@ -245,7 +245,7 @@ words, a user assigned to each Org Unit Value must finish the Data role
 before the request can move to the Review role. Until this condition is
 met, the Finish button will remain active. Refer to [Updates to
 Finishing a Data Role for Templates with the Security
-View](Updates_to_Finishing_a_Data_Role_for_Templates.htm) for more
+View](Updates_to_Finishing_a_Data_Role_for_Templates) for more
 information.
 
 ## <span id="Build_Mass_Change_Where_Clause"></span>Build Mass Change Where Clause
@@ -287,14 +287,14 @@ To automatically generate a Where clause:
 5.  Click **Build Where Clause** for a Mass Change record.
     
     **NOTE**: Refer to [Mass Change
-    Data](Enter_Data_for_a_Request.htm#Mass_Change_Data) for more
+    Data](Enter_Data_for_a_Request#Mass_Change_Data) for more
     information.
     
     <span style="font-weight: bold;">NOTE</span>: If no records exist,
     the page displays in add mode. Otherwise, click Add.
     
     [View the field descriptions for the Request Mass Change (Where
-    Clause) page](../Page_Desc/Request_Mass_Change_Where_Clause.htm)
+    Clause) page](../Page_Desc/Request_Mass_Change_Where_Clause)
 
 6.  Select a column from **COLUMN NAME** list box.
     
@@ -331,7 +331,7 @@ To manually create a Where clause:
     
     *[View the field descriptions for the Request Mass Change page’s
     Vertical
-    View](../Page_Desc/Request_Mass_Change_H.htm#Request_Mass_Change_V).*
+    View](../Page_Desc/Request_Mass_Change_H#Request_Mass_Change_V).*
 
 7.  <span class="ListBullet">Enter a filter in **Where Clause**
     field.</span>

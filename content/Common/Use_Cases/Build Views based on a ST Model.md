@@ -20,7 +20,7 @@ To automatically build the model views in a System Type’s database:
 4.  Click the **Build Views** icon on the Page toolbar.
     
     [*View the field descriptions for the System Types Model Build Views
-    page.*](../Page_Desc/System_Types_Model_Build_Views.htm)
+    page.*](../Page_Desc/System_Types_Model_Build_Views)
 
 5.  Click **Edit**.
 
@@ -31,5 +31,5 @@ To automatically build the model views in a System Type’s database:
 **NOTE:** All System Type Model Tables for selected Model must exist in
 the target database. These tables should be extracted from the target
 system using Collect before executing Build Views. Refer to [Add a
-System Type Model Table](Add_a_New_System_Type_Model_Table.htm) for more
+System Type Model Table](Add_a_New_System_Type_Model_Table) for more
 information.

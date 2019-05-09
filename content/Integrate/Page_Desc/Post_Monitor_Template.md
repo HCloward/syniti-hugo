@@ -7,7 +7,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Monitor Posts](../Use_Cases/Monitor_Posts.htm).
+Use this page to [Monitor Posts](../Use_Cases/Monitor_Posts).
 
 </div>
 
@@ -34,4 +34,4 @@ To access this page:
 | TEMPLATE ID | Displays the name of the template assigned to the process.                                                                                                                    |
 | RECORDS     | Displays the number of records to be posted for the process template.                                                                                                         |
 | STATUS      | Displays the posting status of the template records for the process post.                                                                                                     |
-| Files       | Click to open the *[Post Files](Post_Files.htm)* page to view information about the status of posted files, including messages about posting status and remote system status. |
+| Files       | Click to open the *[Post Files](Post_Files)* page to view information about the status of posted files, including messages about posting status and remote system status. |

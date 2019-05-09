@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Assign a Condition to a Role Dependency
-Relationship](../Use_Cases/Role_Dependencies.htm#Assign_a_Condition_to_a_Role_Dependency_Relationship).
+Relationship](../Use_Cases/Role_Dependencies#Assign_a_Condition_to_a_Role_Dependency_Relationship).
 
 </div>
 

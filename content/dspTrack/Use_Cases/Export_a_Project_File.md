@@ -9,7 +9,7 @@ Export a project to make updates to the project in MS Project, then
 import the plan to dspTrack™ to update the project data.
 
 Refer to [Import Project Files into
-dspTrack™](Import_Project_Files_into_dspTrack.htm) for more
+dspTrack™](Import_Project_Files_into_dspTrack) for more
 information.
 
 A project can be exported from dspTrack™ in the form of an Excel file

@@ -24,9 +24,9 @@ data already exists in the system(s) of record.
 In the examples below, “ControlView” refers to any control view that the
 WebApp Designer wants to use. These are commonly the Data or Page
 Control Views that can be generated from the *[Scenario Role Task
-Page](../Page_Desc/Scenario_Role_Task_Page.htm)* in dspConduct™.  Refer
+Page](../Page_Desc/Scenario_Role_Task_Page)* in dspConduct™.  Refer
 to [Create Tables and Views for Content WebApp Pages
-Overview](Create_Tables_and_Views_for_Content_WebApp_Pages_Overview.htm)
+Overview](Create_Tables_and_Views_for_Content_WebApp_Pages_Overview)
 for more information.
 
  
@@ -665,7 +665,7 @@ WHERE</span><span>ContentRequestID
 ## <span id="Role_Status_BY_User_Views"></span>Role Status BY User Views
 
 <span style="font-weight: bold;">NOTE</span>: The [Unbounded Security
-view](Content_WebApp_Examples.htm#Security_Views_for_Binding_Security_by_OrgUnits_and_Security_that_is_not_Bounded_by_any_OrgUnits)
+view](Content_WebApp_Examples#Security_Views_for_Binding_Security_by_OrgUnits_and_Security_that_is_not_Bounded_by_any_OrgUnits)
 must be created prior to creating these views.
 
  

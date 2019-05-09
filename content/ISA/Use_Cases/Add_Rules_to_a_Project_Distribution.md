@@ -27,7 +27,7 @@ To add a rule:
     <span style="font-weight: bold;">Add</span>.
     
     [View field descriptions for the Project Distributions Rules
-    page.](../Page_Desc/Project_Distribution_Rules.htm)
+    page.](../Page_Desc/Project_Distribution_Rules)
 
 5.  Select a rule name from the **RULEID** list box.
     

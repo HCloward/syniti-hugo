@@ -9,10 +9,10 @@ A Template Administrator can activate a Process to use the Process
 template to post data.
 
 Before performing this task, [create a
-template](Create%20an%20IG%20Universal%20Connect%20Template.htm),
-[activate it,](Activate%20the%20Template%20IGUC.htm) and [add the
+template](Create%20an%20IG%20Universal%20Connect%20Template),
+[activate it,](Activate%20the%20Template%20IGUC) and [add the
 template to a
-Process.](Add%20the%20Template%20to%20a%20Process%20IGUC.htm)
+Process.](Add%20the%20Template%20to%20a%20Process%20IGUC)
 
 To activate a Process, the template assigned to the Process must be
 active.
@@ -31,9 +31,9 @@ activated, it must be deactivated to be edited.
 
 <span style="font-weight: bold;">NOTE:</span> Integrate allows a user to
 activate or deactivate all Processes associated with a template from the
-[Template Processes](../Integrate/Page_Desc/Template_Processes.htm)
+[Template Processes](../Integrate/Page_Desc/Template_Processes)
 page. Refer to [Activate or Deactivate Multiple Processes for a
-Template](../Integrate/Use_Cases/ActivateDeactivateMultProc.htm) for
+Template](../Integrate/Use_Cases/ActivateDeactivateMultProc) for
 more information.
 
 After the Process is active, changes cannot be made to Process

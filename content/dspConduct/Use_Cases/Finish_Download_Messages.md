@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [View Final Finish Download
-Messages](View_Final_Finish_Download_Messages.htm).
+Messages](View_Final_Finish_Download_Messages).
 
 </div>
 

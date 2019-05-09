@@ -21,25 +21,25 @@ To get started with running reports in dspMonitor™, verify the following
 steps have been completed.
 
 1.  Set up security to
-    [Collect](../../../Platform/Collect/Use_Cases/Register_and_Use_Targets.htm#Assign_Target_Security)
-    and [dspMonitor™](../Config/Set_Up_Security_for_dspMonitor.htm).
+    [Collect](../../../Platform/Collect/Use_Cases/Register_and_Use_Targets#Assign_Target_Security)
+    and [dspMonitor™](../Config/Set_Up_Security_for_dspMonitor).
 
 2.  Create a database for the source. Refer to SQL Server documentation
     for detailed information.
 
 3.  [Create and register a report
-    repository](../../../Platform/Common/Use_Cases/Data_Sources_in_Common.htm),
+    repository](../../../Platform/Common/Use_Cases/Data_Sources_in_Common),
     which is referred to as a data source in Common, for the database.
     This step is performed by an Administrator.
 
-4.  [Create report view(s) in the database.](Create_Reports.htm)
+4.  [Create report view(s) in the database.](Create_Reports)
 
 5.  [Register the Report Repository in
-    dspMonitor™](Register_Report_Repositories.htm).
+    dspMonitor™](Register_Report_Repositories).
 
-6.  <span>[Set up group owners](Group_Owner_Responsibilities.htm) and
+6.  <span>[Set up group owners](Group_Owner_Responsibilities) and
     [user
-    filters](Configure_User_Settings_Reports_and_Filters.htm#Define_Filters)
+    filters](Configure_User_Settings_Reports_and_Filters#Define_Filters)
     in dspMonitor™.</span>
 
 7.  If necessary, download the delivered .zip file for Information

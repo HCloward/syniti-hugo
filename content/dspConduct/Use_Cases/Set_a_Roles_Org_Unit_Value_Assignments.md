@@ -20,8 +20,8 @@ a position when the business process assigned to a category is included
 the position.
 
 Refer to [Add an Org Unit Type to a Category
-Object](Manage_Org_Units.htm#Add_an_Org_Unit_Type_to_a_Category_Object)
-and [Add a Role](Add_a_Role.htm) for more information about setting up
+Object](Manage_Org_Units#Add_an_Org_Unit_Type_to_a_Category_Object)
+and [Add a Role](Add_a_Role) for more information about setting up
 org units for a Category and adding roles to a category.
 
 The category org unit value configuration functions as a template for
@@ -31,7 +31,7 @@ unit is established is automatically assigned the org unit values that
 are included on the *Position Category OrgUnit* page. Any roles that
 exist for a position are updated with the org unit values that are
 included or removed when the <span style="font-style: italic;">[Position
-Category Org Unit](../Page_Desc/Position_Category_Org_Unit1.htm)</span>
+Category Org Unit](../Page_Desc/Position_Category_Org_Unit1)</span>
 page is updated. However, roles can be configured individually if
 needed. Refer to <span>[Configure Org Unit Value Assignments for Roles
 at the Role
@@ -43,25 +43,25 @@ information.</span>
 
 Before performing this task, design the governance elements in
 dspConduct™ \> Design and add a position. Refer to [dspConduct™ Design
-Process Overview](dspConduct_Design_Process_Overview.htm) and [Add a
-Position](Add_Position.htm) for more information.
+Process Overview](dspConduct_Design_Process_Overview) and [Add a
+Position](Add_Position) for more information.
 
 To configure org unit value assignments at the position level:
 
 1.  Select **dspConduct \> Security \> Positions**in the *Navigation*
-    pane; the *[Position](../Page_Desc/Position.htm)* page displays.
+    pane; the *[Position](../Page_Desc/Position)* page displays.
 
 2.  Click the **Category Org Units** icon; the *[Category Org Units for
-    Position](../Page_Desc/Category_Org_Units_for_Position.htm)* page
+    Position](../Page_Desc/Category_Org_Units_for_Position)* page
     displays in the child pane.
     
     *[View the field descriptions for the Category Org Units for
-    Position page](../Page_Desc/Category_Org_Units_for_Position.htm)*
+    Position page](../Page_Desc/Category_Org_Units_for_Position)*
 
 3.  Click the **Org Unit1** icon for a **CATEGORY ID.**
     
     *[View the field descriptions for the Position Category OrgUnit1
-    page](../Page_Desc/Position_Category_Org_Unit1.htm)*
+    page](../Page_Desc/Position_Category_Org_Unit1)*
 
 4.  Select one or more org unit values.
 
@@ -77,16 +77,16 @@ To configure org unit value assignments at the position level:
 
 *<span style="font-size: 12.0pt;">[View the field description for the
 Position Category OrgUnit2
-page](../Page_Desc/Position_Category_Org_Unit2.htm)</span>*
+page](../Page_Desc/Position_Category_Org_Unit2)</span>*
 
 *<span style="font-size: 12.0pt;">[View the field description for the
 Position Category OrgUnit3
-page](../Page_Desc/Position_Category_Org_Unit3.htm)</span>*
+page](../Page_Desc/Position_Category_Org_Unit3)</span>*
 
 Next, [configure org unit value assignments for roles at the role
 level](#Configure_Org_Unit_Value_Assignments__at_the_Role_Level) if
 needed or [configure users in a
-position](Configure_Users_in_a_Position.htm).
+position](Configure_Users_in_a_Position).
 
 ## <span id="Configure_Org_Unit_Value_Assignments__at_the_Role_Level"></span>Configure Org Unit Value Assignments at the Role Level
 
@@ -94,16 +94,16 @@ Users assigned to a position have access to the data that corresponds to
 the org unit values configured for the roles included in the position. A
 template for the org unit values that are included or removed for roles
 is configured on the[*Category Org Units for
-Position*](../Page_Desc/Category_Org_Units_for_Position.htm) page.
+Position*](../Page_Desc/Category_Org_Units_for_Position) page.
 Optionally, org unit values to be included or removed for an individual
 role can be customized on the *[Position Role Org
-Unit](../Page_Desc/Position_Role_Org_Unit_1.htm)* page using the
+Unit](../Page_Desc/Position_Role_Org_Unit_1)* page using the
 following steps.
 
 Before performing this task, design the governance elements in
 dspConduct™ \> Design and add a position. Refer to [dspConduct™ Design
-Process Overview](dspConduct_Design_Process_Overview.htm) and [Add a
-Position](Add_Position.htm) for more information.
+Process Overview](dspConduct_Design_Process_Overview) and [Add a
+Position](Add_Position) for more information.
 
 To configure org unit value assignments for roles at the role level:
 
@@ -113,14 +113,14 @@ To configure org unit value assignments for roles at the role level:
 2.  Click the **Roles** icon for a position.
     
     *[View the field descriptions for the Position Role
-    page.](../Page_Desc/Position_Role.htm)*
+    page.](../Page_Desc/Position_Role)*
 
 3.  Click the **Org Unit1** icon.
 
 4.  Click <span style="font-weight: bold;">Add</span>.
     
     *[View the field descriptions for the Position Role Org Unit 1
-    page](../Page_Desc/Position_Role_Org_Unit_1.htm).*
+    page](../Page_Desc/Position_Role_Org_Unit_1).*
 
 5.  Select the org unit value in the **Position Role Org Unit** list
     box.<span> </span>
@@ -132,16 +132,16 @@ To configure org unit value assignments for roles at the role level:
     3</span> values as needed.
 
 *[View the field descriptions for the Position Role Org Unit 2
-page](../Page_Desc/Position_Role_Org_Unit_2.htm).*
+page](../Page_Desc/Position_Role_Org_Unit_2).*
 
 *[View the field descriptions for the Position Role Org Unit 3
-page](../Page_Desc/Position_Role_Org_Unit_3.htm).*
+page](../Page_Desc/Position_Role_Org_Unit_3).*
 
 Next, <span>[configure the read-only/editable settings for org unit
 value assignments for
 roles](#Configure_the_Read_Only_Editable_setting_for_Org_Unit_Value_Assignments_for_Roles)
 if needed or [Configure Users in a
-Position](Configure_Users_in_a_Position.htm)</span>.
+Position](Configure_Users_in_a_Position)</span>.
 
 ## <span id="Configure_the_Read_Only_Editable_setting_for_Org_Unit_Value_Assignments_for_Roles"></span>Configure the Read-Only/Editable setting for Org Unit Value Assignments for Roles
 
@@ -150,10 +150,10 @@ unit values included in the role. In a position, a System Administrator
 can set read only and editable setting, if needed.
 
 If a role is set to read only on the *[Position
-Role](../Page_Desc/Position_Role.htm)* page, every org unit value
+Role](../Page_Desc/Position_Role)* page, every org unit value
 assigned to the role is set to read only. However, If one of the org
 unit values is set to editable on one of the *[Position Role Org
-Unit](../Page_Desc/Position_Role_Org_Unit_1.htm)* pages, the role is set
+Unit](../Page_Desc/Position_Role_Org_Unit_1)* pages, the role is set
 to editable in the position.
 
 The settings control whether or not a user assigned to the position for
@@ -169,8 +169,8 @@ editable access for that org unit value.
 
 Before performing this task, design the governance elements in
 dspConduct™ \> Design and add a position. Refer to [dspConduct™ Design
-Process Overview](dspConduct_Design_Process_Overview.htm) and [Add a
-Position](Add_Position.htm) for more information.
+Process Overview](dspConduct_Design_Process_Overview) and [Add a
+Position](Add_Position) for more information.
 
 To configure <span>the read-only or editable setting for org unit value
 assignments</span>:
@@ -181,7 +181,7 @@ assignments</span>:
 2.  Click the **Roles** icon for a position.
     
     *[View the field descriptions for the Position Role
-    page](../Page_Desc/Position_Role.htm).*
+    page](../Page_Desc/Position_Role).*
 
 3.  Click the **Org Unit1,Org Unit2,** or **Org Unit3** icon as needed.
 
@@ -189,4 +189,4 @@ assignments</span>:
     Only** or **Set as Editable** icon as needed.
 
 Next, [configure users in a
-position](Configure_Users_in_a_Position.htm).
+position](Configure_Users_in_a_Position).

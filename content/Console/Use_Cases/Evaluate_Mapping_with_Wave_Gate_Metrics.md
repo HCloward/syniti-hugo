@@ -20,10 +20,10 @@ against the Gate Wave metrics.
 **NOTE:** The process for setting up Wave Gate metrics for value mapping
 and field mapping is the same. Wave Gate metrics for value mapping are
 set up on the *[Wave Gate Metrics (Value
-Mapping)](../Page_Desc/Wave_Gate_Metrics_Value_Mapping_H.htm)* page.
+Mapping)](../Page_Desc/Wave_Gate_Metrics_Value_Mapping_H)* page.
 Wave Gate metrics for field mapping are set up on the *[Wave Gate
 Metrics (Field
-Mapping)](../../Map/Page_Desc/Wave_Proc_Area_Gate_Metrics_Field_Mapping.htm)*
+Mapping)](../../Map/Page_Desc/Wave_Proc_Area_Gate_Metrics_Field_Mapping)*
 page.
 
 The process for using Wave Gate metrics is:
@@ -33,7 +33,7 @@ The process for using Wave Gate metrics is:
 2.  Run the Snap Shot process in Map to gather current mapping status.
     The Snap Shot process captures mapping metrics at a specific point
     in time. Refer to [Capture Statistics for Wave Gate
-    Metrics](../../Map/Use_Cases/Capture_Statistics_for_Wave_Gate_Metrics.htm)
+    Metrics](../../Map/Use_Cases/Capture_Statistics_for_Wave_Gate_Metrics)
     for more information.
 3.  View the current mapping status in relation to the gate metrics on
     the *Wave Gate Metrics (Value Mapping)* page and the *Wave Gate
@@ -43,7 +43,7 @@ The process for using Wave Gate metrics is:
 
 **NOTE:** These pages can be viewed in Map by clicking **Metrics** on
 the *[Process Area
-Launch](../../Transform/Page_Desc/Process_Area_Launch.htm)* page. Click
+Launch](../../Transform/Page_Desc/Process_Area_Launch)* page. Click
 the **Gate Value Metrics** icon or the **Gate Field Metrics** icon.
 These pages open as display only when accessed in Map. Wave Gate metrics
 can only be edited in Console.
@@ -59,7 +59,7 @@ To set up Gate metrics for value mapping in Console:
 3.  Click **Add**.
     
     *[View the field descriptions for the Wave Gate Metrics (Value
-    Mapping) page](../Page_Desc/Wave_Gate_Metrics_Value_Mapping_H.htm)*
+    Mapping) page](../Page_Desc/Wave_Gate_Metrics_Value_Mapping_H)*
 
 4.  Enter a name in the **GATE NAME** field.
 
@@ -97,7 +97,7 @@ To set up Gate metrics for field mapping in Console:
     
     [View the field descriptions for the Wave Process Area Gate Metrics
     (Field Mapping)
-    page](../../Map/Page_Desc/Wave_Proc_Area_Gate_Metrics_Field_Mapping.htm)
+    page](../../Map/Page_Desc/Wave_Proc_Area_Gate_Metrics_Field_Mapping)
 
 5.  Enter a name in the **GATE NAME** field.
 

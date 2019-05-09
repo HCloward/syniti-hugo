@@ -6,8 +6,8 @@ solution = 'Platform'
 # Add Logging Modules
 
 Logging modules are used to display lower severity log records on the
-*[Log](../Page_Desc/Log.htm)* page than what is dictated by the Storage
-Level on the *[Parameters](../Page_Desc/Parameters.htm)* page.
+*[Log](../Page_Desc/Log)* page than what is dictated by the Storage
+Level on the *[Parameters](../Page_Desc/Parameters)* page.
 
 An Administrator can create a module (or category) of logs that displays
 information based on what types of errors are logged. The hierarchy is
@@ -28,7 +28,7 @@ To add a Logging Module in Automate:
 3.  Click **Add**.
     
     [View the field description for the Logging Modules
-    page](../Page_Desc/Logging_Modules.htm)
+    page](../Page_Desc/Logging_Modules)
 
 4.  Enter a category name in the **MODULE** field.
 

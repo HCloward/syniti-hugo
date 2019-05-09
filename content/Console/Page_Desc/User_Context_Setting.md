@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Set the Default Context for a
-User](../../../Platform/Sys_Admin/Use_Cases/Set_the_Default_Context_for_a_User.htm)
+User](../../../Platform/Sys_Admin/Use_Cases/Set_the_Default_Context_for_a_User)
 (performed by an Administrator) or to set the user's own context.
 
 </div>

@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Add Logical
-Paths](../Use_Cases/Add_Logical_Paths.htm).
+Paths](../Use_Cases/Add_Logical_Paths).
 
 </div>
 
@@ -29,8 +29,8 @@ updated for the transport type type to properly work.
 </tr>
 <tr class="even">
 <td><p>DEFAULT</p></td>
-<td><p>If checked, the option is the Transport Type used when adding an instance to a logical path on the <em><a href="Logical_Path_Instance.htm"><em>Logical Path (Instance)</em></a></em> page.</p>
-<p>If unchecked, the option is not used as the Transport Type when adding an instance to a logical path on the<em><a href="Logical_Path_Instance.htm">Logical Path (Instance)</a></em> page.</p></td>
+<td><p>If checked, the option is the Transport Type used when adding an instance to a logical path on the <em><a href="Logical_Path_Instance"><em>Logical Path (Instance)</em></a></em> page.</p>
+<p>If unchecked, the option is not used as the Transport Type when adding an instance to a logical path on the<em><a href="Logical_Path_Instance">Logical Path (Instance)</a></em> page.</p></td>
 </tr>
 <tr class="odd">
 <td><p>TRANSPORT TYPE</p></td>
@@ -78,8 +78,8 @@ tab](#_Delimiters)
 </tr>
 <tr class="even">
 <td><p>Default</p></td>
-<td><p>If checked, the option is the Transport Type used when adding an instance to a logical path on the <em><a href="Logical_Path_Instance.htm">Logical Path (Instance)</a></em> page.</p>
-<p>If unchecked, the option is not used as the Transport Type when adding an instance to a logical path on the <em><a href="Logical_Path_Instance.htm">Logical Path (Instance)</a></em> page.</p></td>
+<td><p>If checked, the option is the Transport Type used when adding an instance to a logical path on the <em><a href="Logical_Path_Instance">Logical Path (Instance)</a></em> page.</p>
+<p>If unchecked, the option is not used as the Transport Type when adding an instance to a logical path on the <em><a href="Logical_Path_Instance">Logical Path (Instance)</a></em> page.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Transport Type</p></td>
@@ -106,12 +106,12 @@ tab](#_Delimiters)
 </tr>
 <tr class="even">
 <td><p>Port</p></td>
-<td><p>Displays the default port value when adding an instance to a logical path on the <a href="Logical_Path_Instance.htm"><em>Logical Path (Instance)</em></a> page. Port is where the server listens to the FTP connection.</p>
+<td><p>Displays the default port value when adding an instance to a logical path on the <a href="Logical_Path_Instance"><em>Logical Path (Instance)</em></a> page. Port is where the server listens to the FTP connection.</p>
 <p><strong>NOTE:</strong> This field only used for Transport Type FTP.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Path</p></td>
-<td><p>Displays the default path value when adding an instance to a logical path on the <a href="Logical_Path_Instance.htm"><em>Logical Path (Instance)</em></a><em></em>page. Path is the FTP path or the complete path where the files are read or written to.</p></td>
+<td><p>Displays the default path value when adding an instance to a logical path on the <a href="Logical_Path_Instance"><em>Logical Path (Instance)</em></a><em></em>page. Path is the FTP path or the complete path where the files are read or written to.</p></td>
 </tr>
 <tr class="even">
 <td><p>Shared Network Name</p></td>
@@ -178,7 +178,7 @@ tab](#_Delimiters)
 </tr>
 <tr class="even">
 <td><p>Delimiter</p></td>
-<td><p>Displays the default character used to parse data to <em><a href="../Use_Cases/Add_Logical_Paths.htm">Add Logical Paths</a></em>.</p>
+<td><p>Displays the default character used to parse data to <em><a href="../Use_Cases/Add_Logical_Paths">Add Logical Paths</a></em>.</p>
 <p>The default value for FTP transport types is “/”.</p>
 <p>The default value for Local transport types is “\”.</p></td>
 </tr>

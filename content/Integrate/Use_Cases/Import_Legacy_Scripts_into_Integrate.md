@@ -12,7 +12,7 @@ scripts/templates can be easily imported into Integrate.
 This use case contains the following topics:
 
   - [Import Legacy BDCdirect<span>®</span> Scripts into
-    Integrate](ImportLegacyBDCdirectScripts.htm)
+    Integrate](ImportLegacyBDCdirectScripts)
 
   - [Import Legacy BDCPlus Templates into
-    Integrate](ImportLegacyBDCPlusTemps.htm)
+    Integrate](ImportLegacyBDCPlusTemps)

@@ -13,7 +13,7 @@ and then value map to the new Org numbers (in an Org check table) in the
 Target ERP system.
 
 Refer to [Perform Value
-Mapping](../../Map/Use_Cases/Perform_Value_Mapping_Overview.htm) for
+Mapping](../../Map/Use_Cases/Perform_Value_Mapping_Overview) for
 more information.
 
 The field and value that must be value mapped are stored in check
@@ -22,12 +22,12 @@ tables, also called lookup tables.
 Lookup tables for a Source can be added in Target Design:
 
   - Manually by adding the tables and fields on the *[Target Lookup
-    Table](../Page_Desc/Target_Lookup_Table_H.htm)* page in Target
+    Table](../Page_Desc/Target_Lookup_Table_H)* page in Target
     Design
   - Automatically on import, when a System Type that contains the lookup
     table is imported into Target Design. Check tables are stored in
     System Types, which are created in Common. Refer to [System
-    Types](../../../Platform/Common/Use_Cases/System_Types_Overview.htm)
+    Types](../../../Platform/Common/Use_Cases/System_Types_Overview)
     in Common for more information.
 
 Lookup tables are automatically synced to Map when the lookup table is
@@ -46,8 +46,8 @@ A simple lookup table contains one key. A complex lookup table contains
 a multiple part key.
 
 Refer to [Set up a Simple Lookup
-Tables](Set_up_a_Simple_Lookup_Table.htm) and [Set up a Complex Lookup
-Table](Set_up_a_Complex_Lookup_Table.htm) for more information.
+Tables](Set_up_a_Simple_Lookup_Table) and [Set up a Complex Lookup
+Table](Set_up_a_Complex_Lookup_Table) for more information.
 
 **NOTE**: A lookup table can be added in Target Design with up to five
 key fields. If the table requires more than five key fields, a view must

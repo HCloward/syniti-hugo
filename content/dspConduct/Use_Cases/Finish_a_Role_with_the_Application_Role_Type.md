@@ -6,19 +6,19 @@ solution = 'Master Data Management'
 # Finish a Role with the Application Role Type
 
 A Role Processor uses the <span style="font-style: italic;">[Request
-Role](../Page_Desc/Request_Role_H.htm)</span> page to finish roles,
+Role](../Page_Desc/Request_Role_H)</span> page to finish roles,
 indicating that the work assigned to that role is complete for the
 request.
 
 Before performing this task, a request must have been created.  Refer to
-[Create a Request](Create_a_Request.htm) for more information.
+[Create a Request](Create_a_Request) for more information.
 
 Roles with the Application role type gather, enter, or make changes to
 data using pages in the Content WebApp for preparation to send to the
 system(s) of record. These pages are associated with tasks. To view the
 tasks assigned to a role before finishing it, click the Tasks button on
 the <span style="font-style: italic;">[Request
-Role](../Page_Desc/Request_Role_H.htm)</span> page.
+Role](../Page_Desc/Request_Role_H)</span> page.
 
 <span style="font-weight: bold;">NOTE</span>: If multiple users are
 assigned to the role, only one of those users is required to finish the
@@ -32,17 +32,17 @@ Dependencies for a Role for more information.
 <span style="font-weight: bold;">NOTE</span>: If changes must be made to
 tasks associated with a role with a type of Application after it is
 finished, the Role Processor must reset the role. Refer to [Reset a
-Role](Reset_a_Role.htm) for more information.  
+Role](Reset_a_Role) for more information.  
 
 <span style="font-weight: bold;">NOTE</span>: The Finish process
 initiates the workflow email to users assigned to the next role (if that
 role has messaging enabled). The Finish process displays a notification
 from within dspConduct™ to users assigned to the next role (if that role
 has messaging enabled). Refer to [Enable or Disable Messages for a
-Role](Enable_or_Disable_Messages_for_a_Role.htm) for more information.
+Role](Enable_or_Disable_Messages_for_a_Role) for more information.
 
 **NOTE**: A setting can be configured to finish this role automatically.
-Refer to [Auto Finish a Role](Auto_Finish_a_Role.htm) for more
+Refer to [Auto Finish a Role](Auto_Finish_a_Role) for more
 information.
 
 **NOTE**: If the User Response Required on Warnings option is enabled at

@@ -34,7 +34,7 @@ To track error records on reports:
     tracked for Metric Data Tracking.
     
     [View the field descriptions for the Metric Data Column (Config)
-    page](../Page_Desc/Metric_Data_Column_Config.htm)
+    page](../Page_Desc/Metric_Data_Column_Config)
 
 8.  Enter a sort order in **ORDER** field to determine how the columns
     are arranged in the report.

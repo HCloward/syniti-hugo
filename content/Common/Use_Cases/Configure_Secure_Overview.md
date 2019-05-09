@@ -14,7 +14,7 @@ sent to the target ERP system via RFC (SAP only) or File format.
 
 The Secure configuration includes the following steps:
 
-  - [Add Keys](Add_Keys.htm)
+  - [Add Keys](Add_Keys)
 
   - <span>[Configure Secure
-    Parameters](Configure_Secure_Parameters.htm)</span>
+    Parameters](Configure_Secure_Parameters)</span>

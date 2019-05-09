@@ -26,7 +26,7 @@ To copy a System Type table:
 5.  Click **Edit**.
     
     [View the field descriptions for the System Types Tables page
-    Vertical View](../Page_Desc/System_Types_Tables_H.htm)
+    Vertical View](../Page_Desc/System_Types_Tables_H)
 
 6.  Enter the new table name in **Copy To Table Name** field.
 

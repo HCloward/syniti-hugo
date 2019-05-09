@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Configure Collect
-Parameters](../Use_Cases/Configure_Collect_Parameters.htm).
+Parameters](../Use_Cases/Configure_Collect_Parameters).
 
 </div>
 
@@ -151,7 +151,7 @@ Max Record Sources For Union View
 
 Display the threshold for the number of sources that can be registered
 for the Record Count on the
-*[Tables](../../Collect/Page_Desc/Tables_H.htm)* page’s *Vertical* View
+*[Tables](../../Collect/Page_Desc/Tables_H)* page’s *Vertical* View
 to be calculated.
 
 If the number of sources registered exceeds the threshold set by this
@@ -387,7 +387,7 @@ value is **11:00 pm**.
 ## <span id="Workflow_Settings_Tab"></span>Workflow Settings tab
 
 Use this tab to [Update the Retention Expiration Warning
-Period](../Use_Cases/Update%20Retention%20Expiration%20Warning%20Period.htm).
+Period](../Use_Cases/Update%20Retention%20Expiration%20Warning%20Period).
 
 Field
 
@@ -410,7 +410,7 @@ during this time.
 Retention Warning Email
 
 Click to open the Collect *[Retention Expiration
-Email](../../Collect/Page_Desc/Retention_Expiration_Email.htm)* page to
+Email](../../Collect/Page_Desc/Retention_Expiration_Email)* page to
 configure the subject line and body of the workflow email sent when an
 object’s retention date is within the number of days set in the
 Retention Expiration Date Notification field.

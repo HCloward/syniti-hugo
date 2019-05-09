@@ -17,7 +17,7 @@ To track status, certain conditions must be met:
     (sdbdspConstruct) must be retained. If either of these have been
     changed, metrics tracking will not be performed. Refer to [Update
     the WebApp and Source Data Source for
-    Construct](../../../Migration/Console/Use_Cases/Update_Construct_WebApp_and_Data_Source.htm)
+    Construct](../../../Migration/Console/Use_Cases/Update_Construct_WebApp_and_Data_Source)
     for more information.
 
 Metrics track:
@@ -28,14 +28,14 @@ Metrics track:
 
 A summary page of this information can be accessed from Target Design
 and Console. Refer to  [View Dashboard in
-Construct](../../../Migration/Construct/Use_Cases/View_Dashboard_in_Construct.htm)
+Construct](../../../Migration/Construct/Use_Cases/View_Dashboard_in_Construct)
 for more information.
 
 **NOTE**: A service page runs every few hours to update the statistics
 for total, estimated and completed records that display on charts and
 pages. The update process can also be run manually. Refer to [Update
 Completed Status of Records for a Construction
-Page](../../../Migration/Construct/Use_Cases/Update_Completed_Status_of_Records.htm)
+Page](../../../Migration/Construct/Use_Cases/Update_Completed_Status_of_Records)
 for more information.
 
 **NOTE**: If a user selects the Manual Construction action in Map for a

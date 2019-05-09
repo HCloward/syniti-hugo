@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Import a Target Design from a System
-Type](../Use_Cases/Import_from_a_System_Type.htm).
+Type](../Use_Cases/Import_from_a_System_Type).
 
 </div>
 
@@ -48,8 +48,8 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Fields</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="../../../Platform/Common/Page_Desc/System_Types_Table_Fields_H.htm">System Types Table Fields</a></span> page in Common to view the fields contained in the System Type table that will be imported.</p>
-<p>Refer to <a href="../../../Platform/Common/Use_Cases/Add_Fields_to_Tables.htm">Add Fields to Tables</a> for more information.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="../../../Platform/Common/Page_Desc/System_Types_Table_Fields_H">System Types Table Fields</a></span> page in Common to view the fields contained in the System Type table that will be imported.</p>
+<p>Refer to <a href="../../../Platform/Common/Use_Cases/Add_Fields_to_Tables">Add Fields to Tables</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>IMPORT</p></td>

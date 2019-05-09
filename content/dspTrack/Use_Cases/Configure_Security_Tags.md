@@ -31,5 +31,5 @@ To add a user to the tag:
 **NOTE**: Follow the above steps to remove a user from a tag, and click
 Remove from Tag.
 
-Refer to [Assign a Tag to Tasks](Assign_a_Tag_to_Tasks.htm) to continue
+Refer to [Assign a Tag to Tasks](Assign_a_Tag_to_Tasks) to continue
 with configuring security tags.

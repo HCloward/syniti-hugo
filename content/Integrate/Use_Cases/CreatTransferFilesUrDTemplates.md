@@ -16,7 +16,7 @@ Select the **User Defined Template Type** (**Delimited**, **FixedWidth**
 or **XML**) on the template’s *Vertical* View.
 
 **NOTE**: Refer to [Create and Transfer an XML
-File](CreateTransferXMLOverview.htm) for information about this template
+File](CreateTransferXMLOverview) for information about this template
 type.
 
 <span id="Post Data Using UDF or Fixed Width Steps" class="popUpLink">Review

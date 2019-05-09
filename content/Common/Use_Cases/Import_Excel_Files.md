@@ -28,7 +28,7 @@ To use the Excel Import Adapter to import an Excel file:
 2.  Click **Add.**
     
     [View the field descriptions for the Toolkit: Excel
-    page](../Page_Desc/Toolkit_Excel_H.htm)
+    page](../Page_Desc/Toolkit_Excel_H)
 
 3.    Enter the table name to import in the **EXCEL IMPORT TABLE NAME**
     field.
@@ -36,7 +36,7 @@ To use the Excel Import Adapter to import an Excel file:
 4.  Click **Save**; *Vertical* View displays.
     
     [View the field descriptions for the Toolkit: Excel
-    page](../Page_Desc/Toolkit_Excel_H.htm)
+    page](../Page_Desc/Toolkit_Excel_H)
 
 5.  Click **Excel Use Excel2007** check box to use Excel 2007 or 2010
     (i.e., .xlsx). If disabled, Excel 97-2003 (i.e., .xls) is used.

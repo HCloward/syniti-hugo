@@ -1,10 +1,10 @@
 # Deactivate Columns for Project Distribution Rule Bindings
 
 The <span style="font-style: italic;">[Project Distribution Rule
-Bindings](../Page_Desc/Project_Distribution_Rule_Bindings.htm)</span>
+Bindings](../Page_Desc/Project_Distribution_Rule_Bindings)</span>
 page lists the table to which the rules selected on the
 <span style="font-style: italic;">[Project Distribution
-Rules](../Page_Desc/Project_Distribution_Rules.htm)</span> page are
+Rules](../Page_Desc/Project_Distribution_Rules)</span> page are
 bound. Users deactivate the columns on these tables to filter data that
 displays on reports for the project distribution.
 
@@ -33,7 +33,7 @@ To activate columns:
 6.  Click **Edit**.
     
     *[View the field descriptions for the Activate Columns
-    page.](Activate_Columns.htm)*
+    page.](Activate_Columns)*
 
 7.  Enter a value  in the **PRIORITY** field to change the order that
     fields are included in the Excel file generated as a report and

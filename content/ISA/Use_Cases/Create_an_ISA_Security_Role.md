@@ -14,7 +14,7 @@ To create the ISA security role in System Administration:
 2.  Click **Add**.
     
     *[View the field descriptions for the Security Roles
-    page](../../../Platform/Sys_Admin/Page_Desc/Security_Roles.htm)*
+    page](../../../Platform/Sys_Admin/Page_Desc/Security_Roles)*
 
 3.  Enter a unique name of the role, such as ISA, in the **NAME** field.
 
@@ -30,7 +30,7 @@ To create the ISA security role in System Administration:
 8.  Click **Edit**.
     
     *[View the field descriptions for the Role Key Values
-    page.](../../../Platform/Sys_Admin/Page_Desc/Role_Key_Values.htm)*
+    page.](../../../Platform/Sys_Admin/Page_Desc/Role_Key_Values)*
 
 9.  Select the name of the IS repository (e.g., Target –
     dgRepository\_IS) from the **SECURITY DEFINITION KEY ID** list box.
@@ -38,13 +38,13 @@ To create the ISA security role in System Administration:
 10. Click **Save**.
 
 11. Navigate to the *[Security
-    Roles](../../../Platform/Sys_Admin/Page_Desc/Security_Roles.htm)*
+    Roles](../../../Platform/Sys_Admin/Page_Desc/Security_Roles)*
     page.
 
 12. Click **Web App Groups**.
 
 13. Assign Web App Groups to the security role. Refer to [WebApp
-    Groups](../../../Platform/Sys_Admin/Use_Cases/WebApp_Groups.htm) and
+    Groups](../../../Platform/Sys_Admin/Use_Cases/WebApp_Groups) and
     [Assign WebApp Groups to Security
-    Roles](../../../Platform/Sys_Admin/Use_Cases/Assign_WebApp_Groups_to_Security_Role.htm)
+    Roles](../../../Platform/Sys_Admin/Use_Cases/Assign_WebApp_Groups_to_Security_Role)
     for more information.

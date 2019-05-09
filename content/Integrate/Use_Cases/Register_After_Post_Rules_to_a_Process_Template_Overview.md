@@ -22,12 +22,12 @@ The following can be registered as an After Post Rule:
     procedure. When a business rule After Post rule is encountered,
     Integrate runs the rule and waits for it to complete before running
     the next rule. Refer to [Register a Stored Procedure as an After
-    Post Rule](Register_a_Stored_Procedure_as_an_After_Post_Rule.htm)
+    Post Rule](Register_a_Stored_Procedure_as_an_After_Post_Rule)
     for more information.
   - <span style="font-weight: bold;">Collect Download</span> - A Collect
     rule that downloads a Collect source - target - table registration.
     Refer to [Register a Collect Download as an After Post
-    Rule](Register_a_Collect_Download_as_an_After_Post_Rule.htm) for
+    Rule](Register_a_Collect_Download_as_an_After_Post_Rule) for
     more information.
   - <span style="font-weight: bold;">Status View</span> - A view used to
     communicate the status of the posting to the user. The view status
@@ -36,7 +36,7 @@ The following can be registered as an After Post Rule:
     of data for the PostingID. If the status is "fail" then that status
     is written as the status for the posting of that template. Refer to
     [Register a Status View as an After Post
-    Rule](Register_a_Status_View_as_an_After_Post_Rule.htm) for more
+    Rule](Register_a_Status_View_as_an_After_Post_Rule) for more
     information.
 
 <span style="font-weight: bold;">NOTE</span>: It is possible to register
@@ -65,10 +65,10 @@ system because there are errors in the data).
 both process templates and After Post Rules is determined by the
 priority. Set the priority for process templates on the
 <span style="font-style: italic;">[Process
-Templates](../Page_Desc/Process_Templates_H.htm)</span> page. Set the
+Templates](../Page_Desc/Process_Templates_H)</span> page. Set the
 priority for After Post Rules on
 the[<span style="font-style: italic;">Process Templates: After Post
-Rules</span>](../../../Master_Data_Mgmt/dspConduct/Page_Desc/Process_Templates_After_Post_Rules_H.htm)
+Rules</span>](../../../Master_Data_Mgmt/dspConduct/Page_Desc/Process_Templates_After_Post_Rules_H)
 page.
 
 <span style="font-weight: bold;">NOTE</span>: Each process template can

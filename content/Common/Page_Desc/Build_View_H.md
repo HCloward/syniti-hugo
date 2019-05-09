@@ -9,7 +9,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Build Views](../Use_Cases/Build_Views.htm).
+Use this page to [Build Views](../Use_Cases/Build_Views).
 
 </div>
 
@@ -36,7 +36,7 @@ pane.
 
 <div class="use">
 
-Use this page to [Build Views](../Use_Cases/Build_Views.htm).
+Use this page to [Build Views](../Use_Cases/Build_Views).
 
 </div>
 

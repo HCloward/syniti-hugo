@@ -13,7 +13,7 @@ required only under certain data conditions, field groups are used to
 define the conditions, fields, values, and requirement setting.
 
 **NOTE**: Refer to [Set Rule Priority for Fields in Field
-Groups](Set_Rule_Priority_for_Fields_in_Field_Groups.htm) for important
+Groups](Set_Rule_Priority_for_Fields_in_Field_Groups) for important
 information about the order in which rules assigned to field groups are
 run.
 
@@ -35,7 +35,7 @@ each field group after the filter value it is based on is a good
 practice.
 
 Refer to <span style="font-family: Arial, sans-serif;">[Create Field
-Groups](Create_Field_Groups.htm)</span> for more information.
+Groups](Create_Field_Groups)</span> for more information.
 
 Material types are assigned a Maintenance Status in the PSTAT field on
 the ttMARA table. Examples of Maintenance Status are Work Scheduling,
@@ -67,16 +67,16 @@ a Maintenance Status in the Target set to 3.
 
 To work with field groups:
 
-  - [Create Field Groups](Create_Field_Groups.htm)
+  - [Create Field Groups](Create_Field_Groups)
   - [Assign a Field Group to an
-    Object](Assign_a_Field_Group_to_an_Object.htm)
+    Object](Assign_a_Field_Group_to_an_Object)
   - [Extend a Field to a Field
-    Group](Extend_a_Field_to_a_Field_Group.htm)
+    Group](Extend_a_Field_to_a_Field_Group)
   - [Set Rule Priority for Fields in Field
-    Groups](Set_Rule_Priority_for_Fields_in_Field_Groups.htm)
+    Groups](Set_Rule_Priority_for_Fields_in_Field_Groups)
 
 A user can also:
 
   - [Set Rule Priority for Fields in Field
-    Groups](Set_Rule_Priority_for_Fields_in_Field_Groups.htm)
-  - [Use Field Groups](Use_Field_Groups.htm)
+    Groups](Set_Rule_Priority_for_Fields_in_Field_Groups)
+  - [Use Field Groups](Use_Field_Groups)

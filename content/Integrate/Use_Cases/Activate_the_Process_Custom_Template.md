@@ -12,7 +12,7 @@ A user must create all of the associated files and code to support the
 Custom template.
 
 After [adding the template to a
-process](Add_the_Custom_Template_to_a_Process.htm), activate it.
+process](Add_the_Custom_Template_to_a_Process), activate it.
 
 To activate the process:
 
@@ -23,4 +23,4 @@ To activate the process:
     enabled.
 
 Continue with [Post Data with a Custom
-Template](Post_Data_Custom_Template.htm).
+Template](Post_Data_Custom_Template).

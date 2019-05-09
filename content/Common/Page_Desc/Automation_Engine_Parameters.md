@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Generate Records in the AE History
-Table](../Use_Cases/Generate_Records_in_the_AE_History_Table.htm).
+Table](../Use_Cases/Generate_Records_in_the_AE_History_Table).
 
 </div>
 

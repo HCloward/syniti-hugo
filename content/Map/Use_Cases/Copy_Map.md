@@ -10,7 +10,7 @@ the Source to the Target.
 
 <span style="font-weight: bold;">NOTE:</span> If the user clicked the
 Auto Map icon on the <span style="font-style: italic;">[Target
-Sources](../Page_Desc/Target_Sources_H_Map.htm)</span> page for the
+Sources](../Page_Desc/Target_Sources_H_Map)</span> page for the
 Source, any auto mapped fields are set to the Copy action with a Mapping
 Status of In Progress.
 
@@ -22,7 +22,7 @@ To create a field mapping using the Copy action on the
 2.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the Field Mappings
-    page](../Page_Desc/Field_Mappings_H.htm)
+    page](../Page_Desc/Field_Mappings_H)
 
 3.  Select **Copy** from the **ACTION** list box.
 
@@ -40,22 +40,22 @@ To create a field mapping using the Copy action on the
     toolbar.
 
 **NOTE:** If the <span>Auto Gen Level on the
-</span><span style="font-style: italic;">[Automation](../../SQL_AutoGen/Page_Desc/Automation_page.htm)</span><span>
+</span><span style="font-style: italic;">[Automation](../../SQL_AutoGen/Page_Desc/Automation_page)</span><span>
 page’s </span><span style="font-style: italic;">Vertical</span><span>
 View is set to Off for the Target</span>, this rule is not built in SQL.
 If the Auto Gen Level is set to ON but the Auto Generate Rule check box
 on the <span style="font-style: italic;">[Automation SQL Field
-Mappings](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H.htm)</span>
+Mappings](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H)</span>
 page’s <span style="font-style: italic;">Vertical</span> View is
 unchecked, then the rule is  not built.
 
 The mapping must be approved by a Developer on the *[Mapping
-Approval](../Page_Desc/Mapping_Approval_H.htm)* page for documentation
+Approval](../Page_Desc/Mapping_Approval_H)* page for documentation
 purposes and to help track progress of the data migration project. Refer
 to <span style="color: #0000ff;">[Approve or Reject
-Mappings](Approve_or_Reject_Mappings.htm)</span> and
+Mappings](Approve_or_Reject_Mappings)</span> and
 <span style="color: #0000ff;">[Assign Developers to a Target or
-Source](../../Design/Use_Cases/Add_Developers_and%20Business%20Contacts.htm)</span>
+Source](../../Design/Use_Cases/Add_Developers_and%20Business%20Contacts)</span>
 for more information.
 
 Once the mapping has been submitted, the **Action, Source Table, Source

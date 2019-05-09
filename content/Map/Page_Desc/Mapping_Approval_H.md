@@ -10,7 +10,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Approve or Reject
-Mappings](../Use_Cases/Approve_or_Reject_Mappings.htm).
+Mappings](../Use_Cases/Approve_or_Reject_Mappings).
 
 </div>
 
@@ -40,7 +40,7 @@ Quick Panel.
 </tr>
 <tr class="odd">
 <td><p>Download List</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Mapping_Approvals_Download_List.htm">Mapping Approvals Download List</a></span> page to download all mappings waiting for review into an Excel file or a Word document.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Mapping_Approvals_Download_List">Mapping Approvals Download List</a></span> page to download all mappings waiting for review into an Excel file or a Word document.</p></td>
 </tr>
 <tr class="even">
 <td><p>Wave NAME</p></td>
@@ -81,7 +81,7 @@ Quick Panel.
 <div class="use">
 
 Use this page to [Approve or Reject
-Mappings](../Use_Cases/Approve_or_Reject_Mappings.htm).
+Mappings](../Use_Cases/Approve_or_Reject_Mappings).
 
 </div>
 

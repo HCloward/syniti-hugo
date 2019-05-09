@@ -32,7 +32,7 @@ the template.
 **NOTE**: To add a role dependency to a template role, the template must
 not be active or must be in Developer Mode. Refer to [Modify an Active
 Template in Developer
-Mode](Modify_an_Active_Template_in_Developer_Mode.htm) for more
+Mode](Modify_an_Active_Template_in_Developer_Mode) for more
 information.
 
 To register a dependency to a role:

@@ -14,7 +14,7 @@ Construct and in custom components.
 
 **NOTE**: Lists that are supplied by the platform cannot be deleted, and
 the list name (displayed in LIST on the *[List Value
-Configuration](../Page_Desc/List_Value_Configuration.htm)* page) cannot
+Configuration](../Page_Desc/List_Value_Configuration)* page) cannot
 be edited. However, the list description can be edited.
 
 <span style="font-weight: bold;">NOTE</span>: Values supplied by the
@@ -36,7 +36,7 @@ To view, configure and List Box Values for a platform-supplied list:
     Click **Add** on Page toolbar to add a new list box value.
     
     [View the field descriptions for the Values
-    page](../Page_Desc/Values.htm)
+    page](../Page_Desc/Values)
 
 5.  Enter text in the **VALUE** field.
     
@@ -55,7 +55,7 @@ components:
 2.  Click **Add**.
     
     [View the field descriptions for the List Value Configuration
-    page](../Page_Desc/List_Value_Configuration.htm)
+    page](../Page_Desc/List_Value_Configuration)
 
 3.  Enter a list name in the **LIST** field.
     
@@ -70,7 +70,7 @@ components:
 7.  Click **Add**.
     
     [View the field descriptions for the Values
-    page](../Page_Desc/Values.htm)
+    page](../Page_Desc/Values)
 
 8.  Enter the list box value in the **Value** field.
     

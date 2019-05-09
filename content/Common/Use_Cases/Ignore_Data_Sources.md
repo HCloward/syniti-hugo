@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Configure Data Sources to be
-Ignored](Configure_Data_Sources_to_be_Ignored.htm).
+Ignored](Configure_Data_Sources_to_be_Ignored).
 
 </div>
 

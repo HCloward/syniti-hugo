@@ -19,8 +19,8 @@ not the fields below.
 Use this page to
 
   - [Manually Process Single
-    Report](../Use_Cases/Process_Reports.htm#Manually_Process_Single_Report).
-  - [View Your Group Reports](../Use_Cases/View_Your_Group_Reports.htm)
+    Report](../Use_Cases/Process_Reports#Manually_Process_Single_Report).
+  - [View Your Group Reports](../Use_Cases/View_Your_Group_Reports)
 
 </div>
 
@@ -50,7 +50,7 @@ To access this page: 
 <tr class="odd">
 <td><p>Add To Favorites</p></td>
 <td><p>Click to add the selected report(s) to the <span style="font-style: italic;">Your Favorite Reports</span> page.</p>
-<p>Refer to <a href="../Use_Cases/View_Your_Favorite_Reports.htm">View Your Favorite Reports</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/View_Your_Favorite_Reports">View Your Favorite Reports</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Remove From Favorites</p></td>
@@ -62,7 +62,7 @@ To access this page: 
 </tr>
 <tr class="even">
 <td><p>QUALITY DIMENSION</p></td>
-<td><p>A Quality Dimension is a recognized term used by data management professionals to describe a feature of data that can be measured or assessed against defined standards to determine data quality. Refer to <a href="../Use_Cases/Populate_Configuration_Tables.htm#Register_Quality_Dimensions">Register Quality Dimensions</a> for more information.</p>
+<td><p>A Quality Dimension is a recognized term used by data management professionals to describe a feature of data that can be measured or assessed against defined standards to determine data quality. Refer to <a href="../Use_Cases/Populate_Configuration_Tables#Register_Quality_Dimensions">Register Quality Dimensions</a> for more information.</p>
 <p><strong>NOTE:</strong> dspMonitor™ is delivered with six industry standard quality dimensions: Accuracy, Completeness, Conformity, Integrity, Timeliness and Uniqueness.</p>
 <p><strong>NOTE:</strong> All Error reports require a quality dimension.</p></td>
 </tr>
@@ -77,7 +77,7 @@ To access this page: 
 <tr class="odd">
 <td><p>SIGMA LEVEL</p></td>
 <td><p>Displays the sigma level based on data quality score calculations.</p>
-<p>The Enable Sigma Level checkbox on the <em><a href="Parameters.htm">Parameters</a></em> page must be checked for this field to display.</p></td>
+<p>The Enable Sigma Level checkbox on the <em><a href="Parameters">Parameters</a></em> page must be checked for this field to display.</p></td>
 </tr>
 <tr class="even">
 <td><p>OPPORTUNITIES</p></td>
@@ -136,8 +136,8 @@ H](#Your_Group_Reports_H)
 Use this page to
 
   - [Manually Process Single
-    Report](../Use_Cases/Process_Reports.htm#Manually_Process_Single_Report).
-  - [View Your Group Reports](../Use_Cases/View_Your_Group_Reports.htm)
+    Report](../Use_Cases/Process_Reports#Manually_Process_Single_Report).
+  - [View Your Group Reports](../Use_Cases/View_Your_Group_Reports)
 
 </div>
 
@@ -208,7 +208,7 @@ A Quality Dimension is a recognized term used by data management
 professionals to describe a feature of data that can be measured or
 assessed against defined standards to determine data quality. Refer to
 [Register Quality
-Dimensions](../Use_Cases/Populate_Configuration_Tables.htm#Register_Quality_Dimensions)
+Dimensions](../Use_Cases/Populate_Configuration_Tables#Register_Quality_Dimensions)
 for more information.
 
 **NOTE:** dspMonitor™ is delivered with six industry standard quality

@@ -19,9 +19,9 @@ not the fields below.
 Use this page to:
 
   - [View Your Application Table Column
-    Reports](../Use_Cases/View_Your_Application_Table_Column_Reports.htm)
+    Reports](../Use_Cases/View_Your_Application_Table_Column_Reports)
   - [Manually Process Single Application Table Column
-    Report](../Use_Cases/Process_Reports.htm#Manually_Process_Single_Application_Table_Column_Report)
+    Report](../Use_Cases/Process_Reports#Manually_Process_Single_Application_Table_Column_Report)
 
 </div>
 
@@ -44,7 +44,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>QUALITY DIMENSION</p></td>
-<td><p>A Quality Dimension is a recognized term used by data management professionals to describe a feature of data that can be measured or assessed against defined standards to determine data quality. Refer to <a href="../Use_Cases/Populate_Configuration_Tables.htm#Register_Quality_Dimensions">Register Quality Dimensions</a> for more information.</p>
+<td><p>A Quality Dimension is a recognized term used by data management professionals to describe a feature of data that can be measured or assessed against defined standards to determine data quality. Refer to <a href="../Use_Cases/Populate_Configuration_Tables#Register_Quality_Dimensions">Register Quality Dimensions</a> for more information.</p>
 <p><strong>NOTE:</strong> dspMonitor™ is delivered with six industry standard quality dimensions: Accuracy, Completeness, Conformity, Integrity, Timeliness and Uniqueness.</p>
 <p><strong>NOTE:</strong> All Error reports require a quality dimension.</p></td>
 </tr>
@@ -59,7 +59,7 @@ To access this page:
 <tr class="even">
 <td><p>SIGMA LEVEL</p></td>
 <td><p>Displays the sigma level based on data quality score calculations.</p>
-<p>The Enable Sigma Level checkbox on the <em><a href="Parameters.htm">Parameters</a></em> page must be checked for this field to display.</p></td>
+<p>The Enable Sigma Level checkbox on the <em><a href="Parameters">Parameters</a></em> page must be checked for this field to display.</p></td>
 </tr>
 <tr class="odd">
 <td><p>OPPORTUNITIES</p></td>
@@ -103,7 +103,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Metrics</p></td>
-<td><p>Click to open the Your Report Metrics Chart to view a line chart of the report’s record count history and the <em><a href="Your_Metrics.htm">Your Metrics</a></em> page to view data about the report, e.g., the last time the report was processed.</p></td>
+<td><p>Click to open the Your Report Metrics Chart to view a line chart of the report’s record count history and the <em><a href="Your_Metrics">Your Metrics</a></em> page to view data about the report, e.g., the last time the report was processed.</p></td>
 </tr>
 </tbody>
 </table>
@@ -117,9 +117,9 @@ To access this page:
 Use this page to.
 
   - [View Your Application Table Column
-    Reports](../Use_Cases/View_Your_Application_Table_Column_Reports.htm)
+    Reports](../Use_Cases/View_Your_Application_Table_Column_Reports)
   - [Manually Process Single Application Table Column
-    Report](../Use_Cases/Process_Reports.htm#Manually_Process_Single_Application_Table_Column_Report)
+    Report](../Use_Cases/Process_Reports#Manually_Process_Single_Application_Table_Column_Report)
 
 </div>
 
@@ -185,7 +185,7 @@ Displays the Quality Dimension, an industry- recognized term used by
 data management professionals to describe a feature of data that can be
 measured or assessed against defined standards to determine data
 quality. Refer to [Register Quality
-Dimensions](../Use_Cases/Populate_Configuration_Tables.htm#Register_Quality_Dimensions)
+Dimensions](../Use_Cases/Populate_Configuration_Tables#Register_Quality_Dimensions)
 for more information.
 
 **NOTE:** dspMonitor™ is delivered with six industry standard quality
@@ -229,7 +229,7 @@ Favorite Settings
 Favorite
 
 If enabled, the selected report has been added as a favorite report and
-displays on the *[Your Favorite Reports](Your_Favorite_Reports_H.htm)*
+displays on the *[Your Favorite Reports](Your_Favorite_Reports_H)*
 page.
 
 ## <span id="Report"></span>Report Generation Info tab
@@ -258,7 +258,7 @@ Displays date and time when report completed running.
 
 Queue
 
-Click to open the *[Monitor](Monitor_H.htm)* page to view the process
+Click to open the *[Monitor](Monitor_H)* page to view the process
 queue for reports.
 
 View
@@ -275,7 +275,7 @@ Metrics
 
 Click to open the Your Report Metrics Chart to view a line chart of the
 report’s record count history and the *[*Your
-Metrics*](Your_Metrics.htm)* page to view data about the report, e.g.,
+Metrics*](Your_Metrics)* page to view data about the report, e.g.,
 the last time the report was processed.
 
 Reset Metrics

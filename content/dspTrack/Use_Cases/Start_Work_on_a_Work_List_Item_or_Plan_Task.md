@@ -10,7 +10,7 @@ A user can mark an item as started on the <span>Work List</span>.
 <span style="font-weight: bold;">NOTE</span>: Depending on how a user's
 workflow preferences are set, a resource may receive an email when a
 task is in Ready status and work on the item can begin. Refer to
-[Receive Workflow Messages](Receive_Workflow_Messages.htm)  for more
+[Receive Workflow Messages](Receive_Workflow_Messages)  for more
 information.
 
 <span style="font-weight: bold;">NOTE:</span> Work on a task cannot
@@ -28,5 +28,5 @@ To start work on a Plan Task or Work List Item:
 
 dspTrack™ moves the item's status to In Progress.
 
-Refer to [Task Status](../Page_Desc/Task_Status1.htm) for more
+Refer to [Task Status](../Page_Desc/Task_Status1) for more
 information.

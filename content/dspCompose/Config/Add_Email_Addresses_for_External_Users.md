@@ -23,7 +23,7 @@ Within dspCompose™, external user addresses can be added on these pages:
     
     **NOTE**: This page is only available when an external request
     scenario has been created for the template. Refer to [Use External
-    Request Scenarios](../Use_Cases/Use_External_Request_Scenarios.htm)
+    Request Scenarios](../Use_Cases/Use_External_Request_Scenarios)
     for more information.
 
 <!-- end list -->
@@ -33,7 +33,7 @@ Within dspCompose™, external user addresses can be added on these pages:
     **NOTE**: This page is only available when an External Data role is
     configured for the template. Refer to [Use External Data Roles in
     Request
-    Processing](../Use_Cases/Use_External_Data_Roles_in_Request_Processing.htm)
+    Processing](../Use_Cases/Use_External_Data_Roles_in_Request_Processing)
     for more information.
 
 To add an email address for an external user on the *External Users*
@@ -45,7 +45,7 @@ page:
     Otherwise, click **Add**.
     
     *[View the field descriptions for the External Users
-    page](../Page_Desc/External_Users.htm)*
+    page](../Page_Desc/External_Users)*
 
 2.  Enter the email address for the external user in the **EMAIL
     ADDRESS** field.
@@ -70,7 +70,7 @@ email does not display a user ID, while those users registered in the
 platform do display a user ID.
 
 Refer to [Add Email Addresses for a
-Scenario](../Use_Cases/Add_Email_Addresses_for_a_Scenario.htm) for more
+Scenario](../Use_Cases/Add_Email_Addresses_for_a_Scenario) for more
 information about adding an email address for an external user on the
 *Template (External Request Scenario Email Address)* page. After the
 email is added, it displays in the EMAIL ADDRESS list box on the
@@ -82,7 +82,7 @@ platform, an external user’s email does not display a user ID, while
 those users registered in the platform do display a user ID.
 
 Refer to [Set External Role Contacts for an External Request
-Scenario](../Use_Cases/Set_External_Role_Contacts.htm) to add an email
+Scenario](../Use_Cases/Set_External_Role_Contacts) to add an email
 address for an external user on the *Template (External Request Scenario
 External Role)* page. After the email is added, it displays in the EMAIL
 ADDRESS list box on the *Template (External Request Scenario Email

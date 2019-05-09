@@ -19,7 +19,7 @@ To run DBMoto® Table Rules:
 2.  Click **Add**.
     
     [View the field descriptions for the DBMoto Table Rules
-    page](../Page_Desc/DBMoto_Table_Rules.htm)
+    page](../Page_Desc/DBMoto_Table_Rules)
 
 3.  Enter source table in **TABLE** field.
 

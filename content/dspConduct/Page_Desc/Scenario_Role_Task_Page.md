@@ -10,13 +10,13 @@ solution = 'Master Data Management'
 Use this page to:
 
   - [Generate a Control Table for Content WebApp
-    Pages](../Use_Cases/Generate_a_Control_Table_for_Content_WebApp_Pages.htm)
+    Pages](../Use_Cases/Generate_a_Control_Table_for_Content_WebApp_Pages)
   - [Update Control Table
-    Data](../Use_Cases/Update_Control_Table_Data.htm)
+    Data](../Use_Cases/Update_Control_Table_Data)
   - [Generate Control Views for Content WebApp
-    Pages](../Use_Cases/Generate_Control_Views_for_Content_WebApp_Pages.htm)
+    Pages](../Use_Cases/Generate_Control_Views_for_Content_WebApp_Pages)
   - [Create Validation Views for a Content WebApp Task
-    Page](../Use_Cases/Create_ValidationViews_Content_Page.htm)
+    Page](../Use_Cases/Create_ValidationViews_Content_Page)
 
 </div>
 
@@ -46,7 +46,7 @@ To access this page:
 <tr class="odd">
 <td><p>Create Control Table</p></td>
 <td><p>Click to create a table used to store data to be used as the basis when dspConduct™ builds a Data Control View (DCV) or a Page Control View (PCV) for one or more selected records..</p>
-<p>The table is built using the control status information configured on the <a href="Scenario_Role_Task_Column_H.htm#ScenarioRoleTaskColumn">Scenario Role Task Column</a> page for the task.</p></td>
+<p>The table is built using the control status information configured on the <a href="Scenario_Role_Task_Column_H#ScenarioRoleTaskColumn">Scenario Role Task Column</a> page for the task.</p></td>
 </tr>
 <tr class="even">
 <td><p>Create Control View</p></td>
@@ -55,17 +55,17 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Update Control Data</p></td>
-<td><p>Click to update the table generated for the selected page using the control status information from the <a href="Scenario_Role_Task_Column_H.htm#ScenarioRoleTaskColumn">Scenario Role Task Column</a> page for the task for one or more selected records..</p></td>
+<td><p>Click to update the table generated for the selected page using the control status information from the <a href="Scenario_Role_Task_Column_H#ScenarioRoleTaskColumn">Scenario Role Task Column</a> page for the task for one or more selected records..</p></td>
 </tr>
 <tr class="even">
 <td><p>Create Validation Views</p></td>
 <td><p>Click to create a validation view for each required column on the page for one or more selected records..</p>
-<p>Refer to <a href="../Use_Cases/Create_ValidationViews_Content_Page.htm">Create Validation Views for a Content WebApp Task Page</a> for more information.</p>
-<p>To create validation views for all pages in a task, refer to <a href="../Use_Cases/Create_Valid_Views_Task_Pages.htm">Create Validation Views for Content WebApp Task Pages</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Create_ValidationViews_Content_Page">Create Validation Views for a Content WebApp Task Page</a> for more information.</p>
+<p>To create validation views for all pages in a task, refer to <a href="../Use_Cases/Create_Valid_Views_Task_Pages">Create Validation Views for Content WebApp Task Pages</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>PAGE ID</p></td>
-<td><p>Displays the name of the WebApp and the page within that WebApp that is used by the task selected on the <span style="font-style: italic;"><a href="Task_H.htm">Task</a></span> page. Task pages can be dspConduct™ pages or pages developed in the Content WebApp.</p></td>
+<td><p>Displays the name of the WebApp and the page within that WebApp that is used by the task selected on the <span style="font-style: italic;"><a href="Task_H">Task</a></span> page. Task pages can be dspConduct™ pages or pages developed in the Content WebApp.</p></td>
 </tr>
 <tr class="even">
 <td><p>PAGE TYPE</p></td>

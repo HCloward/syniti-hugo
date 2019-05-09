@@ -13,7 +13,7 @@ To configure ISA parameters:
 2.  Click **Edit**.
     
     [*View the field descriptions for the Parameters* page for a
-    description of all parameters.](../Page_Desc/ISA_Parameters.htm)
+    description of all parameters.](../Page_Desc/ISA_Parameters)
 
 3.  Update all fields if default values are not applicable.
 

@@ -12,7 +12,7 @@ account configured in dspCompose™.
 
 To troubleshoot issues with sending data to and receiving data from an
 External Data role, use the *[Roles
-(Execute)](../Page_Desc/Roles_Execute.htm)* page.
+(Execute)](../Page_Desc/Roles_Execute)* page.
 
 To troubleshoot issues with sending spreadsheets to External Data roles:
 
@@ -40,7 +40,7 @@ Data roles:
     **NOTE:** Only **ROLE IDs** from External Data role types display.
     
     **NOTE:** The value in the **REQUEST ID** field on the
-    *[Request](../Page_Desc/Request_H.htm)* page identifies the request.
+    *[Request](../Page_Desc/Request_H)* page identifies the request.
 
 2.  Click the **Process Inbound File** icon for a request.
 
@@ -49,5 +49,5 @@ external data email account, dspCompose™ will process the spreadsheet
 and finish the role, then notify the next role in the workflow.
 
 Refer to [Use External Data Roles in Request
-Processing](Use_External_Data_Roles_in_Request_Processing.htm) for more
+Processing](Use_External_Data_Roles_in_Request_Processing) for more
 information.

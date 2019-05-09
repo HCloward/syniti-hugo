@@ -3,7 +3,7 @@
 <div class="use">
 
 Use this page to [Add Users to a Project
-Distribution](../Use_Cases/Add_Users_to_a_Project_Distribution.htm).
+Distribution](../Use_Cases/Add_Users_to_a_Project_Distribution).
 
 </div>
 
@@ -15,7 +15,7 @@ To access this page:
 
 <span style="font-weight: bold;">NOTE:</span> Excel Integration has been
 enabled on this page. Refer to [Use Excel
-Integration](../../../Platform/Excel_Int/Use_Excel_Integration.htm) for
+Integration](../../../Platform/Excel_Int/Use_Excel_Integration) for
 more information.
 
 <table>
@@ -42,8 +42,8 @@ more information.
 </tr>
 <tr class="even">
 <td><p>User Filters</p></td>
-<td><p>Click to open the <em><a href="Project_Distribution_User_Filters.htm">Project Distribution User Filters</a></em> page to set filters for rule data for the selected user for the project distribution.</p>
-<p>This filter takes precedence over the filter set on the <em><a href="../Use_Cases/User_Filters_ISA.htm">User Filters</a></em> page.</p></td>
+<td><p>Click to open the <em><a href="Project_Distribution_User_Filters">Project Distribution User Filters</a></em> page to set filters for rule data for the selected user for the project distribution.</p>
+<p>This filter takes precedence over the filter set on the <em><a href="../Use_Cases/User_Filters_ISA">User Filters</a></em> page.</p></td>
 </tr>
 </tbody>
 </table>

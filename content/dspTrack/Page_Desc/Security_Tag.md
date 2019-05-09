@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Configure Security
-Tags](../Use_Cases/Configure_Security_Tags.htm).
+Tags](../Use_Cases/Configure_Security_Tags).
 
 </div>
 
@@ -24,4 +24,4 @@ Type**.
 | Field       | Description                                                                                               |
 | NAME        | Displays the tag name with a Security tag type.                                                           |
 | DESCRIPTION | Displays a description of the tag.                                                                        |
-| Users       | Click to open the *[Security Tag User](Security_Tag_User.htm)* page to add and remove users from the tag. |
+| Users       | Click to open the *[Security Tag User](Security_Tag_User)* page to add and remove users from the tag. |

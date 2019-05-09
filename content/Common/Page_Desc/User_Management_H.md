@@ -11,13 +11,13 @@ solution = 'Platform'
 
 Use this page to:
 
-  - [Create a User Account in Common](../Use_Cases/Create_a_User.htm)
+  - [Create a User Account in Common](../Use_Cases/Create_a_User)
   - [Send a Temporary Password to a New
-    User](../Use_Cases/Send_a_Temporary_Password_to_a_User.htm)
+    User](../Use_Cases/Send_a_Temporary_Password_to_a_User)
   - [Reset a User's
-    Password](../Use_Cases/Reset%20a%20User's%20Password.htm)
+    Password](../Use_Cases/Reset%20a%20User's%20Password)
   - [Assign an Expiration Date to a
-    User](../Use_Cases/Assign_an_Expiration_Date_to_a_User.htm)
+    User](../Use_Cases/Assign_an_Expiration_Date_to_a_User)
 
 </div>
 
@@ -26,7 +26,7 @@ To access this page, select **Common \> User Management** in the
 
 <span style="font-weight: bold;">NOTE:</span> Excel Integration has been
 enabled on this page to allow for Excel-driven user management. Refer to
-[Use Excel Integration](../../Excel_Int/Use_Excel_Integration.htm) and
+[Use Excel Integration](../../Excel_Int/Use_Excel_Integration) and
 the Knowledge Base article [Use Excel Integration to Create or Update
 Multiple User
 Accounts](https://support.boaweb.com/hc/en-us/articles/115015883247--DSP-Administration-Use-Excel-Integration-to-Create-or-Update-Multiple-User-Accounts)
@@ -41,20 +41,20 @@ for more information.
 <tr class="even">
 <td><p>Set Password and Notify User</p></td>
 <td><p>Click to send the “user creation email” to a newly created user that has not logged in. This email is sent only the first time. When this icon is clicked for an existing user that has previously logged in, the user receives a “password reset” email. Both emails contain a temporary password and a link to log into the system. At which time, the user is prompted to change the password.</p>
-<p>Refer to the <a href="Parameters_User_Management.htm">Parameters - User Management</a> page for more information about the content of the email sent to the user.</p>
+<p>Refer to the <a href="Parameters_User_Management">Parameters - User Management</a> page for more information about the content of the email sent to the user.</p>
 <p><strong>NOTE:</strong> The Set Password and Notify User icon is disabled for users with security set through Windows Authentication.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Security Roles</p></td>
-<td><p>Click to open the <a href="User_Role.htm">User Role</a> page to assign a user to a security role. Security roles drive user security and are assigned to users at the role level.</p>
+<td><p>Click to open the <a href="User_Role">User Role</a> page to assign a user to a security role. Security roles drive user security and are assigned to users at the role level.</p>
 <p>Security roles can also be defined by an Administrator.</p>
 <p><strong>NOTE:</strong> Assigning roles to users using either method (Common or System Administration) produces the same results.</p></td>
 </tr>
 <tr class="even">
 <td><p>dspConduct™ Positions</p></td>
-<td><p>Click to open the <em>User Settings</em> page in the parent pane and the <a href="../../../Master_Data_Mgmt/dspConduct/Page_Desc/User_Position.htm">User Position</a> page in the child pane.</p>
-<p>The <span style="font-style: italic;">User Settings</span> page allows an Administrator to set workflow notification options for a user. Refer to <a href="../../../Master_Data_Mgmt/dspConduct/Config/Set_User_Workflow_Receipt_Preferences.htm">Set User Workflow Receipt Preferences</a> for more information.</p>
-<p>The <span style="font-style: italic;"><a href="../../../Master_Data_Mgmt/dspConduct/Page_Desc/User_Position.htm">User Position</a></span> page allows the Administrator to configure dspConduct™ positions to which a user has access. Refer to <a href="../../../Master_Data_Mgmt/dspConduct/Use_Cases/Configure_dspConduct_Positions_for_a_User.htm">Configure dspConduct™ Positions for a User</a> for more information.</p>
+<td><p>Click to open the <em>User Settings</em> page in the parent pane and the <a href="../../../Master_Data_Mgmt/dspConduct/Page_Desc/User_Position">User Position</a> page in the child pane.</p>
+<p>The <span style="font-style: italic;">User Settings</span> page allows an Administrator to set workflow notification options for a user. Refer to <a href="../../../Master_Data_Mgmt/dspConduct/Config/Set_User_Workflow_Receipt_Preferences">Set User Workflow Receipt Preferences</a> for more information.</p>
+<p>The <span style="font-style: italic;"><a href="../../../Master_Data_Mgmt/dspConduct/Page_Desc/User_Position">User Position</a></span> page allows the Administrator to configure dspConduct™ positions to which a user has access. Refer to <a href="../../../Master_Data_Mgmt/dspConduct/Use_Cases/Configure_dspConduct_Positions_for_a_User">Configure dspConduct™ Positions for a User</a> for more information.</p>
 <p>If the selected user does not have access to dspConduct™, the icon is disabled. Once the user is added to a role that has access, the icon is  active.</p>
 <p>If the user that is logged in does not have access to dspConduct™, the icon is not displayed.</p></td>
 </tr>
@@ -76,7 +76,7 @@ for more information.
 </tr>
 <tr class="odd">
 <td><p>CALENDAR ID</p></td>
-<td><p>Displays the calendar assigned to the user. Refer to <a href="../Use_Cases/Use_a_Calendar.htm">Use a Calendar</a> in Common for more information about setting up calendars.</p></td>
+<td><p>Displays the calendar assigned to the user. Refer to <a href="../Use_Cases/Use_a_Calendar">Use a Calendar</a> in Common for more information about setting up calendars.</p></td>
 </tr>
 </tbody>
 </table>
@@ -88,7 +88,7 @@ for more information.
 <div class="use">
 
 Use this page to [Send a Temporary Password to a
-User](../Use_Cases/Send_a_Temporary_Password_to_a_User.htm).
+User](../Use_Cases/Send_a_Temporary_Password_to_a_User).
 
 </div>
 
@@ -131,7 +131,7 @@ user who has logged into the system. The email contains the user name
 and a temporary password
 
 Refer to the [Parameters - User
-Management](Parameters_User_Management.htm) page for more information
+Management](Parameters_User_Management) page for more information
 about the content of the email sent to the user.
 
 **NOTE:** The Resend User Creation Email icon is disabled for users with
@@ -156,7 +156,7 @@ controls colors, fonts, etc. of the user interface.
 Calendar ID
 
 Displays the calendar assigned to the user. Refer to [Use a
-Calendar](../Use_Cases/Use_a_Calendar.htm) for more information about
+Calendar](../Use_Cases/Use_a_Calendar) for more information about
 setting up calendars.
 
 Contact Information

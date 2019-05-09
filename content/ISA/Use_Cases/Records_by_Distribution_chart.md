@@ -6,15 +6,15 @@ Project chart.<span> </span>
 
 Hover a cursor over a data point in the corresponding [Record Trend by
 Project Distribution
-chart](Record_Trend_by_Project_Distribution_Chart.htm) to view the total
+chart](Record_Trend_by_Project_Distribution_Chart) to view the total
 number of failed records per day. Each Project Distribution has a
 separate line on the chart.
 
 Click a bar in the chart to display the [Records by Rule
-chart](Records_by_Rule_chart.htm).
+chart](Records_by_Rule_chart).
 
 <span style="font-weight: bold;">NOTE</span>: Refer to [View ISA
-Dashboards](View_ISA_Dashboards.htm) for general information about
+Dashboards](View_ISA_Dashboards) for general information about
 charts, including the type of data charts display, configuration of
 retention parameters for metrics and historical data, and how record
 counts differ on charts and reports.

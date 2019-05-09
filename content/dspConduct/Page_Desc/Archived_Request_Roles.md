@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [View Archived
-Requests](../Use_Cases/View_Archived_Requests_DGE.htm).
+Requests](../Use_Cases/View_Archived_Requests_DGE).
 
 </div>
 
@@ -46,15 +46,15 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Tasks</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Archived_Request_Role_Task.htm">Archived Request Role Task</a></span> page to view the tasks associated with the selected role for the archived request.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Archived_Request_Role_Task">Archived Request Role Task</a></span> page to view the tasks associated with the selected role for the archived request.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Role Log</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Archived_Request_Role_Log.htm">Archived Request Role Log</a></span> page to view details about the selected role for the archived request.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Archived_Request_Role_Log">Archived Request Role Log</a></span> page to view details about the selected role for the archived request.</p></td>
 </tr>
 <tr class="even">
 <td><p>Role SLA</p></td>
-<td><p>Click to open the <a href="Archived_Request_Role_SLA.htm">Archived Request Role SLA</a> page to view details about the selected roles SLA requirements.</p></td>
+<td><p>Click to open the <a href="Archived_Request_Role_SLA">Archived Request Role SLA</a> page to view details about the selected roles SLA requirements.</p></td>
 </tr>
 </tbody>
 </table>

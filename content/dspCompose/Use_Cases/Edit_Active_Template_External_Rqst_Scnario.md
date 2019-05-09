@@ -9,9 +9,9 @@ When a template with an external request scenario that uses an
 Excel-initiated request is activated or is in Developer mode, updates to
 external request scenario settings are restricted.
 
-Refer to [Activate the Template](Activate_the_Template.htm) and [Modify
+Refer to [Activate the Template](Activate_the_Template) and [Modify
 an Active Template in Developer
-Mode](Modify_an_Active_Template_in_Developer_Mode.htm) for more
+Mode](Modify_an_Active_Template_in_Developer_Mode) for more
 information.
 
 The following table details the edits allowed.

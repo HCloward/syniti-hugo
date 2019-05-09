@@ -13,15 +13,15 @@ Before performing this task:
     server name, system number and log in credentials.
   - Add an SAP connection. <span style="font-size: 11.0pt;">Refer to
     [Establish a Connection via a Direct Connection to the Application
-    Server](Establish_a_Connection_Direct_Connection.htm)  and
+    Server](Establish_a_Connection_Direct_Connection)  and
     [Establish a Connection via a Message
-    Server](Establish_a_Connection_via_a_Message_Server.htm) for more
+    Server](Establish_a_Connection_via_a_Message_Server) for more
     information. </span>
 
 Integrate and dspCompose™ templates use connections to a data source to
 download data from a target system. A process template posts data to the
 instance. Refer to [Establish a Connection to a Target System
-Overview](Establish_a_Connection_to_a_target_system_Overview.htm) for
+Overview](Establish_a_Connection_to_a_target_system_Overview) for
 general information.
 
 **NOTE**: If a user adds a request based on a template and does not
@@ -31,10 +31,10 @@ Template is used for the request.
 When connecting to SAP, the default credentials are used for all users
 except for those with user credentials set on the
 <span style="font-style: italic;">[Data Source Registry User
-Credentials](../Page_Desc/Data_Source_Registry_User_Credentials_H.htm)</span>
+Credentials](../Page_Desc/Data_Source_Registry_User_Credentials_H)</span>
 page. Refer to [Add User Credentials to a Target System Connection for a
 Specific
-User](Add_User_Credentials_to_an_SAP_Connection_for_a_Specific_Use.htm)<span> </span>for
+User](Add_User_Credentials_to_an_SAP_Connection_for_a_Specific_Use)<span> </span>for
 more information.
 
 To add default credentials in Common:
@@ -49,7 +49,7 @@ To add default credentials in Common:
 3.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the Data Source Registry
-    page.](../Page_Desc/Data_Source_Registry_H.htm#Data_Source_Registry_V)
+    page.](../Page_Desc/Data_Source_Registry_H#Data_Source_Registry_V)
 
 4.  Enter the SAP client number in the **SAPCLIENT field**.
 

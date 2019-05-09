@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Organize Plans with
-Projects](../Use_Cases/Organize_Plans_with_Projects.htm).
+Projects](../Use_Cases/Organize_Plans_with_Projects).
 
 </div>
 
@@ -27,7 +27,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Copy Plan</p></td>
-<td><p>Click to open the <em><a href="../Use_Cases/Copy_Plan.htm">Copy Plan</a></em> page to create a new plan based on a copy of the selected plan.</p></td>
+<td><p>Click to open the <em><a href="../Use_Cases/Copy_Plan">Copy Plan</a></em> page to create a new plan based on a copy of the selected plan.</p></td>
 </tr>
 <tr class="odd">
 <td><p>NAME</p></td>
@@ -47,34 +47,34 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Tasks</p></td>
-<td><p>Click to open the <em><a href="Plan_Task_H.htm">Plan Task</a></em> page to add, configure and delete plan tasks from the plan. The number on the icon represents the number of tasks in the plan.</p>
-<p>Refer to <a href="../Use_Cases/Work_with_Plan_Tasks.htm">Work With Plan Tasks</a> for more information.</p></td>
+<td><p>Click to open the <em><a href="Plan_Task_H">Plan Task</a></em> page to add, configure and delete plan tasks from the plan. The number on the icon represents the number of tasks in the plan.</p>
+<p>Refer to <a href="../Use_Cases/Work_with_Plan_Tasks">Work With Plan Tasks</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Tags</p></td>
-<td><p>Click to open the <em><a href="Plan_Tag.htm"><em>Plan Tag</em></a></em> page to view tags assigned to the plan tasks in the plan. The number on the icon represents the number of tags that are assigned to the tasks in the plan.</p>
-<p>Refer to <a href="../Use_Cases/Use_Tags.htm">Use Tags f</a>or more information.</p></td>
+<td><p>Click to open the <em><a href="Plan_Tag"><em>Plan Tag</em></a></em> page to view tags assigned to the plan tasks in the plan. The number on the icon represents the number of tags that are assigned to the tasks in the plan.</p>
+<p>Refer to <a href="../Use_Cases/Use_Tags">Use Tags f</a>or more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Rules</p></td>
-<td><p>Click to open the <a href="Work_List_Event_Rules.htm"><em>Work List Event Rules</em></a> page to add, edit and delete the rules that are executed for tasks in the plan when work on the task starts or finishes. The number on the icon represents the number of rules registered to the plan.</p>
-<p>Refer to <a href="../Use_Cases/Register_Work_List_Event_Rules_for_a_Plan.htm">Register Work List Event Rules</a> for more information.</p></td>
+<td><p>Click to open the <a href="Work_List_Event_Rules"><em>Work List Event Rules</em></a> page to add, edit and delete the rules that are executed for tasks in the plan when work on the task starts or finishes. The number on the icon represents the number of rules registered to the plan.</p>
+<p>Refer to <a href="../Use_Cases/Register_Work_List_Event_Rules_for_a_Plan">Register Work List Event Rules</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Validations</p></td>
-<td><p>Click to open the <em><a href="Work_List_Event_Validations_H.htm">Work List Event Validations</a></em> page to add, edit and delete the validations that are executed for tasks in the plan when work on the task starts or finishes. The number on the icon represents the number of validations registered to the plan. Refer to <a href="../Use_Cases/Register_WorkList_Event_Validations_Plan.htm">Register Work List Event Validations</a> for more information.</p></td>
+<td><p>Click to open the <em><a href="Work_List_Event_Validations_H">Work List Event Validations</a></em> page to add, edit and delete the validations that are executed for tasks in the plan when work on the task starts or finishes. The number on the icon represents the number of validations registered to the plan. Refer to <a href="../Use_Cases/Register_WorkList_Event_Validations_Plan">Register Work List Event Validations</a> for more information.</p></td>
 </tr>
 </tbody>
 </table>
 
 ## <span id="Plan_V"></span>Plan V
 
-[Plan H](Plan_H.htm)
+[Plan H](Plan_H)
 
 <div class="use">
 
 Use this page to [Organize Projects with
-Plans](../Use_Cases/Organize_Plans_with_Projects.htm).
+Plans](../Use_Cases/Organize_Plans_with_Projects).
 
 </div>
 
@@ -168,15 +168,15 @@ Default Calendar
 
 Displays the calendar used for the schedule status calculations for the
 selected plan. Refer to [Use a
-Calendar](../../Common/Use_Cases/Use_a_Calendar.htm) for more
+Calendar](../../Common/Use_Cases/Use_a_Calendar) for more
 information.
 
 Attachments
 
-Click to open the *[Attachments](Attachments.htm)* page to upload files
+Click to open the *[Attachments](Attachments)* page to upload files
 and to download and view files that have been uploaded. Refer to [Upload
 Files for a Plan, Task or Work List
-Item](../Use_Cases/UpldFilesfoProjTaskWrkListItem.htm) for more
+Item](../Use_Cases/UpldFilesfoProjTaskWrkListItem) for more
 information.
 
 Audit Information
@@ -218,12 +218,12 @@ when a task is in a status of In Progress.
 <span>Use this tab to:</span>
 
   - [Import a Project
-    File](../Use_Cases/Import_the_Project_File_into_dspTrack.htm)
+    File](../Use_Cases/Import_the_Project_File_into_dspTrack)
   - [Activate and Deactivate a
-    Plan](../Use_Cases/Activate_and_Deactivate_a_Plan.htm)
+    Plan](../Use_Cases/Activate_and_Deactivate_a_Plan)
   - [Calculate the Critical
-    Path](../Use_Cases/Calculate_the_Critical_Path_for_a_Plan.htm)
-  - [Export a Project File](../Use_Cases/Export_a_Project_File.htm)
+    Path](../Use_Cases/Calculate_the_Critical_Path_for_a_Plan)
+  - [Export a Project File](../Use_Cases/Export_a_Project_File)
 
 </div>
 
@@ -243,7 +243,7 @@ Values are MSProject 2012 and Excel 2007.
     file being imported.
 
 Refer to [Import a Project File into
-dspTrack™](../Use_Cases/Import_Project_Files_into_dspTrack.htm) for
+dspTrack™](../Use_Cases/Import_Project_Files_into_dspTrack) for
 more information.
 
 Plan Actions
@@ -255,7 +255,7 @@ to download a project file while exporting a file.
 
 Prior to import, the file type must be selected in the Project File Type
 list box on the General tab. Refer to [Import a File into
-dspTrack™](../Use_Cases/Import_Project_Files_into_dspTrack.htm) for
+dspTrack™](../Use_Cases/Import_Project_Files_into_dspTrack) for
 more information.
 
 Import
@@ -263,7 +263,7 @@ Import
 Click to import an uploaded file into dspTrack™.
 
 Refer to [Import a File into
-dspTrack™](../Use_Cases/Import_Project_Files_into_dspTrack.htm) for
+dspTrack™](../Use_Cases/Import_Project_Files_into_dspTrack) for
 more information.
 
 Deactivate/Activate Plan
@@ -275,7 +275,7 @@ tasks can be tracked. Tasks in an inactive plan do not display on the
 Work List and work on these tasks cannot be tracked.
 
 Refer to [Activate and Deactivate a
-Plan](../Use_Cases/Activate_and_Deactivate_a_Plan.htm) for more
+Plan](../Use_Cases/Activate_and_Deactivate_a_Plan) for more
 information.
 
 Calculate
@@ -299,7 +299,7 @@ Vertical View).
 Export
 
 Click to export the plan into an Excel file or an MSProject file. Refer
-to [Export a Project File](../Use_Cases/Export_a_Project_File.htm) for
+to [Export a Project File](../Use_Cases/Export_a_Project_File) for
 more information.
 
 ### <span id="tatus_Configuration_Tab"></span>Status Configuration tab
@@ -307,7 +307,7 @@ more information.
 <div class="use">
 
 Use this tab to [Set Parameters for Schedule Status
-Calculation](../Use_Cases/Set_Parameters_for_Schedule_Status_Calculation.htm).
+Calculation](../Use_Cases/Set_Parameters_for_Schedule_Status_Calculation).
 
 </div>
 
@@ -343,7 +343,7 @@ the planned start date that the task’s schedule status is behind and its
 Schedule Status icon is yellow.
 
 Refer to [Set Parameters for Schedule Status
-Calculation](../Use_Cases/Set_Parameters_for_Schedule_Status_Calculation.htm)
+Calculation](../Use_Cases/Set_Parameters_for_Schedule_Status_Calculation)
 for more information.
 
 Post Start
@@ -354,7 +354,7 @@ in time after the planned start date that the task’s schedule status is
 late and its Schedule Status icon is red.
 
 Refer to [Set Parameters for Schedule Status
-Calculation](../Use_Cases/Set_Parameters_for_Schedule_Status_Calculation.htm)
+Calculation](../Use_Cases/Set_Parameters_for_Schedule_Status_Calculation)
 for more information.
 
 Pre End
@@ -367,7 +367,7 @@ finish date that the task’s schedule status is behind and its Schedule
 Status icon is yellow.
 
 Refer to [Set Parameters for Schedule Status
-Calculation](../Use_Cases/Set_Parameters_for_Schedule_Status_Calculation.htm)
+Calculation](../Use_Cases/Set_Parameters_for_Schedule_Status_Calculation)
 for more information.
 
 Post End
@@ -380,7 +380,7 @@ date that the task’s schedule status is late and its Schedule Status
 icon is red.
 
 Refer to [Set Parameters for Schedule Status
-Calculation](../Use_Cases/Set_Parameters_for_Schedule_Status_Calculation.htm)
+Calculation](../Use_Cases/Set_Parameters_for_Schedule_Status_Calculation)
 for more
 information.
 
@@ -394,22 +394,22 @@ information.
 </tr>
 <tr class="even">
 <td><p>Predecessor Dependency</p></td>
-<td><p>Click to open the <em><a href="Project_Dependency.htm">Project Dependency</a></em> page to view dependency relationships for successor tasks in the plan. Other tasks in the plan depend on these tasks to either start or complete (depending on the Dependency Type).</p>
-<p><strong>NOTE</strong>: A predecessor dependency can affect Task Status on the Work List. Refer to <a href="../Use_Cases/Use_Dependency_Types.htm">Use Dependency Type</a>s for more information.</p>
+<td><p>Click to open the <em><a href="Project_Dependency">Project Dependency</a></em> page to view dependency relationships for successor tasks in the plan. Other tasks in the plan depend on these tasks to either start or complete (depending on the Dependency Type).</p>
+<p><strong>NOTE</strong>: A predecessor dependency can affect Task Status on the Work List. Refer to <a href="../Use_Cases/Use_Dependency_Types">Use Dependency Type</a>s for more information.</p>
 <p>The number on this icon is the number of tasks that have a predecessor dependency in the plan.</p>
-<p>Dependencies are set at the task level on the <em><a href="Plan_Task_Dependency.htm"><em>Plan Task Dependency</em></a></em> page.</p></td>
+<p>Dependencies are set at the task level on the <em><a href="Plan_Task_Dependency"><em>Plan Task Dependency</em></a></em> page.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Successor Dependency</p></td>
-<td><p>Click to open the <em><a href="Project_Dependency.htm"><em>Project Dependency</em></a></em> page to view dependency relationships for dependent tasks in the plan. Other tasks in the plan must either start or complete (depending on the Dependency Type) before dependent tasks in the plan can start or complete.</p>
-<p><strong>NOTE</strong>: A successor Dependency can affect Task Status on the Work List. Refer to <a href="../Use_Cases/Use_Dependency_Types.htm">Use Dependency Types</a> for more information.</p>
-<p>Dependencies are set at the task level on the <em><a href="Plan_Task_Dependency.htm">Plan Task Dependency</a></em> page.</p>
+<td><p>Click to open the <em><a href="Project_Dependency"><em>Project Dependency</em></a></em> page to view dependency relationships for dependent tasks in the plan. Other tasks in the plan must either start or complete (depending on the Dependency Type) before dependent tasks in the plan can start or complete.</p>
+<p><strong>NOTE</strong>: A successor Dependency can affect Task Status on the Work List. Refer to <a href="../Use_Cases/Use_Dependency_Types">Use Dependency Types</a> for more information.</p>
+<p>Dependencies are set at the task level on the <em><a href="Plan_Task_Dependency">Plan Task Dependency</a></em> page.</p>
 <p>The number on this icon is the number of tasks that have a successor dependency in the plan.</p>
 <p>Dependencies are set at the task level on the <em>Plan Task Dependency</em> page.</p></td>
 </tr>
 <tr class="even">
 <td><p>Late Tasks</p></td>
-<td><p>Click to open the <em><a href="Late_Task.htm">Late Task</a></em> page to view tasks that are late based on the project plan, warn thresholds and other factors. Refer to <a href="../Use_Cases/View_Late_Tasks.htm">View Late Tasks</a> for more information.</p>
+<td><p>Click to open the <em><a href="Late_Task">Late Task</a></em> page to view tasks that are late based on the project plan, warn thresholds and other factors. Refer to <a href="../Use_Cases/View_Late_Tasks">View Late Tasks</a> for more information.</p>
 <p>The number on this icon is the number of late tasks in the plan.</p>
 <p><strong>NOTE</strong>: The icon always displays red, even if there are no late tasks in the plan.</p></td>
 </tr>
@@ -421,15 +421,15 @@ information.
 |                             |                                                                                                                                                                                                                                                                                                                                                                   |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Field                       | Description                                                                                                                                                                                                                                                                                                                                                       |
-| Setup                       | Click to open the *[Plan Access Setup](Project_Access_Setup.htm)* page to grant users permission to make updates to the plan or to restrict users to read only access. Refer to [Set Plan Security](../Config/Set_Plan_Security.htm) for more information.                                                                                                        |
-| Register Unregistered Users | Click to open the *[Plan User Registration](Plan_User_Registration.htm)* page to register users who were imported into dspTrack™ along with a project file, but who do not have user accounts in the platform. Refer to [Register Unregistered Users Imported into dspTrack™](../Use_Cases/Register_Unregistered_Users_Imprtd_dspTrack.htm) for more information. |
+| Setup                       | Click to open the *[Plan Access Setup](Project_Access_Setup)* page to grant users permission to make updates to the plan or to restrict users to read only access. Refer to [Set Plan Security](../Config/Set_Plan_Security) for more information.                                                                                                        |
+| Register Unregistered Users | Click to open the *[Plan User Registration](Plan_User_Registration)* page to register users who were imported into dspTrack™ along with a project file, but who do not have user accounts in the platform. Refer to [Register Unregistered Users Imported into dspTrack™](../Use_Cases/Register_Unregistered_Users_Imprtd_dspTrack) for more information. |
 
 ### <span id="Archive_Tab"></span>Archive tab
 
 <div class="use">
 
 Use this page to [Archive a
-Plan](../Use_Cases/Archive_a_Plan.htm).
+Plan](../Use_Cases/Archive_a_Plan).
 
 </div>
 

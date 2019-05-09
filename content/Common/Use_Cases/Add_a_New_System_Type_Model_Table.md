@@ -8,11 +8,11 @@ solution = 'Platform'
 An Administrator performs this task to document which tables are
 required to be populated when building the System Type.
 
-The System Type model must be [added](Add_a_New_System_Type_Model.htm)
+The System Type model must be [added](Add_a_New_System_Type_Model)
 before this task can be performed.
 
 For the System Type import to work, all tables on the [System Types
-Model Tables](../Page_Desc/System_Types_Model_Tables.htm) page must
+Model Tables](../Page_Desc/System_Types_Model_Tables) page must
 exist and contain data.
 
 The following System Type models and associated tables are delivered
@@ -61,12 +61,12 @@ To add a System Type model table in Common:
     pane.
 
 2.  Select the **SYSTEM TYPE MODEL** on the *[System Types
-    Models](../Page_Desc/System_Types_Models_H.htm)* page.
+    Models](../Page_Desc/System_Types_Models_H)* page.
 
 3.  Click **Add**.
     
     *[View the field descriptions for the System Types Model Tables
-    page](../Page_Desc/System_Types_Model_Tables.htm)*
+    page](../Page_Desc/System_Types_Model_Tables)*
 
 4.  Enter text in the **TABLE NAME** text box.
     

@@ -9,8 +9,8 @@ A Designer performs this task.
 
 Before this task can be completed, perform the following tasks:
 
-  - [Create a Category](Create_a_Category.htm)
-  - [Add a Role](Add_a_Role.htm)
+  - [Create a Category](Create_a_Category)
+  - [Add a Role](Add_a_Role)
 
 To upload documentation at the role level in dspConduct™:
 

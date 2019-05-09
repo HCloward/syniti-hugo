@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [View Logs for an
-Interface](../Use_Cases/View_Logs_for_an_Interface.htm).
+Interface](../Use_Cases/View_Logs_for_an_Interface).
 
 </div>
 
@@ -24,7 +24,7 @@ To access this page:
     tasks with a level set at Reporting by Importance Level or above.
     This icon is only enabled of there are tasks written to the log for
     the interface according to the level set in the Reporting by
-    Importance Level field on the *[Parameters](Parameters.htm)* page.
+    Importance Level field on the *[Parameters](Parameters)* page.
     
     Or
 
@@ -36,7 +36,7 @@ To access this page:
 |              |                                                                                                                                                        |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Field**    | **Description**                                                                                                                                        |
-| **SEVERITY** | Displays an icon indicating the severity. Refer to [Configure Logging Severities](../Use_Cases/Configure_Logging_Severities.htm) for more information. |
+| **SEVERITY** | Displays an icon indicating the severity. Refer to [Configure Logging Severities](../Use_Cases/Configure_Logging_Severities) for more information. |
 | MODULE       | Displays the name of the module, which is a category of logs that displays information based on what types of errors are logged.                       |
 | MESSAGE      | Displays a message that corresponds to the Severity . For example, with a Severity of SQL, the SQL code used to execute the task displays.             |
 | DURATION     | Displays the time it took for the task to finish running.                                                                                              |

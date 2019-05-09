@@ -16,7 +16,7 @@ Relationships between loops can be established manually, or Integrate
 can automatically determine relationships using the Auto Generate
 Database Objects feature.  Refer to
 <span style="color: #0000ff;">[Generate Database Objects
-Automatically](Generate_Database_Objects_Automatically.htm)</span> for
+Automatically](Generate_Database_Objects_Automatically)</span> for
 more information.
 
 For each unique value in the Parent Column Name, Integrate will look for
@@ -48,7 +48,7 @@ To add a relationship manually:
 4.  Click **Relationships** on Page toolbar.
     
     *[View the field descriptions for the Relationship Mapping
-    page.](../Page_Desc/RelationshipMappingBDCGUIBAPIRFC.htm)*
+    page.](../Page_Desc/RelationshipMappingBDCGUIBAPIRFC)*
     
     **NOTE**: Each loop level must be linked to another loop as either a
     parent or a child in a relationship.  The first loop in the process
@@ -69,7 +69,7 @@ To add a relationship manually:
     child Loop 1.1. This column name will link these loops together.
     
     *[View the field descriptions for the Process Template Loop View
-    Relationships page.](ProcTempLoopVwRlipsBDCGUIBAPIRFC.htm)*
+    Relationships page.](ProcTempLoopVwRlipsBDCGUIBAPIRFC)*
 
 6.  Select a column name from **Parent Column Name** list box to set the
     parent relationship.

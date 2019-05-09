@@ -13,7 +13,7 @@ The diagram displays:
 
   - The Request ID
   - The request status for the request selected on the
-    <span style="font-style: italic;">[Request](../Page_Desc/Request.htm)</span>
+    <span style="font-style: italic;">[Request](../Page_Desc/Request)</span>
     page
   - The scenario to which the request belongs
   - Related requests in the scenario and their status

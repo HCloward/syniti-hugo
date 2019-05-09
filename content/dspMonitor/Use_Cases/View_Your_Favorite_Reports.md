@@ -8,7 +8,7 @@ solution = 'Data Quality'
 A subset of frequently used reports can be marked as favorites to make
 accessing them faster. These reports display on the
 <span style="font-style: italic;">[Your Favorite
-Reports](../Page_Desc/Your_Favorite_Reports_H.htm)</span> page.  
+Reports](../Page_Desc/Your_Favorite_Reports_H)</span> page.  
 
 For example, a user may need to review a subset of reports at the end of
 the month. These reports could be added to the
@@ -18,7 +18,7 @@ easily accessed during that time.
 To view reports on the <span style="font-style: italic;">Your Favorite
 Reports</span> page, these reports must be marked as favorites on the
 <span style="font-style: italic;">[Your Group
-Reports](../Page_Desc/Your_Group_Reports_H.htm)</span> page.
+Reports](../Page_Desc/Your_Group_Reports_H)</span> page.
 
 Favorite reports can be added and removed on the
 <span style="font-style: italic;">Your Group Reports</span> page’s
@@ -40,7 +40,7 @@ To view your favorite reports: 
 2.  Click the **Favorites** icon.
     
     [*View the field descriptions for the Your Favorite Reports
-    page*](../Page_Desc/Your_Favorite_Reports_H.htm)
+    page*](../Page_Desc/Your_Favorite_Reports_H)
 
 To add a report to the <span style="font-style: italic;">Your Favorite
 Reports</span> page:

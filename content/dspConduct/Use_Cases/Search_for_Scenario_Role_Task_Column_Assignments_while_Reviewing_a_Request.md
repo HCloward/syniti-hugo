@@ -14,13 +14,13 @@ contains an incorrect value, only that role \> task combination must be
 rejected.
 
 These steps are performed as part of the review process. Refer to
-[Reject a Request](Reject_a_Request.htm) for more information.
+[Reject a Request](Reject_a_Request) for more information.
 
 The [Enabled Columns by Application
-Role](../Page_Desc/Enabled_Columns_by_Application_Role.htm) page
+Role](../Page_Desc/Enabled_Columns_by_Application_Role) page
 displays the Scenario Role Task Column configuration for enabled columns
 for the task selected on the [Request
-Role](../Page_Desc/Request_Role_H.htm) page.
+Role](../Page_Desc/Request_Role_H) page.
 
 <span style="font-weight: bold;">NOTE</span>: The Role Processor can
 also view column variants for a task if applicable. Refer to Activate

@@ -10,11 +10,11 @@ variant that checks to confirm that required columns for a scenario \>
 role \> task combination contain data. The validation checks every
 column with the Required check box enabled on the
 <span style="font-style: italic;">[Scenario Role Task
-Column](../Page_Desc/Scenario_Role_Task_Column_H.htm)</span> page for
+Column](../Page_Desc/Scenario_Role_Task_Column_H)</span> page for
 all pages in a task.
 
 Refer to [Configure the Required Setting for a Scenario Role Task
-Column](Configure_Required_Setting_Scenario_Role_Task_Column.htm) for
+Column](Configure_Required_Setting_Scenario_Role_Task_Column) for
 more information.
 
 dspConduct™ creates a validation view for each required column. If a
@@ -39,10 +39,10 @@ web\[Page View’s Root Name\] \_\[column name\]isRequiredVal. Both views
 should be used as a basis for page validations.
 
 Refer to [Activate and Configure Column
-Variants](Activate_Configure_Column_Variants.htm) for more information.
+Variants](Activate_Configure_Column_Variants) for more information.
 
 **NOTE**: Refer to [Create Tables and Views for Content WebApp Pages
-Overview](Create_Tables_and_Views_for_Content_WebApp_Pages_Overview.htm)
+Overview](Create_Tables_and_Views_for_Content_WebApp_Pages_Overview)
  for general information.
 
 **NOTE**: Once created, a Designer must register the view to the page in
@@ -50,7 +50,7 @@ the Content WebApp.
 
 A Designer can also create required column validation views a specific
 page in a task. Refer to [Create Validation Views for a Content WebApp
-Task Page](Create_ValidationViews_Content_Page.htm) for more
+Task Page](Create_ValidationViews_Content_Page) for more
 information.
 
 To create a validation view for task pages:

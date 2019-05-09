@@ -9,9 +9,9 @@ Map allows value mapping for Target fields that will contain data from
 multiple Source systems, such as Oracle, JDE, or some other legacy
 system. The values from these Source system fields will be value mapped
 to the Target field on the *[Value Mapping (Legacy to
-Target)](../Page_Desc/Value_Mapping_Legacy_to_Target_H.htm)* page. Refer
+Target)](../Page_Desc/Value_Mapping_Legacy_to_Target_H)* page. Refer
 to <span style="color: #0000ff;">[Perform Value
-Mapping](Perform_Value_Mapping.htm)</span> for more information. 
+Mapping](Perform_Value_Mapping)</span> for more information. 
 
 Define the Source table and the Source fields from the legacy systems to
 add them to the check table that allows them to be value mapped.
@@ -24,12 +24,12 @@ To define fields in Map:
 1.  Click **Map** in the Context bar.
 
 2.  Click the **Value Mapping** icon on the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page.
 
 3.  Click the **Mappings** icon for a check table.
 
 4.  Click the check table name link in the **LOOKUP** column on the
-    *[Field Mappings](../Page_Desc/Field_Mappings_H.htm)* page next to a
+    *[Field Mappings](../Page_Desc/Field_Mappings_H)* page next to a
     mapping with Xref or RuleXref action.
 
 5.  Click the **Sources** icon.
@@ -43,7 +43,7 @@ To define fields in Map:
     
     <span style="color: #0000ff;">[View the field descriptions for the
     Legacy Value (Source Table Fields)
-    page](../Page_Desc/Legacy_Value_Source_Table_Fields_H.htm)</span>
+    page](../Page_Desc/Legacy_Value_Source_Table_Fields_H)</span>
 
 9.  Enter the table name that stores the field in the **SOURCE TABLE**
     field.
@@ -51,7 +51,7 @@ To define fields in Map:
     **NOTE:** This table must exist in the Source data source that was
     assigned to Wave and Process Area in Console on the *Vertical* View
     of the *[Wave : Process
-    Areas](../../Console/Page_Desc/Wave_Process_Areas.htm)* page.
+    Areas](../../Console/Page_Desc/Wave_Process_Areas)* page.
 
 10. Enter the field name in the **SOURCE FIELD** field.
     
@@ -80,7 +80,7 @@ To define fields in Map:
 view all of the values stored in this field that must be value mapped
 and the number of records that store each value in the field. The
 *[Legacy Value (Source Table
-Fields](../Page_Desc/Legacy_Value_Source_Table_Fields_H.htm))* page that
+Fields](../Page_Desc/Legacy_Value_Source_Table_Fields_H))* page that
 displays also lists the number of records that contain no data for this
 field.
 

@@ -19,7 +19,7 @@ To create an instruction:
 2.  Click **Add**.
     
     [View the field descriptions for the Automation Instructions
-    page](../Page_Desc/Automation_Instructions.htm)
+    page](../Page_Desc/Automation_Instructions)
 
 3.  Enter the name of the instruction in **NAME** field.
 
@@ -37,7 +37,7 @@ To create an instruction:
     edited.
     
     [View the field descriptions for the Automation Instruction – SQL
-    page](../Page_Desc/Automation_Instruction_SQL.htm)
+    page](../Page_Desc/Automation_Instruction_SQL)
 
 8.  Enter SQL code used to determine if the SQL execution should precede
     in **Pre Check SQL** field if a pre check is needed.

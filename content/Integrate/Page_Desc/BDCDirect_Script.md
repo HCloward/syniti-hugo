@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Import Legacy BDCdirect® Scripts into
-Integrate](../Use_Cases/ImportLegacyBDCdirectScripts.htm).
+Integrate](../Use_Cases/ImportLegacyBDCdirectScripts).
 
 </div>
 

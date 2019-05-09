@@ -12,7 +12,7 @@ V](#Data_Source_Registry_User_Credentials_V)
 
 Use this page to [Add User Credentials to an SAP Connection for a
 Specific
-User](../Use_Cases/Add_User_Credentials_to_an_SAP_Connection_for_a_Specific_Use.htm).
+User](../Use_Cases/Add_User_Credentials_to_an_SAP_Connection_for_a_Specific_Use).
 
 </div>
 
@@ -35,7 +35,7 @@ To access this page:
 ## <span id="Data_Source_Registry_User_Credentials_V"></span>Data Source Registry User Credentials V
 
 [Data Source Registry User Credentials
-H](Data_Source_Registry_User_Credentials_H.htm)
+H](Data_Source_Registry_User_Credentials_H)
 
 Field
 

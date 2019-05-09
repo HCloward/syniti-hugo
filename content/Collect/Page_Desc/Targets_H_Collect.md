@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Register
-Targets](../Use_Cases/Register_and_Use_Targets.htm#Register_Targets).
+Targets](../Use_Cases/Register_and_Use_Targets#Register_Targets).
 
 </div>
 
@@ -31,7 +31,7 @@ pane.
 <tr class="odd">
 <td><p>Refresh</p></td>
 <td><p>Click to manually extract a copy of data from all registered sources and load into target. </p>
-<p><strong>NOTE</strong>: If the data in the target has been purged manually, or the retention expiration date for that object has passed, it cannot be refreshed and this icon is inactive. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance.htm#Purge_Data">Purge Data</a> for more information.</p></td>
+<p><strong>NOTE</strong>: If the data in the target has been purged manually, or the retention expiration date for that object has passed, it cannot be refreshed and this icon is inactive. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance#Purge_Data">Purge Data</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>TARGET</p></td>
@@ -47,18 +47,18 @@ pane.
 </tr>
 <tr class="odd">
 <td><p>Sources</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Target_Sources_H_Collect.htm">Target Sources</a></span> page to register source database where data is refreshed from and stored in the target.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Target_Sources_H_Collect">Target Sources</a></span> page to register source database where data is refreshed from and stored in the target.</p></td>
 </tr>
 <tr class="even">
 <td><p>Metrics</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Target_Source_Metric_Charts.htm">Target Source Metric Charts</a></span> page to view monthly, weekly and daily download results for target/source combination.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Target_Source_Metric_Charts">Target Source Metric Charts</a></span> page to view monthly, weekly and daily download results for target/source combination.</p></td>
 </tr>
 </tbody>
 </table>
 
 ## <span id="Targets_V"></span>Targets V
 
-[Targets H](Targets_H_Collect.htm)
+[Targets H](Targets_H_Collect)
 
 This page has two tabs:
 
@@ -72,7 +72,7 @@ This page has two tabs:
 <div class="use">
 
 Use this tab to [Register
-Targets](../Use_Cases/Register_and_Use_Targets.htm#Register_Targets).
+Targets](../Use_Cases/Register_and_Use_Targets#Register_Targets).
 
 </div>
 
@@ -128,7 +128,7 @@ Source Registry.
 Sources
 
 Click to open the <span style="font-style: italic;">[Target
-Sources](Target_Sources_H_Collect.htm)</span> page to register source
+Sources](Target_Sources_H_Collect)</span> page to register source
 database where data is refreshed from and stored in the target.
 
 General Information
@@ -174,11 +174,11 @@ problems.
 Use this tab to:
 
   - [Configure Data
-    Protection](../Use_Cases/Support_Regulatory_Compliance.htm#Configure_Data_Protection)
+    Protection](../Use_Cases/Support_Regulatory_Compliance#Configure_Data_Protection)
   - [Update the Retention Expiration
-    Date](../Use_Cases/Support_Regulatory_Compliance.htm#Update_the_Retention_Expiration_Date)
+    Date](../Use_Cases/Support_Regulatory_Compliance#Update_the_Retention_Expiration_Date)
   - [Purge
-    Data](../Use_Cases/Support_Regulatory_Compliance.htm#Purge_Data)
+    Data](../Use_Cases/Support_Regulatory_Compliance#Purge_Data)
 
 </div>
 
@@ -192,7 +192,7 @@ Use this tab to:
 <td><p>Data Controller</p></td>
 <td><p>Displays the user responsible for the processing of personal data in the target.</p>
 <p>Any user or group who is assigned the Data Controller role must have a user account in the DSP. Data Controller must have access to the target based on their assigned security role and security key.</p>
-<p><strong>NOTE:</strong> The Collect Administrator must check the WORK FLOW SUMMARY check box for the target and Data Controller on the <em><a href="Workflow_Summary_User_Settings.htm">Workflow Summary User Settings</a></em> page. The Data Controller is added to this page automatically. If the check box is not checked, the Data Controller will not receive a warning email that data is going to be purged.</p></td>
+<p><strong>NOTE:</strong> The Collect Administrator must check the WORK FLOW SUMMARY check box for the target and Data Controller on the <em><a href="Workflow_Summary_User_Settings">Workflow Summary User Settings</a></em> page. The Data Controller is added to this page automatically. If the check box is not checked, the Data Controller will not receive a warning email that data is going to be purged.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Data Classification</p></td>
@@ -203,7 +203,7 @@ Use this tab to:
 <li><strong>Public</strong> —This object contains data that does not need to be purged (for example, Units of Measure, Material Descriptions, Country Codes).</li>
 <li><strong>Restricted</strong> — This data does not need to be purged, but is marked as restricted access (for example, Company Chart of Accounts, Recipes, Work Orders).</li>
 </ul>
-<p><strong>NOTE</strong>: These options are delivered with the DSP and cannot be updated; however, a Common Administrator can create custom classifications on the Data Classification page in Common. Refer to <a href="../../Common/Use_Cases/Add%20Custom%20Data%20Classifications%20and%20Information%20Types.htm">Add Custom Data Classifications and Information Types</a> for more information.</p></td>
+<p><strong>NOTE</strong>: These options are delivered with the DSP and cannot be updated; however, a Common Administrator can create custom classifications on the Data Classification page in Common. Refer to <a href="../../Common/Use_Cases/Add%20Custom%20Data%20Classifications%20and%20Information%20Types">Add Custom Data Classifications and Information Types</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Retention Expiration Date</p></td>
@@ -212,7 +212,7 @@ Use this tab to:
 <p>A different retention expiration date can be set at the target source and table level.</p>
 <p>If no date is set for the object, the data is not purged.</p>
 <p><strong>NOTE:</strong> Updates to this field are audited. An e-signature is required.</p>
-<p><strong>NOTE:</strong> Once this data has passed, the Refresh and Build and Refresh icons on the this page, and the <em><a href="Target_Sources_H_Collect.htm">Target Sources</a></em>, and <em><a href="Tables_H.htm">Tables</a></em> pages are inactive. The target can no longer be refreshed either manually or automatically.</p></td>
+<p><strong>NOTE:</strong> Once this data has passed, the Refresh and Build and Refresh icons on the this page, and the <em><a href="Target_Sources_H_Collect">Target Sources</a></em>, and <em><a href="Tables_H">Tables</a></em> pages are inactive. The target can no longer be refreshed either manually or automatically.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Data Collection Reason</p></td>

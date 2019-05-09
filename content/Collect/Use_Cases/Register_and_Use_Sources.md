@@ -34,7 +34,7 @@ To register a source to a target: 
 3.  Click **Add**.
     
     [View the field descriptions for the Target Sources
-    page](../Page_Desc/Target_Sources_H_Collect.htm)
+    page](../Page_Desc/Target_Sources_H_Collect)
 
 4.  Select a database name from **SOURCE** list box. The source database
     must be different from the target database.
@@ -62,7 +62,7 @@ To register a source to a target: 
 8.  Click **Save**; the *Vertical* View displays.
     
     [View the field descriptions for the Target Sources page's Vertical
-    View](../Page_Desc/Target_Sources_H_Collect.htm)
+    View](../Page_Desc/Target_Sources_H_Collect)
 
 9.  Enter a brief description of the Source in **Description** field,
     e.g., DBA or Business Contact information.
@@ -87,7 +87,7 @@ To register a source to a target: 
     **NOTE:** The <span style="font-weight: bold;">Schedule ID</span>
     determines when the refresh process is run. Schedules are created
     and maintained in Common. Refer to [Create
-    Schedules](../../Common/Use_Cases/Create_Schedules.htm) for detailed
+    Schedules](../../Common/Use_Cases/Create_Schedules) for detailed
     information.
 
 13. Click **Download Keys Indices** check box to activate it, allowing
@@ -255,7 +255,7 @@ To configure a source for SAP Data Services:
 5.  Click **Edit**.
     
     *[View the field descriptions for the Target Sources page's Vertical
-    View](../Page_Desc/Target_Sources_H_Collect.htm)*
+    View](../Page_Desc/Target_Sources_H_Collect)*
 
 6.  Select the name of the target source repository in the **Data
     Services ID** field.
@@ -291,7 +291,7 @@ To configure a source for SAP Data Services:
     
     [View the field descriptions for the Target Sources – DataServices
     Connection
-    page](../Page_Desc/Target_Sources_Data_Services_Connection.htm)
+    page](../Page_Desc/Target_Sources_Data_Services_Connection)
     
     **NOTE:** The fields available on the *Target-Sources – Data
     Services Connection* page vary based on the Data Services Connection
@@ -357,7 +357,7 @@ register tables to a source:
   - **Manually** – Used if the source is not a System Type delivered
     with Common.
 
-Refer to [Register Tables to Source](Register_Tables_to_Source.htm) for
+Refer to [Register Tables to Source](Register_Tables_to_Source) for
 detailed information about this step.
 
 Continue with Build Package for Source.
@@ -377,7 +377,7 @@ To build a package for a source:
     **NOTE:** If the package name does not display in the list box,
     confirm that the package has been named following naming
     conventions. Refer to [Create
-    Packages](../../Assemble/Create_Packages.htm) for more information.
+    Packages](../../Assemble/Create_Packages) for more information.
 
 3.  Click **Targets** in *Navigation* pane.
 
@@ -402,7 +402,7 @@ DBMoto® instead of Collect.
 in Collect, a user must be assigned to a security role that has the
 Collect WebApp group WorkFlowFailureAll or WorkFlowFaiureByTargetAccess
 assigned. Refer to [Set
-Security](../../Sys_Admin/Use_Cases/Setting_security.htm) in System
+Security](../../Sys_Admin/Use_Cases/Setting_security) in System
 Administration for more information.
 
 Continue with View Source Table Metrics.
@@ -435,4 +435,4 @@ To view a summary of source metrics:
     Source.
 
 [View the field descriptions for the Target Source Metrics Charts
-page](../Page_Desc/Target_Source_Metric_Charts.htm)
+page](../Page_Desc/Target_Source_Metric_Charts)

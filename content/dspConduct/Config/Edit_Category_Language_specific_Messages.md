@@ -28,15 +28,15 @@ must provide all code to process these messages.
 message must not be sent or must be replaced with a custom message, the
 ENABLED check box on the <span style="font-style: italic;">[Category
 Workflow Language
-Message](../Page_Desc/Category_Workflow_Language_Message_H.htm)</span>
+Message](../Page_Desc/Category_Workflow_Language_Message_H)</span>
 page must be disabled.
 
 On the <span style="font-style: italic;">[Category Workflow Language
-Message](../Page_Desc/Category_Workflow_Language_Message_H.htm)</span>
+Message](../Page_Desc/Category_Workflow_Language_Message_H)</span>
 page, a record for each of the Workflow Message Default Events displays.
 
 Refer to [Configure Workflow Messages
-Overview](Configure_Workflow_Messages_Overview.htm) for general
+Overview](Configure_Workflow_Messages_Overview) for general
 information.
 
 All \#variable\# content is substituted with the actual value of the
@@ -59,7 +59,7 @@ Scenario: \#ScenarioName\#
 Messaging can be disabled for a role if notifications are sent too
 frequently or if notifications are not needed. Refer to [Enable or
 Disable Messages for a
-Role](../Use_Cases/Enable_or_Disable_Messages_for_a_Role.htm) for more
+Role](../Use_Cases/Enable_or_Disable_Messages_for_a_Role) for more
 information.
 
 To edit a language-specific workflow message:
@@ -84,7 +84,7 @@ To edit a language-specific workflow message:
     
     [View the field descriptions for the Category Workflow Language
     Message
-    page.](../Page_Desc/Category_Workflow_Language_Message_H.htm)
+    page.](../Page_Desc/Category_Workflow_Language_Message_H)
 
 6.  Enter the email subject line text in
     <span style="font-weight: bold;">SUBJECT</span> field.
@@ -120,7 +120,7 @@ To edit a language-specific workflow message:
     enabled, a user receives both a summary email and individual emails
     for each late Role. It is recommended that either LateNotify Event
     or LateSummary Event be activated but not both. Refer to [Set up SLA
-    Notifications in dspConduct™](Set_Up_SLA_Notifications.htm) for more
+    Notifications in dspConduct™](Set_Up_SLA_Notifications) for more
     information on SLAs, which determine when a request is late.
     
     **NOTE**: To enable or disable multiple messages, use the CTRL or

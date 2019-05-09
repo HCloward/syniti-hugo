@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Import Legacy BDCPlus Templates into
-Integrate](../Use_Cases/ImportLegacyBDCPlusTemps.htm).
+Integrate](../Use_Cases/ImportLegacyBDCPlusTemps).
 
 </div>
 

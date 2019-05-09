@@ -7,13 +7,13 @@ solution = 'Platform'
 
 Once the basic interface has been established, an Interface Designer can
 add interface events to interfaces using the *[Interface
-Events](../Page_Desc/Interface_Events.htm)* page.
+Events](../Page_Desc/Interface_Events)* page.
 
 Supported event types are:
 
-  - [Stored Procedure](Register_Stored_Procedure_Events.htm)
-  - [WebApp](Register_WebApp_Events.htm)
-  - [Workflow](Register_Workflow_Events.htm)
+  - [Stored Procedure](Register_Stored_Procedure_Events)
+  - [WebApp](Register_WebApp_Events)
+  - [Workflow](Register_Workflow_Events)
 
 Events run sequentially based on their priority; those with the lowest
 priority run first. There are 2 cases where events run simultaneously:
@@ -28,7 +28,7 @@ priority run first. There are 2 cases where events run simultaneously:
 Events that run simultaneously, i.e., if an event submits a job to the
 background, the next event does not wait for the previous job to finish.
 To configure events to run sequentially, refer to [Run Interface Events
-Sequentially](Run_Interface_Events_Sequentially.htm).
+Sequentially](Run_Interface_Events_Sequentially).
 
 To help with performance, it is recommended to have more interfaces with
 fewer events each than to have several stored procedures registered to

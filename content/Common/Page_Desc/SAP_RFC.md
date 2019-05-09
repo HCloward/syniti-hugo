@@ -9,7 +9,7 @@ solution = 'Platform'
 
 Use this page to view the RFCs extracted from SAP for a data source.
 Refer to [Extract RFC
-Functions](../../Integrate/Config/Extract_RFC_Functions.htm)  for more
+Functions](../../Integrate/Config/Extract_RFC_Functions)  for more
 information.<span> </span>
 
 </div>

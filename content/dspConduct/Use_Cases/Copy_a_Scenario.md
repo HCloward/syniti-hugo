@@ -35,7 +35,7 @@ To copy a scenario:
     
     [View the field descriptions for the Copy Options tab on the
     Scenario page's Vertical
-    View](../Page_Desc/Scenario_H.htm#Copy_Options)
+    View](../Page_Desc/Scenario_H#Copy_Options)
 
 6.  Enter a name in the **New Scenario Name** field.
 
@@ -45,5 +45,5 @@ To copy a scenario:
 
 9.  Click **OK.**
 
-The new scenario displays on the [Scenario](../Page_Desc/Scenario_H.htm)
+The new scenario displays on the [Scenario](../Page_Desc/Scenario_H)
 page.

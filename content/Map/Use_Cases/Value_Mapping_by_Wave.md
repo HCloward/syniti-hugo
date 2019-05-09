@@ -8,13 +8,13 @@ solution = 'Migration'
 This chart displays the number of value mappings that are in process and
 the number that are complete for all Process Areas, Objects, Targets and
 Sources associated with the Wave selected on the
-<span style="font-style: italic;">[Waves](../../Console/Page_Desc/Waves_H.htm)</span>
+<span style="font-style: italic;">[Waves](../../Console/Page_Desc/Waves_H)</span>
 page.
 
 Click a bar to drill down to the [Value Mapping by Waves and Process
-Areas](Value_Mapping_by_Wave_and_Process_Area.htm) chart.
+Areas](Value_Mapping_by_Wave_and_Process_Area) chart.
 
-Refer to [View Dashboards in Map](View_Dashboards_in_Map.htm) for
+Refer to [View Dashboards in Map](View_Dashboards_in_Map) for
 general information about chart features.
 
 To access this chart in Console:

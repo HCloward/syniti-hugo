@@ -8,13 +8,13 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to .[Create Report Delivery
-Filters.](../Use_Cases/Report_Delivery_Filters.htm#Create_Report_Delivery_Filters)
+Filters.](../Use_Cases/Report_Delivery_Filters#Create_Report_Delivery_Filters)
 
 </div>
 
 To access this page:
 
-1.  [Access Transform](../Config/Access_Transform.htm).
+1.  [Access Transform](../Config/Access_Transform).
 2.  Select **Configuration \> User Filter \> User Filter (By
     Filter**) in the *Navigation* pane.
 

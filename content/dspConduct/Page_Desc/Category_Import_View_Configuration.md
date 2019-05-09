@@ -10,9 +10,9 @@ solution = 'Master Data Management'
 Use this page to:
 
   - [Import a Task View for a
-    Category](../Use_Cases/Import_Views.htm#Import_a_Task_View_for_a_Category)
+    Category](../Use_Cases/Import_Views#Import_a_Task_View_for_a_Category)
   - [Import a Variant View for a
-    Category](../Use_Cases/Import_Views.htm#Import_a_Variant_View_for_a_Category)
+    Category](../Use_Cases/Import_Views#Import_a_Variant_View_for_a_Category)
 
 </div>
 
@@ -52,12 +52,12 @@ Configuration Import**in the *Navigation* pane.
 <tr class="odd">
 <td><p>Import Tasks</p></td>
 <td><p>Click to import a task view.</p>
-<p>Refer to <a href="../Use_Cases/Import_Views.htm#Import_a_Task_View_for_a_Category">Import a Task View for a Category</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Import_Views#Import_a_Task_View_for_a_Category">Import a Task View for a Category</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Import Variants</p></td>
 <td><p>Click to import a variant view.</p>
-<p>Refer to <a href="../Use_Cases/Import_Views.htm#Import_a_Variant_View_for_a_Category">Import a Variant View for a Category</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Import_Views#Import_a_Variant_View_for_a_Category">Import a Variant View for a Category</a> for more information.</p></td>
 </tr>
 </tbody>
 </table>

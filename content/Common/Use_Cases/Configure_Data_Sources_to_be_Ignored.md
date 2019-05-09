@@ -19,7 +19,7 @@ To configure data sources to be ignored:
 2.  Click **Add.**
     
     [View the field descriptions for the Ignore Data Sources
-    page](Ignore_Data_Sources.htm)
+    page](Ignore_Data_Sources)
 
 3.  Select a data source from **DATA SOURCE ID** list box.
 

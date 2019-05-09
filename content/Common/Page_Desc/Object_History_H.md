@@ -5,7 +5,7 @@ solution = 'Platform'
 
 # Object History H
 
-[Object History V](Object_Columns_H.htm#Object_Columns_V)
+[Object History V](Object_Columns_H#Object_Columns_V)
 
 <div class="use">
 

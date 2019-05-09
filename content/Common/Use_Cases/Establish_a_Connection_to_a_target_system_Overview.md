@@ -45,25 +45,25 @@ This instance is used for:
     
     **NOTE:** The system can use other methods to obtain user
     credentials. Refer to [User Credentials in
-    dspCompose™](../../../Data_Quality/dspCompose/Config/User_Credentials_in_dspCompose.htm)
+    dspCompose™](../../../Data_Quality/dspCompose/Config/User_Credentials_in_dspCompose)
     or [User Credentials in
-    Integrate](../../Integrate/Config/User_Credentials_in_Integrate.htm)
+    Integrate](../../Integrate/Config/User_Credentials_in_Integrate)
     for more information.
     
     **NOTE:** If a user adds a request based on this template and does
     not select a connection ID, the default connection assigned to the
     Integrate Template is used for the request. Refer to [Establish a
     Connection to a Target
-    System](Establish_a_Connection_to_a_target_system_Overview.htm) for
+    System](Establish_a_Connection_to_a_target_system_Overview) for
     more information.
 
 To establish a target system connection:
 
   - [Establish a Connection via a Direct Connection to the Application
-    Server](Establish_a_Connection_Direct_Connection.htm) or
+    Server](Establish_a_Connection_Direct_Connection) or
   - [Establish a Connection via a Message
-    Server](Establish_a_Connection_via_a_Message_Server.htm)
+    Server](Establish_a_Connection_via_a_Message_Server)
   - [Add Default User Credentials to a
-    Connection](Add_Default_User_Credentials_to_a_Connection.htm)
+    Connection](Add_Default_User_Credentials_to_a_Connection)
   - [Add User Credentials to a Connection for a Specific
-    User](Add_User_Credentials_to_an_SAP_Connection_for_a_Specific_Use.htm)
+    User](Add_User_Credentials_to_an_SAP_Connection_for_a_Specific_Use)

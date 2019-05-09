@@ -7,7 +7,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [View Late Tasks](../Use_Cases/View_Late_Tasks.htm).
+Use this page to [View Late Tasks](../Use_Cases/View_Late_Tasks).
 
 </div>
 
@@ -61,7 +61,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Escalation Email</p></td>
-<td><p>Click to open the <em><a href="Late_Task_Escalation.htm"><em>Late Task Escalation</em></a></em> page to send an escalation email to the managers assigned to the Escalation process.</p></td>
+<td><p>Click to open the <em><a href="Late_Task_Escalation"><em>Late Task Escalation</em></a></em> page to send an escalation email to the managers assigned to the Escalation process.</p></td>
 </tr>
 </tbody>
 </table>

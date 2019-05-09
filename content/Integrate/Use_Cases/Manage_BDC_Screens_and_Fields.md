@@ -43,7 +43,7 @@ To manage BDC screen fields:
 7.  Click **Edit**; *Vertical* View displays.
     
     *[View the field descriptions for the BDC Screen page’s Vertical
-    View.](../Page_Desc/BDC_Screen_H.htm)*
+    View.](../Page_Desc/BDC_Screen_H)*
 
 8.  Enter a sort order value in **Priority**.
 
@@ -63,7 +63,7 @@ To manage BDC screen fields:
 13. Click **Edit**.
     
     *[View the field descriptions for the BDC Screen Fields
-    page.](../Page_Desc/BDC_Screen_Fields_H.htm)*
+    page.](../Page_Desc/BDC_Screen_Fields_H)*
 
 14. Enter a sort order value in **PRIORITY**.
 

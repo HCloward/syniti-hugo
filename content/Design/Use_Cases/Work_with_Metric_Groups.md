@@ -10,7 +10,7 @@ further organize data for metrics tracking and mapping. The metric
 groups are defined in Target Design and set for Target Fields in Target
 Design. Metric groups are displayed on the
 <span style="font-style: italic;">[Field
-Mappings](../../Map/Page_Desc/Field_Mappings_H.htm)</span> page in Map
+Mappings](../../Map/Page_Desc/Field_Mappings_H)</span> page in Map
 and several reports showing progress of the mapping process.
 
 Each set of metric groups are delineated into logical sets of fields
@@ -47,19 +47,19 @@ To add a metric group in Target Design:
 2.  Click **Add**.
     
     *[View the field descriptions for the Metric Groups
-    page](../Page_Desc/Metric_Groups.htm)*
+    page](../Page_Desc/Metric_Groups)*
 
 3.  Enter a name for the group in the **METRIC GROUP** field.
     
     **NOTE**: This name will appear as an option in the Metric Group ID
     list box on the *Vertical* View of the *[Target
-    Fields](../Page_Desc/Target_Fields_H_Target_Design.htm)* page.
+    Fields](../Page_Desc/Target_Fields_H_Target_Design)* page.
 
 4.  Enter a value in the **PRIORITY** field.
     
     **NOTE:** This value indicates the order that fields should be
     mapped in Map on the *[Field
-    Mappings](../../Map/Page_Desc/Field_Mappings_H.htm)* page. A metric
+    Mappings](../../Map/Page_Desc/Field_Mappings_H)* page. A metric
     group with a priority of 1 should be mapped first. Key and required
     fields should be mapped before optional fields.
 
@@ -89,7 +89,7 @@ To assign a metric group to a field in Target Design:
 
 1.  Select **Design** in the Context bar.
 
-2.  Click the **Targets**icon on the *[Design](../Page_Desc/Design.htm)*
+2.  Click the **Targets**icon on the *[Design](../Page_Desc/Design)*
     page.
 
 3.  Click the <span style="font-weight: bold;">Fields</span> icon for a
@@ -101,7 +101,7 @@ To assign a metric group to a field in Target Design:
 5.  Click **Edit**.
     
     *[View the field descriptions for the Target Fields page’s Vertical
-    View](../Page_Desc/Target_Fields_H_Target_Design.htm)*
+    View](../Page_Desc/Target_Fields_H_Target_Design)*
 
 6.  Either:
     
@@ -116,4 +116,4 @@ To assign a metric group to a field in Target Design:
 
 **NOTE**: Once the metric group is assigned to a Target field, it
 displays on the *[Field
-Mappings](../../Map/Page_Desc/Field_Mappings_H.htm)* page in Map.
+Mappings](../../Map/Page_Desc/Field_Mappings_H)* page in Map.

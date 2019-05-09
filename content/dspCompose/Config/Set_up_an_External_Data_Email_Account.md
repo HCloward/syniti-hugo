@@ -6,9 +6,9 @@ solution = 'Data Quality'
 # Set Up an External Data Email Account
 
 The External Data Email Account is used for both [External Request
-Scenarios](../Use_Cases/Use_External_Request_Scenarios.htm) and for
+Scenarios](../Use_Cases/Use_External_Request_Scenarios) and for
 [External Data Processing with an External Data
-role](../Use_Cases/Use_External_Data_Roles_in_Request_Processing.htm).
+role](../Use_Cases/Use_External_Data_Roles_in_Request_Processing).
 
 On the *External Data Email Accounts* page, a record is added with a
 previously created external email account. dspCompose™ will poll that
@@ -30,7 +30,7 @@ To set up an external data email account:
 2.  Click **Add**.
     
     *[View the field descriptions for the External Data Email Accounts
-    page.](../Page_Desc/External_Data_Email_Accounts.htm)*
+    page.](../Page_Desc/External_Data_Email_Accounts)*
 
 3.  Enter the host name for the external email account in **HOST**
     field.
@@ -50,7 +50,7 @@ To set up an external data email account:
     **NOTE:** This email address should also be configured as the
     **EMAIL FROM** on the *Workflow Language Message* page. Refer to
     [Update the EMAIL FROM
-    Column](Update_the_EMAIL_FROM_Column.htm)<span> </span>for more
+    Column](Update_the_EMAIL_FROM_Column)<span> </span>for more
     information.
 
 5.  Enter the email password in **PASSWORD** field.

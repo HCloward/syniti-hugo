@@ -16,7 +16,7 @@ Use the Auto Generate Database Objects feature to automatically create
 tables and views and to generate values for the **VIEW NAME**, **PRIMARY
 KEY COLUMN NAME** and **FLAT FILE OBJECT KEY** value on the *Process
 Template Loop* page. Refer to [Generate Database Objects
-Automatically](Generate_Database_Objects_Automatically.htm) for more
+Automatically](Generate_Database_Objects_Automatically) for more
 information.
 
 **NOTE**: The Flat File Object Key is a unique identifier for an object
@@ -41,7 +41,7 @@ To generate database objects automatically:
     template.
     
     *[View the field descriptions for the Process Template Loop
-    page.](../Page_Desc/Process_Template_Loop.htm)*
+    page.](../Page_Desc/Process_Template_Loop)*
     
     **NOTE**: The **Loops** icon displays the number of structures added
     to the User Defined template during template creation.

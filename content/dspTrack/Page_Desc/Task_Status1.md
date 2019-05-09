@@ -6,7 +6,7 @@ solution = 'Platform'
 # Task Status
 
 When a project file is imported, dspTrack™ sets task status. Refer to
-[Task Status on Import](Task_Status_on_Import.htm) for more information.
+[Task Status on Import](Task_Status_on_Import) for more information.
 
 Work on a plan task or Work List Item can be tracked using the task
 status. dspTrack™ uses the following statuses.
@@ -55,7 +55,7 @@ Finish. Work on Task A could start, but could not finish until its
 predecessor task has finished. In this case, if a user clicks Next
 Action on the Work List for a Plan task that is in Waiting on Dependency
 status, an error message displays. Refer to [Use Dependency
-Types](../Use_Cases/Use_Dependency_Types.htm) for more information.
+Types](../Use_Cases/Use_Dependency_Types) for more information.
 
 **NOTE**: Work List Items, added on the Work List Setup page, do not
 have predecessor tasks. They do not have dependencies so will not be

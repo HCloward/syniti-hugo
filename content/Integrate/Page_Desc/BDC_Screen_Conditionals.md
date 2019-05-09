@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Configure a Conditional for a BDC
-Screen.](../Use_Cases/ConfigureConditionalBDCScrn.htm)
+Screen.](../Use_Cases/ConfigureConditionalBDCScrn)
 
 </div>
 

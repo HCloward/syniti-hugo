@@ -10,7 +10,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Create the Contexts for Migration
-Projects.](../Use_Cases/Create_Contexts_for_Migration_Projects.htm)
+Projects.](../Use_Cases/Create_Contexts_for_Migration_Projects)
 
 </div>
 
@@ -30,7 +30,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Copy Wave</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Copy_Wave.htm">Copy Wave</a></span> page to create a Wave based on the selected Wave.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Copy_Wave">Copy Wave</a></span> page to create a Wave based on the selected Wave.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Create Milestones From Template</p></td>
@@ -38,8 +38,8 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Build Comparison</p></td>
-<td><p>Click to open the <em><a href="Build_Wave_Comparison.htm">Build Wave Comparison</a></em> page to compare and sync target designs across Waves.</p>
-<p><strong>NOTE</strong>: This icon only displays if the current user is a member of the WebApp group Wavesynchronizer in Console or is assigned to a security role with access to the page. Refer to <a href="../../../Platform/Sys_Admin/Use_Cases/Setting_security.htm">Set Security</a> in System Administration for more information.</p></td>
+<td><p>Click to open the <em><a href="Build_Wave_Comparison">Build Wave Comparison</a></em> page to compare and sync target designs across Waves.</p>
+<p><strong>NOTE</strong>: This icon only displays if the current user is a member of the WebApp group Wavesynchronizer in Console or is assigned to a security role with access to the page. Refer to <a href="../../../Platform/Sys_Admin/Use_Cases/Setting_security">Set Security</a> in System Administration for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>NAME</p></td>
@@ -60,30 +60,30 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>TARGET DATASOURCE</p></td>
-<td><p>Displays the data source that contains the Target tables downloaded from the ERP system. This data source must be registered in Common. Refer to <a href="../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common.htm">Register a Data Source in Common</a> for more information.</p></td>
+<td><p>Displays the data source that contains the Target tables downloaded from the ERP system. This data source must be registered in Common. Refer to <a href="../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common">Register a Data Source in Common</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Process Area</p></td>
-<td><p>Click to open the <em><a href="Wave_Process_Areas.htm"><em>Wave: Process Areas</em></a></em> page to add, edit or delete a Process Area for the selected Wave.</p></td>
+<td><p>Click to open the <em><a href="Wave_Process_Areas"><em>Wave: Process Areas</em></a></em> page to add, edit or delete a Process Area for the selected Wave.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Metrics</p></td>
-<td><p>Click to open the <em><a href="Wave_Gate_Metrics_Value_Mapping_H.htm">Wave Gate Metrics (Value Mapping</a>)</em> page to add, edit or delete Wave gate metrics for value mappings for the selected Wave.</p></td>
+<td><p>Click to open the <em><a href="Wave_Gate_Metrics_Value_Mapping_H">Wave Gate Metrics (Value Mapping</a>)</em> page to add, edit or delete Wave gate metrics for value mappings for the selected Wave.</p></td>
 </tr>
 <tr class="even">
 <td><p>Summary Construction</p></td>
 <td><p>Click to display the Field Construction charts which display a summary of construction status by the number of fields that are expected, the number of fields that are in process, and the total number of fields for the target.</p>
-<p>Refer to <a href="../../Construct/Use_Cases/Field_Construction_by_Wave.htm">Field Construction by Wave</a> for more information.</p></td>
+<p>Refer to <a href="../../Construct/Use_Cases/Field_Construction_by_Wave">Field Construction by Wave</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Summary Field Mapping</p></td>
 <td><p>Click to display the dashboard for a summary of field mappings for the selected Wave ID.</p>
-<p>Refer to <a href="../../Map/Use_Cases/Field_Mapping_by_Wave.htm">Field Mapping by Wave</a> for more information.</p></td>
+<p>Refer to <a href="../../Map/Use_Cases/Field_Mapping_by_Wave">Field Mapping by Wave</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Summary Value Mapping</p></td>
 <td><p>Click to display the Value Mapping by Wave chart for the selected Wave ID to view Value Mapping progress.</p>
-<p>Refer to <a href="../../Map/Use_Cases/Value_Mapping_by_Wave.htm">Value Mapping by Wave</a> for more information.</p></td>
+<p>Refer to <a href="../../Map/Use_Cases/Value_Mapping_by_Wave">Value Mapping by Wave</a> for more information.</p></td>
 </tr>
 </tbody>
 </table>
@@ -95,7 +95,7 @@ To access this page:
 <div class="use">
 
 Use this page to [Create the Contexts for Migration
-Projects](../Use_Cases/Create_Contexts_for_Migration_Projects.htm).
+Projects](../Use_Cases/Create_Contexts_for_Migration_Projects).
 
 </div>
 
@@ -120,12 +120,12 @@ Target System
 Displays the data source that contains the Target tables downloaded from
 the ERP system. This data source must be registered in Common  and the
 tables downloaded in Collect. Refer to [Register a Data Source in
-Common](../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common.htm)
+Common](../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common)
 for more information.
 
 Multiple target systems can be added to a Wave. Refer to [Add Multiple
 Target Systems at the Wave-Process Area
-Level](../Use_Cases/Add_Multiple_Target_Systems.htm) for more
+Level](../Use_Cases/Add_Multiple_Target_Systems) for more
 information.
 
 Client
@@ -143,7 +143,7 @@ Start Date
 Displays the date that work on the migration for this wave begins. This
 date is used as a milestone by default in the Migration dashboard. Refer
 to [Configure the IGC Migration
-Dashboard](../../../Platform/Agent_Int/Use_Cases/Configure_the_Migration_Dashboard.htm)
+Dashboard](../../../Platform/Agent_Int/Use_Cases/Configure_the_Migration_Dashboard)
 for more information.
 
 **NOTE**: If there are multiple instances of the DSP, and a wave's name,
@@ -155,7 +155,7 @@ End Date
 Displays the date that work on the migration for this wave ends. This
 date is used as a milestone by default in the Migration dashboard. Refer
 to [Configure the IGC Migration
-Dashboard](../../../Platform/Agent_Int/Use_Cases/Configure_the_Migration_Dashboard.htm)
+Dashboard](../../../Platform/Agent_Int/Use_Cases/Configure_the_Migration_Dashboard)
 for more information.
 
 **NOTE**: If the current date is one month or later past this end date,

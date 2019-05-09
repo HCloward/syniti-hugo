@@ -20,7 +20,7 @@ To export translations to a catalog:
 4.  Click **Edit**.
     
     *[View the field descriptions for the System Type Import
-    page](../Page_Desc/System_Types_Import.htm)*
+    page](../Page_Desc/System_Types_Import)*
 
 5.  Select the data source from **Data Source ID** list box.
     

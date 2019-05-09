@@ -16,7 +16,7 @@ To configure a source for SAP Data Services:
 4.  Click **Add**.
     
     [View the field descriptions for the Target Sources
-    page](../../../Platform/Collect/Page_Desc/Target_Sources_H_Collect.htm)
+    page](../../../Platform/Collect/Page_Desc/Target_Sources_H_Collect)
 
 5.  Select **ISSAP** from the **SOURCE** list box.
 
@@ -36,7 +36,7 @@ To configure a source for SAP Data Services:
     
     <span style="font-style: italic;">[View the field descriptions for
     the Target Sources
-    page](../../../Platform/Collect/Page_Desc/Target_Sources_H_Collect.htm)</span>
+    page](../../../Platform/Collect/Page_Desc/Target_Sources_H_Collect)</span>
 
 11. Select the connection type in the
     <span style="font-weight: bold;">Data Services Connection

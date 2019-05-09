@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Set Work Days and Work Hours for a
-Calendar](../Use_Cases/SetWorkDysHrsCalendar.htm).
+Calendar](../Use_Cases/SetWorkDysHrsCalendar).
 
 </div>
 

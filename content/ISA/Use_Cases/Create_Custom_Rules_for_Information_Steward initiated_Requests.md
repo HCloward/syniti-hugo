@@ -25,6 +25,6 @@ template-level event on the <span style="font-style: italic;">Template
 (Event Rule)</span> page.
 
 Refer to [Register Rules to Template-level
-Events](../../dspCompose/Use_Cases/Register_Rules_to_Template%20level_Events.htm)
+Events](../../dspCompose/Use_Cases/Register_Rules_to_Template%20level_Events)
 for details on how to create custom rules for Information
 Steward-initiated requests.

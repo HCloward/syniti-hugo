@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Add a Predecessor
-Task](../Use_Cases/Add_a_Predecessor_Task.htm).
+Task](../Use_Cases/Add_a_Predecessor_Task).
 
 </div>
 
@@ -47,7 +47,7 @@ To access this page:
 <li>Finish to Start</li>
 <li>Finish to Finish</li>
 </ul>
-<p>Refer to <a href="../Use_Cases/Use_Dependency_Types.htm">Use Dependency Types</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Use_Dependency_Types">Use Dependency Types</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>SUCCESSOR PLAN ID</p></td>

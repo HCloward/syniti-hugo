@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page when [Modifying a GUI Script with a Custom
-Command.](../Use_Cases/ModifyGUIScriptCustCommand.htm)
+Command.](../Use_Cases/ModifyGUIScriptCustCommand)
 
 </div>
 

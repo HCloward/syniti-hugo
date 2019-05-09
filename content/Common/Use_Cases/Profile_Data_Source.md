@@ -26,11 +26,11 @@ at the beginning of a Data Migration project.
 
 This section includes the following topics:
 
-  - [Configure Profile Parameters](Configure_Profile_Parameters.htm)
-  - [Activate and Deactivate Tables](Activate_and_Deactivate_Tables.htm)
-  - [Profile Data Sources](Profile_Data_Sources.htm)
+  - [Configure Profile Parameters](Configure_Profile_Parameters)
+  - [Activate and Deactivate Tables](Activate_and_Deactivate_Tables)
+  - [Profile Data Sources](Profile_Data_Sources)
   - [View Table
-    Results](../../../Migration/Construct/Use_Cases/View_Table_Results.htm)
+    Results](../../../Migration/Construct/Use_Cases/View_Table_Results)
   - [View Table Field
-    Results](../../../Migration/Construct/Use_Cases/View_Table_Field_Results.htm)
-  - [Reset Profiling](Reset_Profiling.htm)
+    Results](../../../Migration/Construct/Use_Cases/View_Table_Field_Results)
+  - [Reset Profiling](Reset_Profiling)

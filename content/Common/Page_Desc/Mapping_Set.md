@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Add a Mapping
-Set.](../../../Migration/Map/Use_Cases/Import_and_Export_Mappings.htm#Add_a_Mapping_Set)
+Set.](../../../Migration/Map/Use_Cases/Import_and_Export_Mappings#Add_a_Mapping_Set)
 
 </div>
 

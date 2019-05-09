@@ -6,16 +6,16 @@ solution = 'Migration'
 # Restore Current Field Mapping From History
 
 On the <span style="font-style: italic;">[Field Mapping
-History](../Page_Desc/Field_Mapping_History.htm)</span> page, a user can
+History](../Page_Desc/Field_Mapping_History)</span> page, a user can
 restore a field mapping to a mapping in history.
 
-Refer to [View Field Mapping History](View_Field_Mapping_History.htm)
+Refer to [View Field Mapping History](View_Field_Mapping_History)
 for information about when and how history records are created on this
 page.
 
 <span style="font-weight: bold;">NOTE:</span> The Auto Load Mapping
 History option must be disabled on the
-<span style="font-style: italic;">[Parameters](../../Console/Page_Desc/Parameters.htm)</span>
+<span style="font-style: italic;">[Parameters](../../Console/Page_Desc/Parameters)</span>
 page in Console.
 
 To restore a current field mapping from history in Map:
@@ -25,7 +25,7 @@ To restore a current field mapping from history in Map:
 
 2.  Click the <span style="font-weight: bold;">Targets</span> icon on
     the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page.
 
 3.  Click the <span style="font-weight: bold;">Mappings</span> icon for
     a Target.

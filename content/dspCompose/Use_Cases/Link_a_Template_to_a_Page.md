@@ -28,7 +28,7 @@ To link a template to a page in another component:
 7.  Click <span style="font-weight: bold;">Edit</span>.
     
     *[View the field descriptions for the Template (Role) page's
-    Vertical View.](../Page_Desc/Template_Role_H.htm)*
+    Vertical View.](../Page_Desc/Template_Role_H)*
 
 8.  Select an option from the **Web App ID** list box.
     
@@ -48,4 +48,4 @@ To link a template to a page in another component:
 13. Click **Activate**.
 
 Add requests for the custom template following the steps outlined in
-[Create Requests](Create_Requests.htm).
+[Create Requests](Create_Requests).

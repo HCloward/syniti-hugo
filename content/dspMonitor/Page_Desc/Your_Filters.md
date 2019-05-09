@@ -8,7 +8,7 @@ solution = 'Data Quality'
 <div class="use">
 
 Use this page to [View Your
-Filters](../Use_Cases/View_Your_Filters.htm).
+Filters](../Use_Cases/View_Your_Filters).
 
 </div>
 

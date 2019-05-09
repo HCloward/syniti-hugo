@@ -9,13 +9,13 @@ solution = 'Migration'
 
 <div class="use">
 
-Use this page to [Add a Basic Rule](../Use_Cases/Basic_Rules.htm).
+Use this page to [Add a Basic Rule](../Use_Cases/Basic_Rules).
 
 </div>
 
 <span style="font-weight: bold;">NOTE:</span> Bulk Execution has been
 enabled on this page. Refer to [Use Bulk
-Execution](../../../Platform/Bulk_Exec/Use_Bulk_Execution.htm) for more
+Execution](../../../Platform/Bulk_Exec/Use_Bulk_Execution) for more
 information.
 
 To access this page:
@@ -25,7 +25,7 @@ To access this page:
 2.  Select <span style="font-weight: bold;">Design </span>in the Context
     bar.
 3.  Click the <span style="font-weight: bold;">Targets</span> icon on
-    the *[Design](Design.htm)* page.
+    the *[Design](Design)* page.
 4.  Click the <span style="font-weight: bold;">Basic Rules</span> icon
     for a Target.
 
@@ -37,8 +37,8 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>FIELD ORDER</p></td>
-<td><p>Displays the order of the field entered on the <span style="font-style: italic;"><a href="Target_Fields_H_Target_Design.htm">Target Fields</a></span> page.</p>
-<p>The order is used to sort the <span style="font-style: italic;"><a href="../../Map/Page_Desc/Field_Mappings_H.htm">Field Mappings</a></span> page in Map. Key and required fields are given a lower number (as in, a higher priority) than optional fields.</p>
+<td><p>Displays the order of the field entered on the <span style="font-style: italic;"><a href="Target_Fields_H_Target_Design">Target Fields</a></span> page.</p>
+<p>The order is used to sort the <span style="font-style: italic;"><a href="../../Map/Page_Desc/Field_Mappings_H">Field Mappings</a></span> page in Map. Key and required fields are given a lower number (as in, a higher priority) than optional fields.</p>
 <p>This value is entered on the <span style="font-style: italic;">Target Fields</span> page’s <span style="font-style: italic;">Vertical</span> View in the Field Order field on the General tab.</p></td>
 </tr>
 <tr class="odd">
@@ -53,7 +53,7 @@ To access this page:
 <td><p>NAME</p></td>
 <td><p>Displays the Basic rule name.</p>
 <p>A Basic rule allows a user to create a simple conditional or default rule (one that populates the field with a default value) used in Data Services AutoGen.</p>
-<p>For an overview of Basic rules, refer to <a href="../Use_Cases/Basic_Rules.htm#Add">Add a Basic Rule</a>.</p></td>
+<p>For an overview of Basic rules, refer to <a href="../Use_Cases/Basic_Rules#Add">Add a Basic Rule</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>RULE DESCRIPTION</p></td>
@@ -66,7 +66,7 @@ To access this page:
 
 <div class="use">
 
-Use this page to [Add a Basic Rule](../Use_Cases/Basic_Rules.htm).
+Use this page to [Add a Basic Rule](../Use_Cases/Basic_Rules).
 
 </div>
 
@@ -93,7 +93,7 @@ A Basic Rule allows a user to create a simple conditional or default
 rule (one that populates the field with a default value).
 
 For an overview of Basic rules, refer to [Add a Basic
-Rule](../Use_Cases/Basic_Rules.htm).
+Rule](../Use_Cases/Basic_Rules).
 
 Rule Properties
 

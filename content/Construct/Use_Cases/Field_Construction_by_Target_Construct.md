@@ -14,12 +14,12 @@ When the chart is accessed from the Field Construction by Object chart,
 these counts are for all Targets in the Object.
 
 When the chart is accessed from the
-<span style="font-style: italic;">[Targets](../../Design/Page_Desc/Targets_H_Design.htm)</span>
+<span style="font-style: italic;">[Targets](../../Design/Page_Desc/Targets_H_Design)</span>
 page in Target Design, counts display for the selected Target only.
 
 <span style="font-weight: bold;">NOTE</span>: For general information
 about the data that displays on Construct charts, refer to [View the
-Dashboard in Construct](View_Dashboard_in_Construct.htm).
+Dashboard in Construct](View_Dashboard_in_Construct).
 
 To access this chart in Console from the Field Construction by Object
 chart:
@@ -39,6 +39,6 @@ To access the chart in Target Design:
 1.  Click <span style="font-weight: bold;">Design</span> in the Context
     bar.
 2.  Click the <span style="font-weight: bold;">Targets </span>icon on
-    the *[Design](../../Design/Page_Desc/Design.htm)* page..
+    the *[Design](../../Design/Page_Desc/Design)* page..
 3.  Click the <span style="font-weight: bold;">Summary
     Construction</span> icon for a Target.

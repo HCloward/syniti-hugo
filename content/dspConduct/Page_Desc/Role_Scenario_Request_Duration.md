@@ -8,9 +8,9 @@ solution = 'Master Data Management'
 This chart displays the average duration in days of active requests of
 all roles in a selected scenario.
 
-Click a bar to drill down to the *[Role](Role_H_dspConduct.htm)* page.
+Click a bar to drill down to the *[Role](Role_H_dspConduct)* page.
 
-Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts.htm) for
+Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts) for
 general information about chart features.
 
 To access this chart:

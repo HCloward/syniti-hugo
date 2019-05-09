@@ -13,7 +13,7 @@ Use CMC to:
 
   - Create projects
   - [Create a Database Connection to Store IS Failed
-    Data](../Config/Create_a_Database_Connection_to_Store_IS_Failed_Data.htm)
+    Data](../Config/Create_a_Database_Connection_to_Store_IS_Failed_Data)
 
 Use Information Steward to:
 
@@ -22,7 +22,7 @@ Use Information Steward to:
   - Create views
   - Create rules
   - Bind the rules to tables or views
-  - [Run the rules](../Config/Run_Rules_in_IS.htm)
+  - [Run the rules](../Config/Run_Rules_in_IS)
 
 Use the System Administration component of the Data Stewardship Platform
 (DSP)® to:
@@ -37,7 +37,7 @@ Use the System Administration component of the Data Stewardship Platform
 Use the Common component of the Data Stewardship Platform (DSP)® to:
 
 1.  [Add an SAP Data Services
-    Definition](../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common.htm)
+    Definition](../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common)
 
 Use the Collect component of the Data Stewardship Platform (DSP)® to:
 
@@ -47,15 +47,15 @@ Use the Collect component of the Data Stewardship Platform (DSP)® to:
     Edit \> select an option in the Data Services ID list box.
 
 2.  [Set Data Services
-    Connection](../Config/Set_Data_Services_Connections.htm)
+    Connection](../Config/Set_Data_Services_Connections)
 
 3.  [Build and Refresh
-    tables](../../../Platform/Collect/Use_Cases/Build_Package_for_Table.htm)
+    tables](../../../Platform/Collect/Use_Cases/Build_Package_for_Table)
 
 4.  [Refresh Tables if Projects, Rules, or Rule Bindings are
-    Updated](../Config/Refresh_Tables_if_Projects_Rules_or_Rule_Bindings_are_Updated.htm)
+    Updated](../Config/Refresh_Tables_if_Projects_Rules_or_Rule_Bindings_are_Updated)
 
 Use the ISA to:
 
 1.  [Activate Users in a Project
-    Distribution](Add_Users_to_a_Project_Distribution.htm)
+    Distribution](Add_Users_to_a_Project_Distribution)

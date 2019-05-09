@@ -34,7 +34,7 @@ To modify the configuration of source tables:
     source table.
     
     [View the field descriptions for the Data Source Tables
-    page](../Page_Desc/Data_Source_Tables_H.htm)
+    page](../Page_Desc/Data_Source_Tables_H)
 
 9.  Update the <span style="font-weight: bold;">PACKAGE NAME</span>
     field, if applicable, to modify the name of the package that
@@ -42,7 +42,7 @@ To modify the configuration of source tables:
     
     **NOTE:** The package name must follow the naming convention
     \#Database\#%\#Source\#%.  Refer to [Create
-    Packages](../../Assemble/Create_Packages.htm) for more information.
+    Packages](../../Assemble/Create_Packages) for more information.
 
 10. Click <span style="font-weight: bold;">Save</span>.
 
@@ -52,7 +52,7 @@ To modify the configuration of source tables:
     
     [View the field descriptions for the Data Source Tables page’s
     vertical
-    view](../Page_Desc/Data_Source_Tables_H.htm#Data_Source_Tables_V)
+    view](../Page_Desc/Data_Source_Tables_H#Data_Source_Tables_V)
     
     **NOTE: **<span style="font-weight: bold;">Table Rename</span>
     field, if applicable, will display the renamed table in the target.
@@ -81,10 +81,10 @@ To modify the configuration of source tables:
   - Click <span style="font-weight: bold;">Column Count</span> to modify
     columns within the source table. Refer to [Modify Configuration of
     Data Source Table
-    Columns](Modify_Configuration_of_Data_Source_Table_Columns.htm) for
+    Columns](Modify_Configuration_of_Data_Source_Table_Columns) for
     detailed information.
   - Click <span style="font-weight: bold;">SQL Command</span> to view
     the SQL commands used in the download package. Refer to [View
     Configuration of Data Source Table SQL
-    Commands](View_Configuration_of_Data_Source_Table_SQL_Commands.htm)
+    Commands](View_Configuration_of_Data_Source_Table_SQL_Commands)
     for more information.

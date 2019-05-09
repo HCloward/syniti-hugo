@@ -17,7 +17,7 @@ To add a Target Type in Transform:
 2.  Click **Add**.
     
     *[View the field descriptions for the Target Types (Setup)
-    page.](../Page_Desc/Target_Types_Setup.htm)*
+    page.](../Page_Desc/Target_Types_Setup)*
 
 3.  Enter a description in the **TARGET TYPE** field.
 

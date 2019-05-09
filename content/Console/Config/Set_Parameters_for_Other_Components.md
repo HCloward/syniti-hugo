@@ -21,7 +21,7 @@ To set parameters for Map, Transform and Construct:
 3.  Click <span style="font-weight: bold;">Edit</span>.
     
     *[View the field descriptions for the Parameters
-    page](../Page_Desc/Parameters.htm)*
+    page](../Page_Desc/Parameters)*
 
 4.  Update all fields if default values are not applicable.
 

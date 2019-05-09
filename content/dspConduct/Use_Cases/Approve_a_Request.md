@@ -12,7 +12,7 @@ Content WebApp. The request passes to the Review role after all
 dependencies are complete for the Application role and the final
 Application role (the role with the highest priority) is finished.
 
-Refer to [Review a Request Overview](Review_a_Request_Overview.htm) for
+Refer to [Review a Request Overview](Review_a_Request_Overview) for
 general information about the review process.
 
 **NOTE**: If the User Response Required on Warnings option is enabled at
@@ -31,7 +31,7 @@ To approve a request in dspConduct™:
     **NOTE:** The count on the Roles icon is the number of roles for the
     request. The count may not reflect the number of roles that display
     on the <span style="font-style: italic;">[Request
-    Role](../Page_Desc/Request_Role_H.htm)</span> page for the current
+    Role](../Page_Desc/Request_Role_H)</span> page for the current
     user. The current user can only access roles to which that user is
     assigned and roles that have the Auto Extend Display setting
     enabled.
@@ -45,10 +45,10 @@ To approve a request in dspConduct™:
 4.  Click the <span style="font-weight: bold;">TASK ID</span> button to
     review changes entered by the Application role(s).
 
-5.  Navigate to the [Request Role](../Page_Desc/Request_Role_H.htm)
+5.  Navigate to the [Request Role](../Page_Desc/Request_Role_H)
     page.
 
 6.  Click the <span style="font-weight: bold;">Approve</span> icon for
     the Review role.
 
-Continue with [Post a Request](Post_a_Request.htm).
+Continue with [Post a Request](Post_a_Request).

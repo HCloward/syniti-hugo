@@ -30,7 +30,7 @@ valid.
 ## <span id="Troubleshoot_Project_not_displaying_on_the_Project_Summary_page"></span>Troubleshoot Project not displaying on the *Project Summary* page
 
 If a project does not display on the *[Project
-Summary](../Page_Desc/Project_Summary_H.htm)* page in the ISA, refresh
+Summary](../Page_Desc/Project_Summary_H)* page in the ISA, refresh
 the tables in the dgRepository\_IS database in Collect.
 
 To refresh the tables in Collect:

@@ -10,7 +10,7 @@ and the Source data source used for construction pages is
 sdbDSPConstruct. Using these default values, a construct page, the
 underlying table, menu registrations and the schema of the construction
 table are automatically generated. Refer to [Use a Custom WebApp with
-Construct](../../Construct/Use_Cases/Use_a_Custom_WebApp_with_Construct.htm)
+Construct](../../Construct/Use_Cases/Use_a_Custom_WebApp_with_Construct)
 for more information.
 
 The Construct WebApp and source data source can be changed in Console
@@ -30,7 +30,7 @@ To update the WebApp and Source Data Source for Construct in Console:
 4.  Click **Edit**;
     
     *[View the field descriptions for the Wave : Process Areas page’s
-    Vertical view](../Page_Desc/Wave_Process_Areas.htm#Wave)*
+    Vertical view](../Page_Desc/Wave_Process_Areas#Wave)*
 
 5.  Select a component in the **Construction Web App ID** list box.
 

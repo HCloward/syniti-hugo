@@ -30,18 +30,18 @@ To set up the category:
 2.  Click **Edit**.
     
     [View the field descriptions for the Category
-    page](../Page_Desc/Category_H.htm)
+    page](../Page_Desc/Category_H)
 
 3.  Select the WebApp name in the **DEFAULT WEB APP ID** list box.
     
     **NOTE**: If the required WebApp does not display in the list box,
     it must be added. In System Administration, refer to [DSP®
     Application
-    Development](../../../Platform/WebApp_Dev/Overview_of_DSP_Application_Development.htm)
+    Development](../../../Platform/WebApp_Dev/Overview_of_DSP_Application_Development)
     for more information about [adding a
-    WebApp](../../../Platform/WebApp_Dev/Create_a_WebApp.htm) and to
+    WebApp](../../../Platform/WebApp_Dev/Create_a_WebApp) and to
     [Register a Data
-    Source](../../../Platform/Sys_Admin/Use_Cases/Register_a_Data_Source.htm)
+    Source](../../../Platform/Sys_Admin/Use_Cases/Register_a_Data_Source)
     for additional information.
 
 4.  Click **Save**.
@@ -55,4 +55,4 @@ To set up the category:
 8.  Click **Save**.
 
 Continue with [Map a dspConduct™ Task to a Task Imported from
-IGC™](Map_a_dspConduct_Task_to_a_Task_Imported_from_IGC.htm).
+IGC™](Map_a_dspConduct_Task_to_a_Task_Imported_from_IGC).

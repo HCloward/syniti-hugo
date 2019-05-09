@@ -16,7 +16,7 @@ To register a user in dspCompose™:
 2.  Click **Add**.
     
     *[View the field descriptions for the User
-    page.](../Page_Desc/User_H.htm)*
+    page.](../Page_Desc/User_H)*
 
 3.  Select a user from **USER ID** list box.
     
@@ -45,7 +45,7 @@ To register a user in dspCompose™:
 6.  Click **Save**; the *Vertical* View displays.
     
     <span style="font-family: Arial, sans-serif;">*[View the field
-    descriptions for the User page.](../Page_Desc/User_H.htm)*</span>
+    descriptions for the User page.](../Page_Desc/User_H)*</span>
 
 7.  Select a user from **Copy User ID** list box to copy role
     assignments and Org Unit assignments from an existing user to the

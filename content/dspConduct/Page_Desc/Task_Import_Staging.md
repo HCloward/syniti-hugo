@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Import a Task View for a
-Category](../Use_Cases/Import_Views.htm#Import_a_Task_View_for_a_Category).
+Category](../Use_Cases/Import_Views#Import_a_Task_View_for_a_Category).
 
 </div>
 

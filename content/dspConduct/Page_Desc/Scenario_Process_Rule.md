@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Add Process Rules at the Scenario
-Level](../Use_Cases/Add_Process_Rules_at_the_Scenario_Level.htm).
+Level](../Use_Cases/Add_Process_Rules_at_the_Scenario_Level).
 
 </div>
 

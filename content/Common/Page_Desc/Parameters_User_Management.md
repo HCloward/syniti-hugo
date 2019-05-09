@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Modify Text for Password Email
-Notifications](../Use_Cases/Modify_Text_for_Password_Email_Notifications.htm).
+Notifications](../Use_Cases/Modify_Text_for_Password_Email_Notifications).
 
 </div>
 

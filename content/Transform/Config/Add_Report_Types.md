@@ -30,7 +30,7 @@ To add a Report Type in Transform:
 2.  Click **Add**.
     
     *[View the field descriptions for the Report Types (Setup)
-    page](../Page_Desc/Report_Types_Setup.htm)*
+    page](../Page_Desc/Report_Types_Setup)*
 
 3.  Enter the report type name in the
     <span style="font-weight: bold;">REPORT TYPE</span> list box.

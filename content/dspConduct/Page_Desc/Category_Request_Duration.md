@@ -9,9 +9,9 @@ This chart displays the <span>average duration in days of active
 requests for all categories.</span>
 
 Click a bar to drill down to the [Business Process Request
-Duration](Busniess_Process_Request_Duration.htm) chart.
+Duration](Busniess_Process_Request_Duration) chart.
 
-Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts.htm) for
+Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts) for
 general information about chart features.
 
 To access the chart:

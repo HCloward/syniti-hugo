@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Register Workflow
-Events](../Use_Cases/Register_Workflow_Events.htm).
+Events](../Use_Cases/Register_Workflow_Events).
 
 </div>
 
@@ -30,4 +30,4 @@ populated.
 | **Field**     | **Description**                                                                                                                                                                                  |
 | PRIORITY      | Displays the order in which the link appears in the workflow (if there are multiple links).                                                                                                      |
 | LINK          | Displays the link text that appears in the workflow.                                                                                                                                             |
-| LINK TO EVENT | Displays the event on the page (selected from Link to Page ID on the *Vertical* View of the*[Interface Events](Interface_Events.htm)* page) that runs after the link in the workflow is clicked. |
+| LINK TO EVENT | Displays the event on the page (selected from Link to Page ID on the *Vertical* View of the*[Interface Events](Interface_Events)* page) that runs after the link in the workflow is clicked. |

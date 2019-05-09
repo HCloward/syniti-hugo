@@ -7,12 +7,12 @@ level is optional.
 
 At the project level, when a user clicks the scorecard link in a
 workflow email or on the [Project Summary page’s Vertical
-View](../Page_Desc/Project_Summary_H.htm#Project_Summary_V), a general
+View](../Page_Desc/Project_Summary_H#Project_Summary_V), a general
 scorecard displays.
 
 At the project distribution level, when a user clicks the scorecard link
 in a workflow email or on the [Project Distributions page’s Vertical
-View](../Page_Desc/Project_Distributions_H.htm#_Project_Distributions_V),
+View](../Page_Desc/Project_Distributions_H#_Project_Distributions_V),
 a scorecard for that project distribution displays.
 
 If a scorecard link is set at the project distribution level, a user in

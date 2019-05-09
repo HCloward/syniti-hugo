@@ -9,8 +9,8 @@ solution = 'Platform'
 
 Use this page to view the fields for a loop in a BAPI\\RFC definition
 while configuring a
-[BAPI](../Use_Cases/Configure_a_BAPI_Template.htm) or
-[RFC](../Use_Cases/Configure_a_RFC_Template.htm) template.
+[BAPI](../Use_Cases/Configure_a_BAPI_Template) or
+[RFC](../Use_Cases/Configure_a_RFC_Template) template.
 
 </div>
 

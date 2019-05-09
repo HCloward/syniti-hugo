@@ -13,7 +13,7 @@ platform.
 
 Once uploaded, files can be downloaded and viewed. Refer to [Download
 and View Uploaded Files for a Plan, Task or Work List
-Item](DownloadViewUploadedFiles.htm) for more information.
+Item](DownloadViewUploadedFiles) for more information.
 
 **NOTE**: In a case where files that have the same name are uploaded to
 a plan, Plan Task, or Work List Item, dspTrack™ assigns each file a
@@ -56,7 +56,7 @@ Item:
 5.  Click **Edit** for the row.
     
     [View the field descriptions for the Attachments
-    page](../Page_Desc/Attachments.htm)
+    page](../Page_Desc/Attachments)
 
 6.  Enter a description of the file in **DESCRIPTION** field.
 

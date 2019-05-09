@@ -24,13 +24,13 @@ retention expiration date. An e-signature is required for this update.
 **NOTE:** The Collect Administrator must check the **WORK FLOW SUMMARY**
 check box for the target and Data Controller on the *[Workflow Summary
 User
-Settings](../../Collect/Page_Desc/Workflow_Summary_User_Settings.htm)*
+Settings](../../Collect/Page_Desc/Workflow_Summary_User_Settings)*
 page. The Data Controller is added to this page automatically. If the
 check box is not checked, the Data Controller will not receive a warning
 email that data is going to be purged.
 
 Refer to [Update the Retention Expiration
-Date](../../Collect/Use_Cases/Support_Regulatory_Compliance.htm#Update_the_Retention_Expiration_Date)
+Date](../../Collect/Use_Cases/Support_Regulatory_Compliance#Update_the_Retention_Expiration_Date)
 for more information.
 
 To update the retention warning expiration period in Common:
@@ -43,7 +43,7 @@ To update the retention warning expiration period in Common:
 3.  Click **Edit**.
     
     [View the field descriptions for the Parameters – Collect
-    page](../Page_Desc/Parameters_Collect.htm)
+    page](../Page_Desc/Parameters_Collect)
 
 4.  Enter the number of days before data is purged (the retention
     expiration date) that a warning workflow email is sent to the Data

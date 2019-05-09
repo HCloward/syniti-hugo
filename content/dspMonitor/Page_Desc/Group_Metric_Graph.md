@@ -8,7 +8,7 @@ solution = 'Data Quality'
 <div class="use">
 
 Use this page to [Customize Group Metric
-Graph](../Use_Cases/Populate_Configuration_Tables.htm#Customize_Group_Metric_Graph).
+Graph](../Use_Cases/Populate_Configuration_Tables#Customize_Group_Metric_Graph).
 
 </div>
 

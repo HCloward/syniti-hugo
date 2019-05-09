@@ -8,7 +8,7 @@ solution = 'Platform'
 Add a Plan Task by importing a project.
 
 Refer to [Import Project Files into
-dspTrack™](Import_Project_Files_into_dspTrack.htm) for more
+dspTrack™](Import_Project_Files_into_dspTrack) for more
 information.
 
 A Plan Task can also be added manually.
@@ -26,7 +26,7 @@ To add a task manually:
     <span style="font-style: italic;">Plan Task</span> page.
     
     [View the field descriptions for the Plan Task
-    page](../Page_Desc/Plan_Task_H.htm)
+    page](../Page_Desc/Plan_Task_H)
 
 5.  Enter the task name in the **NAME** field.
 
@@ -48,7 +48,7 @@ To add a task manually:
     the Unit of Measure (UOM), determines how long work on the task
     should take. This information is used in Schedule Status
     Calculations. Refer to [Set Parameters for Schedule Status
-    Calculation](Set_Parameters_for_Schedule_Status_Calculation.htm) for
+    Calculation](Set_Parameters_for_Schedule_Status_Calculation) for
     more information.
 
 9.  Select an option in the UOM list box.
@@ -57,7 +57,7 @@ To add a task manually:
     along with the value in the Duration field, determines how long work
     on a task should take. This information is used in Schedule Status
     Calculations. Refer to [Set Parameters for Schedule Status
-    Calculation](Set_Parameters_for_Schedule_Status_Calculation.htm) for
+    Calculation](Set_Parameters_for_Schedule_Status_Calculation) for
     more information.
 
 10. Click **Save**.

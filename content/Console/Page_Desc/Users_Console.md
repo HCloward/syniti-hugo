@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Add Users to the Staging
-Area](../Use_Cases/Add_Target_Contacts_to_Objects.htm#Add).
+Area](../Use_Cases/Add_Target_Contacts_to_Objects#Add).
 
 </div>
 
@@ -20,13 +20,13 @@ To access this page:
 2.  Select <span style="font-weight: bold;">Advanced Configuration \>
     Object Contact Configuration</span> in the
     <span style="font-style: italic;">Navigation</span> pane. The
-    *[Users](../../../Platform/Sys_Admin/Page_Desc/Users_H.htm)* page
+    *[Users](../../../Platform/Sys_Admin/Page_Desc/Users_H)* page
     displays in a pane to the right of the *Bulk Contact Staging Area*
     page.
 
 |             |                                                                                                                                                                                                        |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Field       | Description                                                                                                                                                                                            |
-| Add User    | Click to add the selected user(s) to the <span style="font-style: italic;">[Bulk Contact Staging Area](Bulk_Contact_Staging_Area.htm)</span> page as part of assigning multiple users to an Object(s). |
+| Add User    | Click to add the selected user(s) to the <span style="font-style: italic;">[Bulk Contact Staging Area](Bulk_Contact_Staging_Area)</span> page as part of assigning multiple users to an Object(s). |
 | Remove User | Click to remove the selected user(s) from the <span style="font-style: italic;">Bulk Contact Staging Area</span> page.                                                                                 |
 | USER ID     | Displays the ID of the user who is added to or removed from the <span style="font-style: italic;">Bulk Contact Staging Area</span> page.                                                               |

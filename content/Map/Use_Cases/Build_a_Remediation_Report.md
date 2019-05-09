@@ -20,9 +20,9 @@ erroneous values so that the data can be loaded successfully into the
 Target system using a load tool.
 
 Refer to [Register Target Remediation
-Rules](../../Transform/Use_Cases/Register_Target_Remediation_Rules.htm)
+Rules](../../Transform/Use_Cases/Register_Target_Remediation_Rules)
 and [View Remediation Rule
-Information](../../Transform/Use_Cases/View_Remediation_Rule_Information.htm)
+Information](../../Transform/Use_Cases/View_Remediation_Rule_Information)
 for more information.
 
 **NOTE:** This process requires the user to move between Map, Target
@@ -42,12 +42,12 @@ Xref action:
     
     <span style="font-weight: bold;">NOTE:</span> A mapping with an
     action of Xref or Rule Xref is required for Value Mapping. Refer to
-    [Xref](Xref.htm) and [RuleXref](Rule_Xref.htm) for more information.
+    [Xref](Xref) and [RuleXref](Rule_Xref) for more information.
     
     <span style="font-weight: bold;">NOTE:</span> A lookup table must be
     assigned to the field in Target Design to build the report. Refer to
     [Set Up Lookup
-    Tables](../../Design/Use_Cases/Set_up_a_Simple_Lookup_Table.htm) for
+    Tables](../../Design/Use_Cases/Set_up_a_Simple_Lookup_Table) for
     more information.
     
     <span style="font-weight: bold;">NOTE:</span> To build a remediation
@@ -55,7 +55,7 @@ Xref action:
     the field. To set the value, access the
     <span style="font-style: italic;">Vertical</span> View of the
     <span style="font-style: italic;">[Field
-    Mappings](../Page_Desc/Field_Mappings_H.htm)</span> page for the
+    Mappings](../Page_Desc/Field_Mappings_H)</span> page for the
     field and enter the value in the Remediation Value field.
     
     **NOTE:** The field mapping must be approved on the Mapping Approval
@@ -106,7 +106,7 @@ remediated will be processed by the remediation rule.
 
 A summary of the report displays in Transform on the
 <span style="font-style: italic;">[Target Remediation
-Overview](../../Transform/Page_Desc/Target_Remediation_Overview.htm)</span>
+Overview](../../Transform/Page_Desc/Target_Remediation_Overview)</span>
 page.
 
 To build a remediation report for fields that are mapped using actions
@@ -117,11 +117,11 @@ other than Xref or RuleXref actions :
 2.  Click the <span style="font-weight: bold;">Targets</span> icon.
 
 3.  Click **Edit** for an active field on the *[Target
-    Fields](../../Design/Page_Desc/Target_Fields_H_Target_Design.htm)*
+    Fields](../../Design/Page_Desc/Target_Fields_H_Target_Design)*
     page that does not have a check table.
     
     *[View the field descriptions for the Target Fields
-    page](../../Design/Page_Desc/Target_Fields_H_Target_Design.htm)*
+    page](../../Design/Page_Desc/Target_Fields_H_Target_Design)*
 
 4.  Select an option from the **REQUIRED TYPE** list box. Values are:
     
@@ -149,7 +149,7 @@ other than Xref or RuleXref actions :
 8.  Click **Edit**.
     
     *[View the field descriptions for the Field Mappings page's Vertical
-    View](../Page_Desc/Field_Mappings_H.htm)*
+    View](../Page_Desc/Field_Mappings_H)*
 
 9.  Enter a value in the **Remediation Value** field.
 
@@ -160,7 +160,7 @@ other than Xref or RuleXref actions :
 12. Click **Map** in the Context bar.
 
 13. Click the **Targets** icon on *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page.
 
 14. Select a Target.
 
@@ -186,5 +186,5 @@ other than Xref or RuleXref actions :
 
 A summary of the report displays in Transform on the *[Target
 Remediation
-Overview](../../Transform/Page_Desc/Target_Remediation_Overview.htm)*
+Overview](../../Transform/Page_Desc/Target_Remediation_Overview)*
 page.

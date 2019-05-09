@@ -25,18 +25,18 @@ Duplicate Detection process in Common.
 This use case covers the following topics:
 
   - [Configure Duplicates
-    Parameters](Configure_Duplicates_Parameters.htm)
-  - [Create Object Views](Create_Object_Views.htm)
-  - [Register Objects](Register_Objects.htm)
-  - [Configure Columns](Configure_Columns.htm)
-  - [Find Duplicates](Find_Duplicates.htm)
+    Parameters](Configure_Duplicates_Parameters)
+  - [Create Object Views](Create_Object_Views)
+  - [Register Objects](Register_Objects)
+  - [Configure Columns](Configure_Columns)
+  - [Find Duplicates](Find_Duplicates)
   - [Run Post Duplicate Detection
-    Process](Run_Post_Duplicate_Detection_Process.htm)
-  - [Resolve Duplicate Candidates](Resolve_Duplicate_Candidates.htm)
+    Process](Run_Post_Duplicate_Detection_Process)
+  - [Resolve Duplicate Candidates](Resolve_Duplicate_Candidates)
   - [View
-    Results](../../../Migration/Construct/Use_Cases/View_Results.htm)
-  - [Review Duplicate Records](Review_Duplicate_Records.htm)
-  - [Review Non Duplicate Records](Review_Non_Duplicate_Records.htm)
+    Results](../../../Migration/Construct/Use_Cases/View_Results)
+  - [Review Duplicate Records](Review_Duplicate_Records)
+  - [Review Non Duplicate Records](Review_Non_Duplicate_Records)
 
  
 
@@ -45,11 +45,11 @@ Detection process:
 
 1.  Add the business user to the Common WebApp, then add the user to the
     Analyze WebApp Group. Refer to [Assign Users to WebApp
-    Groups](../../Sys_Admin/Use_Cases/Assign_Users_to_WebApp_Groups.htm)
+    Groups](../../Sys_Admin/Use_Cases/Assign_Users_to_WebApp_Groups)
     in System Administration for more information.
 2.  Assign a user-specific security definition to each business user.
     Add the Analyze data source(s) that are used in the Duplicate
     Detection process as a key to each user’s security definition. Refer
     to [Establish User-specific Security
-    Definitions](../../Sys_Admin/Use_Cases/Establish_UserSpecific_Security_Definitions.htm)
+    Definitions](../../Sys_Admin/Use_Cases/Establish_UserSpecific_Security_Definitions)
     in System Administration for more information.

@@ -17,7 +17,7 @@ types](#StructureHUser_Defined_XML_Template_Type).
 <div class="use">
 
 Use this page to [Create a Delimited or Fixed Width User Defined
-Template](../Use_Cases/CreateDelimFWUD.htm).
+Template](../Use_Cases/CreateDelimFWUD).
 
 </div>
 
@@ -38,7 +38,7 @@ icon.
 | PRIORITY    | Displays the order the structure should appear in the flat file.                                                      |
 | NAME        | Displays the name of the structure that should appear in the flat file.                                               |
 | DESCRIPTION | Displays the description of the structure that should appear in the flat file.                                        |
-| FIELDS      | Click to open the *[Structure Field](Struture%20Field.htm)* page to add, edit and delete the fields in the structure. |
+| FIELDS      | Click to open the *[Structure Field](Struture%20Field)* page to add, edit and delete the fields in the structure. |
 
 ###  
 
@@ -49,7 +49,7 @@ icon.
 <div class="use">
 
 Use this page to [Create a Delimited or Fixed Width User Defined
-Template](../Use_Cases/CreateDelimFWUD.htm).
+Template](../Use_Cases/CreateDelimFWUD).
 
 </div>
 
@@ -73,7 +73,7 @@ Definition
 
 Fields
 
-Click to open the *[Structure Field](Struture%20Field.htm)* page to add,
+Click to open the *[Structure Field](Struture%20Field)* page to add,
 edit and delete the fields in the
 structure.
 
@@ -86,7 +86,7 @@ structure.
 <div class="use">
 
 Use this page to [Configure an XML Template with Structures, Elements
-and Attributes](../Use_Cases/ConfigureXMTemplateStrctrEleAtt.htm).
+and Attributes](../Use_Cases/ConfigureXMTemplateStrctrEleAtt).
 
 </div>
 
@@ -125,11 +125,11 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Fields</p></td>
-<td><p>Click to open the <em><a href="Struture%20Field.htm">Structure Field</a></em> page to add, edit or delete attributes and elements to the child structure.</p></td>
+<td><p>Click to open the <em><a href="Struture%20Field">Structure Field</a></em> page to add, edit or delete attributes and elements to the child structure.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Add Child Structure</p></td>
-<td><p>Click to open the <em><a href="../Use_Cases/AddChildStrXML.htm">Add Child Structure</a></em> page to add a child structure to an existing structure.</p></td>
+<td><p>Click to open the <em><a href="../Use_Cases/AddChildStrXML">Add Child Structure</a></em> page to add a child structure to an existing structure.</p></td>
 </tr>
 </tbody>
 </table>
@@ -144,7 +144,7 @@ Type](#StructureHUser_Defined_XML_Template_Type)
 <div class="use">
 
 Use this page to [Configure an XML Template with Structures, Elements
-and Attributes](../Use_Cases/ConfigureXMTemplateStrctrEleAtt.htm).
+and Attributes](../Use_Cases/ConfigureXMTemplateStrctrEleAtt).
 
 </div>
 
@@ -177,5 +177,5 @@ template must be added as a child of an existing structure. 
 
 Fields
 
-Click to open the *[Structure Field](Struture%20Field.htm)* page to add,
+Click to open the *[Structure Field](Struture%20Field)* page to add,
 edit or delete attributes and elements to the child structure.

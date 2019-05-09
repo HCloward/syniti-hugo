@@ -10,7 +10,7 @@ solution = 'Data Quality'
 <div class="use">
 
 Use this page to [Register Reports to
-Groups](../Use_Cases/Register_Reports_to_Groups.htm).
+Groups](../Use_Cases/Register_Reports_to_Groups).
 
 </div>
 
@@ -37,12 +37,12 @@ To access this page:
 
 ## <span id="Group_Reports_V"></span>Group Reports V
 
-[Group Reports H](Group_Reports_H.htm)
+[Group Reports H](Group_Reports_H)
 
 <div class="use">
 
 Use this page to [Register Reports to
-Groups](../Use_Cases/Register_Reports_to_Groups.htm).
+Groups](../Use_Cases/Register_Reports_to_Groups).
 
 </div>
 

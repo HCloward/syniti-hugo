@@ -15,5 +15,5 @@ chart.
 **NOTE:** This is a developer’s feature and is not intended for use by
 end users. To implement a dashboard into a DSP® component, refer to the
 *Dashboard Developer’s Manual* and [Create Dashboards and
-Charts](../../WebApp_Dev/Dashboards_and_Charts.htm) for detailed
+Charts](../../WebApp_Dev/Dashboards_and_Charts) for detailed
 information.

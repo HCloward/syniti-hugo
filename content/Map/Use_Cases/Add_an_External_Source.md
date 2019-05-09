@@ -15,27 +15,27 @@ A Source is designated as an External Source when the user adds a Source
 to a Target in Target Design with a Source type of External Source.
 
 When an External Source is used, the External Source ID field on the
-[Field Mappings](../Page_Desc/Field_Mappings_H.htm) page must be
+[Field Mappings](../Page_Desc/Field_Mappings_H) page must be
 populated with the Source ID.
 
 An External Source is not treated as an Add Row Source, and is not
 synced from Target Design when the Target is synced. It must be added on
 the <span style="font-style: italic;">[Target Source (Update
-Row)](../Page_Desc/Target_Sources_Update_Row.htm)</span> page and
+Row)](../Page_Desc/Target_Sources_Update_Row)</span> page and
 configured manually.
 
 To add an External Source:
 
 1.  Add the External Source to the Target in Target Design. Refer to
     [Assign a Source to a
-    Target](../../Design/Use_Cases/Assign_a_Source_to_a_Target.htm) for
+    Target](../../Design/Use_Cases/Assign_a_Source_to_a_Target) for
     more information.
 
 2.  Click <span style="font-weight: bold;">ProcessArea</span> in the
     <span style="font-style: italic;">Navigation</span> pane in Map.
 
 3.  Click <span style="font-weight: bold;">Targets</span> on the
-    *[Process Area Launch](../Page_Desc/Process_Area_Launch_map.htm)*
+    *[Process Area Launch](../Page_Desc/Process_Area_Launch_map)*
     page.
 
 4.  Click the <span style="font-weight: bold;">Sources</span> icon for a
@@ -49,7 +49,7 @@ To add an External Source:
     page.
     
     [View the field descriptions for the Target Sources (Update Row)
-    page](../Page_Desc/Target_Sources_Update_Row.htm)
+    page](../Page_Desc/Target_Sources_Update_Row)
 
 7.  Select the External Source from the
     <span style="font-weight: bold;">Source ID</span> list box.

@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Define Instructions for
-Tasks](../Use_Cases/Define_Instructions_for_Tasks.htm).
+Tasks](../Use_Cases/Define_Instructions_for_Tasks).
 
 </div>
 

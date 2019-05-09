@@ -6,7 +6,7 @@ solution = 'Data Quality'
 # Create all tt Tables and Views for the BAPI Process
 
 Before performing these steps, [Post Data Using A
-BAPI](../../../Platform/Integrate/Use_Cases/Post_Data_Using_a_BAPI.htm).
+BAPI](../../../Platform/Integrate/Use_Cases/Post_Data_Using_a_BAPI).
 
 Manually build tables (a main table and an upload table) and views in
 any database that has a supporting component and data source that is
@@ -81,4 +81,4 @@ as the PrimaryKey of the tt Table.
 </table>
 
 Continue with [Create rt Tables From the tt Tables and Create Views for
-the BAPI Process](CreatertTblsttTableCreateVwsBAPI.htm).
+the BAPI Process](CreatertTblsttTableCreateVwsBAPI).

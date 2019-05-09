@@ -83,7 +83,7 @@ a CTS archive:
   - **Integrate Category** - Integrate Processes are registered to a
     dspConduct™ Category and then assigned to Scenarios. The list of
     Integrate Processes can be found on the *[Category
-    Process](../Page_Desc/Category_Process.htm)* page. On this page,
+    Process](../Page_Desc/Category_Process)* page. On this page,
     Integrate Processes are listed as Integrate Category : Integrate
     Process.
 
@@ -95,13 +95,13 @@ processes in Integrate. Exclude any other templates and processes that
 should not be included.
 
   - **Integrate Process** - On the dspConduct™ on the *[Category
-    Process](../Page_Desc/Category_Process.htm)* page determine the
+    Process](../Page_Desc/Category_Process)* page determine the
     Integrate Process ID. Build a CTS; select Type of Integrate –
     Integrate Process and enter the Key Value associated with the
     Integrate Process ID. Export to the target system; Import into the
     target system.
   - **Integrate Template** - On the Integrate *[Process
-    Templates](../../../Platform/Integrate/Page_Desc/Process_Templates_H.htm)*
+    Templates](../../../Platform/Integrate/Page_Desc/Process_Templates_H)*
     page , determine the Integrate Template ID. Build a CTS; select Type
     of Integrate – Integrate Template and enter the Key Value associated
     with the Integrate Template ID. Export to the target system; Import
@@ -111,7 +111,7 @@ system.
 ## <span id="Including_Content_Application_DSP_Pages_Listed_on_the_Task_Page"></span>Including Content Application DSP® Pages Listed on the Task Page
 
 When CTSing a Task, you may want to include all the DSP® pages listed on
-the [Task Page](../Page_Desc/Task_Page_H.htm) page in dspConduct™ in the
+the [Task Page](../Page_Desc/Task_Page_H) page in dspConduct™ in the
 Packing List.
 
 To include DSP® pages in the CTS:
@@ -119,7 +119,7 @@ To include DSP® pages in the CTS:
 1.  Create a CTS package that contains a CTS Item for each page and add
     CTS Item Keys. Refer to [Create a CTS Package and Build Archive in
     Source
-    Instance](../../../Platform/Sys_Admin/Use_Cases/CreatePckgeBuildArcSrceInstance.htm)
+    Instance](../../../Platform/Sys_Admin/Use_Cases/CreatePckgeBuildArcSrceInstance)
     in System Administration for detailed information.
     
     **NOTE**: When adding CTS Items to the package, select
@@ -135,7 +135,7 @@ To include DSP® pages in the CTS:
 2.  Click **Build Packing List** button.
 
 3.  Click **Packing List** to review what is included. Compare this list
-    to the Pages on the *[Task Page](../Page_Desc/Task_Page_H.htm)*
+    to the Pages on the *[Task Page](../Page_Desc/Task_Page_H)*
     page.
     
     **NOTE**: Views associated with the pages added in step \#1 are
@@ -152,7 +152,7 @@ To include DSP® pages in the CTS:
 6.  Recompile objects for the dspConduct™ data source and any other data
     sources affected by the imports (within System Administration, on
     the [Data
-    Sources](../../../Platform/Sys_Admin/Page_Desc/Data_Sources_HSysAdmi.htm)
+    Sources](../../../Platform/Sys_Admin/Page_Desc/Data_Sources_HSysAdmi)
     page, select the DATA SOURCE NAME and click **Recompile Objects**).
     
     **NOTE**: The recompile objects process detects any missing SQL

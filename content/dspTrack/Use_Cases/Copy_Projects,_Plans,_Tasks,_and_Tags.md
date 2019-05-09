@@ -5,9 +5,9 @@ solution = 'Platform'
 
 # Copy Projects, Plans, Tasks, and Tags
 
-dspTrack™ objects (p[rojects](Copy_Projects.htm),
-[plans](Copy_Plans.htm), [tasks](Copy_Tasks1.htm) and
-[tags](Copy_Tags.htm)) can be copied and used as the basis for new
+dspTrack™ objects (p[rojects](Copy_Projects),
+[plans](Copy_Plans), [tasks](Copy_Tasks1) and
+[tags](Copy_Tags)) can be copied and used as the basis for new
 objects.
 
 Depending on the object selected, the user can also copy:
@@ -34,7 +34,7 @@ being copied.
 
 This section contains the following topics:
 
-  - [Copy Projects](Copy_Projects.htm)
-  - [Copy Plans](Copy_Plans.htm)
-  - [Copy Plan Tasks](Copy_Tasks1.htm)
-  - [Copy Tag Tasks](Copy_Tags.htm)
+  - [Copy Projects](Copy_Projects)
+  - [Copy Plans](Copy_Plans)
+  - [Copy Plan Tasks](Copy_Tasks1)
+  - [Copy Tag Tasks](Copy_Tags)

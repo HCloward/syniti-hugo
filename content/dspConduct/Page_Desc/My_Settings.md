@@ -10,7 +10,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [set your User Workflow Receipt
-Preferences](../Config/Set_User_Workflow_Receipt_Preferences.htm).
+Preferences](../Config/Set_User_Workflow_Receipt_Preferences).
 
 </div>
 
@@ -59,7 +59,7 @@ the *Navigation* pane.
 </tr>
 <tr class="odd">
 <td><p>Positions</p></td>
-<td><p>Click to open the <a href="My_Positions.htm">My Positions</a> page to assign positions to the selected user.</p></td>
+<td><p>Click to open the <a href="My_Positions">My Positions</a> page to assign positions to the selected user.</p></td>
 </tr>
 </tbody>
 </table>
@@ -71,7 +71,7 @@ My Settings H
 <div class="use">
 
 Use this page to [assign a backup
-user](../Config/Assign_a_Backup_User.htm).
+user](../Config/Assign_a_Backup_User).
 
 </div>
 

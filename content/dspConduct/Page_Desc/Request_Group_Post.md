@@ -9,9 +9,9 @@ solution = 'Master Data Management'
 
 Use this page to:
 
-  - [Post a Request](../Use_Cases/Post_a_Request.htm#Post_a_Request)
+  - [Post a Request](../Use_Cases/Post_a_Request#Post_a_Request)
   - [Schedule a Post for a Specified Date and
-    Time](../Use_Cases/Post_a_Request.htm#Schedule_a_Post_for_a_Specified_Date_and_Time)
+    Time](../Use_Cases/Post_a_Request#Schedule_a_Post_for_a_Specified_Date_and_Time)
 
 </div>
 
@@ -60,7 +60,7 @@ Displays:
   - Process if the Post role is set to Auto Post
 
 Refer to [Auto Post a
-Request](../Use_Cases/Post_a_Request.htm#Auto_Post_a_Request) for more
+Request](../Use_Cases/Post_a_Request#Auto_Post_a_Request) for more
 information.
 
 Posting
@@ -74,19 +74,19 @@ If disabled, the Integrate process does not have credentials set.
 
 Credentials must be set for the connection to post successfully. Refer
 to [Add Stored Credentials as a User on a Page in
-Integrate](../../../Data_Quality/dspCompose/Config/Add_Stored_Credentials_as_a_User_on_a_Page_in_Integrate_or_dspCompose.htm)
+Integrate](../../../Data_Quality/dspCompose/Config/Add_Stored_Credentials_as_a_User_on_a_Page_in_Integrate_or_dspCompose)
 for more information.
 
 Posting Credentials
 
 Click to open the [User
-Credentials](../../../Platform/Common/Page_Desc/User_Credentials_H.htm)
+Credentials](../../../Platform/Common/Page_Desc/User_Credentials_H)
 page to add or update user credentials for the connection to the data
 source used to post the request.
 
 By default, the system uses the user credentials associated with the
 data source. Refer to [Establish a Connection to a Target
-System](../../../Platform/Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview.htm)
+System](../../../Platform/Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview)
 for more information. 
 
 Group Post
@@ -96,14 +96,14 @@ Click to post each process in the request in priority order.
 Post Process
 
 Click to open the <span style="font-style: italic;">[Request Post
-Process](Request_Post_Process.htm)</span> page to view all post
+Process](Request_Post_Process)</span> page to view all post
 processes and to post an individual process if needed.
 
 Post Later
 
 **NOTE:** This label and the fields below it display if the Scheduled
 Post Allowed check box is enabled at the [Scenario
-Role](../Use_Cases/Configure_the_Post_Later_Feature_at_the_Scenario_Role_Level.htm)
+Role](../Use_Cases/Configure_the_Post_Later_Feature_at_the_Scenario_Role_Level)
 level for this request.
 
 Schedule Post

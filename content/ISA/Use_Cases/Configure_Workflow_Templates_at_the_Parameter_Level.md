@@ -16,9 +16,9 @@ parameter level are:
   - A generic template set for summary emails at the parameter level
 
 **NOTE**: Templates for attachment emails can also be added at the
-[project](Configure_Workflow_Templates_at_the_Project__Level.htm) or
+[project](Configure_Workflow_Templates_at_the_Project__Level) or
 [project
-distribution](Configure_Workflow_Templates_at_the_Project_Distribution_Level.htm)
+distribution](Configure_Workflow_Templates_at_the_Project_Distribution_Level)
 levels. A template for summary emails can only be set at the parameter
 level.
 
@@ -48,18 +48,18 @@ To configure generic workflow templates at the parameter level:
 4.  Click **Edit**.
     
     *[View the field descriptions for the Workflow Template
-    page.](../Page_Desc/Workflow_Template.htm)*
+    page.](../Page_Desc/Workflow_Template)*
 
 5.  Select the language that will be used for the email message that
     includes an attachment from the **LANGUAGE ID** field. Refer to
     [Create Language-specific Workflow Email
-    Templates](Create_Language%20specific_Workflow_Email_Templates.htm)
+    Templates](Create_Language%20specific_Workflow_Email_Templates)
     for more information.
     
     **NOTE:** Users can access the information on the report through an
     attachment, a summary, or links depending on the user’s workflow
     attachment options.  Refer to [Configure Workflow
-    Options](Configure_Workflow_OptionsISA.htm) for more information.
+    Options](Configure_Workflow_OptionsISA) for more information.
 
 6.  Update the text that will appear in the subject of the email as
     needed in the **SUBJECT** field.
@@ -94,19 +94,19 @@ To configure generic workflow templates at the parameter level:
 11. **NOTE:** Users can access the information on the report through an
     attachment,a summary or links depending on the user’s workflow
     attachment options.  Refer to [Configure Workflow
-    Options](Configure_Workflow_OptionsISA.htm) for more information.
+    Options](Configure_Workflow_OptionsISA) for more information.
 
 12. Click **Summary Workflow Translation.**
 
 13. Click **Edit**.
     
     *[View the field descriptions for the Workflow Template
-    page.](../Page_Desc/Workflow_Template.htm)*
+    page.](../Page_Desc/Workflow_Template)*
 
 14. Select the language that will be used for the email message that
     contains a summary from the **LANGUAGE ID** field. Refer to [Create
     Language-specific Workflow Email
-    Templates](Create_Language%20specific_Workflow_Email_Templates.htm)
+    Templates](Create_Language%20specific_Workflow_Email_Templates)
     for more information..
 
 15. Update the text that will appear in the subject of the email as

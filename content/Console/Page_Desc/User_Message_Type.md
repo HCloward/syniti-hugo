@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Set Message Types Mapping
-Review](../Use_Cases/Set_Message_Types_for_Mapping_Review.htm).
+Review](../Use_Cases/Set_Message_Types_for_Mapping_Review).
 
 </div>
 
@@ -35,7 +35,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>MESSAGE TYPE ID</p></td>
-<td><p>Displays the method that workflow messages are sent to the Developer assigned to the mapping when the mapping is submitted or reset on the <em><a href="../../Map/Page_Desc/Field_Mappings_H.htm">Field Mappings</a></em> page.</p>
+<td><p>Displays the method that workflow messages are sent to the Developer assigned to the mapping when the mapping is submitted or reset on the <em><a href="../../Map/Page_Desc/Field_Mappings_H">Field Mappings</a></em> page.</p>
 <p>Options are:</p>
 <ul>
 <li>Email and Message</li>

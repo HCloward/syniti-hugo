@@ -9,7 +9,7 @@ solution = 'Master Data Management'
 
 <div class="use">
 
-Use this page to [Add a Role](../Use_Cases/Add_a_Role.htm).
+Use this page to [Add a Role](../Use_Cases/Add_a_Role).
 
 </div>
 
@@ -25,7 +25,7 @@ To access this page:
 IGC™ cannot be updated from within dspConduct™, and many of the fields
 and icons associated with the record are not active for that role. Refer
 to [Update Custom Attributes for Governance
-Elements](../Use_Cases/Update_Custom_Attributes_for_Governance_Elements.htm)
+Elements](../Use_Cases/Update_Custom_Attributes_for_Governance_Elements)
 for more information.
 
 <table>
@@ -56,18 +56,18 @@ for more information.
 </tr>
 <tr class="even">
 <td><p>Tasks</p></td>
-<td><p>Click to open the <a href="Role_Task.htm">Role (Tasks)</a> page to add tasks to the role.</p>
+<td><p>Click to open the <a href="Role_Task">Role (Tasks)</a> page to add tasks to the role.</p>
 <p>A task is a web page added to the Content WebApp at a client’s site.</p>
-<p>Refer to <a href="../Use_Cases/Add_a_Task.htm">Add a Task</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Add_a_Task">Add a Task</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Dependencies</p></td>
-<td><p>Click to open the <a href="Role_Dependencies.htm">Role (Dependencies)</a> page to add a dependent role to the selected role. Refer to <a href="../Use_Cases/Role_Dependencies.htm#Add_Dependencies_to_Roles">Add Dependencies to Roles</a> for more information.</p></td>
+<td><p>Click to open the <a href="Role_Dependencies">Role (Dependencies)</a> page to add a dependent role to the selected role. Refer to <a href="../Use_Cases/Role_Dependencies#Add_Dependencies_to_Roles">Add Dependencies to Roles</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Conflicts</p></td>
-<td><p>Click to open the <a href="Role_Conflicts.htm">Role (Conflicts)</a> page to add roles that can only be executed once per user in the scenario.</p>
-<p>Refer to <a href="../Use_Cases/Add_a_Conflict_to_a_Role.htm">Add a Conflict to a Role</a> for more information.</p></td>
+<td><p>Click to open the <a href="Role_Conflicts">Role (Conflicts)</a> page to add roles that can only be executed once per user in the scenario.</p>
+<p>Refer to <a href="../Use_Cases/Add_a_Conflict_to_a_Role">Add a Conflict to a Role</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Where Used</p></td>
@@ -83,12 +83,12 @@ for more information.
 
 ## <span id="Role_V"></span>Role V
 
-[Role H](Role_H_dspConduct.htm)
+[Role H](Role_H_dspConduct)
 
 <div class="use">
 
 Use this page to [Configure the Post Later Feature at the Role
-Level](../Use_Cases/Configure_the_Post_Later_Feature_at_the_Role_Level.htm).
+Level](../Use_Cases/Configure_the_Post_Later_Feature_at_the_Role_Level).
 
 </div>
 
@@ -132,7 +132,7 @@ This page contains the following tabs:
 </tr>
 <tr class="even">
 <td><p>Send Workflow</p></td>
-<td><p>If enabled, the users assigned to the role receive a message during the request workflow depending on the user’s assigned role type. Refer to <a href="../Use_Cases/Enable_or_Disable_Messages_for_a_Role.htm">Enable or Disable Messages for a Role</a> for more information.</p></td>
+<td><p>If enabled, the users assigned to the role receive a message during the request workflow depending on the user’s assigned role type. Refer to <a href="../Use_Cases/Enable_or_Disable_Messages_for_a_Role">Enable or Disable Messages for a Role</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Auto Extend Display</p></td>
@@ -150,17 +150,17 @@ This page contains the following tabs:
 </tr>
 <tr class="odd">
 <td><p>Work Days</p></td>
-<td><p>Displays the number of days that all of the tasks in this role must be executed to meet the SLA. Refer to <a href="../Config/Set_Up_SLA_Notifications.htm">Set up SLA notifications in dspConduct™</a> for more information.</p>
+<td><p>Displays the number of days that all of the tasks in this role must be executed to meet the SLA. Refer to <a href="../Config/Set_Up_SLA_Notifications">Set up SLA notifications in dspConduct™</a> for more information.</p>
 <p><strong>NOTE</strong>: If the role has been imported from IGC™, and this value has been updated in IGC™, that value overwrites the value in dspConduct™.</p></td>
 </tr>
 <tr class="even">
 <td><p>Work Hours</p></td>
-<td><p>Displays the number of hours that all of the tasks in this role must be executed to meet the SLA. Refer to <a href="../Config/Set_Up_SLA_Notifications.htm">Set up SLA notifications in dspConduct™</a> for more information.</p>
+<td><p>Displays the number of hours that all of the tasks in this role must be executed to meet the SLA. Refer to <a href="../Config/Set_Up_SLA_Notifications">Set up SLA notifications in dspConduct™</a> for more information.</p>
 <p><strong>NOTE</strong>: If the role has been imported from IGC™, and this value has been updated in IGC™, that value overwrites the value in dspConduct™.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Work Minutes</p></td>
-<td><p>Displays the number of minutes that all of the<span> </span>tasks in this role must be executed to meet the SLA. Refer to <a href="../Config/Set_Up_SLA_Notifications.htm">Set up SLA notifications in dspConduct™</a> for more information.</p>
+<td><p>Displays the number of minutes that all of the<span> </span>tasks in this role must be executed to meet the SLA. Refer to <a href="../Config/Set_Up_SLA_Notifications">Set up SLA notifications in dspConduct™</a> for more information.</p>
 <p><strong>NOTE</strong>: If the role has been imported from IGC™, and this value has been updated in IGC™, that value overwrites the value in dspConduct™.</p></td>
 </tr>
 <tr class="even">
@@ -172,12 +172,12 @@ This page contains the following tabs:
 </ul>
 <p>This check box only displays for roles with a Role Type of Post.</p>
 <p>After updating this check box, a message displays. If the user clicks OK, the update cascades through all scenario &gt; role combinations that use this role. If the user clicks Cancel, the selected setting (enabled or disabled) is retained as the default setting when roles with a Post role type are added in the future. However, the setting does not cascade through all scenario &gt; role combinations that use that role.</p>
-<p>The setting can be overwritten for a specific scenario &gt; role combination, and it is at this level that access to the Post Later feature is controlled. Refer to <a href="../Use_Cases/Configure_the_Post_Later_Feature_at_the_Scenario_Role_Level.htm">Configure the Post Later Feature at the Scenario Role Level</a>, <a href="../Use_Cases/Configure_the_Post_Later_Feature_at_the_Role_Level.htm">Configure the Post Later Feature at the Role Level,</a> and <a href="../Use_Cases/Post_a_Request.htm#Schedule_a_Post_for_a_Specified_Date_and_Time">Schedule a Post for a Specified Date and Time</a> for more information.</p></td>
+<p>The setting can be overwritten for a specific scenario &gt; role combination, and it is at this level that access to the Post Later feature is controlled. Refer to <a href="../Use_Cases/Configure_the_Post_Later_Feature_at_the_Scenario_Role_Level">Configure the Post Later Feature at the Scenario Role Level</a>, <a href="../Use_Cases/Configure_the_Post_Later_Feature_at_the_Role_Level">Configure the Post Later Feature at the Role Level,</a> and <a href="../Use_Cases/Post_a_Request#Schedule_a_Post_for_a_Specified_Date_and_Time">Schedule a Post for a Specified Date and Time</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Documentation</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Element_Documentation.htm">Element Documentation</a> page</span>  to upload documentation for this role, which may include additional instructions for the role, or a document that can be uploaded and exposed during execution of the role.</p>
-<p>Refer to <a href="../Use_Cases/Upload_Documentation_at_the_Role_Level.htm">Upload Documentation at the Role Level</a> for more information.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Element_Documentation">Element Documentation</a> page</span>  to upload documentation for this role, which may include additional instructions for the role, or a document that can be uploaded and exposed during execution of the role.</p>
+<p>Refer to <a href="../Use_Cases/Upload_Documentation_at_the_Role_Level">Upload Documentation at the Role Level</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Where Used</p></td>

@@ -9,7 +9,7 @@ Once a field group has been created, it can be assigned to an Object.
 The field group can then be assigned to Target fields for Targets
 registered to the Object.
 
-Refer to [Create Field Groups](Create_Field_Groups.htm) for more
+Refer to [Create Field Groups](Create_Field_Groups) for more
 information.
 
 To assign a field group to an Object in Target Design:
@@ -20,7 +20,7 @@ To assign a field group to an Object in Target Design:
 2.  Click **Add**.
     
     *[View the field descriptions for the Object Field Groups
-    page](../Page_Desc/Object_Field_Groups.htm)*
+    page](../Page_Desc/Object_Field_Groups)*
 
 3.  Select an Object in the **OBJECT ID** list box.
     
@@ -31,7 +31,7 @@ To assign a field group to an Object in Target Design:
     
     **NOTE**: Field groups are added on the Field Groups page. Click the
     **+** icon to add a field group. Refer to [Create Field
-    Groups](Create_Field_Groups.htm) for more information.
+    Groups](Create_Field_Groups) for more information.
 
 5.  Enter a value the **RULE PRIORITY OFFSET** field.
     
@@ -41,7 +41,7 @@ To assign a field group to an Object in Target Design:
     **NOTE**: This number (always negative) is subtracted from the
     rule’s priority to set the order the rule is run. Refer to [Set
     Rule Priority for Fields in Field
-    Groups](Set_Rule_Priority_for_Fields_in_Field_Groups.htm) for more
+    Groups](Set_Rule_Priority_for_Fields_in_Field_Groups) for more
     information.
 
 6.  Click **Save**.

@@ -8,7 +8,7 @@ solution = 'Data Quality'
 <div class="use">
 
 Use this page to [Create Objects and Publish Reports to
-Groups](../Use_Cases/Create_Objects_and_Publish_Reports_to_Groups.htm).
+Groups](../Use_Cases/Create_Objects_and_Publish_Reports_to_Groups).
 
 </div>
 

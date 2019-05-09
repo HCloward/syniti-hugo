@@ -3,7 +3,7 @@
 <div class="use">
 
 Use this page to [Configure User
-Filters](Configure_User_Filters_ISA.htm).
+Filters](Configure_User_Filters_ISA).
 
 </div>
 

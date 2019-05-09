@@ -12,9 +12,9 @@ solution = 'Master Data Management'
 Use this page to:
 
   - [Map a dspConduct™ Task to a Task Imported from
-    IGC™](../Use_Cases/Map_a_dspConduct_Task_to_a_Task_Imported_from_IGC.htm).
+    IGC™](../Use_Cases/Map_a_dspConduct_Task_to_a_Task_Imported_from_IGC).
   - [View Tasks Imported from IGC™ in
-    dspConduct™](../Use_Cases/View_Tasks_Imported_from_IGC_in_dspConduct.htm)
+    dspConduct™](../Use_Cases/View_Tasks_Imported_from_IGC_in_dspConduct)
 
 </div>
 
@@ -53,17 +53,17 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Use Existing Tasks</p></td>
-<td><p>Click to open the <em><a href="Conduct_Task_Assignement_to_IGC_Task.htm">Conduct Task Assignment to IGC Task</a></em> page to assign a dspConduct™ task to the selected IGC™ task.</p></td>
+<td><p>Click to open the <em><a href="Conduct_Task_Assignement_to_IGC_Task">Conduct Task Assignment to IGC Task</a></em> page to assign a dspConduct™ task to the selected IGC™ task.</p></td>
 </tr>
 <tr class="even">
 <td><p>Create New Task</p></td>
-<td><p>Click to open the <em><a href="New_Conduct_Tasks.htm">New Conduct Tasks</a></em> page to create a task based on a page that exists in the Content WebApp or a new page added to the Content WebApp.</p>
-<p>Refer to <a href="../../../Platform/WebApp_Dev/Page%20Design%20Overview.htm">Design Pages</a> in System Administration for more information.</p>
-<p><strong>NOTE</strong>: The only page types that can be developed for tasks that are imported into dspConduct™ from IGC™ are Dynamic and Header Detail. Refer to <a href="../../../Platform/WebApp_Dev/Register_a_Dynamic_Page.htm">Register a Dynamic Page</a> and <a href="../../../Platform/WebApp_Dev/Create_Header_Detail_Pages.htm">Add a Header Detail page</a> in System Administration for more information.</p></td>
+<td><p>Click to open the <em><a href="New_Conduct_Tasks">New Conduct Tasks</a></em> page to create a task based on a page that exists in the Content WebApp or a new page added to the Content WebApp.</p>
+<p>Refer to <a href="../../../Platform/WebApp_Dev/Page%20Design%20Overview">Design Pages</a> in System Administration for more information.</p>
+<p><strong>NOTE</strong>: The only page types that can be developed for tasks that are imported into dspConduct™ from IGC™ are Dynamic and Header Detail. Refer to <a href="../../../Platform/WebApp_Dev/Register_a_Dynamic_Page">Register a Dynamic Page</a> and <a href="../../../Platform/WebApp_Dev/Create_Header_Detail_Pages">Add a Header Detail page</a> in System Administration for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Roles</p></td>
-<td><p>Click to open the <em><a href="IGC_Task_Roles.htm"><em>IGC Task Roles</em></a></em> page to view the roles to which the IGC™ task is assigned.</p></td>
+<td><p>Click to open the <em><a href="IGC_Task_Roles"><em>IGC Task Roles</em></a></em> page to view the roles to which the IGC™ task is assigned.</p></td>
 </tr>
 </tbody>
 </table>

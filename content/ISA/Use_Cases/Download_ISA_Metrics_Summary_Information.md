@@ -7,7 +7,7 @@ multiple projects.
 
 Metrics summary data can also be accessed on the
 <span style="font-style: italic;">[Report Data
-Viewer](../Page_Desc/Report_Data_Viewer.htm)</span> for a rule and rule
+Viewer](../Page_Desc/Report_Data_Viewer)</span> for a rule and rule
 binding. Click the Metrics icon for a report to view and download data
 for that rule and rule binding only.
 
@@ -33,7 +33,7 @@ To download ISA Metrics Summary Information
 6.  Enable the check box for each field to be downloaded.
     
     **NOTE:**For a list of fields that can be downloaded, refer to the
-    [Metric Summary](../Page_Desc/Metric_Summary_H.htm) field
+    [Metric Summary](../Page_Desc/Metric_Summary_H) field
     descriptions.
     
     **NOTE:**These settings are not retained. All fields are enabled by

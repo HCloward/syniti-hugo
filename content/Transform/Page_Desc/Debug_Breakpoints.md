@@ -8,15 +8,15 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Debug Rules and Reports Using
-Breakpoints](../Use_Cases/Debug_Rules_and_Reports_using_Brkpnts.htm).
+Breakpoints](../Use_Cases/Debug_Rules_and_Reports_using_Brkpnts).
 
 </div>
 
 To access this page:
 
-1.  [Access Transform](../Config/Access_Transform.htm).
+1.  [Access Transform](../Config/Access_Transform).
 2.  Click the **Targets** icon on the *[Process Area
-    Launch](Process_Area_Launch.htm)* page.
+    Launch](Process_Area_Launch)* page.
 3.  Select a Target.
 4.  Click the **Debug** icon on the Page
 toolbar.

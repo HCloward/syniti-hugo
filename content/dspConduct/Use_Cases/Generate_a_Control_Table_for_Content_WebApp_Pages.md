@@ -19,14 +19,14 @@ this task assigned is added to the table.
 Data stored in the control tables are based on the Content WebApp page’s
 column settings for control status (Hide, Enable, Disable) set in
 dspConduct™. Refer to [Configure Column Status for a Task for a Scenario
-Role Combination](Configure_Column_Status_for_a_Scenario_Role_Task.htm)
+Role Combination](Configure_Column_Status_for_a_Scenario_Role_Task)
 for more information.
 
 <span style="font-weight: bold;">NOTE:</span> When a table is generated,
 it follows the naming convention \[Control table prefix\]\_\[Page View’s
 Root Name\]\_\[variant column name\]. The Control Table Prefix for the
 task is set on the <span style="font-style: italic;">[Task
-Page](../Page_Desc/Task_Page_H.htm)</span> page’s
+Page](../Page_Desc/Task_Page_H)</span> page’s
 <span style="font-style: italic;">Vertical</span> View.
 
 The tables are created with ScenarioID, RoleID, and TaskID as the key
@@ -43,7 +43,7 @@ same table, dspConduct™ builds different control tables for each page.
 
 <span style="font-weight: bold;">NOTE:</span> Refer to [Create Tables
 and Views for Content WebApp Pages
-Overview](Create_Tables_and_Views_for_Content_WebApp_Pages_Overview.htm)
+Overview](Create_Tables_and_Views_for_Content_WebApp_Pages_Overview)
 for general information.
 
 To create a control table:
@@ -72,4 +72,4 @@ To create a control table:
     tables are processed simultaneously.
 
 Continue with [Generate Control Views for Content WebApp
-Pages](Generate_Control_Views_for_Content_WebApp_Pages.htm).
+Pages](Generate_Control_Views_for_Content_WebApp_Pages).

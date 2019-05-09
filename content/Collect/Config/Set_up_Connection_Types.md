@@ -27,7 +27,7 @@ To add a connection type:
 3.  Click **Add**.
     
     [View the field descriptions for the Source Connection Types
-    page](../Page_Desc/Source_Connection_Types_H.htm)
+    page](../Page_Desc/Source_Connection_Types_H)
 
 4.  Enter the connection name in **SOURCE CONNECTION TYPE** field.
     
@@ -51,7 +51,7 @@ To add a connection type:
 9.  Click **Edit**.
     
     [View the field descriptions for the Source Connection Types page's
-    Vertical View](../Page_Desc/Source_Connection_Types_H.htm)
+    Vertical View](../Page_Desc/Source_Connection_Types_H)
 
 10. Use the following table to populate the applicable connection
     settings based on DBMS
@@ -94,7 +94,7 @@ To Set Up a Data Type Conversion:
 2.  Click **Add**.
     
     [View the field descriptions for the Connection Type Data Conversion
-    page](../Page_Desc/Connection_Type_Data_Conversion_H.htm)
+    page](../Page_Desc/Connection_Type_Data_Conversion_H)
 
 3.  Enter a sort value in **PROCESS ORDER** field to determine the order
     in which the Data Type validation rules are processed.
@@ -158,7 +158,7 @@ To Set Up a Data Type Conversion:
     
     [View the field descriptions for the Connection Type Data Conversion
     page's Vertical
-    View](../Page_Desc/Connection_Type_Data_Conversion_H.htm)
+    View](../Page_Desc/Connection_Type_Data_Conversion_H)
 
 22. Enter a precision, the total number of digits (from source), in
     **Data Precision** field. Enter **0** if the field is not a numeric

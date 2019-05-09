@@ -15,7 +15,7 @@ are not lost.
 Before this task can be performed, the data source should be populated
 in the SQL databases with all the required tables. This is usually done
 through [the fetch tables process in
-Collect](../../Collect/Use_Cases/Create_Groups_from_the_Fetch_Process.htm).
+Collect](../../Collect/Use_Cases/Create_Groups_from_the_Fetch_Process).
 
 To import a data source:
 
@@ -28,7 +28,7 @@ To import a data source:
 4.  Click **Edit**
     
     [View the field descriptions for the System Type Import
-    page](../Page_Desc/System_Types_Import.htm)
+    page](../Page_Desc/System_Types_Import)
 
 5.  Select the data source from **Data Source ID** list box.
     

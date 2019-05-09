@@ -19,7 +19,7 @@ To add lookup tables:
 3.  Click **Add**.
     
     *[View the field descriptions for the System Types Tables
-    page](../Page_Desc/System_Types_Tables_H.htm)*
+    page](../Page_Desc/System_Types_Tables_H)*
 
 4.  Enter a lookup table name in the **TABLE NAME** field.
 
@@ -30,19 +30,19 @@ To add lookup tables:
 7.  Click **Add**.
     
     [View the field descriptions for the System Types Table Fields
-    page](../Page_Desc/System_Types_Table_Fields_H.htm)
+    page](../Page_Desc/System_Types_Table_Fields_H)
 
 8.  Enter all fields for the table. Refer to [Add Fields to
-    Tables](Add_Fields_to_Tables.htm) for more information.
+    Tables](Add_Fields_to_Tables) for more information.
 
 9.  Once all fields are added, click **Vertical View** for the table on
-    the *[System Types Tables](../Page_Desc/System_Types_Tables_H.htm)*
+    the *[System Types Tables](../Page_Desc/System_Types_Tables_H)*
     page.
 
 10. Click **Edit**.
     
     *[View the field descriptions for the System Types Tables
-    page](../Page_Desc/System_Types_Tables_H.htm)*
+    page](../Page_Desc/System_Types_Tables_H)*
 
 11. Select the description table from **Description Table** list box.
     
@@ -87,7 +87,7 @@ To add lookup tables:
     
     **NOTE:** The additional lookup table field IDs are used for complex
     lookup tables. Refer to [Set up a Complex Lookup
-    Table](../../../Migration/Design/Use_Cases/Set_up_a_Complex_Lookup_Table.htm)
+    Table](../../../Migration/Design/Use_Cases/Set_up_a_Complex_Lookup_Table)
     for more information.
 
 18. Select a column name from **Lookup Table Field Value** list box to
@@ -110,11 +110,11 @@ To add lookup tables:
 22. Click **Save**.
 
 23. On the [*System Types Tables
-    Horizontal*](../Page_Desc/System_Types_Tables_H.htm) View, click the
+    Horizontal*](../Page_Desc/System_Types_Tables_H) View, click the
     **Fields** icon.
 
 24. Click **Edit** for a field on the [*System Types Table
-    Fields*](../Page_Desc/System_Types_Table_Fields_H.htm) page.
+    Fields*](../Page_Desc/System_Types_Table_Fields_H) page.
 
 The lookup table displays as an option in the LOOKUP TABLE list box and
 can be added to any field on the table.

@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [view when an error occurred with table
-downloads](../Use_Cases/View_Summary.htm).
+downloads](../Use_Cases/View_Summary).
 
 </div>
 
@@ -25,23 +25,23 @@ link.
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Field           | Description                                                                                                                                                                                      |
 | TABLE           | Displays table where error exists.                                                                                                                                                               |
-| PACKAGE TYPE    | Displays package type (to refresh target table with source data) for erroneous table. Refer to [Package Types](../Use_Cases/Package_Types.htm) for a description of each package type available. |
+| PACKAGE TYPE    | Displays package type (to refresh target table with source data) for erroneous table. Refer to [Package Types](../Use_Cases/Package_Types) for a description of each package type available. |
 | ACTIVE          | If enabled, table is active in source                                                                                                                                                            |
 | DURATION        | Displays amount of time (in seconds) for table to be downloaded from source. If set to **-1**, the table failed to download.                                                                     |
 | RECORD COUNT    | Displays number of records in the erroneous table.                                                                                                                                               |
 | PACKAGE BUILT   | If enabled, package has been built for the erroneous table. This setting cannot be updated from within Collect.                                                                                  |
 | REFRESH MESSAGE | Displays error message from the Platform job queue.                                                                                                                                              |
-| RULES           | Click to open the <span style="font-style: italic;">[Table (Rule)](Table_Rule_H.htm)</span> page to add, edit and delete rules assigned to the erroneous table.                                  |
-| INDICES         | Click to open the <span style="font-style: italic;">[Table (Indices)](Table_Indices_H.htm)</span> page to add, edit and delete indices assigned to the erroneous table.                          |
+| RULES           | Click to open the <span style="font-style: italic;">[Table (Rule)](Table_Rule_H)</span> page to add, edit and delete rules assigned to the erroneous table.                                  |
+| INDICES         | Click to open the <span style="font-style: italic;">[Table (Indices)](Table_Indices_H)</span> page to add, edit and delete indices assigned to the erroneous table.                          |
 
 ## <span id="Table_Errors_V_All_Tabs"></span>Table Errors V (All Tabs)
 
-[Table Errors H](Table_Errors_H.htm)
+[Table Errors H](Table_Errors_H)
 
 <div class="use">
 
 Use this page to [view when an error occurred with table
-downloads](../Use_Cases/View_Summary.htm).
+downloads](../Use_Cases/View_Summary).
 
 </div>
 

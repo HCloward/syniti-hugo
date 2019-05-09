@@ -14,7 +14,7 @@ Results for profiled data sources can be viewed for individual tables.
 3.  Click **Tables**.
     
     [View the field descriptions for the Table (Results)
-    page](../../../Platform/Common/Page_Desc/Table_Results_H.htm)
+    page](../../../Platform/Common/Page_Desc/Table_Results_H)
 
 4.  Click **Vertical View** to view profile and processing information
     for the table.

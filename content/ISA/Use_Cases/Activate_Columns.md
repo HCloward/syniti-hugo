@@ -3,7 +3,7 @@
 <div class="use">
 
 Use this page to [Deactivate Columns for Project Distribution Rule
-Bindings](Deactivate_Columns_for_Project_Distribution_Rule_Bindings.htm).
+Bindings](Deactivate_Columns_for_Project_Distribution_Rule_Bindings).
 
 </div>
 

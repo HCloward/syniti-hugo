@@ -9,9 +9,9 @@ Follow these steps if using parameters, which are optional.
 
 Before completing this task, Configure a Process Template Loop for an
 IG Universal Connect Process Template
-[Manually](Configure%20a%20Process%20Template%20Loop%20for%20an%20IG%20Universal%20Connect%20Process%20Template%20Manually.htm)
+[Manually](Configure%20a%20Process%20Template%20Loop%20for%20an%20IG%20Universal%20Connect%20Process%20Template%20Manually)
 or
-[Automatically](Configure%20a%20Process%20Template%20Loop%20for%20an%20IG%20Universal%20Connect%20Process%20Template%20Automatically.htm).
+[Automatically](Configure%20a%20Process%20Template%20Loop%20for%20an%20IG%20Universal%20Connect%20Process%20Template%20Automatically).
 
 For parameters to be used as inputs for a Boomi Process, a view must be
 created in SQL Server. The view serves as the basis of Process Template
@@ -20,10 +20,10 @@ Template.
 
 A user can create the view using the Auto Generate Database Objects
 feature. Refer to [Generate Database Objects
-Automatically](../Integrate/Use_Cases/Generate_Database_Objects_Automatically.htm)
+Automatically](../Integrate/Use_Cases/Generate_Database_Objects_Automatically)
 for more information. Views can also be created manually. Refer to
 [Create a View in SQL
-Server](../Integrate/Use_Cases/Create_a_View_in_SQL_Server.htm) for more
+Server](../Integrate/Use_Cases/Create_a_View_in_SQL_Server) for more
 information.
 
 A Process Template Loop field mapping provides the link between a field
@@ -61,12 +61,12 @@ template:
     
     [View the field descriptions for the Process Template Loop Field
     Mappings
-    page](../Integrate/Page_Desc/Process_Template_Loop_Field_Mappings_H.htm)
+    page](../Integrate/Page_Desc/Process_Template_Loop_Field_Mappings_H)
     
     <span style="font-weight: bold;">NOTE</span>: An error message
     displays if a View is not defined on the
     <span style="font-style: italic;">[Process Template
-    Loop](../Integrate/Page_Desc/Process_Template_Loop.htm)</span> page.
+    Loop](../Integrate/Page_Desc/Process_Template_Loop)</span> page.
 
 7.  For the Name and Value field, either:
     
@@ -92,4 +92,4 @@ template:
 8.  Click <span style="font-weight: bold;">Save</span>.
 
 Continue with [Activate the
-Process](Activate%20the%20Process%20IGUC.htm).
+Process](Activate%20the%20Process%20IGUC).

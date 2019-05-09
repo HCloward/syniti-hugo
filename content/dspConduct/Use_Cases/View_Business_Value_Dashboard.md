@@ -23,17 +23,17 @@ be configured:
 
 1.  Configure the label that indicates the type of currency used for
     dspConduct™ Refer to [Set Currency Display
-    Label](../Config/Set_Currency_Display_Label.htm).
+    Label](../Config/Set_Currency_Display_Label).
 
 2.  Select the calendar to be used to determine working hours for the
     hours saved calculations. Refer to [Set Calendar used For Business
     Value
-    Calculations](../Config/Set_Calendar_Used_For_Business_Value_Calculations.htm).
+    Calculations](../Config/Set_Calendar_Used_For_Business_Value_Calculations).
 
 3.  Configure the baseline values Baseline Hours and Average Cost Per
     Hour for the hours saved and money saved calculations. Refer to
     [Configure Business Value
-    Parameters](Configure_Business_Value_Parameters.htm).
+    Parameters](Configure_Business_Value_Parameters).
     
     **NOTE:** Only business processes for which baseline hours and
     average cost per hour values are configured are displayed in the
@@ -59,17 +59,17 @@ angles.
 The following business value dashboard charts are available:
 
 The dashboard accessed by the Business Value Dashboard icon on the
-*[Business Process](../Page_Desc/Business_Process_H.htm)* page’s
+*[Business Process](../Page_Desc/Business_Process_H)* page’s
 *Vertical* View contains the following charts:
 
   - [Total Hours Saved (by Business
-    Process)](../Page_Desc/Total_Hours_Saved_by_Business_Process.htm) –
+    Process)](../Page_Desc/Total_Hours_Saved_by_Business_Process) –
     Displays the hours saved for a selected business process based on
     the user-entered baseline value for number of working hours that it
     took to complete a business process manually before the process was
     automated using dspConduct™.
   - [Total Money Saved (by Business
-    Process)](../Page_Desc/Total_Money_Saved_by_Business_Process.htm) –
+    Process)](../Page_Desc/Total_Money_Saved_by_Business_Process) –
     Displays the money saved for a selected business process based on
     the user-entered baseline value for average per hour of all costs,
     including fixed costs, associated with completing a business process
@@ -79,26 +79,26 @@ The dashboard accessed by the **Dashboards \> Business Value Dashboard**
 option in the *Navigation* pane includes the following charts:
 
   - [Total Hours Saved (by
-    Category)](../Page_Desc/Total_Hours_Saved_by_Category.htm) –
+    Category)](../Page_Desc/Total_Hours_Saved_by_Category) –
     Displays the total hours saved for all business processes in a
     category based on the user-entered baseline value for number of
     working hours that it took to complete a business process manually
     before the process was automated using dspConduct™.
       - [Total Hours Saved (by Business
-        Process)](../Page_Desc/Total_Hours_Saved_by_Business_Process.htm)
+        Process)](../Page_Desc/Total_Hours_Saved_by_Business_Process)
         – Displays the hours saved for the business processes in a
         category.
 
 <!-- end list -->
 
   - [Total Money Saved (by
-    Category)](../Page_Desc/Total%20Money%20Saved%20by%20Category.htm) –
+    Category)](../Page_Desc/Total%20Money%20Saved%20by%20Category) –
     Displays the total money saved for the all business processes in a
     category based on the user-entered baseline value for average per
     hour of all costs, including fixed costs, associated with completing
     a business process manually before the process was automated using
     dspConduct™.
       - [Total Money Saved (by Business
-        Process)](../Page_Desc/Total_Money_Saved_by_Business_Process.htm)
+        Process)](../Page_Desc/Total_Money_Saved_by_Business_Process)
         – Displays the money saved for the business process in a
         category.

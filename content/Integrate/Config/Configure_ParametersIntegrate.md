@@ -23,7 +23,7 @@ To set parameters:
 2.  Click **Edit**.
     
     *[View the field descriptions for the Parameters – Integrate
-    page.](../../Common/Page_Desc/Parameters_Integrate.htm)*
+    page.](../../Common/Page_Desc/Parameters_Integrate)*
 
 3.  Update fields as required.
 

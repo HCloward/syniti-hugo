@@ -1,0 +1,38 @@
+<!-- This is just the feedback html. It is used by the single.html layout.  -->
+<div id="feedback-survey">
+  <div class="feedback-question">
+      <p class="feedback-question">Was this article helpful?</p>
+      <button class="feedback-yes" title="Yes, this article was helpful." alt="Yes, this article was helpful.">Yes</button>
+      <button class="feedback-no" title="No, this article wasn't helpful." alt="No, this article wasn't helpful.">No</button>
+  </div>
+  <div class="feedback-reason no">
+      <div>
+          <p class="feedbackW">Sorry about that.</p>
+          <p>Why wasn't this helpful? (check all that apply)</p>
+          <div class="feedback-option">
+              <input type="checkbox" class="option no" id="option1" value="Couldn't find what I was looking for" data-analytics-label="Could not find" />
+              <label for="option1">I couldn't find the information I needed.</label>
+          </div>
+          <div class="feedback-option">
+              <input type="checkbox" class="option no" id="option2" value="Instructions confusing or unclear" data-analytics-label="Confusing or unclear" />
+              <label for="option2">The content has errors or is unclear.</label>
+          </div>
+          <div class="feedback-option">
+              <input type="checkbox" class="option no" id="option3" value="Not Enough Content" data-analytics-label="Not Enough content" />
+              <label for="option3">The content is incomplete: More information or context is needed.</label>
+          </div>
+          <div class="feedback-reason no-thanks">
+              <p class="feedback-question"><b>Thanks for your feedback.</b>
+              </p>
+              <p class="feedbackW">Want to tell us more?</p>
+              <p>Send an email to our authors to leave your feedback.</p>
+              <p><a href="mailto:Helpfeedback@boaweb.com?subject=Feedback" id="feedbackEmailLink">Email us</a>
+              </p>
+          </div>
+      </div>
+  </div>
+  <div class="feedback-reason yes-thanks">
+    <p class="feedbackW">Great!</p>
+    <p>Thanks for your feedback.</p>
+  </div>
+</div>

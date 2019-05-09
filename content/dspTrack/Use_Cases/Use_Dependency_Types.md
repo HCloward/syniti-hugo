@@ -9,7 +9,7 @@ When a project file is imported into dspTrack™, the predecessor tasks
 and dependency types are also imported.
 
 Refer to [Import Project Files into
-dspTrack™](Import_Project_Files_into_dspTrack.htm) for more
+dspTrack™](Import_Project_Files_into_dspTrack) for more
 information.
 
 Use a dependency type (Start to Finish, Finish to Start, Finish to
@@ -26,9 +26,9 @@ Microsoft Project, that value will be displayed as number of days in the
 Slack and Slack UOM fields on the <span style="font-style: italic;">Plan
 Task Dependency</span> page.
 
-Refer to [Add a Predecessor Task](Add_a_Predecessor_Task.htm) and
+Refer to [Add a Predecessor Task](Add_a_Predecessor_Task) and
 [Import Project Files into
-dspTrack™](Import_Project_Files_into_dspTrack.htm) for more
+dspTrack™](Import_Project_Files_into_dspTrack) for more
 information.
 
 **NOTE**: Work List Items, added on the *Work List Setup* page, do not
@@ -65,14 +65,14 @@ the dependent task is part of the critical path used by the Schedule
 Status feature, the critical path will show as late.
 
 Refer to [Calculate the Critical Path for a
-Plan](Calculate_the_Critical_Path_for_a_Plan.htm) for more information.
+Plan](Calculate_the_Critical_Path_for_a_Plan) for more information.
 
 There are four dependency types.
 
-  - [Finish to Start](Finish_to_Start.htm)
+  - [Finish to Start](Finish_to_Start)
 
-  - [Start to Finish](Start_to_Finish.htm)
+  - [Start to Finish](Start_to_Finish)
 
-  - [Start to Start](Start_to_Start.htm)
+  - [Start to Start](Start_to_Start)
 
-  - [Finish to Finish](Finish_to_Finish.htm)
+  - [Finish to Finish](Finish_to_Finish)

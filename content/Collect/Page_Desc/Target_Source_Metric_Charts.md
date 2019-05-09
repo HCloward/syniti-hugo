@@ -8,9 +8,9 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to view details related to the [Target Source Daily Metric
-Chart](Target_Source_Daily_Metric_Chart.htm), [Target Source Weekly
-Metric Chart](Target_Source_Weekly_Metric_Chart.htm) and [Target Source
-Monthly Metric Chart](Target_Source_Monthly_Metric_Chart.htm).
+Chart](Target_Source_Daily_Metric_Chart), [Target Source Weekly
+Metric Chart](Target_Source_Weekly_Metric_Chart) and [Target Source
+Monthly Metric Chart](Target_Source_Monthly_Metric_Chart).
 
 </div>
 

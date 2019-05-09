@@ -42,7 +42,7 @@ To edit a rule:
     database.
 5.  This connection name must be selected for ISA to work. Refer to
     [Create a Database Connection to Store IS Failed
-    Data](Create_a_Database_Connection_to_Store_IS_Failed_Data.htm) for
+    Data](Create_a_Database_Connection_to_Store_IS_Failed_Data) for
     more information.
 6.  Make changes to the rule as needed.
 7.  Click **Save and Run Now** to test the changes.

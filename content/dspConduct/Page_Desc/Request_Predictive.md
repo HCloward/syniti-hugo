@@ -9,9 +9,9 @@ This chart displays an estimate of when a request will be completed
 based on prior average request processing. Only active requests are used
 in the calculation.
 
-Click a bar to drill down to the *[Request](Request.htm)* page.
+Click a bar to drill down to the *[Request](Request)* page.
 
-Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts.htm) for
+Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts) for
 general information about chart features.
 
 To access this chart in dspConduct<span>™</span>:

@@ -10,7 +10,7 @@ field. Rules, requirement settings, criticality levels and other
 settings can then be applied to these subsets of data.
 
 A field can be extended to all field groups assigned to the Object from
-the *[Target Fields](../Page_Desc/Target_Fields_H_Target_Design.htm)*
+the *[Target Fields](../Page_Desc/Target_Fields_H_Target_Design)*
 page, allowing this field to have a filter applied based for every field
 group.
 
@@ -25,7 +25,7 @@ To extend a field to a field group in Target Design:
 
 1.  Click **Design** in the Context bar.
 
-2.  Click the **Targets**icon on the *[Design](../Page_Desc/Design.htm)*
+2.  Click the **Targets**icon on the *[Design](../Page_Desc/Design)*
     page.
 
 3.  Click the **Target Fields**icon for a Target.
@@ -49,7 +49,7 @@ the Object, four records display for the MTART field on the *Target
 Fields* page, one for each field group to which the field belongs
 (including the \* field group). When the field is brought into Map when
 the Target is synced, the four records display for the field on the
-*[Field Mappings](../../Map/Page_Desc/Field_Mappings_H.htm)* page, one
+*[Field Mappings](../../Map/Page_Desc/Field_Mappings_H)* page, one
 for each of the field groups, and mapping can be performed on each
 field-field group combination..
 

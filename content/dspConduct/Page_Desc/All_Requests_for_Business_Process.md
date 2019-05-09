@@ -9,7 +9,7 @@ This chart displays all requests for a business process by status.
 
 Click a section to drill down to the *Requests* page.
 
-Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts.htm) for
+Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts) for
 general information about chart features.
 
 To access this chart in dspConduct™:

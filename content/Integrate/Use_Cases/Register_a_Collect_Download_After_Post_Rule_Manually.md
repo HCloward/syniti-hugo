@@ -11,9 +11,9 @@ the process template executes successfully and before the next process
 template begins processing (if posting with a multi-template process).
 
 Before performing this task, a Template Administrator must [create a
-category](../Config/Create_Categories.htm), [create a
-template](Create_a_Basic_Template.htm), and [create a
-process](Create_a_Process.htm). The target, source and tables must be
+category](../Config/Create_Categories), [create a
+template](Create_a_Basic_Template), and [create a
+process](Create_a_Process). The target, source and tables must be
 registered in Collect.
 
 A Collect Download rule downloads a Collect source - target - table
@@ -21,11 +21,11 @@ registration. When registering a Collect Download as an After Post Rule,
 the source, target, and table to download must be selected. Once
 selected, the source and target Where clauses can be manually entered or
 [automatically built at run
-time](Register_a_Collect_Download_After_Post_Rule_that_is_Built_Automatically.htm).
+time](Register_a_Collect_Download_After_Post_Rule_that_is_Built_Automatically).
  
 
 Refer to [Register After Post Rules to a Process Template
-Overview](Register_After_Post_Rules_to_a_Process_Template_Overview.htm)
+Overview](Register_After_Post_Rules_to_a_Process_Template_Overview)
 for general information.
 
 To manually create a Collect Download After Post Rule in Integrate:
@@ -52,7 +52,7 @@ To manually create a Collect Download After Post Rule in Integrate:
     
     [View the field descriptions for the Process Templates: After Post
     Rules
-    page](../../../Master_Data_Mgmt/dspConduct/Page_Desc/Process_Templates_After_Post_Rules_H.htm)
+    page](../../../Master_Data_Mgmt/dspConduct/Page_Desc/Process_Templates_After_Post_Rules_H)
 
 5.  Enter a number in the
     <span style="font-weight: bold;">Priority</span> field to set the

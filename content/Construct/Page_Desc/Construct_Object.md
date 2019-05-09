@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [View the Construction Page in
-Construct](../Use_Cases/View_the_Construction_page_in_Construct.htm).
+Construct](../Use_Cases/View_the_Construction_page_in_Construct).
 
 </div>
 
@@ -18,7 +18,7 @@ To access this page:
 2.  Select <span style="font-weight: bold;">Construct </span>in the
     Context bar.
 3.  Click the <span style="font-weight: bold;">Objects</span>icon on the
-    *[Construct Launch](Construct_Launch.htm)* page.
+    *[Construct Launch](Construct_Launch)* page.
 
 <table>
 <tbody>
@@ -49,11 +49,11 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Targets</p></td>
-<td><p>Click to open the <em><a href="Construct_Target.htm">Construct Target</a></em> page to view each of the Targets that have Construct pages and the status of construction for each Target.</p></td>
+<td><p>Click to open the <em><a href="Construct_Target">Construct Target</a></em> page to view each of the Targets that have Construct pages and the status of construction for each Target.</p></td>
 </tr>
 <tr class="even">
 <td><p>Construct Pages</p></td>
-<td><p>Click to open the <em><a href="Construct_Page.htm">Construct Page</a></em> page to view all of the Construct pages that have been added for the Object.</p></td>
+<td><p>Click to open the <em><a href="Construct_Page">Construct Page</a></em> page to view all of the Construct pages that have been added for the Object.</p></td>
 </tr>
 </tbody>
 </table>

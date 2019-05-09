@@ -2,7 +2,7 @@
 
 Rule Binding descriptions display in workflow emails, on the report
 accessed through the [Report Data
-Viewer,](../Page_Desc/Report_Data_Viewer.htm) and in the Excel file sent
+Viewer,](../Page_Desc/Report_Data_Viewer) and in the Excel file sent
 as an attachment to a workflow email.  A description provides
 supplemental information about the rule so that users who view reports
 based on data that failed the rule can better understand what the failed
@@ -32,7 +32,7 @@ To edit descriptions:
 6.  Click **Edit** for a rule.
     
     *[View the field descriptions for the Rule Binding Detail
-    page](../Page_Desc/Rule_Binding_Detail.htm)*
+    page](../Page_Desc/Rule_Binding_Detail)*
 
 7.  Enter a recommendation for resolving issues with data that failed
     the selected rule and rule binding in the **RECOMMENDATION** field.

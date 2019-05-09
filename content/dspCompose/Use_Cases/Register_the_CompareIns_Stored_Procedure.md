@@ -6,14 +6,14 @@ solution = 'Data Quality'
 # Register the CompareIns Stored Procedure
 
 Before performing this task, [Configure the Comparison Approval
-Setting](Configure_the_Comparison_Approval_Setting.htm).
+Setting](Configure_the_Comparison_Approval_Setting).
 
 Next, register the CompareIns stored procedure to the Finish event for
 the Data Entry Role. The procedure will then run when the Data role user
 clicks the **Finish** button on the *Request (Roles)* page.
 
 Refer to [Sample Stored Procedure For Comparison
-Approval](Sample_Stored_Procedure_for_Comparison_Approval.htm)  for more
+Approval](Sample_Stored_Procedure_for_Comparison_Approval)  for more
 information.
 
 To register the CompareIns stored procedure:
@@ -33,7 +33,7 @@ To register the CompareIns stored procedure:
     Otherwise, click Add.
     
     [View the field descriptions for the Template (Role Event Rule)
-    page](../Page_Desc/Template_Role_Event_Rule.htm)
+    page](../Page_Desc/Template_Role_Event_Rule)
 
 6.  Enter a number in the **PRIORITY** field.
     
@@ -50,4 +50,4 @@ To register the CompareIns stored procedure:
 9.  Click **Save**.
 
 Continue with [Create a Request for Comparison
-Approval](Create_a_Request_for_Comparison_Approval.htm).
+Approval](Create_a_Request_for_Comparison_Approval).

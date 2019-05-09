@@ -20,7 +20,7 @@ To enter data into the construction pages:
 2.  Select **Construct** in the Context bar.
 
 3.  Click the <span style="font-weight: bold;">Targets</span>icon on the
-    *[Construct Launch](../Page_Desc/Construct_Launch.htm)* page.
+    *[Construct Launch](../Page_Desc/Construct_Launch)* page.
 
 4.  Click the <span style="font-weight: bold;">Construct Pages</span>
     icon for a Target.

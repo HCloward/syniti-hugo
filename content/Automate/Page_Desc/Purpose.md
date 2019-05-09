@@ -10,11 +10,11 @@ solution = 'Platform'
 Use this page to:
 
   - [Register External Process
-    Validations](../Use_Cases/Register_External_Process_Validations.htm)
+    Validations](../Use_Cases/Register_External_Process_Validations)
   - [Register Stored Procedure
-    Validations](../Use_Cases/Register_Stored_Procedure_Validations.htm)
+    Validations](../Use_Cases/Register_Stored_Procedure_Validations)
   - [Register View
-    Validations](../Use_Cases/Register_View_Validations.htm)
+    Validations](../Use_Cases/Register_View_Validations)
 
 </div>
 

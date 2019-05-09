@@ -10,11 +10,11 @@ the record must be reset or if the record is not a duplicate.
 
 To review duplicate records:
 
-1.  From the *[Results](../Page_Desc/Results.htm)* page, click
+1.  From the *[Results](../Page_Desc/Results)* page, click
     **Duplicates**.
     
     *[View the field descriptions for the Duplicates
-    page](../Page_Desc/Duplicates.htm)*
+    page](../Page_Desc/Duplicates)*
 
 2.  Review the duplicate record pairs. Options are:
     

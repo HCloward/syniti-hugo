@@ -13,7 +13,7 @@ To add a System Type Model Group:
     pane.
 
 2.  Select the **SYSTEM TYPE MODEL** on the *[System Type
-    Models](../Page_Desc/System_Types_Models_H.htm)* page.
+    Models](../Page_Desc/System_Types_Models_H)* page.
 
 3.  Click the **Model Groups** icon.
     
@@ -21,7 +21,7 @@ To add a System Type Model Group:
     Otherwise, click Add.
     
     *[View the field descriptions for the System Types Model Groups
-    page.](../Page_Desc/System_Types_Model_Groups.htm)*
+    page.](../Page_Desc/System_Types_Model_Groups)*
 
 4.  Enter a name for the group in the **GROUP** field.
 
@@ -34,11 +34,11 @@ To add a System Type Model Group:
 8.  Click **Add**.
     
     *[View the field descriptions for the System Types Model Group
-    Tables page](../Page_Desc/System_Types_Model_Group_Tables.htm)*
+    Tables page](../Page_Desc/System_Types_Model_Group_Tables)*
 
 9.  Enter the table name in the **TABLE NAME** field.
 
 10. Click **Save**.
 
 Next, [activate or deactivate tables in a System Type Model
-Group](ActiveDeactiveTblsSystmTypeModelGrp.htm).
+Group](ActiveDeactiveTblsSystmTypeModelGrp).

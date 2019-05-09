@@ -11,9 +11,9 @@ solution = 'Master Data Management'
 
 Use this page to:
 
-  - [Create a Category](../Use_Cases/Create_a_Category.htm)
+  - [Create a Category](../Use_Cases/Create_a_Category)
   - [Set Up a Category from IGC™ in
-    dspConduct™](../Use_Cases/Set_Up_a_Category_from_IGC_in_dspConduct.htm)
+    dspConduct™](../Use_Cases/Set_Up_a_Category_from_IGC_in_dspConduct)
 
 </div>
 
@@ -24,7 +24,7 @@ pane.
 IGC™ cannot be updated from within dspConduct™, and many of the fields
 and icons associated with the record are not active for that category.
 Refer to [Update Custom Attributes for Governance
-Elements](../Use_Cases/Update_Custom_Attributes_for_Governance_Elements.htm)
+Elements](../Use_Cases/Update_Custom_Attributes_for_Governance_Elements)
 for more information.
 
 <table>
@@ -55,7 +55,7 @@ for more information.
 <td><p>Displays the DEFAULT WEB APP ID for the Content WebApp of the selected category.</p>
 <p>The field is limited to the applications for which the user has a BOA Tools license and has the ability to change. These applications are not delivered.</p>
 <p><strong>NOTE:</strong> A specific Default WebAppID may only be assigned to one category. A validation message is received if a WebApp has already been assigned to another category.</p>
-<p><strong>NOTE</strong>: If a category is imported from IGC™, it must have a default WebApp assigned to it or the category is invalid. Refer to <a href="../Use_Cases/Set_Up_a_Category_from_IGC_in_dspConduct.htm">Set Up a Category from IGC™ in dspConduct™</a> for more information. .</p></td>
+<p><strong>NOTE</strong>: If a category is imported from IGC™, it must have a default WebApp assigned to it or the category is invalid. Refer to <a href="../Use_Cases/Set_Up_a_Category_from_IGC_in_dspConduct">Set Up a Category from IGC™ in dspConduct™</a> for more information. .</p></td>
 </tr>
 <tr class="odd">
 <td><p>WEB APP STATUS</p></td>
@@ -68,28 +68,28 @@ for more information.
 </tr>
 <tr class="odd">
 <td><p>IGC Tasks</p></td>
-<td><p>Click to open the IGC™ <em><a href="IGC_Task.htm"><em>Task</em></a></em> page to map a dspConduct™ task to an IGC™ task.</p>
+<td><p>Click to open the IGC™ <em><a href="IGC_Task"><em>Task</em></a></em> page to map a dspConduct™ task to an IGC™ task.</p>
 <p><strong>NOTE</strong>: This icon is disabled if the category did not come from IGC™.</p>
-<p>Refer to <a href="../Use_Cases/Map_a_dspConduct_Task_to_a_Task_Imported_from_IGC.htm#Map_an_IGC_Task_to_An_Existing_dspConduct_Task">Map an IGC™ Task to An Existing dspConduct™ Task</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Map_a_dspConduct_Task_to_a_Task_Imported_from_IGC#Map_an_IGC_Task_to_An_Existing_dspConduct_Task">Map an IGC™ Task to An Existing dspConduct™ Task</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Tasks</p></td>
-<td><p>Click to open the <a href="Task_H.htm">Task</a> page to add tasks at the category level. Refer to <a href="../Use_Cases/Add_a_Task.htm">Add a Task</a> for more information.</p>
+<td><p>Click to open the <a href="Task_H">Task</a> page to add tasks at the category level. Refer to <a href="../Use_Cases/Add_a_Task">Add a Task</a> for more information.</p>
 <p>The value on the Tasks icon indicates the number (record count) of tasks that have been developed for the selected category. When a category is created, this number is 0 which indicates no tasks have been developed.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Roles</p></td>
-<td><p>Click to open the <a href="Role_H_dspConduct.htm">Role</a> page to add roles at the category level. Refer to <a href="../Use_Cases/Add_a_Role.htm">Add a Role in dspConduct™</a> for more information.</p>
-<p>The value on the Roles icon indicates the number (record count) of Roles that have been developed for the selected category. Refer to <span class="underline"><span style="color: #548DD4;"><a href="../Use_Cases/Manage_Roles.htm">Manage Roles</a></span></span> for more information.</p></td>
+<td><p>Click to open the <a href="Role_H_dspConduct">Role</a> page to add roles at the category level. Refer to <a href="../Use_Cases/Add_a_Role">Add a Role in dspConduct™</a> for more information.</p>
+<p>The value on the Roles icon indicates the number (record count) of Roles that have been developed for the selected category. Refer to <span class="underline"><span style="color: #548DD4;"><a href="../Use_Cases/Manage_Roles">Manage Roles</a></span></span> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Scenarios</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Scenario_H.htm">Scenario</a></span> page to add a scenario at the category level. Refer to <a href="../Use_Cases/Add_Scenario.htm">Add a Scenario</a> for more information.</p>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Scenario_H">Scenario</a></span> page to add a scenario at the category level. Refer to <a href="../Use_Cases/Add_Scenario">Add a Scenario</a> for more information.</p>
 <p>The value on the Scenarios icon indicates the number (record count) of scenarios that have been developed for the selected category. When a category is created, this number is 0 which indicates no scenarios have been developed.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Business Processes</p></td>
-<td><p>Click to open the <a href="Business_Process_H.htm">Business Process</a> page to add business processes at the category level. Refer to <a href="../Use_Cases/Add_Business_Process.htm">Add a Business Process</a> for more information.</p>
+<td><p>Click to open the <a href="Business_Process_H">Business Process</a> page to add business processes at the category level. Refer to <a href="../Use_Cases/Add_Business_Process">Add a Business Process</a> for more information.</p>
 <p>The value on the Business Processes icon indicates the number (record count) of business processes that have been developed for the selected category. When a category is created, this number is 0 which indicates no business processes have been developed.</p></td>
 </tr>
 </tbody>
@@ -134,7 +134,7 @@ in the Content WebApp to enter request data.
 
 The page entered here displays when the user clicks the Content Request
 Page icon on the
-<span style="font-style: italic;">[Request](Request.htm)</span> page.
+<span style="font-style: italic;">[Request](Request)</span> page.
 
 If no value is entered, when the user clicks the Content Request Page
 icon on the <span style="font-style: italic;">Request</span> page, a
@@ -166,13 +166,13 @@ Configuration
 Org Unit Types
 
 Click to open the <span style="font-style: italic;">[Category Org Unit
-Type](Category_Org_Unit_Type.htm)</span> page to assign org unit types
+Type](Category_Org_Unit_Type)</span> page to assign org unit types
 to a category object.
 
 Request Status Params
 
 Click to open the <span style="font-style: italic;">[Category Request
-Status](Category_Request_Status.htm)</span> page. This page lists the
+Status](Category_Request_Status)</span> page. This page lists the
 <span id="Request Status dspConduct" class="popUpLink">\>request
 statuses</span> and the number of days a request remains within the
 request page until being archived.
@@ -180,15 +180,15 @@ request page until being archived.
 Workflow Messages
 
 Click to open the <span style="font-style: italic;">[Category Workflow
-Message](Category_Workflow_Message.htm)</span> page to create workflow
+Message](Category_Workflow_Message)</span> page to create workflow
 messages in different languages. Refer to [Create Language-specific
 Workflow Messages for a
-Category](../Config/Create_Language-specific_Workflow_Messages_for_a_Category.htm)
+Category](../Config/Create_Language-specific_Workflow_Messages_for_a_Category)
 for more information.
 
 Posting Processes
 
-Click to open the [Category Process](Category_Process.htm) page to set
+Click to open the [Category Process](Category_Process) page to set
 the allowed Integrate processes for the scenarios in this category.
 
 **NOTE:** The count on the icon represents the number of category
@@ -204,7 +204,7 @@ starts with this configured text.
 For example, a user can enter the prefix "ttSRTC\_" and all control
 tables for the category are generated with that prefix. Refer to [Create
 Tables and Views for Content WebApp
-Pages](../Use_Cases/Create_Tables_and_Views_for_Content_WebApp_Pages_Overview.htm)
+Pages](../Use_Cases/Create_Tables_and_Views_for_Content_WebApp_Pages_Overview)
 for more information.
 
 Data-Driven Dependency Conditions
@@ -218,11 +218,11 @@ WebApp is used by default.
 Conditions
 
 Click to open the
-<span style="font-style: italic;">[Conditions](Conditions.htm)</span>
+<span style="font-style: italic;">[Conditions](Conditions)</span>
 page to identify conditions to be met in the data that determine whether
 a scenario or role is available within a business process. Refer to [Add
 Data-Driven Dependency Conditions to a
-Category](../Use_Cases/Add_Data_Driven_Dependency_Conditions.htm) for
+Category](../Use_Cases/Add_Data_Driven_Dependency_Conditions) for
 more information.
 
 The count on the icon is the total number of conditions for the selected
@@ -233,7 +233,7 @@ category.
 <div class="use">
 
 Use this tab to [Auto-generate Request-related
-Objects](../Use_Cases/Auto_Generate_Request_related_Objects.htm).
+Objects](../Use_Cases/Auto_Generate_Request_related_Objects).
 
 </div>
 
@@ -257,14 +257,14 @@ Rules
 
 Default Value Rules
 
-Click to open the *[Default Value Rules](Default_Value_Rules.htm)* page
+Click to open the *[Default Value Rules](Default_Value_Rules)* page
 to add a default value rule to indicate a default value for a column.
 
 The count on the icon is the total number of Default Value Rules for the
 selected category.
 
 Refer [Add a Scenario Level Default Value Rule to a
-Category](../Use_Cases/Add_a_Scenario_Level_Default_Value_Rule_to_a_Category.htm)<span style="background: #ffffff;">for
+Category](../Use_Cases/Add_a_Scenario_Level_Default_Value_Rule_to_a_Category)<span style="background: #ffffff;">for
 more information.</span>
 
 Review Role Configuration
@@ -280,7 +280,7 @@ source and may be different than the Default WebApp ID’s data source.
 Table Registration
 
 Click to open the [Audit Table
-Registration](Audit_Table_Registration.htm) page to configure tables and
+Registration](Audit_Table_Registration) page to configure tables and
 columns to be audited for changes to the data in the tables. The Review
 role views a list of these changes while reviewing requests.
 
@@ -298,9 +298,9 @@ Default Web App Configuration
 Create Default Web App Request Table and Views
 
 Click to open the *[Default Web App Request
-Table](Default%20WebApp%20Request%20Table.htm)* page and the *[Default
+Table](Default%20WebApp%20Request%20Table)* page and the *[Default
 Web App Request Table
-Columns](Default_WebApp_Request_Table_Columns_H.htm)* page to
+Columns](Default_WebApp_Request_Table_Columns_H)* page to
 auto-generate request-related objects in the Content WebApp and the
 database.
 
@@ -310,29 +310,29 @@ Build Object icon on the *Default Web App Request Table* page), the
 Create Default Web App Request Table and Views icon is disabled.
 
 Refer to [Auto-generate Request-related
-Objects](../Use_Cases/Auto_Generate_Request_related_Objects.htm) for
+Objects](../Use_Cases/Auto_Generate_Request_related_Objects) for
 more information.
 
 Request Table and Views Creation Log
 
 Click to open the [Request Objects Creation
-Log](Request_Objects_Creation_Log.htm) page to view records for the
+Log](Request_Objects_Creation_Log) page to view records for the
 objects created during the auto-generation process.
 
 Refer to [View the Request Objects Creation
-Log](../Use_Cases/Auto_Generate_Request_related_Objects.htm#View_the_Request_Objects_Creation_Log)
+Log](../Use_Cases/Auto_Generate_Request_related_Objects#View_the_Request_Objects_Creation_Log)
 for more information.
 
 Create Collect Target Views
 
 Click to open the *[Advanced View
-Builder](../../../Platform/Collect/Page_Desc/Advanced_View_Builder_H.htm)*
+Builder](../../../Platform/Collect/Page_Desc/Advanced_View_Builder_H)*
 page in Collect to build views in the Content WebApp database for the
 tables in any new dg\* database (or another database that stores
 governance system tables).
 
 Refer to [Create Collect Target
-Views](../Use_Cases/Auto_Generate_Request_related_Objects.htm#Create_Collect_Target_Views)
+Views](../Use_Cases/Auto_Generate_Request_related_Objects#Create_Collect_Target_Views)
 for more information.
 
 ### <span id="Metrics_Tab"></span>Metrics tab
@@ -346,16 +346,16 @@ Duration
 Duration Business Process
 
 Click to open the [Business Process Request
-Duration](Busniess_Process_Request_Duration.htm) chart.
+Duration](Busniess_Process_Request_Duration) chart.
 
 Duration Scenario
 
 Click to open the [Scenario Request
-Duration](Scenario_Request_Duration.htm) chart.
+Duration](Scenario_Request_Duration) chart.
 
 Duration Role
 
-Click to open the [Role Request Duration](Role_Request_Duration.htm)
+Click to open the [Role Request Duration](Role_Request_Duration)
 chart.
 
 SLA Percent On Time
@@ -363,39 +363,39 @@ SLA Percent On Time
 SLA Business Process
 
 Click to open the [SLA Percent On Time by Business
-Process](SLA_Percent_OnTime_by_Business_Process.htm) chart.
+Process](SLA_Percent_OnTime_by_Business_Process) chart.
 
 SLA Scenario
 
 Click to open the [SLA Percent On Time by
-Scenario](SLA_Percent_On_Time_by_Scenario.htm) chart.
+Scenario](SLA_Percent_On_Time_by_Scenario) chart.
 
 SLA Role
 
 Click to open the [SLA Percent On Time by
-Role](SLA_Percent_On_Time_by_Role.htm) chart.
+Role](SLA_Percent_On_Time_by_Role) chart.
 
 Predictive
 
 Predictive Business Process
 
 Click to open [Business Process
-Predictive](Business_Process_Predict.htm) chart.
+Predictive](Business_Process_Predict) chart.
 
 Predictive Scenario
 
-Click to open the [Scenario Predictive](Scenario_Predictive.htm) chart.
+Click to open the [Scenario Predictive](Scenario_Predictive) chart.
 
 Predictive Role
 
-Click to open the [Role Predictive](Role_Predictive.htm) chart.
+Click to open the [Role Predictive](Role_Predictive) chart.
 
 Requests
 
 Active Requests
 
 Click to open the [Active Request for
-Category](../Use_Cases/Active_Request_Category.htm) chart to view the
+Category](../Use_Cases/Active_Request_Category) chart to view the
 number of requests by
 <span id="Request Status dspConduct" class="popUpLink">status</span> in
 a category.

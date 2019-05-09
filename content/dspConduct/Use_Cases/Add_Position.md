@@ -22,7 +22,7 @@ data the users can access in the Content WebApp.
 
 Before performing this task, design the governance elements in
 dspConduct™ \> Design. Refer to <span>[dspConduct™ Design Process
-Overview](dspConduct_Design_Process_Overview.htm)</span> for more
+Overview](dspConduct_Design_Process_Overview)</span> for more
 information.
 
 To add a position in dspConduct™:
@@ -34,7 +34,7 @@ To add a position in dspConduct™:
     **Add**.
     
     *[View the field descriptions for the Position
-    page.](../Page_Desc/Position.htm)*
+    page.](../Page_Desc/Position)*
 
 3.  Enter a name for the position in the **NAME** field.
 
@@ -52,4 +52,4 @@ To add a position in dspConduct™:
 7.  Click **Save**.
 
 Next, [configure business processes in a
-position](Configure_Business_Processes_in_a_Position.htm).
+position](Configure_Business_Processes_in_a_Position).

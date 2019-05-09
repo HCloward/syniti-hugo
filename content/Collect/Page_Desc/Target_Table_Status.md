@@ -27,7 +27,7 @@ the selected target and Target Source and to access the *Tables* page
 for the Target Source to refresh tables.
 
 Refer to [View Dashboard in
-Collect](../Use_Cases/View_Dashboard_in_Collect.htm) for general
+Collect](../Use_Cases/View_Dashboard_in_Collect) for general
 information about how data displays on dashboards.
 
 To access the chart in Collect, click

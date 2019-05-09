@@ -9,7 +9,7 @@ solution = 'Master Data Management'
 
 Use this page to [View the Dependency Relationships for a Data-Driven
 Dependency
-Condition](../Use_Cases/Add_Data_Driven_Dependency_Conditions.htm#View_the_Dependency_Relationships_for_a_Data_Driven_Dependency_Condition).
+Condition](../Use_Cases/Add_Data_Driven_Dependency_Conditions#View_the_Dependency_Relationships_for_a_Data_Driven_Dependency_Condition).
 
 </div>
 

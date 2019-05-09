@@ -10,7 +10,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [View All Reports Across Waves and Process
-Areas](../Use_Cases/View_Reports.htm#View_All_Reports_Across_Waves_and_Process_Areas).
+Areas](../Use_Cases/View_Reports#View_All_Reports_Across_Waves_and_Process_Areas).
 
 </div>
 
@@ -112,7 +112,7 @@ fields on this page update based on the errors on the target reports.
 </tr>
 <tr class="even">
 <td><p>History</p></td>
-<td><p>Click to open the <a href="Report_Run_Historical_Record_Count.htm">Report Run Historical Record Count</a> chart to view the number of records returned each time the report was processed.</p></td>
+<td><p>Click to open the <a href="Report_Run_Historical_Record_Count">Report Run Historical Record Count</a> chart to view the number of records returned each time the report was processed.</p></td>
 </tr>
 </tbody>
 </table>

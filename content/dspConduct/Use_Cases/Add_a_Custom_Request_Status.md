@@ -11,7 +11,7 @@ A Designer has the option to add custom request statuses.
 provide all code to process and assign these statuses.
 
 Refer to [Manage Request Statuses
-Overview](../Config/Manage_Request_Statuses.htm) for more information.
+Overview](../Config/Manage_Request_Statuses) for more information.
 
 To add a custom request status in dspConduct™:
 
@@ -21,7 +21,7 @@ To add a custom request status in dspConduct™:
 2.  Click <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Request Status
-    page.](../Page_Desc/Request_Status.htm)
+    page.](../Page_Desc/Request_Status)
 
 3.  Enter the status name in the
     <span style="font-weight: bold;">REQUEST STATUS</span> field.

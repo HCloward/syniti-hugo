@@ -12,16 +12,16 @@ combination. It is at this level that access to the Post Later feature
 is controlled.
 
 Refer to [Schedule a Post for a Specified Date and
-Time](Post_a_Request.htm#Schedule_a_Post_for_a_Specified_Date_and_Time)
+Time](Post_a_Request#Schedule_a_Post_for_a_Specified_Date_and_Time)
 for more information.
 
 Before performing this task, [Design a Governance
-Hierarchy](dspConduct_Design_Process_Overview.htm) and [add a
-role](Add_a_Role.htm) with the Post role type.
+Hierarchy](dspConduct_Design_Process_Overview) and [add a
+role](Add_a_Role) with the Post role type.
 
 The setting can be configured at the role level and can cascade down to
 the scenario role level. Refer to [Configure the Post Later Feature at
-the Role Level](Configure_the_Post_Later_Feature_at_the_Role_Level.htm)
+the Role Level](Configure_the_Post_Later_Feature_at_the_Role_Level)
 for more information.
 
 To configure Post Later at the Scenario - Role Level:

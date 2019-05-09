@@ -9,8 +9,8 @@ solution = 'Data Quality'
 
 Use this page to
 
-  - [Create a BDC Script Template](Create_a_BDC_Script_Template.htm)
-  - [Create a GUI Script Template](Create_a_GUI_Script_Template.htm)
+  - [Create a BDC Script Template](Create_a_BDC_Script_Template)
+  - [Create a GUI Script Template](Create_a_GUI_Script_Template)
 
 </div>
 

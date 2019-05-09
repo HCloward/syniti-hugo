@@ -17,7 +17,7 @@ When a package is created, the following SQL commands are built:
 This section contains the following topics:
 
   - [Build Package for
-    Source](Register_and_Use_Sources.htm#Build_Package_for_Source)
-  - [Build Package for Table](Build_Package_for_Table.htm)
+    Source](Register_and_Use_Sources#Build_Package_for_Source)
+  - [Build Package for Table](Build_Package_for_Table)
   - [Build Package for Schedule
-    Group](Build_Package_for_Schedule_Group.htm)
+    Group](Build_Package_for_Schedule_Group)

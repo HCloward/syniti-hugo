@@ -19,7 +19,7 @@ There are seven template types in Integrate.  The initial steps to
 create a template are the same no matter the template type.
 
 A template can also be created based on a copy of an existing template.
-Refer to [*Copy a Template*](Copy_a_Template.htm) for more information.
+Refer to [*Copy a Template*](Copy_a_Template) for more information.
 
 Once the template has been created and saved on the *Horizontal* View of
 the *Template* page, the *Vertical* View displays. Configuration options
@@ -40,7 +40,7 @@ To create a template:
 3.  Click **Add** on Page toolbar.
     
     [View the field descriptions for the Template
-    page.](../Page_Desc/Template_H.htm)
+    page.](../Page_Desc/Template_H)
 
 4.  Enter a name in **TEMPLATE NAME** field.
     
@@ -56,7 +56,7 @@ To create a template:
     **NOTE:** The Connection ID defines which system is used to gather
     metadata for the template. Refer to *[Establish a Connection to a
     Target
-    System](../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview.htm)*
+    System](../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview)*
     for detailed information.
 
 7.  Select a template type from **TYPE** list box.
@@ -72,30 +72,30 @@ To create a template:
     The template types are:
     
       - <span style="font-weight: bold;">BAPI/RFC</span> Refer to
-        [Configure an RFC Template](Configure_a_RFC_Template.htm) and
-        [Configure a BAPI Template](Configure_a_BAPI_Template.htm) for
+        [Configure an RFC Template](Configure_a_RFC_Template) and
+        [Configure a BAPI Template](Configure_a_BAPI_Template) for
         more
         information.
       - <span style="font-weight: bold;">BDC</span><span style="font-weight: bold;">Script</span>
-        Refer to [Record a BDC Script](Record_a_BDC_Script.htm) for more
+        Refer to [Record a BDC Script](Record_a_BDC_Script) for more
         information.
       - <span style="font-weight: bold;">Custom</span>: Refer to [Post
         Data Using a Custom
-        Template](Post_Data_Using_a_Custom_Template.htm) for more
+        Template](Post_Data_Using_a_Custom_Template) for more
         information.
       - <span style="font-weight: bold;">GUI</span><span style="font-weight: bold;">Script</span>
-        Refer to [Record a GUI Script](Record_a_GUI_Script.htm) for more
+        Refer to [Record a GUI Script](Record_a_GUI_Script) for more
         information.
       - **IG Universal Connect** Refer to [Post Data Using IG Universal
-        Connect](../../IGUC/Post%20Data%20Using%20IG%20Universal%20Connect%20Overview.htm)
+        Connect](../../IGUC/Post%20Data%20Using%20IG%20Universal%20Connect%20Overview)
         for more information.
       - <span style="font-weight: bold;">SAP Data Services Job</span>
         Refer to [Post Data Using an SAP Data Services
-        Job](Post_Data_Using_an_SAP_Data_Services_Job_Overview.htm) for
+        Job](Post_Data_Using_an_SAP_Data_Services_Job_Overview) for
         more information.
       - <span style="font-weight: bold;">User Defined</span> Refer to
         [Configure an XML Template with Structures, Elements and
-        Attributes](ConfigureXMTemplateStrctrEleAtt.htm) and [Create and
+        Attributes](ConfigureXMTemplateStrctrEleAtt) and [Create and
         Transfer Files for User Defined Fixed Width or Delimited
-        Templates](CreatTransferFilesUrDTemplates.htm) for more
+        Templates](CreatTransferFilesUrDTemplates) for more
         information.

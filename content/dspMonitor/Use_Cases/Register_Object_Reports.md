@@ -25,7 +25,7 @@ To register a report for an object:
 3.  Click **Add**.
     
     [View the field descriptions for the Object Reports
-    page](../Page_Desc/Object_Reports.htm)
+    page](../Page_Desc/Object_Reports)
 
 4.  Select the repository where the report resides from the
     **REPOSITORY** list box.
@@ -49,7 +49,7 @@ To register objects to a report:
 4.  Click **Add**.
     
     [View the field descriptions for the Object Reports
-    page](../Page_Desc/Object_Reports.htm)
+    page](../Page_Desc/Object_Reports)
 
 5.  Select an object from the **OBJECT NAME** list box.
 

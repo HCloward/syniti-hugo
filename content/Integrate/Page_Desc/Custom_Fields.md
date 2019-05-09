@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Add Custom Fields to a BDC Script
-Template](../Use_Cases/Add_Custom_Fields_to_a_BDC_Script_Template.htm).
+Template](../Use_Cases/Add_Custom_Fields_to_a_BDC_Script_Template).
 
 </div>
 

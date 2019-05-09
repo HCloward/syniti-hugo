@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Set Rules for a Category
-Process](../Use_Cases/Set_Rules_for_a_Category_Process.htm).
+Process](../Use_Cases/Set_Rules_for_a_Category_Process).
 
 </div>
 

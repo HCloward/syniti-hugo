@@ -9,7 +9,7 @@ solution = 'Platform'
 
 Use this page when [Registering a Collect Download After Post Rule that
 is Built
-Automatically](../Use_Cases/Register_a_Collect_Download_After_Post_Rule_that_is_Built_Automatically.htm).
+Automatically](../Use_Cases/Register_a_Collect_Download_After_Post_Rule_that_is_Built_Automatically).
 
 </div>
 
@@ -40,7 +40,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Column Name</p></td>
-<td><p>Displays the name of the column to be evaluated at run time. The column is stored in the table in the Collect Table Name field on the <a href="../../../Master_Data_Mgmt/dspConduct/Page_Desc/Process_Templates_After_Post_Rules_H.htm">Process Templates: After Post Rules</a> page.</p></td>
+<td><p>Displays the name of the column to be evaluated at run time. The column is stored in the table in the Collect Table Name field on the <a href="../../../Master_Data_Mgmt/dspConduct/Page_Desc/Process_Templates_After_Post_Rules_H">Process Templates: After Post Rules</a> page.</p></td>
 </tr>
 <tr class="even">
 <td><p>Operator</p></td>

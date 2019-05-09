@@ -10,10 +10,10 @@ load programs for multiple target systems to a single process template.
 Data can then be posted to these target systems sequentially.
 
 Before performing this task, [Set Available Connections at the Process
-Template Level](Set_Connections_at_the_Process_Template_Level.htm).
+Template Level](Set_Connections_at_the_Process_Template_Level).
 
 Refer to [Post Data to Multiple Target Systems with One Process
-Template](Post_Data_to_Multiple_Target_Systems_with_One_Process_Template.htm)
+Template](Post_Data_to_Multiple_Target_Systems_with_One_Process_Template)
 for general information.
 
 After the available connections are set for a process template, the
@@ -43,7 +43,7 @@ Integrate:
 5.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the Process Post Connections
-    page](../Page_Desc/Process_Post_Connections.htm)
+    page](../Page_Desc/Process_Post_Connections)
 
 6.  Select the connection from the
     <span style="font-weight: bold;">CONNECTION ID</span> list box.
@@ -52,7 +52,7 @@ Integrate:
     available were added at the process template level.
 
 7.  Navigate back to the <span style="font-style: italic;">[Process
-    Post](../Page_Desc/Process_Post_H.htm)</span> page.
+    Post](../Page_Desc/Process_Post_H)</span> page.
 
 8.  Click the <span style="font-weight: bold;">Post</span> icon.
 

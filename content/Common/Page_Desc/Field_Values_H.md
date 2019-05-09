@@ -5,18 +5,18 @@ solution = 'Platform'
 
 # Field Values H
 
-### [Field Values V](Field_Values_H.htm#Field_Values_V)
+### [Field Values V](Field_Values_H#Field_Values_V)
 
 <div class="use">
 
 Use this page to view the unique values for the selected field while
 [viewing table field
-results](../../../Migration/Construct/Use_Cases/View_Table_Field_Results.htm).
+results](../../../Migration/Construct/Use_Cases/View_Table_Field_Results).
 
 </div>
 
 To access this page to [view details about a specific
-table:](../../../Migration/Construct/Use_Cases/View_Table_Results.htm)
+table:](../../../Migration/Construct/Use_Cases/View_Table_Results)
 
 1.  Select <span style="font-weight: bold;">Common \> Analyze</span> in
     the Navigation pane.
@@ -41,7 +41,7 @@ field.
 ## <span id="Field_Values_V"></span>Field Values V
 
 [Field Values
-H](Field_Values_H.htm)
+H](Field_Values_H)
 
 |                      |                                                                                                                                                                                                                                                         |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -61,6 +61,6 @@ H](Field_Values_H.htm)
 | Processing Message   | Displays the current field process. The field is blank if there are no errors or messages from the processing job.                                                                                                                                      |
 | Added By             | Displays User ID of the individual who ran the unique process.                                                                                                                                                                                          |
 | Added On             | Displays the date the unique process was run.                                                                                                                                                                                                           |
-| Changed By           | Displays User ID of individual who changed the Interesting setting, which is configured on the<span style="font-style: italic;">[*Table Field (Results)*](Table_Field_Results_H.htm)</span> page.                                                       |
+| Changed By           | Displays User ID of individual who changed the Interesting setting, which is configured on the<span style="font-style: italic;">[*Table Field (Results)*](Table_Field_Results_H)</span> page.                                                       |
 | Changed On           | Displays the date when the Interesting setting was changed.                                                                                                                                                                                             |
 | Counter              | Displays the order in which records are loaded into the table.                                                                                                                                                                                          |

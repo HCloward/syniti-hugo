@@ -17,7 +17,7 @@ To add the External Data role:
 2.  Click **Add**.
     
     *[View the field descriptions for the Roles
-    page.](../Page_Desc/Roles_H.htm)*
+    page.](../Page_Desc/Roles_H)*
 
 3.  Enter a value in **PRIORITY** field.
     

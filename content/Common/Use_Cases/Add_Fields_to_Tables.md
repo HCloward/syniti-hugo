@@ -9,7 +9,7 @@ Once system tables are added, configure fields for the table.
 
 A user can set a static value for the field as well. Refer to [Set
 Values for System Types Table
-Fields](Set%20Values%20for%20System%20Types%20Table%20Fields.htm) for
+Fields](Set%20Values%20for%20System%20Types%20Table%20Fields) for
 more information.
 
 To add fields to tables:
@@ -23,7 +23,7 @@ To add fields to tables:
 4.  Click **Add.**
     
     [View the field descriptions for the System Types Table Fields
-    page](../Page_Desc/System_Types_Table_Fields_H.htm)
+    page](../Page_Desc/System_Types_Table_Fields_H)
 
 5.  Enter a unique display order of fields in system table in **FIELD
     ORDER** field.
@@ -58,7 +58,7 @@ To add fields to tables:
 13. Click **Edit<span style="font-weight: normal;">.</span>**
     
     [View the field descriptions for the System Types Table Fields
-    page](../Page_Desc/System_Types_Table_Fields_H.htm)
+    page](../Page_Desc/System_Types_Table_Fields_H)
 
 14. Enter SAP help text from the corresponding SAP screen in **Help
     Text** field.

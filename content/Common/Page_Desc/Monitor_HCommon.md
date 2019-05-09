@@ -9,7 +9,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [View Activity](../Use_Cases/View_Activity.htm).
+Use this page to [View Activity](../Use_Cases/View_Activity).
 
 </div>
 
@@ -56,11 +56,11 @@ To access this page:
 
 ## <span id="Monitor_V"></span>Monitor V
 
-[Monitor H](Monitor_HCommon.htm)
+[Monitor H](Monitor_HCommon)
 
 <div class="use">
 
-Use this page to [View Activity](../Use_Cases/View_Activity.htm).
+Use this page to [View Activity](../Use_Cases/View_Activity).
 
 </div>
 

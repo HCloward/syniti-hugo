@@ -9,11 +9,11 @@ solution = 'Platform'
 
 Use this page to
 
-  - [Copy a Template](../Use_Cases/Copy_a_Template.htm)
-  - [Copy a Process](../Use_Cases/Copy_a_Process.htm)
-  - [Copy a Process Template](../Use_Cases/Copy_a_Process_Template.htm)
+  - [Copy a Template](../Use_Cases/Copy_a_Template)
+  - [Copy a Process](../Use_Cases/Copy_a_Process)
+  - [Copy a Process Template](../Use_Cases/Copy_a_Process_Template)
   - [Merge or Copy BDC Screens to Another BDC Script
-    Template](../Use_Cases/MergeCopyBDCScrnsAnotherBDCScript.htm)
+    Template](../Use_Cases/MergeCopyBDCScrnsAnotherBDCScript)
 
 </div>
 
@@ -42,7 +42,7 @@ To access this page:
 <li>Displays <strong>BDCScreen</strong> if the page was accessed when the user clicked <strong>Copy BDC Screen</strong> on the <strong>Copy</strong> tab of the <em>BDC Screen</em> page’s <em>Vertical</em> View</li>
 <li>Displays <strong>Merge</strong> if the user clicked <strong>Merge BDC Screens</strong> on the <strong>Copy</strong> tab of the <em>Template</em> page’s <em>Vertical</em> View</li>
 <li>Displays <strong>Process</strong> if the page was accessed when the user clicked <strong>Copy Process</strong> on the <strong>Copy</strong> tab of the <em>Process</em> page’s <em>Vertical</em> View.</li>
-<li>Displays <span style="font-weight: bold;">ProcessTemplate</span> if the page was accessed when the user clicked Copy Process Template on the <span style="font-style: italic;"><a href="Process_Templates_H.htm">Process Templates</a></span> page’s <span style="font-style: italic;">Vertical</span> View.</li>
+<li>Displays <span style="font-weight: bold;">ProcessTemplate</span> if the page was accessed when the user clicked Copy Process Template on the <span style="font-style: italic;"><a href="Process_Templates_H">Process Templates</a></span> page’s <span style="font-style: italic;">Vertical</span> View.</li>
 </ul></td>
 </tr>
 <tr class="odd">

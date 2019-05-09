@@ -42,18 +42,18 @@ in the PROJECT and PLAN field on the
 <span style="font-style: italic;">Work List</span> and
 <span style="font-style: italic;">Work List Setup</span> page. These
 fields are blank for Work List Items. Refer to [Plan Tasks versus Work
-List Items](../Page_Desc/Plan_Tasks_Versus_Work_List_Items.htm) for more
+List Items](../Page_Desc/Plan_Tasks_Versus_Work_List_Items) for more
 information.
 
 To add a Work List Item:
 
-  - [Add Work List Items](Add_Work_List_Items_Overview.htm)
-  - [Add Users to a Work List Item](Add_Users_to_an_Item.htm)
+  - [Add Work List Items](Add_Work_List_Items_Overview)
+  - [Add Users to a Work List Item](Add_Users_to_an_Item)
   - [Add Work List Binding Criteria to a Work List
-    Item](AddWrkLisBindingCriteriaItem.htm)
+    Item](AddWrkLisBindingCriteriaItem)
   - [Add Work List Event Rules to a Work List
-    Item](Register_WorkList_Event_Rules_WorkList_Item.htm)
+    Item](Register_WorkList_Event_Rules_WorkList_Item)
   - [Add Work List Event Validations to a Work List
-    Item](Register_WorkList_Event_Valid_WorkList_Item.htm)
+    Item](Register_WorkList_Event_Valid_WorkList_Item)
   - [Upload Files to a Work List
-    Item](Upload_Files_to_a_Work_List_Item.htm)
+    Item](Upload_Files_to_a_Work_List_Item)

@@ -17,7 +17,7 @@ To manually register a table to a source:
 4.  Click **Add**.
     
     [View the field descriptions for the Tables
-    page](../Page_Desc/Tables_H.htm)
+    page](../Page_Desc/Tables_H)
 
 5.  Enter a name in **TABLE** field.
 
@@ -26,11 +26,11 @@ To manually register a table to a source:
     
     **NOTE:** The PACKAGE TYPE controls the method in which target
     tables are refreshed with source data. Refer to [Package
-    Types](Package_Types.htm) for detailed information on each supported
+    Types](Package_Types) for detailed information on each supported
     package type.
     
     **NOTE:** Refer to [Use the Manual Data Services Package
-    Type](Use_the_Manual_Data_Services_Package_Type.htm) for more
+    Type](Use_the_Manual_Data_Services_Package_Type) for more
     information about using this package type.
 
 <!-- end list -->
@@ -50,7 +50,7 @@ To manually register a table to a source:
 5.  Click **Edit**.
     
     [View the field descriptions for the Tables page's Vertical
-    View](../Page_Desc/Tables_H.htm)
+    View](../Page_Desc/Tables_H)
 
 6.  Enter a brief table description in **Description** field.
 
@@ -90,13 +90,13 @@ To manually register a table to a source:
     field must be populated. For Manual Data Services package types,
     select from the list of available jobs in the Data Service
     Repository assigned to the target on the
-    *[Targets](../Page_Desc/Targets_H_Collect.htm#Targets_V)* page’s
+    *[Targets](../Page_Desc/Targets_H_Collect#Targets_V)* page’s
     *Vertical* View.
     
     **NOTE:** If the package name does not display in the list box,
     confirm that the package has been named following naming
     conventions. Refer to [Create
-    Packages](../../Assemble/Create_Packages.htm) for more information.
+    Packages](../../Assemble/Create_Packages) for more information.
 
 12. Update **Schedule ID** list box if the default value is not
     applicable.
@@ -105,7 +105,7 @@ To manually register a table to a source:
     determines when the refresh process runs. If a schedule is set at
     the table level, the source schedule for the table is ignored.
     Schedules are created and maintained in Common. Refer to [Create
-    Schedules](../../Common/Use_Cases/Create_Schedules.htm) for more
+    Schedules](../../Common/Use_Cases/Create_Schedules) for more
     information.
 
 13. Update **Schedule Group** list box if the default value is not
@@ -120,7 +120,7 @@ To manually register a table to a source:
     **NOTE:** With synchronous execution, the build package jobs respect
     the queue and wait until jobs are finished before starting another
     job. This option applies to the data services [Package
-    Types](Package_Types.htm).
+    Types](Package_Types).
 
 15. Click **Schedule Single Thread** check box if the table is to be
     downloaded in a queue with all other single-threaded tables.

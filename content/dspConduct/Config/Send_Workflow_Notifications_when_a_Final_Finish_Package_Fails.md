@@ -13,10 +13,10 @@ proper resources.
 
 A user can receive a workflow email, view the notification as a popup
 message from within dspConduct, or both. Refer to [Set User Workflow
-Receipt Preferences](Set_User_Workflow_Receipt_Preferences.htm) for more
+Receipt Preferences](Set_User_Workflow_Receipt_Preferences) for more
 information.
 
 An Administrator adds users to WebApp groups. Refer to [Assign User to
 WebApp
-Groups](../../../Platform/Sys_Admin/Use_Cases/Assign_Users_to_WebApp_Groups.htm)
+Groups](../../../Platform/Sys_Admin/Use_Cases/Assign_Users_to_WebApp_Groups)
 in System Administration for more information.

@@ -16,7 +16,7 @@ security role.
 *<span style="font-weight: bold;">NOTE:</span> Once a project and plan
 have been added to dspTrack™, import a project file to add data to the
 plan. Refer to* [Import Project Files into
-dspTrack™](Import_Project_Files_into_dspTrack.htm) for more
+dspTrack™](Import_Project_Files_into_dspTrack) for more
 information.
 
 To add a project:
@@ -26,7 +26,7 @@ To add a project:
 2.  Click **Add**.
     
     [View the field descriptions for the Project
-    page.](../Page_Desc/Project_.htm)
+    page.](../Page_Desc/Project_)
 
 3.  Enter a name in **NAME** field.
     
@@ -47,7 +47,7 @@ To create a plan and add it to a project:
     Otherwise, click **<span>Add</span>**.
     
     [View the field descriptions for the Plan
-    page.](../Page_Desc/Plan_H.htm)
+    page.](../Page_Desc/Plan_H)
 
 3.  Enter a plan name in **NAME** field.
     
@@ -57,13 +57,13 @@ To create a plan and add it to a project:
 
 After adding a plan:
 
-  - [Activate and Deactivate a Plan](Activate_and_Deactivate_a_Plan.htm)
+  - [Activate and Deactivate a Plan](Activate_and_Deactivate_a_Plan)
   - [Add a Default Calendar to a
-    Plan](Add_a_Default_Calendar_to_a_Plan1.htm)
-  - [Archive a Plan](Archive_a_Plan.htm)
+    Plan](Add_a_Default_Calendar_to_a_Plan1)
+  - [Archive a Plan](Archive_a_Plan)
   - [Calculate the Critical Path for a
-    Plan](Calculate_the_Critical_Path_for_a_Plan.htm)
+    Plan](Calculate_the_Critical_Path_for_a_Plan)
   - [Register Work List Event Rules for a
-    Plan](Register_Work_List_Event_Rules_for_a_Plan.htm)
+    Plan](Register_Work_List_Event_Rules_for_a_Plan)
   - [Register Work List Event Validations for a
-    Plan](Register_WorkList_Event_Validations_Plan.htm)
+    Plan](Register_WorkList_Event_Validations_Plan)

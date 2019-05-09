@@ -23,9 +23,9 @@ To re-start an interface at a specific event in Automate:
 
 1.  Disable the events before the event that failed by unchecking
     **Active**. Refer to [Activate Interfaces, Events and
-    Validations](Activate_Interfaces_Events.htm) for more information.
+    Validations](Activate_Interfaces_Events) for more information.
 2.  Submit the interface again. Refer to [Manually Run an
-    Interface](Schedule_Interfaces.htm#Manually) for more information.
+    Interface](Schedule_Interfaces#Manually) for more information.
 
 ## Stop a Running Interface
 

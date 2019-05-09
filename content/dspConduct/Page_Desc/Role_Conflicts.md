@@ -5,12 +5,12 @@ solution = 'Master Data Management'
 
 # Role (Conflicts) H
 
-[Role (Conflicts) V](Request_Role_H.htm#Request_Role_V)
+[Role (Conflicts) V](Request_Role_H#Request_Role_V)
 
 <div class="use">
 
 Use this page to [Add a Conflict to a
-Role](../Use_Cases/Add_a_Conflict_to_a_Role.htm).
+Role](../Use_Cases/Add_a_Conflict_to_a_Role).
 
 </div>
 
@@ -25,12 +25,12 @@ role.
 |                   |                                                                                                                                                  |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Field             | Description                                                                                                                                      |
-| CONFLICT ROLE  ID | Displays the role that is in conflict with the role selected on the <span style="font-style: italic;">[Role](Role_H_dspConduct.htm)</span> page. |
+| CONFLICT ROLE  ID | Displays the role that is in conflict with the role selected on the <span style="font-style: italic;">[Role](Role_H_dspConduct)</span> page. |
 
 ## <span id="Role__Conflicts__V"></span>Role (Conflicts) V
 
 |                  |                                                                                                                                                  |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Field            | Description                                                                                                                                      |
-| Conflict Role ID | Displays the role that is in conflict with the role selected on the <span style="font-style: italic;">[Role](Role_H_dspConduct.htm)</span> page. |
+| Conflict Role ID | Displays the role that is in conflict with the role selected on the <span style="font-style: italic;">[Role](Role_H_dspConduct)</span> page. |
 | Comment          | Displays a user-entered comment explaining the conflict.                                                                                         |

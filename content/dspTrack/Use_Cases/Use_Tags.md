@@ -22,7 +22,7 @@ Tags are further defined by tag types. There are three tag types:
     the associated task.
 
 Tags can be assigned to multiple tasks. Refer to [Assign a Tag to a
-Task](Assign_a_Tag_to_Tasks.htm) for more information.
+Task](Assign_a_Tag_to_Tasks) for more information.
 
 Tags can be assigned to tasks in two ways:
 
@@ -36,9 +36,9 @@ to Work List Items added via the *Work List Setup* page.
 
 To work with tags:
 
-  - [View Tags and Tag Types](View_Tags_and_Tag_Types.htm)
-  - [Add a Tag](Add_a_Tag.htm)
-  - [Configure Logic Tags](Configure_Logic_Tags.htm)
-  - [Configure Plan Tags](Configure_Project_Tags.htm)
-  - [Configure Security Tags](Configure_Security_Tags.htm)
-  - [Assign a Tag to Tasks](Assign_a_Tag_to_Tasks.htm)
+  - [View Tags and Tag Types](View_Tags_and_Tag_Types)
+  - [Add a Tag](Add_a_Tag)
+  - [Configure Logic Tags](Configure_Logic_Tags)
+  - [Configure Plan Tags](Configure_Project_Tags)
+  - [Configure Security Tags](Configure_Security_Tags)
+  - [Assign a Tag to Tasks](Assign_a_Tag_to_Tasks)

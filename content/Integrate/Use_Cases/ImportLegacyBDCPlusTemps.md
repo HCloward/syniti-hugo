@@ -24,7 +24,7 @@ To import legacy BDCPlus templates into Integrate:
     
     **NOTE:** If the stBDCPlus\* tables were populated manually, all
     BDCPlus templates display on the *[BDCPlus:
-    Templates](../Page_Desc/BDCPlus_Templates.htm)* page. Otherwise, the
+    Templates](../Page_Desc/BDCPlus_Templates)* page. Otherwise, the
     page displays no records.
 
 3.  If using a BDCPlus backup database, click **BDC Plus Extract** on
@@ -38,7 +38,7 @@ To import legacy BDCPlus templates into Integrate:
 4.  Click **Edit** for a template.
     
     [View the field descriptions for the BDCPlus: Templates
-    page](../Page_Desc/BDCPlus_Templates.htm)
+    page](../Page_Desc/BDCPlus_Templates)
 
 5.  Update the CATEGORY field to change the default name of the
     Integrate category, if needed.

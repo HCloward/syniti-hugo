@@ -10,9 +10,9 @@ solution = 'Migration'
 Use this page to:
 
   - [View Sources Assigned to
-    Targets](../Use_Cases/View_Target_and_Source_Assignments.htm).
+    Targets](../Use_Cases/View_Target_and_Source_Assignments).
   - [Update System Types for a
-    Source](../Use_Cases/Update_System_Types_for_a_Source.htm)
+    Source](../Use_Cases/Update_System_Types_for_a_Source)
 
 </div>
 
@@ -39,23 +39,23 @@ To access this page:
 <tr class="odd">
 <td><p>SOURCE</p></td>
 <td><p>Displays the Source name.</p>
-<p>Data sources should be registered in Common. Refer to <a href="../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common.htm">Register a Data Source in Common</a> for more information.</p></td>
+<p>Data sources should be registered in Common. Refer to <a href="../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common">Register a Data Source in Common</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>SYSTEM TYPE ID</p></td>
 <td><p>Displays the System Type of the data source, if one was added.</p>
 <p>System Types are added in Common and contain generic information including keys, fields, check tables, join relationships between tables and generic mappings for external systems (for example, Target ERP and Legacy) being used for a data migration.</p>
-<p>The System Type is assigned to a Source on the <span style="font-style: italic;"><a href="Target_Sources_H_Design.htm">Target Sources</a></span> page.</p>
-<p>Refer to <a href="../../../Platform/Common/Use_Cases/System_Types_Overview.htm">System Types</a> for more information.</p></td>
+<p>The System Type is assigned to a Source on the <span style="font-style: italic;"><a href="Target_Sources_H_Design">Target Sources</a></span> page.</p>
+<p>Refer to <a href="../../../Platform/Common/Use_Cases/System_Types_Overview">System Types</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>DESCRIPTION</p></td>
 <td><p>Displays a brief description of the data source.</p>
-<p>Data sources should be registered in Common. Refer to <a href="../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common.htm">Register a Data Source in Common</a> for more information.</p></td>
+<p>Data sources should be registered in Common. Refer to <a href="../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common">Register a Data Source in Common</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Targets</p></td>
-<td><p>Click to open the <em><a href="Source_Where_Used.htm">Source When Used</a></em> page to view a list of Targets that use the selected Source and to sync Source data source-System Types across all Targets.</p></td>
+<td><p>Click to open the <em><a href="Source_Where_Used">Source When Used</a></em> page to view a list of Targets that use the selected Source and to sync Source data source-System Types across all Targets.</p></td>
 </tr>
 </tbody>
 </table>

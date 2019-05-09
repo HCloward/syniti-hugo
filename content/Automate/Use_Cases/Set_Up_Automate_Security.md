@@ -13,11 +13,11 @@ references to this old name are in System Administration.
 
 1.  Assign the user to the InterfaceServer WebApp. Refer to [Assign
     Users to WebApp
-    Groups](../../Sys_Admin/Use_Cases/Assign_Users_to_WebApp_Groups.htm)
+    Groups](../../Sys_Admin/Use_Cases/Assign_Users_to_WebApp_Groups)
     for more information.
 2.  Assign the user to a WebApp group for InterfaceServer. Refer to
     [Assign Users to WebApp
-    Groups](../../Sys_Admin/Use_Cases/Assign_Users_to_WebApp_Groups.htm)
+    Groups](../../Sys_Admin/Use_Cases/Assign_Users_to_WebApp_Groups)
     for more information. Options are:
 
 <!-- end list -->
@@ -28,5 +28,5 @@ references to this old name are in System Administration.
 
 **NOTE:** The default User and Power Designer user groups are also
 included with Automate. Refer to [WebApp
-Groups](../../Sys_Admin/Use_Cases/WebApp_Groups.htm) help for more
+Groups](../../Sys_Admin/Use_Cases/WebApp_Groups) help for more
 information.

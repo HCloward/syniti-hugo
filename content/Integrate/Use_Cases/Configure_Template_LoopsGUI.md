@@ -15,7 +15,7 @@ recording.
 
 When a template that uses loops is added to a process, each loop in the
 template becomes a process template loop. Refer to [Configure Template
-Loops for a GUI Script Template](Configure_Template_LoopsGUI.htm) for
+Loops for a GUI Script Template](Configure_Template_LoopsGUI) for
 more information.
 
 Looping is necessary when data in the same field at the detail level
@@ -41,7 +41,7 @@ To configure loops for a GUI script:
 2.  Click GUI Script Data.
     
     *[View the field descriptions for the GUI Script Data
-    page.](../Page_Desc/GUI_Script_Data_H.htm)*
+    page.](../Page_Desc/GUI_Script_Data_H)*
     
     **NOTE:** This page displays three loop-related columns when the
     **Enable Loop** check box is enabled: **Loop Plus**, **Loop Minus**,
@@ -69,7 +69,7 @@ To configure loops for a GUI script:
     
     *[View the field descriptions for the GUI Script Data page’s
     Vertical
-    View.](../Page_Desc/GUI_Script_Data_H.htm#GUI_Script_Data_V_All)*
+    View.](../Page_Desc/GUI_Script_Data_H#GUI_Script_Data_V_All)*
     
     **NOTE:** For looped records, the **General** tab displays a **Loop
     Details** section, including the fields **Loop Name**, **Loop

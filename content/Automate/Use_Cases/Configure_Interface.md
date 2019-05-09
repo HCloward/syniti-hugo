@@ -8,12 +8,12 @@ solution = 'Platform'
 There are several elements of an interface that can be configured:
 
   - [Set Up Notifications for an
-    Interface](Set_Up_Notifications_for_an_Interface.htm)
+    Interface](Set_Up_Notifications_for_an_Interface)
 
 <!-- end list -->
 
-  - [Register Interface Events](Register_Interface_Events.htm)
+  - [Register Interface Events](Register_Interface_Events)
 
 <!-- end list -->
 
-  - [Register Interface Validations](Register_Interface_Validations.htm)
+  - [Register Interface Validations](Register_Interface_Validations)

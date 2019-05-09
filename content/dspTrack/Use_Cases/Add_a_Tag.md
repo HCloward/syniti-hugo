@@ -20,7 +20,7 @@ To add a tag:
 
 3.  Click **Add**. 
     
-    [View the field descriptions for the Tag page](../Page_Desc/Tag.htm)
+    [View the field descriptions for the Tag page](../Page_Desc/Tag)
 
 4.  Enter a name for the tag in **NAME** field.
 
@@ -33,7 +33,7 @@ To add a tag:
 
 7.  Click **Edit**.
     
-    [View the field descriptions for the Tag page](../Page_Desc/Tag.htm)
+    [View the field descriptions for the Tag page](../Page_Desc/Tag)
 
 8.  Enter a brief description of the tag in **Description** field.
 
@@ -116,6 +116,6 @@ tag before or on the planned finish date. Values are:
     planned finish date.
 
 The tag is then further configured depending on the Tag Type. Refer to
-[Configure Logic Tags](Configure_Logic_Tags.htm), [Configure Plan
-Tags](Configure_Project_Tags.htm), and [Configure Security
-Tags](Configure_Security_Tags.htm) for more information/
+[Configure Logic Tags](Configure_Logic_Tags), [Configure Plan
+Tags](Configure_Project_Tags), and [Configure Security
+Tags](Configure_Security_Tags) for more information/

@@ -28,7 +28,7 @@ new one.
 
 To add a sample size in Transform:
 
-1.  [Access Transform](Access_Transform.htm).
+1.  [Access Transform](Access_Transform).
 
 2.  Select **Configuration \> Setup \> Sampling Methods(Setup)** in the
     *Navigation* pane.
@@ -46,7 +46,7 @@ To add a sample size in Transform:
 4.  Click **Add**.
     
     *[View the field descriptions for the Sample Sizes (Setup)
-    page.](../Page_Desc/Sample_Sizes_Setup.htm)*
+    page.](../Page_Desc/Sample_Sizes_Setup)*
 
 5.  Enter a value in the **RANGE LOW** field.
     

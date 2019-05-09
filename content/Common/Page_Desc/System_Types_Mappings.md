@@ -7,7 +7,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Add Mappings](../Use_Cases/Add_Mappings.htm).
+Use this page to [Add Mappings](../Use_Cases/Add_Mappings).
 
 </div>
 
@@ -18,7 +18,7 @@ To access this page:
 
 <span style="font-weight: bold;">NOTE:</span> Excel Integration has been
 enabled on this page. Refer to [Use Excel
-Integration](../../Excel_Int/Use_Excel_Integration.htm) for more
+Integration](../../Excel_Int/Use_Excel_Integration) for more
 information.
 
 <table>
@@ -89,7 +89,7 @@ information.
 </tr>
 <tr class="even">
 <td><p>SYSTEM TYPE JOIN ID</p></td>
-<td><p>Displays the name of the join added on the <a href="System_Types_Joins.htm">System Types Joins</a> page.</p>
+<td><p>Displays the name of the join added on the <a href="System_Types_Joins">System Types Joins</a> page.</p>
 <p><strong>NOTE:</strong> Table join relationships indicate how table fields are connected; they must be manually added to System Types.</p></td>
 </tr>
 <tr class="odd">

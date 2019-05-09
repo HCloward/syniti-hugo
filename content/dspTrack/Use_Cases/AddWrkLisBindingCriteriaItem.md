@@ -8,7 +8,7 @@ solution = 'Platform'
 **NOTE**: Users can add binding criteria to Work List Items and Plan
 Tasks. Throughout this topic, “item" refers to both Work List Items and
 Plan Tasks. Refer to [Plan Tasks v. Work List
-Items](../Page_Desc/Plan_Tasks_Versus_Work_List_Items.htm) for more
+Items](../Page_Desc/Plan_Tasks_Versus_Work_List_Items) for more
 information.
 
 An item can be bound to a specific set of data, such as a table.
@@ -17,10 +17,10 @@ A user assigned to the Sample Project Level Role or the Sample Plan
 Level Role creates Work List Binding Criteria for an item by:
 
 1.  Linking the item to a page on the *[Work List
-    Setup](../Page_Desc/Work_List_Setup_H.htm)* page’s *Vertical* View.
+    Setup](../Page_Desc/Work_List_Setup_H)* page’s *Vertical* View.
 2.  Selecting a key description and key value for that page’s available
     keys on the *[Work List Binding
-    Criteria](../Page_Desc/Work_List_Binding_Criteria.htm)* page.
+    Criteria](../Page_Desc/Work_List_Binding_Criteria)* page.
 
 When a Business User clicks the link for the page on the Work List, the
 Work List Binding Criteria passes the selected key’s description and
@@ -31,21 +31,21 @@ binding criteria displayed.
 the Work List.
 
 Refer to [Use Template Security
-Roles](../Config/Use_Template_Security_Roles.htm) for more information
+Roles](../Config/Use_Template_Security_Roles) for more information
 about roles available in dspTrack™.
 
 For example, a user assigned to the Sample Project Level Role can add
 binding criteria to the Work List Item Confirm Mapping Freeze that binds
 the item to the ttMARA table on Target Design's
-*[Targets](../../../Migration/Design/Page_Desc/Targets_H_Design.htm)*
+*[Targets](../../../Migration/Design/Page_Desc/Targets_H_Design)*
 page. To accomplish this, on the *[Work List
-Setup](../Page_Desc/Work_List_Setup_H.htm)* page’s *Vertical* View,the
+Setup](../Page_Desc/Work_List_Setup_H)* page’s *Vertical* View,the
 user links the Confirm Mapping Freeze Work List Item to the *Targets*
 page by selecting Target Design: Targets in the LinkToPage field.
 
 Next, the user clicks the Keys icon for the Confirm Mapping Freeze Work
 List Item to display the *[Work List Binding
-Criteria](../Page_Desc/Work_List_Binding_Criteria.htm)* page. The key
+Criteria](../Page_Desc/Work_List_Binding_Criteria)* page. The key
 fields for the *Targets* page display in the KEY NAME field. To bind the
 Confirm Mapping Freeze Work List Item to the ttMARA table, the user
 selects Name for the <span style="text-transform: uppercase;">Key
@@ -61,16 +61,16 @@ page.
 
 Before Work List Binding Criteria can be added:
 
-  - [Add Work List Items](Add_Work_List_Items_Overview.htm) if none
+  - [Add Work List Items](Add_Work_List_Items_Overview) if none
     exist
-  - [Add Users to a Work List Item](Add_Users_to_an_Item.htm)
-  - [Add a Plan Task Manually](Add_a_Plan_Task_Manually.htm) if none
+  - [Add Users to a Work List Item](Add_Users_to_an_Item)
+  - [Add a Plan Task Manually](Add_a_Plan_Task_Manually) if none
     exist
   - [Add Users to Plan Tasks
-    Manually](Add_Users_to_Plan_Tasks_Manually.htm)
+    Manually](Add_Users_to_Plan_Tasks_Manually)
 
-Refer to [Work with Work List Items](Work_with_Work_List_Items.htm) and
-[Work With Plan Tasks](Work_with_Plan_Tasks.htm) for more information.
+Refer to [Work with Work List Items](Work_with_Work_List_Items) and
+[Work With Plan Tasks](Work_with_Plan_Tasks) for more information.
 
 **NOTE:** Work List Binding Criteria can only be set up for items that
 are not finished. The Planned Finish Date must be a future date.
@@ -84,7 +84,7 @@ To add or edit Work List Binding Criteria in dspTrack™:
 3.  Click **Edit**.
     
     [View the field descriptions for the Work List Setup
-    page](../Page_Desc/Work_List_Setup_H.htm)
+    page](../Page_Desc/Work_List_Setup_H)
 
 4.  Select the page in the **LinkToPage** list box.
 
@@ -102,7 +102,7 @@ To add or edit Work List Binding Criteria in dspTrack™:
 8.  Click **Edit** on the *Work List Binding Criteria* page.
     
     [View the field descriptions for the Work List Binding Criteria
-    page](../Page_Desc/Work_List_Binding_Criteria.htm)
+    page](../Page_Desc/Work_List_Binding_Criteria)
 
 9.  Select a Work List Binding Criteria.
     
@@ -150,6 +150,6 @@ To access the page without passing binding criteria:
 2.  Click **Vertical View** for an item.
 3.  Click **Unbound Page Link**<span>.</span>
 
-Refer to [Work with Work List Items](Work_with_Work_List_Items.htm) and
-[Work With Plan Tasks](Work_with_Plan_Tasks.htm) for a list of other
+Refer to [Work with Work List Items](Work_with_Work_List_Items) and
+[Work With Plan Tasks](Work_with_Plan_Tasks) for a list of other
 tasks available.

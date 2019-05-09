@@ -14,13 +14,13 @@ dspConduct users.
 
 <span style="font-weight: bold;">NOTE:</span> All users in a position
 must be assigned to the same calendar in Common. Refer to [Use a
-Calendar](../../../Platform/Common/Use_Cases/Use_a_Calendar.htm) for
+Calendar](../../../Platform/Common/Use_Cases/Use_a_Calendar) for
 more information.
 
 When including users in a position, role conflicts are applied based on
 the roles that have been added to the position, and the role conflicts
-established on the *[Role (Conflicts)](../Page_Desc/Role_Conflicts.htm)*
-page. Refer to [Add a Conflict to a Role](Add_a_Conflict_to_a_Role.htm)
+established on the *[Role (Conflicts)](../Page_Desc/Role_Conflicts)*
+page. Refer to [Add a Conflict to a Role](Add_a_Conflict_to_a_Role)
 for more information.
 
 To configure dspConduct positions for a user in dspConduct:
@@ -31,11 +31,11 @@ To configure dspConduct positions for a user in dspConduct:
 2.  Click the **Positions** icon.
     
     *[View the field descriptions for the User Position
-    page](../Page_Desc/User_Position.htm).*
+    page](../Page_Desc/User_Position).*
 
 3.  Select a user, and then click the **Assign Calendar** icon to open
     the *[User
-    Management](../../../Platform/Common/Page_Desc/User_Management_H.htm)*
+    Management](../../../Platform/Common/Page_Desc/User_Management_H)*
     page to assign a calendar to the user.
     
     **NOTE:** A user must have a calendar assigned to be included in a

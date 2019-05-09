@@ -7,7 +7,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [View Summary](../Use_Cases/View_Summary.htm).
+Use this page to [View Summary](../Use_Cases/View_Summary).
 
 </div>
 
@@ -19,4 +19,4 @@ pane.
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | Field   | Description                                                                                                                                    |
 | STATUS  | Displays current status of the job.                                                                                                            |
-| Records | Click to open the <span style="font-style: italic;">[Job Detail](Job_Detail_H.htm)</span> page to view job records associated with the status. |
+| Records | Click to open the <span style="font-style: italic;">[Job Detail](Job_Detail_H)</span> page to view job records associated with the status. |

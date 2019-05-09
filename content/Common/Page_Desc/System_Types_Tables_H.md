@@ -12,9 +12,9 @@ solution = 'Platform'
 Use this page to
 
   - [Manually Add System
-    Tables](../Use_Cases/Manually_Add_System_Tables.htm)
+    Tables](../Use_Cases/Manually_Add_System_Tables)
   - [Copy a System Type
-    Table](../Use_Cases/Copy_a_System_Type_Table1.htm)
+    Table](../Use_Cases/Copy_a_System_Type_Table1)
 
 </div>
 
@@ -25,7 +25,7 @@ To access this page:
 
 <span style="font-weight: bold;">NOTE:</span> Excel Integration has been
 enabled on this page. Refer to [Use Excel
-Integration](../../Excel_Int/Use_Excel_Integration.htm) for more
+Integration](../../Excel_Int/Use_Excel_Integration) for more
 information.
 
 <table>
@@ -49,15 +49,15 @@ information.
 </tr>
 <tr class="even">
 <td><p>Fields</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="System_Types_Table_Fields_H.htm">System Types Table Fields</a></span> page to add, edit and delete table fields.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="System_Types_Table_Fields_H">System Types Table Fields</a></span> page to add, edit and delete table fields.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Indices</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="System_Types_Table_Indices.htm">System Type Table Indices</a></span> page  to add, edit and delete table indexes.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="System_Types_Table_Indices">System Type Table Indices</a></span> page  to add, edit and delete table indexes.</p></td>
 </tr>
 <tr class="even">
 <td><p>Joins</p></td>
-<td><p>Click to open the <em><a href="System_Types_Joins.htm">System Types Joins</a></em> page to add, edit and delete joins for the System Type.</p></td>
+<td><p>Click to open the <em><a href="System_Types_Joins">System Types Joins</a></em> page to add, edit and delete joins for the System Type.</p></td>
 </tr>
 <tr class="odd">
 <td><p>DSP SUPPLIED</p></td>
@@ -75,9 +75,9 @@ information.
 Use this page to
 
   - [Manually Add System
-    Tables](../Use_Cases/Manually_Add_System_Tables.htm)
+    Tables](../Use_Cases/Manually_Add_System_Tables)
   - [Copy a System Type
-    Table](../Use_Cases/Copy_a_System_Type_Table1.htm)
+    Table](../Use_Cases/Copy_a_System_Type_Table1)
 
 </div>
 
@@ -114,7 +114,7 @@ values in the value table.
 
 **NOTE**: This field displays in Map in the Description Table field on
 the *Vertical* View of the *[Value Mapping
-(Config)](../../../Migration/Map/Page_Desc/Value_Mapping_Config_H.htm)*
+(Config)](../../../Migration/Map/Page_Desc/Value_Mapping_Config_H)*
 page).
 
 Description Table Field
@@ -124,7 +124,7 @@ values in the value table.
 
 This field displays in Map in the Description Field field on the
 *Vertical* View of the *[Value Mapping
-(Config)](../../../Migration/Map/Page_Desc/Value_Mapping_Config_H.htm)*
+(Config)](../../../Migration/Map/Page_Desc/Value_Mapping_Config_H)*
 page).
 
 Description Table Key Field
@@ -200,7 +200,7 @@ column to restrict the values used in the lookup table.
 <div class="use">
 
 Use this tab to [Copy a System Type
-Table](../Use_Cases/Copy_a_System_Type_Table1.htm).
+Table](../Use_Cases/Copy_a_System_Type_Table1).
 
 </div>
 

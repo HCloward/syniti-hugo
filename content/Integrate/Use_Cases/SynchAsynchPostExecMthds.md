@@ -23,4 +23,4 @@ Set the post execution method at the process level when adding or
 editing a process. On the *Process* page’s *Vertical* View, on the
 **Advanced** tab, select an option in the **Post Execution Method** list
 box. Refer to *<span style="color: #0000ff;font-style: normal;">[Create
-a Process](Create_a_Process.htm)</span>* for more information.
+a Process](Create_a_Process)</span>* for more information.

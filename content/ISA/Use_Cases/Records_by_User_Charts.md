@@ -11,10 +11,10 @@ Trend by User, to view the number of failed records per day for the
 period. Each user is represented by a separate line on the chart.
 
 Click a bar to drill down to the [Records by Distribution User
-Chart](Records_by_Distribution_User_Chart.htm).
+Chart](Records_by_Distribution_User_Chart).
 
 <span style="font-weight: bold;">NOTE</span>: Refer to [View ISA
-Dashboards](View_ISA_Dashboards.htm) for general information about
+Dashboards](View_ISA_Dashboards) for general information about
 charts, including the type of data charts display, configuration of
 retention parameters for metrics and historical data, and how record
 counts differ on charts and reports.

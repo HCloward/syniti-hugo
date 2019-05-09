@@ -13,7 +13,7 @@ These DSP-supplied values cannot be edited or deleted.
 
 New levels can be added. Once saved, these levels are available for
 selection in the CRITICALITY list box on the *[Target
-Fields](../Page_Desc/Target_Fields_H_Target_Design.htm)* page.
+Fields](../Page_Desc/Target_Fields_H_Target_Design)* page.
 
 To add a criticality level in Target Design:
 
@@ -22,7 +22,7 @@ To add a criticality level in Target Design:
 2.  Click **Add**.
     
     *[View the field descriptions for the Criticality
-    page](../Page_Desc/Criticality.htm)*
+    page](../Page_Desc/Criticality)*
 
 3.  Enter the name of the level in the **CRITICALITY** field.
     

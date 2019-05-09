@@ -27,7 +27,7 @@ level below it in the hierarchy to view data in increasing granularity.
 Some charts display the count of mappings that are in a Completed
 status.  A mapping is complete after it has been approved on the
 <span style="font-style: italic;">[Mapping
-Approval](../Page_Desc/Mapping_Approval_H.htm)</span> page.
+Approval](../Page_Desc/Mapping_Approval_H)</span> page.
 
 These charts also display the count of mappings in an In Process status.
 A mapping is in process while it is being added or updated in Map,
@@ -49,19 +49,19 @@ display on a dashboard, charts can be resized to view a layout more
 clearly. Drag the bar to the bottom right or upper left of a chart to
 change its display size.
 
-Refer to [Perform Field Mapping](Perform_Field_Mapping.htm), [Perform
-Value Mapping,](Perform_Value_Mapping_Overview.htm) and [Mapping Status
-and Rule Status](Mapping_Status_and_Rule_Status.htm) for more
+Refer to [Perform Field Mapping](Perform_Field_Mapping), [Perform
+Value Mapping,](Perform_Value_Mapping_Overview) and [Mapping Status
+and Rule Status](Mapping_Status_and_Rule_Status) for more
 information about the data on these charts.
 
 Map includes the following dashboards:
 
   - [Wave and Process Area Dashboard Summary Value
-    Mapping](Wave_Prcs_Area_Sum_Value_Map_Dashboard.htm)
+    Mapping](Wave_Prcs_Area_Sum_Value_Map_Dashboard)
   - [Summary Field Mapping
-    Dashboards](Summary_Field_Mapping_Dashboards.htm)
+    Dashboards](Summary_Field_Mapping_Dashboards)
   - [Summary Mapping Status
-    Dashboards](Summary_Mapping_Status_Dashboard.htm)
-  - [Metrics Summary Dashboards](Metrics_Summary_Dashboards.htm)
+    Dashboards](Summary_Mapping_Status_Dashboard)
+  - [Metrics Summary Dashboards](Metrics_Summary_Dashboards)
   - [Summary Value Mapping
-    Dashboard](Summary_Value_Mapping_Dashboard.htm)
+    Dashboard](Summary_Value_Mapping_Dashboard)

@@ -17,18 +17,18 @@ summaries as a workflow option.
 
 Whether a user receives an attachment or a summary email (or no email)
 is set using the WORKFLOW OPTION setting on the
-*[Users](../Page_Desc/Users_ISA.htm)* page. Refer to [Configure Workflow
-Options](Configure_Workflow_OptionsISA.htm) for more information.
+*[Users](../Page_Desc/Users_ISA)* page. Refer to [Configure Workflow
+Options](Configure_Workflow_OptionsISA) for more information.
 
 The workflow emails also contain a link to the scorecard in Information
 Server for the associated rule(s). Refer to [Access
-Scorecards](Access_Scorecards.htm) for more information.
+Scorecards](Access_Scorecards) for more information.
 
 If the server or port name changes for the IS installation, use the
 **Information Steward Settings** tab on the
-<span style="font-style: italic;">[Parameters](../Page_Desc/ISA_Parameters.htm)</span>
+<span style="font-style: italic;">[Parameters](../Page_Desc/ISA_Parameters)</span>
 page to enter the new information and update the project scorecard link.
-Refer to [Update the Scorecard Link](Update_the_Scorecard_Link.htm) for
+Refer to [Update the Scorecard Link](Update_the_Scorecard_Link) for
 more information.
 
 <span style="font-weight: bold;">NOTE</span>: If a rule has no failed

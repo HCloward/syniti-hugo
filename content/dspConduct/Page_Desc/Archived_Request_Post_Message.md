@@ -10,7 +10,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [View Archived
-Requests](../Use_Cases/View_Archived_Requests_DGE.htm).
+Requests](../Use_Cases/View_Archived_Requests_DGE).
 
 </div>
 
@@ -75,7 +75,7 @@ To access this page:
 <tr class="even">
 <td><p>RETURN VALUE1</p></td>
 <td><p>Displays a value returned from the target system to be used in transaction stringing.</p>
-<p>Refer to <a href="../../../Platform/Integrate/Use_Cases/Post_Data_Using_Transaction_Stringing.htm">Post Data Using Transaction Stringing</a> for more information.</p></td>
+<p>Refer to <a href="../../../Platform/Integrate/Use_Cases/Post_Data_Using_Transaction_Stringing">Post Data Using Transaction Stringing</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>RETURN VALUE2</p></td>

@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page while [Viewing Work List
-Details](../Use_Cases/View_Work_List_Details.htm).
+Details](../Use_Cases/View_Work_List_Details).
 
 </div>
 

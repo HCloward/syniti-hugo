@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Activate and Deactivate Data
-Sources](../Use_Cases/Activate_and_Deactivate_Data_Source.htm).
+Sources](../Use_Cases/Activate_and_Deactivate_Data_Source).
 
 </div>
 

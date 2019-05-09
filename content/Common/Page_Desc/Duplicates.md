@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Review Duplicate
-Records](../Use_Cases/Review_Duplicate_Records.htm).
+Records](../Use_Cases/Review_Duplicate_Records).
 
 </div>
 

@@ -12,11 +12,11 @@ Object, Target level.
 
 To copy all Target Rules to another target in Map:
 
-1.  [Access Map](../Config/Access_Map.htm).
+1.  [Access Map](../Config/Access_Map).
 
 2.  Click the <span style="font-weight: bold;">Targets</span> icon on
     the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page.
 
 3.  Click **Vertical View** for a Target.
 
@@ -25,7 +25,7 @@ To copy all Target Rules to another target in Map:
 5.  Click **Edit**.
     
     *[View the field descriptions for the Target Rule Copy To
-    page](../Page_Desc/Target_Rule_Copy_To.htm)*
+    page](../Page_Desc/Target_Rule_Copy_To)*
 
 6.  Select the expanded name of the source object that contains the rule
     to be copied from the **Copy To Source Database Object ID** list

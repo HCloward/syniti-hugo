@@ -24,18 +24,18 @@ wave and process area combination is referred to as a Contex:
 To get started:
 
   - [Set Up Security for
-    Console](../../dspMigrate/Set_Up_Security_for_dspMigrate.htm)
-  - [Access Console](Access_Console.htm)
+    Console](../../dspMigrate/Set_Up_Security_for_dspMigrate)
+  - [Access Console](Access_Console)
   - [Context, the Context bar, and
-    Navigation](../../dspMigrate/Context_Navigation.htm)
+    Navigation](../../dspMigrate/Context_Navigation)
   - [Set Parameters for Other
-    Components](Set_Parameters_for_Other_Components.htm)
+    Components](Set_Parameters_for_Other_Components)
   - [Set up and Register the Object
-    Database](Set_up_and_Register_the_Object_Database.htm)
+    Database](Set_up_and_Register_the_Object_Database)
   - [Register the Object Database in System
-    Administration](../../../Platform/Sys_Admin/Use_Cases/Register_the_Object_Database_\(dsw_\)_in_System_Administration.htm)
+    Administration](../../../Platform/Sys_Admin/Use_Cases/Register_the_Object_Database_\(dsw_\)_in_System_Administration)
   - [Configure Data Services
-    Functionality](Configure_Data_Services_Functionality.htm)
+    Functionality](Configure_Data_Services_Functionality)
   - [Set the Default Context for a
-    User](../../../Platform/Sys_Admin/Use_Cases/Set_the_Default_Context_for_a_User.htm)
+    User](../../../Platform/Sys_Admin/Use_Cases/Set_the_Default_Context_for_a_User)
     (optional, performed by an Administrator)

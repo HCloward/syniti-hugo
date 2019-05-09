@@ -20,7 +20,7 @@ To add a Distribution:
     Otherwise click <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Project Distributions
-    page.](../Page_Desc/Project_Distributions_H.htm)
+    page.](../Page_Desc/Project_Distributions_H)
 
 3.  Enter a unique name for the Distribution in the **DISTRIBUTION**
     field.

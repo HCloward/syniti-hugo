@@ -21,7 +21,7 @@ To configure currency (if other than US dollars):
 3.  Click **Edit**.
     
     [View the field descriptions for the Parameters
-    page](../Page_Desc/Parameters.htm)
+    page](../Page_Desc/Parameters)
 
 4.  Select the currency from the **Currency** list box.
     
@@ -42,7 +42,7 @@ To set the cost of failure:
 4.  Click **Edit**.
     
     [View the field descriptions for the Repository Reports
-    page](../Page_Desc/Repository_Reports_H.htm)
+    page](../Page_Desc/Repository_Reports_H)
 
 5.  Enter the amount that an error on the report costs in the **Cost Per
     Failure** field.

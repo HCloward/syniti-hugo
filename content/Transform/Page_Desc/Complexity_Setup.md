@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Configure Complexity
-Values.](../Config/Configure_Complexity_Values.htm)
+Values.](../Config/Configure_Complexity_Values)
 
 </div>
 

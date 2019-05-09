@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Add Users to a Work
-List Item](../Use_Cases/Add_Users_to_an_Item.htm).
+List Item](../Use_Cases/Add_Users_to_an_Item).
 
 </div>
 

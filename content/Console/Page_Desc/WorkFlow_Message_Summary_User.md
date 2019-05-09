@@ -10,9 +10,9 @@ solution = 'Migration'
 Use this page to:
 
   - [Add Users to Workflow
-    Messages](../Use_Cases/Create_Custom_Workflow_Messages.htm#Add)
+    Messages](../Use_Cases/Create_Custom_Workflow_Messages#Add)
   - [Set up Workflow Message Summary
-    Users](../../Map/Config/Setup_User_Notifications.htm#Set_up_Workflow_Message_Summary_Users)
+    Users](../../Map/Config/Setup_User_Notifications#Set_up_Workflow_Message_Summary_Users)
 
 </div>
 

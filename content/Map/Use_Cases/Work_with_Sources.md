@@ -17,7 +17,7 @@ Source</span> is the Source table where records are migrated from and
 inserted into the Target table. Records in an Add Row Source table are
 used for reconciliation. An Add Row Source is added in Target Design.
 Refer to [Assign a Source to a
-Target](../../Design/Use_Cases/Assign_a_Source_to_a_Target.htm) for more
+Target](../../Design/Use_Cases/Assign_a_Source_to_a_Target) for more
 information.
 
 As an example, if an Add Row Source has 1000 records, 1000 records load
@@ -48,7 +48,7 @@ conventions:
 stLFA1\_Northwind\_Supplier.zOpenPO joins to stNorthwind\_POHeader where
 Status=Open.
 
-Refer to [Update Row Sources Overview](Add_Update_Row_Sources.htm) for
+Refer to [Update Row Sources Overview](Add_Update_Row_Sources) for
 more information.
 
 <span style="font-weight: bold;">NOTE:</span> The joins between Source
@@ -59,35 +59,35 @@ If SupplierID exists on the Update Row Source, Map builds the join. If
 Map cannot find a matching field, a relationship is still created and
 the user is notified during a mapping that the joins must be
 established. Refer to [Add Relationship Joins to
-Sources](Add_Relationship_Joins_to_Source.htm) for more information.
+Sources](Add_Relationship_Joins_to_Source) for more information.
 
 The system adds a Source of
 <span style="font-style: italic;font-weight: bold;">Full
 Construction</span> in Target Design when the user adds a Source with a
 Source data source of {Full Construction}. Refer to [Full
-Construction](../../Construct/Use_Cases/Full_Construction.htm) for more
+Construction](../../Construct/Use_Cases/Full_Construction) for more
 information.
 
 An <span style="font-style: italic;font-weight: bold;">External
 Source</span> is an Update Row Source that is external to the system
 used in the Add Row Source when establishing a relationship. Refer to
-[Add an External Source](Add_an_External_Source.htm) for more
+[Add an External Source](Add_an_External_Source) for more
 information.
 
 This section contains the following topics:
 
-  - [Add Add Row Sources](Add_an_Add_Row_Source.htm)
-  - [Update Row Sources Overview](Add_Update_Row_Sources.htm)
-  - [Add an External Source](Add_an_External_Source.htm)
+  - [Add Add Row Sources](Add_an_Add_Row_Source)
+  - [Update Row Sources Overview](Add_Update_Row_Sources)
+  - [Add an External Source](Add_an_External_Source)
   - [Use the Add Row Source Override Field with Update Row
-    Sources](Use_the_Add_Row_Source_Override_Field_with_Update_Row_Sources.htm)
+    Sources](Use_the_Add_Row_Source_Override_Field_with_Update_Row_Sources)
   - [Add Relationship Joins to
-    Sources](Add_Relationship_Joins_to_Source.htm)
-  - [Add ZActive Fields](Add_ZActive.htm)
-  - [Add an Assemble Where Clause](Add_Assemble_Where_Clause.htm)
+    Sources](Add_Relationship_Joins_to_Source)
+  - [Add ZActive Fields](Add_ZActive)
+  - [Add an Assemble Where Clause](Add_Assemble_Where_Clause)
   - [Update Client and Language for all
-    Sources](Update_Client_and_Language_for_all_Sources.htm)
+    Sources](Update_Client_and_Language_for_all_Sources)
   - [Copy a Target Source to Another
-    Target](Copy_a_Target_Source_to_Another_Target.htm)
+    Target](Copy_a_Target_Source_to_Another_Target)
   - [Work with Target Sources that have Multi-part
-    Keys](Work_with_Sources_with_Multipart_Keys.htm)
+    Keys](Work_with_Sources_with_Multipart_Keys)

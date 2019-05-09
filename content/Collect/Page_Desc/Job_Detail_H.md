@@ -9,7 +9,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [View Summary](../Use_Cases/View_Summary.htm).
+Use this page to [View Summary](../Use_Cases/View_Summary).
 
 </div>
 
@@ -33,11 +33,11 @@ To access this page:
 
 ## <span id="Job_Detail_V"></span>Job Detail V
 
-[Job Detail H](Job_Detail_H.htm)
+[Job Detail H](Job_Detail_H)
 
 <div class="use">
 
-Use this page to [View Summary](../Use_Cases/View_Summary.htm).
+Use this page to [View Summary](../Use_Cases/View_Summary).
 
 </div>
 

@@ -15,9 +15,9 @@ read-only access.
 To set security:
 
 1.  [Set dspTrack™ Security in System
-    Administration](Set_dspTrack_Security_Delivered_Security_Role.htm)
+    Administration](Set_dspTrack_Security_Delivered_Security_Role)
 
 2.  <span class="MsoHyperlink">[Use Template Security
-    Roles](Use_Template_Security_Roles.htm)</span>
+    Roles](Use_Template_Security_Roles)</span>
 
-3.  [Set Plan Security](Set_Plan_Security.htm) (optional)
+3.  [Set Plan Security](Set_Plan_Security) (optional)

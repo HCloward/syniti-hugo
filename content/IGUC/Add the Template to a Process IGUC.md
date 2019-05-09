@@ -8,16 +8,16 @@ solution = 'Platform'
 A Template Administrator can add a template to a Process so that the
 Process template can be used to post data to the target system.
 
-Refer to [Manage Processes](../Integrate/Use_Cases/Manage_Processes.htm)
+Refer to [Manage Processes](../Integrate/Use_Cases/Manage_Processes)
 for an overview of Processes.
 
 Before performing this task, [create a
-template](Create%20an%20IG%20Universal%20Connect%20Template.htm) and
-[activate it.](Activate%20the%20Template%20IGUC.htm)
+template](Create%20an%20IG%20Universal%20Connect%20Template) and
+[activate it.](Activate%20the%20Template%20IGUC)
 
 For general information about the IG Universal Connect template, refer
 to [Post Data Using IG Universal
-Connect](Post%20Data%20Using%20IG%20Universal%20Connect%20Overview.htm).
+Connect](Post%20Data%20Using%20IG%20Universal%20Connect%20Overview).
 
 To add an IG Universal Connect Template template to a Process in
 Integrate:
@@ -36,7 +36,7 @@ Integrate:
     <span style="font-style: italic;">Vertical</span> View displays.
     
     [View the field descriptions for the Process page’s Vertical
-    View.](../Integrate/Page_Desc/Process_H.htm#Process_V_All_Tabs)
+    View.](../Integrate/Page_Desc/Process_H#Process_V_All_Tabs)
     
     <span style="font-weight: bold;">NOTE:</span> At least one active
     template must exist for the category before a process can be added.
@@ -46,7 +46,7 @@ Integrate:
     
     <span style="font-weight: bold;">NOTE:</span> This value determines
     the order the process displays on the
-    <span style="font-style: italic;">[Process](../Integrate/Page_Desc/Process_H.htm)</span>
+    <span style="font-style: italic;">[Process](../Integrate/Page_Desc/Process_H)</span>
     page.
 
 5.  Enter a process name in
@@ -86,16 +86,16 @@ Integrate:
     automatically generated. In this case, leave the View Name blank.
     Refer to [Configure a Process Template Loop for an IG Universal
     Connect Process Template
-    Automatically](Configure%20a%20Process%20Template%20Loop%20for%20an%20IG%20Universal%20Connect%20Process%20Template%20Automatically.htm)
+    Automatically](Configure%20a%20Process%20Template%20Loop%20for%20an%20IG%20Universal%20Connect%20Process%20Template%20Automatically)
     for more information.
 
 10. Click <span style="font-weight: bold;">Save</span>; the Template ID
     is automatically registered to the process.
 
 Continue with [Activate the
-Process](Activate%20the%20Process%20IGUC.htm), or, if using parameters,
+Process](Activate%20the%20Process%20IGUC), or, if using parameters,
 Configure a Process Template Loop for an IG Universal Connect Process
 Template
-[Manually](Configure%20a%20Process%20Template%20Loop%20for%20an%20IG%20Universal%20Connect%20Process%20Template%20Manually.htm)
+[Manually](Configure%20a%20Process%20Template%20Loop%20for%20an%20IG%20Universal%20Connect%20Process%20Template%20Manually)
 or
-[Automatically](Configure%20a%20Process%20Template%20Loop%20for%20an%20IG%20Universal%20Connect%20Process%20Template%20Automatically.htm).
+[Automatically](Configure%20a%20Process%20Template%20Loop%20for%20an%20IG%20Universal%20Connect%20Process%20Template%20Automatically).

@@ -35,21 +35,21 @@ request can be manipulated. Role types are:
 
 To work with roles:
 
-  - [Add a Role](Add_a_Role.htm)
+  - [Add a Role](Add_a_Role)
   - [Add Dependencies to
-    Roles](Role_Dependencies.htm#Add_Dependencies_to_Roles)
+    Roles](Role_Dependencies#Add_Dependencies_to_Roles)
   - [Assign a Condition to a Role Dependency
-    Relationship](Role_Dependencies.htm#Assign_a_Condition_to_a_Role_Dependency_Relationship)
-  - [Add a Task to a Role](Add_a_Task_to_a_Role.htm)
+    Relationship](Role_Dependencies#Assign_a_Condition_to_a_Role_Dependency_Relationship)
+  - [Add a Task to a Role](Add_a_Task_to_a_Role)
   - [Enable or Disable Messages for a
-    Role](Enable_or_Disable_Messages_for_a_Role.htm)
-  - [Add a Conflict to a Role](Add_a_Conflict_to_a_Role.htm)
+    Role](Enable_or_Disable_Messages_for_a_Role)
+  - [Add a Conflict to a Role](Add_a_Conflict_to_a_Role)
   - [View dspConduct™ Pages that are Assigned to
-    Roles](View_a_Roles_dspConduct_Pages.htm)
-  - [Add Custom Business Rules](Add_Custom_Business_Rules.htm)
-  - [Auto Finish a Role](Auto_Finish_a_Role.htm)
+    Roles](View_a_Roles_dspConduct_Pages)
+  - [Add Custom Business Rules](Add_Custom_Business_Rules)
+  - [Auto Finish a Role](Auto_Finish_a_Role)
   - [View the Scenarios Where a Role is Used and the Tasks Assigned to
-    that Role](View_a_Roles_Scenarios_and_Tasks.htm)
+    that Role](View_a_Roles_Scenarios_and_Tasks)
   - [Configure the Post Later Feature at the Role
-    level](Configure_the_Post_Later_Feature_at_the_Role_Level.htm)
-  - [Copy a Role](Copy_a_Role.htm)
+    level](Configure_the_Post_Later_Feature_at_the_Role_Level)
+  - [Copy a Role](Copy_a_Role)

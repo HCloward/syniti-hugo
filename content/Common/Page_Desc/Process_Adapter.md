@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Modify the Process Adapter
-Entries](../Use_Cases/Process_Adapters.htm#Modify_the_Process_Adapter_Entries).
+Entries](../Use_Cases/Process_Adapters#Modify_the_Process_Adapter_Entries).
 
 </div>
 
@@ -51,7 +51,7 @@ Configuration \> Process Adapters</span> in the
 </tr>
 <tr class="odd">
 <td><p>Properties</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Process_Adapter_Properties.htm">Process Adapter Properties</a></span> page to modify process adapter properties.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Process_Adapter_Properties">Process Adapter Properties</a></span> page to modify process adapter properties.</p></td>
 </tr>
 </tbody>
 </table>

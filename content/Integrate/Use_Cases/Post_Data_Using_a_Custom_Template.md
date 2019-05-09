@@ -30,12 +30,12 @@ template.
 
 To post using a Custom template:
 
-  - [Create a Custom Assembly](Create_a_Custom_Assembly.htm)
+  - [Create a Custom Assembly](Create_a_Custom_Assembly)
   - [Add the Assembly File to the Integrate Process
-    Folder](Add_the_Assembly_File_to_the_Integrate_Process_Folder.htm)
-  - [Create a Custom Template](Create_a_Custom_Template_Integrate.htm)
-  - [Activate the Custom Template](Activate_the_Custom_Template.htm)
+    Folder](Add_the_Assembly_File_to_the_Integrate_Process_Folder)
+  - [Create a Custom Template](Create_a_Custom_Template_Integrate)
+  - [Activate the Custom Template](Activate_the_Custom_Template)
   - [Add the Custom Template to a
-    Process](Add_the_Custom_Template_to_a_Process.htm)
-  - [Activate the Process](Activate_the_Process_Custom_Template.htm)
-  - [Post Data](Post_Data_Custom_Template.htm)
+    Process](Add_the_Custom_Template_to_a_Process)
+  - [Activate the Process](Activate_the_Process_Custom_Template)
+  - [Post Data](Post_Data_Custom_Template)

@@ -9,7 +9,7 @@ solution = 'Master Data Management'
 
 Use this page to [configure SLA settings at the business process
 scenario role
-level](../Config/Configure_SLA_Settings_at_the_BPSR_Level.htm).
+level](../Config/Configure_SLA_Settings_at_the_BPSR_Level).
 
 </div>
 
@@ -42,19 +42,19 @@ To access this page:
 <tr class="even">
 <td><p>WORK MINUTES</p></td>
 <td><p>Displays the number of days that all of the tasks in the role must be executed to meet the SLA.</p>
-<p><strong>NOTE:</strong> Leave blank to default to the values set up at the scenario. Refer to <a href="../Config/Set_Up_SLA_Notifications.htm">Set up SLA notifications in dspConduct™</a> for more information.</p>
+<p><strong>NOTE:</strong> Leave blank to default to the values set up at the scenario. Refer to <a href="../Config/Set_Up_SLA_Notifications">Set up SLA notifications in dspConduct™</a> for more information.</p>
 <p><strong>NOTE</strong>: When a role is imported from IGC™ and this field is blank in dspConduct™, the value entered in IGC™ is used. If this field already contains a value in dspConduct™, this value is not updated</p></td>
 </tr>
 <tr class="odd">
 <td><p>WORK HOURS</p></td>
 <td><p>Displays the number of hours that all of the tasks in the role must be executed to meet the SLA.</p>
-<p><strong>NOTE:</strong> Leave blank to default to the values set up at the scenario. Refer to <a href="../Config/Set_Up_SLA_Notifications.htm">Set up SLA notifications in dspConduct™</a> for more information.</p>
+<p><strong>NOTE:</strong> Leave blank to default to the values set up at the scenario. Refer to <a href="../Config/Set_Up_SLA_Notifications">Set up SLA notifications in dspConduct™</a> for more information.</p>
 <p><strong>NOTE</strong>: When a role is imported from IGC™ and this field is blank in dspConduct™, the value entered in IGC™ is used. If this field already contains a value in dspConduct™, this value is not updated</p></td>
 </tr>
 <tr class="even">
 <td><p>WORK DAYS</p></td>
 <td><p>Displays the number of minutes that all of the tasks in the role must be executed to meet the SLA.</p>
-<p><strong>NOTE:</strong> Leave blank to default to the values set up at the scenario. Refer to <a href="../Config/Set_Up_SLA_Notifications.htm">Set up SLA notifications in dspConduct™</a> for more information.</p>
+<p><strong>NOTE:</strong> Leave blank to default to the values set up at the scenario. Refer to <a href="../Config/Set_Up_SLA_Notifications">Set up SLA notifications in dspConduct™</a> for more information.</p>
 <p><strong>NOTE</strong>: When a role is imported from IGC™ and this field is blank in dspConduct™, the value entered in IGC™ is used. If this field already contains a value in dspConduct™, this value is not updated</p></td>
 </tr>
 </tbody>

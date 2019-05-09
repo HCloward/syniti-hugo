@@ -7,7 +7,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Monitor Packages](Monitor_Packages.htm).
+Use this page to [Monitor Packages](Monitor_Packages).
 
 </div>
 

@@ -12,7 +12,7 @@ Started or Request in Process.
 
 Click a section to drill down to the *Request* page.
 
-Refer to [View Charts in dspConduct™](View_Charts.htm) for general
+Refer to [View Charts in dspConduct™](View_Charts) for general
 information about chart features.
 
 To access this chart in dspConduct™:

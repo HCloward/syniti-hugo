@@ -11,10 +11,10 @@ Hover a cursor over the bar to view the number of templates for the
 team.
 
 Click the bar to drill down to the [Top 15 Template Request Counts
-chart](Top_15_Template_Request_Counts.htm).
+chart](Top_15_Template_Request_Counts).
 
 Refer to [View Dashboards in
-dspCompose™](View_Dashboards_in_dspCompose.htm) for information about
+dspCompose™](View_Dashboards_in_dspCompose) for information about
 chart features and the data that displays on charts.
 
 To access this chart in dspCompose™ select

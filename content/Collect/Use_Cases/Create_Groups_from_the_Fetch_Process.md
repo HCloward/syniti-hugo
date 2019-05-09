@@ -13,9 +13,9 @@ Create these groups using one of these methods:
 
   - Create System Type groups from the Fetch process.
   - [Create System Type groups from source
-    tables.](Create_a_System_Type_Group_from_Source_Tables.htm)
+    tables.](Create_a_System_Type_Group_from_Source_Tables)
   - [Create System Type groups manually in
-    Common.](../../Common/Use_Cases/Add_System_Types_Groups.htm)
+    Common.](../../Common/Use_Cases/Add_System_Types_Groups)
 
 To create groups from the fetch process:
 
@@ -27,7 +27,7 @@ To create groups from the fetch process:
 3.  Click **Add** to add a source to the target.
     
     **NOTE:** Refer to [Register Sources to
-    Target](Register_and_Use_Sources.htm#Register_Sources_to_Target) for
+    Target](Register_and_Use_Sources#Register_Sources_to_Target) for
     detailed information.
 
 4.  Click <span style="font-weight: bold;">Save</span>.

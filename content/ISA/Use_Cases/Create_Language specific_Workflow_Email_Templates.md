@@ -26,7 +26,7 @@ To add a language-specific template at the parameters page:
 4.  Click <span style="font-weight: bold;">Add</span>.
     
     *[View the field descriptions for the Workflow Template
-    page.](../Page_Desc/Workflow_Template.htm)*
+    page.](../Page_Desc/Workflow_Template)*
 
 5.  Select the language that will be used for the email message that
     includes an attachment from the **LANGUAGE ID** field.

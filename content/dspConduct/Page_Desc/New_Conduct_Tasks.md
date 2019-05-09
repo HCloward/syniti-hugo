@@ -11,9 +11,9 @@ Use this page to:
 
   - [Map an IGC™ Task to a New Task Based on an Existing Page in the
     Content
-    WebApp](../Use_Cases/Map_a_dspConduct_Task_to_a_Task_Imported_from_IGC.htm#Map_an_IGC_Task_to_a_New_Task_Based_on_an_Existing_Page_in_the_Content_WebApp)
+    WebApp](../Use_Cases/Map_a_dspConduct_Task_to_a_Task_Imported_from_IGC#Map_an_IGC_Task_to_a_New_Task_Based_on_an_Existing_Page_in_the_Content_WebApp)
   - [Map an IGC™ Task to a New Task Based on a New Page in the Content
-    WebApp](../Use_Cases/Map_a_dspConduct_Task_to_a_Task_Imported_from_IGC.htm#Map_an_IGC_Task_to_a_New_Task_Based_on_a_New_Page_in_the_Content_WebApp)
+    WebApp](../Use_Cases/Map_a_dspConduct_Task_to_a_Task_Imported_from_IGC#Map_an_IGC_Task_to_a_New_Task_Based_on_a_New_Page_in_the_Content_WebApp)
 
 </div>
 
@@ -58,7 +58,7 @@ To access this page:
 <tr class="even">
 <td><p>Create Page</p></td>
 <td><p>Click to open the <em>Pages</em> page to add a new page in the Content WebApp.</p>
-<p>Refer to <a href="../../../Platform/WebApp_Dev/Page%20Design%20Overview.htm">Design Pages</a> in System Administration for more information.</p></td>
+<p>Refer to <a href="../../../Platform/WebApp_Dev/Page%20Design%20Overview">Design Pages</a> in System Administration for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Use Existing Page</p></td>

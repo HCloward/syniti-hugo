@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Configure Conditional GUI Script Data
-Records](../Use_Cases/ConfigureConditionalGUIScriptDatarec.htm).
+Records](../Use_Cases/ConfigureConditionalGUIScriptDatarec).
 
 </div>
 

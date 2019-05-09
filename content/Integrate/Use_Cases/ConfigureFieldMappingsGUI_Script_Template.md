@@ -14,7 +14,7 @@ case, the <span style="font-weight: bold;">MAPPING VALUE</span> field
 and the <span style="font-weight: bold;">TEMPLATE FIELD UNIQUE
 NAME</span> field will have identical values. Refer to [Generate
 Database Objects
-Automatically](Generate_Database_Objects_Automatically.htm) for more
+Automatically](Generate_Database_Objects_Automatically) for more
 information.
 
 Once the process template loop is configured, configure the field
@@ -37,7 +37,7 @@ mapping automatically based on the fields in the recording.
 
 Synchronous templates also allow mappings to be tied to Return Values.
 Refer to [Post Data Using Transaction
-Stringing](Post_Data_Using_Transaction_Stringing.htm) for more
+Stringing](Post_Data_Using_Transaction_Stringing) for more
 information.
 
 **NOTE**: Template Process Loop Field Mappings cannot be edited if the
@@ -75,7 +75,7 @@ To configure field mapping manually for a GUI Script process template:
     
     *[View the field descriptions for the Process Template Loop Field
     Mappings
-    page.](../Page_Desc/Process_Template_Loop_Field_Mappings_H.htm)*
+    page.](../Page_Desc/Process_Template_Loop_Field_Mappings_H)*
 
 7.  Locate a **TEMPLATE FIELD UNIQUE NAME** to configure.  
     Either:

@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Register Work List Event Validations to a
-Plan](../Use_Cases/Register_WorkList_Event_Validations_Plan.htm).
+Plan](../Use_Cases/Register_WorkList_Event_Validations_Plan).
 
 </div>
 
@@ -69,12 +69,12 @@ To access this page:
 
 ## <span id="Work_List_Event_Validations_V"></span>Work List Event Validations V
 
-[Work List Event Validations H](Work_List_Event_Validations_H.htm)
+[Work List Event Validations H](Work_List_Event_Validations_H)
 
 <div class="use">
 
 Use this page to [Register Work List Event Validations to a
-Plan](../Use_Cases/Register_WorkList_Event_Validations_Plan.htm).
+Plan](../Use_Cases/Register_WorkList_Event_Validations_Plan).
 
 </div>
 

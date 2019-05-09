@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Create an Escalation
-Process](../Use_Cases/Create_an_Escalation_Process.htm).
+Process](../Use_Cases/Create_an_Escalation_Process).
 
 </div>
 

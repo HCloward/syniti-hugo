@@ -12,13 +12,13 @@ solution = 'Data Quality'
 Use this page to:
 
   - [Customize Report
-    Settings](../Use_Cases/Configure_User_Settings_Reports_and_Filters.htm#Customize_Report_Settings)
+    Settings](../Use_Cases/Configure_User_Settings_Reports_and_Filters#Customize_Report_Settings)
   - [Define
-    Where  Clauses](../Use_Cases/Configure_User_Settings_Reports_and_Filters.htm#Define_Where_Clauses)
+    Where  Clauses](../Use_Cases/Configure_User_Settings_Reports_and_Filters#Define_Where_Clauses)
   - [Configure Workflow Schedules for User
-    Reports](../Use_Cases/Manage_Workflow_Emails.htm#Configure_Workflow_Schedules_for_User_Reports)
+    Reports](../Use_Cases/Manage_Workflow_Emails#Configure_Workflow_Schedules_for_User_Reports)
   - [Change Frequency of User
-    Workflows](../Use_Cases/Tips_and_Troubleshooting.htm#Change_Frequency_of_User_Workflows)
+    Workflows](../Use_Cases/Tips_and_Troubleshooting#Change_Frequency_of_User_Workflows)
 
 </div>
 
@@ -47,18 +47,18 @@ ID.
 
 ## <span id="User_Reports_V"></span>User (Reports) V
 
-[User (Reports) H](User_Reports_H.htm)
+[User (Reports) H](User_Reports_H)
 
 <div class="use">
 
 Use this page to:
 
   - [Customize Report
-    Settings](../Use_Cases/Configure_User_Settings_Reports_and_Filters.htm#Customize_Report_Settings)
+    Settings](../Use_Cases/Configure_User_Settings_Reports_and_Filters#Customize_Report_Settings)
   - [Define Where
-    Clauses](../Use_Cases/Configure_User_Settings_Reports_and_Filters.htm#Define_Where_Clauses)
+    Clauses](../Use_Cases/Configure_User_Settings_Reports_and_Filters#Define_Where_Clauses)
   - [Configure Workflow Schedules for User
-    Reports](../Use_Cases/Manage_Workflow_Emails.htm#Configure_Workflow_Schedules_for_User_Reports)
+    Reports](../Use_Cases/Manage_Workflow_Emails#Configure_Workflow_Schedules_for_User_Reports)
 
 </div>
 

@@ -20,7 +20,7 @@ To configure the SAP Client Name:
 3.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the Parameters
-    page](../Page_Desc/Parameters.htm)
+    page](../Page_Desc/Parameters)
 
 4.  Enter the name in the <span style="font-weight: bold;">SAP
     Client</span> field.

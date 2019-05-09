@@ -20,19 +20,19 @@ A governance hierarchy consists of the following elements:
 
 To design a governance hierarchy:
 
-  - [Manage Categories](Manage_Categories.htm)
-  - [Manage Business Processes](Manage_Business_Process.htm)
-  - [Manage Scenarios](Manage_Scenarios.htm)
-  - [Manage Roles](Manage_Roles.htm)
-  - [Manage Tasks](Manage_Tasks.htm)
+  - [Manage Categories](Manage_Categories)
+  - [Manage Business Processes](Manage_Business_Process)
+  - [Manage Scenarios](Manage_Scenarios)
+  - [Manage Roles](Manage_Roles)
+  - [Manage Tasks](Manage_Tasks)
 
 A Designer can evaluate overall business process design and how updates
 to a scenario, role or task may affect other elements that are assigned
 to that scenario. Refer to these topics for more information:
 
   - [View the Roles and Tasks Assigned to a
-    Scenario](View_the_Roles_and_Tasks_Assigned_to_a_Scenario.htm)
+    Scenario](View_the_Roles_and_Tasks_Assigned_to_a_Scenario)
   - [View the Scenarios Where a Role is Used and the Tasks Assigned to
-    that Role](View_a_Roles_Scenarios_and_Tasks.htm)
+    that Role](View_a_Roles_Scenarios_and_Tasks)
   - [View Scenarios and Roles to which a Task is
-    Assigned](View_a_Tasks_Scenarios_and_Roles.htm)
+    Assigned](View_a_Tasks_Scenarios_and_Roles)

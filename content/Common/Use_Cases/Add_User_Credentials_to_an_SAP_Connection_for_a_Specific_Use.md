@@ -12,7 +12,7 @@ If no user credentials have been added for the current user, the
 platform uses the default credentials entered on the
 <span style="font-style: italic;">Vertical</span> View of the [Data
 Source
-Registry](../Page_Desc/Data_Source_Registry_H.htm#SAP_Application_Server_____-_General)
+Registry](../Page_Desc/Data_Source_Registry_H#SAP_Application_Server_____-_General)
  page for an SAP Application Server connection type.
 
 Before performing this task, gather information about the SAP instance,
@@ -22,10 +22,10 @@ credentials.
 When downloading data from or posting data to SAP, the platform uses the
 default credentials added on the <span style="font-style: italic;">[Data
 Source Registry
-p](../Page_Desc/Data_Source_Registry_H.htm#Data_Source_Registry_V)</span>age’s
+p](../Page_Desc/Data_Source_Registry_H#Data_Source_Registry_V)</span>age’s
 <span style="font-style: italic;">Vertical</span> View when connecting
 to SAP. Refer to [Add Default User Credentials to an SAP
-Connection](Add_Default_User_Credentials_to_a_Connection.htm) for more
+Connection](Add_Default_User_Credentials_to_a_Connection) for more
 information.
 
 To add credentials for a specific user in Common:
@@ -45,7 +45,7 @@ To add credentials for a specific user in Common:
     
     [View the field descriptions for the Data Source Registry User
     Credentials
-    page](../Page_Desc/Data_Source_Registry_User_Credentials_H.htm)
+    page](../Page_Desc/Data_Source_Registry_User_Credentials_H)
 
 5.  Select the user name in the
     <span style="font-weight: bold;">USER</span> list box.

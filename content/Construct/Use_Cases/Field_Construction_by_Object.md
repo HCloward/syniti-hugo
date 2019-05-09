@@ -11,18 +11,18 @@ Source table, the estimated number of fields that require construction
 construction is complete.
 
 When the chart is accessed from the
-<span style="font-style: italic;">[Objects](../../Design/Page_Desc/Objects_Target_Design.htm)</span>
+<span style="font-style: italic;">[Objects](../../Design/Page_Desc/Objects_Target_Design)</span>
 page in Target Design, counts display for the selected Object only.
 
 When the chart is accessed from the Field Construction by Wave & Process
 Area chart, counts display for all Objects in the Wave and Process Area.
 
 Click the bar to drill down to the [Field Construction by
-Target](Field_Construction_by_Target_Construct.htm) chart.
+Target](Field_Construction_by_Target_Construct) chart.
 
 <span style="font-weight: bold;">NOTE</span>: For general information
 about the data that displays on Construction charts, refer to [View the
-Dashboard in Construct](View_Dashboard_in_Construct.htm).
+Dashboard in Construct](View_Dashboard_in_Construct).
 
 To access this chart in Console from the Field Construction by Wave and
 Process Area chart:
@@ -42,6 +42,6 @@ To access the chart in Target Design:
     <span style="font-style: italic;">Navigation</span> pane, or click
     <span style="font-weight: bold;">Design</span> in the Context bar.
 2.  Click the <span style="font-weight: bold;">Objects</span> icon on
-    the *[Design](../../Design/Page_Desc/Design.htm)* page.
+    the *[Design](../../Design/Page_Desc/Design)* page.
 3.  Click the <span style="font-weight: bold;">Summary
     Construction</span> icon for an Object.

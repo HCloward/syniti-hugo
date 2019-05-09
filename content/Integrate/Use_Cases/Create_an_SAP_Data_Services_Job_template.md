@@ -10,10 +10,10 @@ by selecting a job name used while posting request records.
 
 <span style="font-weight: bold;">NOTE</span>: For general information
 about templates, refer to [Create a Basic
-Template](Create_a_Basic_Template.htm). For general information about
+Template](Create_a_Basic_Template). For general information about
 the SAP Data Services Job template, refer to [Post Data Using an SAP
 Data Services Job
-Overview.](Post_Data_Using_an_SAP_Data_Services_Job_Overview.htm)
+Overview.](Post_Data_Using_an_SAP_Data_Services_Job_Overview)
 
 To create an SAP Data Services Job template in Integrate:
 
@@ -26,7 +26,7 @@ To create an SAP Data Services Job template in Integrate:
 3.  Click <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Template
-    page](../Page_Desc/Template_H.htm)
+    page](../Page_Desc/Template_H)
 
 4.  Enter a unique name for the template in the
     <span style="font-weight: bold;">TEMPLATE NAME</span> field.
@@ -43,7 +43,7 @@ To create an SAP Data Services Job template in Integrate:
     
     <span style="font-weight: bold;">NOTE</span>: The connection ID is
     set up in Common. Refer to [Establish a Connection to a Target
-    System](../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview.htm)
+    System](../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview)
     for more information.
 
 8.  Click <span style="font-weight: bold;">Save</span>;
@@ -57,4 +57,4 @@ To create an SAP Data Services Job template in Integrate:
 
 10. Click <span style="font-weight: bold;">Save</span>.
 
-Continue with [Activate the Template](Activate_the_Template_DS_Job.htm).
+Continue with [Activate the Template](Activate_the_Template_DS_Job).

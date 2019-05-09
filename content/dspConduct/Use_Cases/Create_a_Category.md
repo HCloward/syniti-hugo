@@ -17,11 +17,11 @@ category. However, if a category already has its Content WebApp and
 database built, there is no reason for the Designer to use the
 auto-generate request-related objects feature. It is recommended that
 the Designer ensure that a page has been selected in the Request Page Id
-list box on the *[Category](../Page_Desc/Category_H.htm)* page’s
+list box on the *[Category](../Page_Desc/Category_H)* page’s
 *Vertical* View. The auto-generate feature will detect whether
 request-related objects exist and will not create them again if they
 already exist. Refer to [Auto-generate Request-related
-Objects](Auto_Generate_Request_related_Objects.htm) for more
+Objects](Auto_Generate_Request_related_Objects) for more
 information.
 
 To create a category in dspConduct™:
@@ -33,7 +33,7 @@ To create a category in dspConduct™:
     **Add**.
     
     *<span style="color: #365F91;">[View the field descriptions on the
-    Category page.](../Page_Desc/Category_H.htm)</span>*
+    Category page.](../Page_Desc/Category_H)</span>*
 
 3.  Enter a unique name in the **NAME** field.
 

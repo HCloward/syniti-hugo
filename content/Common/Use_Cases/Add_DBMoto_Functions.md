@@ -6,7 +6,7 @@ solution = 'Platform'
 # Add DBMoto Functions
 
 Use the *[DBMoto Function
-Setup](../Page_Desc/DBMoto_Function_Setup.htm)* page to add a DBMoto
+Setup](../Page_Desc/DBMoto_Function_Setup)* page to add a DBMoto
 global script function. Users can also write their own function in the
 replication script that the global script can call in. DBMoto supports
 Visual Basic and C\#.

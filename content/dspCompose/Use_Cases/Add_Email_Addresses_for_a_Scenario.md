@@ -14,20 +14,20 @@ scenario.
 <span style="font-weight: bold;">NOTE</span>: If the sender is an
 external user who is not registered in the platform, that email must be
 added to the platform. Refer to [Add Email Addresses for External
-Users](../Config/Add_Email_Addresses_for_External_Users.htm) for more
+Users](../Config/Add_Email_Addresses_for_External_Users) for more
 information.
 
 <span style="font-weight: bold;">NOTE</span>: If the template associated
 with the external request scenario is active, no email address can be
 added, edited or deleted. To update or add an email address, the
 template must be in Developer mode. Refer to [Modify an Active Template
-in Developer Mode](Modify_an_Active_Template_in_Developer_Mode.htm) for
+in Developer Mode](Modify_an_Active_Template_in_Developer_Mode) for
 more information.
 
 Refer to [Create an External Request
-Scenario](Create_an_External_Request_Scenario.htm) and [Create the
+Scenario](Create_an_External_Request_Scenario) and [Create the
 external request scenario that creates an Excel-initiated
-request](Create_an_External_Request_Scenario_for_an_Excel_Initiated_Requestel.htm)
+request](Create_an_External_Request_Scenario_for_an_Excel_Initiated_Requestel)
 for more information.
 
 To add an email address that can send a request for the scenario:
@@ -51,7 +51,7 @@ To add an email address that can send a request for the scenario:
     
     [View the field descriptions for the Template (External Request
     Scenario Email Address)
-    page](../Page_Desc/Template_External_Request_Scenario_Email_Address.htm)
+    page](../Page_Desc/Template_External_Request_Scenario_Email_Address)
 
 7.  Enter an email address in the **EMAILADDRESS** field. The email
     address must contain a period (.) and an "at" sign (@) in order to
@@ -69,7 +69,7 @@ To add an email address that can send a request for the scenario:
     the ExternalData event. Language-specific messages are added on the
     *Workflow Message* page and the *Workflow Language Message* page.
     Refer to [Configure Workflow
-    Messages](../Config/Configure_Workflow_Messages.htm) for more
+    Messages](../Config/Configure_Workflow_Messages) for more
     information.
 
 10. Include additional information about the email address in
@@ -78,5 +78,5 @@ To add an email address that can send a request for the scenario:
 11. Click **Save**.
 
 Refer to [Set External Role Contacts for an External Request
-Scenario](Set_External_Role_Contacts.htm) for more information about
+Scenario](Set_External_Role_Contacts) for more information about
 configuring external request scenarios.

@@ -7,9 +7,9 @@
 Use this page to:
 
   - [Update the Scorecard
-    Link](../Use_Cases/Update_the_Scorecard_Link.htm)
+    Link](../Use_Cases/Update_the_Scorecard_Link)
   - [Run Rules and Send Workflows On
-    Demand](../Use_Cases/Run_RulesRun_Workflows_.htm)
+    Demand](../Use_Cases/Run_RulesRun_Workflows_)
 
 </div>
 
@@ -27,7 +27,7 @@ Summary** in the *Navigation* pane.
 <td><p>Click to:</p>
 <ul>
 <li>Run all rules and rule bindings with unprocessed run IDs for all project distributions in the selected project</li>
-<li>Send workflows to all users in the project according to user settings on the <a href="ISA_Parameters.htm">Parameters</a> page</li>
+<li>Send workflows to all users in the project according to user settings on the <a href="ISA_Parameters">Parameters</a> page</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -36,15 +36,15 @@ Summary** in the *Navigation* pane.
 </tr>
 <tr class="even">
 <td><p>Distributions</p></td>
-<td><p>Click to open the <em><a href="Project_Distributions_H.htm">Project Distributions</a></em> page to add a Distribution Owner, access pages to add rules and view rules bindings, add users to the project dimension, and view rules sorted by quality dimension and project.</p></td>
+<td><p>Click to open the <em><a href="Project_Distributions_H">Project Distributions</a></em> page to add a Distribution Owner, access pages to add rules and view rules bindings, add users to the project dimension, and view rules sorted by quality dimension and project.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Workflow Template</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Workflow_Template.htm">Workflow Template</a></span> page to add, edit or delete the templates used in workflows in the project.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Workflow_Template">Workflow Template</a></span> page to add, edit or delete the templates used in workflows in the project.</p></td>
 </tr>
 <tr class="even">
 <td><p>All Rule Bindings</p></td>
-<td><p>Click to open the <em><a href="Rule_Binding_List.htm">Rule Binding List</a></em> page to view all rule bindings for a project and to update descriptions for rule bindings.</p></td>
+<td><p>Click to open the <em><a href="Rule_Binding_List">Rule Binding List</a></em> page to view all rule bindings for a project and to update descriptions for rule bindings.</p></td>
 </tr>
 </tbody>
 </table>
@@ -54,7 +54,7 @@ Summary** in the *Navigation* pane.
 <div class="use">
 
 Use this page to [Update the Scorecard
-Link](../Use_Cases/Update_the_Scorecard_Link.htm).
+Link](../Use_Cases/Update_the_Scorecard_Link).
 
 </div>
 

@@ -55,7 +55,7 @@ To add users to the newly added database:
 10. Click the **OK** button.
 
 11. [An Administrator must then register the data source in System
-    Administration.](../../../Platform/Sys_Admin/Use_Cases/Register_the_Object_Database_\(dsw_\)_in_System_Administration.htm)
+    Administration.](../../../Platform/Sys_Admin/Use_Cases/Register_the_Object_Database_\(dsw_\)_in_System_Administration)
 
 After the data source has been registered:
 
@@ -65,7 +65,7 @@ After the data source has been registered:
 2.  Click **Edit**.
     
     [View the field descriptions for the Process Area: Object
-    page](../Page_Desc/Process_Area_ObjectH.htm)
+    page](../Page_Desc/Process_Area_ObjectH)
 
 3.  Select the Object database in the **Data Source ID** list box.
 

@@ -8,16 +8,16 @@ solution = 'Master Data Management'
 A Security Administrator can include or remove roles to a position.
 Before performing this task, design the governance elements in
 dspConduct™ \> Design and add a position. Refer to [dspConduct™ Design
-Process Overview](dspConduct_Design_Process_Overview.htm) and [Add a
-Position](Add_Position.htm) for more information.
+Process Overview](dspConduct_Design_Process_Overview) and [Add a
+Position](Add_Position) for more information.
 
 Roles can have conflicts where the same user is not allowed to finish
 both roles within a conflicting role pair. A user cannot be included in
 position(s) with roles that are designed to conflict on the
 [<span style="font-style: italic;">Role
-(Conflicts)</span>](../Page_Desc/Role_Conflicts.htm) page in dspConduct™
+(Conflicts)</span>](../Page_Desc/Role_Conflicts) page in dspConduct™
 \> Design. Refer to [Add a Conflict to a
-Role](Add_a_Conflict_to_a_Role.htm) for more information.
+Role](Add_a_Conflict_to_a_Role) for more information.
 
 To configure roles in a position in dspConduct™:
 
@@ -27,7 +27,7 @@ To configure roles in a position in dspConduct™:
 2.  Click the **Roles** icon for a position.
     
     *[View the field descriptions for the Position Role
-    page](../Page_Desc/Position_Role.htm).*
+    page](../Page_Desc/Position_Role).*
 
 3.  Select one or more roles, and then click the **Include** or
     **Remove** icon as needed.
@@ -40,7 +40,7 @@ To configure roles in a position in dspConduct™:
     from a position that has role level org unit value assignments, all
     of the org unit value assignments are removed from the role on the
     <span style="font-style: italic;">[Position
-    Role](../Page_Desc/Position_Role.htm)</span> page. If the role is
+    Role](../Page_Desc/Position_Role)</span> page. If the role is
     later included in the position, the org unit value assignments must
     be recreated.
     
@@ -52,8 +52,8 @@ To configure roles in a position in dspConduct™:
     level.  If  any one of the org unit values is set to editable on the
     Position Role Org Unit 1 2 or 3 page, the role is editable. Refer to
     [Configure the Read-Only/Editable setting for Org Unit Value
-    Assignments](Set_a_Roles_Org_Unit_Value_Assignments.htm#Configure_the_Read_Only_Editable_setting_for_Org_Unit_Value_Assignments_for_Roles)
+    Assignments](Set_a_Roles_Org_Unit_Value_Assignments#Configure_the_Read_Only_Editable_setting_for_Org_Unit_Value_Assignments_for_Roles)
     for Roles for more information.
 
 Next, [Set a Role's Org Unit Value
-Assignment](Set_a_Roles_Org_Unit_Value_Assignments.htm#Configure_Org_Unit_Value_Assignments_at_the_Position_Level).
+Assignment](Set_a_Roles_Org_Unit_Value_Assignments#Configure_Org_Unit_Value_Assignments_at_the_Position_Level).

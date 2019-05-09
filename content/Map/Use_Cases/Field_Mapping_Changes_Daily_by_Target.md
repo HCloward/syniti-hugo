@@ -8,15 +8,15 @@ solution = 'Migration'
 This chart displays the number of daily changes made to field mappings
 for all Targets and Sources associated with the Object selected on the
 [Field Mapping Changes Daily by
-Object](Field_Mapping_Changes_Daily_by_Object.htm) chart.
+Object](Field_Mapping_Changes_Daily_by_Object) chart.
 
 Hover a cursor over a data point to view the number of changes to field
 mappings for that day for that Target.
 
 Click a data point for the Target to drill down to the [Target
-Sources](../Page_Desc/Target_Sources_H_Map.htm) page.
+Sources](../Page_Desc/Target_Sources_H_Map) page.
 
-Refer to [View Dashboards in Map](View_Dashboards_in_Map.htm) for
+Refer to [View Dashboards in Map](View_Dashboards_in_Map) for
 general information about chart features.
 
 To access the chart in Map:

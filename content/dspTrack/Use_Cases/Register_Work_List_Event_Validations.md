@@ -6,10 +6,10 @@ solution = 'Platform'
 # Register Work List Event Validations
 
 Work List Event Validations can also be set at the [Plan
-Task](Register_WorkList_Event_Validations_Plan_Task.htm) level, [Work
-List Item](Register_WorkList_Event_Valid_WorkList_Item.htm) level, the
-[tag](Configure_Logic_Tags.htm) level, and  the
-[plan](Register_WorkList_Event_Validations_Plan.htm) level, and can be
+Task](Register_WorkList_Event_Validations_Plan_Task) level, [Work
+List Item](Register_WorkList_Event_Valid_WorkList_Item) level, the
+[tag](Configure_Logic_Tags) level, and  the
+[plan](Register_WorkList_Event_Validations_Plan) level, and can be
 set to run when work on a Plan Task or Work List Item starts or
 completes.
 
@@ -39,8 +39,8 @@ has started or finished.
 **NOTE**: Before registering the validation, it must be written and
 stored in a data source that is registered in Common. Refer to [Register
 a Data Source in
-Common](../../Common/Use_Cases/Register_a_Data_Source_in_Common.htm) for
+Common](../../Common/Use_Cases/Register_a_Data_Source_in_Common) for
 more information. The validation can only use parameters that can be
 passed in from the Work List. Refer to [Parameters for Work List Event
-Validation](../Page_Desc/Parameters_for_Work_List_Event_Validations.htm)
+Validation](../Page_Desc/Parameters_for_Work_List_Event_Validations)
 for more information.

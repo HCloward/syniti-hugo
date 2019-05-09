@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Import a Variant View for a
-Category](../Use_Cases/Import_Views.htm#Import_a_Variant_View_for_a_Category).
+Category](../Use_Cases/Import_Views#Import_a_Variant_View_for_a_Category).
 
 </div>
 
@@ -79,7 +79,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Columns</p></td>
-<td><p>Click to open the <em><a href="Variant_Column_Import_Staging.htm">Variant Column Import Staging</a></em> page to view the column settings for the variant.</p></td>
+<td><p>Click to open the <em><a href="Variant_Column_Import_Staging">Variant Column Import Staging</a></em> page to view the column settings for the variant.</p></td>
 </tr>
 </tbody>
 </table>

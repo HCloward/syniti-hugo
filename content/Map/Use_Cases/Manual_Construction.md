@@ -12,7 +12,7 @@ automatically generated and will be written manually in Construct.
 action is set to Manual Construction, the Source associated with the
 field is automatically added to the zSource page in Construct, and the
 user does not need to manually enter the zSource. Refer to [Set up
- zSources](../../Construct/Config/Set_up_ZSources.htm) for more
+ zSources](../../Construct/Config/Set_up_ZSources) for more
 information.
 
 <span style="font-weight: bold;">NOTE</span>: When a mapping with an
@@ -31,13 +31,13 @@ the Target Relationship ID field on the
 <span style="font-style: italic;">Field Mappings</span> page.
 
 To create a field mapping using the Manual Construction action on the
-*[Field Mappings](../Page_Desc/Field_Mappings_H.htm)* page:
+*[Field Mappings](../Page_Desc/Field_Mappings_H)* page:
 
 1.  Select <span style="font-weight: bold;">ProcessArea</span> in the
     *Navigation* pane.  
 
 2.  Click the **Targets**icon on the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page.
 
 3.  Click the **Mappings** icon for a Target.
 
@@ -46,7 +46,7 @@ To create a field mapping using the Manual Construction action on the
 5.  Click **Edit**.
     
       <span style="color: #0000ff;">[View the field descriptions for the
-    Field Mappings page](../Page_Desc/Field_Mappings_H.htm)</span>
+    Field Mappings page](../Page_Desc/Field_Mappings_H)</span>
 
 6.  Select **Manual Construction** from the **ACTION** list box.
 
@@ -60,12 +60,12 @@ To create a field mapping using the Manual Construction action on the
 10. Click the **Submit** icon on the Page toolbar.
 
 The mapping must be approved by a Developer on the *[Mapping
-Approval](../Page_Desc/Mapping_Approval_H.htm)* page for documentation
+Approval](../Page_Desc/Mapping_Approval_H)* page for documentation
 purposes and to help track progress of the data migration project. Refer
 to <span style="color: #0000ff;">[Approve or Reject
-Mappings](Approve_or_Reject_Mappings.htm)</span> and
+Mappings](Approve_or_Reject_Mappings)</span> and
 <span style="color: #0000ff;">[Assign Developers to a Target or
-Source](../../Design/Use_Cases/Add_Developers_and%20Business%20Contacts.htm)</span>
+Source](../../Design/Use_Cases/Add_Developers_and%20Business%20Contacts)</span>
 for more information.
 
 Once the mapping has been submitted, the **Action, Source Table, Source

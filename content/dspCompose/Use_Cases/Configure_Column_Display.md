@@ -24,9 +24,9 @@ Column display can be affected by settings:
   - On the *Mass Change Exclude Columns* page
 
 Refer to [Create Review
-Filters](Add_Users_to_Templates.htm#Create_Review_Filters) and
+Filters](Add_Users_to_Templates#Create_Review_Filters) and
 [Configure Columns to Exclude from Mass
-Change](../Config/Configure_Columns_to_Exclude_from_Mass_Change.htm) for
+Change](../Config/Configure_Columns_to_Exclude_from_Mass_Change) for
 more information.
 
 If multiple column display settings exist, dspCompose™ compares them and
@@ -34,7 +34,7 @@ uses the most restrictive column control status (set on the *Template
 (Role Column)* page) to determine if a column should be displayed.
 Hidden is more restrictive then Disabled. Disabled is more restrictive
 then Enabled. Refer to [Set a Column’s Control
-Status](Set_a_Columns_Control_Status.htm) for more information.
+Status](Set_a_Columns_Control_Status) for more information.
 
 The *Template (Role Excel Column Control)* page allows the Template
 Administrator to set:
@@ -52,7 +52,7 @@ further settings, such as colors, list settings, and custom validations.
 
 **NOTE**: To configure template settings, the template must not be
 active or must be in Developer Mode. Refer to [Modify an Active Template
-in Developer Mode](Modify_an_Active_Template_in_Developer_Mode.htm) for
+in Developer Mode](Modify_an_Active_Template_in_Developer_Mode) for
 more information.
 
 **NOTE**: On the *Template (Role*) page, the **Columns** and **Excel
@@ -111,7 +111,7 @@ page:
     
     *[View the field descriptions for the Template (Role Excel Column
     Control) page’s Vertical
-    View.](../Page_Desc/Template_Role_Excel_Column_Control_H.htm)*
+    View.](../Page_Desc/Template_Role_Excel_Column_Control_H)*
 
 9.  Select an option in the **Column Format** list box.
     

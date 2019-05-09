@@ -8,9 +8,9 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Append Columns to all Target or Source
-Tables](../Use_Cases/Append_Utility_Columns_to_all_Tables.htm) or [Allow
+Tables](../Use_Cases/Append_Utility_Columns_to_all_Tables) or [Allow
 Mapping of Utility
-Columns](../Use_Cases/Allow_Mapping_of_Utility_Columns.htm).
+Columns](../Use_Cases/Allow_Mapping_of_Utility_Columns).
 
 </div>
 
@@ -62,12 +62,12 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>DEFAULT VALUE</p></td>
-<td><p>Displays the default value added on the <span style="font-style: italic;"><a href="Utility_Field_Defaults.htm">Utility Field Defaults</a></span> page.</p>
-<p>Refer to <a href="../Use_Cases/Add_Utility_Field_Defaults.htm">Add Utility Field Defaults</a> for more information.</p></td>
+<td><p>Displays the default value added on the <span style="font-style: italic;"><a href="Utility_Field_Defaults">Utility Field Defaults</a></span> page.</p>
+<p>Refer to <a href="../Use_Cases/Add_Utility_Field_Defaults">Add Utility Field Defaults</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>VISIBILITY</p></td>
-<td><p>Displays how the appended utility field is used in mapping and whether it displays on the <span style="font-style: italic;"><a href="../../Map/Page_Desc/Field_Mappings_H.htm">Field Mappings</a></span> page in Map.</p>
+<td><p>Displays how the appended utility field is used in mapping and whether it displays on the <span style="font-style: italic;"><a href="../../Map/Page_Desc/Field_Mappings_H">Field Mappings</a></span> page in Map.</p>
 <p>Values are:</p>
 <ul>
 <li><strong>Both</strong> – Mapping for Source and Target</li>

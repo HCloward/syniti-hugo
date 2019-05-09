@@ -40,7 +40,7 @@ Only process posts using the **BOAFileCreation** BDC Post Method should
 use the settings in the **BOA BDC File Options** section.
 
 *[View the field descriptions for the Process Post page’s Vertical View
-for detailed information.](Process_Post_H.htm#Process_Post_V_All_Tabs)*
+for detailed information.](Process_Post_H#Process_Post_V_All_Tabs)*
 
 The following table lists which settings should be used based on BDC
 Post Method and other factors.

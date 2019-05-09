@@ -13,10 +13,10 @@ System Type.
 To import a System Type using Collect:
 
 1.  [Register a Data Source in System
-    Administration](../../Sys_Admin/Use_Cases/Register_a_Data_Source.htm).
+    Administration](../../Sys_Admin/Use_Cases/Register_a_Data_Source).
 
 2.  [Register the source to a Target in
-    Collect.](../../Collect/Use_Cases/Register_and_Use_Sources.htm#Register_Sources_to_Target)
+    Collect.](../../Collect/Use_Cases/Register_and_Use_Sources#Register_Sources_to_Target)
     
     **NOTE:** Make sure to select the correct Connection Type, as this
     determines the query used to fetch the target system's table and
@@ -39,14 +39,14 @@ To import a System Type using Collect:
     in the System Type Group imported as active.
 
 6.  [Activate or Deactivate Tables in the System Type Model Group in
-    Common as needed.](ActiveDeactiveTblsSystmTypeModelGrp.htm)
+    Common as needed.](ActiveDeactiveTblsSystmTypeModelGrp)
     
     **NOTE:** If you selected the Activate Fetched Tables checkbox in
     Collect, then you must deactivate the tables in the group for which
     you do not want to have field-level metadata.
 
 7.  [Import System Types Group
-    Tables.](../../Collect/Use_Cases/Import_Group_Tables.htm)
+    Tables.](../../Collect/Use_Cases/Import_Group_Tables)
     
     **NOTE:** After the Import process is complete, click the **Build
     and Refresh** icon. Wait for this process to complete before moving
@@ -60,7 +60,7 @@ To import a System Type using Collect:
     toolbar.
 
 11. Click **Edit** on the *[System Types
-    Import](../Page_Desc/System_Types_Import.htm)* page.
+    Import](../Page_Desc/System_Types_Import)* page.
 
 12. Select the data source of the Collect target to which you registered
     your target source.

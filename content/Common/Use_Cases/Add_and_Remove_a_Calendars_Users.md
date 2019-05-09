@@ -9,7 +9,7 @@ If a user is assigned to a calendar, a check mark displays in the IS
 MEMBER column for that USER ID on the *Calendar User* page.
 
 Calendars are used in the dspTrack™ and dspConduct™ components. Refer to
-[Use a Calendar](Use_a_Calendar.htm) for more information.
+[Use a Calendar](Use_a_Calendar) for more information.
 
 A user can only be assigned to one calendar at a time.
 
@@ -21,12 +21,12 @@ calendar.
 dspTrack™ uses a default calendar set at the Plan level while performing
 schedule status calculations. Refer to [Set Parameters for Schedule
 Status
-Calculations](../../dspTrack/Use_Cases/Set_Parameters_for_Schedule_Status_Calculation.htm)
+Calculations](../../dspTrack/Use_Cases/Set_Parameters_for_Schedule_Status_Calculation)
 for more information.
 
 dspConduct™ uses the dspConduct™ default calendar to perform SLA
 calculations. Refer to [Set up SLA notifications in
-dspConduct™](../../../Master_Data_Mgmt/dspConduct/Config/Set_Up_SLA_Notifications.htm)
+dspConduct™](../../../Master_Data_Mgmt/dspConduct/Config/Set_Up_SLA_Notifications)
 for more information.
 
 To add or remove users from a calendar:

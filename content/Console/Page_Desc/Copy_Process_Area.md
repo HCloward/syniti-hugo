@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Copy a Process
-Area](../Use_Cases/Copy_Elements.htm#Copy2).
+Area](../Use_Cases/Copy_Elements#Copy2).
 
 </div>
 
@@ -28,6 +28,6 @@ toolbar.
 |                       |                                                                                                             |
 | --------------------- | ----------------------------------------------------------------------------------------------------------- |
 | Field                 | Description                                                                                                 |
-| Original Process Area | Displays the name of the Process Area selected on the *[Process Area](Process_Area.htm)* page to be copied. |
+| Original Process Area | Displays the name of the Process Area selected on the *[Process Area](Process_Area)* page to be copied. |
 | Description           | Displays a description of the selected Process Area.                                                        |
 | New Process Area      | Enter a name for the copy of the Process Area.                                                              |

@@ -7,8 +7,8 @@ solution = 'Platform'
 
 Before performing this task:
 
-  - [Register Tables to Source](Register_Tables_to_Source.htm)
-  - [Encrypt Columns](Encrypt_Columns.htm)
+  - [Register Tables to Source](Register_Tables_to_Source)
+  - [Encrypt Columns](Encrypt_Columns)
 
 RFC options enable the configuration of a table using an RFC and are
 available by field name for conditional data downloads. This feature
@@ -40,7 +40,7 @@ tab.
 **Add**.
 
 [View the field descriptions for the Table (Rfc Options)
-page](../Page_Desc/Table_Rfc_Options.htm)
+page](../Page_Desc/Table_Rfc_Options)
 
 6\.<span style="font: 7.0pt &#39;Times New Roman&#39;;">    </span> Update
 **PRIORITY** field if the default value is not

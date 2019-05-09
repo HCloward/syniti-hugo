@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Set Target
-Dependencies](../Use_Cases/Set_Target_Dependencies.htm).
+Dependencies](../Use_Cases/Set_Target_Dependencies).
 
 </div>
 
@@ -19,7 +19,7 @@ To access this page:
 2.  Select <span style="font-weight: bold;">Design </span>in the Context
     bar.
 3.  Click the <span style="font-weight: bold;">Targets</span>icon on the
-    *[Design](Design.htm)* page.
+    *[Design](Design)* page.
 4.  Click the <span style="font-weight: bold;">Dependencies</span>  icon
     for a Target.
 5.  Click the <span style="font-weight: bold;">Find Dependencies</span>
@@ -38,8 +38,8 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>PARENT TARGET ID</p></td>
-<td><p>Displays the name of the Target table that has a parent relationship to the table selected on the <span style="font-style: italic;"><a href="Target_Dependencies.htm">Target Dependencies</a></span> page (as in, the selected Target is a child of this Target).</p>
-<p>A parent Target for each relationship created on the <span style="font-style: italic;"><a href="Target_Dependency_Relationship.htm">Target Dependency Relationship</a></span> page, along with a relationship added by default for the zSource, are available.</p></td>
+<td><p>Displays the name of the Target table that has a parent relationship to the table selected on the <span style="font-style: italic;"><a href="Target_Dependencies">Target Dependencies</a></span> page (as in, the selected Target is a child of this Target).</p>
+<p>A parent Target for each relationship created on the <span style="font-style: italic;"><a href="Target_Dependency_Relationship">Target Dependency Relationship</a></span> page, along with a relationship added by default for the zSource, are available.</p></td>
 </tr>
 <tr class="even">
 <td><p>PARENT FIELD ID</p></td>
@@ -47,7 +47,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>CHILD TARGET ID</p></td>
-<td><p>Displays the name of the Target table that has a child relationship to the table selected on the <span style="font-style: italic;"><a href="Target_Dependencies.htm">Target Dependencies</a></span> page (as in, the selected Target is a parent of this Target).</p></td>
+<td><p>Displays the name of the Target table that has a child relationship to the table selected on the <span style="font-style: italic;"><a href="Target_Dependencies">Target Dependencies</a></span> page (as in, the selected Target is a parent of this Target).</p></td>
 </tr>
 <tr class="even">
 <td><p>CHILD FIELD ID</p></td>

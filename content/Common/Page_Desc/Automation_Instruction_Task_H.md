@@ -9,7 +9,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Create Tasks](../Use_Cases/Create_Tasks.htm).
+Use this page to [Create Tasks](../Use_Cases/Create_Tasks).
 
 </div>
 
@@ -23,17 +23,17 @@ pane.
 | Field        | Description                                                                                                                                                                                             |
 | NAME         | Displays name of task.                                                                                                                                                                                  |
 | DESCRIPTION  | Displays a brief description of the task.                                                                                                                                                               |
-| Instructions | Click to open the <span style="font-style: italic;">[Automation Instruction Task Definition](Automation_Instruction_Task_Definition.htm)</span> page to add, edit and delete instructions for the task. |
-| Copy         | Click to open the <span style="font-style: italic;">[Copy: Automation Instruction Task](../Use_Cases/Copy_Automation_Instruction_Task.htm)</span> page to copy task to use as a base for a new task.    |
+| Instructions | Click to open the <span style="font-style: italic;">[Automation Instruction Task Definition](Automation_Instruction_Task_Definition)</span> page to add, edit and delete instructions for the task. |
+| Copy         | Click to open the <span style="font-style: italic;">[Copy: Automation Instruction Task](../Use_Cases/Copy_Automation_Instruction_Task)</span> page to copy task to use as a base for a new task.    |
 | DSP SUPPLIED |                                                                                                                                                                                                         |
 
 ## <span id="Automation_Instruction2"></span>Automation Instruction Task V
 
-[Automation Instruction Task H](Automation_Instruction_Task_H.htm)
+[Automation Instruction Task H](Automation_Instruction_Task_H)
 
 <div class="use">
 
-Use this page to [Create Tasks](../Use_Cases/Create_Tasks.htm).
+Use this page to [Create Tasks](../Use_Cases/Create_Tasks).
 
 </div>
 

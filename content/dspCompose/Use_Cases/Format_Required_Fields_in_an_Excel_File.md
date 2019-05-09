@@ -36,7 +36,7 @@ To set formatting for required columns:
     
     *[View the field descriptions for the Template Role Excel (Required
     Columns)
-    page.](../Page_Desc/Template_Role_Excel_Required_Columns.htm)*
+    page.](../Page_Desc/Template_Role_Excel_Required_Columns)*
 
 7.  Select a color from the **Background Color** list box.
 

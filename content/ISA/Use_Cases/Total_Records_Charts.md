@@ -9,10 +9,10 @@ Hover a cursor over a data point in the corresponding chart, Record
 Trend, to view the number of failed records per day for the period.
 
 Click a bar to drill down to the [Records by Project
-Chart](Records_by_Project_Chart.htm).
+Chart](Records_by_Project_Chart).
 
 <span style="font-weight: bold;">NOTE</span>: Refer to [View ISA
-Dashboards](View_ISA_Dashboards.htm) for general information about
+Dashboards](View_ISA_Dashboards) for general information about
 charts, including the type of data charts display, configuration of
 retention parameters for metrics and historical data, and how record
 counts differ on charts and reports.

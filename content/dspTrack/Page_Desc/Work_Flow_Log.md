@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [View Work Flow Messages
-Sent](../Use_Cases/View_Workflow_Messages_Sent.htm).
+Sent](../Use_Cases/View_Workflow_Messages_Sent).
 
 </div>
 
@@ -52,7 +52,7 @@ Work Flow Log**.
 </tr>
 <tr class="odd">
 <td><p>MESSAGE TYPE ID</p></td>
-<td><p>Displays the type of message the user is set to receive. A user can receive work flow notifications as email only, messages (i.e., notifications from within the platform) or both. Message types are configured for users on the Work Flow User Preference page. Refer to <a href="../Use_Cases/Set_User_Workflow_Receipt_Preferences.htm">Set User WorkFlow Receipt Preferences</a> for more information.</p></td>
+<td><p>Displays the type of message the user is set to receive. A user can receive work flow notifications as email only, messages (i.e., notifications from within the platform) or both. Message types are configured for users on the Work Flow User Preference page. Refer to <a href="../Use_Cases/Set_User_Workflow_Receipt_Preferences">Set User WorkFlow Receipt Preferences</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>WORK FLOW SENT ON</p></td>

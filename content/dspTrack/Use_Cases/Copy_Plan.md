@@ -7,7 +7,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Copy Plans](Copy_Plans.htm).
+Use this page to [Copy Plans](Copy_Plans).
 
 </div>
 

@@ -10,7 +10,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Register Workflow
-Views](../Use_Cases/Create_Custom_Workflow_Messages.htm#Register).
+Views](../Use_Cases/Create_Custom_Workflow_Messages#Register).
 
 </div>
 
@@ -41,7 +41,7 @@ name.
 <div class="use">
 
 Use this page to [Register
-Views](../Use_Cases/Create_Custom_Workflow_Messages.htm#Register)**.**
+Views](../Use_Cases/Create_Custom_Workflow_Messages#Register)**.**
 
 </div>
 

@@ -12,13 +12,13 @@ solution = 'Platform'
 Use this page to:
 
   - [Add a System Type
-    Model](../Use_Cases/Add_a_New_System_Type_Model.htm)
+    Model](../Use_Cases/Add_a_New_System_Type_Model)
   - [Add a System Type Model
-    Table](../Use_Cases/Add_a_New_System_Type_Model_Table.htm).
+    Table](../Use_Cases/Add_a_New_System_Type_Model_Table).
   - [View Fields Required for System Type
-    Tables](../Use_Cases/View%20Fields%20Required%20for%20System%20Type%20Tables.htm)
+    Tables](../Use_Cases/View%20Fields%20Required%20for%20System%20Type%20Tables)
   - [Add a System Type Model
-    Group](../Use_Cases/Add%20a%20System%20Type%20Model%20Group.htm)
+    Group](../Use_Cases/Add%20a%20System%20Type%20Model%20Group)
 
 </div>
 
@@ -33,12 +33,12 @@ the *Navigation* pane.
 </tr>
 <tr class="even">
 <td><p>Model Tables</p></td>
-<td><p>Click to open the <em><a href="System_Types_Model_Tables.htm">System Types Model Tables</a></em> page to add tables to a System Type model table.</p>
+<td><p>Click to open the <em><a href="System_Types_Model_Tables">System Types Model Tables</a></em> page to add tables to a System Type model table.</p>
 <p><strong>NOTE:</strong> These tables must exist in the target System Type data source to allow importing from a model.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Model Groups</p></td>
-<td><p>Click to open the <em><a href="System_Types_Model_Groups.htm">System Types Model Groups</a></em> page to add tables to a System Type model group.</p></td>
+<td><p>Click to open the <em><a href="System_Types_Model_Groups">System Types Model Groups</a></em> page to add tables to a System Type model group.</p></td>
 </tr>
 <tr class="even">
 <td><p>SYSTEM TYPE MODEL</p></td>
@@ -73,19 +73,19 @@ the *Navigation* pane.
 </tr>
 <tr class="odd">
 <td><p>Model Required For Tables</p></td>
-<td><p>Click to open the <em><a href="System_Types_Model_Required_Fields.htm">System Types Model Required Fields</a></em> page to view fields required for the table model view.</p></td>
+<td><p>Click to open the <em><a href="System_Types_Model_Required_Fields">System Types Model Required Fields</a></em> page to view fields required for the table model view.</p></td>
 </tr>
 <tr class="even">
 <td><p>Model Required For Tables Fields</p></td>
-<td><p>Click to open the <em><a href="System_Types_Model_Required_Fields.htm">System Types Model Required Fields</a></em> page to view fields required for the table fields model view.</p></td>
+<td><p>Click to open the <em><a href="System_Types_Model_Required_Fields">System Types Model Required Fields</a></em> page to view fields required for the table fields model view.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Model Required For Table Lookup Fields</p></td>
-<td><p>Click to open the <em><a href="System_Types_Model_Required_Fields.htm">System Types Model Required Fields</a></em> page to view fields required for the lookup table model view.</p></td>
+<td><p>Click to open the <em><a href="System_Types_Model_Required_Fields">System Types Model Required Fields</a></em> page to view fields required for the lookup table model view.</p></td>
 </tr>
 <tr class="even">
 <td><p>Model Required For Table Field Domains</p></td>
-<td><p>Click to open the the <em><a href="System_Types_Model_Required_Fields.htm">System Types Model Required Fields</a></em> page to view fields required for the lookup table value description model view.</p></td>
+<td><p>Click to open the the <em><a href="System_Types_Model_Required_Fields">System Types Model Required Fields</a></em> page to view fields required for the lookup table value description model view.</p></td>
 </tr>
 <tr class="odd">
 <td><p>MODEL VIEW: TABLE JOIN</p></td>
@@ -101,15 +101,15 @@ the *Navigation* pane.
 </tr>
 <tr class="even">
 <td><p>Model Required For Table Joins</p></td>
-<td><p>Click to open the <em><a href="System_Types_Model_Required_Fields.htm">System Types Model Required Fields</a></em> page to view fields required for the table joins model view.</p></td>
+<td><p>Click to open the <em><a href="System_Types_Model_Required_Fields">System Types Model Required Fields</a></em> page to view fields required for the table joins model view.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Model Required For Table Join Fields</p></td>
-<td><p>Click to open the <em><a href="System_Types_Model_Required_Fields.htm">System Types Model Required Fields</a></em> page to view fields required for the table field joins model view.</p></td>
+<td><p>Click to open the <em><a href="System_Types_Model_Required_Fields">System Types Model Required Fields</a></em> page to view fields required for the table field joins model view.</p></td>
 </tr>
 <tr class="even">
 <td><p>Model Required For Descr Table</p></td>
-<td><p>Click to open thethe <em><a href="System_Types_Model_Required_Fields.htm">System Types Model Required Fields</a></em> page to view fields required for the description table model view.</p></td>
+<td><p>Click to open thethe <em><a href="System_Types_Model_Required_Fields">System Types Model Required Fields</a></em> page to view fields required for the description table model view.</p></td>
 </tr>
 </tbody>
 </table>
@@ -121,7 +121,7 @@ the *Navigation* pane.
 <div class="use">
 
 Use this page to [Add a System Type Model
-Table](../Use_Cases/Add_a_New_System_Type_Model_Table.htm).
+Table](../Use_Cases/Add_a_New_System_Type_Model_Table).
 
 </div>
 
@@ -132,19 +132,19 @@ Description
 Model Tables
 
 Click to open the *[System Types Model
-Tables](System_Types_Model_Tables.htm)* page to add tables to a System
+Tables](System_Types_Model_Tables)* page to add tables to a System
 Type model.
 
 Model Groups
 
 Click to open the *[System Types Model
-Groups](System_Types_Model_Groups.htm)* page to add tables to a System
+Groups](System_Types_Model_Groups)* page to add tables to a System
 Type model group.
 
 Build Views
 
 Click to open the *[System Types Model Build
-Views](System_Types_Model_Build_Views.htm)* page to build the views
+Views](System_Types_Model_Build_Views)* page to build the views
 based on the System Type model.
 
 System Type Model

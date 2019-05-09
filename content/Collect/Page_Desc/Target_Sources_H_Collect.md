@@ -12,18 +12,18 @@ solution = 'Platform'
 Use this page to:
 
   - [Register Sources to
-    Target](../Use_Cases/Register_and_Use_Sources.htm#Register_Sources_to_Target)
+    Target](../Use_Cases/Register_and_Use_Sources#Register_Sources_to_Target)
   - [Configure Source for SAP Data
-    Services](../Use_Cases/Register_and_Use_Sources.htm#Configure_Source_for_SAP_Data_Services)
+    Services](../Use_Cases/Register_and_Use_Sources#Configure_Source_for_SAP_Data_Services)
   - [Schedule Source
-    Refresh](../Use_Cases/Refresh_Overview.htm#Schedule_Source_Refresh)
+    Refresh](../Use_Cases/Refresh_Overview#Schedule_Source_Refresh)
   - [Create
     DBMoto<span style="font-size: 11.0pt;line-height: 107%;font-family: Calibri, sans-serif;mso-ascii-theme-font: minor-latin;mso-fareast-font-family: Calibri;mso-fareast-theme-font: minor-latin;mso-hansi-theme-font: minor-latin;mso-bidi-font-family: &#39;Times New Roman&#39;;mso-bidi-theme-font: minor-bidi;mso-ansi-language: EN-US;mso-fareast-language: EN-US;mso-bidi-language: AR-SA;">®</span>
-    Source Connections](../Config/Create_DBMoto_Source_Connections.htm)
+    Source Connections](../Config/Create_DBMoto_Source_Connections)
   - [Download sdb Tables in
-    Collect](../../../Migration/Map/Use_Cases/Download_Tables_Map.htm)
+    Collect](../../../Migration/Map/Use_Cases/Download_Tables_Map)
   - [Download dgSAP Tables in
-    Collect](../../../Migration/Map/Use_Cases/Download_Tables_Map.htm)
+    Collect](../../../Migration/Map/Use_Cases/Download_Tables_Map)
 
 </div>
 
@@ -47,7 +47,7 @@ To access this page:
 <tr class="odd">
 <td><p>Build And Refresh</p></td>
 <td><p>Click to build the package and download the table from the source. If the package name already exists for the table record, the table is refreshed (i.e., data is downloaded from the source database). If the package name does not exist, a package is immediately scheduled to be built and the table is refreshed. The Refresh icon is disabled for DBMotoMirror package type because the refresh is run by DBMoto® instead of Collect.</p>
-<p><strong>NOTE</strong>: If the data in the target source has been purged manually, or the retention expiration date for that object has passed, it cannot be refreshed and this icon is inactive. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance.htm#Purge_Data">Purge Data</a> for more information.</p></td>
+<p><strong>NOTE</strong>: If the data in the target source has been purged manually, or the retention expiration date for that object has passed, it cannot be refreshed and this icon is inactive. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance#Purge_Data">Purge Data</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Import Group Tables</p></td>
@@ -56,13 +56,13 @@ To access this page:
 <tr class="odd">
 <td><p>Build Package</p></td>
 <td><p>Click to build the package that downloads tables from the source.</p>
-<p><strong>NOTE</strong>: If the data in the target source has been purged manually, or the retention expiration date for that object has passed, it cannot be refreshed and this icon is inactive. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance.htm#Purge_Data">Purge Data</a> for more information.</p></td>
+<p><strong>NOTE</strong>: If the data in the target source has been purged manually, or the retention expiration date for that object has passed, it cannot be refreshed and this icon is inactive. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance#Purge_Data">Purge Data</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Refresh</p></td>
 <td><p>Click to download the tables from the source.</p>
 <p><strong>NOTE:</strong> If the Target Source uses an IG Universal Connect data source, clicking Refresh executes the Boomi Process.</p>
-<p><strong>NOTE:</strong> If the data in the Target Source has been purged manually, or the retention expiration date for that object has passed, it cannot be refreshed and this icon is inactive. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance.htm#Purge_Data">Purge Data</a> for more information.</p></td>
+<p><strong>NOTE:</strong> If the data in the Target Source has been purged manually, or the retention expiration date for that object has passed, it cannot be refreshed and this icon is inactive. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance#Purge_Data">Purge Data</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>SOURCE</p></td>
@@ -87,39 +87,39 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Tables</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Tables_H.htm">Tables</a></span> page to add, edit and delete tables for a source.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Tables_H">Tables</a></span> page to add, edit and delete tables for a source.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Schedule Groups</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Target_Source_Group.htm">Target Source Group</a></span> page to build packages, refresh or filter on tables in a group.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Target_Source_Group">Target Source Group</a></span> page to build packages, refresh or filter on tables in a group.</p></td>
 </tr>
 <tr class="even">
 <td><p>Metrics</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Target_Source_Metric_Charts.htm">Target Source Metric Charts</a></span> page to view monthly, weekly and daily download results for target/source combination.       </p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Target_Source_Metric_Charts">Target Source Metric Charts</a></span> page to view monthly, weekly and daily download results for target/source combination.       </p></td>
 </tr>
 </tbody>
 </table>
 
 ## <span id="Target_Sources_V_All_Tabs"></span>Target Sources V (All Tabs)
 
-[Target Sources H](Target_Sources_H_Collect.htm)
+[Target Sources H](Target_Sources_H_Collect)
 
 <div class="use">
 
 Use this page to:
 
   - [Register Sources to
-    Target](../Use_Cases/Register_and_Use_Sources.htm#Register_Sources_to_Target)
+    Target](../Use_Cases/Register_and_Use_Sources#Register_Sources_to_Target)
   - [Configure Source for SAP Data
-    Services](../Use_Cases/Register_and_Use_Sources.htm#Configure_Source_for_SAP_Data_Services)
+    Services](../Use_Cases/Register_and_Use_Sources#Configure_Source_for_SAP_Data_Services)
   - [Schedule Source
-    Refresh](../Use_Cases/Refresh_Overview.htm#Schedule_Source_Refresh)
+    Refresh](../Use_Cases/Refresh_Overview#Schedule_Source_Refresh)
   - [Create DBMoto™ Source
-    Connections](../Config/Create_DBMoto_Source_Connections.htm)
+    Connections](../Config/Create_DBMoto_Source_Connections)
   - [Download sdb Tables in
-    Collect](../../../Migration/Map/Use_Cases/Download_Tables_Map.htm)
+    Collect](../../../Migration/Map/Use_Cases/Download_Tables_Map)
   - [Download dgSAP Tables in
-    Collect](../../../Migration/Map/Use_Cases/Download_Tables_Map.htm)
+    Collect](../../../Migration/Map/Use_Cases/Download_Tables_Map)
 
 </div>
 
@@ -142,13 +142,13 @@ This page contains the following tabs:
 <tr class="even">
 <td><p>Build Package</p></td>
 <td><p>Click to build a package that downloads tables from the source.</p>
-<p><strong>NOTE:</strong> If the data in the Target Source has been purged manually, or the retention expiration date for that object has passed, it cannot be refreshed and this icon is inactive. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance.htm#Purge_Data">Purge Data</a> for more information.</p></td>
+<p><strong>NOTE:</strong> If the data in the Target Source has been purged manually, or the retention expiration date for that object has passed, it cannot be refreshed and this icon is inactive. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance#Purge_Data">Purge Data</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Refresh</p></td>
 <td><p>Click to download the tables from the source.</p>
 <p><strong>NOTE:</strong> If the Target Source uses an IG Universal Connect data source, clicking Refresh executes the Boomi Process.</p>
-<p><strong>NOTE</strong>: If the data in the target source has been purged manually, or the retention expiration date for that object has passed, it cannot be refreshed and this icon is inactive. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance.htm#Purge_Data">Purge Data</a> for more information.</p></td>
+<p><strong>NOTE</strong>: If the data in the target source has been purged manually, or the retention expiration date for that object has passed, it cannot be refreshed and this icon is inactive. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance#Purge_Data">Purge Data</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Source</p></td>
@@ -265,7 +265,7 @@ Displays database connection type when using Data Services.
 Connection Settings
 
 Click to open the <span style="font-style: italic;">[Target Sources -
-DataServices Connection](Target%20Summary.htm)</span> page to edit the
+DataServices Connection](Target%20Summary)</span> page to edit the
 database connection settings for Data Services.
 
 Boomi
@@ -400,7 +400,7 @@ database systems where many tables must be created and downloaded. A
 System Type group is added for each schema with the naming convention of
 \<source\>\_\<schemaowner\>. Refer to [Create System Type Groups from
 the Fetch
-Process](../Use_Cases/Create_Groups_from_the_Fetch_Process.htm).
+Process](../Use_Cases/Create_Groups_from_the_Fetch_Process).
 
 Reset
 
@@ -416,7 +416,7 @@ Click to build System Type groups from existing source tables after the
 source is configured. A System Type group is created with the naming
 convention \<Target\>\_\<Source\> and the schema owner is defaulted to
 dbo for the group. Refer to [Create System Type Groups from Source
-Tables](../Use_Cases/Create_a_System_Type_Group_from_Source_Tables.htm).
+Tables](../Use_Cases/Create_a_System_Type_Group_from_Source_Tables).
 
 Fetch Table Options
 
@@ -435,11 +435,11 @@ Click to activate tables in the fetch table process.
 Use this tab to:
 
   - [Configure Data
-    Protection](../Use_Cases/Support_Regulatory_Compliance.htm#Configure_Data_Protection)
+    Protection](../Use_Cases/Support_Regulatory_Compliance#Configure_Data_Protection)
   - [Update the Retention Expiration
-    Date](../Use_Cases/Support_Regulatory_Compliance.htm#Update_the_Retention_Expiration_Date)
+    Date](../Use_Cases/Support_Regulatory_Compliance#Update_the_Retention_Expiration_Date)
   - [Purge
-    Data](../Use_Cases/Support_Regulatory_Compliance.htm#Purge_Data)
+    Data](../Use_Cases/Support_Regulatory_Compliance#Purge_Data)
 
 </div>
 
@@ -453,7 +453,7 @@ Use this tab to:
 <td><p>Data Controller</p></td>
 <td><p>Displays the user responsible for the processing of personal data in the target source.</p>
 <p>Any user or group who is assigned the Data Controller role must have a user account in the DSP. Data Controller must have access to the target based on their assigned security role and security key.</p>
-<p><strong>NOTE</strong>: The Collect Administrator must check the WORK FLOW SUMMARY check box for the target and Data Controller on the <em><a href="Workflow_Summary_User_Settings.htm">Workflow Summary User Settings</a></em> page. The Data Controller is added to this page automatically. If the check box is not checked, the Data Controller will not receive a warning email that data is going to be purged.</p></td>
+<p><strong>NOTE</strong>: The Collect Administrator must check the WORK FLOW SUMMARY check box for the target and Data Controller on the <em><a href="Workflow_Summary_User_Settings">Workflow Summary User Settings</a></em> page. The Data Controller is added to this page automatically. If the check box is not checked, the Data Controller will not receive a warning email that data is going to be purged.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Data Classification</p></td>
@@ -464,7 +464,7 @@ Use this tab to:
 <li><strong>Public</strong> —This object contains data that does not need to be purged (for example, Units of Measure, Material Descriptions, Country Codes).</li>
 <li><strong>Restricted</strong> — This data does not need to be purged, but is marked as restricted access (for example, Company Chart of Accounts, Recipes, Work Orders).</li>
 </ul>
-<p><strong>NOTE:</strong> These options are delivered with the DSP and cannot be updated; however, a Common Administrator can create custom classifications on the Data Classification page in Common. Refer to <a href="../../Common/Use_Cases/Add%20Custom%20Data%20Classifications%20and%20Information%20Types.htm">Add Custom Data Classifications and Information Types</a> for more information.</p></td>
+<p><strong>NOTE:</strong> These options are delivered with the DSP and cannot be updated; however, a Common Administrator can create custom classifications on the Data Classification page in Common. Refer to <a href="../../Common/Use_Cases/Add%20Custom%20Data%20Classifications%20and%20Information%20Types">Add Custom Data Classifications and Information Types</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Retention Expiration Date</p></td>
@@ -473,7 +473,7 @@ Use this tab to:
 <p>A different retention expiration date can be set at the target and table level.</p>
 <p>If no date is set for the object, the data is not purged.</p>
 <p><strong>NOTE:</strong> Updates to this field are audited. An e-signature is required.</p>
-<p><strong>NOTE:</strong> Once this data has passed, the Refresh and Build and Refresh icons on the <a href="Targets_H_Collect.htm">Targets</a><em>,</em> <a href="Tables_H.htm">Tables</a> and this page are inactive. The table can no longer be refreshed either manually or automatically.</p></td>
+<p><strong>NOTE:</strong> Once this data has passed, the Refresh and Build and Refresh icons on the <a href="Targets_H_Collect">Targets</a><em>,</em> <a href="Tables_H">Tables</a> and this page are inactive. The table can no longer be refreshed either manually or automatically.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Data Collection Reason</p></td>

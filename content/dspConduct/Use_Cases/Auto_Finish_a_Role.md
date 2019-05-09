@@ -7,7 +7,7 @@ solution = 'Master Data Management'
 
 A Designer can configure the Auto Finish Role setting on the
 <span style="font-style: italic;">[Scenario
-(Roles)](../Page_Desc/Scenarios_Roles_H.htm)</span> page’s
+(Roles)](../Page_Desc/Scenarios_Roles_H)</span> page’s
 <span style="font-style: italic;">Vertical</span> View, which allows the
 role to automatically finish if the role passes all validations. Auto
 Finishing a role is useful when a request must pass through a role with
@@ -23,7 +23,7 @@ The setting is available for roles of any role type.
 
 Before performing this task at least one role must have been added to
 the scenario. Refer to [Add a Role to a
-Scenario](Add_a_Role_to_a_Scenario.htm) for more information.
+Scenario](Add_a_Role_to_a_Scenario) for more information.
 
 If the Auto Finish Role setting is enabled for the Post role, and the
 request posts unsuccessfully, the role automatically finishes with a

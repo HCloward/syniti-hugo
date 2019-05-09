@@ -10,7 +10,7 @@ solution = 'Data Quality'
 <div class="use">
 
 Use this page to view data while [Managing Workflow
-Emails](../Use_Cases/Manage_Workflow_Emails.htm).
+Emails](../Use_Cases/Manage_Workflow_Emails).
 
 </div>
 
@@ -42,12 +42,12 @@ icon.
 <div class="use">
 
 Use this page to view data while [Managing Workflow
-Emails](../Use_Cases/Manage_Workflow_Emails.htm) .
+Emails](../Use_Cases/Manage_Workflow_Emails) .
 
 </div>
 
 [Report Workflows
-H](Report_Workflows_H.htm)
+H](Report_Workflows_H)
 
 |                    |                                                                          |
 | ------------------ | ------------------------------------------------------------------------ |

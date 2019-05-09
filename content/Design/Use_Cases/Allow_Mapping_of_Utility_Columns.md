@@ -16,23 +16,23 @@ columns to be mapped if needed.
 
 A Migration Developer can set visibility for append utility columns on
 the <span style="font-style: italic;">[Append Utility
-Columns](../Page_Desc/Append_Utility_Columns.htm)</span> page.
+Columns](../Page_Desc/Append_Utility_Columns)</span> page.
 Visibility determines whether fields display on the
 <span style="font-style: italic;">[Field
-Mappings](../../Map/Page_Desc/Field_Mappings_H.htm)</span> page in Map
+Mappings](../../Map/Page_Desc/Field_Mappings_H)</span> page in Map
 and can be mapped as Source fields, Target fields, or as both Target and
 Source fields. Visibility can also be set to None, indicating that the
 field does not display on the <span style="font-style: italic;">Fields
 Mappings</span> page and is not mapped.
 
 Field visibility can also be defined for Target fields. Refer to [Set
-Field Visibility for Mapping](Set_Field_Visibility_for_Mapping.htm) for
+Field Visibility for Mapping](Set_Field_Visibility_for_Mapping) for
 more information and for general information about the visibility
 setting.
 
 Field defined as Append columns can be appended to all Target or Source
 tables, depending on how the fields are configured. Refer to [Append
-Utility Columns to All Tables](Append_Utility_Columns_to_all_Tables.htm)
+Utility Columns to All Tables](Append_Utility_Columns_to_all_Tables)
 for more information.
 
 <span style="font-weight: bold;">NOTE</span>: If a user deletes an
@@ -52,7 +52,7 @@ To set visibility for appended utility columns in Target Design:
     cannot be edited or deleted.
     
     [View the field descriptions for the Append Utility Columns
-    page](../Page_Desc/Append_Utility_Columns.htm)
+    page](../Page_Desc/Append_Utility_Columns)
 
 3.  Select an option in the
     <span style="font-weight: bold;">VISIBILITY</span> list box.

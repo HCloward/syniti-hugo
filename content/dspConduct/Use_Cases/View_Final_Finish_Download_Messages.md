@@ -8,11 +8,11 @@ solution = 'Master Data Management'
 After the Final Finish process is complete, a Role Processor can view
 the messages returned on
 the[<span style="font-style: italic;text-decoration: underline;">Finish
-Download Messages</span>](Finish_Download_Messages.htm) page. If using a
+Download Messages</span>](Finish_Download_Messages) page. If using a
 Finish Type of DBMoto, messages are not returned.
 
 Refer to [Final Finish Process for a Request
-Overview](Final_Finish_Process_for_a_Request_Overview.htm) for general
+Overview](Final_Finish_Process_for_a_Request_Overview) for general
 information.
 
 To view the messages, either:

@@ -21,14 +21,14 @@ for an Integrate process template. This view must include the PostingID
 found in the ttRequestIntegrateProcess table and the Download table.
 
 Refer to [Register a Status View as an After Post
-Rule](Register_a_Status_View_as_an_After_Post_Rule.htm) for more
+Rule](Register_a_Status_View_as_an_After_Post_Rule) for more
 information.
 
 A stored procedure to gather and pass messages may be required for
 complicated BAPIs that have multiple Download/Output tables. An After
 Post Rule stored procedure only receives the “PostingID” parameter.
 Refer to [Register a Stored Procedure as an After Post
-Rule](Register_a_Stored_Procedure_as_an_After_Post_Rule.htm) for more
+Rule](Register_a_Stored_Procedure_as_an_After_Post_Rule) for more
 information.
 
 The stored procedure can read the RequestID and other required values

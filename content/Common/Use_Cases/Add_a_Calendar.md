@@ -7,7 +7,7 @@ solution = 'Platform'
 
 In dspTrack™, calendars are used to schedule status calculations. Refer
 to [Set Parameters for Schedule Status
-Calculations](../../dspTrack/Use_Cases/Set_Parameters_for_Schedule_Status_Calculation.htm)
+Calculations](../../dspTrack/Use_Cases/Set_Parameters_for_Schedule_Status_Calculation)
 for more information. A calendar named Default is included when
 dspTrack™ is installed. Additional calendars can be added for
 dspTrack™.
@@ -18,7 +18,7 @@ the start of the calendar name.
 
 dspConduct™ uses the dspConduct™ default calendar to perform SLA
 calculations. Refer to [Set up SLA notifications in
-dspConduct™](../../../Master_Data_Mgmt/dspConduct/Config/Set_Up_SLA_Notifications.htm)
+dspConduct™](../../../Master_Data_Mgmt/dspConduct/Config/Set_Up_SLA_Notifications)
 for more information.
 
 To add a calendar:
@@ -29,7 +29,7 @@ To add a calendar:
     Otherwise, click Add.
     
     [View the field descriptions for the Calendar
-    page](../Page_Desc/Calendar.htm)
+    page](../Page_Desc/Calendar)
 
 2.  Enter a unique name for the calendar in the **NAME** field.
 

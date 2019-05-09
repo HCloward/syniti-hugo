@@ -8,7 +8,7 @@ solution = 'Migration'
 The Design Status for a Target indicates where the Target design is in
 the stages of the design process. To set the Design Status, click the
 link in the DESIGN STATUS column for the Target on the
-<span style="font-style: italic;">[Targets](../Page_Desc/Targets_H_Design.htm)</span>
+<span style="font-style: italic;">[Targets](../Page_Desc/Targets_H_Design)</span>
 page.
 
 A Target’s Design Status can be changed. The current Design Status does

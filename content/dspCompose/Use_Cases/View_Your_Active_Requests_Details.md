@@ -16,7 +16,7 @@ is always visible.
 tab displays if the user has security configured to access dspCompose™.
  
 
-Refer to [Set Up Security for dspComose™](../Config/Set_Up_Security.htm)
+Refer to [Set Up Security for dspComose™](../Config/Set_Up_Security)
 for more information.
 
 The number on the tab represents the number of active requests the user

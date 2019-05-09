@@ -16,7 +16,7 @@ To add a zActive field to a Source table:
 
 3.  Click the <span style="font-weight: bold;">Targets</span> icon on
     the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page.
 
 4.  Click the <span style="font-weight: bold;">Sources</span> icon for a
     Target.
@@ -27,7 +27,7 @@ To add a zActive field to a Source table:
 6.  Click **Edit**.
     
     [View the field descriptions for the Target Sources page's Vertical
-    View](../Page_Desc/Target_Sources_H_Map.htm)
+    View](../Page_Desc/Target_Sources_H_Map)
 
 7.  Enter a field name starting with “z” in the **Active Field** field,
     for example, zActive\_MARA.

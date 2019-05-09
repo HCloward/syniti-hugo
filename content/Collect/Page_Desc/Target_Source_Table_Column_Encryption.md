@@ -7,7 +7,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Encrypt Columns](../Use_Cases/Encrypt_Columns.htm).
+Use this page to [Encrypt Columns](../Use_Cases/Encrypt_Columns).
 
 </div>
 
@@ -15,7 +15,7 @@ To access this page:
 
 1.  Create encryption key in <span style="font-weight: bold;">Common \>
     Configuration \> Modules \> Keys</span>. Refer to [Create a Secure
-    Key](../../Common/Use_Cases/Create_a_Secure_Key.htm) for more
+    Key](../../Common/Use_Cases/Create_a_Secure_Key) for more
     information.
 2.  Return to Collect.
 3.  Click <span style="font-weight: bold;">Tables</span> in Navigation

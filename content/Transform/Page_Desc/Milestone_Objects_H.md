@@ -5,18 +5,18 @@ solution = 'Migration'
 
 # Milestone Objects H
 
-[Milestone Objects V](Milestone_Objects_H.htm#Milestone_Objects_V)
+[Milestone Objects V](Milestone_Objects_H#Milestone_Objects_V)
 
 <div class="use">
 
 Use this page to [Create
-Milestones](../Use_Cases/Create_Milestones.htm).
+Milestones](../Use_Cases/Create_Milestones).
 
 </div>
 
 To access this page:
 
-1.  [Access Transform](../Config/Access_Transform.htm).
+1.  [Access Transform](../Config/Access_Transform).
 2.  Select **Tracking \> Milestones** in the *Navigation* pane.
 3.  Click the **Objects** icon for a
 Milestone.
@@ -24,7 +24,7 @@ Milestone.
 |              |                                                                                                                                                                                  |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Field        | Description                                                                                                                                                                      |
-| OBJECT       | Displays the name of the object as created in Console and captured for the milestone selected on the <span style="font-style: italic;">[Milestones](Milestones.htm)</span> page. |
+| OBJECT       | Displays the name of the object as created in Console and captured for the milestone selected on the <span style="font-style: italic;">[Milestones](Milestones)</span> page. |
 | TARGET       | Displays the target table name.                                                                                                                                                  |
 | SOURCE       | Displays the source table name.                                                                                                                                                  |
 | PRIORITY     | Displays the order the object is processed.                                                                                                                                      |
@@ -38,12 +38,12 @@ Milestone.
 ## <span id="Milestone_Objects_V"></span>Milestone Objects V
 
 [Milestone Objects
-H](Milestone_Objects_H.htm)
+H](Milestone_Objects_H)
 
 |                   |                                                                                                                                           |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | Field             | Description                                                                                                                               |
-| Object            | Displays the name of the object as created in Console and captured for the milestone selected on the *[Milestones](Milestones.htm)* page. |
+| Object            | Displays the name of the object as created in Console and captured for the milestone selected on the *[Milestones](Milestones)* page. |
 | Target            | Displays the target table name.                                                                                                           |
 | Source            | Displays the source table name.                                                                                                           |
 | Priority          | Displays the order the object is processed.                                                                                               |

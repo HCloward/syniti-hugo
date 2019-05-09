@@ -15,26 +15,26 @@ and values that are used as inputs to a Boomi Process.
 
 The view that stores these fields and the field mappings can be created
 manually. Refer to [Create a View in SQL
-Server](../Integrate/Use_Cases/Create_a_View_in_SQL_Server.htm) for more
+Server](../Integrate/Use_Cases/Create_a_View_in_SQL_Server) for more
 information.
 
 The view can also be generated automatically. Refer to [Generate
 Database Objects
-Automatically](../Integrate/Use_Cases/Generate_Database_Objects_Automatically.htm)
+Automatically](../Integrate/Use_Cases/Generate_Database_Objects_Automatically)
 for more information.
 
 A Process Template Loop can be configured manually or automatically.
 Refer to [Configure a Process Template Loop for an IG Universal Connect
 Process Template
-Automatically](Configure%20a%20Process%20Template%20Loop%20for%20an%20IG%20Universal%20Connect%20Process%20Template%20Automatically.htm)
+Automatically](Configure%20a%20Process%20Template%20Loop%20for%20an%20IG%20Universal%20Connect%20Process%20Template%20Automatically)
 for more information.
 
 Before performing this task [Add the Template to a
-Process](Add%20the%20Template%20to%20a%20Process%20IGUC.htm).
+Process](Add%20the%20Template%20to%20a%20Process%20IGUC).
 
 Once an IG Universal Connect template has been added to a Process,
 access the [Process Template
-Loop](../Integrate/Page_Desc/Process_Template_Loop.htm) page to view the
+Loop](../Integrate/Page_Desc/Process_Template_Loop) page to view the
 single loop Integrate added automatically to the Process and to edit the
 Process Template Loop. The loop, called Parameters, has two fields to be
 mapped: Name and Value.
@@ -45,7 +45,7 @@ The Value is used whenever this parameter is identified on a posting
 record, unless otherwise indicated by the Where clause used in the
 process post (entered on the
 <span style="font-style: italic;">Vertical</span> View on the [Process
-Post](../Integrate/Page_Desc/Process_Post_H.htm) page).
+Post](../Integrate/Page_Desc/Process_Post_H) page).
 
 In the View created in the data source, either manually or automatically
 generated, add the parameter Name and Values to the Name and Value
@@ -71,7 +71,7 @@ Process Template Loop:
     
     <span style="font-weight: bold;">NOTE</span>: The
     <span style="font-style: italic;">[Process Template
-    Loop](../Integrate/Page_Desc/Process_Template_Loop.htm)</span> page
+    Loop](../Integrate/Page_Desc/Process_Template_Loop)</span> page
     displays one loop that Integrate created automatically with the LOOP
     NAME “Parameter.”  The VIEW NAME and PRIMARY KEY COLUMN NAME fields
     are blank.
@@ -79,7 +79,7 @@ Process Template Loop:
 5.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the Process Template Loop
-    page.](../Integrate/Page_Desc/Process_Template_Loop.htm)
+    page.](../Integrate/Page_Desc/Process_Template_Loop)
 
 6.  Select a name in the <span style="font-weight: bold;">VIEW
     NAME</span> list box.
@@ -98,4 +98,4 @@ Process Template Loop:
 
 Continue with [Configure Field Mappings for an IG Universal Connect
 Process
-Template](Configure%20Field%20Mappings%20for%20an%20IG%20Universal%20Connect%20Template.htm).
+Template](Configure%20Field%20Mappings%20for%20an%20IG%20Universal%20Connect%20Template).

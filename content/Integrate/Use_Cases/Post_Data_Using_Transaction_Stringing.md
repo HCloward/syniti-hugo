@@ -26,7 +26,7 @@ first data source has processed. 
 **NOTE**: Only multiple template processes based on a BDC Script, GUI
 Script or BAPI/RFC template types can use transaction stringing. The
 process must use the synchronous post execution method. Refer to [Create
-a Process](Create_a_Process.htm) for more information.
+a Process](Create_a_Process) for more information.
 
 **NOTE**: Transaction Stringing cannot be configured if the process is
 active.
@@ -35,7 +35,7 @@ active.
 added to run after a template in a multi-template process. These rules
 return data that is used as an input parameter for the next template in
 the process. Refer to [Register After Post Rules to a Process
-Template](Register_After_Post_Rules_to_a_Process_Template_Overview.htm)
+Template](Register_After_Post_Rules_to_a_Process_Template_Overview)
 for more information.
 
 To configure Transaction Stringing:
@@ -46,11 +46,11 @@ To configure Transaction Stringing:
     **NOTE**: These templates must be of the type GUI Script, BDC Script
     or BAPI/RFC. Refer to
     [*<span style="color: #0000ff;font-style: normal;">Record a BDC
-    Script</span>*](Record_a_BDC_Script.htm),
+    Script</span>*](Record_a_BDC_Script),
     [*<span style="color: #0000ff;font-style: normal;">Record a GUI
-    Script</span>*](Record_a_GUI_Script.htm), or
+    Script</span>*](Record_a_GUI_Script), or
     [*<span style="color: #0000ff;font-style: normal;">Configure a BAPI
-    Template</span>*](Configure_a_BAPI_Template.htm) for more
+    Template</span>*](Configure_a_BAPI_Template) for more
     information.
 
 2.  Activate the templates.
@@ -58,11 +58,11 @@ To configure Transaction Stringing:
 3.  Create a process that includes the template that will generate the
     Return Value used during transaction stringing and uses the
     Synchronous Post Execution Method. Refer to [Create a
-    Process](Create_a_Process.htm) for more information.
+    Process](Create_a_Process) for more information.
 
 4.  Add the remaining templates to the process. Refer to
     *<span style="color: #0000ff;font-style: normal;">[Add Templates to
-    a Process](Add_Templates_to_a_Process.htm)</span>* for more
+    a Process](Add_Templates_to_a_Process)</span>* for more
     information.
     
     **NOTE**: Set the priority order of the templates in the order they
@@ -184,7 +184,7 @@ via SAP.
 27. Post the data. If the posting fails, troubleshoot the errors using
     information on the *Messages* page or download the message file on
     the *Message File* page. Refer to [Posting
-    Troubleshooting](Posting_Troubleshooting.htm) for more information.
+    Troubleshooting](Posting_Troubleshooting) for more information.
 
 28. Resubmit the post after correcting any errors. Click **Reset** for
     the process post on the *Process Post* page’s *Vertical* View on the

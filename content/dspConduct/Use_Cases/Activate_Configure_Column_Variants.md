@@ -11,7 +11,7 @@ a column value in a record meets a certain condition.
 
 Before performing this task, the design process must be complete and a
 task must be defined in the Content WebApp. Refer to [dspConduct™ Design
-Process Overview](dspConduct_Design_Process_Overview.htm) for more
+Process Overview](dspConduct_Design_Process_Overview) for more
 information.
 
 In SAP, for each material type on the Material table, only a subset of
@@ -22,11 +22,11 @@ Control Status for the Sales Price column to Hide because raw materials
 are not sold.
 
 Variants are first set up on the *[Task
-Variant](../Page_Desc/Task_Variant.htm)* page. Refer to [Add a Variant
-to a Task](Add_a_Variant_to_a_Task.htm) for more information about
+Variant](../Page_Desc/Task_Variant)* page. Refer to [Add a Variant
+to a Task](Add_a_Variant_to_a_Task) for more information about
 setting up variants for a task. The variants are then activated on the
 *[Scenario Role Task
-Variant](../Page_Desc/Scenario_Role_Task_Variant.htm)* page. Once
+Variant](../Page_Desc/Scenario_Role_Task_Variant)* page. Once
 active, the column settings for Control Status and Required can be
 configured for the particular scenario \> role \> task combination.
 
@@ -36,7 +36,7 @@ dspConduct™:
 1.  Select **dspConduct \> Design** in the *Navigation* pane.
 
 2.  Click the **Scenarios** icon for a category on the
-    *[Category](../Page_Desc/Category_H.htm)* page.
+    *[Category](../Page_Desc/Category_H)* page.
 
 3.  Click the **Roles** icon.
 
@@ -46,7 +46,7 @@ dspConduct™:
     task display on the Scenario Role Task Column page.
     
     [View the field descriptions for the Scenario Role Task Variants
-    page.](../Page_Desc/Scenario_Role_Task_Variant.htm)
+    page.](../Page_Desc/Scenario_Role_Task_Variant)
 
 6.  Select one or more variants, and then click the Activate icon to
     enable the **ACTIVE** check box.
@@ -54,11 +54,11 @@ dspConduct™:
     **NOTE:** A variant is only applied to the parent page columns, not
     child level page columns associated with the parent page.
 
-7.  On the [Scenario Role Task](../Page_Desc/Scenario_Role_Task_H.htm)
+7.  On the [Scenario Role Task](../Page_Desc/Scenario_Role_Task_H)
     page (parent pane), click the **Columns** icon.
     
     [View the field descriptions for the Scenario Role Task Column
-    page.](../Page_Desc/Scenario_Role_Task_Column_H.htm)
+    page.](../Page_Desc/Scenario_Role_Task_Column_H)
 
 To update the default column status value for one or more columns,
 select the columns, and then click the **Enable Selected Columns**,

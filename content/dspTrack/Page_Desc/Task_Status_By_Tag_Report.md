@@ -6,7 +6,7 @@ solution = 'Platform'
 # Task Status By Tag
 
 Use this page while [Viewing Reports in
-dspTrack™](../Use_Cases/View_Reports_in_dspTrack.htm).
+dspTrack™](../Use_Cases/View_Reports_in_dspTrack).
 
 To access this page:
 

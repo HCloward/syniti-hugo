@@ -7,7 +7,7 @@ solution = 'Platform'
 
 This page displays data sources registered in System Administration that
 are not added to the *[Ignore Data
-Sources](../Use_Cases/Ignore_Data_Sources.htm)* page and to which the
+Sources](../Use_Cases/Ignore_Data_Sources)* page and to which the
 logged in user has security to view.
 
 To access this page, select <span style="font-weight: bold;">Common \>

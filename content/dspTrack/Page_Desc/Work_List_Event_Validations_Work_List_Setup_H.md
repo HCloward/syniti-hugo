@@ -11,7 +11,7 @@ V](#Work_List_Event_Validations_-_Work_List_Setup_V)
 <div class="use">
 
 Use this page to [Register Work List Event Validations for Work List
-Items](../Use_Cases/Register_WorkList_Event_Valid_WorkList_Item.htm).
+Items](../Use_Cases/Register_WorkList_Event_Valid_WorkList_Item).
 
 </div>
 
@@ -70,7 +70,7 @@ To access this page:
 <div class="use">
 
 Use this page to [Register Work List Event Validations for Work List
-Items](../Use_Cases/Register_WorkList_Event_Valid_WorkList_Item.htm).
+Items](../Use_Cases/Register_WorkList_Event_Valid_WorkList_Item).
 
 </div>
 

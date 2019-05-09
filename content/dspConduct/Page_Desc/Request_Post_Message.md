@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page while [posting a
-request](../Use_Cases/Post_a_Request.htm#Post_a_Request).
+request](../Use_Cases/Post_a_Request#Post_a_Request).
 
 </div>
 
@@ -23,7 +23,7 @@ To access this page:
 4.  Click the <span style="font-weight: bold;">TASK ID</span>.
 5.  Click the <span style="font-weight: bold;">Messages</span> icon on
     the <span style="font-style: italic;">[Request Post
-    Process](Request_Post_Process.htm)</span> page.
+    Process](Request_Post_Process)</span> page.
 
 <table>
 <tbody>
@@ -65,7 +65,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>POSTED BY</p></td>
-<td><p>Displays the name of the user who posted the record by clicking the Post icon on the <span style="font-style: italic;"><a href="Request_Post_Process.htm">Request Post Process</a></span> page, or the Group Post icon on the<span style="font-style: italic;"> <a href="Request_Group_Post.htm">Request Group Post</a></span> page.</p></td>
+<td><p>Displays the name of the user who posted the record by clicking the Post icon on the <span style="font-style: italic;"><a href="Request_Post_Process">Request Post Process</a></span> page, or the Group Post icon on the<span style="font-style: italic;"> <a href="Request_Group_Post">Request Group Post</a></span> page.</p></td>
 </tr>
 <tr class="odd">
 <td><p>POSTED ON</p></td>
@@ -74,7 +74,7 @@ To access this page:
 <tr class="even">
 <td><p>RETURN VALUE1</p></td>
 <td><p>Displays a value returned from the target system to be used in transaction stringing.</p>
-<p>Refer to <a href="../../../Platform/Integrate/Use_Cases/Post_Data_Using_Transaction_Stringing.htm">Post Data Using Transaction Stringing</a> for more information.</p></td>
+<p>Refer to <a href="../../../Platform/Integrate/Use_Cases/Post_Data_Using_Transaction_Stringing">Post Data Using Transaction Stringing</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>RETURN VALUE2</p></td>

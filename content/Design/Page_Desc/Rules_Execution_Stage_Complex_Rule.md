@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [View Rules Assigned to an Execution
-Stage](../Use_Cases/Complex_Rules.htm#View_Rules_Assigned_to_an_Exec).
+Stage](../Use_Cases/Complex_Rules#View_Rules_Assigned_to_an_Exec).
 
 </div>
 
@@ -37,7 +37,7 @@ To access this page:
 <tr class="odd">
 <td><p>TARGET COMPLEX FIELD RULE ID</p></td>
 <td><p>Displays the rule assigned to the execution stage for the Target field. The Execution stage allows Complex rules to be grouped for different execution levels.</p>
-<p>Refer to <a href="../Use_Cases/Complex_Rules.htm#Assign_the_Rule_to_a_Field">Assign the Rule to a Field and Execution Stage</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Complex_Rules#Assign_the_Rule_to_a_Field">Assign the Rule to a Field and Execution Stage</a> for more information.</p></td>
 </tr>
 </tbody>
 </table>

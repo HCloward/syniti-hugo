@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Register Tables and Columns to be
-Audited](../Use_Cases/Review_Request_Changes.htm#Register_Tables_and_Columns_to_be_Audited).
+Audited](../Use_Cases/Review_Request_Changes#Register_Tables_and_Columns_to_be_Audited).
 
 </div>
 
@@ -53,11 +53,11 @@ To access this page:
 <tr class="even">
 <td><p>ENABLED</p></td>
 <td><p>If enabled, auditing is turned on for the table. If disabled, the table data is not audited.</p>
-<p><strong>NOTE:</strong> If auditing is disabled for a table, it is also disabled for all columns in the table, and no columns display on the <a href="Audit_Table_Column_Registration.htm">Audit Table Column Registration</a> page. Additionally, changes associated with the table do not display to the Review role when reviewing changes on the Review Role Audit Details page.</p></td>
+<p><strong>NOTE:</strong> If auditing is disabled for a table, it is also disabled for all columns in the table, and no columns display on the <a href="Audit_Table_Column_Registration">Audit Table Column Registration</a> page. Additionally, changes associated with the table do not display to the Review role when reviewing changes on the Review Role Audit Details page.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Columns</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Audit_Table_Registration.htm">Audit Table Column Registration</a></span> page to include or exclude columns from auditing.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Audit_Table_Registration">Audit Table Column Registration</a></span> page to include or exclude columns from auditing.</p></td>
 </tr>
 </tbody>
 </table>

@@ -12,11 +12,11 @@ external role contact for the template.
 <span style="font-weight: bold;">NOTE:</span> If the sender is an
 external user who is not registered in the platform, that email must be
 added to the platform. Refer to [Add Email Addresses for External
-Users](../Config/Add_Email_Addresses_for_External_Users.htm) for more
+Users](../Config/Add_Email_Addresses_for_External_Users) for more
 information.
 
 Refer to [Use External Data Roles in Request
-Processing](Use_External_Data_Roles_in_Request_Processing.htm) for more
+Processing](Use_External_Data_Roles_in_Request_Processing) for more
 information about assigning an External Data role to a template.
 
 To set the external role contacts for the template:
@@ -40,7 +40,7 @@ To set the external role contacts for the template:
     
     *[View the field descriptions for the Template (External Request
     Scenario External Role)
-    page.](../Page_Desc/Template_External_Request_Sceanario_External_Role.htm)*
+    page.](../Page_Desc/Template_External_Request_Sceanario_External_Role)*
     
     **NOTE**: **EXTERNAL ROLE ID** is the ID for the External Data role.
 
@@ -61,5 +61,5 @@ To set the external role contacts for the template:
 
 Refer to [Set the Current User as the External Role Contact for an
 External Request
-Scenario](Set_the_Current_User_as_the_External_Role_Contact.htm) for
+Scenario](Set_the_Current_User_as_the_External_Role_Contact) for
 more information.

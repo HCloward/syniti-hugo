@@ -10,18 +10,18 @@ In the Mapping Approval process:
 1.  A Mapper configures a mapping in Map,
     <span style="text-indent: -.25in;">saves the mapping, and then
     clicks Submit on the Page toolbar of the *[Field
-    Mappings](../Page_Desc/Field_Mappings_H.htm)* page.</span>
+    Mappings](../Page_Desc/Field_Mappings_H)* page.</span>
 2.  The Developer clicks the green tab on the Quick Panel to open the
-    *[*Mapping Approval*](../Page_Desc/Mapping_Approval_H.htm)* page to
+    *[*Mapping Approval*](../Page_Desc/Mapping_Approval_H)* page to
     view mappings waiting for approval.
 3.  The Developer reviews the mapping and either approves or rejects it.
 
 When a mapping is approved or rejected, Mapping Status and Rule Status
 are updated. Refer to [Mapping Status and Rule
-Status](Mapping_Status_and_Rule_Status.htm) for more information.
+Status](Mapping_Status_and_Rule_Status) for more information.
 
 **NOTE**: A mapping can also be rejected in SQL AutoGen. Refer to
-[Reject a Mapping](../../SQL_AutoGen/Use_Cases/Reject_a_Mapping.htm) for
+[Reject a Mapping](../../SQL_AutoGen/Use_Cases/Reject_a_Mapping) for
 more information.
 
 Every field mapping must be approved by a Developer on the *Mapping
@@ -53,7 +53,7 @@ and Target Design access (PowerUser Group)
 To view mappings on the *Mapping Approval* page, a Developer must be
 assigned to the Target or Source in Target Design. Refer to [Assign
 Developers to a Target or
-Source](../../Design/Use_Cases/Add_Developers_and%20Business%20Contacts.htm)
+Source](../../Design/Use_Cases/Add_Developers_and%20Business%20Contacts)
 for more information.
 
 This section contains the following topics:
@@ -71,7 +71,7 @@ to a Word or Excel file.
 
 A Developer can select how to receive notifications when mappings are
 ready for review. Refer to [Set Message Types for Mapping
-Review](../../Console/Use_Cases/Set_Message_Types_for_Mapping_Review.htm)
+Review](../../Console/Use_Cases/Set_Message_Types_for_Mapping_Review)
 for more information.
 
 To download mappings:
@@ -81,9 +81,9 @@ To download mappings:
 2.  Click the **Download List** icon in the Page toolbar.
     
     **NOTE**: The *[Mapping Approval Download
-    List](../Page_Desc/Mapping_Approvals_Download_List.htm)* page
+    List](../Page_Desc/Mapping_Approvals_Download_List)* page
     displays behind the *[Mapping
-    Approval](../Page_Desc/Mapping_Approval_H.htm)* page and, depending
+    Approval](../Page_Desc/Mapping_Approval_H)* page and, depending
     on how the user’s view is configured, may be obstructed by
     the  *Mapping Approval* page itself.  In this case, to view the
     *Mapping Approval Download List* page, either close the *Mapping
@@ -115,7 +115,7 @@ Approve.
 for the group.  Refer to [Approve or Reject Multiple
 Mappings](#Approve_or_Reject_Multiple_Mappings) for more information.
 
-**NOTE:** If the *[Field Mappings](../Page_Desc/Field_Mappings_H.htm)*
+**NOTE:** If the *[Field Mappings](../Page_Desc/Field_Mappings_H)*
 page is open in Map when a mapping is approved, refresh the *Field
 Mappings* page manually to see the update.
 
@@ -129,7 +129,7 @@ To reject the mapping, the Developer:
 
 1.  Clicks **Edit** for the mapping on the
     <span style="font-style: italic;">[Mapping
-    Approval](../Page_Desc/Mapping_Approval_H.htm)</span> page.
+    Approval](../Page_Desc/Mapping_Approval_H)</span> page.
 
 2.  Enters a comment with the rejection reason for the mapping in the
     **Comment** field.
@@ -151,7 +151,7 @@ for the group. Refer to [Approve or Reject Multiple
 Mappings](#Approve_or_Reject_Multiple_Mappings) for more information.
 
 **NOTE:** Back in Map, the RULE STATUS for the mapping on the *[Field
-Mappings](../Page_Desc/Field_Mappings_H.htm)* page is changed to
+Mappings](../Page_Desc/Field_Mappings_H)* page is changed to
 Revision Requested and the MAPPING STATUS is changed from Complete to
 Design Required. The comment added by the Developer on the *Mapping
 Approval* page displays in Map on the *Field Mappings* page’s *Vertical*
@@ -176,7 +176,7 @@ following steps are completed in Map:
     **NOTE:** If the original mapping action created a rule in
     Transform, what happens to that rule when it is reset in Map is
     determined by a parameter set in Console on the Map tab of the
-    *[Parameters](../../Console/Page_Desc/Parameters.htm)* page. In the
+    *[Parameters](../../Console/Page_Desc/Parameters)* page. In the
     Reset Transform Rule list box, the following options are available:
     
       - **Deactivate Transform Rule** – The status of the rule Map
@@ -212,7 +212,7 @@ again.
 ## <span id="Approve_or_Reject_Multiple_Mappings"></span>Approve or Reject Multiple Mappings
 
 A Developer can select multiple mappings and approve or reject them as a
-group on the *[Mapping Approval](../Page_Desc/Mapping_Approval_H.htm)*
+group on the *[Mapping Approval](../Page_Desc/Mapping_Approval_H)*
 page.
 
 To approve multiple mappings in Map:
@@ -229,7 +229,7 @@ To approve multiple mappings in Map:
 3.  Click **Approve**.
     
     **NOTE:** If the *[Field
-    Mappings](../Page_Desc/Field_Mappings_H.htm)* page is open in Map
+    Mappings](../Page_Desc/Field_Mappings_H)* page is open in Map
     when multiple mappings are approved, refresh the *Field Mappings*
     page manually to see the update.
 

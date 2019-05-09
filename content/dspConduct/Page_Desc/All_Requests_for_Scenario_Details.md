@@ -6,7 +6,7 @@ solution = 'Master Data Management'
 # All Requests for Scenario Details
 
 Use this page to view details for the [All Requests for
-Scenario](All_Requests_for_Scenario.htm) chart.
+Scenario](All_Requests_for_Scenario) chart.
 
 To access this page in dspConduct™:
 

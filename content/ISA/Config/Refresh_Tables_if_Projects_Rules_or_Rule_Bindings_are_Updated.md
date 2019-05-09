@@ -15,4 +15,4 @@ ISA
 
 **NOTE:** The refresh may take a few minutes. Once the refresh is
 complete, the new projects display in ISA on the *[Project
-Summary](../Page_Desc/Project_Summary_H.htm)* page.
+Summary](../Page_Desc/Project_Summary_H)* page.

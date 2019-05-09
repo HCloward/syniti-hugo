@@ -10,21 +10,21 @@ solution = 'Platform'
 Use this page to:
 
   - [Configure a Process Template Loop for a BDC Script Template with a
-    Single Loop](../Use_Cases/ConfigureProcTempLpBDCSingLp.htm)
+    Single Loop](../Use_Cases/ConfigureProcTempLpBDCSingLp)
   - [Configure Process Template Loops for a BDC Script Template with
-    Looping Enabled](../Use_Cases/ConfigureProcTempLoopsBDCLoopEn.htm)
+    Looping Enabled](../Use_Cases/ConfigureProcTempLoopsBDCLoopEn)
   - [Configure a Process Template Loop for a GUI Script Template with a
-    Single Loop](../Use_Cases/ConfigProcTmpLpGUISingLp.htm)
+    Single Loop](../Use_Cases/ConfigProcTmpLpGUISingLp)
   - [Configure Process Template Loops for a GUI Script Template with
-    Looping Enabled](../Use_Cases/ConfigureProcTemplLoopsGUILoopgEn.htm)
+    Looping Enabled](../Use_Cases/ConfigureProcTemplLoopsGUILoopgEn)
   - [Configure Process Template Loops for a BAPI
-    Template](../Use_Cases/ConfigureProcessTemplateLoopsBAPI.htm)
+    Template](../Use_Cases/ConfigureProcessTemplateLoopsBAPI)
   - [Configure Process Template Loops for an RFC
-    Template](../Use_Cases/ConfigureProcess_emplate_LoopsRFC.htm)
+    Template](../Use_Cases/ConfigureProcess_emplate_LoopsRFC)
   - [Configure Process Template Loops for an XML
-    Template](../Use_Cases/ConfigureProcessTemplateLoopsXML.htm)
+    Template](../Use_Cases/ConfigureProcessTemplateLoopsXML)
   - [Configure Process Template Loops for a Delimited or User Defined
-    Template](../Use_Cases/ConfigureProcessTemplateLoopsDelimited.htm)
+    Template](../Use_Cases/ConfigureProcessTemplateLoopsDelimited)
 
 </div>
 

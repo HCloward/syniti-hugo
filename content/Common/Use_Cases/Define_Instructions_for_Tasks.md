@@ -22,7 +22,7 @@ pane.
 
 [View the field descriptions for the Automation Instruction Task
 Definition
-page](../Page_Desc/Automation_Instruction_Task_Definition.htm)
+page](../Page_Desc/Automation_Instruction_Task_Definition)
 
 4\.<span style="font: 7.0pt &#39;Times New Roman&#39;;">   </span> Enter
 an execution order of instruction in **PRIORITY**

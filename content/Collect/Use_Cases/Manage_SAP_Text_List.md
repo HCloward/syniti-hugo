@@ -19,7 +19,7 @@ To create custom downloads:
 2.  Click **Add**.
     
     [View the field descriptions for the SAP Text List
-    page](../Page_Desc/SAP_Text_List_H.htm)
+    page](../Page_Desc/SAP_Text_List_H)
 
 3.  Enter SAP Text table name in **TABLE** field.
 
@@ -42,7 +42,7 @@ To create custom downloads:
 10. Click **Edit**.
     
     [View the field descriptions for the SAP Text List page's Vertical
-    View](../Page_Desc/SAP_Text_List_H.htm)
+    View](../Page_Desc/SAP_Text_List_H)
 
 11. Enter SQL used to build the custom table in **Build SQL Command**
     field.
@@ -53,4 +53,4 @@ To create custom downloads:
 13. Click **Save**.
 
 14. Add table to the Target Source. Refer to the [Register Tables to
-    Source](Register_Tables_to_Source.htm) section for more information.
+    Source](Register_Tables_to_Source) section for more information.

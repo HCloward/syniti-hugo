@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use" data-xmlns="">
 
 Use this page to [View the Source Tables and Fields Mapped to a Lookup
-Table](../Use_Cases/View_the_Source_Tables_and_Fields_Mapped_to_a_Lookup_Table.htm).
+Table](../Use_Cases/View_the_Source_Tables_and_Fields_Mapped_to_a_Lookup_Table).
 
 </div>
 

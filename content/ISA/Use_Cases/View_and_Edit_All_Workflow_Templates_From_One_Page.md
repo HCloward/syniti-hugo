@@ -11,7 +11,7 @@ To edit a template:
 2.  Click **Edit**.
     
     *[View the field descriptions for the Workflow Template Detail
-    page.](../Page_Desc/Workflow_Template_Detail.htm)*
+    page.](../Page_Desc/Workflow_Template_Detail)*
 
 3.  Update the text that will appear in the subject of the email as
     needed in the **SUBJECT** field.

@@ -48,7 +48,7 @@ To copy a tag:
 6.  Click **Edit**.
     
     [View the field descriptions for the Copy Tag Tasks
-    page](../Page_Desc/Copy_Tag.htm)
+    page](../Page_Desc/Copy_Tag)
 
 7.  Enter a suffix in the **Task Copy Suffix** field if the names of all
     copied tasks should have a suffix.

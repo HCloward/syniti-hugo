@@ -28,7 +28,7 @@ Designer roles in System Administration and the Administrator role in
 the Content WebApp assigned to that category.
 
 Before performing these steps, [Set Up a Category from IGC™ in
-dspConduct™](Set_Up_a_Category_from_IGC_in_dspConduct.htm) if needed.
+dspConduct™](Set_Up_a_Category_from_IGC_in_dspConduct) if needed.
 
 **NOTE:** When a Post role is imported into dspConduct™, if the role has
 no IGC™ tasks assigned to it one dspConduct™ generic Post task is
@@ -41,7 +41,7 @@ reflect these mappings. If an IGC™ task is mapped to a new dspConduct™
 task, the Task page is updated.
 
 **NOTE:** To view the roles to which the selected IGC™ task is assigned,
-click the Roles button on the *[IGC Task](../Page_Desc/IGC_Task.htm)*
+click the Roles button on the *[IGC Task](../Page_Desc/IGC_Task)*
 page. From there, after a task is assigned to the role, click the Where
 Used icon to view the scenarios and business processes that use the role
 task.
@@ -67,7 +67,7 @@ To map an IGC™ task to an existing dspConduct™ task:
 4.  Select the name of the dspConduct™ task in the **TASK ID** list box.
     
     **NOTE:** The list box displays tasks of the same task type as the
-    IGC™ task selected on the [IGC Task](../Page_Desc/IGC_Task.htm)
+    IGC™ task selected on the [IGC Task](../Page_Desc/IGC_Task)
     page. If the IGC™ task is a Post type task, the delivered tasks
     Request Post and Request Post Workflow Notification are also
     available.
@@ -80,7 +80,7 @@ displays and the PUBLISHED field is unchecked. Click the log link in the
 error message for more information.
 
 Continue with [Update Custom Attributes for Governance
-Elements](Update_Custom_Attributes_for_Governance_Elements.htm), if
+Elements](Update_Custom_Attributes_for_Governance_Elements), if
 needed.
 
 ## <span id="Map_an_IGC_Task_to_a_New_Task_Based_on_an_Existing_Page_in_the_Content_WebApp"></span>Map an IGC™ Task to a New Task Based on an Existing Page in the Content WebApp
@@ -118,7 +118,7 @@ Content WebApp:
 9.  Click **Edit**.
     
     *[View the field descriptions for the Assign IGC Task to Existing
-    Page page](../Page_Desc/Assign_IGC_Task_to_Existing_Page.htm)*
+    Page page](../Page_Desc/Assign_IGC_Task_to_Existing_Page)*
 
 10. Select the page from the **EXISTING PAGE** list box.
     
@@ -136,10 +136,10 @@ Content WebApp:
     toolbar.
 
 After a task has a page assigned, it displays on the
-*[Task](../Page_Desc/Task_H.htm)* page.
+*[Task](../Page_Desc/Task_H)* page.
 
 Continue with [Update Custom Attributes for Governance
-Elements](Update_Custom_Attributes_for_Governance_Elements.htm), if
+Elements](Update_Custom_Attributes_for_Governance_Elements), if
 needed.
 
 ## <span id="Map_an_IGC_Task_to_a_New_Task_Based_on_a_New_Page_in_the_Content_WebApp"></span>Map an IGC™ Task to a New Task Based on a New Page in the Content WebApp
@@ -173,7 +173,7 @@ WebApp:
 8.  Click the **Create Page** icon.
     
     **NOTE:** The
-    *[Pages](../../../Platform/Sys_Admin/Page_Desc/Pages_H.htm)* page in
+    *[Pages](../../../Platform/Sys_Admin/Page_Desc/Pages_H)* page in
     System Administration displays with the name of the IGC™ task in the
     DESCRIPTION field.
 
@@ -188,7 +188,7 @@ WebApp:
 11. Select the table underlying the page in **TABLE** list box.
     
     **NOTE:** Design the page as needed. Refer to [DSP® Application
-    Development](../../../Platform/WebApp_Dev/Overview_of_DSP_Application_Development.htm)
+    Development](../../../Platform/WebApp_Dev/Overview_of_DSP_Application_Development)
     for more information.
 
 12. Click the **Use Existing Page** icon once the page has been saved.
@@ -203,8 +203,8 @@ WebApp:
 15. Click the **Link Cloud Task to Page** icon in the Page toolbar.
 
 After a task has a page assigned, it displays on the
-*[Task](../Page_Desc/Task_H.htm)* page.
+*[Task](../Page_Desc/Task_H)* page.
 
 Continue with [Update Custom Attributes for Governance
-Elements](Update_Custom_Attributes_for_Governance_Elements.htm), if
+Elements](Update_Custom_Attributes_for_Governance_Elements), if
 needed.

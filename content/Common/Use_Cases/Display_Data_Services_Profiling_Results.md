@@ -37,9 +37,9 @@ Administrator):
   - Perform the profiling actions in Data Services
   - Run the collect process via a build and refresh option (Refer to
     [Build Package
-    Overview](../../Collect/Use_Cases/Build_Package_Overview.htm) and
+    Overview](../../Collect/Use_Cases/Build_Package_Overview) and
     [Build Package for
-    Source](../../Collect/Use_Cases/Register_and_Use_Sources.htm#Build_Package_for_Source)
+    Source](../../Collect/Use_Cases/Register_and_Use_Sources#Build_Package_for_Source)
     in Collect for detailed information).
 
  
@@ -47,12 +47,12 @@ Administrator):
 To display and view the Data Service Profiling Results:
 
 1.  [Import the Data Services Profiling Results into the
-    DSP](../../Sys_Admin/Use_Cases/Import_the_Data_Services_Profiling_Results_into_the_DSP.htm)
+    DSP](../../Sys_Admin/Use_Cases/Import_the_Data_Services_Profiling_Results_into_the_DSP)
     (performed by an Administrator)
 2.  [Register the Target and Target
-    Source](../../Collect/Use_Cases/Data_Services_Profiling_Results_Setup.htm#Register_the_Target_and_Target_Source)
+    Source](../../Collect/Use_Cases/Data_Services_Profiling_Results_Setup#Register_the_Target_and_Target_Source)
 3.  [Add Tables to the Target and Target
-    Source](../../Collect/Use_Cases/Data_Services_Profiling_Results_Setup.htm#Add_Tables_to_the_Target_and_Target_Source)
+    Source](../../Collect/Use_Cases/Data_Services_Profiling_Results_Setup#Add_Tables_to_the_Target_and_Target_Source)
 4.  [Schedule the Target to
-    Download](../../Collect/Use_Cases/Data_Services_Profiling_Results_Setup.htm#Schedule_the_Target_to_Download)
-5.  [View the Profiling Results](View_the_Profiling_Results.htm)
+    Download](../../Collect/Use_Cases/Data_Services_Profiling_Results_Setup#Schedule_the_Target_to_Download)
+5.  [View the Profiling Results](View_the_Profiling_Results)

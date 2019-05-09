@@ -15,7 +15,7 @@ the key values are concatenated.
 
 Refer to [Configure Data Download During the Final Finish Process to use
 a CranPort
-Package](Configure_Data_Download_During_the_Final_Finish_Process_to_use_a_CranPort_Package.htm)
+Package](Configure_Data_Download_During_the_Final_Finish_Process_to_use_a_CranPort_Package)
 for general information.
 
 To build a Where clause for the CranPort package used to download the

@@ -14,7 +14,7 @@ that the user’s security access is set to expire on a future date.
 provided, then the user’s access will not expire.
 
 Before this task is performed, the <span> [a user must be
-created](Create_a_User.htm)</span>.
+created](Create_a_User)</span>.
 
 To assign an expiration date to a user:
 
@@ -26,7 +26,7 @@ To assign an expiration date to a user:
 3.  Click **Edit**.
     
     [View the field descriptions for the User Management
-    page](../Page_Desc/User_Management_H.htm)
+    page](../Page_Desc/User_Management_H)
 
 4.  Click the date picker or enter a future date in the **Expiration
     Date** field.

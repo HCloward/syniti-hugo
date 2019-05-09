@@ -11,10 +11,10 @@ solution = 'Platform'
 
 Use this page to:
 
-  - [Copy Files](../Use_Cases/Copy_Files.htm)
-  - [Move Files](../Use_Cases/Move_Files.htm)
-  - [Copy Folders](../Use_Cases/Copy_Folders.htm)
-  - [Delete Files](../Use_Cases/Delete_Files.htm)
+  - [Copy Files](../Use_Cases/Copy_Files)
+  - [Move Files](../Use_Cases/Move_Files)
+  - [Copy Folders](../Use_Cases/Copy_Folders)
+  - [Delete Files](../Use_Cases/Delete_Files)
 
 </div>
 
@@ -34,16 +34,16 @@ pane.
 ## <span id="Toolkit_File_Folder1"></span>Toolkit: File/Folder Operations V
 
 [Toolkit: File/Folder Operations
-H](Toolkit_File_Folder_Operations_H.htm)
+H](Toolkit_File_Folder_Operations_H)
 
 <div class="use">
 
 Use this page to:
 
-  - [Copy Files](../Use_Cases/Copy_Files.htm)
-  - [Move Files](../Use_Cases/Move_Files.htm)
-  - [Copy Folders](../Use_Cases/Copy_Folders.htm)
-  - [Delete Files](../Use_Cases/Delete_Files.htm)
+  - [Copy Files](../Use_Cases/Copy_Files)
+  - [Move Files](../Use_Cases/Move_Files)
+  - [Copy Folders](../Use_Cases/Copy_Folders)
+  - [Delete Files](../Use_Cases/Delete_Files)
 
 </div>
 

@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Add Custom Requirement
-Settings](../Config/Add_Custom_Requirement_Settings.htm).
+Settings](../Config/Add_Custom_Requirement_Settings).
 
 </div>
 
@@ -38,7 +38,7 @@ To access this page:
 <li><strong>Optional</strong> – Not required</li>
 </ul>
 <p>Custom Requirement settings can be added and edited.</p>
-<p>This value displays on the <span style="font-style: italic;"><a href="Target_Fields_H_Target_Design.htm">Target Fields</a></span> page in the REQUIRED list box.</p></td>
+<p>This value displays on the <span style="font-style: italic;"><a href="Target_Fields_H_Target_Design">Target Fields</a></span> page in the REQUIRED list box.</p></td>
 </tr>
 <tr class="odd">
 <td><p>DESCRIPTION</p></td>
@@ -50,7 +50,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>ACTIVE</p></td>
-<td><p>If checked, the Requirement setting is active and can be selected in the REQUIRED list box on the <span style="font-style: italic;"><a href="Target_Fields_H_Target_Design.htm">Target Fields</a></span> page and used on reports.</p>
+<td><p>If checked, the Requirement setting is active and can be selected in the REQUIRED list box on the <span style="font-style: italic;"><a href="Target_Fields_H_Target_Design">Target Fields</a></span> page and used on reports.</p>
 <p>This check box is enabled and cannot be disabled for Requirement settings installed with the platform.</p>
 <p>If unchecked, the custom Requirement setting does not display in the REQUIRED list box on the <span style="font-style: italic;">Target Fields</span> page.</p></td>
 </tr>

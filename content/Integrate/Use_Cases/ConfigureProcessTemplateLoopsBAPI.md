@@ -18,7 +18,7 @@ required for BAPI templates. 
 return values to other templates assigned to a process. Refer to
 [*<span style="color: #0000ff;font-style: normal;">Post Data Using
 Transaction
-Stringing</span>*](Post_Data_Using_Transaction_Stringing.htm) for more
+Stringing</span>*](Post_Data_Using_Transaction_Stringing) for more
 information.
 
 Once the BAPI template has been created and added to a process, the
@@ -48,13 +48,13 @@ upload loop and Download Table for download loops where data should be
 read from/written to respectively
 
 **NOTE**: Refer to [View and Configure Field Mappings for a Process
-based on a BAPI](ViewandConfigureFieldMappingsBAPI.htm) for more
+based on a BAPI](ViewandConfigureFieldMappingsBAPI) for more
 information.
 
 Configure the relationships for the all of the loops
 
 **NOTE**: Refer to [View and Configure Relationships for a Process Based
-on a BAPI](VwConfigureRlshipsProcBAPI.htm) for more information.
+on a BAPI](VwConfigureRlshipsProcBAPI) for more information.
 
 Integrate adds a process template loop for each loop in the BAPI
 Definition. The loop contains the fields in the definition.
@@ -76,7 +76,7 @@ To configure process template loops:
 4.  Click the **Loops** icon for a process template.
     
     *[View the field descriptions for the Process Template Loop
-    page.](../Page_Desc/Process_Template_Loop.htm)*
+    page.](../Page_Desc/Process_Template_Loop)*
     
     **NOTE**: The number of loops displays on the **Loop** icon. 
 
@@ -146,13 +146,13 @@ To use the optional Auto Generate Database Objects feature:
     page.
     
     **NOTE**: Refer to [View and Configure Field Mappings for a Process
-    based on a BAPI](ViewandConfigureFieldMappingsBAPI.htm) for more
+    based on a BAPI](ViewandConfigureFieldMappingsBAPI) for more
     information.
 
   - Configures relationships for process template loops
     
     **NOTE**: Refer to [View and Configure Relationships for a Process
-    Based on a BAPI](VwConfigureRlshipsProcBAPI.htm) for more
+    Based on a BAPI](VwConfigureRlshipsProcBAPI) for more
     information.
 
   - Sets the **DOWNLOAD PRIMARY KEY** column to **ID**

@@ -23,7 +23,7 @@ The values are:
 
 New Requirement settings can be added. Once saved, these settings are
 available for selection in the REQUIRED list box on the *[Target
-Fields](../Page_Desc/Target_Fields_H_Target_Design.htm)* page.
+Fields](../Page_Desc/Target_Fields_H_Target_Design)* page.
 
 To add a Requirement setting in Target Design:
 
@@ -32,7 +32,7 @@ To add a Requirement setting in Target Design:
 2.  Click **Add**.
     
     *[View the field descriptions for the Required
-    page](../Page_Desc/Required.htm)*
+    page](../Page_Desc/Required)*
 
 3.  Enter the name of the Requirement setting in the **REQUIRED** field.
     

@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [View Archived
-Requests](../Use_Cases/View_Archived_Requests_DGE.htm).
+Requests](../Use_Cases/View_Archived_Requests_DGE).
 
 </div>
 

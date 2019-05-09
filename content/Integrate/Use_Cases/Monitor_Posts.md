@@ -61,4 +61,4 @@ To monitor complicated background posts to ensure they ran as scheduled
 6.  Click **Post Adapter** to view the data as it was submitted for the
     process post, and to submit the post again using one of the posting
     methods. Refer to [*<span style="color: #0000ff;">Posting
-    Methods</span>*](Posting_Methods.htm) for more information.
+    Methods</span>*](Posting_Methods) for more information.

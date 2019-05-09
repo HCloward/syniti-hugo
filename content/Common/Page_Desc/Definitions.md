@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page while [Viewing
-Objects](../../../Migration/Construct/Use_Cases/View_Objects.htm).
+Objects](../../../Migration/Construct/Use_Cases/View_Objects).
 
 </div>
 

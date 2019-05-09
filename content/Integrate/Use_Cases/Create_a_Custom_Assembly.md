@@ -46,4 +46,4 @@ To create the assembly:
     CustomProcessTemplate class, for example SampleProcessTemplate.dll.
 
 Continue with [Copy the Assembly File to the Integrate Process
-Folder](Add_the_Assembly_File_to_the_Integrate_Process_Folder.htm).
+Folder](Add_the_Assembly_File_to_the_Integrate_Process_Folder).

@@ -10,7 +10,7 @@ task is finished after the planned finish date. A user finishes a task
 by clicking the Next Action button on the Work List for a task with a
 status of In Progress.
 
-Refer to [Task Status](../Page_Desc/Task_Status1.htm) for more
+Refer to [Task Status](../Page_Desc/Task_Status1) for more
 information.
 
 dspTrack™ can be configured to require a user to enter a comment when
@@ -39,7 +39,7 @@ To set the comment requirement at the parameter level:
     
     [View the field descriptions for the Validations tab on the
     Parameters
-    page](../Page_Desc/Parameters_dspTrack.htm#Validations_Tab)
+    page](../Page_Desc/Parameters_dspTrack#Validations_Tab)
 
 4.  Select an option in **Require Late Comment** list box, if
     applicable.
@@ -81,7 +81,7 @@ To set the comment requirement at the plan level:
 4.  Click **Edit**.
     
     [View the field descriptions for the General tab of the Plan Task
-    page’s Vertical View](../Page_Desc/Plan_Task_H.htm#Plan_Task_V)
+    page’s Vertical View](../Page_Desc/Plan_Task_H#Plan_Task_V)
 
 5.  Select an option in **Require Late Comment** list box, if
     applicable.
@@ -148,7 +148,7 @@ To set the comment requirement at the tag level:
 4.  Click **Edit**.
     
     [View the field descriptions for the Tag page’s Vertical
-    View](../Page_Desc/Tag.htm#Tag_V)
+    View](../Page_Desc/Tag#Tag_V)
 
 5.  Select an option in **Require Late Comment** list box, if
     applicable.
@@ -233,7 +233,7 @@ To set the comment requirement at the task level:
 5.  Click **Edit**.
     
     [View the field descriptions for the General tab of the Plan Task
-    page’s Vertical View](../Page_Desc/Plan_Task_H.htm#General_Tab)
+    page’s Vertical View](../Page_Desc/Plan_Task_H#General_Tab)
 
 6.  Select an option in **Require Late Comment** list box, if
     applicable.

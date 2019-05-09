@@ -17,8 +17,8 @@ The DSP assists clients with regulatory and corporate compliance by:
 Additionally a Common Administrator can:
 
   - [Add custom data classifications and information types as
-    needed](Add%20Custom%20Data%20Classifications%20and%20Information%20Types.htm)
+    needed](Add%20Custom%20Data%20Classifications%20and%20Information%20Types)
   - [Update Retention Expiration Warning
-    Period](Update%20Retention%20Expiration%20Warning%20Period.htm)
+    Period](Update%20Retention%20Expiration%20Warning%20Period)
   - [Update the Retention Expiration
-    Email](Update%20the%20Retention%20Expiration%20Email.htm)
+    Email](Update%20the%20Retention%20Expiration%20Email)

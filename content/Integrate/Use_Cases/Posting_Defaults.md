@@ -9,7 +9,7 @@ solution = 'Platform'
 
 Use this page to view the posting defaults for the selected process
 post. Refer to [BDC Post Methods and Settings on the Advanced
-tab](../Page_Desc/BDCPostMethodsSettingsAdvTab.htm) for more
+tab](../Page_Desc/BDCPostMethodsSettingsAdvTab) for more
 information.
 
 </div>
@@ -57,7 +57,7 @@ in Common. If disabled, Integrate creates the file and stores it on the
 server. This field is used with User Defined Template Type only.
 
 Refer to [Establish an SAP
-Connection](../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview.htm)
+Connection](../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview)
 for more information.
 
 BOA Function Module Upload Options

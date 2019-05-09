@@ -20,28 +20,28 @@ updates the Mapping Status and Rule Status.
     remains in <span style="font-weight: bold;">Pending Review</span>.
 3.  After a Business User clicks the Submit or Submit All icon on the
     <span style="font-style: italic;">[Field
-    Mappings](../Page_Desc/Field_Mappings_H.htm)</span> page, the system
+    Mappings](../Page_Desc/Field_Mappings_H)</span> page, the system
     sets the Mapping Status to
     <span style="font-weight: bold;">Complete</span>. The Rule Status
     remains in <span style="font-weight: bold;">Pending Review</span>.
 4.  After a Developer reviews and approves a mapping on the
     <span style="font-style: italic;">[Mapping
-    Approval](../Page_Desc/Mapping_Approval_H.htm)</span> page the
+    Approval](../Page_Desc/Mapping_Approval_H)</span> page the
     system updates the Rule Status field to
     <span style="font-weight: bold;">In Progress</span>. This indicates
     the Developer can begin development on the rule.
 5.  After a mapping is created (when the user clicks Create and Complete
     on the <span style="font-style: italic;">[Automation SQL Field
-    Mappings](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H.htm)</span>
+    Mappings](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H)</span>
     page or the Create All Rules icon on the
-    <span style="font-style: italic;">[Automation](../../SQL_AutoGen/Page_Desc/Automation_page.htm)</span>
+    <span style="font-style: italic;">[Automation](../../SQL_AutoGen/Page_Desc/Automation_page)</span>
     page)  the system updates the Rule Status to Complete.
 
 <span style="font-weight: bold;">NOTE</span>: For the Developer to
 create the rule in SQL AutoGen, the Mapping Status must be set to
 Complete.
 
-Refer to [Approve or Reject Mappings](Approve_or_Reject_Mappings.htm)
+Refer to [Approve or Reject Mappings](Approve_or_Reject_Mappings)
 for more information.
 
 ## Mapping Status Values
@@ -56,21 +56,21 @@ Mapping Status values are:
       - Reset by a mapper or a Developer. Mappings can be reset in
         AutoGen on the <span style="font-style: italic;">[Automation SQL
         Field
-        Mappings](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H.htm)</span>
+        Mappings](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H)</span>
         page, on the <span style="font-style: italic;">[Field
-        Mappings](../Page_Desc/Field_Mappings_H.htm)</span> page, or on
+        Mappings](../Page_Desc/Field_Mappings_H)</span> page, or on
         the <span style="font-style: italic;">[Mapping
-        Approval](../Page_Desc/Mapping_Approval_H.htm)</span> page.
+        Approval](../Page_Desc/Mapping_Approval_H)</span> page.
   - <span style="font-weight: bold;">Design Required</span> – The
     mapping has been reviewed by a Developer and rejected on the
     <span style="font-style: italic;">[Mapping
-    Approval](../Page_Desc/Mapping_Approval_H.htm)</span> page. The
+    Approval](../Page_Desc/Mapping_Approval_H)</span> page. The
     mapper must update the mapping and submit it again.
   - <span style="font-weight: bold;">Complete</span> – The mapping has
     been submitted when the mapper has finished creating the mapping and
     clicks the Submit or Submit All icons on the
     <span style="font-style: italic;">[Field
-    Mappings](../Page_Desc/Field_Mappings_H.htm)</span> page.
+    Mappings](../Page_Desc/Field_Mappings_H)</span> page.
 
 ## Rule Status Values
 
@@ -85,28 +85,28 @@ Rule Status values are:
       - Has been submitted and is waiting for Developer review.
       - Has been reset by a Mapper or a Developer. Mappings can be reset
         in AutoGen on the [Automation SQL Field
-        Mappings](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H.htm)
+        Mappings](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H)
         page and on the <span style="font-style: italic;">[Field
-        Mappings](../Page_Desc/Field_Mappings_H.htm)</span> page or on
+        Mappings](../Page_Desc/Field_Mappings_H)</span> page or on
         the <span style="font-style: italic;">[Mapping
-        Approval](../Page_Desc/Mapping_Approval_H.htm)</span> page.
+        Approval](../Page_Desc/Mapping_Approval_H)</span> page.
   - <span style="font-weight: bold;">Revision Requested</span> – The
     mapping for this rule has been reviewed by a Developer and rejected
     on the <span style="font-style: italic;">[Mapping
-    Approval](../Page_Desc/Mapping_Approval_H.htm)</span> page. The
+    Approval](../Page_Desc/Mapping_Approval_H)</span> page. The
     mapper must update the mapping and submit it again.
   - <span style="font-weight: bold;">In Progress</span> – The mapping
     has been approved on the <span style="font-style: italic;">[Mapping
-    Approval](../Page_Desc/Mapping_Approval_H.htm)</span>page.
+    Approval](../Page_Desc/Mapping_Approval_H)</span>page.
   - <span style="font-weight: bold;">Complete</span> – The mapping
     development has been completed. A user clicked the Create and
     Complete icon on the  <span style="font-style: italic;">[Automation
     SQL Field
-    Mappings](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H.htm)</span>
+    Mappings](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H)</span>
     page or the Create All Rules icon on the
-    <span style="font-style: italic;">[Automation](../../SQL_AutoGen/Page_Desc/Automation_page.htm)</span>
+    <span style="font-style: italic;">[Automation](../../SQL_AutoGen/Page_Desc/Automation_page)</span>
     page. A Developer clicked Complete on the [Mapping
-    Approval](../Page_Desc/Mapping_Approval_H.htm)
+    Approval](../Page_Desc/Mapping_Approval_H)
 page.
 
 ## <span id="Configure_Mapping_Status_and_Rule_Status"></span>Configure Mapping Status and Rule Status
@@ -117,7 +117,7 @@ custom.
 A user can change the Mapping Status on the
 <span style="font-style: italic;">Vertical</span> View of the
 <span style="font-style: italic;">[Field
-Mappings](../Page_Desc/Field_Mappings_H.htm)</span> page to an installed
+Mappings](../Page_Desc/Field_Mappings_H)</span> page to an installed
 status or a custom status.
 
 ### Configure Installed Statuses
@@ -132,7 +132,7 @@ A user cannot update the Rule Status in Map. It is updated by the
 system.
 
 The user can update the Rule Status in SQL AutoGen. Refer to [Update a
-Rule Status](../../SQL_AutoGen/Use_Cases/Update_a_Rule_Status.htm) for
+Rule Status](../../SQL_AutoGen/Use_Cases/Update_a_Rule_Status) for
 more information.
 
 ### Add Custom Statuses
@@ -148,7 +148,7 @@ Review and Complete. It cannot be used to define a mapping status beyond
 Complete.
 
 <span style="font-weight: bold;">NOTE</span>: Custom statuses display on
-the [Target Source Rule Book](../Page_Desc/Target_Source_Rule_Book.htm),
+the [Target Source Rule Book](../Page_Desc/Target_Source_Rule_Book),
 but do not display on dashboards.
 
 ### Add a Custom Mapping Status
@@ -162,7 +162,7 @@ To add a custom Mapping Status in Map:
 2.  Click <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Mapping Status
-    page](../Page_Desc/Mapping_Status_page.htm)
+    page](../Page_Desc/Mapping_Status_page)
 
 3.  Enter the name of the status in the
     <span style="font-weight: bold;">MAPPING STATUS</span> field.
@@ -175,7 +175,7 @@ To add a custom Mapping Status in Map:
     
     **NOTE:** Images that were installed with the system display. These
     images can be viewed on the
-    *[Images](../../../Platform/Sys_Admin/Page_Desc/Images%20H.htm)*
+    *[Images](../../../Platform/Sys_Admin/Page_Desc/Images%20H)*
     page (Admin \> Configuration \> Style \> Images). A user can also
     add custom images on this page.
 
@@ -192,13 +192,13 @@ To add a custom Mapping Status in Map:
     **NOTE:** If the check box is checked, when a mapping is set to this
     status, it is tracked on the
     <span style="font-style: italic;">[Field Mapping
-    History](../Page_Desc/Field_Mapping_History.htm)</span> page.
+    History](../Page_Desc/Field_Mapping_History)</span> page.
 
 8.  Click <span style="font-weight: bold;">Save</span>.
 
 This custom Mapping Status displays as an option in the Mapping Status
 list box on the <span style="font-style: italic;">[Field
-Mappings](../Page_Desc/Field_Mappings_H.htm)</span> page’s
+Mappings](../Page_Desc/Field_Mappings_H)</span> page’s
 <span style="font-style: italic;">Vertical</span> View.
 
 ### Add a Custom Rule Status
@@ -212,7 +212,7 @@ To add a custom Rule Status:
 2.  Click <span style="font-weight: bold;">Add</span>.
     
     [*View the field descriptions for the Rule Status
-    page.*](../Page_Desc/Rule_Status.htm)
+    page.*](../Page_Desc/Rule_Status)
 
 3.  Enter the name of the status in the
     <span style="font-weight: bold;">RULE STATUS</span> field.
@@ -233,5 +233,5 @@ To add a custom Rule Status:
 
 This custom Rule Status displays as an option in the RULE STATUS list
 box on the [<span style="font-style: italic;">Automation SQL Field
-Mappings</span>](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H.htm)
+Mappings</span>](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H)
 page.

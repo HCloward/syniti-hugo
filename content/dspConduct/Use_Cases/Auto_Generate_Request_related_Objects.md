@@ -83,7 +83,7 @@ To build the request-related objects:
     auto-generated, but all custom code must be maintained by the
     Designer. Refer to the field descriptions for the *[Default Web App
     Request Table
-    Columns](../Page_Desc/Default_WebApp_Request_Table_Columns_H.htm)*
+    Columns](../Page_Desc/Default_WebApp_Request_Table_Columns_H)*
     page for information about the type of data to enter in this field
     if needed.
     
@@ -93,7 +93,7 @@ To build the request-related objects:
     ORDER field is 0.
 
 4.  Click **Build Objects** in the Page toolbar on the *[Default WebApp
-    Request Table](../Page_Desc/Default%20WebApp%20Request%20Table.htm)*
+    Request Table](../Page_Desc/Default%20WebApp%20Request%20Table)*
     page to auto-generate the tables, views and stored procedures.
 
 The tables ttRequest, ttRequestOrgUnit1, ttRequestOrgUnit2 and
@@ -128,9 +128,9 @@ The following pages are created in the Content WebApp:
   - **Request** – A page used by users to enter request data and submit
     it to dspConduct™, created based on the table and page column
     definitions on the *[Default WebApp Request
-    Table](../Page_Desc/Default%20WebApp%20Request%20Table.htm)* page
+    Table](../Page_Desc/Default%20WebApp%20Request%20Table)* page
     and the *[Default WebApp Request Table
-    Columns](../Page_Desc/Default_WebApp_Request_Table_Columns_H.htm)*
+    Columns](../Page_Desc/Default_WebApp_Request_Table_Columns_H)*
     page.
   - **Request Details** – A page that displays a visual representation
     of an active request’s process through the workflow, including which
@@ -156,7 +156,7 @@ To access the log at any time:
 4.  Click the **Request Table and Views Creation Log** icon.
 
 The log can also be accessed on the *[Default WebApp Request
-Table](../Page_Desc/Default%20WebApp%20Request%20Table.htm)* page by
+Table](../Page_Desc/Default%20WebApp%20Request%20Table)* page by
 clicking Creation Log in the Page toolbar. However it is only accessible
 on that page until objects are built. Once objects are built and the
 user navigates away from the *Default WebApp Request Table* page, that

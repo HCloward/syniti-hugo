@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [View Collect
-Reports](../Use_Cases/View_Collect_Reports.htm).
+Reports](../Use_Cases/View_Collect_Reports).
 
 </div>
 
@@ -17,7 +17,7 @@ To access this page:
 1.  Select <span style="font-weight: bold;">Collect \> Reports</span> in
     the <span style="font-style: italic;">Navigation</span> pane.
 2.  Click <span style="font-weight: bold;">Target Source Table
-    Errors</span> on the *[Reports](Reports.htm)*
+    Errors</span> on the *[Reports](Reports)*
 page.
 
 | Field                 | Description                                                                                                                                                                                |

@@ -6,7 +6,7 @@ solution = 'Master Data Management'
 # SLA Percent On Time by Business Process Details
 
 Use this page to view details for the [SLA Percent On Time by Business
-Process](SLA_Percent_OnTime_by_Business_Process.htm) chart based on
+Process](SLA_Percent_OnTime_by_Business_Process) chart based on
 active requests.
 
 To access this chart in dspConduct™:

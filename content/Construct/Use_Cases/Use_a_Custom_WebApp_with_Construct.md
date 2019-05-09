@@ -17,7 +17,7 @@ To use a custom WebApp with Construct, an Administrator must:
     users access to the pages in the WebApp in System Administration.
 
 3.  [Update the WebApp and Source Data Source for
-    Construct](../../Console/Use_Cases/Update_Construct_WebApp_and_Data_Source.htm)
+    Construct](../../Console/Use_Cases/Update_Construct_WebApp_and_Data_Source)
 
 4.  Build a Construction Page for a Custom WebApp Using AutoGen
 
@@ -28,7 +28,7 @@ Construction} in Target Design:
     <span style="font-style: italic;">Navigation</span> pane.
 
 2.  Select the <span style="font-weight: bold;">Targets</span> icon on
-    the *[Design](../../Design/Page_Desc/Design.htm)* page.
+    the *[Design](../../Design/Page_Desc/Design)* page.
 
 3.  Select the <span style="font-weight: bold;">Sources</span> icon for
     a Target.
@@ -36,7 +36,7 @@ Construction} in Target Design:
 4.  Click <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Target Sources
-    page](../../Design/Page_Desc/Target_Sources_H_Design.htm)
+    page](../../Design/Page_Desc/Target_Sources_H_Design)
     
     **NOTE:** The Add button is only available if the selected Target
     has a Design Status of In Design.

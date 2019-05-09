@@ -16,7 +16,7 @@ To access this page:
 1.  Select <span style="font-weight: bold;">Collect \> Reports</span> in
     the <span style="font-style: italic;">Navigation</span> pane.
 2.  Click <span style="font-weight: bold;"> List Rule List in Source and
-    Target</span> on the *[Reports](Reports.htm)*
+    Target</span> on the *[Reports](Reports)*
 page.
 
 | Field        | Description                                                                                           |

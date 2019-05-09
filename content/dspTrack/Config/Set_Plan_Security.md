@@ -10,7 +10,7 @@ read-only access to a plan, or to restrict access for a user assigned to
 the Sample Project Level Role and Sample Plan Level Role.
 
 A user must have [security set for dspTrack™ in System
-Administration](Set_dspTrack_Security_in_System_Administration.htm)
+Administration](Set_dspTrack_Security_in_System_Administration)
 before plan security can be set.
 
 **NOTE:** By default, users assigned to the Business User security role
@@ -66,4 +66,4 @@ procedure runs. The user's read only access is not updated during this
 procedure, which syncs the settings on the
 <span style="font-style: italic;">Plan Access Setup</span> page with the
 Security Role settings for dspTrack™. Refer to [Use Template Security
-Roles](Use_Template_Security_Roles.htm) for more information.
+Roles](Use_Template_Security_Roles) for more information.

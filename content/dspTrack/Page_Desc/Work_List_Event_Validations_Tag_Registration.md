@@ -11,7 +11,7 @@ V](#Work_List_Event_Validations_-_Tag_Registration_V)
 <div class="use">
 
 Use this page to [Configure Logic
-Tags](../Use_Cases/Configure_Logic_Tags.htm).
+Tags](../Use_Cases/Configure_Logic_Tags).
 
 </div>
 
@@ -72,7 +72,7 @@ To access this page:
 <div class="use">
 
 Use this page to [Configure Logic
-Tags](../Use_Cases/Configure_Logic_Tags.htm).
+Tags](../Use_Cases/Configure_Logic_Tags).
 
 </div>
 

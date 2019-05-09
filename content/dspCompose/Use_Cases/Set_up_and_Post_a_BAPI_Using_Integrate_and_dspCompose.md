@@ -13,16 +13,16 @@ To set up and post a BAPI using Integrate and dspCompose™:
 
 1.  Create a BAPI Template and Process in Integrate. Refer to [Post Data
     Using A
-    BAPI](../../../Platform/Integrate/Use_Cases/Post_Data_Using_a_BAPI.htm)
+    BAPI](../../../Platform/Integrate/Use_Cases/Post_Data_Using_a_BAPI)
     for more information.
 2.  [Create all tt Tables and Views for the BAPI
-    Process](Create_tt_Tables_and_Views_for_the_BAP_Process.htm)
+    Process](Create_tt_Tables_and_Views_for_the_BAP_Process)
 3.  [Create rt tables From the tt
-    tables](Create_tt_Tables_and_Views_for_the_BAP_Process.htm)
+    tables](Create_tt_Tables_and_Views_for_the_BAP_Process)
 4.  [Create Custom Pages and
-    Views](Create_Custom_Pages_and_Views_for_the_BAPI_Process.htm)
+    Views](Create_Custom_Pages_and_Views_for_the_BAPI_Process)
 5.  [Use the custom pages in
-    dspCompose™](Use_the_Custom_Pages_in_dspCompose_for_the_BAPI_Process.htm)
+    dspCompose™](Use_the_Custom_Pages_in_dspCompose_for_the_BAPI_Process)
 
 **NOTE**: These generic instructions for using an Integrate BAPI with a
 dspCompose™ template create one data entry page that includes all the

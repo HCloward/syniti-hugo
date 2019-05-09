@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Add a Scenario to a Business
-Process](../Use_Cases/Add_a_Scenario_to_a_Business_Process.htm).
+Process](../Use_Cases/Add_a_Scenario_to_a_Business_Process).
 
 </div>
 
@@ -23,7 +23,7 @@ from IGC™, data that was entered in IGC™ cannot be updated from within
 dspConduct™, and many of the fields and icons associated with the record
 are not active for that business process scenario. Refer to [Update
 Custom Attributes for Governance
-Elements](../Use_Cases/Update_Custom_Attributes_for_Governance_Elements.htm)
+Elements](../Use_Cases/Update_Custom_Attributes_for_Governance_Elements)
 for more information.
 
 <table>
@@ -46,16 +46,16 @@ for more information.
 </tr>
 <tr class="even">
 <td><p>SCENARIO ID</p></td>
-<td><p>Displays the scenario ID and description. Click the link to open the <em><a href="Scenario_H.htm">Scenario</a></em> page to display details about the scenario.</p>
-<p>When adding scenarios to a business process, if a scenario is not in the list box, the user can click the <strong>Click to add a new item</strong> link to open the <em>Scenario</em> page in another browser tab. Refer to <a href="../Use_Cases/Add_Scenario.htm">Add a Scenario</a> for more information.</p>
+<td><p>Displays the scenario ID and description. Click the link to open the <em><a href="Scenario_H">Scenario</a></em> page to display details about the scenario.</p>
+<p>When adding scenarios to a business process, if a scenario is not in the list box, the user can click the <strong>Click to add a new item</strong> link to open the <em>Scenario</em> page in another browser tab. Refer to <a href="../Use_Cases/Add_Scenario">Add a Scenario</a> for more information.</p>
 <p>One or more different scenarios can be added to a business process. A particular scenario can only be added to a business process once.</p>
 <p>A scenario from a different category than the business process’s parent category can be added as long as it is not assigned the lowest priority in the business process. It also cannot be a dependent of any other scenarios in its parent category.</p>
-<p>Refer to <a href="../Use_Cases/Allow_a_Scenario_to_be_used_in_Other_Categories.htm">Allow a Scenario to be used in other Categories</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Allow_a_Scenario_to_be_used_in_Other_Categories">Allow a Scenario to be used in other Categories</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Role SLA</p></td>
-<td><p>Click to open the <a href="Business_Process_Scenario_Roles.htm">Business Process (Scenario Roles)</a> page to configure SLA settings at the business process scenario role level.</p>
-<p>Refer to <a href="../Config/Configure_SLA_Settings_at_the_BPSR_Level.htm">Configure SLA settings at the Business Process Scenario Role Level</a> for more information.</p></td>
+<td><p>Click to open the <a href="Business_Process_Scenario_Roles">Business Process (Scenario Roles)</a> page to configure SLA settings at the business process scenario role level.</p>
+<p>Refer to <a href="../Config/Configure_SLA_Settings_at_the_BPSR_Level">Configure SLA settings at the Business Process Scenario Role Level</a> for more information.</p></td>
 </tr>
 </tbody>
 </table>

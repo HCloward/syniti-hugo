@@ -7,7 +7,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Monitor Posts.](../Use_Cases/Monitor_Posts.htm)
+Use this page to [Monitor Posts.](../Use_Cases/Monitor_Posts)
 
 </div>
 

@@ -12,11 +12,11 @@ Hover a cursor over the bar to view the number of records for that
 request.
 
 Click a bar to open the
-<span style="font-style: italic;">[Request](../Page_Desc/Request_H.htm)</span>
+<span style="font-style: italic;">[Request](../Page_Desc/Request_H)</span>
 page to view details about the request.
 
 Refer to [View Dashboards in
-dspCompose™](View_Dashboards_in_dspCompose.htm) for information about
+dspCompose™](View_Dashboards_in_dspCompose) for information about
 chart features and the data that displays on charts.
 
 To access this chart in dspCompose™:

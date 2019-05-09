@@ -11,10 +11,10 @@ Hover a cursor over a section to view the average number of request
 records for that team.
 
 Click a section to drill down to the [Top 15 Request Record Counts
-chart](Top_15_Request_Record_Counts.htm).
+chart](Top_15_Request_Record_Counts).
 
 Refer to [View Dashboards in
-dspCompose™](View_Dashboards_in_dspCompose.htm) for information about
+dspCompose™](View_Dashboards_in_dspCompose) for information about
 chart features and the data that displays on charts.
 
 To access this chart in dspCompose™ click

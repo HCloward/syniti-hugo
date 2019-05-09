@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Add Post Action Table
-Rules](../Use_Cases/Add_Post_Action_Table_Rules.htm).
+Rules](../Use_Cases/Add_Post_Action_Table_Rules).
 
 </div>
 

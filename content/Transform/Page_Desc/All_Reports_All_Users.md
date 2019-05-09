@@ -10,16 +10,16 @@ solution = 'Migration'
 Use this page to:
 
   - [Assign a User to a Report on Report Delivery
-    Pages](../Use_Cases/Grant_Users_Access_to_Reports_and_Sensitive_Data.htm#Assign_a_User_to_a_Report_on_Report_Delivery_Pages)
+    Pages](../Use_Cases/Grant_Users_Access_to_Reports_and_Sensitive_Data#Assign_a_User_to_a_Report_on_Report_Delivery_Pages)
   - [Grant a User Access to Sensitive Data on Report Delivery
-    Pages](../Use_Cases/Grant_Users_Access_to_Reports_and_Sensitive_Data.htm#Grant_a_User_Access_to_Sensitive_Data_on_Report_Delivery_Pages)
+    Pages](../Use_Cases/Grant_Users_Access_to_Reports_and_Sensitive_Data#Grant_a_User_Access_to_Sensitive_Data_on_Report_Delivery_Pages)
 
 </div>
 
 To access this page in Transform:
 
 1.  Click the **Targets** icon on the *[Process Area
-    Launch](Process_Area_Launch.htm)* page.
+    Launch](Process_Area_Launch)* page.
 2.  Click the **Reports** icon for a Target.
 3.  Click the **Vertical View** icon for the report.
 4.  Click the **Business User Settings** tab.

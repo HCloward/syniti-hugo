@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [View Work List
-Details.](../Use_Cases/View_Work_List_Details.htm)
+Details.](../Use_Cases/View_Work_List_Details)
 
 </div>
 
@@ -89,15 +89,15 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>PRIMARY USER</p></td>
-<td><p>Displays the user name of the primary user set for the task on the <em><a href="Plan_Task_User.htm">Plan Task User</a></em> page. If no user has been set, the field is blank.</p></td>
+<td><p>Displays the user name of the primary user set for the task on the <em><a href="Plan_Task_User">Plan Task User</a></em> page. If no user has been set, the field is blank.</p></td>
 </tr>
 <tr class="even">
 <td><p>Tags</p></td>
-<td><p>Click to open the <em><a href="Work_List_Detail_Tag.htm">Work List Detail - Tag</a></em> page to view information about tags assigned to the selected task.</p></td>
+<td><p>Click to open the <em><a href="Work_List_Detail_Tag">Work List Detail - Tag</a></em> page to view information about tags assigned to the selected task.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Resources</p></td>
-<td><p>Click to open the <em><a href="Work_List_Detail_Resource.htm"><em>Work List Detail - Resource</em></a></em> page to view a list of users assigned to the selected task.</p></td>
+<td><p>Click to open the <em><a href="Work_List_Detail_Resource"><em>Work List Detail - Resource</em></a></em> page to view a list of users assigned to the selected task.</p></td>
 </tr>
 </tbody>
 </table>

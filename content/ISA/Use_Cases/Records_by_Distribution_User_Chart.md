@@ -4,15 +4,15 @@ This chart displays the number of records that failed IS rules assigned
 to users per Project Distribution. 
 
 Hover a cursor over a data point in the corresponding [Record Trend by
-Project Distribution User chart](Record_Trend_Prjt_Distrib_User.htm) to
+Project Distribution User chart](Record_Trend_Prjt_Distrib_User) to
 view the total number of failed records per day per a user’s project
 distribution. Each distribution has a separate line on the chart.
 
 Click a bar in the chart to display the [Records by Distribution User
-Rules chart](Records_Distribution_User_Rules.htm).
+Rules chart](Records_Distribution_User_Rules).
 
 <span style="font-weight: bold;">NOTE</span>: Refer to [View ISA
-Dashboards](View_ISA_Dashboards.htm) for general information about
+Dashboards](View_ISA_Dashboards) for general information about
 charts, including the type of data charts display, configuration of
 retention parameters for metrics and historical data, and how record
 counts differ on charts and reports.

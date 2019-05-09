@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Add Logical
-Paths](../Use_Cases/Add_Logical_Paths.htm).
+Paths](../Use_Cases/Add_Logical_Paths).
 
 </div>
 
@@ -29,8 +29,8 @@ to be updated for the file modification type to properly work.
 <td><p>FILE MODIFICATION</p></td>
 <td><p>Displays the descriptions of the file modification types. Options are:</p>
 <ul>
-<li><strong>Batched —</strong> When the files are copied to the destination, they are broken into files with the amount of record noted in the Batch Size field (on the <em>Vertical</em> View of the <em><a href="Logical_Paths.htm#LogicalPathsV">Logical Paths</a></em> page).</li>
-<li><strong>SegmentByField —</strong> When the files are written to the destination, a file is created for each unique value in the Segment Field (configured on the <em>Vertical</em> View of the <em><a href="Logical_Paths.htm#LogicalPathsV">Logical Paths</a></em> page).</li>
+<li><strong>Batched —</strong> When the files are copied to the destination, they are broken into files with the amount of record noted in the Batch Size field (on the <em>Vertical</em> View of the <em><a href="Logical_Paths#LogicalPathsV">Logical Paths</a></em> page).</li>
+<li><strong>SegmentByField —</strong> When the files are written to the destination, a file is created for each unique value in the Segment Field (configured on the <em>Vertical</em> View of the <em><a href="Logical_Paths#LogicalPathsV">Logical Paths</a></em> page).</li>
 <li><strong>None —</strong> File is not modified. This is the recommended selection when moving files from one folder to another.</li>
 </ul></td>
 </tr>

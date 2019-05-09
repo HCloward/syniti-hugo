@@ -10,7 +10,7 @@ solution = 'Data Quality'
 <div class="use">
 
 Use this page to [View Dashboard
-Metrics](../Use_Cases/View_Dashboard_Metrics.htm).
+Metrics](../Use_Cases/View_Dashboard_Metrics).
 
 </div>
 
@@ -29,12 +29,12 @@ in *Navigation* pane.
 
 ## <span id="Report_Data_Metrics_V"></span>Report Data (Metrics) V
 
-[Report Data (Metrics) H](Report_Data_Metrics_H.htm)
+[Report Data (Metrics) H](Report_Data_Metrics_H)
 
 <div class="use">
 
 Use this page to [View Dashboard
-Metrics](../Use_Cases/View_Dashboard_Metrics.htm).
+Metrics](../Use_Cases/View_Dashboard_Metrics).
 
 </div>
 

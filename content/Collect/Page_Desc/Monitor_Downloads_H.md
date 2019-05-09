@@ -11,8 +11,8 @@ solution = 'Platform'
 
 Use this page to:
 
-  - [Monitor table refresh activity](../Use_Cases/View_Summary.htm)
-  - [View Summary](../Use_Cases/View_Summary.htm)
+  - [Monitor table refresh activity](../Use_Cases/View_Summary)
+  - [View Summary](../Use_Cases/View_Summary)
 
 </div>
 
@@ -42,15 +42,15 @@ refreshed.
 
 ## <span id="Monitor_Downloads_V"></span>Monitor (Downloads) V
 
-[Monitor (Downloads) H](Monitor_Downloads_H.htm)
+[Monitor (Downloads) H](Monitor_Downloads_H)
 
 <div class="use">
 
 Use this page to:
 
-  - [Monitor table refresh activity](../Use_Cases/View_Summary.htm)
+  - [Monitor table refresh activity](../Use_Cases/View_Summary)
   - [View
-Summary](../Use_Cases/View_Summary.htm)
+Summary](../Use_Cases/View_Summary)
 
 </div>
 

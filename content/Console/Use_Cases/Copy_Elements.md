@@ -9,10 +9,10 @@ A Wave, Process Area or Object can be created based on a copy of an
 existing element.
 
 This functionality can be accessed on the
-*[Waves](../Page_Desc/Waves_H.htm)* page, and by navigating to
+*[Waves](../Page_Desc/Waves_H)* page, and by navigating to
 **Elements \> \[Element Name\]**. The Copy functionality is not
 available when working in a specific hierarchy, such as when working on
-the *[Wave: Process Areas](../Page_Desc/Wave_Process_Areas.htm)* page.
+the *[Wave: Process Areas](../Page_Desc/Wave_Process_Areas)* page.
 
 This use case includes the following topics:
 
@@ -50,7 +50,7 @@ To copy a Wave:
 
 1.  Click **Waves** in the *Navigation* pane.
 
-2.  Select a Wave on the *[Waves](../Page_Desc/Waves_H.htm)* page.
+2.  Select a Wave on the *[Waves](../Page_Desc/Waves_H)* page.
     
     **NOTE**: If multiple Waves are selected, the copy function will
     only copy the first Wave selected.
@@ -89,7 +89,7 @@ To copy a Process Area:
 4.  Click **Edit**
     
     [View the field descriptions for the Copy Process Area
-    page](../Page_Desc/Copy_Process_Area.htm)
+    page](../Page_Desc/Copy_Process_Area)
 
 5.  Enter a name for the copied Process Area in the **New Process Area**
     field.
@@ -131,14 +131,14 @@ copies the first object selected.
 4.  Click <span style="font-weight: bold;">Edit</span>.
     
     *[View the field descriptions for the Copy Object
-    page](../Page_Desc/Copy_Object.htm)*
+    page](../Page_Desc/Copy_Object)*
 
 5.  Enter a name for the copied object in the **New Object** field.
 
 6.  Enter a value in the **New Priority** field.
     
     **NOTE**: The priority sets the sort order for the object on the
-    *[Object](../Page_Desc/Objects_H.htm)* page’s *Horizontal* View.
+    *[Object](../Page_Desc/Objects_H)* page’s *Horizontal* View.
 
 7.  Click **Save**.
 
@@ -159,7 +159,7 @@ another process area:
 5.  Click **Edit**.
     
     [View the field descriptions for the Copy Object to Process Area
-    page](../Page_Desc/Copy_Object_to_Process_Area.htm)
+    page](../Page_Desc/Copy_Object_to_Process_Area)
 
 6.  Select the new Process Area from the **Copy To Process Area** list
     box. 
@@ -190,7 +190,7 @@ process area:
 5.  Click **Edit**.
     
     [View the field descriptions for the Move Object to Process Area
-    page](../Page_Desc/Move_Object_to_Process_Area.htm)
+    page](../Page_Desc/Move_Object_to_Process_Area)
 
 6.  Select the new Process Area from the **Move To Process Area** list
     box.

@@ -3,7 +3,7 @@
 <div class="use">
 
 Use this page to [Assign Project Distribution Rules using Custom
-Attributes](../Use_Cases/Assign_Prjt_Distrib_Rules_Custom_Attribs.htm).
+Attributes](../Use_Cases/Assign_Prjt_Distrib_Rules_Custom_Attribs).
 
 </div>
 
@@ -24,4 +24,4 @@ distribution.
 | PROJECT     | Display the project name that contains the selected project distribution.                                                                            |
 | ATTRIBUTE   | Displays the name of the attribute as added in IS. This attribute was assigned to a rule in IS that is used in the selected project distribution.    |
 | DESCRIPTION | Displays the description of the attribute as added in IS.                                                                                            |
-| Values      | Click to open the *[Project Distribution Attribute Values](Project_Distribution_Attribute_Value.htm)* page to view values assigned to the attribute. |
+| Values      | Click to open the *[Project Distribution Attribute Values](Project_Distribution_Attribute_Value)* page to view values assigned to the attribute. |

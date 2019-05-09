@@ -11,12 +11,12 @@ Rules registered at the plan level execute for all tasks in the plan.
 a plan have no effect on Work List Items.
 
 Work List Event Rules can also be registered at the [Work List
-Item](Register_WorkList_Event_Rules_WorkList_Item.htm) level, [Plan
-Task](Register_Work_List_Event_Rules_for_a_Plan_Task.htm) level or
-[tag](Configure_Logic_Tags.htm) level.
+Item](Register_WorkList_Event_Rules_WorkList_Item) level, [Plan
+Task](Register_Work_List_Event_Rules_for_a_Plan_Task) level or
+[tag](Configure_Logic_Tags) level.
 
 Refer to [Register Work List Event
-Rules](Register_Work_List_Event_Rules.htm) for more information about
+Rules](Register_Work_List_Event_Rules) for more information about
 viewing and editing all rules from one page, and about parameters that
 can be used in Work List Event Rules.
 
@@ -32,7 +32,7 @@ To add a Work List Event Rule to a plan:
     Otherwise, click <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Work List Event Rules
-    page](../Page_Desc/Work_List_Event_Rules.htm)
+    page](../Page_Desc/Work_List_Event_Rules)
 
 4.  Enter a value in the **PRIORITY** field.
     
@@ -44,7 +44,7 @@ To add a Work List Event Rule to a plan:
     
     **NOTE**: These options are data sources registered in Common. Refer
     to [Register a Data Source in
-    Common](../../Common/Use_Cases/Register_a_Data_Source_in_Common.htm)
+    Common](../../Common/Use_Cases/Register_a_Data_Source_in_Common)
     for more information.
 
 6.  Select the rule in the **RULE** list box.

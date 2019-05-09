@@ -13,14 +13,14 @@ source.
 
 A connection can also be established directly with the Application
 Server. Refer to [Establish a Connection via a Direct Connection to the
-Application Server](Establish_a_Connection_Direct_Connection.htm) for
+Application Server](Establish_a_Connection_Direct_Connection) for
 more information.
 
 <span style="font-weight: bold;">NOTE</span>: The steps below are used
 when establishing an SAP connection. Information about connection types
 to other target systems is available on
 the<span style="font-style: italic;"> [Data Source
-Registry](../Page_Desc/Data_Source_Registry_H.htm#Data_Source_Registry_V)</span>
+Registry](../Page_Desc/Data_Source_Registry_H#Data_Source_Registry_V)</span>
 page’s Vertical View.
 
 To establish an SAP connection that connects to the Application Server
@@ -33,7 +33,7 @@ through a Message Server in Common:
 2.  Click <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Data Source Registry
-    page.](../Page_Desc/Data_Source_Registry_H.htm)
+    page.](../Page_Desc/Data_Source_Registry_H)
 
 3.  Enter the data source name in the
     <span style="font-weight: bold;">NAME</span> field.
@@ -82,6 +82,6 @@ environments.</span>
 1.  Click <span style="font-weight: bold;">Save</span>.
 
 Continue with [Add Default User Credentials to a
-Connection](Add_Default_User_Credentials_to_a_Connection.htm) or [Add
+Connection](Add_Default_User_Credentials_to_a_Connection) or [Add
 User Credentials to a Connection for a Specific
-User](Add_User_Credentials_to_an_SAP_Connection_for_a_Specific_Use.htm).
+User](Add_User_Credentials_to_an_SAP_Connection_for_a_Specific_Use).

@@ -3,7 +3,7 @@
 The first step to CTS ISA objects is to export the project in
 Information Steward.
 
-Refer to [CTS for ISA Overview](ISA_CTS_Overview.htm) for general
+Refer to [CTS for ISA Overview](ISA_CTS_Overview) for general
 information.
 
 To export the project:

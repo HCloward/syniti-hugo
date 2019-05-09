@@ -18,7 +18,7 @@ A user’s password can also be set manually by an Administrator.
 
 **NOTE**: The content for email notifications for password creation and
 reset can be modified. Refer to [Modify Text for Password Email
-Notifications](Modify_Text_for_Password_Email_Notifications.htm) for
+Notifications](Modify_Text_for_Password_Email_Notifications) for
 more information.
 
 The password reset email is sent to the selected user stating the

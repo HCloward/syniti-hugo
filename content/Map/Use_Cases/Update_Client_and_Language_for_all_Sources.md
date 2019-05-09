@@ -13,7 +13,7 @@ To update the client and language in Map:
 1.  Select **ProcessArea** in the *Navigation* pane.
 
 2.  Click the **Targets** icon on the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page.
 
 3.  Click the <span style="font-weight: bold;">Sources</span> icon for a
     Target.
@@ -26,7 +26,7 @@ To update the client and language in Map:
 5.  Click **Edit**.
     
     *[View the field descriptions for the Target Sources page's Vertical
-    View](../Page_Desc/Target_Sources_H_Map.htm)*
+    View](../Page_Desc/Target_Sources_H_Map)*
 
 6.  Click the **+** sign to expand the **Value Mapping Settings**
     section.

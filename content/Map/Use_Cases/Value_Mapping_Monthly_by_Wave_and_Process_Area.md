@@ -16,11 +16,11 @@ Hover a cursor over a data point to view the number of changes to value
 mappings for that month.
 
 Click a data point to open the <span style="font-style: italic;">[Value
-Mapping](../Page_Desc/Value_Mapping.htm)</span> page to view the status
+Mapping](../Page_Desc/Value_Mapping)</span> page to view the status
 of each check table’s value mapping. The MAPPED PERCENT field displays
 the mapping status for each check table.
 
-Refer to [View Dashboards in Map](View_Dashboards_in_Map.htm) for
+Refer to [View Dashboards in Map](View_Dashboards_in_Map) for
 general information about chart features.
 
 To access this chart in Console from the Value Mapping by Wave and
@@ -40,4 +40,4 @@ To access the chart in Map:
 1.  Click **Map** in the Context bar.
 2.  Click the <span style="font-weight: bold;">Mapping Values</span>
     icon on the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page.

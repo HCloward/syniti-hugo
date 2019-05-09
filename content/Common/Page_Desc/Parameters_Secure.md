@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Configure Secure
-Parameters](../Use_Cases/Configure_Secure_Parameters.htm).
+Parameters](../Use_Cases/Configure_Secure_Parameters).
 
 </div>
 

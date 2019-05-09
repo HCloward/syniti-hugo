@@ -19,7 +19,7 @@ To create a global role:
 2.  Click **Add**.
     
     *[View the field descriptions for the Roles
-    page](../Page_Desc/Roles_H.htm)*
+    page](../Page_Desc/Roles_H)*
 
 3.  Enter the sort order in **PRIORITY** field, which determines this
     role’s place in the order of roles displayed on the *Roles* page and
@@ -32,7 +32,7 @@ To create a global role:
     never be set up such that, for example, a role with priority of 50
     would become available for processing before a role with priority of
     30 or 40 had been processed. Refer to [Add Role
-    Dependencies](../Use_Cases/Add_Role_Dependencies.htm) for more
+    Dependencies](../Use_Cases/Add_Role_Dependencies) for more
     information.
 
 4.  Enter a role name in **ROLE ID** field.
@@ -58,12 +58,12 @@ To create a global role:
 7.  Click **Save**; the *Vertical* View displays.
     
     *[View the field descriptions for the Roles page's Vertical
-    View.](../Page_Desc/Roles_H.htm)*
+    View.](../Page_Desc/Roles_H)*
 
 8.  Set advanced options as needed.
 
 9.  Click **Save**.
 
 Refer to [Add and Configure Template
-Roles](../Use_Cases/Add_and_Configure_Template_Roles.htm) for
+Roles](../Use_Cases/Add_and_Configure_Template_Roles) for
 information about adding a role at the template level.

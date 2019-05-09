@@ -8,7 +8,7 @@ solution = 'Data Quality'
 This page displays all a groups to which the logged in user has access.
 
 Reports can only be configured by a Group Owner. Refer to [Group Owner
-Responsibilities](Group_Owner_Responsibilities.htm) for detailed
+Responsibilities](Group_Owner_Responsibilities) for detailed
 information.
 
 To view Your Group Reports:

@@ -9,8 +9,8 @@ A Designer performs this task.
 
 Before this task can be completed, perform the following tasks:
 
-  - [Create a Category](Create_a_Category.htm)
-  - [Add a Business Process](Add_Business_Process.htm)
+  - [Create a Category](Create_a_Category)
+  - [Add a Business Process](Add_Business_Process)
 
 To upload at the business process level in dspConduct™:
 

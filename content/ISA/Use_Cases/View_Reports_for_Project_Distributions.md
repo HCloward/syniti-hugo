@@ -5,7 +5,7 @@ distribution.  
 
 **NOTE**: The ISA only stores the most recent version of a report. A
 report is retained based on the value entered in the Days to Retain
-History field on the *[Parameters](../Page_Desc/ISA_Parameters.htm)*
+History field on the *[Parameters](../Page_Desc/ISA_Parameters)*
 page. After the retention interval is passed, the report is deleted.
 
 To view reports:

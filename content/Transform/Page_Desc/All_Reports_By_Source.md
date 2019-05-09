@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [View all Reports for a
-Source.](../Use_Cases/View_Reports.htm#View_all_Reports_for_an_Object_Target_or_Source)
+Source.](../Use_Cases/View_Reports#View_all_Reports_for_an_Object_Target_or_Source)
 
 </div>
 
@@ -25,5 +25,5 @@ target.
 | OBJECT             | Displays the object containing the source.                                                                                              |
 | TARGET             | Displays the target containing the source.                                                                                              |
 | SOURCE             | Displays the source name.                                                                                                               |
-| All Reports        | Click to open the *[All Business Reports](All_Business_Reports.htm)* page to view all reports for the source.                           |
-| Actionable Reports | Click to open the [All Actionable Reports](All_Actionable_Reports.htm) page to view all error reports for the source that have records. |
+| All Reports        | Click to open the *[All Business Reports](All_Business_Reports)* page to view all reports for the source.                           |
+| Actionable Reports | Click to open the [All Actionable Reports](All_Actionable_Reports) page to view all error reports for the source that have records. |

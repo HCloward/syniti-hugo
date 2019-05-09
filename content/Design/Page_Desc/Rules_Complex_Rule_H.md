@@ -10,7 +10,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Add a Complex
-Rule.](../Use_Cases/Complex_Rules.htm#Add_a_Complex_Rule)
+Rule.](../Use_Cases/Complex_Rules#Add_a_Complex_Rule)
 
 </div>
 
@@ -42,7 +42,7 @@ To access this page:
 <tr class="even">
 <td><p>ACTIVE</p></td>
 <td><p>If checked, the Complex rule is active and can be assigned to active Target fields.</p>
-<p>Refer to <a href="../Use_Cases/Complex_Rules.htm#Assign_the_Rule_to_a_Field">Assign the Rule to a Field and Execution Stage</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Complex_Rules#Assign_the_Rule_to_a_Field">Assign the Rule to a Field and Execution Stage</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>RULE DEFINED</p></td>
@@ -60,7 +60,7 @@ To access this page:
 <div class="use">
 
 Use this page to [Add a Complex
-Rule.](../Use_Cases/Complex_Rules.htm#Add_a_Complex_Rule)
+Rule.](../Use_Cases/Complex_Rules#Add_a_Complex_Rule)
 
 </div>
 
@@ -88,7 +88,7 @@ If checked, the Complex rule is active and can be assigned to active
 Target fields.
 
 Refer to [Assign the Rule to a Field and Execution
-Stage](../Use_Cases/Complex_Rules.htm#Assign_the_Rule_to_a_Field) for
+Stage](../Use_Cases/Complex_Rules#Assign_the_Rule_to_a_Field) for
 more information.
 
 Definition

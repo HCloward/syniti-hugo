@@ -18,7 +18,7 @@ manipulated. There are three global role types:
 A Template Administrator can also add an External Data role to a
 template. External Data roles have role type of **ExternalData.** Refer
 to [Use External Data Roles in Request
-Processing](Use_External_Data_Roles_in_Request_Processing.htm) for more
+Processing](Use_External_Data_Roles_in_Request_Processing) for more
 information.
 
 The three global roles can be:
@@ -34,15 +34,15 @@ and is not required to add it to the pool of global roles. Changes to
 template roles are not tied to global roles and apply only to the role
 at the template level.
 
-Refer to [Configure Global Roles](../Config/Configure_Global_Roles.htm)
+Refer to [Configure Global Roles](../Config/Configure_Global_Roles)
 for more information.
 
 To configure template roles:
 
-  - [Create Template Roles](Create_Template_Roles.htm)
-  - [Add Role Dependencies](Add_Role_Dependencies.htm)
-  - [Add Validations to Roles](Add_Validations_to_Roles.htm)
+  - [Create Template Roles](Create_Template_Roles)
+  - [Add Role Dependencies](Add_Role_Dependencies)
+  - [Add Validations to Roles](Add_Validations_to_Roles)
   - [Set Target Role for Request Rejections from a Review
-    Role](Set_Target_Role_for_Request_Rejections.htm)
+    Role](Set_Target_Role_for_Request_Rejections)
   - [Assign a Custom Page to a Template
-    Role](Assign_a_Custom_Page_to_Template_Role.htm)
+    Role](Assign_a_Custom_Page_to_Template_Role)

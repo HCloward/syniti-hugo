@@ -27,7 +27,7 @@ To create the ISA security role:
 2.  Click **Add**.
     
     *[View the field descriptions for the Security Roles
-    page](../../../Platform/Sys_Admin/Page_Desc/Security_Roles.htm)*
+    page](../../../Platform/Sys_Admin/Page_Desc/Security_Roles)*
 
 3.  Enter a unique name of the role, such as ISA, in the **NAME** field.
 
@@ -43,7 +43,7 @@ To create the ISA security role:
 8.  Click **Edit**.
     
     *[View the field descriptions for the Role Key Values
-    page.](../../../Platform/Sys_Admin/Page_Desc/Role_Key_Values.htm)*
+    page.](../../../Platform/Sys_Admin/Page_Desc/Role_Key_Values)*
 
 9.  Select the name of the IS repository (i.e., Target –
     dgRepository\_IS) from the **SECURITY DEFINITION KEY ID** list box.
@@ -51,10 +51,10 @@ To create the ISA security role:
 10. Click **Save.**
 
 11. Navigate to the *[Security
-    Roles](../../../Platform/Sys_Admin/Page_Desc/Security_Roles.htm)*
+    Roles](../../../Platform/Sys_Admin/Page_Desc/Security_Roles)*
     page.
 
 12. Add the user who should access the database to refresh it in Collect
     to the ISA Security role. Refer to [Assign Users to Security
-    Roles](../../../Platform/Sys_Admin/Use_Cases/Assign_Users_to_Security_Roles.htm)
+    Roles](../../../Platform/Sys_Admin/Use_Cases/Assign_Users_to_Security_Roles)
     for more information.

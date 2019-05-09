@@ -3,7 +3,7 @@
 <div class="use">
 
 Use this page to [View Reports for Project
-Distributions](../Use_Cases/View_Reports_for_Project_Distributions.htm).
+Distributions](../Use_Cases/View_Reports_for_Project_Distributions).
 
 </div>
 
@@ -27,7 +27,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Reports</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Report_Data_Viewer.htm">Report Data Viewer</a></span> page.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Report_Data_Viewer">Report Data Viewer</a></span> page.</p></td>
 </tr>
 <tr class="even">
 <td><p>Actionable Reports</p></td>

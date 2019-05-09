@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Configure an XML Template with Structures, Elements
-and Attributes.](../Use_Cases/ConfigureXMTemplateStrctrEleAtt.htm)
+and Attributes.](../Use_Cases/ConfigureXMTemplateStrctrEleAtt)
 
 </div>
 

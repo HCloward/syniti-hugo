@@ -33,7 +33,7 @@ To sync:
 3.  Click **Edit**.
     
     [View the field descriptions for the Source Where Used
-    page](../Page_Desc/Source_Where_Used.htm)
+    page](../Page_Desc/Source_Where_Used)
 
 4.  Select the System Type in the **SYSTEM TYPE ID** list box that
     should be used for a Target.

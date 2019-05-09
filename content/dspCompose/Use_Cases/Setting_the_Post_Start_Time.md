@@ -20,7 +20,7 @@ time.
 4.  Click **Request (Post)** for the **Post ROLE ID**.
 
 5.  Click **Edit.***[View the field descriptions for the Request (Post)
-    page.](../Page_Desc/Request_Post.htm)*
+    page.](../Page_Desc/Request_Post)*
 
 6.  Select a date.
 

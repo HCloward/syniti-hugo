@@ -37,7 +37,7 @@ To add a template to a process:
 4.  Click **Add**.
     
     *[View the field descriptions for the Process Templates
-    page.](../Page_Desc/Process_Templates_H.htm)*
+    page.](../Page_Desc/Process_Templates_H)*
 
 5.  Enter a value in **PRIORITY**.
     

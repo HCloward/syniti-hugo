@@ -8,24 +8,24 @@ solution = 'Master Data Management'
 A Designer can add a variant at the category level. If the task variant
 condition is met in the Content WebApp, the column definitions defined
 for the variant on the <span style="font-style: italic;">[Scenario Role
-Task Column](../Page_Desc/Scenario_Role_Task_Column_H.htm)</span> page
+Task Column](../Page_Desc/Scenario_Role_Task_Column_H)</span> page
 are used when processing a request.
 
 A Designer can also import a variant view for a category. Refer to
 [Import a Variant View for a
-Category](Import_Views.htm#Import_a_Variant_View_for_a_Category) for
+Category](Import_Views#Import_a_Variant_View_for_a_Category) for
 more information.
 
 Before performing this task, the design process must be complete and a
 task must be defined in the Content WebApp. Refer to [dspConduct™ Design
-Process Overview](dspConduct_Design_Process_Overview.htm) for more
+Process Overview](dspConduct_Design_Process_Overview) for more
 information.
 
 To add a variant to a task in dspConduct™:
 
 1.  Select <span style="font-weight: bold;">dspConduct \>
     </span>**Design** in the *Navigation* pane; the
-    <span style="font-style: italic;">[Category](../Page_Desc/Category_H.htm)</span>
+    <span style="font-style: italic;">[Category](../Page_Desc/Category_H)</span>
     page displays.
 
 2.  Click the **Tasks** icon for a category.
@@ -36,7 +36,7 @@ To add a variant to a task in dspConduct™:
     **Add**.
     
     [View the field descriptions for the Task Variant
-    page.](../Page_Desc/Task_Variant.htm)
+    page.](../Page_Desc/Task_Variant)
 
 5.  Enter a name for the variant in the **NAME** field.
 
@@ -51,5 +51,5 @@ To add a variant to a task in dspConduct™:
 8.  Click **Save**.
 
 Next, [Activate and Configure Column
-Variants](Activate_Configure_Column_Variants.htm) for a scenario \> role
+Variants](Activate_Configure_Column_Variants) for a scenario \> role
 \> task combination.

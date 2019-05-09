@@ -3,7 +3,7 @@
 <div class="use">
 
 Use this page to [Configure Workflow
-Options](../Use_Cases/Configure_Workflow_OptionsISA.htm).
+Options](../Use_Cases/Configure_Workflow_OptionsISA).
 
 </div>
 

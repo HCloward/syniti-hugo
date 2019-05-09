@@ -10,9 +10,9 @@ posted by a request to tables in a target database (usually dgSAP.) The
 data downloads using a CranPort package or a Data Services job.
 
 The Final Finish process begins when a Role Processor clicks Finish for
-the Post role on the [Request Role](../Page_Desc/Request_Role_H.htm)
+the Post role on the [Request Role](../Page_Desc/Request_Role_H)
 page. Refer to [Finish a Role for the Post Role
-Type](Finish_a_Role_with_the_Post_Role_Type.htm) for more information.
+Type](Finish_a_Role_with_the_Post_Role_Type) for more information.
 
 A Designer must register the Final Finish table(s) or job at the task
 level.
@@ -38,16 +38,16 @@ in order to execute the OnValidate event.
 The section includes these topics:
 
   - [Business Process Execution with Scenario Dependencies During Final
-    Finish](Business_Process_Execution_with_Scenario_Dependencies_During_Final_Finish.htm)
+    Finish](Business_Process_Execution_with_Scenario_Dependencies_During_Final_Finish)
   - [Business Process Execution During Final
-    Finish](Business_Process_Execution_During_Final_Finish.htm)
+    Finish](Business_Process_Execution_During_Final_Finish)
   - [Configure Data Download During the Final Finish Process to use a
     CranPort
-    Package](Configure_Data_Download_During_the_Final_Finish_Process_to_use_a_CranPort_Package.htm)
+    Package](Configure_Data_Download_During_the_Final_Finish_Process_to_use_a_CranPort_Package)
   - [Create a Final Finish Where Clause for a CranPort
-    Package](Create_a_Final_Finish_Where_Clause_for_a_CranPort_Package.htm)
+    Package](Create_a_Final_Finish_Where_Clause_for_a_CranPort_Package)
   - [Configure Data Download During the Final Finish Process to use a
     Data Services
-    Job](Configure_Data_Download_During_the_Final_Finish_Process_to_use_a_Data_Services_Job.htm)
+    Job](Configure_Data_Download_During_the_Final_Finish_Process_to_use_a_Data_Services_Job)
   - [View Final Finish Download
-    Messages](View_Final_Finish_Download_Messages.htm)
+    Messages](View_Final_Finish_Download_Messages)

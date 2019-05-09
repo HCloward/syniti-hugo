@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Monitor Interfaces &
-Events](../Use_Cases/Monitor_Interfaces_Events.htm). 
+Events](../Use_Cases/Monitor_Interfaces_Events). 
 
 </div>
 
@@ -56,7 +56,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>DESCRIPTION</p></td>
-<td><p>Displays the page for which the event runs. This value is pulled from the PAGE ID field on the <em><a href="Interface_Events.htm">Interface Events</a></em> page</p>
+<td><p>Displays the page for which the event runs. This value is pulled from the PAGE ID field on the <em><a href="Interface_Events">Interface Events</a></em> page</p>
 <p><strong>NOTE:</strong> This field only applies to WebApp events. </p></td>
 </tr>
 <tr class="odd">
@@ -125,7 +125,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Description</p></td>
-<td><p>Displays the page for which the event runs. This value is pulled from the PAGE ID field on the <em><a href="Interface_Events.htm">Interface Events</a></em> page</p>
+<td><p>Displays the page for which the event runs. This value is pulled from the PAGE ID field on the <em><a href="Interface_Events">Interface Events</a></em> page</p>
 <p><strong>NOTE:</strong> This field only applies to WebApp events. </p></td>
 </tr>
 <tr class="odd">

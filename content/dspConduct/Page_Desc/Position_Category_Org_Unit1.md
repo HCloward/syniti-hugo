@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [configure org unit value assignments at the position
-level](../Use_Cases/Set_a_Roles_Org_Unit_Value_Assignments.htm#Configure_Org_Unit_Value_Assignments_at_the_Position_Level).
+level](../Use_Cases/Set_a_Roles_Org_Unit_Value_Assignments#Configure_Org_Unit_Value_Assignments_at_the_Position_Level).
 
 </div>
 

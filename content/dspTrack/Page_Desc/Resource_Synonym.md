@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Map a project user name to a user name in the
-platform](../Use_Cases/Map_prjct_usrnme_platform_usrnm.htm).
+platform](../Use_Cases/Map_prjct_usrnme_platform_usrnm).
 
 </div>
 

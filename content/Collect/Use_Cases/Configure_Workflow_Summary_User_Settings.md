@@ -9,7 +9,7 @@ Users receive workflow emails as notifications for various processes,
 such as when a table fails to download or when a table completes a
 download. The summary email is sent once daily at a user selected time,
 but can be sent on demand. Refer to [Send Workflow Summary On
-Demand](Send_Workflow_Summary_On_Demand.htm) for detailed information.
+Demand](Send_Workflow_Summary_On_Demand) for detailed information.
 
 To configure workflow summary settings for a user:
 

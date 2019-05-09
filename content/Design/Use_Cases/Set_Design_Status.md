@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Set a Target's Design
-Status](Set_the_Design_Status.htm).
+Status](Set_the_Design_Status).
 
 </div>
 
@@ -19,7 +19,7 @@ To access this page:
 2.  Select <span style="font-weight: bold;">Design </span>in the Context
     bar.
 3.  Click the <span style="font-weight: bold;">Targets</span>icon on the
-    *[Design](../Page_Desc/Design.htm)* page.
+    *[Design](../Page_Desc/Design)* page.
 4.  Click the link in the <span style="font-weight: bold;">DESIGN
     STATUS</span> column for the Target.
 
@@ -57,7 +57,7 @@ To access this page:
 <li>The Target cannot be edited.</li>
 <li>The Target is not pushed to Map for mapping and is not available in Transform when the Sync to Map process runs.</li>
 <li>The Target is no longer visible in Map and Construct.</li>
-<li>Mappings for the Target that are waiting for approval on the <a href="../../Map/Page_Desc/Mapping_Approval_H.htm">Mapping Approval</a> page are removed from the page.</li>
+<li>Mappings for the Target that are waiting for approval on the <a href="../../Map/Page_Desc/Mapping_Approval_H">Mapping Approval</a> page are removed from the page.</li>
 </ul>
 <p>When a Target in this status is selected, the Sync to Map icon is disabled.</p>
 <p>Updates to Business Contacts and Developers are allowed.</p></td>

@@ -11,9 +11,9 @@ solution = 'Platform'
 
 Use this page to:
 
-  - [Add Fields to Tables](../Use_Cases/Add_Fields_to_Tables.htm)
+  - [Add Fields to Tables](../Use_Cases/Add_Fields_to_Tables)
   - [Add a Lookup Table
-    Manually](../Use_Cases/Add_a%20Lookup%20Table%20Manually..htm)
+    Manually](../Use_Cases/Add_a%20Lookup%20Table%20Manually.)
 
 </div>
 
@@ -24,7 +24,7 @@ To access this page:
 3.  Click the **Fields** icon for a Table Name.
 
 **NOTE:** Excel Integration has been enabled on this page. Refer to [Use
-Excel Integration](../../Excel_Int/Use_Excel_Integration.htm) for more
+Excel Integration](../../Excel_Int/Use_Excel_Integration) for more
 information.
 
 <table>
@@ -60,11 +60,11 @@ information.
 </tr>
 <tr class="even">
 <td><p>LOOKUP TABLE</p></td>
-<td><p>Click the link on the name of the lookup table to open the <em><a href="System_Types_Table_Lookup.htm">System Types Table Lookup</a></em> page to view or edit the fields in the lookup table.</p></td>
+<td><p>Click the link on the name of the lookup table to open the <em><a href="System_Types_Table_Lookup">System Types Table Lookup</a></em> page to view or edit the fields in the lookup table.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Static Value List</p></td>
-<td><p>Click to open the <em><a href="System_Types_Table_Statics.htm">System Types Table Statics</a></em> page to add a static value for the field.</p></td>
+<td><p>Click to open the <em><a href="System_Types_Table_Statics">System Types Table Statics</a></em> page to add a static value for the field.</p></td>
 </tr>
 <tr class="even">
 <td><p>DSP SUPPLIED</p></td>
@@ -82,7 +82,7 @@ information.
 <div class="use">
 
 Use this page to [Add Fields to
-Tables](../Use_Cases/Add_Fields_to_Tables.htm).
+Tables](../Use_Cases/Add_Fields_to_Tables).
 
 </div>
 
@@ -139,7 +139,7 @@ Time, Decimal and Checkbox.
 For example, the Date Format for a target is set at YYYYDDMM.
 
 This value will be loaded into Target Design's [Target
-Fields](../../../Migration/Design/Page_Desc/Target_Fields_H_Target_Design.htm)
+Fields](../../../Migration/Design/Page_Desc/Target_Fields_H_Target_Design)
 page.
 
 Active For Mapping Default

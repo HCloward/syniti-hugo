@@ -10,7 +10,7 @@ solution = "Platform"
 **NOTE:** Access to IG Universal Connect is by subscription. Contact
 your BOA Sales contact for more information. If you do not have contact
 information then post your question in the [Data Insiders
-Community](../../Data%20Insiders%20Community.htm).
+Community](../../Data%20Insiders%20Community).
 
 IG Universal Connect uses the DSP® combined with Dell Boomi, an
 Integration Platform as a Service (IPaaS) solution. Boomi’s connectors
@@ -73,15 +73,15 @@ support site for more information.
 To use IG Universal Connect and the DSP® in any scenario:
 
 • [Register the IG UC Data Source in
-Common](../Common/Use_Cases/Register_a_Data_Source_in_Common.htm)
+Common](../Common/Use_Cases/Register_a_Data_Source_in_Common)
 
 • [Extract Data Using IG Universal Connect in
-Collect](Extract%20Data%20using%20IG%20Universal%20Connect%20in%20Collect.htm)
+Collect](Extract%20Data%20using%20IG%20Universal%20Connect%20in%20Collect)
 
 • [Post Data Using IG Universal Connect in
-Integrate](Post%20Data%20Using%20IG%20Universal%20Connect%20Overview.htm)
+Integrate](Post%20Data%20Using%20IG%20Universal%20Connect%20Overview)
 
 In System Administration, refer to [Execute a Boomi Process from a
 Custom
-Page](../WebApp_Dev/Execute%20a%20Boomi%20Process%20From%20a%20Custom%20Page.htm)
+Page](../WebApp_Dev/Execute%20a%20Boomi%20Process%20From%20a%20Custom%20Page)
 for additional information.

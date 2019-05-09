@@ -48,7 +48,7 @@ To view field mappings and edit them manually if necessary:
     
     *[View the field descriptions for the Process Template Loop Field
     Mappings
-    page.](../Page_Desc/Process_Template_Loop_Field_Mappings_H.htm)*
+    page.](../Page_Desc/Process_Template_Loop_Field_Mappings_H)*
 
 4.  Update the **MAPPING VALUE** or **FIXED VALUE** field.
     

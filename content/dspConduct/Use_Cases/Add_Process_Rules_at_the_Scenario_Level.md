@@ -16,7 +16,7 @@ events.
 
 Rules can be assigned to the process by default at the category level.
 Refer to [Set Rules for a Category
-Process](Set_Rules_for_a_Category_Process.htm) for more information.
+Process](Set_Rules_for_a_Category_Process) for more information.
 
 <span style="font-weight: bold;">NOTE</span>: The rule must be a stored
 procedure written in SQL stored in a data source that has been
@@ -42,7 +42,7 @@ To add a process rule at the scenario level:
 5.  Click <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Scenario Process Rule
-    page](../Page_Desc/Scenario_Process_Rule.htm)
+    page](../Page_Desc/Scenario_Process_Rule)
 
 6.  Enter a value in the
     <span style="font-weight: bold;">PRIORITY</span> field.

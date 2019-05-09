@@ -23,7 +23,7 @@ To add a sampling method in Transform:
 2.  Click **Add**.
     
     [*View the field descriptions for the* Sampling Methods *(Setup)
-    page.*](../Page_Desc/Sampling_Methods_Setup.htm)
+    page.*](../Page_Desc/Sampling_Methods_Setup)
 
 3.  Enter a name in the **DESCRIPTION** field.
 

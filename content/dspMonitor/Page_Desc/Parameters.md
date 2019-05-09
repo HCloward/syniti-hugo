@@ -6,7 +6,7 @@ solution = 'Data Quality'
 # Parameters
 
 Use this page to [Configure dspMonitor™
-Parameters](../Config/Configure_dspMonitor_Parameters.htm).
+Parameters](../Config/Configure_dspMonitor_Parameters).
 
 <div class="use">
 
@@ -86,11 +86,11 @@ report repository.
 Default Opportunity View Filter
 
 Displays the view that filters the selection options in Opportunity View
-list box on the *[Repository Reports](Repository_Reports_H.htm)* page.
+list box on the *[Repository Reports](Repository_Reports_H)* page.
 
 **NOTE:** The recommended value is tv\*OptSel. If this value is entered,
 when configuring reports on the *[Repository
-Report](Repository_Reports_H.htm)* page, only views that follow the
+Report](Repository_Reports_H)* page, only views that follow the
 naming convention of tv\*OptSel are available to choose as an
 Opportunity View from the drop down list.
 
@@ -141,13 +141,13 @@ Displays the suffix used for cache databases. Default value is
 Use this tab to:
 
   - [Register Data Quality Score
-    Thresholds](../Use_Cases/Populate_Configuration_Tables.htm#Register_Data_Quality_Score_Thresholds).
+    Thresholds](../Use_Cases/Populate_Configuration_Tables#Register_Data_Quality_Score_Thresholds).
   - [Customizing Group Metric
-    Graph](../Use_Cases/Populate_Configuration_Tables.htm#Customize_Group_Metric_Graph)
+    Graph](../Use_Cases/Populate_Configuration_Tables#Customize_Group_Metric_Graph)
   - [Use Data Quality
-    Dashboard](../Use_Cases/Use_Data_Quality_Dashboard.htm)
+    Dashboard](../Use_Cases/Use_Data_Quality_Dashboard)
   - [Configure the Business Value
-    Dashboard](../Use_Cases/Configure_the_Business_Value_Dashboard.htm)
+    Dashboard](../Use_Cases/Configure_the_Business_Value_Dashboard)
 
 Field
 
@@ -218,7 +218,7 @@ supplied from the thresholds that have been created on the *Data Quality
 Score Thresholds* page.
 
 Refer to [Register Data Quality Score
-Thresholds](../Use_Cases/Populate_Configuration_Tables.htm#Register_Data_Quality_Score_Thresholds)
+Thresholds](../Use_Cases/Populate_Configuration_Tables#Register_Data_Quality_Score_Thresholds)
 for more information.
 
 Threshold ID
@@ -228,7 +228,7 @@ default threshold is supplied at the Parameters level. The default
 Threshold ID may be changed to any custom threshold. Custom thresholds
 are added on the *Data Quality Score Thresholds* page. Refer to
 [Register Data Quality Score
-Thresholds](../Use_Cases/Populate_Configuration_Tables.htm#Register_Data_Quality_Score_Thresholds)
+Thresholds](../Use_Cases/Populate_Configuration_Tables#Register_Data_Quality_Score_Thresholds)
 for more information.
 
 Business Value Parameters
@@ -247,7 +247,7 @@ Failure value set at the report level.
 ### <span id="Workflow_Parameters_Tab"></span>Workflow Parameters tab
 
 Use this tab to [Configure Workflow
-Content](../Use_Cases/Manage_Workflow_Emails.htm#Configure_Workflow_Content).
+Content](../Use_Cases/Manage_Workflow_Emails#Configure_Workflow_Content).
 
 Field
 
@@ -323,7 +323,7 @@ Displays color code for background of even rows on the summary report.
 ### <span id="Misc_Parameters_Tab"></span>Misc Parameters tab
 
 Use this tab to [Configure SAP Client Name for dspMonitor™
-Reports](../Config/Configure_SAP_Client_Name_for_dspMonitor_Reports.htm).
+Reports](../Config/Configure_SAP_Client_Name_for_dspMonitor_Reports).
 
 Field
 

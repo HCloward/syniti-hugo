@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Configure Profile
-Parameters](../Use_Cases/Configure_Profile_Parameters.htm).
+Parameters](../Use_Cases/Configure_Profile_Parameters).
 
 </div>
 

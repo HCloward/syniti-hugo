@@ -16,7 +16,7 @@ on the *Templates* page’s *Vertical* View on the **Advanced** tab.
 
 Custom role validations can also be added on the *Template (Role
 Validations)* page. Refer to [Add Validations to
-Roles](../Use_Cases/Add_Validations_to_Roles.htm) for more information.
+Roles](../Use_Cases/Add_Validations_to_Roles) for more information.
 
 The **Validate** button automatically displays on the *Request (Roles)*
 page for the Data role and the Review role if:
@@ -47,7 +47,7 @@ Values are:
     the *Template*page’s *Vertical* View on the Advanced tab fail with a
     severity of Error. Custom role validations can be configured to fail
     with other severity levels. Refer to [Add Validations to
-    Roles](../Use_Cases/Add_Validations_to_Roles.htm) for more
+    Roles](../Use_Cases/Add_Validations_to_Roles) for more
     information.
 
   - **Message –** Marks the role status as *valid* but a message
@@ -60,7 +60,7 @@ If a Prevent Finish Severity option is not selected, a warning displays
 if there is a validation error, but the role can be finished.
 
 Validation messages can be customized. Refer to [Update Validation
-Messages](Update_Validation_Messages.htm)  for more information.
+Messages](Update_Validation_Messages)  for more information.
 
 To enable role validations at the global level:
 

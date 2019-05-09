@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [View
-Objects](../../../Migration/Construct/Use_Cases/View_Objects.htm).
+Objects](../../../Migration/Construct/Use_Cases/View_Objects).
 
 </div>
 
@@ -32,4 +32,4 @@ objects.
 | DELETED             | If enabled, the object existed in the database, but was deleted.                                                                                          |
 | SQL                 | Click to view original SQL code that was captured when object was registered.                                                                             |
 | CHANGED ON          | Displays date and time when object was modified.                                                                                                          |
-| History             | Click to open the <span style="font-style: italic;">[History of Changes](History_Of_Changes.htm)</span> page to view an audit trail of object’s SQL code. |
+| History             | Click to open the <span style="font-style: italic;">[History of Changes](History_Of_Changes)</span> page to view an audit trail of object’s SQL code. |

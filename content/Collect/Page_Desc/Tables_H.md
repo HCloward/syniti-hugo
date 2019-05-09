@@ -11,31 +11,31 @@ solution = 'Platform'
 
 Use this page to:
 
-  - [Set up Schedule Groups](../Config/Set_Up_Schedule_Groups.htm)
+  - [Set up Schedule Groups](../Config/Set_Up_Schedule_Groups)
   - [Manually Register Tables to
-    Source](../Use_Cases/Manually_Register_Tables_to_Source.htm)
+    Source](../Use_Cases/Manually_Register_Tables_to_Source)
   - [Schedule Table
-    Refresh](../Use_Cases/Schedule_Updates_to_Tables.htm)
+    Refresh](../Use_Cases/Schedule_Updates_to_Tables)
   - [Set up Download with CranPort
-    Package](../Use_Cases/Set_Up_Table_Download_with_a_CranPort_Package.htm#Set_up_Download_with_CranPort_Package)
+    Package](../Use_Cases/Set_Up_Table_Download_with_a_CranPort_Package#Set_up_Download_with_CranPort_Package)
   - [Set up Download with ManualCranPort
-    Package](../Use_Cases/Set_Up_Table_Download_with_a_CranPort_Package.htm#Set_up_Download_with_ManualCranPort_Package)
+    Package](../Use_Cases/Set_Up_Table_Download_with_a_CranPort_Package#Set_up_Download_with_ManualCranPort_Package)
   - [Download sdb Tables in
-    Collect](../../../Migration/Map/Use_Cases/Download_Tables_Map.htm)
+    Collect](../../../Migration/Map/Use_Cases/Download_Tables_Map)
   - [Download dgSAP Tables in
-    Collect](../../../Migration/Map/Use_Cases/Download_Tables_Map.htm)
+    Collect](../../../Migration/Map/Use_Cases/Download_Tables_Map)
 
 </div>
 
 <span style="font-weight: bold;">NOTE:</span> Bulk Execution has been
 enabled on this page. Refer to [Use Bulk
-Execution](../../Bulk_Exec/Use_Bulk_Execution.htm) for more information.
+Execution](../../Bulk_Exec/Use_Bulk_Execution) for more information.
 
 **NOTE:** To receive a workflow email that a table download has failed
 in Collect, a user must be assigned to a security role that has the
 Collect WebApp group WorkFlowFailureAll or WorkFlowFaiureByTargetAccess
 assigned. Refer to [Set
-Security](../../Sys_Admin/Use_Cases/Setting_security.htm) in System
+Security](../../Sys_Admin/Use_Cases/Setting_security) in System
 Administration for more information.
 
 To access this page:
@@ -56,7 +56,7 @@ To access this page:
 <tr class="even">
 <td><p>Build And Refresh</p></td>
 <td><p>Click to build the package and download active tables from the source. If the package already exists, the table is refreshed (i.e., data is downloaded from the source database). If the package does not exist, a package is immediately scheduled to be built and the table is refreshed. The Refresh icon is disabled for DBMoto® package types because the refresh is run by DBMoto® instead of by Collect.</p>
-<p><strong>NOTE:</strong> If the data in the table has been purged manually, or the retention expiration date for that object has passed, it cannot be refreshed and this icon is inactive. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance.htm#Purge_Data">Purge Data</a> for more information.</p></td>
+<p><strong>NOTE:</strong> If the data in the table has been purged manually, or the retention expiration date for that object has passed, it cannot be refreshed and this icon is inactive. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance#Purge_Data">Purge Data</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Reset</p></td>
@@ -65,13 +65,13 @@ To access this page:
 <tr class="even">
 <td><p>Build Package</p></td>
 <td><p>Click to build a package to download active tables from the source.</p>
-<p><strong>NOTE:</strong> If the data in the table has been purged manually, or the retention expiration date for that object has passed, it cannot be refreshed and this icon is inactive. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance.htm#Purge_Data">Purge Data</a> for more information.</p></td>
+<p><strong>NOTE:</strong> If the data in the table has been purged manually, or the retention expiration date for that object has passed, it cannot be refreshed and this icon is inactive. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance#Purge_Data">Purge Data</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Refresh</p></td>
 <td><p>Click to manually extract a copy of data from the source and load into the target.</p>
 <p><strong>NOTE:</strong> If the Target Source uses an IG Universal Connect data source, clicking Refresh executes the Boomi Process.</p>
-<p><strong>NOTE:</strong> If the data in the table has been purged manually, or the retention expiration date for that object has passed, it cannot be refreshed and this icon is inactive. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance.htm#Purge_Data">Purge Data</a> for more information.</p></td>
+<p><strong>NOTE:</strong> If the data in the table has been purged manually, or the retention expiration date for that object has passed, it cannot be refreshed and this icon is inactive. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance#Purge_Data">Purge Data</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>TARGET</p></td>
@@ -87,7 +87,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>PACKAGE TYPE</p></td>
-<td><p>Displays package type to refresh target table with source data. Default value is <strong>CranPort</strong>. Refer to <a href="../Use_Cases/Package_Types.htm">Package Types</a> for a description of each package type available.</p>
+<td><p>Displays package type to refresh target table with source data. Default value is <strong>CranPort</strong>. Refer to <a href="../Use_Cases/Package_Types">Package Types</a> for a description of each package type available.</p>
 <p><strong>NOTE</strong>: The component is referred to as Assemble in the help. The package type is still CranPort.</p>
 <p><strong>NOTE:</strong> When the package type is CranPort package, the package name is hyperlinked to the CranPort package in Assemble in the view.</p>
 <p><strong>NOTE:</strong> If source has an SAPAPPSERVER connection type, only the following RFC package types are available in the Package Type list box:</p>
@@ -132,35 +132,35 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Rules</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Table_Rule_H.htm">Table (Rule)</a></span> page to register rules to table.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Table_Rule_H">Table (Rule)</a></span> page to register rules to table.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Indices</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Table_Indices_H.htm">Table (Indices)</a></span> page to register indices to table.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Table_Indices_H">Table (Indices)</a></span> page to register indices to table.</p></td>
 </tr>
 <tr class="even">
 <td><p>View Data</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Tables_H.htm">Tables</a></span> page to view table data downloaded from source.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Tables_H">Tables</a></span> page to view table data downloaded from source.</p></td>
 </tr>
 </tbody>
 </table>
 
 ## <span id="Tables_V_All_Tabs"></span>Tables V (All Tabs)
 
-[Tables H](Tables_H.htm)
+[Tables H](Tables_H)
 
 <div class="use">
 
 Use this page to:
 
   - [Manually Register Tables to
-    Source](../Use_Cases/Manually_Register_Tables_to_Source.htm)
+    Source](../Use_Cases/Manually_Register_Tables_to_Source)
   - [Schedule Table
-    Refresh](../Use_Cases/Schedule_Updates_to_Tables.htm)
+    Refresh](../Use_Cases/Schedule_Updates_to_Tables)
   - [Set up Download with CranPort
-    Package](../Use_Cases/Set_Up_Table_Download_with_a_CranPort_Package.htm#Set_up_Download_with_CranPort_Package)
+    Package](../Use_Cases/Set_Up_Table_Download_with_a_CranPort_Package#Set_up_Download_with_CranPort_Package)
   - [Set up Download with ManualCranPort
-    Package](../Use_Cases/Set_Up_Table_Download_with_a_CranPort_Package.htm#Set_up_Download_with_ManualCranPort_Package)
+    Package](../Use_Cases/Set_Up_Table_Download_with_a_CranPort_Package#Set_up_Download_with_ManualCranPort_Package)
 
 </div>
 
@@ -183,7 +183,7 @@ This page contains the following tabs:
 <tr class="even">
 <td><p>Build Package</p></td>
 <td><p>Click to build a package to download active tables from the source.</p>
-<p><strong>NOTE:</strong> If the data in the table has been purged manually, or the retention expiration date for that object has passed, it cannot be refreshed and this icon is inactive. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance.htm#Purge_Data">Purge Data</a> for more information.</p></td>
+<p><strong>NOTE:</strong> If the data in the table has been purged manually, or the retention expiration date for that object has passed, it cannot be refreshed and this icon is inactive. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance#Purge_Data">Purge Data</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Reset</p></td>
@@ -193,7 +193,7 @@ This page contains the following tabs:
 <td><p>Refresh</p></td>
 <td><p>Click to manually extract a copy of data from the source and load into the target.</p>
 <p><strong>NOTE:</strong> If the Target Source uses an IG Universal Connect data source, clicking Refresh executes the Boomi Process.</p>
-<p><strong>NOTE:</strong> If the data in the table has been purged manually, or the retention expiration date for that object has passed, it cannot be refreshed and this icon is inactive. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance.htm#Purge_Data">Purge Data</a> for more information.</p></td>
+<p><strong>NOTE:</strong> If the data in the table has been purged manually, or the retention expiration date for that object has passed, it cannot be refreshed and this icon is inactive. Refer to <a href="../Use_Cases/Support_Regulatory_Compliance#Purge_Data">Purge Data</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Target</p></td>
@@ -261,11 +261,11 @@ Services.
 
 **NOTE:** The package name must follow the naming convention
 \#Database\#%\#Source\#%. Refer to [Create
-Packages](../../Assemble/Create_Packages.htm) for more information.
+Packages](../../Assemble/Create_Packages) for more information.
 
 **NOTE:** For Manual Data Services package types, select from the list
 of available jobs in the Data Services Repository assigned to the target
-on the *[Targets](Targets_H_Collect.htm#Targets_V)* page’s *Vertical*
+on the *[Targets](Targets_H_Collect#Targets_V)* page’s *Vertical*
 View.
 
 Schedule ID
@@ -307,7 +307,7 @@ With synchronous execution, the build package jobs respect the queue and
 wait until jobs are finished before starting another job.
 
 This option applies to the Data Services [Package
-Types](../Use_Cases/Package_Types.htm).
+Types](../Use_Cases/Package_Types).
 
 Schedule Single Thread
 
@@ -380,15 +380,15 @@ Connect data source.
 </tr>
 <tr class="even">
 <td><p>View Design</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Data_Source_Tables_H.htm">Data Source Tables</a></span> page to view, edit and delete details about the table.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Data_Source_Tables_H">Data Source Tables</a></span> page to view, edit and delete details about the table.</p></td>
 </tr>
 <tr class="odd">
 <td><p>View Metrics</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="../Use_Cases/Download_Metrics.htm">Download Metrics</a></span> page to view and download metrics for table.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="../Use_Cases/Download_Metrics">Download Metrics</a></span> page to view and download metrics for table.</p></td>
 </tr>
 <tr class="even">
 <td><p>View Job Tasks</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Table_Download_Task_List.htm">Table Download Task List</a></span> page to view job tasks used to download table.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Table_Download_Task_List">Table Download Task List</a></span> page to view job tasks used to download table.</p></td>
 </tr>
 </tbody>
 </table>
@@ -398,7 +398,7 @@ Connect data source.
 <div class="use">
 
 Use this tab to [purge
-data](../Use_Cases/Support_Regulatory_Compliance.htm#Purge_Data) for
+data](../Use_Cases/Support_Regulatory_Compliance#Purge_Data) for
 tables.
 
 </div>
@@ -418,9 +418,9 @@ tables.
 Use this tab to:
 
   - [Configure Data
-    Protection](../Use_Cases/Support_Regulatory_Compliance.htm#Configure_Data_Protection)
+    Protection](../Use_Cases/Support_Regulatory_Compliance#Configure_Data_Protection)
   - [Update the Retention Expiration
-    Date](../Use_Cases/Support_Regulatory_Compliance.htm#Update_the_Retention_Expiration_Date)
+    Date](../Use_Cases/Support_Regulatory_Compliance#Update_the_Retention_Expiration_Date)
 
 </div>
 
@@ -434,7 +434,7 @@ Use this tab to:
 <td><p>Data Controller</p></td>
 <td><p>Displays the user responsible for the processing of personal data in the table</p>
 <p>Any user or group who is assigned the Data Controller role must have a user account in the DSP. Data Controller must have access to the target based on their assigned security role and security key.</p>
-<p><strong>NOTE:</strong> The Collect Administrator must check the WORK FLOW SUMMARY check box for the target and Data Controller on the <em><a href="Workflow_Summary_User_Settings.htm">Workflow Summary User Settings</a></em> page. The Data Controller is added to this page automatically. If the check box is not checked, the Data Controller will not receive a warning email that data is going to be purged.</p></td>
+<p><strong>NOTE:</strong> The Collect Administrator must check the WORK FLOW SUMMARY check box for the target and Data Controller on the <em><a href="Workflow_Summary_User_Settings">Workflow Summary User Settings</a></em> page. The Data Controller is added to this page automatically. If the check box is not checked, the Data Controller will not receive a warning email that data is going to be purged.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Data Classification</p></td>
@@ -445,7 +445,7 @@ Use this tab to:
 <li><strong>Public</strong> —This object contains data that does not need to be purged (for example, Units of Measure, Material Descriptions, Country Codes).</li>
 <li><strong>Restricted</strong> — This data does not need to be purged, but is marked as restricted access (for example, Company Chart of Accounts, Recipes, Work Orders).</li>
 </ul>
-<p><strong>NOTE:</strong> These options are delivered with the DSP and cannot be updated; however, a Common Administrator can create custom classifications on the Data Classification page in Common. Refer to <a href="../../Common/Use_Cases/Add%20Custom%20Data%20Classifications%20and%20Information%20Types.htm">Add Custom Data Classifications and Information Types</a> for more information.</p></td>
+<p><strong>NOTE:</strong> These options are delivered with the DSP and cannot be updated; however, a Common Administrator can create custom classifications on the Data Classification page in Common. Refer to <a href="../../Common/Use_Cases/Add%20Custom%20Data%20Classifications%20and%20Information%20Types">Add Custom Data Classifications and Information Types</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Retention Expiration Date</p></td>
@@ -454,7 +454,7 @@ Use this tab to:
 <p>A different retention expiration date can be set at the target and target source level.</p>
 <p>If no date is set for the object, the data is not purged.</p>
 <p><strong>NOTE:</strong> Updates to this field are audited. An e-signature is required.</p>
-<p><strong>NOTE:</strong> Once this data has passed, the Refresh and Build and Refresh icons on the <em><a href="Targets_H_Collect.htm">Targets</a></em>, <a href="Target_Sources_H_Collect.htm">Target Sources</a>, and this page are inactive. The table can no longer be refreshed either manually or automatically.</p></td>
+<p><strong>NOTE:</strong> Once this data has passed, the Refresh and Build and Refresh icons on the <em><a href="Targets_H_Collect">Targets</a></em>, <a href="Target_Sources_H_Collect">Target Sources</a>, and this page are inactive. The table can no longer be refreshed either manually or automatically.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Data Collection Reason</p></td>

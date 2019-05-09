@@ -18,7 +18,7 @@ separately, then assign them to a Wave.
 
 ## <span id="Add2"></span>Add a Wave
 
-Add a Wave on the *[Waves](../Page_Desc/Waves_H.htm)* page, the first
+Add a Wave on the *[Waves](../Page_Desc/Waves_H)* page, the first
 page that opens when Console opens (also accessible by clicking
 **Waves** on the *Navigation* pane).
 
@@ -35,7 +35,7 @@ To add a Wave in Console:
 1.  Click **Add** on the *Waves* page.
     
     *[View the field descriptions for the Waves
-    page](../Page_Desc/Waves_H.htm)*
+    page](../Page_Desc/Waves_H)*
 
 2.  Enter a Wave name in **NAME** field.
     
@@ -57,17 +57,17 @@ To add a Wave in Console:
     
     **NOTE:** A Wave can have multiple target systems. Refer to [Add
     Multiple Target Systems at the Wave-Process Area
-    Level](Add_Multiple_Target_Systems.htm) for more information.
+    Level](Add_Multiple_Target_Systems) for more information.
     
     **NOTE:** To use IGC’s Migration dashboard, set the Start Date and
     End Date. Refer to [Configure the IGC Migration
-    Dashboard](../../../Platform/Agent_Int/Use_Cases/Configure_the_Migration_Dashboard.htm)
+    Dashboard](../../../Platform/Agent_Int/Use_Cases/Configure_the_Migration_Dashboard)
     for more information.
 
 6.  Click **Save**.
 
 A Wave can also be added by copying an existing Wave. Refer to [Copy
-Elements](Copy_Elements.htm) for more information.
+Elements](Copy_Elements) for more information.
 
 **NOTE:** If a user is currently working in a context (as in, that
 context displays on the user’s Context bar), neither the Wave nor
@@ -84,7 +84,7 @@ assigned to a Wave.
 **NOTE**: The combination of a Wave and Process Area is a context and is
 used on the Context bar to drive the work in other components. Refer to
 [Context, the Context Bar, and Navigation in
-dspMigrate™](../../dspMigrate/Context_Navigation.htm) for more
+dspMigrate™](../../dspMigrate/Context_Navigation) for more
 information.
 
 Examples of Process Areas for an ERP integration are Sales and
@@ -98,7 +98,7 @@ To add a Process Area to be used in a hierarchical structure:
 2.  Click **Add**.
     
     [View the field descriptions for the Process Area
-    page](../Page_Desc/Process_Area.htm)
+    page](../Page_Desc/Process_Area)
 
 3.  Enter a Process Area name in the **Process Area** field.
     
@@ -111,11 +111,11 @@ To add a Process Area to be used in a hierarchical structure:
 5.  Click **Save**.
 
 The Process Area displays in the Process Area ID list box on the *[Wave
-: Process Areas](../Page_Desc/Wave_Process_Areas.htm)* page, and can be
+: Process Areas](../Page_Desc/Wave_Process_Areas)* page, and can be
 assigned to a Wave to create a context.
 
 A Process Area can also be added by copying an existing Process Area.
-Refer to [Copy Elements](Copy_Elements.htm) for more information.
+Refer to [Copy Elements](Copy_Elements) for more information.
 
 **NOTE**: If a user is currently working in a context (i.e., that
 context displays on the user’s Context bar), neither the Wave nor
@@ -139,7 +139,7 @@ To add a migration object: 
 2.  Click **Add**; the *Vertical* View displays.
     
     *[View the field descriptions for the Objects
-    page](../Page_Desc/Objects_H.htm)*
+    page](../Page_Desc/Objects_H)*
 
 3.  Enter an object name in the **NAME** field.
 
@@ -164,11 +164,11 @@ To add a migration object: 
 7.  Click **Save**.
 
 The object displays in the **OBJECTID** list box on the *[Process Area:
-Object](../Page_Desc/Process_Area_ObjectH.htm)* page, and can be
+Object](../Page_Desc/Process_Area_ObjectH)* page, and can be
 assigned to a Process Area.
 
 An object can also be added by copying an existing object. Refer to
-[Copy Elements](Copy_Elements.htm) for more information.
+[Copy Elements](Copy_Elements) for more information.
 
 Once an object is added in Console, it can be viewed in Map and
 Transform.  If the object is deleted in Console, it no longer displays
@@ -191,16 +191,16 @@ To add existing elements to a Wave:
 3.  Click **Add**.
     
     *[View the field descriptions for the Wave: Process Areas
-    page](../Page_Desc/Wave_Process_Areas.htm)*
+    page](../Page_Desc/Wave_Process_Areas)*
 
 4.  Select a Process Area from the **Process Area ID** list box.
     
     Or
     
     Click the **+** icon to open the *[Process
-    Area](../Page_Desc/Process_Area.htm)* page to manually create a new
+    Area](../Page_Desc/Process_Area)* page to manually create a new
     Process Area ID. Refer to [Create the Context by Adding a Wave and
-    Creating Elements](Add_a_Wave_and_Create_Elements.htm) for more
+    Creating Elements](Add_a_Wave_and_Create_Elements) for more
     information.
 
 5.  Click **Save**.
@@ -210,16 +210,16 @@ To add existing elements to a Wave:
 7.  Click **Add**.
     
     [View the field descriptions for the Process Area: Object
-    page](../Page_Desc/Process_Area_ObjectH.htm)
+    page](../Page_Desc/Process_Area_ObjectH)
 
 8.  Select an object from the **OBJECT ID** list box.
     
     Or
     
     Click the **+** icon to open the
-    *[Objects](../Page_Desc/Objects_H.htm)* page to manually create a
+    *[Objects](../Page_Desc/Objects_H)* page to manually create a
     new OBJECT ID. Refer to [Create the Context by Adding a Wave and
-    Creating Elements](Add_a_Wave_and_Create_Elements.htm) for more
+    Creating Elements](Add_a_Wave_and_Create_Elements) for more
     information.
 
 9.  Select a data source from the **DATA SOURCE ID** list box.

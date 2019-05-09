@@ -10,17 +10,17 @@ Control Views (DCV), for a scenario \> role \> task combination. These
 objects are created and stored in the Content WebApp’s database.
 
 Before performing this task, [Generate a Control Table for Content
-WebApp Pages](Generate_a_Control_Table_for_Content_WebApp_Pages.htm).
+WebApp Pages](Generate_a_Control_Table_for_Content_WebApp_Pages).
 
 Views are based on a control table that has been generated when a user
 clicked the Create Control Table icon on the
 <span style="font-style: italic;">[Scenario Role Task
-Page](../Page_Desc/Scenario_Role_Task_Page.htm)</span>page.  dspConduct™
+Page](../Page_Desc/Scenario_Role_Task_Page)</span>page.  dspConduct™
 reads in the control value for each column (Hide, Enable, Disable)
 stored in the control table when building the view.
 
 If a task has active variants assigned, dspConduct™ builds a DCV. Refer
-to [Add a Variant to a Task](Add_a_Variant_to_a_Task.htm) for more
+to [Add a Variant to a Task](Add_a_Variant_to_a_Task) for more
 information.
 
 When a DCV is built, three views are created:

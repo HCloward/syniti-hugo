@@ -9,7 +9,7 @@ A Role Processor can troubleshoot issues related to the data download
 during the Final Finish process using a Data Services job.
 
 Refer to [Register Tables for Download through Data
-Services](Register_Tables_for_Download_through_Data_Services.htm) for
+Services](Register_Tables_for_Download_through_Data_Services) for
 general information.
 
 To troubleshoot Data Services jobs,
@@ -18,7 +18,7 @@ Data Services Job Executor</span> in the
 <span style="font-style: italic;">Navigation</span> pane.
 
 On the [Data Services Job
-Executor](../Page_Desc/Data_Services_Job_Executor.htm) page, a user can:
+Executor](../Page_Desc/Data_Services_Job_Executor) page, a user can:
 
   - Click the Execution Logs icon for a job name and request ID to view
     the job status.

@@ -15,7 +15,7 @@ Settings</span> tab.
 Click <span style="font-weight: bold;">Edit</span>.
 
 [View the field descriptions for the Parameters page’s Basic Settings
-tab.](../Page_Desc/ISA_Parameters.htm#Basic_Settings_tab)
+tab.](../Page_Desc/ISA_Parameters#Basic_Settings_tab)
 
 Update the <span style="font-weight: bold;">Server</span> or
 <span style="font-weight: bold;">Port</span> number as needed.

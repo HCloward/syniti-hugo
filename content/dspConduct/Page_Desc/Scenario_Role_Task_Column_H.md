@@ -12,17 +12,17 @@ solution = 'Master Data Management'
 Use this page to:
 
   - [Activate and Configure Column
-    Variants](../Use_Cases/Activate_Configure_Column_Variants.htm)
+    Variants](../Use_Cases/Activate_Configure_Column_Variants)
   - [Update a Scenario Role Task Column
-    List](../Use_Cases/Update_a_Scenario_Role_Task_Column_List.htm)
+    List](../Use_Cases/Update_a_Scenario_Role_Task_Column_List)
   - [Copy Settings to Other
-    Variants](../Use_Cases/Copy_Settings_to_Other_Variants.htm)
+    Variants](../Use_Cases/Copy_Settings_to_Other_Variants)
   - [Configure Column Status for a Task for a Scenario Role
-    Combination](../Use_Cases/Configure_Column_Status_for_a_Scenario_Role_Task.htm)
+    Combination](../Use_Cases/Configure_Column_Status_for_a_Scenario_Role_Task)
   - [Configure the Required Setting for a Scenario Role Task
-    Column](../Use_Cases/Configure_Required_Setting_Scenario_Role_Task_Column.htm)
+    Column](../Use_Cases/Configure_Required_Setting_Scenario_Role_Task_Column)
   - [Create Validation Views for a Content WebApp Task
-    Page](../Use_Cases/Create_ValidationViews_Content_Page.htm)
+    Page](../Use_Cases/Create_ValidationViews_Content_Page)
 
 </div>
 
@@ -49,14 +49,14 @@ To access this page:
 <td><p>Update Column List</p></td>
 <td><p>Click to refresh the column settings with the settings in the Content WebApp.</p>
 <p>If columns are added to or removed from the content page, the column list must be refreshed to capture the column additions or subtractions,</p>
-<p><strong>NOTE:</strong> This option only adds and removes column settings. Existing settings are not changed. Refer to <a href="../Use_Cases/Update_Control_Table_Data.htm">Update Control Table Data</a> for more information.</p>
+<p><strong>NOTE:</strong> This option only adds and removes column settings. Existing settings are not changed. Refer to <a href="../Use_Cases/Update_Control_Table_Data">Update Control Table Data</a> for more information.</p>
 <p><strong>NOTE:</strong> When the update adds a column for which there is no column property on the page, the columns status and required settings default to hidden and not required respectively. The Designer must configure the settings. </p></td>
 </tr>
 <tr class="odd">
 <td><p>Create Required Column Validations For All Columns</p></td>
 <td><p>Click to create required column validation views for all pages in this task.</p>
-<p>Refer to <a href="../Use_Cases/Create_Valid_Views_Task_Pages.htm">Create Validation Views for Content WebApp Task Pages</a> for more information.</p>
-<p>To create validation views for a single page in a task, refer to <a href="../Use_Cases/Create_ValidationViews_Content_Page.htm">Create Validation Views for a Content WebApp Task Page</a>.</p></td>
+<p>Refer to <a href="../Use_Cases/Create_Valid_Views_Task_Pages">Create Validation Views for Content WebApp Task Pages</a> for more information.</p>
+<p>To create validation views for a single page in a task, refer to <a href="../Use_Cases/Create_ValidationViews_Content_Page">Create Validation Views for a Content WebApp Task Page</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Enable Selected Columns</p></td>
@@ -138,8 +138,8 @@ To access this page:
 <tr class="odd">
 <td><p>Create Required Column Validations For All Columns</p></td>
 <td><p>Click to create required column validation views for all pages in this task.</p>
-<p>Refer to <a href="../Use_Cases/Create_Valid_Views_Task_Pages.htm">Create Validation Views for Content WebApp Task Pages</a> for more information.</p>
-<p>To create validation views for a single page in a task, refer to <a href="../Use_Cases/Create_ValidationViews_Content_Page.htm">Create Validation Views for a Content WebApp Task Page</a>.</p></td>
+<p>Refer to <a href="../Use_Cases/Create_Valid_Views_Task_Pages">Create Validation Views for Content WebApp Task Pages</a> for more information.</p>
+<p>To create validation views for a single page in a task, refer to <a href="../Use_Cases/Create_ValidationViews_Content_Page">Create Validation Views for a Content WebApp Task Page</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Column Page ID</p></td>

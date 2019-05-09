@@ -13,7 +13,7 @@ To configure an object:
 
   - [Add Contacts for an Object](#Add)
   - [Add Decisions for an Object](#Add2)
-  - [Copy or Move an Object](Copy_Elements.htm#Copy3)
+  - [Copy or Move an Object](Copy_Elements#Copy3)
   - [Track Object History](#Track)
 
 ## <span id="Add"></span>Add Contacts for an Object
@@ -29,7 +29,7 @@ Units.
 
 <span style="font-weight: bold;">NOTE</span>: Contacts can be added for
 targets in Target Design. Refer to [Add Individual Target
-Contacts](Add_Target_Contacts_to_Objects.htm#Add2) for more information.
+Contacts](Add_Target_Contacts_to_Objects#Add2) for more information.
 
 To add a contact in Console:
 
@@ -40,7 +40,7 @@ To add a contact in Console:
 3.  Click **Add**.
     
     *[View the field descriptions for the Object Contacts
-    page](../Page_Desc/Object_Contacts.htm)*
+    page](../Page_Desc/Object_Contacts)*
     
     **NOTE:**The CONTACT list box displays all users registered in the
     platform. Users who are not registered in the platform can be added
@@ -53,7 +53,7 @@ To add a contact in Console:
 5.  Select a job function from the **POSITION** list box.
     
     **NOTE:** Refer to [Configure List Box
-    Values](Configure_List_Box_Values.htm) for information on how to
+    Values](Configure_List_Box_Values) for information on how to
     modify **Position** options.
 
 6.  Enter a telephone number in the **PHONE** field.
@@ -91,13 +91,13 @@ Refer to [Add Contacts for an Object](#Add) for more information.
 
 To add a decision in Console:
 
-1.  Navigate to the *[Objects](../Page_Desc/Objects_H.htm)* page.
+1.  Navigate to the *[Objects](../Page_Desc/Objects_H)* page.
     
     **NOTE**: Access the page by:  
     Selecting **Elements \> Object** on the *Navigation* pane.  
     Or  
     Clicking **Objects** on the *[Wave: Process
-    Areas](../Page_Desc/Wave_Process_Areas.htm)* page, and clicking an
+    Areas](../Page_Desc/Wave_Process_Areas)* page, and clicking an
     object in the **OBJECT ID** column.
 
 2.  Click **Decisions** for an Object.
@@ -105,12 +105,12 @@ To add a decision in Console:
 3.  Click **Add** in the *Objects Decisions* page in the child pane.
     
     *[View the field descriptions for the Object Decisions
-    page](../Page_Desc/Object_Decisions_H.htm)*
+    page](../Page_Desc/Object_Decisions_H)*
 
 4.  Select a decision type from the **TYPE** list box.
     
     **NOTE:** Refer to [Configure List Box
-    Values](Configure_List_Box_Values.htm) for information on how to
+    Values](Configure_List_Box_Values) for information on how to
     modify Type options.
 
 5.  Enter a discussion topic in the **TOPIC** field.
@@ -140,7 +140,7 @@ To add a decision in Console:
     displays.
     
     *[View the field descriptions for the Object Decision Comments
-    page](../Page_Desc/Object_Decision_Comments.htm)*
+    page](../Page_Desc/Object_Decision_Comments)*
     
     **NOTE**: If no records exist, the page displays in add mode.
     Otherwise, click **Add** .
@@ -159,7 +159,7 @@ combination.  Examples of Objects include customers, basic materials,
 price lists or sales orders.
 
 The history for an Object displays on the *[Object
-History](../Page_Desc/Object_History_H.htm)* page.
+History](../Page_Desc/Object_History_H)* page.
 
 An Object's history is not tracked by default. Tracking must be enabled
 before the Object's history is recorded.
@@ -173,7 +173,7 @@ To configure Console to track history:
 3.  Click **Edit**.
     
     [View the field descriptions for the Object page’s Vertical
-    View](../Page_Desc/Objects_H.htm)
+    View](../Page_Desc/Objects_H)
 
 4.  Check the **Build History** check box.
 

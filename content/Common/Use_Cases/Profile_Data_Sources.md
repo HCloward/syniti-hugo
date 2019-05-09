@@ -75,7 +75,7 @@ To profile a single table:
     enabled: 1) the table must be active in order for the Execute icon
     to be available for the table and 2) the data source must be
     profiled (i.e., click the Execute icon on the *[Data Sources
-    Tables](../Page_Desc/Data_Sources_Tables.htm)* page).
+    Tables](../Page_Desc/Data_Sources_Tables)* page).
     
     **NOTE:** Depending on the size of the table, profiling a table may
     take several minutes to complete.

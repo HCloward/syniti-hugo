@@ -8,16 +8,16 @@ solution = 'Data Quality'
 Before performing this task, create a looped template and process in
 Integrate. Refer to [Configure Process Template Loops for a BDC Script
 Template with Looping
-Enabled](../../../Platform/Integrate/Use_Cases/ConfigureProcTempLoopsBDCLoopEn.htm)
+Enabled](../../../Platform/Integrate/Use_Cases/ConfigureProcTempLoopsBDCLoopEn)
 or [Configure Process Template Loops for a GUI Script Template with
 Looping
-Enabled](../../../Platform/Integrate/Use_Cases/ConfigureProcTemplLoopsGUILoopgEn.htm)
+Enabled](../../../Platform/Integrate/Use_Cases/ConfigureProcTemplLoopsGUILoopgEn)
 in Integrate for more information.
 
 Create the **tt** tables and **tx** views for the each loop -- header
 and detail data -- manually or by using the Auto Generate functionality
 in Integrate. Refer to [Generate Database Objects
-Automatically](../../../Platform/Integrate/Use_Cases/Generate_Database_Objects_Automatically.htm)
+Automatically](../../../Platform/Integrate/Use_Cases/Generate_Database_Objects_Automatically)
 for more information.
 
 Tables and views may be created in cMass\_Data or any database that has
@@ -95,4 +95,4 @@ the PrimaryKey of the tt Table.
  
 
 Continue with [Create rt Tables from the tt
-Tables](Create_rt_Tables_from_the_tt_Tables.htm).
+Tables](Create_rt_Tables_from_the_tt_Tables).

@@ -12,9 +12,9 @@ number of tables must be created and downloaded.
 Create these groups using one of these methods: 
 
 1.  [Create System Type groups from the Fetch
-    process.](../../Collect/Use_Cases/Create_Groups_from_the_Fetch_Process.htm)
+    process.](../../Collect/Use_Cases/Create_Groups_from_the_Fetch_Process)
 2.  [Create System Type groups from source
-    tables.](../../Collect/Use_Cases/Create_a_System_Type_Group_from_Source_Tables.htm)
+    tables.](../../Collect/Use_Cases/Create_a_System_Type_Group_from_Source_Tables)
 3.  Create system Type groups manually in Common.
 
 To manually add System Type groups:
@@ -26,7 +26,7 @@ To manually add System Type groups:
 3.  Click **Add.**
     
     [View the field descriptions for the System Types Groups
-    page](../Page_Desc/System_Types_Groups.htm)
+    page](../Page_Desc/System_Types_Groups)
 
 4.  Enter name of table group in **GROUP** field.
 
@@ -39,7 +39,7 @@ To manually add System Type groups:
 8.  Click **Add.**
     
     [View the field descriptions for the System Types Groups Tables
-    page](../Page_Desc/System_Types_Group_Tables.htm)
+    page](../Page_Desc/System_Types_Group_Tables)
 
 9.  Select name of table within the group from **SYSTEM TYPE TABLE ID**
     list box.

@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Add and Remove a Calendar's
-Users](../Use_Cases/Add_and_Remove_a_Calendars_Users.htm).
+Users](../Use_Cases/Add_and_Remove_a_Calendars_Users).
 
 </div>
 

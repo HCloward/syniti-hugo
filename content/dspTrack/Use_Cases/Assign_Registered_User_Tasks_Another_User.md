@@ -30,7 +30,7 @@ To update the user name if necessary:
 6.  Click **Edit** for the user.
     
     [View the field descriptions for the Plan User Registration
-    page](../Page_Desc/Plan_User_Registration.htm)
+    page](../Page_Desc/Plan_User_Registration)
 
 7.  Enter the updated name in **NAME** field.
 

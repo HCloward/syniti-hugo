@@ -9,7 +9,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Register Objects](../Use_Cases/Register_Objects.htm).
+Use this page to [Register Objects](../Use_Cases/Register_Objects).
 
 </div>
 
@@ -76,11 +76,11 @@ To access this page:
 
 ## <span id="Objects_V__All_Tabs_"></span>Objects V (All Tabs)
 
-[Objects H](Objects_H_Common.htm)
+[Objects H](Objects_H_Common)
 
 <div class="use">
 
-Use this page to [Register Objects](../Use_Cases/Register_Objects.htm).
+Use this page to [Register Objects](../Use_Cases/Register_Objects).
 
 </div>
 
@@ -203,7 +203,7 @@ Configuration \> Modules \> Parameters-Duplicates.
 Remove Blank Lines
 
 Click to remove blank lines from the HTML formatted output in the
-*[Candidates](Candidates.htm)* page. This action makes each object block
+*[Candidates](Candidates)* page. This action makes each object block
 smaller because white space is removed. When comparing objects with
 multiple lines, such as address data, multiple lines may cause the data
 to not line up on the page. If needed, the Remove Blank Lines check box
@@ -222,9 +222,9 @@ process.
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Field         | Description                                                                                                                                                                                                                                                                                                                  |
 | Build         | Click to find duplicates.                                                                                                                                                                                                                                                                                                    |
-| History       | Click to open the <span style="font-style: italic;">[Object History](Object_History_H.htm)</span> page to view details on previous builds (i.e., duplicate searches) for the object.                                                                                                                                         |
+| History       | Click to open the <span style="font-style: italic;">[Object History](Object_History_H)</span> page to view details on previous builds (i.e., duplicate searches) for the object.                                                                                                                                         |
 | Reset Status  | Click to change the status of the build from Processing to Procedures Completed. Only reset status if the build process is aborted and the status is still processing                                                                                                                                                        |
-| Reset Results | Click to remove all previous duplicates and non-duplicate results for the object. Button is only available for objects that returned duplicates (which display on the *[Results](Results.htm)* page). This action is not reversible; it is recommended to back up the drResultsDuplicate table before the results are reset. |
+| Reset Results | Click to remove all previous duplicates and non-duplicate results for the object. Button is only available for objects that returned duplicates (which display on the *[Results](Results)* page). This action is not reversible; it is recommended to back up the drResultsDuplicate table before the results are reset. |
 | Post Process  | Click to continue running a stopped process.                                                                                                                                                                                                                                                                                 |
 
 ## <span id="Duplicate_Detection_Results_Tab"></span>Duplicate Detection Results tab

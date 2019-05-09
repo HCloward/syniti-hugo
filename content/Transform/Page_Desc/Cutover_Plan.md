@@ -11,7 +11,7 @@ Source tables.
 
 To access this page:
 
-1.  [Access Transform](../Config/Access_Transform.htm).
+1.  [Access Transform](../Config/Access_Transform).
 2.  Click **Reports** in the *Navigation* plane.
 3.  Click the **Cutover Plan** link in the **REPORT**
 column.

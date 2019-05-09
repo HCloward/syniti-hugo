@@ -14,8 +14,8 @@ org units from multiple categories in a position.
 
 Before performing this task, design the governance elements in
 dspConduct™ \> Design and add a position. Refer to [dspConduct™ Design
-Process Overview](dspConduct_Design_Process_Overview.htm) and [Add a
-Position](Add_Position.htm) for more information.
+Process Overview](dspConduct_Design_Process_Overview) and [Add a
+Position](Add_Position) for more information.
 
 To configure business processes in a position in dspConduct™:
 
@@ -25,7 +25,7 @@ To configure business processes in a position in dspConduct™:
 2.  Click the **Business Processes** icon for a position.
     
     *[View the field descriptions for the Position Business Process
-    page](../Page_Desc/Position_Business_Process.htm).*
+    page](../Page_Desc/Position_Business_Process).*
 
 3.  Select one or more business processes, and then click the
     **Include** or **Remove** icon as needed.
@@ -35,4 +35,4 @@ To configure business processes in a position in dspConduct™:
     through the list and select them all first.
 
 Next, [configure roles in a
-position](Configure_Roles_in_a_Position.htm).
+position](Configure_Roles_in_a_Position).

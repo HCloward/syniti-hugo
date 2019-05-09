@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [View Archived
-Requests](../Use_Cases/View_Archived_Requests_DGE.htm).
+Requests](../Use_Cases/View_Archived_Requests_DGE).
 
 </div>
 
@@ -48,17 +48,17 @@ To access this page, click <span style="font-weight: bold;">dspConduct
 </tr>
 <tr class="even">
 <td><p>Roles</p></td>
-<td><p>Click to open the <a href="Archived_Request_Roles.htm">Archive Request Roles</a> page to view information related to roles for the archived request.</p></td>
+<td><p>Click to open the <a href="Archived_Request_Roles">Archive Request Roles</a> page to view information related to roles for the archived request.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Post Processes</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Archived_Request_Post_Process.htm">Archived Request Post Process</a></span> page to view the Integrate processes for the archived request.</p>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Archived_Request_Post_Process">Archived Request Post Process</a></span> page to view the Integrate processes for the archived request.</p>
 <p><strong>NOTE:</strong> These processes are assigned at the scenario level and run when the request is posted.</p>
 <p>The count on the icon represents the number of processes assigned to the archived request.</p></td>
 </tr>
 <tr class="even">
 <td><p>Finish Download Messages</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Archived_Finish_Download_Messages.htm">Archived Finish Download Messages</a></span> page to view archived data related to the finish download messages received for the archived request. These messages display information about how data was downloaded to tables during the Final Finish process. </p>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Archived_Finish_Download_Messages">Archived Finish Download Messages</a></span> page to view archived data related to the finish download messages received for the archived request. These messages display information about how data was downloaded to tables during the Final Finish process. </p>
 <p>The count on the icon represents the number of messages downloaded for the archived request.</p></td>
 </tr>
 </tbody>

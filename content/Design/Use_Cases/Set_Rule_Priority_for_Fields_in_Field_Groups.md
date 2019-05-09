@@ -57,7 +57,7 @@ The order that a rule runs depends on the rule’s priority and two other
 settings: the Source Priority Multiplier and the Rule Priority Offset.
 
 The **Source Priority Multiplier**, set on the Map tab of the
-*[Parameters](../../Console/Page_Desc/Parameters.htm)* page in Console,
+*[Parameters](../../Console/Page_Desc/Parameters)* page in Console,
 is applied to the rule’s priority. If the PSTAT Target field’s priority
 is 4 and the Source Priority Multiplier is 10, the rule associated with
 that field will be assigned a priority of 40. The priority for the PSTAT
@@ -66,7 +66,7 @@ must be used for other field groups to set them to run prior to the
 default field group (\*) .
 
 The **Rule Priority Offset**, which is always a negative number, is set
-on the *[Field Groups](../Page_Desc/Field_Groups.htm)* page. This value
+on the *[Field Groups](../Page_Desc/Field_Groups)* page. This value
 is subtracted from the rule’s priority to set the order the rule is run.
 If the Rule Priority Offset for the PSTAT field’s field group HALB is
 -4, the final priority set for the rule to run in Transform is 36.

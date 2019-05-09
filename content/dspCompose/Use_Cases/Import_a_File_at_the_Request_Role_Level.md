@@ -16,13 +16,13 @@ Entry role. On the **Import Settings** tab, click the check box to
 enable it. This check box is enabled by default.
 
 **NOTE**: Refer to [Configure Columns for File Generation and Data
-Entry](Configure_Columns_for_File_Generation.htm) for more information
+Entry](Configure_Columns_for_File_Generation) for more information
 about configuring settings for which columns display and how they
 display in the generated file.
 
 **NOTE**: External Data roles receive a generated spreadsheet to update
 request data. Refer to [Use External Data Roles in Request
-Processing](Use_External_Data_Roles_in_Request_Processing.htm) for more
+Processing](Use_External_Data_Roles_in_Request_Processing) for more
 information.
 
 **NOTE**: For column values to be translated in Excel spreadsheets, any
@@ -54,7 +54,7 @@ This topic contains the following sections:
 
 ## <span id="Generate_the_File"></span>Generate the File
 
-On the *[Parameters](../Page_Desc/Parameters.htm)* page, on the
+On the *[Parameters](../Page_Desc/Parameters)* page, on the
 **Posting and File** tab, settings related to file generation allow a
 user to:
 
@@ -77,7 +77,7 @@ To generate a file for a request:
 3.  Click **Vertical View** for the Data Entry role.
     
     *[View the field descriptions for the Request (Roles) page’s
-    Vertical View.](../Page_Desc/Request_H.htm#Request_V_All_Tabs)*
+    Vertical View.](../Page_Desc/Request_H#Request_V_All_Tabs)*
 
 4.  Click **Generate Template File**.
     
@@ -90,7 +90,7 @@ To generate a file for a request:
     
     **NOTE**: The file is generated according to configuration settings.
     Refer to [Configure Columns for File Generation and Data
-    Entry](Configure_Columns_for_File_Generation.htm) for more
+    Entry](Configure_Columns_for_File_Generation) for more
     information.
 
 5.  Save the file.
@@ -111,7 +111,7 @@ Before performing these steps, [Generate the File](#Generate_the_File).
 **NOTE**: Each Data Entry role that should import a spreadsheet for the
 template must have the **Excel Import Allowed** check box enabled.
 Navigate to the *[*Template
-(Role)*](../Page_Desc/Template_Role_H.htm)*page’s *Vertical* View for
+(Role)*](../Page_Desc/Template_Role_H)*page’s *Vertical* View for
 the Data Entry role. On the **Import Settings** tab, click the check box
 to enable it. This check box is enabled by default.
 

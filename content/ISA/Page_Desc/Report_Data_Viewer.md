@@ -6,7 +6,7 @@
 
 Use this page to [Create a Request in dspCompose™ From the ISA Report
 Data Viewer
-Page](../Use_Cases/Create_a_Request_in_dspCompose_From_ISA.htm).
+Page](../Use_Cases/Create_a_Request_in_dspCompose_From_ISA).
 
 </div>
 
@@ -53,7 +53,7 @@ To access this page, select **Information Steward Accelerator \>**
 <tr class="odd">
 <td><p>Metrics</p></td>
 <td><p>Click to open the Metrics Summary page for the selected rule.</p>
-<p>Refer to <a href="../Use_Cases/Download_ISA_Metrics_Summary_Information.htm">Download ISA Metrics Summary Information</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Download_ISA_Metrics_Summary_Information">Download ISA Metrics Summary Information</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Create Compose Request</p></td>
@@ -64,7 +64,7 @@ To access this page, select **Information Steward Accelerator \>**
 </tr>
 <tr class="odd">
 <td><p>dspCompose Request</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="../../dspCompose/Page_Desc/Request_H.htm">Request</a></span> page in dspCompose™ to display the newly created request based on the IS data.</p>
+<td><p>Click to open the <span style="font-style: italic;"><a href="../../dspCompose/Page_Desc/Request_H">Request</a></span> page in dspCompose™ to display the newly created request based on the IS data.</p>
 <p><strong>NOTE:</strong> This button does not display if dspCompose™ is not installed and licensed.</p>
 <p><strong>NOTE:</strong> This button is active after a user creates a request for this run of the rule and binding by clicking the Create Compose Request button.</p></td>
 </tr>
@@ -114,7 +114,7 @@ To access this page, select **Information Steward Accelerator \>**
 <tr class="odd">
 <td><p>Metrics</p></td>
 <td><p>Click to open the Metrics Summary page for the selected rule.</p>
-<p>Refer to <a href="../Use_Cases/Download_ISA_Metrics_Summary_Information.htm">Download ISA Metrics Summary Information</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Download_ISA_Metrics_Summary_Information">Download ISA Metrics Summary Information</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Create Compose Request</p></td>
@@ -125,7 +125,7 @@ To access this page, select **Information Steward Accelerator \>**
 </tr>
 <tr class="odd">
 <td><p>dspCompose Request</p></td>
-<td><p>Click to open the <em><a href="../../dspCompose/Page_Desc/Request_H.htm"><em>Request</em></a></em> page in dspCompose™ to display the newly created request based on the IS data.</p>
+<td><p>Click to open the <em><a href="../../dspCompose/Page_Desc/Request_H"><em>Request</em></a></em> page in dspCompose™ to display the newly created request based on the IS data.</p>
 <p><strong>NOTE:</strong> This button does not display if dspCompose™ is not installed and licensed.</p>
 <p><strong>NOTE:</strong> This button is active after a user creates a request for this run of the rule and binding by clicking the Create Compose Request button.</p></td>
 </tr>

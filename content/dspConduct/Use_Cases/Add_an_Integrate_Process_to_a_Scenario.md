@@ -9,16 +9,16 @@ Integrate processes are the methods in which data from dspConduct™ is
 posted into a target system. Integrate processes are registered by a
 Designer to scenarios on dspConduct™
 <span style="font-style: italic;">[Scenario
-Process](../Page_Desc/Scenario_Process.htm)</span> page. The process
+Process](../Page_Desc/Scenario_Process)</span> page. The process
 must be active in Integrate to be available to add to a scenario. Refer
 to [Create a
-Process](../../../Platform/Integrate/Use_Cases/Create_a_Process.htm) in
+Process](../../../Platform/Integrate/Use_Cases/Create_a_Process) in
 Integrate for more information about processes. This task must be
 completed in order for requests created from the scenario to be posted
 to the target system.
 
 Before adding a process to a scenario, [Add a
-Scenario](Add_Scenario.htm).
+Scenario](Add_Scenario).
 
 **NOTE:** An Integrate process cannot be deactivated or deleted if it is
 assigned to a dspConduct™ scenario that has a status of published.
@@ -46,20 +46,20 @@ To add a process to a scenario in dspConduct™:
 4.  Click **Add**.
     
     *[View the field descriptions for the Scenario Process
-    page.](../Page_Desc/Scenario_Process.htm)*
+    page.](../Page_Desc/Scenario_Process)*
 
 5.  Select the Integrate process for posting from the **INTEGRATE
     PROCESS ID** list box.
     
     **NOTE**: Only allowed processes set at the category level display.
     Refer to [Set Allowed Processes at the Category
-    Level](Set_Allowed_Processes_at_the_Category_Level.htm) for more
+    Level](Set_Allowed_Processes_at_the_Category_Level) for more
     information.
 
 6.  Enter a value in the **PRIORITY** field.
     
     **NOTE:** This value determines the order the process displays on
-    the *[Scenario Process](../Page_Desc/Scenario_Process.htm)* page and
+    the *[Scenario Process](../Page_Desc/Scenario_Process)* page and
     the order in which the processes are executed for posting.
 
 7.  Click **Save**.

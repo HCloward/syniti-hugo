@@ -25,11 +25,11 @@ type of:  
 When a Source is added to a Target and the Source data source is {Full
 Construction}, the zSource of FullConstruct is automatically added to
 the
-<span style="font-style: italic;">[zSource](../../Construct/Page_Desc/Z_Source.htm)</span>
+<span style="font-style: italic;">[zSource](../../Construct/Page_Desc/Z_Source)</span>
 page in Construct, and the user does not need to manually enter the
 zSource. Refer to [Set Up
-zSource](../../Construct/Config/Set_up_ZSources.htm) and [Full
-Construction](../../Construct/Use_Cases/Full_Construction.htm) for more
+zSource](../../Construct/Config/Set_up_ZSources) and [Full
+Construction](../../Construct/Use_Cases/Full_Construction) for more
 information.
 
 **NOTE**: A Source can be added to a Target only if the Target is in a
@@ -42,8 +42,8 @@ When a field mapping’s action is set to ManualConstruction, the Source
 associated with the field is automatically added to the
 <span style="font-style: italic;">zSource</span> page in Construct, and
 the user does not need to manually enter the zSource. Refer to [Set up
- zSources](../../Construct/Config/Set_up_ZSources.htm) and [Enrichment
-Construction](../../Construct/Use_Cases/Enrichment_Construction.htm) for
+ zSources](../../Construct/Config/Set_up_ZSources) and [Enrichment
+Construction](../../Construct/Use_Cases/Enrichment_Construction) for
 more information.
 
 When a Source is added to a Target, the Source’s columns are loaded into
@@ -56,7 +56,7 @@ from the correct table (MARC) are loaded. In this case, locked fields in
 MARA are not removed from the Target Source schema.
 
 Sources with other Source types can be added in Map. Refer to [Work with
-Sources](../../Map/Use_Cases/Work_with_Sources.htm) for more
+Sources](../../Map/Use_Cases/Work_with_Sources) for more
 information.
 
 To assign a Source to a Target in Target Design:
@@ -64,24 +64,24 @@ To assign a Source to a Target in Target Design:
 1.  Select **Design** in the *Navigation* pane.
 
 2.  Click the <span style="font-weight: bold;">Targets</span> icon on
-    the *[Design](../Page_Desc/Design.htm)* page.
+    the *[Design](../Page_Desc/Design)* page.
 
 3.  Click the **Sources** icon for a Target.
 
 4.  Click **Add**.
     
     *[View the field descriptions for the Target Sources
-    page](../Page_Desc/Target_Sources_H_Design.htm)*
+    page](../Page_Desc/Target_Sources_H_Design)*
 
 5.  Select a Source from the **SOURCE DATA SOURCE** list box.
     
     **NOTE:** These data sources have been registered in Common. Refer
     to [Register a Data Source in
-    Common](../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common.htm)
+    Common](../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common)
     for more information.
 
 6.  Click the **+** icon in this field to open the *[Data Source
-    Registry](../../../Platform/Common/Page_Desc/Data_Source_Registry_H.htm)*
+    Registry](../../../Platform/Common/Page_Desc/Data_Source_Registry_H)*
     page to add a data source if necessary.
 
 7.  Select an option in the **SOURCE TYPE** list box.
@@ -107,14 +107,14 @@ To assign a Source to a Target in Target Design:
 table and mapping information about the Source that is used throughout
 the data migration. System Types can be loaded from databases created
 from a Collect Target download or manually created. Refer to [System
-Types](../../../Platform/Common/Use_Cases/System_Types_Overview.htm) for
+Types](../../../Platform/Common/Use_Cases/System_Types_Overview) for
 more information.
 
 **NOTE:** A Source’s System Type is assigned when the data source is
 registered in Common. Refer
 to<span style="font-size: 11.0pt;color: #0000ff;">[Register a Data
 Source in
-Common](../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common.htm)</span>for
+Common](../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common)</span>for
 more information.
 
 **NOTE:** A Source data source can be assigned to only one System Type
@@ -123,7 +123,7 @@ been assigned to the System Type SAPLEGACY for the Target ttMARA. If the
 Target ttMAKT also uses the data source of sdbSAP, it could not use a
 different System Type such as SAP. The data source sdbSAP must use the
 System Type SAPLEGACY. Refer to [Sync Source Data Source-System Types
-Across all Targets](Sync_Data_Source_System_Types_Across_Targets.htm)
+Across all Targets](Sync_Data_Source_System_Types_Across_Targets)
 for more information.
 
 **NOTE:** Once the Design Status is set to Design Finished or Complete,
@@ -133,5 +133,5 @@ be used for rules and reports.
 
 **NOTE:** Sources can have Developers and Business Contacts assigned.
 Refer to [Add Developers and Business Contacts to a Target or
-Source](Add_Developers_and%20Business%20Contacts.htm) for more
+Source](Add_Developers_and%20Business%20Contacts) for more
 information.

@@ -7,19 +7,19 @@ used as the basis for a request in dspCompose™.
 dspCompose™ must be installed and licensed and an external request
 scenario must exist in dspCompose™. Refer to [Create an External Request
 Scenario for an Information Steward-initiated
-Request](Create_an_External_Request_Scenario_for_an_Information_Steward%20initiated_Request.htm)
+Request](Create_an_External_Request_Scenario_for_an_Information_Steward%20initiated_Request)
 for more information.
 
 <span style="font-weight: bold;">NOTE</span>: The template must be
 active in dspCompose™ for the request to be created. Refer to [Activate
-the Template](../../dspCompose/Use_Cases/Activate_the_Template.htm) for
+the Template](../../dspCompose/Use_Cases/Activate_the_Template) for
 more information.
 
 <span style="font-weight: bold;">NOTE</span>: The current user must
 belong to the Project Distribution in the ISA that contains the report
 to generate requests based on the report in dspCompose™. Refer to
 [Activate Users in a Project
-Distribution](Add_Users_to_a_Project_Distribution.htm) for more
+Distribution](Add_Users_to_a_Project_Distribution) for more
 information.
 
 The data from the report can only be used as the basis for a request one
@@ -36,7 +36,7 @@ To generate the request from the ISA:
     <span style="font-weight: bold;">PROJECT DISTRIBUTION ID</span>
     configured for the external request scenario. Refer to [Create an
     External Request Scenario for an Information Steward-initiated
-    Request](Create_an_External_Request_Scenario_for_an_Information_Steward%20initiated_Request.htm)
+    Request](Create_an_External_Request_Scenario_for_an_Information_Steward%20initiated_Request)
     for more information about adding a project to a template’s external
     request scenario.
 
@@ -75,7 +75,7 @@ To generate the request from the ISA:
 if dspCompose™ is not installed and licensed.
 
 **NOTE:** The
-<span style="font-style: italic;">[Request](../../dspCompose/Page_Desc/Request_H.htm)</span>
+<span style="font-style: italic;">[Request](../../dspCompose/Page_Desc/Request_H)</span>
 page in dspCompose™ displays the newly created request. The user
 assigned to the first Data Entry role is notified that work can begin on
 the request.

@@ -18,7 +18,7 @@ installed in order to function correctly.
 in Collect, a user must be assigned to a security role that has the
 Collect WebApp group WorkFlowFailureAll or WorkFlowFaiureByTargetAccess
 assigned. Refer to [Set
-Security](../../Sys_Admin/Use_Cases/Setting_security.htm) in System
+Security](../../Sys_Admin/Use_Cases/Setting_security) in System
 Administration for more information.
 
 There are two types of CranPort packages:
@@ -44,7 +44,7 @@ To set up a table download with a CranPort package:
 2.  Click **Add**.
     
     [View the field descriptions for the Tables
-    page](../Page_Desc/Tables_H.htm)
+    page](../Page_Desc/Tables_H)
 
 3.  Select target database from **TARGET** list box.
 
@@ -62,7 +62,7 @@ To set up a table download with a CranPort package:
 8.  Click **Save**.
     
     **NOTE:** Refer to the [Register Tables to
-    Source](Register_Tables_to_Source.htm) section to configure package
+    Source](Register_Tables_to_Source) section to configure package
     fields.
 
 9.  Select table record.
@@ -89,7 +89,7 @@ CranPort.
 
 To set up a table download with a ManualCranPort package:
 
-1.  [Create CranPort package](../../Assemble/Create_Packages.htm).
+1.  [Create CranPort package](../../Assemble/Create_Packages).
 
 2.  Click **Tables** in *Navigation* pane to view all tables registered
     to all sources.
@@ -97,7 +97,7 @@ To set up a table download with a ManualCranPort package:
 3.  Click **Add**.
     
     [View the field descriptions for the Tables
-    page](../Page_Desc/Tables_H.htm)
+    page](../Page_Desc/Tables_H)
 
 4.  Select target database from **TARGET** list box.
 
@@ -123,17 +123,17 @@ To set up a table download with a ManualCranPort package:
 12. Click **Edit**.
     
     [View the field descriptions for the Tables
-    page](../Page_Desc/Tables_H.htm)
+    page](../Page_Desc/Tables_H)
 
 13. Select the CranPort package from **Package Name** list box.
     
     **NOTE:** If the package name does not display in the list box,
     confirm that the package has been named following naming
     conventions. Refer to [Create
-    Packages](../../Assemble/Create_Packages.htm) for more information.
+    Packages](../../Assemble/Create_Packages) for more information.
     
     **NOTE:** Refer to [Register Tables to
-    Source](Register_Tables_to_Source.htm) to configure package fields.
+    Source](Register_Tables_to_Source) to configure package fields.
 
 14. Click **Action** tab.
 

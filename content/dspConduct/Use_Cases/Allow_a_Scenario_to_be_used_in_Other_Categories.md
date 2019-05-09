@@ -7,8 +7,8 @@ solution = 'Master Data Management'
 
 Scenarios and business processes are added to a category, and then
 scenarios are added to business processes. Refer to [Add a
-Scenario](Add_Scenario.htm) and [Add a Business
-Process](Add_Business_Process.htm) for more information.
+Scenario](Add_Scenario) and [Add a Business
+Process](Add_Business_Process) for more information.
 
 A Designer can allow a scenario to be added to a business process from a
 different category than the business process’s parent category as long
@@ -52,7 +52,7 @@ category other than its parent category in dspConduct:
 5.  Click the **Use In Other Category** icon.
     
     *[View the field descriptions for the Scenario Use In Other Category
-    page.](../Page_Desc/Scenario_Use_in_Other_Category.htm)*
+    page.](../Page_Desc/Scenario_Use_in_Other_Category)*
 
 6.  Select the category in the **OTHER CATEGORY ID** list box.
 
@@ -62,4 +62,4 @@ category other than its parent category in dspConduct:
 8.  Click **Save**.
 
 Continue with [Add a Scenario to a Business
-Process](Add_a_Scenario_to_a_Business_Process.htm).
+Process](Add_a_Scenario_to_a_Business_Process).

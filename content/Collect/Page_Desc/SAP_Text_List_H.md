@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Manage  the SAP Text
-List.](../Use_Cases/Manage_SAP_Text_List.htm)
+List.](../Use_Cases/Manage_SAP_Text_List)
 
 </div>
 
@@ -31,12 +31,12 @@ pane.
 
 ## <span id="SAP_Text_List_V"></span>SAP Text List V
 
-[SAP Text List H](SAP_Text_List_H.htm)
+[SAP Text List H](SAP_Text_List_H)
 
 <div class="use">
 
 Use this page to [Manage  the SAP Text
-List.](../Use_Cases/Manage_SAP_Text_List.htm)
+List.](../Use_Cases/Manage_SAP_Text_List)
 
 </div>
 

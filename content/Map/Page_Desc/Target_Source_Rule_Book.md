@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [View All Mappings for a
-Target](../Use_Cases/View_all_Mappings_for_a_Target.htm).
+Target](../Use_Cases/View_all_Mappings_for_a_Target).
 
 </div>
 
@@ -19,9 +19,9 @@ To access this page:
 2.  Click <span style="font-weight: bold;">Map </span>in the Context
     bar.
 3.  Click the <span style="font-weight: bold;">Metrics</span> icon on
-    the *[Process Area Launch](Process_Area_Launch_map.htm)* page.
+    the *[Process Area Launch](Process_Area_Launch_map)* page.
 4.  Click the <span style="font-weight: bold;">Rule Book</span> icon on
-    the *[Metrics and Reports Landing](Metrics_and_Reports_Landing.htm)*
+    the *[Metrics and Reports Landing](Metrics_and_Reports_Landing)*
     page.
 
 <table>
@@ -52,7 +52,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>FIELD GROUP</p></td>
-<td><p>Displays current field group to which the selected field belongs. Field groups are assigned in Target Design, and allow users to apply filters for mapping based on certain values in a field. Refer to <a href="../../Design/Use_Cases/Work_with_Field_Groups.htm">Work with Field Groups</a>   for more information.</p></td>
+<td><p>Displays current field group to which the selected field belongs. Field groups are assigned in Target Design, and allow users to apply filters for mapping based on certain values in a field. Refer to <a href="../../Design/Use_Cases/Work_with_Field_Groups">Work with Field Groups</a>   for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>FIELD</p></td>
@@ -98,7 +98,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>RULE SQL</p></td>
-<td><p>Displays the SQL for the rule entered on the <em><a href="Mapping_Approval_H.htm">Mapping Approval</a></em> page. A developer must enter SQL when rejecting a mapping that has a Manual, Rule or RuleXref action .</p></td>
+<td><p>Displays the SQL for the rule entered on the <em><a href="Mapping_Approval_H">Mapping Approval</a></em> page. A developer must enter SQL when rejecting a mapping that has a Manual, Rule or RuleXref action .</p></td>
 </tr>
 <tr class="odd">
 <td><p>RULE WHERE CLAUSE</p></td>
@@ -114,7 +114,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>MAPPED ON</p></td>
-<td><p>Displays the date the MAPPING STATUS was set to Complete on the <em><a href="Field_Mappings_H.htm">Field Mappings</a></em> page for the mapping.</p></td>
+<td><p>Displays the date the MAPPING STATUS was set to Complete on the <em><a href="Field_Mappings_H">Field Mappings</a></em> page for the mapping.</p></td>
 </tr>
 <tr class="odd">
 <td><p>CREATED ON</p></td>
@@ -126,7 +126,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>APPROVED BY</p></td>
-<td><p>Displays the name of the Developer who approved the mapping on the <em><a href="Mapping_Approval_H.htm">Mapping Approval</a></em> page.</p></td>
+<td><p>Displays the name of the Developer who approved the mapping on the <em><a href="Mapping_Approval_H">Mapping Approval</a></em> page.</p></td>
 </tr>
 <tr class="even">
 <td><p>APPROVED ON</p></td>
@@ -152,7 +152,7 @@ To access this page:
 <td><p>METRIC GROUP</p></td>
 <td><p>Displays the metric group name.</p>
 <p>Metric groups are added in Target Design and are a subcategory of field groups. They prioritize and organize fields in field groups for mapping.</p>
-<p>Refer to <a href="../../Design/Use_Cases/Work_with_Metric_Groups.htm">Work with Metric Groups</a> for more information.</p></td>
+<p>Refer to <a href="../../Design/Use_Cases/Work_with_Metric_Groups">Work with Metric Groups</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>KEY FIELD</p></td>

@@ -9,7 +9,7 @@ solution = 'Platform'
 
 Use this page to view successor tasks dependent on the selected task.
 Refer to[<span style="font-size: 11.0pt;color: #0000ff;">Use Dependency
-Types</span>](../Use_Cases/Use_Dependency_Types.htm)<span style="font-size: 11.0pt;">for
+Types</span>](../Use_Cases/Use_Dependency_Types)<span style="font-size: 11.0pt;">for
 more information.</span>
 
 </div>
@@ -56,7 +56,7 @@ To access this page:
 <li>Finish to Start</li>
 <li>Finish to Finish</li>
 </ul>
-<p>Refer to<a href="../Use_Cases/Use_Dependency_Types.htm"><span style="font-size: 11.0pt;font-family: Arial, sans-serif;color: #0000ff;">Use Dependency Types</span></a> for more information.</p></td>
+<p>Refer to<a href="../Use_Cases/Use_Dependency_Types"><span style="font-size: 11.0pt;font-family: Arial, sans-serif;color: #0000ff;">Use Dependency Types</span></a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>SUCCESSOR PLAN ID</p></td>

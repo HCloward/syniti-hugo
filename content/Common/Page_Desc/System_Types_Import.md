@@ -9,10 +9,10 @@ solution = 'Platform'
 
 Use this page to:
 
-  - [Import a Data Source](../Use_Cases/Import_a_Data_Source.htm).
-  - [Import a Model](../Use_Cases/Import%20a%20Model.htm)
+  - [Import a Data Source](../Use_Cases/Import_a_Data_Source).
+  - [Import a Model](../Use_Cases/Import%20a%20Model)
   - [Export Translations to a
-    Catalog](../Use_Cases/Export_Translations_to_a_Catalog.htm)
+    Catalog](../Use_Cases/Export_Translations_to_a_Catalog)
 
 </div>
 
@@ -31,10 +31,10 @@ Description
 
 Model
 
-Click the *[System Types Models](System_Types_Models_H.htm)* page to
+Click the *[System Types Models](System_Types_Models_H)* page to
 document in which tables must be populated when building the System
 Type. Refer to [Manage System Types With System Type
-Models](../Use_Cases/Manage_System_Types_with_System_Type_Models.htm)
+Models](../Use_Cases/Manage_System_Types_with_System_Type_Models)
 for more information.
 
 Data Source
@@ -102,7 +102,7 @@ Displays the name of the catalog to which registrations from
 translations from the System Type are exported.
 
 Refer to [Export Translations to a
-Catalog](../Use_Cases/Export_Translations_to_a_Catalog.htm) for more
+Catalog](../Use_Cases/Export_Translations_to_a_Catalog) for more
 information.
 
 Export
@@ -111,7 +111,7 @@ Click to export translation registrations in the selected System Type to
 the catalog ID.
 
 Refer to [Export Translations to a
-Catalog](../Use_Cases/Export_Translations_to_a_Catalog.htm) for more
+Catalog](../Use_Cases/Export_Translations_to_a_Catalog) for more
 information.
 
 **NOTE**: This can result in a large number of records being imported

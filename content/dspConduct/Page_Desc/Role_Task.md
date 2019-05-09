@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Add a Task to a
-Role](../Use_Cases/Add_a_Task_to_a_Role.htm).
+Role](../Use_Cases/Add_a_Task_to_a_Role).
 
 </div>
 
@@ -26,7 +26,7 @@ To access this page:
 that was entered in IGC™ cannot be updated from within dspConduct™, and
 many of the fields and icons associated with the record are not active
 for that role task. Refer to [Update Custom Attributes for Governance
-Elements](../Use_Cases/Update_Custom_Attributes_for_Governance_Elements.htm)
+Elements](../Use_Cases/Update_Custom_Attributes_for_Governance_Elements)
 for more information.
 
 <table>
@@ -49,8 +49,8 @@ for more information.
 <tr class="even">
 <td><p>TASK ID</p></td>
 <td><p>Displays the name of the task assigned to the role.</p>
-<p><strong>NOTE:</strong> The pages available for a task are those pages in the Content WebApp set at the Category level in the Default Web App ID field on the <a href="Category_H.htm">Category</a> page.</p>
-<p><strong>NOTE:</strong> These tasks were added on the <span style="font-style: italic;"><a href="Task_H.htm">Task</a></span> page. To add a task, click the + icon in the list box. Refer to <a href="../Use_Cases/Add_a_Task.htm">Add a Task</a> for more information.</p></td>
+<p><strong>NOTE:</strong> The pages available for a task are those pages in the Content WebApp set at the Category level in the Default Web App ID field on the <a href="Category_H">Category</a> page.</p>
+<p><strong>NOTE:</strong> These tasks were added on the <span style="font-style: italic;"><a href="Task_H">Task</a></span> page. To add a task, click the + icon in the list box. Refer to <a href="../Use_Cases/Add_a_Task">Add a Task</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>TYPE</p></td>
@@ -72,7 +72,7 @@ for more information.
 </tr>
 <tr class="odd">
 <td><p>Assigned Scenarios</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Scenario_Role_Task_H.htm">Scenario Role Task</a></span> page to view details about the selected role and task, including the columns available on the web page associated with the task.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Scenario_Role_Task_H">Scenario Role Task</a></span> page to view details about the selected role and task, including the columns available on the web page associated with the task.</p></td>
 </tr>
 </tbody>
 </table>

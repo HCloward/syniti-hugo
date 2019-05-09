@@ -6,7 +6,7 @@ solution = 'Data Quality'
 # View Your Application Tables
 
 The *[Your Application
-Tables](../Page_Desc/Your_Application_Tables.htm)* page displays data
+Tables](../Page_Desc/Your_Application_Tables)* page displays data
 quality information for application tables across all associated reports
 that are assigned to the logged in user.
 
@@ -17,4 +17,4 @@ To view application tables:
 2.  Click **Tables**.
     
     *[View the field descriptions for the Your Application Tables
-    page](../Page_Desc/Your_Application_Tables.htm)*
+    page](../Page_Desc/Your_Application_Tables)*

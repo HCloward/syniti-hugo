@@ -9,7 +9,7 @@ solution = 'Platform'
 steps in the process.</span>
 
 <span style="font-size: 11pt;">Refer to [Create a
-Process](Create_a_Process.htm) for information about creating a process
+Process](Create_a_Process) for information about creating a process
 with an initial template. To add additional templates to a process,
 refer to *<span style="color: #0000ff;">[Add Templates to a
-Process](Add_Templates_to_a_Process.htm)</span>*</span>.
+Process](Add_Templates_to_a_Process)</span>*</span>.

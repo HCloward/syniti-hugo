@@ -17,7 +17,7 @@ To configure trace parameters:
 2.  Click Edit.
     
     [View the field descriptions for the Parameters-Trace
-    page](../Page_Desc/Parameters_Trace.htm)
+    page](../Page_Desc/Parameters_Trace)
 
 3.  Update all fields if default values are not applicable.
 

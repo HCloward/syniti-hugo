@@ -10,9 +10,9 @@ solution = 'Data Quality'
 Use this page to:
 
   - [Register Reports to
-    Objects](../Use_Cases/Register_Object_Reports.htm#Register_Reports_to_Objects)
+    Objects](../Use_Cases/Register_Object_Reports#Register_Reports_to_Objects)
   - [Register Objects to
-    Reports](../Use_Cases/Register_Object_Reports.htm#Register_Objects_to_Reports)
+    Reports](../Use_Cases/Register_Object_Reports#Register_Objects_to_Reports)
 
 </div>
 

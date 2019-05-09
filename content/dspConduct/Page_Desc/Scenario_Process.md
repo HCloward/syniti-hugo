@@ -10,7 +10,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Add a Process to a
-Scenario](../Use_Cases/Add_an_Integrate_Process_to_a_Scenario.htm).
+Scenario](../Use_Cases/Add_an_Integrate_Process_to_a_Scenario).
 
 </div>
 
@@ -30,7 +30,7 @@ To access this page:
 <tr class="even">
 <td><p>INTEGRATE PROCESS ID</p></td>
 <td><p>Displays the Integrate process ID associated with this scenario.</p>
-<p><strong>NOTE:</strong>  The processes that display in this list box are ones that have been set as allowable at the category level. Refer to <a href="../Use_Cases/Set_Allowed_Processes_at_the_Category_Level.htm">Set Allowable Processes at the Category Level</a> for more information.</p></td>
+<p><strong>NOTE:</strong>  The processes that display in this list box are ones that have been set as allowable at the category level. Refer to <a href="../Use_Cases/Set_Allowed_Processes_at_the_Category_Level">Set Allowable Processes at the Category Level</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>PRIORITY</p></td>
@@ -43,13 +43,13 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Target Connection</p></td>
-<td><p>Click to open the <em><a href="Scenario_Process_Target_Connection.htm">Scenario Process Target Connection</a></em> page to edit the connection ID for process template associated to the scenario.</p>
-<p>Refer to <a href="../Use_Cases/View_and_Configure_External_Target_Systems_Scnrio.htm">View and Configure External Target Systems</a> for a Scenario for more information.</p></td>
+<td><p>Click to open the <em><a href="Scenario_Process_Target_Connection">Scenario Process Target Connection</a></em> page to edit the connection ID for process template associated to the scenario.</p>
+<p>Refer to <a href="../Use_Cases/View_and_Configure_External_Target_Systems_Scnrio">View and Configure External Target Systems</a> for a Scenario for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Rules</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Scenario_Process_Rule.htm">Scenario Process Rule</a></span> page to view the default rules assigned to the process at the category level, and to add rules to the process.</p>
-<p>Refer to <a href="../Use_Cases/Add_Process_Rules_at_the_Scenario_Level.htm">Add Process Rules at the Scenario Level</a> for more information.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Scenario_Process_Rule">Scenario Process Rule</a></span> page to view the default rules assigned to the process at the category level, and to add rules to the process.</p>
+<p>Refer to <a href="../Use_Cases/Add_Process_Rules_at_the_Scenario_Level">Add Process Rules at the Scenario Level</a> for more information.</p></td>
 </tr>
 </tbody>
 </table>
@@ -61,7 +61,7 @@ To access this page:
 <div class="use">
 
 Use this page to [Update Posting Options at the Scenario
-Level](../Use_Cases/Update_Posting_Options_at_the_Scenario_%20Level.htm).
+Level](../Use_Cases/Update_Posting_Options_at_the_Scenario_%20Level).
 
 </div>
 
@@ -96,7 +96,7 @@ BDC Post Method
 
 Displays the method used for posting the request. Refer to [BDC Post
 Methods and Settings on the Advanced
-tab](../../../Platform/Integrate/Page_Desc/BDCPostMethodsSettingsAdvTab.htm)
+tab](../../../Platform/Integrate/Page_Desc/BDCPostMethodsSettingsAdvTab)
 for more information.
 
 Group Name

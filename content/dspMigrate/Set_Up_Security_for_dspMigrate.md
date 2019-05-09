@@ -9,13 +9,13 @@ To set up security for dspMigrate™ Advanced Data Migration (ADM)an
 Administrator:
 
 1.  [Creates User
-    Accounts](../../Platform/Sys_Admin/Use_Cases/Create_User_Accounts_in_System_Administration.htm)
+    Accounts](../../Platform/Sys_Admin/Use_Cases/Create_User_Accounts_in_System_Administration)
 2.  [Creates Security
-    Roles](../../Platform/Sys_Admin/Use_Cases/Define_Security_Roles1.htm)
+    Roles](../../Platform/Sys_Admin/Use_Cases/Define_Security_Roles1)
 3.  [Assigns Users to Security
-    Roles](../../Platform/Sys_Admin/Use_Cases/Assign_Users_to_Security_Roles.htm)
+    Roles](../../Platform/Sys_Admin/Use_Cases/Assign_Users_to_Security_Roles)
 4.  [Assigns WebApp Groups to Security
-    Roles](../../Platform/Sys_Admin/Use_Cases/Assign_WebApp_Groups_to_Security_Role.htm)
+    Roles](../../Platform/Sys_Admin/Use_Cases/Assign_WebApp_Groups_to_Security_Role)
 
 **NOTE:** The security roles needed for a migration project are subject
 to project team organization, structure and assign the work. For
@@ -32,16 +32,16 @@ added to this security group by default, but other users can be added.
 5.  Set up Waves, Process Areas, and objects in Console and Targets and
     Sources in Target Design. Refer to [Create the Contexts for
     Migration
-    Projects](../Console/Use_Cases/Create_Contexts_for_Migration_Projects.htm),
+    Projects](../Console/Use_Cases/Create_Contexts_for_Migration_Projects),
     [Add a
-    Target](../Design/Use_Cases/Add_a_Target_in_Target_Design.htm) and
-    [Add a Source](../Design/Use_Cases/Assign_a_Source_to_a_Target.htm)
+    Target](../Design/Use_Cases/Add_a_Target_in_Target_Design) and
+    [Add a Source](../Design/Use_Cases/Assign_a_Source_to_a_Target)
     for more information.
 
 <!-- end list -->
 
 6.  An Administrator must [assign keys to security
-    roles](../../Platform/Sys_Admin/Use_Cases/Assign_Keys_to_Security_Role.htm)
+    roles](../../Platform/Sys_Admin/Use_Cases/Assign_Keys_to_Security_Role)
     for all levels of the hierarchy, which are the following:
 
 <!-- end list -->
@@ -56,4 +56,4 @@ role, security keys must be assigned to that user's role every time a
 new hierarchy is created in Console and Target Design.
 
 An Administrator can also [Set the Default Context for a
-User](../../Platform/Sys_Admin/Use_Cases/Set_the_Default_Context_for_a_User.htm).
+User](../../Platform/Sys_Admin/Use_Cases/Set_the_Default_Context_for_a_User).

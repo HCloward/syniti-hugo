@@ -7,10 +7,10 @@ solution = 'Migration'
 
 A user can access the
 <span style="font-style: italic;" data-xmlns="http://www.w3.org/1999/xhtml">[Source
-Value Tracking](../Page_Desc/Source_Value_Tracking.htm)</span> page to
+Value Tracking](../Page_Desc/Source_Value_Tracking)</span> page to
 view each Source table that has a field that has been mapped to the
 lookup table selected on the [Value Mapping
-(Sources)](../Page_Desc/Value_Mapping_Sources_H.htm) page.
+(Sources)](../Page_Desc/Value_Mapping_Sources_H) page.
 
 For example, numerous fields use the table T006 to value map unit of
 measure. This page allows the user to see which Targets, Sources, and

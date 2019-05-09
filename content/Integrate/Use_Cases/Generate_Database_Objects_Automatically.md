@@ -73,7 +73,7 @@ records as set by the flat file object key.
 **NOTE**: When creating a process that will use the Auto Generate
 Database Objects feature, do not select a **View Name** on the *Process*
 page’s *Vertical* View. Refer to [Create a
-Process](Create_a_Process.htm) for more information.
+Process](Create_a_Process) for more information.
 
 **NOTE**: Deleting a process that has auto-generated database objects
 will also delete those tables and views from the database.

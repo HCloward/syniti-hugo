@@ -30,7 +30,7 @@ To set validations for list boxes:
     
     [View the field descriptions for the Template (Role Excel Column
     Control)
-    page.](../Page_Desc/Template_Role_Excel_Column_Control_H.htm)
+    page.](../Page_Desc/Template_Role_Excel_Column_Control_H)
 
 7.  Click **Advanced Validation** tab.
 

@@ -17,7 +17,7 @@ by default. These addresses must be configured on site and should
 contain the same email address.
 
 Refer to [Set up External Email
-Accounts](Set_up_an_External_Data_Email_Account.htm) for more
+Accounts](Set_up_an_External_Data_Email_Account) for more
 information.
 
 This setup configures dspCompose™ to send a workflow email and any
@@ -37,7 +37,7 @@ page:
     
     *[View the field descriptions for the Workflow Language Message
     page's Vertical
-    View.](../Page_Desc/Workflow_Language_Message_H.htm)*
+    View.](../Page_Desc/Workflow_Language_Message_H)*
 
 4.  Update the **EMAIL FROM** field to match the **USERNAME** saved on
     the *External Data Email Accounts* page.

@@ -11,9 +11,9 @@ based on predictions which scenario will be the best and worst
 performing.
 
 Click a bar to drill down to the
-<span>*[Request](Request.htm)*</span> page.
+<span>*[Request](Request)*</span> page.
 
-Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts.htm) for
+Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts) for
 general information about chart features.
 
 To access this chart in dspConduct<span>™</span>:

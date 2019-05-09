@@ -10,10 +10,10 @@ solution = 'Migration'
 Use this page while:
 
   - [Add Update Row Sources that are
-    Views](../Use_Cases/Add_Update_Row_Sources.htm#Add_Update_Row_Sources_that_are_Views)
+    Views](../Use_Cases/Add_Update_Row_Sources#Add_Update_Row_Sources_that_are_Views)
   - [Add Update Row Sources that are
-    Tables](../Use_Cases/Add_Update_Row_Sources.htm#Add_Update_Row_Sources_that_are_Tables)
-  - [Adding an External Source](../Use_Cases/Add_an_External_Source.htm)
+    Tables](../Use_Cases/Add_Update_Row_Sources#Add_Update_Row_Sources_that_are_Tables)
+  - [Adding an External Source](../Use_Cases/Add_an_External_Source)
 
 </div>
 
@@ -24,7 +24,7 @@ To access this page:
 2.  Click <span style="font-weight: bold;">Map </span>in the Context
     bar.
 3.  Click the <span style="font-weight: bold;">Targets</span> icon on
-    the *[Process Area Launch](Process_Area_Launch_map.htm)* page.
+    the *[Process Area Launch](Process_Area_Launch_map)* page.
 4.  Click the <span style="font-weight: bold;">Sources</span> icon for a
     Target.
 5.  Click the <span style="font-weight: bold;">Update Row Sources</span>
@@ -58,12 +58,12 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Secondary Source</p></td>
-<td><p>Click to open the <em><a href="Target_Sources_Update_Row.htm">Target Sources (Update Row)</a></em> page to add an Update Row Source to the selected Add Row Source.</p>
+<td><p>Click to open the <em><a href="Target_Sources_Update_Row">Target Sources (Update Row)</a></em> page to add an Update Row Source to the selected Add Row Source.</p>
 <p>Add an Update Row when data from another Source table is needed to update the Add Row Source.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Mappings</p></td>
-<td><p>Click to open the <em><a href="Field_Mappings_H.htm">Field Mappings</a></em> page to create and reset field mappings for all fields in the selected Add Row Source, to view the history for a selected mapping, or to view mapping details. A number does not display on this icon if no field mappings have been activated for the current context.</p></td>
+<td><p>Click to open the <em><a href="Field_Mappings_H">Field Mappings</a></em> page to create and reset field mappings for all fields in the selected Add Row Source, to view the history for a selected mapping, or to view mapping details. A number does not display on this icon if no field mappings have been activated for the current context.</p></td>
 </tr>
 </tbody>
 </table>

@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Export a Field
-Mapping](../Use_Cases/Import_and_Export_Mappings.htm#Export_Mappings).
+Mapping](../Use_Cases/Import_and_Export_Mappings#Export_Mappings).
 
 </div>
 
@@ -17,7 +17,7 @@ To access this page in dspMigrate:
 1.  Select <span style="font-weight: bold;">Map </span><span>in the
     Context bar.</span>
 2.  Click the <span style="font-weight: bold;">Targets</span> icon on
-    the *[Process Area Launch](Process_Area_Launch_map.htm)* page.
+    the *[Process Area Launch](Process_Area_Launch_map)* page.
 3.  Click the <span style="font-weight: bold;">Sources</span> icon for a
     Target.
 4.  Click the <span style="font-weight: bold;">Vertical View</span> icon

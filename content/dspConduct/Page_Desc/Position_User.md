@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [configure users in a
-position](../Use_Cases/Configure_Users_in_a_Position.htm).
+position](../Use_Cases/Configure_Users_in_a_Position).
 
 </div>
 
@@ -38,7 +38,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Assign Calendar</p></td>
-<td><p>Click to open the <em><a href="../../../Platform/Common/Page_Desc/User_Management_H.htm"><em>User Management</em></a></em> page in Common to assign a calendar to the selected user.</p></td>
+<td><p>Click to open the <em><a href="../../../Platform/Common/Page_Desc/User_Management_H"><em>User Management</em></a></em> page in Common to assign a calendar to the selected user.</p></td>
 </tr>
 <tr class="odd">
 <td><p>USER ID</p></td>
@@ -47,7 +47,7 @@ To access this page:
 <tr class="even">
 <td><p>CALENDAR ID</p></td>
 <td><p>Displays the calendar to which the user is assigned.</p>
-<p><strong>NOTE:</strong> All users in the position must have the calendar specified at the Position level. Calendars are maintained and users are assigned to calendars in Common. Refer to <a href="../../../Platform/Common/Use_Cases/Use_a_Calendar.htm">Use a Calendar</a> for more information.</p></td>
+<p><strong>NOTE:</strong> All users in the position must have the calendar specified at the Position level. Calendars are maintained and users are assigned to calendars in Common. Refer to <a href="../../../Platform/Common/Use_Cases/Use_a_Calendar">Use a Calendar</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>INCLUDED</p></td>

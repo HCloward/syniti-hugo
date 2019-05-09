@@ -9,7 +9,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Monitor Posts](../Use_Cases/Monitor_Posts.htm).
+Use this page to [Monitor Posts](../Use_Cases/Monitor_Posts).
 
 </div>
 
@@ -30,11 +30,11 @@ page *Horizontal* View.
 | PROCESS ID       | Displays the name for the process added on the *Process* page’s *Vertical* View.                                                                                                                             |
 | CURRENT TEMPLATE | Displays the template for the posting record that is being processed or the last template in the process if the posting is complete. .                                                                       |
 | STATUS           | Displays the overall posting status**.**                                                                                                                                                                     |
-| Templates        | Click to open the *[Post Monitor: Templat](Post_Monitor_Template.htm)e* page to view a list of templates used for the process post, the number of records for each template and the status of each template. |
+| Templates        | Click to open the *[Post Monitor: Templat](Post_Monitor_Template)e* page to view a list of templates used for the process post, the number of records for each template and the status of each template. |
 
 ## <span id="Post_Monitor_V"></span>Post Monitor V
 
-[Post Monitor H](Post_Monitor_H.htm)
+[Post Monitor H](Post_Monitor_H)
 
 Field
 
@@ -61,7 +61,7 @@ Displays the posting status of the process post.
 Templates
 
 Click to open the *[*Post Monitor:
-Template*](Post_Monitor_Template.htm)* page to view a list of templates
+Template*](Post_Monitor_Template)* page to view a list of templates
 used for the process post, the number of records posted for each
 template and the status of each template.
 
@@ -82,7 +82,7 @@ Posting Placed in Queue
 
 Displays the time when a user clicked the Schedule Post icon on the
 *[Request
-(Post)](../../../Data_Quality/dspCompose/Page_Desc/Request_Post.htm)*
+(Post)](../../../Data_Quality/dspCompose/Page_Desc/Request_Post)*
 page and the request data was added to the background posting queue.
 
 **NOTE:** The field displays when the Post Monitor Status is

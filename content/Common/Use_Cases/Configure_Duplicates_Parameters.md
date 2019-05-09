@@ -11,7 +11,7 @@ Review these values and make any changes necessary for the installation.
 
 **NOTE**: Additional settings for Duplicate Detection are configured in
 System Administration. Refer to [Manage Duplicate
-Detection](../../Sys_Admin/Use_Cases/Manage%20Duplicate%20Detection.htm)
+Detection](../../Sys_Admin/Use_Cases/Manage%20Duplicate%20Detection)
 in System Administration for more information.
 
 To configure duplicate parameters:
@@ -23,7 +23,7 @@ To configure duplicate parameters:
 2.  Click **Edit **on Page toolbar.
     
     [View the field descriptions for the Parameters-Duplicates
-    page](../Page_Desc/Parameters_Duplicates.htm)
+    page](../Page_Desc/Parameters_Duplicates)
 
 3.  Update all fields if default values are not applicable.
 

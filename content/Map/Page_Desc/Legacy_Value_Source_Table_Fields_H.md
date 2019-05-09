@@ -10,7 +10,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page when [Value Map Target Fields from Multiple Source
-Systems](../Use_Cases/Value_Map_Target_Fields_from_Mulitple_Source_Systems.htm).
+Systems](../Use_Cases/Value_Map_Target_Fields_from_Mulitple_Source_Systems).
 
 </div>
 
@@ -63,16 +63,16 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>View Values</p></td>
-<td><p>Click to open the <em><a href="Legacy_Value_Source_Table_Fields_H.htm">Legacy Value (Source Table Fields)</a></em> page to view all values for the Source table that must be value mapped or removed.</p></td>
+<td><p>Click to open the <em><a href="Legacy_Value_Source_Table_Fields_H">Legacy Value (Source Table Fields)</a></em> page to view all values for the Source table that must be value mapped or removed.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Value Mappings</p></td>
-<td><p>Click to open the <em><a href="Value_Mapping_Legacy_to_Target_H.htm">Value Mapping (Legacy to Target)</a></em> page to perform value mapping for the selected Source field.</p></td>
+<td><p>Click to open the <em><a href="Value_Mapping_Legacy_to_Target_H">Value Mapping (Legacy to Target)</a></em> page to perform value mapping for the selected Source field.</p></td>
 </tr>
 <tr class="even">
 <td><p>Value Tracking</p></td>
-<td><p>Click to open the <em><a href="Source_Value_Tracking.htm">Source Value Tracking</a></em> page to view each Source table that has a field that has been mapped to the selected lookup table.</p>
-<p>Refer to <a href="../Use_Cases/View_the_Source_Tables_and_Fields_Mapped_to_a_Lookup_Table.htm">View the Source Tables and Fields Mapped to a Lookup Table</a> for more information.</p></td>
+<td><p>Click to open the <em><a href="Source_Value_Tracking">Source Value Tracking</a></em> page to view each Source table that has a field that has been mapped to the selected lookup table.</p>
+<p>Refer to <a href="../Use_Cases/View_the_Source_Tables_and_Fields_Mapped_to_a_Lookup_Table">View the Source Tables and Fields Mapped to a Lookup Table</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Remove Values</p></td>
@@ -93,7 +93,7 @@ To access this page:
 
 Use this page when [Defining Tables and Fields for Multiple Source
 Systems to Use in Value
-Mapping](../Use_Cases/Value_Map_Target_Fields_from_Mulitple_Source_Systems.htm).
+Mapping](../Use_Cases/Value_Map_Target_Fields_from_Mulitple_Source_Systems).
 
 </div>
 

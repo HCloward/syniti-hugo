@@ -11,8 +11,8 @@ solution = 'Platform'
 
 Use this page to:
 
-  - [Import Excel Files](../Use_Cases/Import_Excel_Files.htm)
-  - [Export Excel Files](../Use_Cases/Export_Excel_Files.htm)
+  - [Import Excel Files](../Use_Cases/Import_Excel_Files)
+  - [Export Excel Files](../Use_Cases/Export_Excel_Files)
 
 </div>
 
@@ -30,14 +30,14 @@ pane.
 
 ## <span id="Toolkit_Excel_V"></span>Toolkit: Excel V
 
-[Toolkit: Excel H](Toolkit_Excel_H.htm)
+[Toolkit: Excel H](Toolkit_Excel_H)
 
 <div class="use">
 
 Use this page to:
 
-  - [Import Excel Files](../Use_Cases/Import_Excel_Files.htm)
-  - [Export Excel Files](../Use_Cases/Export_Excel_Files.htm)
+  - [Import Excel Files](../Use_Cases/Import_Excel_Files)
+  - [Export Excel Files](../Use_Cases/Export_Excel_Files)
 
 </div>
 

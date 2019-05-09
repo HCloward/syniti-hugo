@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Monitor Table Download
-Process](../Use_Cases/Monitor_Table_Download_Process.htm).
+Process](../Use_Cases/Monitor_Table_Download_Process).
 
 </div>
 

@@ -7,9 +7,9 @@ solution = 'Platform'
 
 While data sources can be registered in System Administration by an
 Administrator, [registering a data source in
-Common](Register_a_Data_Source_in_Common.htm) is the preferred method.
+Common](Register_a_Data_Source_in_Common) is the preferred method.
 Refer to [How the DSP Uses Data Source
-Types](../../Sys_Admin/Use_Cases/HowDSPUsesDataSourceTypes.htm) in
+Types](../../Sys_Admin/Use_Cases/HowDSPUsesDataSourceTypes) in
 System Administration for more information on Data Sources.
 
 <span style="font-weight: bold;">NOTE:</span> Data Services data sources
@@ -17,14 +17,14 @@ must be registered in Common.
 
 When a data source is created in System Administration, it is available
 in Common on the <span style="font-style: italic;">[Data Source
-Registry](../Page_Desc/Data_Source_Registry_H.htm)</span> page.  
+Registry](../Page_Desc/Data_Source_Registry_H)</span> page.  
 
 However, after the initial record is added to Common, changes made to
 data sources in System Administration are not applied to data sources in
 Common. Changes made to data sources in Common are reflected in data
 sources in System Administration. Refer to [Sync Data Sources in Common
 and System
-Administration](Sync_Data_Sources_in_Common_and_System_Administration.htm)
+Administration](Sync_Data_Sources_in_Common_and_System_Administration)
 for more information.
 
 <span style="font-weight: bold;">NOTE:</span> The following data sources
@@ -67,7 +67,7 @@ that belong to WebApps are not synced with Common:
 
 Use Common to:
 
-  - [Register a Data Source](Register_a_Data_Source_in_Common.htm)
+  - [Register a Data Source](Register_a_Data_Source_in_Common)
   - [Sync Data Sources in Common and System
-    Administration](Sync_Data_Sources_in_Common_and_System_Administration.htm)
-  - [Trace Data Sources](Trace_Data_Sources_Overview.htm)
+    Administration](Sync_Data_Sources_in_Common_and_System_Administration)
+  - [Trace Data Sources](Trace_Data_Sources_Overview)

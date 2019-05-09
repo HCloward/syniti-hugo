@@ -9,7 +9,7 @@ of users via reports.
 An external request scenario can be configured to remediate failed data
 on ISA reports using dspCompose™. Refer to [Create a Request in
 dspCompose™ From the ISA Report Data Viewer
-Page](Create_a_Request_in_dspCompose_From_ISA.htm) for more information.
+Page](Create_a_Request_in_dspCompose_From_ISA) for more information.
 
 **NOTE:** An external request scenario cannot be created for an active
 template.
@@ -42,7 +42,7 @@ Steward-initiated request:
     
     [ View the field descriptions for the Template (ISA External Request
     Scenario)
-    page](../Page_Desc/Template_ISA_External_Request_Scenario_H.htm)
+    page](../Page_Desc/Template_ISA_External_Request_Scenario_H)
 
 4.  Enter a rule name (for exmaple, NoRegion) in the **RULE ID** field.
 
@@ -109,7 +109,7 @@ Steward-initiated request:
     
     **NOTE:** Once the record is saved, the ISA Rule ID field displays
     the ISA Rule Binding Description. Refer to [Edit Rule Binding
-    Descriptions](Edit_Rule_Bindings.htm) for more information.
+    Descriptions](Edit_Rule_Bindings) for more information.
 
 13. Click the **Connections** icon to select a connection to the target
     system for each process template used in the scenario.
@@ -122,12 +122,12 @@ Steward-initiated request:
     are based on:
     
       - The Integrate template type. Refer to [Create a Basic
-        Template](../../../Platform/Integrate/Use_Cases/Create_a_Basic_Template.htm)
+        Template](../../../Platform/Integrate/Use_Cases/Create_a_Basic_Template)
         in Integrate for more information.
       - The "Allowed Connections" configured at the Integrate Process
         Template level. Refer to [Set Available Connections at the
         Process Template
-        Level](../../../Platform/Integrate/Use_Cases/Set_Connections_at_the_Process_Template_Level.htm)
+        Level](../../../Platform/Integrate/Use_Cases/Set_Connections_at_the_Process_Template_Level)
         in integrate for more information.
 
 14. Click **Edit**.
@@ -138,13 +138,13 @@ Steward-initiated request:
     not select a connection ID, the default connection assigned to the
     Integrate Template is used for the request. Refer to [Establish a
     Connection to a Target
-    System](../../../Platform/Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview.htm)
+    System](../../../Platform/Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview)
     for more information.
 
 16. Click **Save**.
 
 17. Return to the *[Template (External Request
-    Scenario)](../../dspCompose/Page_Desc/Template_External_Request_Scenario.htm)*
+    Scenario)](../../dspCompose/Page_Desc/Template_External_Request_Scenario)*
     page’s *Vertical* View.
 
 18. Click the **Build Staging Area** icon.
@@ -166,5 +166,5 @@ the staging table by clicking **Clear Staging Area,** then click **Build
 Staging Area**.
 
 Refer to [Map Columns from the Template to Columns from the ISA
-Report](Map_Columns_from_the_Template_to_Columns_from_the_ISA_Report.htm)
+Report](Map_Columns_from_the_Template_to_Columns_from_the_ISA_Report)
 to continue configuring the external request scenario.

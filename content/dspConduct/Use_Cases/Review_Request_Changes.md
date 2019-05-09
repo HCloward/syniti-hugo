@@ -37,7 +37,7 @@ must enable auditing for a table for the Content WebApp data source. The
 table contains the data that is used in the request and any updates to
 this data display for the Review role on the
 <span style="font-style: italic;">[Review Role Audit
-Details](../Page_Desc/Review_Role_Audit_Details_H.htm)</span> page.
+Details](../Page_Desc/Review_Role_Audit_Details_H)</span> page.
 
 To enable auditing for a table in the Content WebApp’s data source:
 
@@ -95,7 +95,7 @@ To enable auditing for a table in the Content WebApp’s data source:
 
 Once auditing is enabled, the table(s) displays on the
 <span style="font-style: italic;">[Audit Table
-Registration](../Page_Desc/Audit_Table_Registration.htm)</span> page in
+Registration](../Page_Desc/Audit_Table_Registration)</span> page in
 dspConduct, where individual tables and columns can be enabled or
 disabled for auditing.
 
@@ -127,7 +127,7 @@ To register tables and columns to be audited:
     icon.
     
     **NOTE:** The <span style="font-style: italic;">[Audit Table
-    Registration](../Page_Desc/Audit_Table_Registration.htm)</span> page
+    Registration](../Page_Desc/Audit_Table_Registration)</span> page
     displays any tables that have had auditing enabled for the Default
     WebApp ID (the Content WebApp) in System Administration.
 
@@ -144,7 +144,7 @@ To register tables and columns to be audited:
     table.
     
     **NOTE:** All columns in the table selected on the [Audit Table
-    Registration](../Page_Desc/Audit_Table_Registration.htm) page
+    Registration](../Page_Desc/Audit_Table_Registration) page
     display. These columns are enabled for auditing by default.
 
 7.  Click the <span style="font-weight: bold;">ENABLED</span> check box
@@ -154,12 +154,12 @@ To register tables and columns to be audited:
     
     **NOTE:** This check box must be checked for the Key to Record field
     to display on the *[Review Role Audit
-    Details](../Page_Desc/Review_Role_Audit_Details_H.htm)* page.
+    Details](../Page_Desc/Review_Role_Audit_Details_H)* page.
 
 9.  Click the <span style="font-weight: bold;">INCLUDE IN RECORD
     KEY</span> check box to display the column name in the Key to Record
     field on the <span style="font-style: italic;">[Review Role Audit
-    Details](../Page_Desc/Review_Role_Audit_Details_H.htm)</span> page.
+    Details](../Page_Desc/Review_Role_Audit_Details_H)</span> page.
 
 Adding additional columns can provide more information to the Review
 role when evaluating updates in a request.
@@ -197,7 +197,7 @@ Review role when the Application role is finished and the Review role
 becomes available. The message lists the changed data records for the
 request. The Review role receives these workflow messages based on
 workflow receipt preferences. Refer to [Set User Workflow Receipt
-Preferences](../Config/Set_User_Workflow_Receipt_Preferences.htm) for
+Preferences](../Config/Set_User_Workflow_Receipt_Preferences) for
 more information.
 
 To view the changes for a request:

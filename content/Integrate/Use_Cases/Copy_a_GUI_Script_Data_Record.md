@@ -12,7 +12,7 @@ Integrate allows a user to copy a template based on a GUI Script and to
 copy an individual GUI script Data Record. The GUI Script Data Record
 can be copied to the current template only.
 
-Refer to [Copy a Template](Copy_a_Template.htm) for more information.
+Refer to [Copy a Template](Copy_a_Template) for more information.
 
 Create a copy of a GUI Script Data Record on the *Vertical* View of the
 *GUI Script Data* page.
@@ -36,7 +36,7 @@ To copy a GUI Script Data Record:
     
     *[View the field descriptions for the GUI Script Data page’s
     Vertical
-    View.](../Page_Desc/GUI_Script_Data_H.htm#GUI_Script_Data_V_All)*
+    View.](../Page_Desc/GUI_Script_Data_H#GUI_Script_Data_V_All)*
 
 7.  Click **Copy** in Page toolbar; a confirmation message displays.
 

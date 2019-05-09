@@ -21,7 +21,7 @@ dashboards to show data based on the reports to which the logged in user
 has access or all reports. A user can only drill-down to view report
 data to which they have been granted access. Refer to [Configure User
 Settings, Reports and
-Filters](Configure_User_Settings_Reports_and_Filters.htm) for more
+Filters](Configure_User_Settings_Reports_and_Filters) for more
 information about setting up user access.
 
 Each segment on a chart represents one sigma level. There are seven
@@ -30,7 +30,7 @@ partially shaded segment represents a partial completion of a level, and
 a blank segment represents a level not fully or partially completed. The
 sigma level displays inside the charts if the Enable Sigma Level
 checkbox is checked on the Data Quality Scoring Threshold section of the
-Metric Parameters tab on the *[Parameters](../Page_Desc/Parameters.htm)*
+Metric Parameters tab on the *[Parameters](../Page_Desc/Parameters)*
 page.
 
 The colors of the segments are based on data quality score thresholds,
@@ -38,7 +38,7 @@ which define the status assigned to an object being scored when the
 percentage of defects falls below the threshold. Statuses are Red
 (critical), Yellow (warning) and Green. Refer to [Register Data Quality
 Score
-Thresholds](Populate_Configuration_Tables.htm#Register_Data_Quality_Score_Thresholds)
+Thresholds](Populate_Configuration_Tables#Register_Data_Quality_Score_Thresholds)
 for more information about status and thresholds.
 
 **NOTE:** The dashboard is dynamic, as the user clicks options on the
@@ -62,7 +62,7 @@ Click a chart in the overview row to update the detail row to display:
   - A History option
 
 Click the **History** option to display the Chart Histogram in a new
-browser tab. Refer to [View Chart Histogram](View_Chart_Histogram.htm)
+browser tab. Refer to [View Chart Histogram](View_Chart_Histogram)
 for more information.
 
 Click an item in the detail row to open a new browser tab that displays

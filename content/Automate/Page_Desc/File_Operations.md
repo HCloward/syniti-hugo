@@ -11,9 +11,9 @@ solution = 'Platform'
 
 Use this page to:
 
-  - [Add File Operations](../Use_Cases/Add_File_Operations.htm)
+  - [Add File Operations](../Use_Cases/Add_File_Operations)
   - [Set up a Looping
-    Process](../Use_Cases/Set_up_a_Looping_Process.htm)
+    Process](../Use_Cases/Set_up_a_Looping_Process)
 
 </div>
 
@@ -143,7 +143,7 @@ Commands
 Monitor
 
 Click to open the *[Monitor I/O
-Operations](../Use_Cases/Monitor_I_O_Operations.htm)* page. Use this
+Operations](../Use_Cases/Monitor_I_O_Operations)* page. Use this
 page to view a record of file operations: when they ran, and whether
 they completed or failed processing.
 

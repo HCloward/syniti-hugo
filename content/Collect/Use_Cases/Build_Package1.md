@@ -7,13 +7,13 @@ solution = 'Platform'
 
 Before performing this task:
 
-  - [Register Tables to Source](Register_Tables_to_Source.htm)
-  - [Encrypt Columns](Encrypt_Columns.htm)
-  - [Configure RFC Options](Configure_RFC_Options.htm)
-  - [Register Table Rules](Register_Table_Rules.htm)
-  - [Create Table Indices](Create_Table_Indices.htm)
+  - [Register Tables to Source](Register_Tables_to_Source)
+  - [Encrypt Columns](Encrypt_Columns)
+  - [Configure RFC Options](Configure_RFC_Options)
+  - [Register Table Rules](Register_Table_Rules)
+  - [Create Table Indices](Create_Table_Indices)
 
-Refer to [Build Package for Table](Build_Package_for_Table.htm) for
+Refer to [Build Package for Table](Build_Package_for_Table) for
 detailed information about this step.
 
-Continue with [Refresh Tables](Refresh_Tables.htm).
+Continue with [Refresh Tables](Refresh_Tables).

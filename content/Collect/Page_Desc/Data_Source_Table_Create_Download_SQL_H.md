@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [View Configuration of Data Source Table SQL
-Commands](../Use_Cases/View_Configuration_of_Data_Source_Table_SQL_Commands.htm).
+Commands](../Use_Cases/View_Configuration_of_Data_Source_Table_SQL_Commands).
 
 </div>
 
@@ -67,7 +67,7 @@ To access this page:
 <div class="use">
 
 Use this page to [View Configuration of Data Source Table SQL
-Commands](../Use_Cases/View_Configuration_of_Data_Source_Table_SQL_Commands.htm).
+Commands](../Use_Cases/View_Configuration_of_Data_Source_Table_SQL_Commands).
 
 </div>
 

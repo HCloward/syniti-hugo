@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to .[Add Decisions for an
-Object](../Use_Cases/Configure_Object.htm#Add2).
+Object](../Use_Cases/Configure_Object#Add2).
 
 </div>
 
@@ -30,6 +30,6 @@ decision.
 | Field         | Description                                                                                                                                                                                               |
 | NAME          | Displays the Object name.                                                                                                                                                                                 |
 | COMMENT       | Displays comment for the Object decision, such as a question.                                                                                                                                             |
-| WORKFLOWED ON | Displays date and time when workflow email was sent to contacts who have the SEND WORKFLOW check box checked on the <span style="font-style: italic;">[Object Contacts](Object_Contacts.htm)</span> page. |
+| WORKFLOWED ON | Displays date and time when workflow email was sent to contacts who have the SEND WORKFLOW check box checked on the <span style="font-style: italic;">[Object Contacts](Object_Contacts)</span> page. |
 | ADDED BY      | Displays name of user who added the decision comment.                                                                                                                                                     |
 | ADDED ON      | Displays date and time when user added the decision comment.                                                                                                                                              |

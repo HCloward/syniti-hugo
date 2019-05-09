@@ -2,7 +2,7 @@
 
 <div class="use">
 
-Use this page for [Run Tracking.](Run_Tracking.htm)
+Use this page for [Run Tracking.](Run_Tracking)
 
 </div>
 

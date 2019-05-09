@@ -12,7 +12,7 @@ retained.
 
 Users can receive messages as an email, a message displayed in the DSP®,
 or both. Refer to [Set User Workflow Receipt
-Preferences](Set_User_Workflow_Receipt_Preferences.htm) for more
+Preferences](Set_User_Workflow_Receipt_Preferences) for more
 information.
 
 dspTrack™ sends workflow messages to users assigned to a Plan Task or
@@ -22,7 +22,7 @@ Work List Item when:
     clicking Next Action for the item or task on the Work List. All
     other users assigned to the item will receive one message. The user
     who started the work will not receive a message. Refer to [Task
-    Status](../Page_Desc/Task_Status1.htm) for more information about
+    Status](../Page_Desc/Task_Status1) for more information about
     how tasks and items move through the workflow.
 
   - **A Plan Task is ready to be worked on because all of its
@@ -43,7 +43,7 @@ Work List Item when:
   - <span>**A task is late or in danger of being late according to
     schedule status calculations.** Refer to [Set Parameters for
     Schedule Status
-    Calculations](Set_Parameters_for_Schedule_Status_Calculation.htm)
+    Calculations](Set_Parameters_for_Schedule_Status_Calculation)
     for more information.</span>
 
 <span style="font-weight: bold;">NOTE</span>**:** Work List Items are
@@ -55,5 +55,5 @@ are retained before they are deleted.
 
 Workflow messages that have been sent display on the
 *<span style="font-size: 10.0pt;">Log</span>* page. Refer to [View
-Workflow Messages Sent](View_Workflow_Messages_Sent.htm) for more
+Workflow Messages Sent](View_Workflow_Messages_Sent) for more
 information.

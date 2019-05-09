@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Configure Integrate
-Parameters](../Use_Cases/Configure_Integrate_Parameters.htm).
+Parameters](../Use_Cases/Configure_Integrate_Parameters).
 
 </div>
 

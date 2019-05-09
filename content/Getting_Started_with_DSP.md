@@ -4,16 +4,16 @@ Before getting started with the DSP®, verify the following steps have
 been completed:
 
 1.  An Administrator has [created
-    users](Sys_Admin/Use_Cases/Create_User_Accounts_in_System_Administration.htm)
-    and [set up security](Sys_Admin/Use_Cases/Setting_security.htm).
+    users](Sys_Admin/Use_Cases/Create_User_Accounts_in_System_Administration)
+    and [set up security](Sys_Admin/Use_Cases/Setting_security).
 2.  [Getting Started with
-    Common.](Common/Config/Setup_and_Configuration_for_Common.htm)
+    Common.](Common/Config/Setup_and_Configuration_for_Common)
 3.  [Getting Started with
-    Collect.](Collect/Config/Setup_and_Configuration_for_Collect.htm)
+    Collect.](Collect/Config/Setup_and_Configuration_for_Collect)
 4.  [Getting Started with
-    Integrate.](Integrate/Use_Cases/Setup_and_Configuration_for_Integrate.htm)
+    Integrate.](Integrate/Use_Cases/Setup_and_Configuration_for_Integrate)
 5.  [Getting Started with
-    dspTrack™](dspTrack/Use_Cases/Setup_and_Configuration_for_dspTrack.htm)
+    dspTrack™](dspTrack/Use_Cases/Setup_and_Configuration_for_dspTrack)
 
 ## DSP® Overview
 

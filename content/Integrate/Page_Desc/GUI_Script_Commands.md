@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page when [Modifying a GUI Script with a Custom
-Command](../Use_Cases/ModifyGUIScriptCustCommand.htm).
+Command](../Use_Cases/ModifyGUIScriptCustCommand).
 
 </div>
 
@@ -32,4 +32,4 @@ recording.
 | Field        | Description                                                                                                                                       |
 | PRIORITY     | Displays the order of the command captured during the GUI script recording.                                                                       |
 | COMMAND TYPE | Displays the SAP command type captured in the GUI script recording.                                                                               |
-| ACTIONS      | Click to open the *[GUI Script Actions](GUI_Script_Actions.htm)* page to view the actions captured during the GUI script recording for a command. |
+| ACTIONS      | Click to open the *[GUI Script Actions](GUI_Script_Actions)* page to view the actions captured during the GUI script recording for a command. |

@@ -10,7 +10,7 @@ extend the functionality of the Data Services Jobs used during the Data
 Services AutoGen process.  
 
 Refer to [Data Services
-AutoGen](../../Data_Services_AutoGen/Data_Services_Automation.htm) for
+AutoGen](../../Data_Services_AutoGen/Data_Services_Automation) for
 more information.
 
 There are two types of Target rules that can be assigned to Target
@@ -21,7 +21,7 @@ fields:
     source. The documentation associated with a Complex rule can contain
     the rule type (such as stored procedures, BODS functions, or SQL
     functions), a rule description, and a rule definition. Refer to [Add
-    a Complex Rule](Complex_Rules.htm) for more information.
+    a Complex Rule](Complex_Rules) for more information.
     
     <span style="font-weight: bold;">NOTE:</span>Complex rules are for
     documentation purposes only and provide information that the Data
@@ -39,7 +39,7 @@ fields:
     data flow based on the priority set in Target Design. Basic rules
     are overwritten using the rule definition from Target Design each
     time Data Services Jobs are automatically generated. Refer to [Add a
-    Basic Rule](Basic_Rules.htm) for more information.
+    Basic Rule](Basic_Rules) for more information.
 
 **NOTE**: If a rule is set in Target Design, that rule is owned by
 Target Design. When the rule is pushed to Map, a note attached to the
@@ -57,7 +57,7 @@ Basic rules are added to the job in the enrichment data flow based on
 the priority set in Target Design.
 
 Refer to [Data Services
-AutoGen](../../Data_Services_AutoGen/Data_Services_Automation.htm) for
+AutoGen](../../Data_Services_AutoGen/Data_Services_Automation) for
 more information.
 
 When a Basic rule is added at the target-field level, the user selects
@@ -71,7 +71,7 @@ To add a Basic rule to a target field in Target Design:
 1.  Select **Design** in the
     <span style="font-style: italic;">Navigation</span> pane.
 
-2.  Click the **Targets**icon on the *[Design](../Page_Desc/Design.htm)*
+2.  Click the **Targets**icon on the *[Design](../Page_Desc/Design)*
     page.
 
 3.  Select the **Fields** icon for a Target.
@@ -82,7 +82,7 @@ To add a Basic rule to a target field in Target Design:
     **Add**.
     
     *[View the field descriptions for the Rules: Basic
-    Rule page](../Page_Desc/Rules_Basic_Rule_H.htm)*
+    Rule page](../Page_Desc/Rules_Basic_Rule_H)*
 
 6.  Enter a value in the **PRIORITY** field.
     
@@ -131,7 +131,7 @@ To add a Basic rule to a target field in Target Design:
 For example, a user sets a Basic rule for the PSTAT field (Maintenance
 Status) on the ttMARA table by completing the fields on the
 <span style="font-style: italic;">[Rules: Basic
-Rule](../Page_Desc/Rules_Basic_Rule_H.htm)</span> page's
+Rule](../Page_Desc/Rules_Basic_Rule_H)</span> page's
 <span style="font-style: italic;">Vertical</span> View with these
 values.
 

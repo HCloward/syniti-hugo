@@ -48,12 +48,12 @@ on the **Advanced** tab of the *Process Post* page’s *Vertical* View.
 When posting the process, Integrate will only post the GUI Script
 template, and the steps in this section can be used. Refer to [Post a
 Process with Multiple
-Templates](Post_a_Process_with_Multiple_Templates.htm) for more
+Templates](Post_a_Process_with_Multiple_Templates) for more
 information.
 
 To debug the GUI script, generate the VB script file and run the
 recording in the SAP GUI. Refer to [Record a GUI
-Script](Record_a_GUI_Script.htm) for more information.
+Script](Record_a_GUI_Script) for more information.
 
 To view the VB script file from Integrate:
 
@@ -91,7 +91,7 @@ To generate the script for the entire record set to debug before records
 are uploaded:
 
 1.  Create the GUI script. Refer to [Record a GUI
-    Script](Record_a_GUI_Script.htm) for more information.
+    Script](Record_a_GUI_Script) for more information.
 2.  Select **Categories** from *Navigation pane*.
 3.  Click the **Processes** icon for a category.
 4.  Click the **Postings** icon.

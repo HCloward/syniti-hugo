@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Register Tables and Columns to be
-Audited](../Use_Cases/Review_Request_Changes.htm#Register_Tables_and_Columns_to_be_Audited).
+Audited](../Use_Cases/Review_Request_Changes#Register_Tables_and_Columns_to_be_Audited).
 
 </div>
 
@@ -41,7 +41,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>PRIMARY KEY</p></td>
-<td><p>If checked, the column is the key field on the table, or is part of the multi-part key. This column displays by default in the Key to Record field on the <em><a href="Review_Role_Audit_Details_H.htm">Review Role Audit Details</a></em> page when the check box is checked.</p>
+<td><p>If checked, the column is the key field on the table, or is part of the multi-part key. This column displays by default in the Key to Record field on the <em><a href="Review_Role_Audit_Details_H">Review Role Audit Details</a></em> page when the check box is checked.</p>
 <p>If unchecked, the Key to Record field does not display on the Review Role Audit Detail page.</p></td>
 </tr>
 <tr class="even">

@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [View Archived
-Requests](../Use_Cases/View_Archived_Requests_DGE.htm).
+Requests](../Use_Cases/View_Archived_Requests_DGE).
 
 </div>
 
@@ -51,7 +51,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Post Messages</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Archived_Request_Post_Message.htm">Archived Request Post Message</a></span> page to view messages returned after the request is posted.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Archived_Request_Post_Message">Archived Request Post Message</a></span> page to view messages returned after the request is posted.</p></td>
 </tr>
 </tbody>
 </table>

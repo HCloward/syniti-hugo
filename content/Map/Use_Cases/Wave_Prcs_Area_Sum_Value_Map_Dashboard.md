@@ -15,25 +15,25 @@ value in the field.
 Each chart in the dashboard allows the user to drill down to data in the
 level below it in the hierarchy to view data in increasing granularity.
 
-Refer to [Perform Value Mapping](Perform_Value_Mapping_Overview.htm) for
+Refer to [Perform Value Mapping](Perform_Value_Mapping_Overview) for
 more information.
 
 A summary of value mapping status associated with the Wave and Process
 Area by day, week and month is also provided on these charts.
 
-Refer to [View Dashboards in Map](View_Dashboards_in_Map.htm) for
+Refer to [View Dashboards in Map](View_Dashboards_in_Map) for
 general information about chart features.
 
 This dashboard contains the following charts:
 
-  - [Value Mapping by Wave](Value_Mapping_by_Wave.htm)
+  - [Value Mapping by Wave](Value_Mapping_by_Wave)
   - [Value Mapping by Wave and Process
-    Area](Value_Mapping_by_Wave_and_Process_Area.htm)
+    Area](Value_Mapping_by_Wave_and_Process_Area)
   - [Value Mapping Completed by
-    Wave](Value_Mapping_Completed_By_Wave.htm)
+    Wave](Value_Mapping_Completed_By_Wave)
   - [Value Mapping Daily by
-    Wave](Value_Mapping_Daily_by_Wave_and_Process_Area.htm)
+    Wave](Value_Mapping_Daily_by_Wave_and_Process_Area)
   - [Value Mapping Weekly by
-    Wave](Value_Mapping_Weekly_by_Wave_and_Process_Area.htm)
+    Wave](Value_Mapping_Weekly_by_Wave_and_Process_Area)
   - [Value Mapping Monthly by
-    Wave](Value_Mapping_Monthly_by_Wave_and_Process_Area.htm)
+    Wave](Value_Mapping_Monthly_by_Wave_and_Process_Area)

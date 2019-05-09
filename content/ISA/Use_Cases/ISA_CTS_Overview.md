@@ -17,7 +17,7 @@ The process is performed in:
     lead
 
 Refer to the
-[CTS](../../../Platform/Sys_Admin/Use_Cases/CTS_Overview.htm) section in
+[CTS](../../../Platform/Sys_Admin/Use_Cases/CTS_Overview) section in
 System Administration for general information about CTS.
 
 Before the promotion of the code to the target environment:
@@ -32,7 +32,7 @@ Additionally, to move the data elements:
     and the ISA.
   - The user must have knowledge of the CTS application used for the
     code promotion of the ISA. Refer to
-    [CTS](../../../Platform/Sys_Admin/Use_Cases/CTS_Overview.htm) in
+    [CTS](../../../Platform/Sys_Admin/Use_Cases/CTS_Overview) in
     System Administration for more information.
   - The source environment must have been built out so that the IS and
     ISA configuration is aligned and able to be executed successfully
@@ -384,7 +384,7 @@ In the CTS process for ISA, the target environment must be set up with
 the user accounts required to support the ISA Project Distributions. If
 these user accounts do not exist in the target environment, they must be
 added by an Administrator user. Refer to [Create User
-Accounts](../../../Platform/Sys_Admin/Use_Cases/Create_User_Accounts_in_System_Administration.htm)
+Accounts](../../../Platform/Sys_Admin/Use_Cases/Create_User_Accounts_in_System_Administration)
 in System Administration for more information.
 
 If user accounts that are assigned to ISA Project Distributions in the
@@ -400,7 +400,7 @@ To run the Collect process that aligns the metadata:
 1.  Select **Collect** in the *Navigation* pane.
 2.  Select the **dgRepository\_IS Target** record.
 3.  Select the ISSAP Target Source on the *[Target
-    Sources](../../../Platform/Collect/Page_Desc/Target_Sources_H_Collect.htm)*
+    Sources](../../../Platform/Collect/Page_Desc/Target_Sources_H_Collect)*
     page.
 4.  Click the Refresh icon to pull the latest metadata from IS into the
     ISA repository.
@@ -472,7 +472,7 @@ occurred.
 
 The final step in the CTS process for ISA is to access the
 <span style="font-style: italic;">[Project
-Summary](../Page_Desc/Project_Summary_H.htm)</span> page.
+Summary](../Page_Desc/Project_Summary_H)</span> page.
 
 To complete the CTS process for ISA:
 

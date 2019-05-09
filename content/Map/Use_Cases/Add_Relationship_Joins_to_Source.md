@@ -17,7 +17,7 @@ table other than the Add Row table being mapped. The join indicates how
 the table in the Add Row Source is joined to the table in the Update Row
 Source so the update rules can be created and registered in Transform.
 
-Refer to [Update Row Sources Overview](Add_Update_Row_Sources.htm) for
+Refer to [Update Row Sources Overview](Add_Update_Row_Sources) for
 more information.
 
 Relationship joins between Add Row and Update Row Sources are created
@@ -54,7 +54,7 @@ To add relationships to a Source in Map:
 
 2.  Click the <span style="font-weight: bold;">Targets</span> icon on
     the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page.
 
 3.  Click the <span style="font-weight: bold;">Sources</span> icon for a
     Target.
@@ -70,7 +70,7 @@ To add relationships to a Source in Map:
     **Add**.
     
     [View the field descriptions for the Relationship Joins
-    page](../Page_Desc/Relationship_Joins_H.htm)
+    page](../Page_Desc/Relationship_Joins_H)
 
 8.  Enter name of relationship in **NAME** field, for example, Product
     Inventory.
@@ -89,7 +89,7 @@ To add relationships to a Source in Map:
 12. Click **Edit**.
     
     [View the field descriptions for the Relationship Joins
-    page](../Page_Desc/Relationship_Joins_H.htm)
+    page](../Page_Desc/Relationship_Joins_H)
 
 13. Enter a filter in **Where Clause** field.
 
@@ -103,7 +103,7 @@ To add relationships to a Source in Map:
     **Add**.
     
     [View the field descriptions for the Relationship Fields
-    page](../Page_Desc/Relationship_Fields.htm)
+    page](../Page_Desc/Relationship_Fields)
 
 18. Enter the priority used to build the join in the **PRIORITY** field.
 

@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Add Logging
-Modules](../Use_Cases/Add_Logging_Modules.htm).
+Modules](../Use_Cases/Add_Logging_Modules).
 
 </div>
 
@@ -43,8 +43,8 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>LOG TASKS</p></td>
-<td><p>If checked, task for the module are recorded on the <em><a href="Log.htm">Log</a></em> page.</p>
-<p>If unchecked, tasks for the module are not recorded on the <em><a href="Log.htm">Log</a></em> page.</p>
+<td><p>If checked, task for the module are recorded on the <em><a href="Log">Log</a></em> page.</p>
+<p>If unchecked, tasks for the module are not recorded on the <em><a href="Log">Log</a></em> page.</p>
 <p>It is checked by default.</p></td>
 </tr>
 </tbody>

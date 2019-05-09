@@ -7,7 +7,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Copy Plan Tasks](Copy_Tasks1.htm).
+Use this page to [Copy Plan Tasks](Copy_Tasks1).
 
 </div>
 
@@ -29,7 +29,7 @@ To access this page:
 <tr class="even">
 <td><p>Copy Plan Task</p></td>
 <td><p>Click to copy the plan task after selecting copy options.</p>
-<p><strong>NOTE</strong>: A Plan Task cannot be copied to a Plan that is active. Refer to <a href="Activate_and_Deactivate_a_Plan.htm">Activate and Deactivate a Plan</a> for more information.</p></td>
+<p><strong>NOTE</strong>: A Plan Task cannot be copied to a Plan that is active. Refer to <a href="Activate_and_Deactivate_a_Plan">Activate and Deactivate a Plan</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Copy Users</p></td>

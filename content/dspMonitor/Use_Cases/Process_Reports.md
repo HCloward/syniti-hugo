@@ -23,7 +23,7 @@ This use case covers the following topics:
 Reports can be scheduled to run at the group level. Reports can run on a
 daily, weekly or monthly schedule, or a specific date and time can be
 configured. Refer to [Create
-Schedules](../../../Platform/Common/Use_Cases/Create_Schedules.htm) for
+Schedules](../../../Platform/Common/Use_Cases/Create_Schedules) for
 detailed information.
 
 <span style="font-weight: bold;">NOTE</span>: Only a Group Owner can
@@ -36,12 +36,12 @@ To schedule reports to process:
 2.  Click **Edit** for Group ID.
     
     [View the field descriptions for the Groups
-    page](../Page_Desc/Groups_H.htm)
+    page](../Page_Desc/Groups_H)
 
 3.  Select a schedule from **GROUP SCHEDULE ID** list box.
     
     **NOTE:** Schedules are maintained in Common. Refer to [Create
-    Schedules](../../../Platform/Common/Use_Cases/Create_Schedules.htm)
+    Schedules](../../../Platform/Common/Use_Cases/Create_Schedules)
     for detailed information.
 
 4.  Click
@@ -74,7 +74,7 @@ Users can manually process a single report if the entire report group
 does not need to be processed. In order for a report to be manually run,
 **Allow Manual Run** must be enabled by the Group Owner. Refer to the
 [Register Reports to a Report
-Repository](Register_Reports_to_a_Report_Repo.htm) for detailed
+Repository](Register_Reports_to_a_Report_Repo) for detailed
 information on the **Allow Manual Run** feature.
 
 To manually process a report: 
@@ -99,9 +99,9 @@ processing.
 Users can manually process a single report if the entire report group
 does not need to be processed. In order for a report to be manually run,
 Allow Manual Run must be enabled on the *[Repository
-Reports](../Page_Desc/Repository_Reports_H.htm)* page’s *Vertical* View.
+Reports](../Page_Desc/Repository_Reports_H)* page’s *Vertical* View.
 Refer to the [Register Reports to a Report
-Repository](Register_Reports_to_a_Report_Repo.htm) for detailed
+Repository](Register_Reports_to_a_Report_Repo) for detailed
 information on the Allow Manual Run feature.
 
 To manually process a report:
@@ -130,9 +130,9 @@ processing.
 Users can manually process a single report. if the entire report group
 does not need to be processed. In order for a report to be manually run,
 Allow Manual Run must be enabled on the *[Repository
-Reports](../Page_Desc/Repository_Reports_H.htm)* page’s *Vertical* View.
+Reports](../Page_Desc/Repository_Reports_H)* page’s *Vertical* View.
 Refer to [Register Reports to a Report
-Repository](Register_Reports_to_a_Report_Repo.htm) for detailed
+Repository](Register_Reports_to_a_Report_Repo) for detailed
 information on the Allow Manual Run feature.
 
 To manually process a report:

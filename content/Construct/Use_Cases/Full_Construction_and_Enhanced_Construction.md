@@ -47,21 +47,21 @@ for custom WebApps. For example, a client may require that
 data-sensitive content be added to a WebApp called ConstructHR. This
 data will not be tracked for construction completion status. Refer to
 [Update the WebApp and Source Data Source for
-Construct](../../Console/Use_Cases/Update_Construct_WebApp_and_Data_Source.htm)
+Construct](../../Console/Use_Cases/Update_Construct_WebApp_and_Data_Source)
 for more information.
 
 **NOTE**: Construct pages can also be created manually without using
 auto-generation. However, metrics are not tracked for manually added
 pages. Refer to [Build a Construction Page
-Manually](../../../Platform/Common/Use_Cases/Build_a_Construction_Page_Manually.htm)
+Manually](../../../Platform/Common/Use_Cases/Build_a_Construction_Page_Manually)
 for more information.  
 
 <span style="font-weight: bold;">NOTE</span>: New custom pages and
 existing custom pages created with Full Construction and Enrichment
 Construction can use [Excel
-Integration](../../../Platform/Excel_Int/Use_Excel_Integration.htm) and
+Integration](../../../Platform/Excel_Int/Use_Excel_Integration) and
 [Bulk
-Execution](../../../Platform/Sys_Admin/Use_Cases/Configure_Bulk_Execution_Overview.htm).
+Execution](../../../Platform/Sys_Admin/Use_Cases/Configure_Bulk_Execution_Overview).
 
-Refer to [Enrichment Construction](Enrichment_Construction.htm) and
-[Full Construction](Full_Construction.htm) for more information.
+Refer to [Enrichment Construction](Enrichment_Construction) and
+[Full Construction](Full_Construction) for more information.

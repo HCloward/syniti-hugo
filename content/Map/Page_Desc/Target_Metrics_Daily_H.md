@@ -9,7 +9,7 @@ solution = 'Migration'
 
 <div class="use">
 
-Use this page to [View Metrics](../Use_Cases/View_Metrics_Map.htm).
+Use this page to [View Metrics](../Use_Cases/View_Metrics_Map).
 
 </div>
 
@@ -20,10 +20,10 @@ To access this page:
 2.  Click <span style="font-weight: bold;">Map </span>in the Context
     bar.
 3.  Click the <span style="font-weight: bold;">Metrics</span> icon on
-    the *[Process Area Launch](Process_Area_Launch_map.htm)* page.
+    the *[Process Area Launch](Process_Area_Launch_map)* page.
 4.  Click the <span style="font-weight: bold;">Metrics</span> icon on
     the <span style="font-style: italic;">[Metrics and Reports
-    Landing](Metrics_and_Reports_Landing.htm)</span> page.
+    Landing](Metrics_and_Reports_Landing)</span> page.
 5.  Click the <span style="font-weight: bold;">Daily</span> icon in the
     Page toolbar.
 
@@ -59,7 +59,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>SOURCE RULE COMPLETED</p></td>
-<td><p>Displays the number of rules for Sources that have a mapping status and a rule status set to <strong>Complete</strong> on the <em><a href="Field_Mappings_H.htm">Field Mappings</a></em> page.</p></td>
+<td><p>Displays the number of rules for Sources that have a mapping status and a rule status set to <strong>Complete</strong> on the <em><a href="Field_Mappings_H">Field Mappings</a></em> page.</p></td>
 </tr>
 <tr class="odd">
 <td><p>SOURCE RULE TOTAL</p></td>
@@ -68,7 +68,7 @@ To access this page:
 <tr class="even">
 <td><p>SOURCE RULE FIELD GROUP COMPLETED</p></td>
 <td><p>Displays the number of completed Source Rule Field Group field mappings (as in, fields that belong to the default field group (*)).</p>
-<p>Field groups are assigned in Target Design, and allow users to apply filters for mapping based on certain values in a field. Refer to <a href="../../Design/Use_Cases/Work_with_Field_Groups.htm">Work with Field Groups</a> for more information.</p></td>
+<p>Field groups are assigned in Target Design, and allow users to apply filters for mapping based on certain values in a field. Refer to <a href="../../Design/Use_Cases/Work_with_Field_Groups">Work with Field Groups</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>SOURCE RULE FIELD GROUP TOTAL</p></td>
@@ -95,11 +95,11 @@ To access this page:
 
 ## <span id="Target_Metrics_Daily_V"></span>Target Metrics Daily V
 
-[Target Metrics Daily H](Target_Metrics_Daily_H.htm)
+[Target Metrics Daily H](Target_Metrics_Daily_H)
 
 <div class="use">
 
-Use this page to [View Metrics](../Use_Cases/View_Metrics_Map.htm).
+Use this page to [View Metrics](../Use_Cases/View_Metrics_Map).
 
 </div>
 
@@ -154,7 +154,7 @@ Displays the number of completed Source Rule Field Group field mappings
 
 Field groups are assigned in Target Design, and allow users to apply
 filters for mapping based on certain values in a field. Refer to [Work
-with Field Groups](../../Design/Use_Cases/Work_with_Field_Groups.htm)
+with Field Groups](../../Design/Use_Cases/Work_with_Field_Groups)
 for more information.
 
 Source Rule Field Group Total
@@ -167,7 +167,7 @@ Target Mappings
 Target Rule Completed
 
 Displays the number of field mappings with {Target Rules} in the TARGET
-SOURCE DETAILS section on the *[Field Mappings](Field_Mappings_H.htm)*
+SOURCE DETAILS section on the *[Field Mappings](Field_Mappings_H)*
 page that have a MAPPING STATUS and a RULE STATUS set to Complete.
 
 Target Rule Total

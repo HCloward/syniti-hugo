@@ -15,9 +15,9 @@ Hover a cursor over a data point to view the number of changes to field
 mappings for that week.
 
 Click a data point for a week to drill down to the [Field Mapping
-Changes Week by Object](Field_Mapping_Changes_Week_by_Object.htm) chart.
+Changes Week by Object](Field_Mapping_Changes_Week_by_Object) chart.
 
-Refer to [View Dashboards in Map](View_Dashboards_in_Map.htm) for
+Refer to [View Dashboards in Map](View_Dashboards_in_Map) for
 general information about chart features.
 
 To access the chart in Console:

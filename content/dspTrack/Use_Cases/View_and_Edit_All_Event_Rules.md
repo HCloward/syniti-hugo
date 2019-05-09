@@ -19,7 +19,7 @@ To edit a Work List Event Rule on this page:
 2.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the *Event Rules All*
-    page](../Page_Desc/Work_List_Event_Rules_All.htm)
+    page](../Page_Desc/Work_List_Event_Rules_All)
 
 3.  Enter a value in the **PRIORITY** field.
     

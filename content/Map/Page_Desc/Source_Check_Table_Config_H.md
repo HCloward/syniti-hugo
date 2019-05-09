@@ -10,7 +10,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page when [Value Map Target Fields from Multiple Source
-Systems](../Use_Cases/Value_Map_Target_Fields_from_Mulitple_Source_Systems.htm).
+Systems](../Use_Cases/Value_Map_Target_Fields_from_Mulitple_Source_Systems).
 
 </div>
 
@@ -53,23 +53,23 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>VALUES PULLED ON</p></td>
-<td><p>Displays the date and time Target values were last refreshed from the Wave Target data source. Target values are retrieved when a user clicks Refresh on the <span style="font-size: 11.0pt;font-family: Arial, sans-serif;font-style: italic;"><a href="Value_Mapping_Config_H.htm">Value Mapping (Config)</a></span> page's<span style="font-size: 11.0pt;font-family: Arial, sans-serif;font-style: italic;">Vertical</span> View.</p></td>
+<td><p>Displays the date and time Target values were last refreshed from the Wave Target data source. Target values are retrieved when a user clicks Refresh on the <span style="font-size: 11.0pt;font-family: Arial, sans-serif;font-style: italic;"><a href="Value_Mapping_Config_H">Value Mapping (Config)</a></span> page's<span style="font-size: 11.0pt;font-family: Arial, sans-serif;font-style: italic;">Vertical</span> View.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Tables</p></td>
-<td><p>Click to open the <em><a href="Legacy_Value_Source_Table_Fields_H.htm">Legacy Value (Source Table Fields)</a></em> page to add, edit and delete the Source tables used to create the value.</p></td>
+<td><p>Click to open the <em><a href="Legacy_Value_Source_Table_Fields_H">Legacy Value (Source Table Fields)</a></em> page to add, edit and delete the Source tables used to create the value.</p></td>
 </tr>
 <tr class="even">
 <td><p>Value Mappings</p></td>
-<td><p>Click to open the <em><a href="Value_Mapping_Legacy_to_Target_H.htm">Value Mapping (Legacy to Target)</a></em> page to add, edit and delete the Target values that are mapped to the selected check table.</p></td>
+<td><p>Click to open the <em><a href="Value_Mapping_Legacy_to_Target_H">Value Mapping (Legacy to Target)</a></em> page to add, edit and delete the Target values that are mapped to the selected check table.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Mappings</p></td>
-<td><p>Click to open the <em><a href="Field_Mappings_H.htm">Field Mappings</a></em> page to access only those mappings that use the selected check table.</p></td>
+<td><p>Click to open the <em><a href="Field_Mappings_H">Field Mappings</a></em> page to access only those mappings that use the selected check table.</p></td>
 </tr>
 <tr class="even">
 <td><p>Value Tracking</p></td>
-<td><p>Click to open the <em><a href="Value_Mapping_Legacy_to_Target_H.htm">Value Mapping (Legacy to Target)</a></em> page to add, edit and delete the Target values that are mapped to the selected check table.</p></td>
+<td><p>Click to open the <em><a href="Value_Mapping_Legacy_to_Target_H">Value Mapping (Legacy to Target)</a></em> page to add, edit and delete the Target values that are mapped to the selected check table.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Refresh</p></td>
@@ -87,7 +87,7 @@ To access this page:
 
 Use this page when [Defining Tables and Fields for Multiple Source
 Systems to Use in Value
-Mapping](../Use_Cases/Value_Map_Target_Fields_from_Mulitple_Source_Systems.htm).
+Mapping](../Use_Cases/Value_Map_Target_Fields_from_Mulitple_Source_Systems).
 
 </div>
 
@@ -101,7 +101,7 @@ Displays the name of the Source as defined in Target Design where the
 check table is stored.
 
 Click the link to open the *[Value Mapping
-(Sources)](Value_Mapping_Sources_H.htm)* page to perform Value Mapping
+(Sources)](Value_Mapping_Sources_H)* page to perform Value Mapping
 for a rule with an Xref or Rule Xref action.
 
 Source Details
@@ -126,7 +126,7 @@ Displays the date and time Target values were last refreshed from the
 Wave Target data source. Target values are retrieved when a user clicks
 Refresh on
 the<span style="font-size: 11.0pt;font-family: Arial, sans-serif;font-style: italic;">[Value
-Mapping (Config)](Value_Mapping_Config_H.htm)</span>
+Mapping (Config)](Value_Mapping_Config_H)</span>
 page's <span style="font-size: 11.0pt;font-family: Arial, sans-serif;font-style: italic;">Vertical</span>
 View.
 
@@ -140,7 +140,7 @@ Check Table
 
 Displays the name of the ERP check table. Click the link to open
 the<span style="font-size: 11.0pt;font-family: Arial, sans-serif;">[Value
-Mapping (Config)](Value_Mapping_Config_H.htm)</span>page to view details
+Mapping (Config)](Value_Mapping_Config_H)</span>page to view details
 about the check table.
 
 <span id="Lookup Table Type" class="popUpLink">Type</span>
@@ -157,7 +157,7 @@ Target Pulled On
 
 Displays the date and time Target values were last retrieved from the
 Wave Target data source. Target values are retrieved when a user clicks
-Refresh on the *[Value Mapping (Config)](Value_Mapping_Config_H.htm)*
+Refresh on the *[Value Mapping (Config)](Value_Mapping_Config_H)*
 page's *Horizonta*l View.
 
 Target Pulled By

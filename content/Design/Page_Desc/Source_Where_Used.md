@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [View Target and Source
-Assignments](../Use_Cases/View_Target_and_Source_Assignments.htm).
+Assignments](../Use_Cases/View_Target_and_Source_Assignments).
 
 </div>
 
@@ -43,8 +43,8 @@ To access this page:
 <td><p>SYSTEM TYPE ID</p></td>
 <td><p>Displays the System Type of the data source, if one was added.</p>
 <p>System Types are added in Common and contain generic information including keys, fields, check tables, join relationships between tables and generic mappings for external systems (for example, Target ERP and Legacy) being used for a data migration.</p>
-<p>The System Type is assigned to a Source on the <span style="font-style: italic;"><a href="Target_Sources_H_Design.htm">Target Sources</a></span> page.</p>
-<p>Refer to <a href="../../../Platform/Common/Use_Cases/System_Types_Overview.htm">System Types</a> for more information.</p></td>
+<p>The System Type is assigned to a Source on the <span style="font-style: italic;"><a href="Target_Sources_H_Design">Target Sources</a></span> page.</p>
+<p>Refer to <a href="../../../Platform/Common/Use_Cases/System_Types_Overview">System Types</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Wave NAME</p></td>

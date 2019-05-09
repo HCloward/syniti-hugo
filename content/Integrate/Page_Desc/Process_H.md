@@ -9,7 +9,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Create a Process](../Use_Cases/Create_a_Process.htm)
+Use this page to [Create a Process](../Use_Cases/Create_a_Process)
 and Activate a Process.
 
 </div>
@@ -31,7 +31,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Category Templates</p></td>
-<td><p>Click to open the <em><a href="Template_H.htm">Template</a></em> page to view a list of all active and inactive templates assigned to the Category.</p></td>
+<td><p>Click to open the <em><a href="Template_H">Template</a></em> page to view a list of all active and inactive templates assigned to the Category.</p></td>
 </tr>
 <tr class="odd">
 <td><p>PRIORITY</p></td>
@@ -51,12 +51,12 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Templates</p></td>
-<td><p>Click to open the <em><a href="Process_Templates_H.htm">Process Templates</a></em> page to add, edit or delete the templates associated with the process. This action can only be performed when the process is inactive.</p></td>
+<td><p>Click to open the <em><a href="Process_Templates_H">Process Templates</a></em> page to add, edit or delete the templates associated with the process. This action can only be performed when the process is inactive.</p></td>
 </tr>
 <tr class="even">
 <td><p>ACTIVATE/DEACTIVATE</p></td>
 <td><p>Click to activate or deactivate the process. The button displays a green icon for active processes and a red icon for inactive processes.</p>
-<p><strong>NOTE:</strong> When using dspConduct™ component with Integrate, if the scenario is in any status other than Published, the Designer can activate or deactivate the process in Integrate as needed to test and troubleshoot the process. Refer to <a href="../../../Master_Data_Mgmt/dspConduct/Use_Cases/Manage_Scenarios.htm">Manage dspConduct™ Scenarios</a> for more information about working with scenarios in dspConduct™.</p></td>
+<p><strong>NOTE:</strong> When using dspConduct™ component with Integrate, if the scenario is in any status other than Published, the Designer can activate or deactivate the process in Integrate as needed to test and troubleshoot the process. Refer to <a href="../../../Master_Data_Mgmt/dspConduct/Use_Cases/Manage_Scenarios">Manage dspConduct™ Scenarios</a> for more information about working with scenarios in dspConduct™.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Active</p></td>
@@ -64,7 +64,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Postings</p></td>
-<td><p>Click to open the <em><a href="Process_Post_H.htm">Process Post</a></em> page to view details about the process posts and to post data to SAP. The number displays the total of process posts added whether posted or not. If the process is not active, this icon is disabled.</p></td>
+<td><p>Click to open the <em><a href="Process_Post_H">Process Post</a></em> page to view details about the process posts and to post data to SAP. The number displays the total of process posts added whether posted or not. If the process is not active, this icon is disabled.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Report</p></td>
@@ -75,11 +75,11 @@ To access this page:
 
 ## <span id="Process_V_All_Tabs"></span>Process V All Tabs
 
-[Process H](Process_H.htm)
+[Process H](Process_H)
 
 <div class="use">
 
-Use this page to [Create a Process](../Use_Cases/Create_a_Process.htm)
+Use this page to [Create a Process](../Use_Cases/Create_a_Process)
 and Activate a Process.
 
 </div>
@@ -100,7 +100,7 @@ Description
 
 Templates
 
-Click to open the *[Process Templates](Process_Templates_H.htm)* page to
+Click to open the *[Process Templates](Process_Templates_H)* page to
 add, edit and delete the templates associated with the process.
 
 Basic Properties
@@ -180,7 +180,7 @@ Process Post
 
 Postings
 
-Click to open the *[*Process Post*](Process_Post_H.htm)* page to view
+Click to open the *[*Process Post*](Process_Post_H)* page to view
 details about the process posts and to post data to SAP. If the process
 is inactive, the icon is disabled. The number displays the total of
 process posts ready to be posted. If the icon displays no numbers, no
@@ -245,5 +245,5 @@ New Process Settings
 
 Copy Process
 
-Click to open the *[Copy](Copy.htm)* page to create a process based on a
+Click to open the *[Copy](Copy)* page to create a process based on a
 copy of the current process.

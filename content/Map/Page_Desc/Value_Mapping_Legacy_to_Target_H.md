@@ -12,9 +12,9 @@ solution = 'Migration'
 Use this page to
 
   - [Perform Value
-    Mapping](../Use_Cases/Perform_Value_Mapping_Overview.htm)
+    Mapping](../Use_Cases/Perform_Value_Mapping_Overview)
   - [Value Map Target Fields from Multiple Source
-    Systems](../Use_Cases/Value_Map_Target_Fields_from_Mulitple_Source_Systems.htm)
+    Systems](../Use_Cases/Value_Map_Target_Fields_from_Mulitple_Source_Systems)
 
 </div>
 
@@ -27,7 +27,7 @@ To access this page:
     bar.
 
 3.  Click the <span style="font-weight: bold;">Value Mapping</span> icon
-    on the *[Process Area Launch](Process_Area_Launch_map.htm)* page.
+    on the *[Process Area Launch](Process_Area_Launch_map)* page.
 
 4.  Click the <span style="font-weight: bold;">Values</span> icon for a
     check table.
@@ -37,9 +37,9 @@ To access this page:
     Execution are enabled on the *Value Mapping (Legacy to Target)*
     page. Once data entry is complete, import that data into the DSP.
     Refer to [Use Bulk
-    Execution](../../../Platform/Bulk_Exec/Use_Bulk_Execution.htm) and
+    Execution](../../../Platform/Bulk_Exec/Use_Bulk_Execution) and
     *[Use Excel
-    Integration](../../../Platform/Excel_Int/Use_Excel_Integration.htm)*
+    Integration](../../../Platform/Excel_Int/Use_Excel_Integration)*
     for more information.
 
 <table>
@@ -50,7 +50,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>CHECK TABLE</p></td>
-<td><p>Click to open the <a href="Value_Mapping_Config_H.htm"><em>Value Mapping (Config)</em></a> page to view details about the check table.</p>
+<td><p>Click to open the <a href="Value_Mapping_Config_H"><em>Value Mapping (Config)</em></a> page to view details about the check table.</p>
 <p>Check tables are also called lookup tables and are added in Target Design or imported with a System Type when it is imported into t</p>
 <p>Target Design.</p></td>
 </tr>
@@ -102,9 +102,9 @@ To access this page:
 Use this page to
 
   - [Perform Value
-    Mapping](../Use_Cases/Perform_Value_Mapping_Overview.htm)
+    Mapping](../Use_Cases/Perform_Value_Mapping_Overview)
   - [Value Map Target Fields from Multiple Source
-    Systems](../Use_Cases/Value_Map_Target_Fields_from_Mulitple_Source_Systems.htm)
+    Systems](../Use_Cases/Value_Map_Target_Fields_from_Mulitple_Source_Systems)
 
 </div>
 

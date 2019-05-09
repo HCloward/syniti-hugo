@@ -11,9 +11,9 @@ Active requests have a status of Posted, Posted with Errors, Posting
 Started or Request in Process.
 
 Click a section to drill down to the *[Active Request for Role
-Details](../Page_Desc/Active_Request_for_Role_Details.htm)* page.
+Details](../Page_Desc/Active_Request_for_Role_Details)* page.
 
-Refer to [View Charts in dspConduct™](View_Charts.htm) for general
+Refer to [View Charts in dspConduct™](View_Charts) for general
 information about chart features.
 
 To access this chart in dspConduct™:

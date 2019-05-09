@@ -35,7 +35,7 @@ user can always know which objects, targets and sources are being worked
 on.
 
 The Wave Process Areas that display on the *[Context
-Select](../Console/Page_Desc/Context_Select.htm)* page depend on the
+Select](../Console/Page_Desc/Context_Select)* page depend on the
 logged in user’s security settings. All contexts display for a user if
 the user is assigned to the Migration Developer security role. This role
 grants access to all Waves, including new Waves as they are added to
@@ -45,12 +45,12 @@ must be added to the security role when the Wave, Process Area, and
 object are are added in Console and when targets and sources are added
 in Target Design. Once the keys are added, the associated context
 displays on the Context Select page. Refer to [Set up Security for
-dspMigrate™](Set_Up_Security_for_dspMigrate.htm) for more information.
+dspMigrate™](Set_Up_Security_for_dspMigrate) for more information.
 
 **NOTE**: A user must have access to the Wave, the Process Area, the
 object, the target and the source to be able to view and select it.
 Refer to [Set up Security for
-dspMigrate™](Set_Up_Security_for_dspMigrate.htm) for more information.
+dspMigrate™](Set_Up_Security_for_dspMigrate) for more information.
 
 To switch to a new context in the Context bar:
 

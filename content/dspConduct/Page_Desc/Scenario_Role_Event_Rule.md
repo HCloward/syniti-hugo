@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [add a custom business
-rule](../Use_Cases/Add_Custom_Business_Rules.htm).
+rule](../Use_Cases/Add_Custom_Business_Rules).
 
 </div>
 

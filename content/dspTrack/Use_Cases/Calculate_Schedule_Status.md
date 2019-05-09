@@ -32,10 +32,10 @@ which point the schedule status is red. It does not turn yellow.
 
 The schedule status is calculated using:
 
-  - [Warn Thresholds](../Page_Desc/Warn_Thresholds.htm)
-  - [Schedule Status Outlook](../Page_Desc/Schedule_Status_Outlook.htm)
-  - [The Critical Path](Tasks_on_the_Critical_Path.htm)
+  - [Warn Thresholds](../Page_Desc/Warn_Thresholds)
+  - [Schedule Status Outlook](../Page_Desc/Schedule_Status_Outlook)
+  - [The Critical Path](Tasks_on_the_Critical_Path)
   - The Current Date/Time
 
 Refer to [Set Parameters for Schedule Status
-Calculation](Set_Parameters_for_Schedule_Status_Calculation.htm).
+Calculation](Set_Parameters_for_Schedule_Status_Calculation).

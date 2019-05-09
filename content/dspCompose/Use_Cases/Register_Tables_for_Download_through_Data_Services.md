@@ -19,11 +19,11 @@ does not need to be registered.
 
 If additional global variables are needed, they can be added on the
 <span style="font-style: italic;">[Data Services Global Variables
-Setup](../Page_Desc/Data_Services_Global_Variables_Setup.htm)</span>
+Setup](../Page_Desc/Data_Services_Global_Variables_Setup)</span>
 page.
 
 **NOTE:** Refer to[Troubleshoot Data Download Using a Data Services
-Job](Troubleshoot_Data_Download_Using_a_Data_Services_Job.htm) if the
+Job](Troubleshoot_Data_Download_Using_a_Data_Services_Job) if the
 job does not run as expected or if the job must be run again.
 
 To register a Data Services job:
@@ -40,7 +40,7 @@ To register a Data Services job:
     Otherwise, click <span style="font-weight: bold;">Add</span>.
     
     *[View the field descriptions for the Template Role (Finish)
-    page](../Page_Desc/Template_Role_Finish.htm)*
+    page](../Page_Desc/Template_Role_Finish)*
 
 5.  Select the name of the Data Services repository that stores the Data
     Services job in the **DATA SERVICES DATA SOURCE** list box.

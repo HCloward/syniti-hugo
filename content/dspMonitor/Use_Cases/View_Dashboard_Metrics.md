@@ -35,5 +35,5 @@ and click a report. The following metric reports are available:
     filters, organized by filter operator.
   - **Report Data (Metrics)** – Displays metrics on tracked columns in
     reports. Refer to [Track Error Records on
-    Reports](Track_Error_Records_on_Reports.htm) for detailed
+    Reports](Track_Error_Records_on_Reports) for detailed
     information.

@@ -20,5 +20,5 @@ pane.
 in Collect, a user must be assigned to a security role that has the
 Collect WebApp group WorkFlowFailureAll or WorkFlowFaiureByTargetAccess
 assigned. Refer to [Set
-Security](../../Sys_Admin/Use_Cases/Setting_security.htm) in System
+Security](../../Sys_Admin/Use_Cases/Setting_security) in System
 Administration for more information.

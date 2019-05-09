@@ -31,7 +31,7 @@ posting with a multi-template Process). When a process template that has
 an After Post rule registered posts successfully, the data is passed to
 the next dependent Process template as an input parameter. Refer to
 [Register After Post Rules to a Process
-Template](../Integrate/Use_Cases/Register_After_Post_Rules_to_a_Process_Template_Overview.htm)
+Template](../Integrate/Use_Cases/Register_After_Post_Rules_to_a_Process_Template_Overview)
 for more information.
 
 **NOTE**: When Integrate executes a Boomi process, it passes in the
@@ -55,7 +55,7 @@ To edit a Process post and post data for a Process in Integrate:  
     displays.
     
     [View the field descriptions for the Process Post page’s Vertical
-    View.](../Integrate/Page_Desc/Process_Post_H.htm#Process_Post_V_All_Tabs)
+    View.](../Integrate/Page_Desc/Process_Post_H#Process_Post_V_All_Tabs)
 
 5.  Enter a Where Clause to restrict the data set in the
     <span style="font-weight: bold;">Where Clause</span> field.

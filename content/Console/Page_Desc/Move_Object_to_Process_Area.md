@@ -7,7 +7,7 @@ solution = 'Migration'
 
 <div class="use">
 
-Use this page to [Move an Object](../Use_Cases/Copy_Elements.htm#Copy3)
+Use this page to [Move an Object](../Use_Cases/Copy_Elements#Copy3)
 
 </div>
 

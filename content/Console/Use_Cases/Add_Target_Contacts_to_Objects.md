@@ -16,23 +16,23 @@ Target Design.
 be assigned to an Object as Developers or Business Users in Console and
 Target Design. Refer to [Add Developers and Business Contacts to a
 Target or
-Source](../../Design/Use_Cases/Add_Developers_and%20Business%20Contacts.htm)
+Source](../../Design/Use_Cases/Add_Developers_and%20Business%20Contacts)
 for more information about adding users as contacts in Target Design.
 
 Developers approve mappings on the
 <span style="font-style: italic;">[Mapping
-Approval](../../Map/Page_Desc/Mapping_Approval_H.htm)</span> page
+Approval](../../Map/Page_Desc/Mapping_Approval_H)</span> page
 submitted for a Target-Source in Map on the
 <span style="font-style: italic;">[Field
-Mappings](../../Map/Page_Desc/Field_Mappings_H.htm)</span> page. Refer
+Mappings](../../Map/Page_Desc/Field_Mappings_H)</span> page. Refer
 to [Approve or Reject
-Mappings](../../Map/Use_Cases/Approve_or_Reject_Mappings.htm) for more
+Mappings](../../Map/Use_Cases/Approve_or_Reject_Mappings) for more
 information.
 
 Business User contacts are used for reporting purposes and automatically
 receive published reports and Data Services reports for the target in
 Transform. Refer to [Report
-Delivery](../../Transform/Use_Cases/Report_Delivery_Overview.htm) for
+Delivery](../../Transform/Use_Cases/Report_Delivery_Overview) for
 more information.
 
 <span style="font-weight: bold;">NOTE</span>: A user cannot be assigned
@@ -86,7 +86,7 @@ Design:
 3.  Click **Add**.
     
     [View the feild descriptions for the Object Contacts
-    page](../Page_Desc/Object_Contacts.htm)
+    page](../Page_Desc/Object_Contacts)
 
 4.  Select the contact name in the **CONTACT** list box.
     
@@ -104,7 +104,7 @@ Design:
     Business User to a target, and a Developer to a different target in
     the same object. Refer to [Add Developers and Business Contacts to a
     Target or
-    Source](../../Design/Use_Cases/Add_Developers_and%20Business%20Contacts.htm)
+    Source](../../Design/Use_Cases/Add_Developers_and%20Business%20Contacts)
     for more information about adding users as contacts in Target
     Design.
 
@@ -129,7 +129,7 @@ Console allows a user to add multiple Developer and Business User
 contacts to Objects at the same time.
 
 To begin the process, add users to the bulk contact staging area on the
-<span style="font-style: italic;">[Users](../../../Platform/Sys_Admin/Page_Desc/Users_H.htm)</span>
+<span style="font-style: italic;">[Users](../../../Platform/Sys_Admin/Page_Desc/Users_H)</span>
 page.
 
 To add many or all registered users to the bulk contact staging area:
@@ -154,7 +154,7 @@ To add many or all registered users to the bulk contact staging area:
     toolbar.
 
 The <span style="font-style: italic;">[Bulk Contact Staging
-Area](../Page_Desc/Bulk_Contact_Staging_Area.htm)</span> page updates
+Area](../Page_Desc/Bulk_Contact_Staging_Area)</span> page updates
 and lists all users who can be assigned to Objects. The contact
 information that displays for users was added when the user’s account
 was created.
@@ -169,7 +169,7 @@ To remove a user from the Bulk Contact Staging Area:
     <span style="font-style: italic;">Navigation</span> pane.
 
 2.  Select the users to remove from the Bulk Contact Staging Area on the
-    <span style="font-style: italic;">[Users](../../../Platform/Sys_Admin/Page_Desc/Users_H.htm)</span>
+    <span style="font-style: italic;">[Users](../../../Platform/Sys_Admin/Page_Desc/Users_H)</span>
     page.
     
     **NOTE**: To select a contiguous range of users, hold down the
@@ -194,7 +194,7 @@ Positions are Developers or Business Users contacts.
 
 Developers approve mappings on the Mapping Approval page submitted for a
 target-source in Map on the Field Mappings page. Refer to [Approve or
-Reject Mappings](../../Map/Use_Cases/Approve_or_Reject_Mappings.htm) for
+Reject Mappings](../../Map/Use_Cases/Approve_or_Reject_Mappings) for
 more information.
 
 Business User contacts are used for reporting purposes and automatically
@@ -212,7 +212,7 @@ To assign a position to many or all users:
 
 2.  Select one or many users on the
     <span style="font-style: italic;">[Bulk Contact Staging
-    Area](../Page_Desc/Bulk_Contact_Staging_Area.htm)</span> page.
+    Area](../Page_Desc/Bulk_Contact_Staging_Area)</span> page.
     
     **NOTE**: To select a contiguous range of users, hold down the
     **Shift** key and select the first and last users in the range. To
@@ -238,13 +238,13 @@ To assign multiple contacts to multiple Objects:
     
     **NOTE**: If more than one user record is selected on the
     <span style="font-style: italic;">[Bulk Contact Staging
-    Area](../Page_Desc/Bulk_Contact_Staging_Area.htm)</span> page, this
+    Area](../Page_Desc/Bulk_Contact_Staging_Area)</span> page, this
     icon is disabled.
     
     **NOTE**: All users on the <span style="font-style: italic;">Bulk
     Contact Staging Area</span> page display on
     the<span style="font-style: italic;">[Staged
-    Contacts](../Page_Desc/Staged_Contacts.htm)</span> page.
+    Contacts](../Page_Desc/Staged_Contacts)</span> page.
 
 3.  Select one, many or all users on the
     <span style="font-style: italic;">Staged Contacts</span> page.
@@ -256,7 +256,7 @@ To assign multiple contacts to multiple Objects:
 
 4.  Select one, many or all Objects on the
     <span style="font-style: italic;">[All
-    Objects](../Page_Desc/All_Objects.htm)</span> page.
+    Objects](../Page_Desc/All_Objects)</span> page.
 
 5.  Click the <span style="font-weight: bold;">Add Contact to
     Object</span> icon in the Page toolbar on the

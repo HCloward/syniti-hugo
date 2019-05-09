@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Configure Scenario
-Types](../Use_Cases/Configure_Scenario_Types.htm).
+Types](../Use_Cases/Configure_Scenario_Types).
 
 </div>
 

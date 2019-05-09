@@ -15,22 +15,22 @@ and values that are used as inputs to a Boomi Process.
 
 The view that stores these fields and the field mappings can be created
 manually. Refer to [Create a View in SQL
-Server](../Integrate/Use_Cases/Create_a_View_in_SQL_Server.htm) for more
+Server](../Integrate/Use_Cases/Create_a_View_in_SQL_Server) for more
 information.
 
 The view can also be generated automatically. Refer to [Generate
 Database Objects
-Automatically](../Integrate/Use_Cases/Generate_Database_Objects_Automatically.htm)
+Automatically](../Integrate/Use_Cases/Generate_Database_Objects_Automatically)
 for more information.
 
 A process template loop can be configured manually or automatically.
 Refer to [Configure a Process Template Loop for an IG Universal Connect
 Process Template
-Manually](Configure%20a%20Process%20Template%20Loop%20for%20an%20IG%20Universal%20Connect%20Process%20Template%20Manually.htm)
+Manually](Configure%20a%20Process%20Template%20Loop%20for%20an%20IG%20Universal%20Connect%20Process%20Template%20Manually)
 for more information.
 
 Before performing this task [Add the Template to a
-Process](Add%20the%20Template%20to%20a%20Process%20IGUC.htm) but
+Process](Add%20the%20Template%20to%20a%20Process%20IGUC) but
 <span style="font-weight: bold;">do not select a View Name</span>.
 
 The parameter name is a unique name for the parameter. The value is used
@@ -38,7 +38,7 @@ whenever this parameter is identified on a posting record, unless
 otherwise indicated by the Where clause used in the Process post
 (entered on the <span style="font-style: italic;">Vertical</span> View
 on the <span style="font-style: italic;">[Process
-Post](../Integrate/Page_Desc/Process_Post_H.htm)</span> page).
+Post](../Integrate/Page_Desc/Process_Post_H)</span> page).
 
 <span style="font-weight: bold;">NOTE</span>: A process must be inactive
 to configure its Process Template Loops.
@@ -80,4 +80,4 @@ Objects feature:
 
 Continue with [Configure Field Mappings for an IG Universal Connect
 Process
-Template.](Configure%20Field%20Mappings%20for%20an%20IG%20Universal%20Connect%20Template.htm)
+Template.](Configure%20Field%20Mappings%20for%20an%20IG%20Universal%20Connect%20Template)

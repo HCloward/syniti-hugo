@@ -31,9 +31,9 @@ Hover a cursor over each section of a bar to view the field count.
 
 This dashboard contains these charts:
 
-  - [Trace Object Summary](Trace_Object_Summary.htm)
-  - [Track Object Changes Daily](Trace_Object_Changes_Daily.htm)
-  - [Track Object Changes Weekly](Trace_Object_Changes_Weekly.htm)
-  - [Track Object Changes Monthly](Trace_Object_Changes_Monthly.htm)
+  - [Trace Object Summary](Trace_Object_Summary)
+  - [Track Object Changes Daily](Trace_Object_Changes_Daily)
+  - [Track Object Changes Weekly](Trace_Object_Changes_Weekly)
+  - [Track Object Changes Monthly](Trace_Object_Changes_Monthly)
   - [Objects Changed By Week
-    (Users)](../Page_Desc/Objects%20Changed%20By%20Week%20\(Users\).htm)
+    (Users)](../Page_Desc/Objects%20Changed%20By%20Week%20\(Users\))

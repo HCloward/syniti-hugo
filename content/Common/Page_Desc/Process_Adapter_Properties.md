@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Modify the Process Adapter
-Properties](../Use_Cases/Process_Adapters.htm#Modify_the_Process_Adapter_Properties).
+Properties](../Use_Cases/Process_Adapters#Modify_the_Process_Adapter_Properties).
 
 </div>
 

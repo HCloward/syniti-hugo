@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Build and Refresh Tables for a Schedule
-Group](../Use_Cases/Build_and_Refresh_Tables_for_a_Schedule_Group.htm).
+Group](../Use_Cases/Build_and_Refresh_Tables_for_a_Schedule_Group).
 
 </div>
 
@@ -63,7 +63,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>PACKAGE TYPE</p></td>
-<td><p>Displays package type to refresh target table with source data. Default value is <strong>CranPort</strong>. Refer to <a href="../Use_Cases/Package_Types.htm">Package Types</a> for a description of each package type available.</p>
+<td><p>Displays package type to refresh target table with source data. Default value is <strong>CranPort</strong>. Refer to <a href="../Use_Cases/Package_Types">Package Types</a> for a description of each package type available.</p>
 <p><strong>NOTE:</strong> When the package type is CranPort package, the package name is hyperlinked to the CranPort package in Assemble in the view.</p>
 <p><strong>NOTE:</strong> If source has an SAPAPPSERVER connection type, only the following RFC package types are available in the Package Type list box:</p>
 <ul>
@@ -107,22 +107,22 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Rules</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Table_Rule_H.htm">Table (Rule)</a></span> page to register rules to table.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Table_Rule_H">Table (Rule)</a></span> page to register rules to table.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Indices</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Table_Indices_H.htm">Table (Indices)</a></span> page to register indices to table.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Table_Indices_H">Table (Indices)</a></span> page to register indices to table.</p></td>
 </tr>
 <tr class="even">
 <td><p>View Data</p></td>
-<td><p>Click to open the <span style="font-style: italic;"><a href="Tables_H.htm">Tables</a></span> page to view table data downloaded from source.</p></td>
+<td><p>Click to open the <span style="font-style: italic;"><a href="Tables_H">Tables</a></span> page to view table data downloaded from source.</p></td>
 </tr>
 </tbody>
 </table>
 
 ## <span id="Target_Source_Tables_V__All_Tabs_"></span>Target Source Tables V (All Tabs)
 
-[Target Source Tables H](Target_Source_Tables.htm)
+[Target Source Tables H](Target_Source_Tables)
 
 This page contains the following tabs:
 
@@ -182,7 +182,7 @@ tab](#Action_Tab)
 <td><p>Package Name</p></td>
 <td><p>Displays name of package that refreshes target table with source data.</p>
 <p><strong>NOTE:</strong> The package name is set automatically and displays after the package is built for the package types CranPort, SSIS, or Data Services. The package must be manually built and the package name must be entered into Collect for package types ManualCranPort, ManualSSIS or Manual Data Services.</p>
-<p><strong>NOTE:</strong> The package name must follow the naming convention #Database#%#Source#%. Refer to <a href="../../Assemble/Create_Packages.htm">Create Packages</a> for more information.</p>
+<p><strong>NOTE:</strong> The package name must follow the naming convention #Database#%#Source#%. Refer to <a href="../../Assemble/Create_Packages">Create Packages</a> for more information.</p>
 <p><strong>NOTE:</strong> For Manual Data Services package types, the default package name can be accepted, or it can be edited as needed</p></td>
 </tr>
 <tr class="even">
@@ -228,9 +228,9 @@ If Schedule Group is set to &quot;existing group name&quot; with no restriction 
 | Table Record Count | Displays number of records currently in the table. Ideally, this count is the same as Record Count.  If there is no primary key or unique index, this count may display zero but the table could have data. |
 | Duration           | Displays amount of time (in seconds) the table took to download from the source during the refresh process.                                                                                                 |
 | Refresh Message    | Displays last process that ran against table, e.g., build package, download or reset.                                                                                                                       |
-| View Design        | Click to open the <span style="font-style: italic;">[Data Source Tables](Data_Source_Tables_H.htm)</span> page to view, edit and delete details about the table.                                            |
-| View Metrics       | Click to open the <span style="font-style: italic;">[Download Metrics](../Use_Cases/Download_Metrics.htm)</span> page to view and download metrics for table.                                               |
-| View Job Tasks     | Click to open the <span style="font-style: italic;">[Table Download Task List](Table_Download_Task_List.htm)</span> page to view job tasks used to download table.                                          |
+| View Design        | Click to open the <span style="font-style: italic;">[Data Source Tables](Data_Source_Tables_H)</span> page to view, edit and delete details about the table.                                            |
+| View Metrics       | Click to open the <span style="font-style: italic;">[Download Metrics](../Use_Cases/Download_Metrics)</span> page to view and download metrics for table.                                               |
+| View Job Tasks     | Click to open the <span style="font-style: italic;">[Table Download Task List](Table_Download_Task_List)</span> page to view job tasks used to download table.                                          |
 
 ## <span id="Action_Tab"></span>Action tab
 
@@ -238,4 +238,4 @@ If Schedule Group is set to &quot;existing group name&quot; with no restriction 
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Field          | Description                                                                                                                                                                                                                           |
 | Truncate Table | Click to delete all data in the table. Table can then be deactivated if it is no longer required.                                                                                                                                     |
-| Options        | Click to open the <span style="font-style: italic;">[Table (Rfc Options)](Table_Rfc_Options.htm)</span> page to configure RFC options used by RFC download process. The icon  is only active if Package Type = BOA RFC using Options. |
+| Options        | Click to open the <span style="font-style: italic;">[Table (Rfc Options)](Table_Rfc_Options)</span> page to configure RFC options used by RFC download process. The icon  is only active if Package Type = BOA RFC using Options. |

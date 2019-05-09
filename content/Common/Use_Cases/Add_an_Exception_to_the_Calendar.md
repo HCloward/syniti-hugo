@@ -6,7 +6,7 @@ solution = 'Platform'
 # Add an Exception to the Calendar
 
 Calendars are used in dspTrack™ and dspConcut™ components. Refer to [Use
-a Calendar](Use_a_Calendar.htm) for more information.
+a Calendar](Use_a_Calendar) for more information.
 
 When the users assigned to a calendar should work different hours than
 on a regularly scheduled work day, add a calendar exception.  For
@@ -24,7 +24,7 @@ To add an exception:
     Otherwise, click **Add**.
     
     [View the field descriptions for the Calendar Exception
-    page](../Page_Desc/Calendar_Exception.htm)
+    page](../Page_Desc/Calendar_Exception)
 
 3.  Enter a date in the format MM/DD/YYYY or click a date on the
     calendar.

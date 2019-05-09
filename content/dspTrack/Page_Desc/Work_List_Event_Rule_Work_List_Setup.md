@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Register Work List Event Rules for a Work List
-Item](../Use_Cases/Register_WorkList_Event_Rules_WorkList_Item.htm).
+Item](../Use_Cases/Register_WorkList_Event_Rules_WorkList_Item).
 
 </div>
 

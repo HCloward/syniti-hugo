@@ -9,7 +9,7 @@ A Designer can configure SLA settings at the Business Process Scenario
 Role level. The SLA settings are inherited from the settings at the
 scenario \> role level, but can be configured for the business process
 scenario \> role combination. Refer to [Setting up SLA notifications in
-dspConduct™](Set_Up_SLA_Notifications.htm) for more information about
+dspConduct™](Set_Up_SLA_Notifications) for more information about
 the prerequisites for setting up SLAs and how the SLAs work at the
 various levels for dspConduct™ elements.
 
@@ -23,7 +23,7 @@ dspConduct™ or not.
 
 dspConduct™ default Calendar’s Work Days, Work Hours, and Exceptions are
 used in the calculations of these due dates. Refer to [Use a
-Calendar](../../../Platform/Common/Use_Cases/Use_a_Calendar.htm) for
+Calendar](../../../Platform/Common/Use_Cases/Use_a_Calendar) for
 more information on configuring dspConduct™ default calendar.
 
 To configure SLA settings:
@@ -41,7 +41,7 @@ To configure SLA settings:
 5.  Click **Edit**.
     
     *[View the field descriptions for the Business Process (Scenarios
-    Roles) page](../Page_Desc/Business_Process_Scenario_Roles.htm)*
+    Roles) page](../Page_Desc/Business_Process_Scenario_Roles)*
 
 6.  Enter the number of days to execute all of the tasks in this
     business process \> scenario \> role combination in the **Work

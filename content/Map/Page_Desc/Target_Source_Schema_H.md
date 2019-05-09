@@ -10,7 +10,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Reset Target Source Schema Field
-Lengths](../Use_Cases/Reset_Target_Source_Schema_Field_Lengths.htm).
+Lengths](../Use_Cases/Reset_Target_Source_Schema_Field_Lengths).
 
 </div>
 
@@ -21,13 +21,13 @@ To access this page:
 2.  Click <span style="font-weight: bold;">Map </span> in the Context
     bar.
 3.  Click the <span style="font-weight: bold;">Targets</span> icon on
-    the *[Process Area Launch](Process_Area_Launch_map.htm)* page.
+    the *[Process Area Launch](Process_Area_Launch_map)* page.
 4.  Click the <span style="font-weight: bold;">Sources</span> icon for a
     Target.
 5.  Click the <span style="font-weight: bold;">Vertical View</span> icon
     for a Target Source.
 6.  Click the <span style="font-weight: bold;">Schema Columns</span>
-    icon on the *[Target Sources](Target_Sources_H_Map.htm)* page.
+    icon on the *[Target Sources](Target_Sources_H_Map)* page.
 
 <table>
 <tbody>
@@ -81,7 +81,7 @@ To access this page:
 
 ## <span id="Target_Source_Schema_V"></span>Target Source Schema V
 
-[Target Source Schema H](Target_Source_Schema_H.htm)
+[Target Source Schema H](Target_Source_Schema_H)
 
 <table>
 <tbody>

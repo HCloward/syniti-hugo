@@ -12,7 +12,7 @@ The task is active in the scenario \> role combination by default.
 
 Before performing this task, the design process must be complete and a
 task must be defined in the Content WebApp. Refer to [dspConduct™ Design
-Process Overview](dspConduct_Design_Process_Overview.htm) for more
+Process Overview](dspConduct_Design_Process_Overview) for more
 information.
 
 To deactivate a task for a scenario \> role combination in dspConduct™:
@@ -29,7 +29,7 @@ To deactivate a task for a scenario \> role combination in dspConduct™:
 5.  Click **Edit** for a scenario \> role \> task.
     
     *[View the field descriptions for the Scenario Role Task
-    page.](../Page_Desc/Scenario_Role_Task_H.htm)*
+    page.](../Page_Desc/Scenario_Role_Task_H)*
 
 6.  Click the **ACTIVE IN SCENARIO ROLE** check box to disable it.
 

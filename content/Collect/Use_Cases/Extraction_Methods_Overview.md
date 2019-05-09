@@ -18,10 +18,10 @@ usage. 
 
 This content consists of the following sections:
 
-  - [System Considerations](System_Considerations.htm)
-  - [Data Considerations](Data_Considerations.htm)
-  - [Connection Types](Connection_Types.htm)
-  - [Extraction Methods & Tools](Extraction_Methods_and_Tools.htm)
+  - [System Considerations](System_Considerations)
+  - [Data Considerations](Data_Considerations)
+  - [Connection Types](Connection_Types)
+  - [Extraction Methods & Tools](Extraction_Methods_and_Tools)
   - [Improve Data Extraction
-    Efficiency](Improve_Data_Extraction_Efficiency.htm)
-  - [Decision Tree](Decision_Tree.htm)
+    Efficiency](Improve_Data_Extraction_Efficiency)
+  - [Decision Tree](Decision_Tree)

@@ -5,7 +5,7 @@ solution = 'Platform'
 
 # Configure Automate Parameters
 
-The *[Parameters](../Page_Desc/Parameters.htm)* page controls
+The *[Parameters](../Page_Desc/Parameters)* page controls
 configuration settings unique per installation. These parameters affect
 all interfaces on the site and should only be modified by a developer or
 a system administrator.
@@ -17,7 +17,7 @@ To configure parameters in Automate:
 2.  Click **Edit**.
     
     [View the field description for the Parameters
-    page](../Page_Desc/Parameters.htm)
+    page](../Page_Desc/Parameters)
 
 3.  Select an administrative role from the **Admin Role** list box.
     
@@ -28,7 +28,7 @@ To configure parameters in Automate:
 4.  Enter a number in the **History Retention Days** field to indicate
     the number of days the interface instance information is
     saved/displayed on the *[Interface
-    History](../Page_Desc/Interface_History.htm)* page.
+    History](../Page_Desc/Interface_History)* page.
     
     **NOTE:** The history and details about how interfaces were
     processed can be accessed by clicking **History** in the
@@ -38,11 +38,11 @@ To configure parameters in Automate:
     
     **NOTE:** The Instance selected MUST match the Instance field in 2
     additional places for email notifications to properly work: *[Role
-    (Instance)](../Page_Desc/Role_Instance.htm)* page in Automate and
+    (Instance)](../Page_Desc/Role_Instance)* page in Automate and
     the
-    *[Parameters](../../Sys_Admin/Page_Desc/Parameters_All_TabsSysAdmin.htm)*
+    *[Parameters](../../Sys_Admin/Page_Desc/Parameters_All_TabsSysAdmin)*
     page in System Administration. Refer to [Set Up Notifications for an
-    Interface](Set_Up_Notifications_for_an_Interface.htm) for more
+    Interface](Set_Up_Notifications_for_an_Interface) for more
     information.
 
 6.  Be aware of the Filter Info fields (Workflow Filter, Store Procedure
@@ -56,7 +56,7 @@ To configure parameters in Automate:
     Do not update these filters; otherwise, list boxes will not populate
     correctly. Refer to [Naming Conventions and the Enforce Strict
     Naming
-    Feature](../../WebApp_Dev/Naming_Conventions_and_the_Enforce_Strict_Naming_Feature.htm)
+    Feature](../../WebApp_Dev/Naming_Conventions_and_the_Enforce_Strict_Naming_Feature)
     for more information.  
 
 7.  Select the lowest level of logging Severity that will be written to
@@ -67,7 +67,7 @@ To configure parameters in Automate:
 8.  Select a severity level from the **Reporting By Importance Level**
     list box to determine what severity level icon displays on the
     IMPORTANT field for every record on the
-    *[Log](../Page_Desc/Log.htm)* page.
+    *[Log](../Page_Desc/Log)* page.
 
 9.  Click the **Log Tasks** check box to enable it, which stores start
     and finish tasks for running events, the interface, etc. in the
@@ -76,6 +76,6 @@ To configure parameters in Automate:
     **NOTE:** To view the log tasks, select Interfaces \> History \> All
     in the *Navigation* pane. If Log Tasks is checked, interface start
     and finish tasks are recorded in the log. Refer to [Add Logging
-    Modules](Add_Logging_Modules.htm) for more information.
+    Modules](Add_Logging_Modules) for more information.
 
 10. Click **Save**.

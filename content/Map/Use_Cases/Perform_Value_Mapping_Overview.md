@@ -19,17 +19,17 @@ user can also:
 
   - Perform value mapping automatically, if the Source system and Target
     system are identical, value mapping can be performed automatically.
-    On the *[Value Mapping](../Page_Desc/Value_Mapping.htm)* page, click
+    On the *[Value Mapping](../Page_Desc/Value_Mapping)* page, click
     **Auto Map By Description** or **Auto Map By Value** in the Page
     toolbar.
 
   - Use Excel Integration to download a spreadsheet that users can
     update with value mapping values. Ensure Bulk Execution is enabled
     on the *[Value Mapping (Legacy to
-    Target)](../Page_Desc/Value_Mapping_Legacy_to_Target_H.htm)* page.
+    Target)](../Page_Desc/Value_Mapping_Legacy_to_Target_H)* page.
     Once data entry is complete, import that data into the DSP. Refer to
     [Use Excel
-    Integration](../../../Platform/Excel_Int/Use_Excel_Integration.htm)
+    Integration](../../../Platform/Excel_Int/Use_Excel_Integration)
     for more information.
 
 **NOTE:** The RuleXref action must be used with a lookup table that has
@@ -59,30 +59,30 @@ Source field for the check table for the Rule Xref action are not
 automatically set. They must be entered on the
 <span style="font-style: italic;">Vertical</span> View of the [Legacy
 Value (Source Table
-Fields)](../Page_Desc/Legacy_Value_Source_Table_Fields_H.htm) page.
+Fields)](../Page_Desc/Legacy_Value_Source_Table_Fields_H) page.
 
 The steps in the value mapping process are:
 
 1.  Set up Lookup Tables in Target Design or import check tables with a
     System Type import. Refer to [Set up Lookup
-    Tables](../../Design/Use_Cases/Set_up_a_Simple_Lookup_Table.htm) or
+    Tables](../../Design/Use_Cases/Set_up_a_Simple_Lookup_Table) or
     [Import Target Design from a System
-    Type](../../Design/Use_Cases/Import_from_a_System_Type.htm) for more
+    Type](../../Design/Use_Cases/Import_from_a_System_Type) for more
     information.
 2.   [Refresh lookup tables or change configuration
-    settings](Refresh_Lookup_Tbls.htm) as needed in Map.
-3.  [Perform value mapping](Perform_Value_Mapping.htm) in Map.
+    settings](Refresh_Lookup_Tbls) as needed in Map.
+3.  [Perform value mapping](Perform_Value_Mapping) in Map.
 
 This section contains the following topics:
 
   - [Designate a System for a Check
-    Table](Designate_a_System_for_Check_Table.htm)
-  - [Refresh Lookup Tables](Refresh_Lookup_Tbls.htm)
+    Table](Designate_a_System_for_Check_Table)
+  - [Refresh Lookup Tables](Refresh_Lookup_Tbls)
   - [Refresh Target and Legacy
-    Values](Refresh_Target_and_Legacy_Values.htm)
-  - [Remove Unmapped Source Values](Remove_Unmapped_Source_Values.htm)
-  - [Perform Value Mapping](Perform_Value_Mapping.htm)
+    Values](Refresh_Target_and_Legacy_Values)
+  - [Remove Unmapped Source Values](Remove_Unmapped_Source_Values)
+  - [Perform Value Mapping](Perform_Value_Mapping)
   - [View the Source Tables and Fields Mapped to a Lookup
-    Table](View_the_Source_Tables_and_Fields_Mapped_to_a_Lookup_Table.htm)
+    Table](View_the_Source_Tables_and_Fields_Mapped_to_a_Lookup_Table)
   - [Value Map Target Fields for Multiple Source
-    Systems](Value_Map_Target_Fields_from_Mulitple_Source_Systems.htm)
+    Systems](Value_Map_Target_Fields_from_Mulitple_Source_Systems)

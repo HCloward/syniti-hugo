@@ -6,10 +6,10 @@ broken out by project distribution.
 Hover a cursor over the bar to see the total record count.
 
 Click a bar to drill down to the [Selected Dimension by
-Rule](Selected_Dimension_by_Rule.htm) chart.
+Rule](Selected_Dimension_by_Rule) chart.
 
 <span style="font-weight: bold;">NOTE</span>: Refer to [View ISA
-Dashboards](View_ISA_Dashboards.htm) for general information about
+Dashboards](View_ISA_Dashboards) for general information about
 charts, including the type of data charts display, configuration of
 retention parameters for metrics and historical data, and how record
 counts differ on charts and reports.

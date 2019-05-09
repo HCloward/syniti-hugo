@@ -8,19 +8,19 @@ solution = 'Data Quality'
 At the template-role level for a Post role, a Template Administrator can
 register tables for download as a Finish process. The Finish process
 starts when a user clicks the **Finish** button for a Post role on the
-[*Request (Roles)*](../Page_Desc/Request_Roles_H.htm) page.
+[*Request (Roles)*](../Page_Desc/Request_Roles_H) page.
 
 Additional configuration settings
 <span style="font-family: Arial, sans-serif;">set on the *[Template Role
-(Finish)](../Page_Desc/Template_Role_Finish.htm)* page and the
+(Finish)](../Page_Desc/Template_Role_Finish)* page and the
 *[Template Role (Finish -
-Columns)](../Page_Desc/Template_Role_Finish_Columns_H.htm)* page</span>
+Columns)](../Page_Desc/Template_Role_Finish_Columns_H)* page</span>
  allow a Template Administrator to set Collect rules to run on table
 data after the download is finished, and to specify filter columns for
 both source and target data.
 
 On the *Vertical* View of the *[Template
-(Role)](../Page_Desc/Template_Role_H.htm)* page for the Post role, on
+(Role)](../Page_Desc/Template_Role_H)* page for the Post role, on
 the **Approve and Finish Settings** tab, two settings help to facilitate
 this functionality: **FinishTables** and **Finish Download in
 Background**.
@@ -33,7 +33,7 @@ for a Post role on the *Request (Roles)* page.
 download data is set to SAP Data Services, it is recommended that the
 **Delete Target Table On Build** check box be disabled in Collect on the
 <span style="font-style: italic;">[<span style="font-style: italic;">Target
-Sources</span>](../../../Platform/Collect/Page_Desc/Target_Sources_H_Collect.htm)</span><span>
+Sources</span>](../../../Platform/Collect/Page_Desc/Target_Sources_H_Collect)</span><span>
 page’s </span><span style="font-style: italic;">Vertical</span><span>
 View on the Advanced tab. In this case, if the check box is enabled,
 dspCompose™ WILL delete every record in the target table during the
@@ -67,7 +67,7 @@ To set a table for download:
 7.  Click **Add**.
     
     *[View the field descriptions for the Template Role (Finish)
-    page.](../Page_Desc/Template_Role_Finish.htm)*
+    page.](../Page_Desc/Template_Role_Finish)*
     
     **NOTE**<span style="font-weight: bold;">:</span>If no records
     exist, the page displays in add mode. Otherwise, click **Add**.
@@ -127,7 +127,7 @@ refreshed from the source.
 entire table.
 
 The *[*Template Role (Finish –
-Columns)*](../Page_Desc/Template_Role_Finish_Columns_H.htm)* page
+Columns)*](../Page_Desc/Template_Role_Finish_Columns_H)* page
 displays for both the Source Filter Columns and Target Filter Columns.
 
 A user can also restrict data for download using a where clause. Refer
@@ -158,7 +158,7 @@ To set a filter column:
     
     *[View the field descriptions for the Template Role (Finish -
     Columns) page's Vertical
-    View](../Page_Desc/Template_Role_Finish_Columns_H.htm)*
+    View](../Page_Desc/Template_Role_Finish_Columns_H)*
 
 8.  Select a column name from the **COLUMN NAME** list box, or enter a
     column name to insert a value.
@@ -194,7 +194,7 @@ To set a filter column:
 If a user enters a Where clause, the Where clause will be used verbatim
 when either selecting from the source or deleting from the target. If
 the Where clause is set, no other fields on the *[*Template Role (Finish
-– Columns)*](../Page_Desc/Template_Role_Finish_Columns_H.htm)*page need
+– Columns)*](../Page_Desc/Template_Role_Finish_Columns_H)*page need
 be set and all other fields, if set, will be ignored.
 
 **NOTE**: The Where clause takes precedence over any other Source and
@@ -221,7 +221,7 @@ To enter a Where clause:
 7.  Click **Add**.
     
     *[View the field descriptions for the Template Role (Finish)
-    page.](../Page_Desc/Template_Role_Finish.htm)*
+    page.](../Page_Desc/Template_Role_Finish)*
     
     **NOTE**<span style="font-weight: bold;">:</span><span>If no records
     exist, the page displays in add mode. Otherwise, click
@@ -258,7 +258,7 @@ To enter a Where clause:
 ## <span id="Use_Custom_Syntax"></span>Use Custom Syntax
 
 The *[*Template Role (Finish –
-Columns)*](../Page_Desc/Template_Role_Finish_Columns_H.htm)* page for
+Columns)*](../Page_Desc/Template_Role_Finish_Columns_H)* page for
 the source and target also allows a user to enter custom syntax in the
 case that the schema cannot be determined for either the source or the
 target. When setting the custom settings, the user must mark the

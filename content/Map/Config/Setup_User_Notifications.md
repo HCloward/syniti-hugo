@@ -40,14 +40,14 @@ To set up a user for Map Summary notifications in Console:
     Otherwise, click **Add**.
     
     [*View the field descriptions for the Workflow Message Summary User
-    page*](../../Console/Page_Desc/WorkFlow_Message_Summary_User.htm)
+    page*](../../Console/Page_Desc/WorkFlow_Message_Summary_User)
 
 4.  Select an ID from **User ID** list box.
 
 5.  Click **Save**.
 
 To create custom messages, refer to [Create Custom Workflow
-Messages](../../Console/Use_Cases/Create_Custom_Workflow_Messages.htm)
+Messages](../../Console/Use_Cases/Create_Custom_Workflow_Messages)
 in
 Console.
 
@@ -64,7 +64,7 @@ For Map to send notifications:
 
   - The Source must be marked for tracking changes in the Target Source
   - The user settings must be configured on the *[User Track
-    Changes](../Page_Desc/User_Track_Changes.htm)* page.
+    Changes](../Page_Desc/User_Track_Changes)* page.
 
 **NOTE**: A user can receive messages regarding changes to field
 mappings only, value mappings only, Target and rule creation only, or
@@ -78,7 +78,7 @@ To set up notification settings for users in Map:
 2.  Click **Add**.
     
     [View the field descriptions for the User Track Changes
-    page](../Page_Desc/User_Track_Changes.htm)
+    page](../Page_Desc/User_Track_Changes)
 
 3.  Select the user ID of the user who should receive the notification
     from the **USER ID** list box.
@@ -94,7 +94,7 @@ To set up notification settings for users in Map:
     option.
     
     **NOTE**: Notifications are sent when a user clicks Submit on the
-    *[Field Mappings](../Page_Desc/Field_Mappings_H.htm)* page.
+    *[Field Mappings](../Page_Desc/Field_Mappings_H)* page.
 
 5.   Select the method and type of notifications sent regarding changes
     to value mappings in the **VALUE MAPPING CHANGES** list box, if
@@ -105,7 +105,7 @@ To set up notification settings for users in Map:
     
     **NOTE**: Notifications are sent when a user clicks Save on the
     *[Value Mapping (Legacy to
-    Target)](../Page_Desc/Value_Mapping_Legacy_to_Target_H.htm)* page
+    Target)](../Page_Desc/Value_Mapping_Legacy_to_Target_H)* page
 
 6.  Select the method and type of notifications sent regarding table and
     rule creation in the **TABLE AND RULE CREATION** list box, if
@@ -116,8 +116,8 @@ To set up notification settings for users in Map:
     
     **NOTE**: Notifications are sent when a user clicks Save on the
     *[Target
-    Sources](../../Design/Page_Desc/Target_Sources_H_Design.htm)* or the
-    *[Targets](../../Design/Page_Desc/Targets_H_Design.htm)* page in
+    Sources](../../Design/Page_Desc/Target_Sources_H_Design)* or the
+    *[Targets](../../Design/Page_Desc/Targets_H_Design)* page in
     Target Design.
 
 7.  Click **Save**.

@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Create Task
-Groups](../Use_Cases/Create_Task_Groups.htm).
+Groups](../Use_Cases/Create_Task_Groups).
 
 </div>
 
@@ -22,6 +22,6 @@ pane.
 | Field        | Description                                                                                                                                                                                             |
 | NAME         | Displays name of task group.                                                                                                                                                                            |
 | DESCRIPTION  | Displays a brief description of the task group.                                                                                                                                                         |
-| Tasks        | Click to open the <span style="font-style: italic;">[Automation Instruction Task Group Definition](Automation_Instruction_Task_Group_Definition.htm)</span> page to manage tasks within the task group. |
+| Tasks        | Click to open the <span style="font-style: italic;">[Automation Instruction Task Group Definition](Automation_Instruction_Task_Group_Definition)</span> page to manage tasks within the task group. |
 | Copy         | Click to copy the task group (and all associated instruction tasks) to use as a base for a new task group.                                                                                              |
 | DSP SUPPLIED |                                                                                                                                                                                                         |

@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Set up
-Notifications](../Config/Setup_User_Notifications.htm#Set_up_Notifications_for_Map_Updates).
+Notifications](../Config/Setup_User_Notifications#Set_up_Notifications_for_Map_Updates).
 
 </div>
 

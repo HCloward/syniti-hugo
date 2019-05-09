@@ -7,5 +7,5 @@ solution = 'Migration'
 
 Add System Types along with System Type tables and fields in Common.
 Refer to [System
-Types](../../../Platform/Common/Use_Cases/System_Types_Overview.htm) for
+Types](../../../Platform/Common/Use_Cases/System_Types_Overview) for
 more information.

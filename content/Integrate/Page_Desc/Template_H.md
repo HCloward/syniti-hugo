@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Create a Basic
-Template.](../Use_Cases/Create_a_Basic_Template.htm)
+Template.](../Use_Cases/Create_a_Basic_Template)
 
 </div>
 
@@ -40,7 +40,7 @@ To access this page:
 <tr class="odd">
 <td><p>CONNECTION ID</p></td>
 <td><p>Displays the connection ID for the target system against which the template type will be created.</p>
-<p>The options in this list box are connections registered in Common. Refer to <a href="../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview.htm">Establish a Connection to a Target System</a> for more information.</p>
+<p>The options in this list box are connections registered in Common. Refer to <a href="../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview">Establish a Connection to a Target System</a> for more information.</p>
 <p><strong>NOTE:</strong> The connections that display are based on the selection in the TYPE list box. For example, if the user selects the template type BODS Execution, the CONNECTION ID list box displays connections to Data Services repositories only.</p></td>
 </tr>
 <tr class="even">
@@ -65,14 +65,14 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Processes</p></td>
-<td><p>Click to open the <em><a href="Template_Processes.htm">Template Processes</a></em> page which lists the processes to which the template is assigned.</p></td>
+<td><p>Click to open the <em><a href="Template_Processes">Template Processes</a></em> page which lists the processes to which the template is assigned.</p></td>
 </tr>
 </tbody>
 </table>
 
 ## <span id="Template_V_All_Tabs"></span>Template V All Tabs
 
-[Template H](Template_H.htm)
+[Template H](Template_H)
 
 This page has the following tabs:
 
@@ -99,8 +99,8 @@ This page has the following tabs:
 <div class="use">
 
 Use this page to [Record a BDC
-Script](../Use_Cases/Record_a_BDC_Script.htm) and [Import a BDC Script
-from a File](../Use_Cases/Import_a_BDC_Script_From_a_File.htm).
+Script](../Use_Cases/Record_a_BDC_Script) and [Import a BDC Script
+from a File](../Use_Cases/Import_a_BDC_Script_From_a_File).
 
 </div>
 
@@ -121,7 +121,7 @@ script will be created.
 
 The options in this list box are connections registered in Common. Refer
 to [Establish an SAP Connection in
-Common](../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview.htm)
+Common](../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview)
 for more information.
 
 **NOTE:** The connections that display are based on the selection in the
@@ -180,13 +180,13 @@ recording.
 
 BDC Screen
 
-Click to open the *[BDC Screen](BDC_Screen_H.htm)* page to manage the
+Click to open the *[BDC Screen](BDC_Screen_H)* page to manage the
 screens and fields captured during the BDC script recording.
 
 Custom Fields
 
 Click to open the <span style="font-style: italic;">[Custom
-Fields](Custom_Fields.htm)</span> page to add custom fields to the BDC
+Fields](Custom_Fields)</span> page to add custom fields to the BDC
 Script template. The count on this icon represents the number of custom
 fields that have been added to the template.
 
@@ -224,7 +224,7 @@ New Template Settings
 
 Copy Template
 
-Click to open the *[Copy](Copy.htm)* page to create a template based on
+Click to open the *[Copy](Copy)* page to create a template based on
 a copy of the current template.
 
 Merge BDC Screens
@@ -240,8 +240,8 @@ only.
 <div class="use">
 
 Use this page to [Configure a BAPI
-Template](../Use_Cases/Configure_a_BAPI_Template.htm) and [Configure an
-RFC Template](../Use_Cases/Configure_a_RFC_Template.htm).
+Template](../Use_Cases/Configure_a_BAPI_Template) and [Configure an
+RFC Template](../Use_Cases/Configure_a_RFC_Template).
 
 </div>
 
@@ -263,7 +263,7 @@ BAPI/RFC.
 
 The options in this list box are connections registered in Common. Refer
 to [Establish an SAP Connection in
-Common](../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview.htm)
+Common](../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview)
 for more information.
 
 The connections that display are based on the selection in the Type list
@@ -294,7 +294,7 @@ Function Name field from SAP to complete the template.
 <div class="use">
 
 Use this page to [Create an IG Universal Connect
-Template](../../IGUC/Create%20an%20IG%20Universal%20Connect%20Template.htm).
+Template](../../IGUC/Create%20an%20IG%20Universal%20Connect%20Template).
 
 </div>
 
@@ -335,7 +335,7 @@ another Process as needed.
 
 Use this page to [Create a Template with the SAP Data Services Job
 Template
-Type](../Use_Cases/Create_an_SAP_Data_Services_Job_template.htm).
+Type](../Use_Cases/Create_an_SAP_Data_Services_Job_template).
 
 </div>
 
@@ -356,7 +356,7 @@ Displays the connection ID for the target system for posting.
 
 The options in this list box are connections registered in Common. Refer
 to [Establish a Connection to a Target
-System](../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview.htm)
+System](../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview)
 for more information.
 
 The connections that display are based on the selection in the Type list
@@ -393,7 +393,7 @@ BAPI fields contained in each definition.
 **NOTE:** The template must be created for data to display on the page.
 
 **NOTE:** Refer to [Extract RFC
-Functions](../Config/Extract_RFC_Functions.htm) for more
+Functions](../Config/Extract_RFC_Functions) for more
 information.
 
 ## <span id="General_Tab_GUI_Script"></span>General tab  GUI Script Template Type
@@ -401,7 +401,7 @@ information.
 <div class="use">
 
 Use this page to [Record a GUI
-Script](../Use_Cases/Record_a_GUI_Script.htm).
+Script](../Use_Cases/Record_a_GUI_Script).
 
 </div>
 
@@ -423,7 +423,7 @@ script will be recorded.
 
 The options in this list box are connections registered in Common. Refer
 to [Establish an SAP Connection in
-Common](../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview.htm)
+Common](../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview)
 for more information.
 
 The connections that display are based on the selection in the Type list
@@ -470,7 +470,7 @@ recording.
 
 GUI Script Data
 
-Click to open the *[*GUI Script Data*](GUI_Script_Data_H.htm)* page to
+Click to open the *[*GUI Script Data*](GUI_Script_Data_H)* page to
 edit and delete the fields captured during the GUI script
 recording.
 
@@ -479,8 +479,8 @@ recording.
 <div class="use">
 
 Use this page to [Create a Delimited or Fixed Width User Defined
-Template](../Use_Cases/CreateDelimFWUD.htm) and [Configure an XML
-Template](../Use_Cases/ConfigureXMTemplateStrctrEleAtt.htm).
+Template](../Use_Cases/CreateDelimFWUD) and [Configure an XML
+Template](../Use_Cases/ConfigureXMTemplateStrctrEleAtt).
 
 </div>
 
@@ -502,7 +502,7 @@ user defined file after it is created and transferred to an FTP server.
 
 The options in this list box are connections registered in Common. Refer
 to [Establish an SAP Connection in
-Common](../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview.htm)
+Common](../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview)
 for more information.
 
 The connections that display are based on the selection in the Type list
@@ -523,7 +523,7 @@ Displays the template type. Values are Delimited, FixedWidth and XML.
 
 Define
 
-Click to open the *[Structure](Structure%20H.htm)* page to add, edit and
+Click to open the *[Structure](Structure%20H)* page to add, edit and
 delete structures for the User Defined template. When adding a template,
 this button displays after a value is selected in the **User Defined
 Template Type** list box and the template is
@@ -534,8 +534,8 @@ saved.
 <div class="use">
 
 Use this page to [Create a Delimited or Fixed Width User Defined
-Template](../Use_Cases/CreateDelimFWUD.htm) and [Configure an XML
-Template](../Use_Cases/ConfigureXMTemplateStrctrEleAtt.htm).
+Template](../Use_Cases/CreateDelimFWUD) and [Configure an XML
+Template](../Use_Cases/ConfigureXMTemplateStrctrEleAtt).
 
 </div>
 

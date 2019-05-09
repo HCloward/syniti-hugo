@@ -27,7 +27,7 @@ To set a comment code for a Plan Task:
     Otherwise, click **Add.**
     
     [View the field descriptions for the Item Comment Code
-    page](../Page_Desc/Item_Comment_Code.htm)
+    page](../Page_Desc/Item_Comment_Code)
 
 6.  Select a code from **LATE COMMENT CODE ID** list box.
     

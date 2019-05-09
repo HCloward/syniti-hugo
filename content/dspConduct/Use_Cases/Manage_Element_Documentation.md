@@ -7,7 +7,7 @@ solution = 'Master Data Management'
 
 The Element Documentation page supports the uploading and downloading of
 documents for elements. Each element page has a link to the [Element
-Documentation](../Page_Desc/Element_Documentation.htm) page. Elements
+Documentation](../Page_Desc/Element_Documentation) page. Elements
 that allow adding documents are:
 
   - Business Process
@@ -23,7 +23,7 @@ file. Once the document is uploaded, a Replace File icon is enabled. If
 an element document already exists, the ability to upload on this page
 is disabled and the Replace File icon is enabled. Refer to [Upload and
 Download Element
-Documentation](Upload_and_Download_Element_Documentation.htm) for more
+Documentation](Upload_and_Download_Element_Documentation) for more
 information.
 
 <span style="font-size: 11.0pt;color: #333333;font-weight: bold;">NOTE:</span>
@@ -38,6 +38,6 @@ value of Element + value of ElementID.
 Topics covered are:
 
   - [Upload and Download Element
-    Documentation](Upload_and_Download_Element_Documentation.htm)
-  - [Replace an Element Document](Replace_an_Element_Document.htm)
-  - [Generate Element Documents](Generate_Element_Documents.htm)
+    Documentation](Upload_and_Download_Element_Documentation)
+  - [Replace an Element Document](Replace_an_Element_Document)
+  - [Generate Element Documents](Generate_Element_Documents)

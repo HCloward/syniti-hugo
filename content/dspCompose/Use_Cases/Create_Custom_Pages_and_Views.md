@@ -10,15 +10,15 @@ Before performing this task:
 1.  Create a looped template and process in Integrate. Refer to
     [Configure Process Template Loops for a BDC Script Template with
     Looping
-    Enabled](../../../Platform/Integrate/Use_Cases/ConfigureProcTempLoopsBDCLoopEn.htm)
+    Enabled](../../../Platform/Integrate/Use_Cases/ConfigureProcTempLoopsBDCLoopEn)
     or [Configure Process Template Loops for a GUI Script Template with
     Looping
-    Enabled](../../../Platform/Integrate/Use_Cases/ConfigureProcTemplLoopsGUILoopgEn.htm)
+    Enabled](../../../Platform/Integrate/Use_Cases/ConfigureProcTemplLoopsGUILoopgEn)
     in Integrate for more information.
 2.  [Create all tt Tables and tx Views for the Integrate
-    Process](Create_All_tt_Tables_and_tx_Views_for_the_Integrate_Process.htm)
+    Process](Create_All_tt_Tables_and_tx_Views_for_the_Integrate_Process)
 3.  [Create rt Tables from the tt
-    Tables](Create_rt_Tables_from_the_tt_Tables.htm)
+    Tables](Create_rt_Tables_from_the_tt_Tables)
 
 Once all of the necessary tables and **tx** views are created, create
 the custom pages and views in dspCompose™ outlined in the following
@@ -32,7 +32,7 @@ and **tx** views were created.
 
 After creating custom pages and views, continue with [Create a Template
 that Uses the Custom Pages in
-dspCompose™](Create_a_Template_that_uses_the_Custom_Pages.htm).
+dspCompose™](Create_a_Template_that_uses_the_Custom_Pages).
 
 ## <span id="Create_Data_Entry_Pages_and_Views"></span>Create Data Entry Pages and Views
 

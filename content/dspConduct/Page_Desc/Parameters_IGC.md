@@ -29,7 +29,7 @@ Parameters – IGC** in the *Navigation* pane.
 <tr class="even">
 <td><p>Test Connection</p></td>
 <td><p>Click to test the connection to the web service.</p>
-<p><strong>NOTE</strong>: The fields on this page and the <em><a href="IGC_Keys.htm">IGC Keys</a></em> page must be completed with data supplied by BackOffice Licensing. A server Administrator must also have tested the web service connection using a utility delivered with the installation before the Test Connection will run.</p>
+<p><strong>NOTE</strong>: The fields on this page and the <em><a href="IGC_Keys">IGC Keys</a></em> page must be completed with data supplied by BackOffice Licensing. A server Administrator must also have tested the web service connection using a utility delivered with the installation before the Test Connection will run.</p>
 <p>Refer to the <em>BackOffice Associates® Installation and Upgrade Manual</em> for more information about obtaining the Cloud Key and running the web service configurator.</p>
 <p><strong>NOTE</strong>: The connection must be successful to import IGC™ governance elements into dspConduct™.</p></td>
 </tr>

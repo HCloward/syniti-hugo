@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page while [Viewing Reports in
-dspTrack™](../Use_Cases/View_Reports_in_dspTrack.htm).
+dspTrack™](../Use_Cases/View_Reports_in_dspTrack).
 
 </div>
 

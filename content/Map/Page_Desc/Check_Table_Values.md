@@ -9,7 +9,7 @@ solution = 'Migration'
 
 Use this page to view the values associated with a selected check table
 while [building a remediation
-report.](../Use_Cases/Build_a_Remediation_Report.htm)
+report.](../Use_Cases/Build_a_Remediation_Report)
 
 </div>
 

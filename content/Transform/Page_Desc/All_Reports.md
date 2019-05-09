@@ -48,7 +48,7 @@ the *Navigation* pane.
 </tr>
 <tr class="even">
 <td><p>REPORT TYPE</p></td>
-<td><p>Displays the <span id="Report Type" class="popUpLink">report type</span>, set on the <span style="font-style: italic;"><a href="Target_Reports_H.htm">Target Reports</a></span> or <span style="font-style: italic;"><a href="Target_Source_Reports_H.htm">Target Source Reports</a></span> page.  </p></td>
+<td><p>Displays the <span id="Report Type" class="popUpLink">report type</span>, set on the <span style="font-style: italic;"><a href="Target_Reports_H">Target Reports</a></span> or <span style="font-style: italic;"><a href="Target_Source_Reports_H">Target Source Reports</a></span> page.  </p></td>
 </tr>
 <tr class="odd">
 <td><p>RECORD COUNT</p></td>

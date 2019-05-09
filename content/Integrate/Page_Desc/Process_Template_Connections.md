@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Set Available Connections at the Process Template
-Level](../Use_Cases/Set_Connections_at_the_Process_Template_Level.htm).
+Level](../Use_Cases/Set_Connections_at_the_Process_Template_Level).
 
 </div>
 
@@ -36,12 +36,12 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>PROCESS TEMPLATE ID</p></td>
-<td><p>Displays the name of the process template selected on the <a href="Process_Templates_H.htm">Process Templates</a> page for which the connection is set.</p></td>
+<td><p>Displays the name of the process template selected on the <a href="Process_Templates_H">Process Templates</a> page for which the connection is set.</p></td>
 </tr>
 <tr class="even">
 <td><p>CONNECTION ID</p></td>
 <td><p>Displays the connection name for the target system as configured in Common.</p>
-<p>Refer to <a href="../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview.htm">Establish a Connection to a Target System</a> for more information.</p>
+<p>Refer to <a href="../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview">Establish a Connection to a Target System</a> for more information.</p>
 <p><strong>NOTE:</strong> If the process template was automatically created when the process was added, this connection is set at the template level.</p></td>
 </tr>
 <tr class="odd">

@@ -10,7 +10,7 @@ V](#Field_Mappings_by_Target_Field__All_Waves__V)
 
 <div class="use">
 
-Use this page to [Copy a Mapping](../Use_Cases/Copy_a_Mapping.htm).
+Use this page to [Copy a Mapping](../Use_Cases/Copy_a_Mapping).
 
 </div>
 
@@ -23,7 +23,7 @@ To access this page:
     bar.
 
 3.  Click the <span style="font-weight: bold;">Targets</span> icon on
-    the [Process Area Launch](Process_Area_Launch_map.htm) page.
+    the [Process Area Launch](Process_Area_Launch_map) page.
     
     Or
     
@@ -84,18 +84,18 @@ To access this page:
 <p><strong>NOTE:</strong> If the selected field has an action (as in, a selection displays in the ACTION column), the Copy icon is disabled. Fields with an action cannot be copied.</p>
 <p> Values are:</p>
 <ul>
-<li><a href="../Use_Cases/Construction.htm">Construction</a></li>
-<li><a href="../Use_Cases/Copy_Map.htm">Copy</a></li>
-<li><a href="../Use_Cases/Default_Action.htm">Default</a></li>
-<li><a href="../Use_Cases/Internal.htm">Internal</a></li>
-<li><a href="../Use_Cases/Manual_Rule.htm">Manual Rule</a></li>
-<li><a href="../Use_Cases/Manual_Construction.htm">Manual Construction</a></li>
-<li><a href="../Use_Cases/Not_Used.htm">Not Used</a></li>
-<li><a href="../Use_Cases/Rule.htm">Rule</a></li>
-<li><a href="../Use_Cases/Rule_Xref.htm">Rule Xref</a></li>
-<li><a href="../Use_Cases/Xref.htm">Xref</a></li>
+<li><a href="../Use_Cases/Construction">Construction</a></li>
+<li><a href="../Use_Cases/Copy_Map">Copy</a></li>
+<li><a href="../Use_Cases/Default_Action">Default</a></li>
+<li><a href="../Use_Cases/Internal">Internal</a></li>
+<li><a href="../Use_Cases/Manual_Rule">Manual Rule</a></li>
+<li><a href="../Use_Cases/Manual_Construction">Manual Construction</a></li>
+<li><a href="../Use_Cases/Not_Used">Not Used</a></li>
+<li><a href="../Use_Cases/Rule">Rule</a></li>
+<li><a href="../Use_Cases/Rule_Xref">Rule Xref</a></li>
+<li><a href="../Use_Cases/Xref">Xref</a></li>
 </ul>
-<p>Refer to <a href="../Use_Cases/Perform_Field_Mapping.htm#Select_an_Action">Select an Action</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Perform_Field_Mapping#Select_an_Action">Select an Action</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>LOOKUP</p></td>
@@ -120,7 +120,7 @@ To access this page:
 <p>While mapping a field with the Default action, a user can create output values for blank, empty, and null values.</p>
 <p>The rule created by the mapping uses these output values:</p>
 <ul>
-<li>If the user enters &lt;blank&gt; in the Default field on the <span style="font-style: italic;"><a href="Field_Mappings_H.htm">Field Mappings</a></span> page, the output used in the rule is single quotes with one space between them (' '). </li>
+<li>If the user enters &lt;blank&gt; in the Default field on the <span style="font-style: italic;"><a href="Field_Mappings_H">Field Mappings</a></span> page, the output used in the rule is single quotes with one space between them (' '). </li>
 <li>If the user enters &lt;empty&gt;, the rule uses single quotes with no space between them ('').</li>
 <li>If the user enters &lt;null&gt;, the rules uses NULL, representing no data.</li>
 </ul></td>
@@ -148,7 +148,7 @@ To access this page:
 <li>A green icon indicates the Rule is Complete.</li>
 </ul>
 <p>Rule status is updated by the system and cannot be changed by the user in Map.</p>
-<p>Rule status can be updated in SQL AutoGen on the <a href="../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H.htm">Automation SQL Field Mappings</a> page. Refer to <a href="../../SQL_AutoGen/Use_Cases/Update_a_Rule_Status.htm">Update a Rule Status</a> for more information.  </p></td>
+<p>Rule status can be updated in SQL AutoGen on the <a href="../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H">Automation SQL Field Mappings</a> page. Refer to <a href="../../SQL_AutoGen/Use_Cases/Update_a_Rule_Status">Update a Rule Status</a> for more information.  </p></td>
 </tr>
 </tbody>
 </table>
@@ -156,7 +156,7 @@ To access this page:
 ## <span id="Field_Mappings_by_Target_Field__All_Waves__V"></span>Field Mappings by Target Field (All Waves) V
 
 [Field Mappings by Target Field (All Waves)
-H](Field_Mappings_by_Target_Field_All_Waves.htm)
+H](Field_Mappings_by_Target_Field_All_Waves)
 
 <div class="use">
 
@@ -193,9 +193,9 @@ Rule status is updated by the system and cannot be changed by the user
 in Map.
 
 Rule status can be updated in SQL AutoGen on the[*Automation SQL Field
-Mappings*](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H.htm)
+Mappings*](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H)
 page. Refer to [Update a Rule
-Status](../../SQL_AutoGen/Use_Cases/Update_a_Rule_Status.htm) for more
+Status](../../SQL_AutoGen/Use_Cases/Update_a_Rule_Status) for more
 information.  
 
 Mapping
@@ -219,7 +219,7 @@ Source cannot be used as an External Source type. The External Source
 table must be registered as an Update Row first.
 
 Refer to [Add an External
-Source](../Use_Cases/Add_an_External_Source.htm) for more information.
+Source](../Use_Cases/Add_an_External_Source) for more information.
 
 Lookup
 
@@ -244,7 +244,7 @@ Displays the value to use while building a remediation report for field
 mappings that do not use the Xref or RuleXref action. This field only
 displays when {Target Rules} is selected on the
 <span style="font-style: italic;">[Field
-Mappings](Field_Mappings_H.htm)</span> page. This field only displays
+Mappings](Field_Mappings_H)</span> page. This field only displays
 for {Target Rule} Target Sources.
 
 Remediation Comment
@@ -253,7 +253,7 @@ Displays the remediation comment that display on the remediation report
 for field mappings that do not use the Xref or RuleXref action. This
 field only displays when {Target Rules} is selected on the
 <span style="font-style: italic;">[Field
-Mappings](Field_Mappings_H.htm)</span> page.
+Mappings](Field_Mappings_H)</span> page.
 
 Additional Notes
 
@@ -322,18 +322,18 @@ Created By
 
 Displays user ID of individual who clicked the Create and Approve Rules
 icon on the
-<span style="font-style: italic;">[Automation](../../SQL_AutoGen/Page_Desc/Automation_page.htm)</span>
+<span style="font-style: italic;">[Automation](../../SQL_AutoGen/Page_Desc/Automation_page)</span>
 page or the Create and Complete icon on the [Automation SQL Field
-Mappings](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H.htm)
+Mappings](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H)
 page  to create the rules for the approved mapping.
 
 Created On
 
 Displays date and time when a user clicked the Create and Approve Rules
 icon on the
-<span style="font-style: italic;">[Automation](../../SQL_AutoGen/Page_Desc/Automation_page.htm)</span>
+<span style="font-style: italic;">[Automation](../../SQL_AutoGen/Page_Desc/Automation_page)</span>
 page or the Create and Complete icon on the [Automation SQL Field
-Mappings](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H.htm)
+Mappings](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H)
 page  to create the rules for the approved mapping.
 
 Approved By
@@ -345,7 +345,7 @@ on the Automation page
 Approved On
 
 Displays date and time when the mapping was approved on the *[Mapping
-Approval](Mapping_Approval_H.htm)* page.
+Approval](Mapping_Approval_H)* page.
 
 Rejected By
 

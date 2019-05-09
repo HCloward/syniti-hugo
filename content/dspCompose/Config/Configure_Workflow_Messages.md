@@ -15,7 +15,7 @@ External Data role fails validations.
 
 Workflow messages can be set for multiple languages.
 
-Refer to [Set up Workflow Messages](Set_up_Workflow_Messages.htm) for
+Refer to [Set up Workflow Messages](Set_up_Workflow_Messages) for
 more information.
 
 **NOTE**: The address in the EMAIL FROM column for the EmailValidation
@@ -36,7 +36,7 @@ To modify a workflow message:
 3.  Click **Edit** for an event to modify an existing message.
     
     [View the field descriptions for the Workflow Language Message
-    page's Vertical View.](../Page_Desc/Workflow_Language_Message_H.htm)
+    page's Vertical View.](../Page_Desc/Workflow_Language_Message_H)
 
 4.  Enter the email subject line text in **SUBJECT
     <span style="font-weight: normal;">field</span>**.

@@ -8,7 +8,7 @@ solution = 'Data Quality'
 <div class="use">
 
 Use this page to [Register Data Quality Score
-Thresholds](Populate_Configuration_Tables.htm#Register_Data_Quality_Score_Thresholds).
+Thresholds](Populate_Configuration_Tables#Register_Data_Quality_Score_Thresholds).
 
 </div>
 

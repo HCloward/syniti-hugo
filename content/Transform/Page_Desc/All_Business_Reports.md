@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [View All
-Reports.](../Use_Cases/View_Reports.htm#View_All_Reports)
+Reports.](../Use_Cases/View_Reports#View_All_Reports)
 
 </div>
 

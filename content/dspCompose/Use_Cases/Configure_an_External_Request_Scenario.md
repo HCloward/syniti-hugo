@@ -16,16 +16,16 @@ scenarios for a template.
 **NOTE**: Certain settings must be configured before external request
 scenarios can work. Refer to [Configure Settings for External Data
 Processing and External Request
-Scenarios](../Config/Configure_Settings_for_External_Data_Processing.htm)
+Scenarios](../Config/Configure_Settings_for_External_Data_Processing)
 for more information.
 
 To configure an external request scenario:
 
 1.  [Create an External Request
-    Scenario](Create_an_External_Request_Scenario.htm)
+    Scenario](Create_an_External_Request_Scenario)
 2.  [Add Email Addresses for a
-    Scenario](Add_Email_Addresses_for_a_Scenario.htm)
+    Scenario](Add_Email_Addresses_for_a_Scenario)
 3.  [Set External Role Contacts for an External Request
-    Scenario](Set_External_Role_Contacts.htm) (required only if the
+    Scenario](Set_External_Role_Contacts) (required only if the
     template has an External Data role as the initial role in the
     workflow)

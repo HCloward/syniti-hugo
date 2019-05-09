@@ -7,7 +7,7 @@ solution = 'Data Quality'
 
 A request can be created based on a view stored in a data source. Refer
 to [Import a View at the Request-Role
-Level](Import_a_View_at_the_Request%20Role_Level.htm) for more
+Level](Import_a_View_at_the_Request%20Role_Level) for more
 information.
 
 At the template-role level for the Data role, add data sources that

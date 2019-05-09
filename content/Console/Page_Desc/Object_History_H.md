@@ -10,7 +10,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Track Object
-History](../Use_Cases/Configure_Object.htm#Track).
+History](../Use_Cases/Configure_Object#Track).
 
 </div>
 
@@ -32,7 +32,7 @@ Object.
 | OBJECT NAME   | Displays the name of the Object.                                                                                                   |
 | Wave          | Displays the name of the Wave that the Object is assigned to.                                                                      |
 | Process Area  | Displays the name of the Process Area that the Object is assigned to.                                                              |
-| PRIORITY      | Displays the Object’s priority, which is the order the Object displays on the *[Objects](Objects_H.htm)* page’s *Horizontal* View. |
+| PRIORITY      | Displays the Object’s priority, which is the order the Object displays on the *[Objects](Objects_H)* page’s *Horizontal* View. |
 | OBJECT OWNER  | Displays the name of the user registered in the platform who is responsible for the Object.                                        |
 | OBJECT STATUS | Displays the overall status of the migration Object, such as In Development, Deferred, or Completed.                               |
 | TARGET SYSTEM | Displays the name of the Target system.                                                                                            |
@@ -44,12 +44,12 @@ Object.
 
 ## <span id="Object_History_V"></span>Object History V
 
-[Object History H](Object_History_H.htm)
+[Object History H](Object_History_H)
 
 <div class="use">
 
 Use this page to [Track Object
-History](../Use_Cases/Configure_Object.htm#Track).
+History](../Use_Cases/Configure_Object#Track).
 
 </div>
 
@@ -85,7 +85,7 @@ History](../Use_Cases/Configure_Object.htm#Track).
 </tr>
 <tr class="odd">
 <td><p>Priority</p></td>
-<td><p>Displays the Object’s priority, which is the order the Object displays on the <em><a href="Objects_H.htm">Objects</a></em> page’s <em>Horizontal</em> View.</p></td>
+<td><p>Displays the Object’s priority, which is the order the Object displays on the <em><a href="Objects_H">Objects</a></em> page’s <em>Horizontal</em> View.</p></td>
 </tr>
 <tr class="even">
 <td><p>Data Type</p></td>
@@ -114,7 +114,7 @@ History](../Use_Cases/Configure_Object.htm#Track).
 </tr>
 <tr class="even">
 <td><p><span style="font-weight: bold;">Complexity</span></p></td>
-<td><p>Displays the complexity for building the Object. This value can be used to evaluate work assignments. Options include Average, Simple or Complex. These options are set on the <em><a href="List_Value_Configuration.htm">List Value Configuration</a></em> page and can be edited. If a Target is created in Map that does not have an assigned Complexity, this value will be passed to Transform to complete the required Complexity field on Transform's <em><a href="../../Transform/Page_Desc/Targets_H.htm">Targets</a></em> page’s <em>Vertical</em> View on the Documentation tab. A user can then update the complexity in Transform.</p></td>
+<td><p>Displays the complexity for building the Object. This value can be used to evaluate work assignments. Options include Average, Simple or Complex. These options are set on the <em><a href="List_Value_Configuration">List Value Configuration</a></em> page and can be edited. If a Target is created in Map that does not have an assigned Complexity, this value will be passed to Transform to complete the required Complexity field on Transform's <em><a href="../../Transform/Page_Desc/Targets_H">Targets</a></em> page’s <em>Vertical</em> View on the Documentation tab. A user can then update the complexity in Transform.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Approx Volume</p></td>

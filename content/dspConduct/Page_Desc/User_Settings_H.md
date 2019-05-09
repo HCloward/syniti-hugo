@@ -5,12 +5,12 @@ solution = 'Master Data Management'
 
 # User Settings H
 
-[User Settings V](User_Settings_H.htm#User_Settings_V)
+[User Settings V](User_Settings_H#User_Settings_V)
 
 <div class="use">
 
 Use this page to [set User Workflow Receipt
-Preferences.](../Config/Set_User_Workflow_Receipt_Preferences.htm)
+Preferences.](../Config/Set_User_Workflow_Receipt_Preferences)
 
 </div>
 
@@ -62,19 +62,19 @@ User Settings. The functionality on the page is the same.
 </tr>
 <tr class="odd">
 <td><p>Positions</p></td>
-<td><p>Click to open the <a href="User_Position.htm">User Position</a> page to assign positions to the selected user.</p></td>
+<td><p>Click to open the <a href="User_Position">User Position</a> page to assign positions to the selected user.</p></td>
 </tr>
 </tbody>
 </table>
 
 ## <span id="User_Settings_V"></span>User Settings V
 
-[User Settings H](User_Settings_H.htm)
+[User Settings H](User_Settings_H)
 
 <div class="use">
 
 Use this page to [assign a backup
-user](../Config/Assign_a_Backup_User.htm).
+user](../Config/Assign_a_Backup_User).
 
 </div>
 

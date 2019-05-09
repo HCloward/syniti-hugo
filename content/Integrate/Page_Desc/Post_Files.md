@@ -7,7 +7,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Monitor Posts.](../Use_Cases/Monitor_Posts.htm)
+Use this page to [Monitor Posts.](../Use_Cases/Monitor_Posts)
 
 </div>
 
@@ -36,4 +36,4 @@ To access this page:
 | Remote System Log            | Click to open the *Post File Logs* page to view details of the remote log files.                                                                                                                                                                                |
 | POST STATUS                  | Displays the overall status of the post.                                                                                                                                                                                                                        |
 | POST STATUS MESSAGE          | Displays a message about the overall post status.                                                                                                                                                                                                               |
-| Post Job Job  Log            | Click to open the *[Post File Logs](Post_File_Logs.htm)* page to view the logs, the message, and the message type returned from the ERP system after the process post is complete. Used with process posts based on Batch Load, Direct Load and IDOC templates. |
+| Post Job Job  Log            | Click to open the *[Post File Logs](Post_File_Logs)* page to view the logs, the message, and the message type returned from the ERP system after the process post is complete. Used with process posts based on Batch Load, Direct Load and IDOC templates. |

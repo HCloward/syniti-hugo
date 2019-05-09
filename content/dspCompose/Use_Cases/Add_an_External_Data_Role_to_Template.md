@@ -26,7 +26,7 @@ To assign a role at the template level:
 4.  Click **Add**.
     
     *[View the field descriptions for the Template (Role)
-    page.](../Page_Desc/Template_Role_H.htm)*
+    page.](../Page_Desc/Template_Role_H)*
 
 5.  Enter the sort order in **PRIORITY** field.
     
@@ -34,7 +34,7 @@ To assign a role at the template level:
     Scenarios, and the data from the External Data role should start the
     process, the External Data role should be the initial role. Give
     this role the lowest priority. Refer to [Use External Request
-    Scenarios](Use_External_Request_Scenarios.htm) for more information.
+    Scenarios](Use_External_Request_Scenarios) for more information.
 
 6.  Select **External Data** from the **ROLE ID** list box.
 
@@ -59,5 +59,5 @@ To assign a role at the template level:
     
     **NOTE**: The External Data role can be configured like any other,
     with event rules, column controls, validations, and other settings.
-    Refer to [Configure Templates](Configure_Templates.htm) for more
+    Refer to [Configure Templates](Configure_Templates) for more
     information.

@@ -8,7 +8,7 @@ solution = 'Data Quality'
 <div class="use">
 
 Use this page to [Customize User
-Settings](../Use_Cases/Configure_User_Settings_Reports_and_Filters.htm#Customize_User_Settings).
+Settings](../Use_Cases/Configure_User_Settings_Reports_and_Filters#Customize_User_Settings).
  
 
 </div>

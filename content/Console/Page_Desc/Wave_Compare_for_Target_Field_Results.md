@@ -6,19 +6,19 @@ solution = 'Migration'
 # Wave Compare for Target Field Results H
 
 [Wave Compare for Target Field Results
-V](Wave_Compare_for_Target_Field_Results.htm#Wave_Compare_for_Target_Field_Results_V)
+V](Wave_Compare_for_Target_Field_Results#Wave_Compare_for_Target_Field_Results_V)
 
 <div class="use" data-xmlns="">
 
 Use this page to [Synchronize Target Designs Across
-Waves](../Use_Cases/Synchronize_Target_Designs_Across_Waves.htm).
+Waves](../Use_Cases/Synchronize_Target_Designs_Across_Waves).
 
 </div>
 
 **NOTE**: This page is only accessible if the current user is a member
 of the WebApp group Wavesynchronizer in Console or is assigned to a
 security role with access to the page. Refer to [Set
-Security](../../../Platform/Sys_Admin/Use_Cases/Setting_security.htm) in
+Security](../../../Platform/Sys_Admin/Use_Cases/Setting_security) in
 System Administration for more information.
 
 To access this page:
@@ -73,7 +73,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>FIELD ORDER</p></td>
-<td><p>Displays the order of the field entered on the <em><a href="../../Design/Page_Desc/Target_Fields_H_Target_Design.htm">Target Fields</a></em> page.</p></td>
+<td><p>Displays the order of the field entered on the <em><a href="../../Design/Page_Desc/Target_Fields_H_Target_Design">Target Fields</a></em> page.</p></td>
 </tr>
 <tr class="even">
 <td><p>LABEL</p></td>
@@ -82,7 +82,7 @@ To access this page:
 <tr class="odd">
 <td><p>FIELD GROUP</p></td>
 <td><p>Displays the name of the field group to which the field belongs. All fields are assigned to the default field group (*). Field groups are used to organize data to be able to apply different rules, criticality levels, requirements settings against each group depending on the values of data in a related field..</p>
-<p>Refer to <span style="font-family: Arial, sans-serif;color: #0000ff;"><a href="../../Design/Use_Cases/Work_with_Field_Groups.htm">Work With Field Groups</a></span> <span style="font-family: Arial, sans-serif;">for more information.</span></p></td>
+<p>Refer to <span style="font-family: Arial, sans-serif;color: #0000ff;"><a href="../../Design/Use_Cases/Work_with_Field_Groups">Work With Field Groups</a></span> <span style="font-family: Arial, sans-serif;">for more information.</span></p></td>
 </tr>
 <tr class="even">
 <td><p>KEY FIELD</p></td>
@@ -95,7 +95,7 @@ To access this page:
 <tr class="even">
 <td><p>TARGET LOOKUP TABLE</p></td>
 <td><p>Displays the name of the lookup table to which a field belongs.</p>
-<p>Refer to <span style="font-family: Arial, sans-serif;color: #0000ff;"><a href="../../Design/Use_Cases/Set_up_Lookup_Tables.htm">Set up Lookup Tables</a></span> for more information.</p></td>
+<p>Refer to <span style="font-family: Arial, sans-serif;color: #0000ff;"><a href="../../Design/Use_Cases/Set_up_Lookup_Tables">Set up Lookup Tables</a></span> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>DATA TYPE</p></td>
@@ -135,7 +135,7 @@ To access this page:
 ## <span id="Wave_Compare_for_Target_Field_Results_V"></span>Wave Compare for Target Field Results V
 
 [Wave Compare for Target Field Results
-H](Wave_Compare_for_Target_Field_Results.htm)
+H](Wave_Compare_for_Target_Field_Results)
 
 <table>
 <tbody>
@@ -162,7 +162,7 @@ H](Wave_Compare_for_Target_Field_Results.htm)
 <tr class="even">
 <td><p>Field Group</p></td>
 <td><p>Displays the name of the field group to which the field belongs. All fields are assigned to the default field group (*). Field groups are used to organize data to be able to apply different rules, criticality levels, requirements settings against each group depending on the values of data in a related field.</p>
-<p>Refer to <span style="font-family: Arial, sans-serif;color: #0000ff;"><a href="../../Design/Use_Cases/Work_with_Field_Groups.htm">Work With Field Groups</a></span> <span style="font-family: Arial, sans-serif;">for more information.</span></p></td>
+<p>Refer to <span style="font-family: Arial, sans-serif;color: #0000ff;"><a href="../../Design/Use_Cases/Work_with_Field_Groups">Work With Field Groups</a></span> <span style="font-family: Arial, sans-serif;">for more information.</span></p></td>
 </tr>
 <tr class="odd">
 <td><p>Field Name</p></td>

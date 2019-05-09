@@ -7,10 +7,10 @@ solution = 'Migration'
 
 A Migration Developer can set visibility for a field on the
 <span style="font-style: italic;">[Target
-Fields](../Page_Desc/Target_Fields_H_Target_Design.htm)</span> page.
+Fields](../Page_Desc/Target_Fields_H_Target_Design)</span> page.
 Visibility determines whether fields display on the
 <span style="font-style: italic;">[Field
-Mappings](../../Map/Page_Desc/Field_Mappings_H.htm)</span> page in Map
+Mappings](../../Map/Page_Desc/Field_Mappings_H)</span> page in Map
 and can be mapped as Source fields, Target fields, or as both Target and
 Source fields. Visibility can also be set to None - No mapping required
 for the field, indicating that the field does not display on the
@@ -40,7 +40,7 @@ field by default.
 
 The visibility for Utility fields can also be set for columns that are
 appended to Target or Source tables. Refer to [Allow Mapping of Utility
-Columns](Allow_Mapping_of_Utility_Columns.htm) for more information.
+Columns](Allow_Mapping_of_Utility_Columns) for more information.
 
 To set visibility for a field in Target Design:
 
@@ -48,7 +48,7 @@ To set visibility for a field in Target Design:
     bar.
 
 2.  Click the <span style="font-weight: bold;">Targets</span> icon on
-    the *[Design](../Page_Desc/Design.htm)* page.
+    the *[Design](../Page_Desc/Design)* page.
 
 3.  Click the <span style="font-weight: bold;">Fields</span> icon for a
     Target.
@@ -59,7 +59,7 @@ To set visibility for a field in Target Design:
 5.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the Target Fields
-    page](../Page_Desc/Target_Fields_H_Target_Design.htm)
+    page](../Page_Desc/Target_Fields_H_Target_Design)
 
 6.  Select an option in the
     <span style="font-weight: bold;">Visibility</span> list box.

@@ -23,14 +23,14 @@ installed with the platform and cannot be deleted.
 
 <span style="font-weight: bold;">NOTE</span>: If a user deletes an
 append column from the [Append Utility
-Columns](../Page_Desc/Append_Utility_Columns.htm) page, if it has
+Columns](../Page_Desc/Append_Utility_Columns) page, if it has
 already been synced with Map, the column still appears on the Target
 table. To remove the append column in this case, set the column to
 inactive.
 
 <span style="font-weight: bold;">NOTE</span>: If a user deletes a column
 from the [Append Utility
-Columns](../Page_Desc/Append_Utility_Columns.htm) page that has already
+Columns](../Page_Desc/Append_Utility_Columns) page that has already
 been added to a Target table using SQL AutoGen, that column must be
 manually deleted from the Target table.
 
@@ -42,7 +42,7 @@ To append columns to tables in Target Design:
 2.  Click <span style="font-weight: bold;">Add</span>.
     
     *[View the field descriptions for the Append Utility Columns
-    page](../Page_Desc/Append_Utility_Columns.htm)*
+    page](../Page_Desc/Append_Utility_Columns)*
 
 3.  Enter the name of the column to append to the table in the
     **COLUMN** field.
@@ -76,8 +76,8 @@ To append columns to tables in Target Design:
     
     <span style="font-weight: bold;">NOTE</span>: Default values are
     added on the *[Utility Field
-    Defaults](../Page_Desc/Utility_Field_Defaults.htm)* page. Refer to
-    [Add Utility Field Defaults](Add_Utility_Field_Defaults.htm) for
+    Defaults](../Page_Desc/Utility_Field_Defaults)* page. Refer to
+    [Add Utility Field Defaults](Add_Utility_Field_Defaults) for
     more information.
 
 11. Enable or disable the **TARGET APPEND** check box as needed.

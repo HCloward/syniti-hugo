@@ -8,7 +8,7 @@ solution = 'Platform'
 Logical Paths is a configuration setting required for the FileIterator
 event, which copies files from a source folder to a target folder, then
 deletes the files from the source folder. Refer to [About Automate
-Events](About_Automate_Events.htm) for more information.
+Events](About_Automate_Events) for more information.
 
 A logical path points to a folder (a local or networked file system
 mapped with a drive letter) or an FTP site where files are either
@@ -25,7 +25,7 @@ To add a logical path in Automate:
 2.  Click **Add**.
     
     *[View the field description for the Logical Paths
-    page](../Page_Desc/Logical_Paths.htm)*
+    page](../Page_Desc/Logical_Paths)*
 
 3.  Enter a file path of the folder or the FTP site in the **LOGICAL
     PATH** field.
@@ -54,7 +54,7 @@ To add a logical path in Automate:
       - **Batched** – When the files are copied to the destination, they
         are broken into files with the amount of records noted in the
         **Batch Size** field (configured on the *Vertical* View of the
-        [*Logical Paths*](../Page_Desc/Logical_Paths.htm#LogicalPathsV)
+        [*Logical Paths*](../Page_Desc/Logical_Paths#LogicalPathsV)
         page).
         
         **NOTE**: Excel libraries may need to be installed on the DSP
@@ -64,7 +64,7 @@ To add a logical path in Automate:
         destination, a file is created for each unique value in the
         **Segment By Field** field (configured on the *Vertical* View of
         the *[Logical
-        Paths](../Page_Desc/Logical_Paths.htm#LogicalPathsV)* page).
+        Paths](../Page_Desc/Logical_Paths#LogicalPathsV)* page).
         
         **NOTE**: Excel libraries may need to be installed on the DSP
         application server if Segment By Field is used when copying
@@ -82,7 +82,7 @@ To add a logical path in Automate:
       - **Delimited** – For each record in each file, fields are
         separated by a delimiter (configured in the **Delimiter** field
         on the *Vertical* View of the *[Logical
-        Paths](../Page_Desc/Logical_Paths.htm#LogicalPathsV)* page). In
+        Paths](../Page_Desc/Logical_Paths#LogicalPathsV)* page). In
         a comma-separated values (CSV) file, the data items are
         separated using commas as a delimiter, while in a tab-separated
         values (TSV) file, the data items are separated using tabs as a
@@ -104,7 +104,7 @@ To add a logical path in Automate:
     the File Format selected.
     
     *[View the field description for the Logical Paths page’s Vertical
-    View](../Page_Desc/Logical_Paths.htm#LogicalPathsV)*
+    View](../Page_Desc/Logical_Paths#LogicalPathsV)*
 
 8.  If the FILE MODIFICATION is Batched, enter a value in the **Batch
     Size** field to control the number of records written to each file.
@@ -144,7 +144,7 @@ To add a logical path in Automate:
 15. Click **Add**.
     
     *[View the field description for the Logical Path (Instance)
-    page](../Page_Desc/Logical_Path_Instance.htm)*
+    page](../Page_Desc/Logical_Path_Instance)*
     
     **NOTE:** Depending on the Transport Type, different fields display.
 
@@ -153,7 +153,7 @@ To add a logical path in Automate:
 1.  Select an environment from the **INSTANCE** list box.
     
     **NOTE:** The instance configured must match the instance selected
-    on the *[Parameters](../Page_Desc/Parameters.htm)* page in Automate.
+    on the *[Parameters](../Page_Desc/Parameters)* page in Automate.
     If the instances do not match, the file processing will not work
     correctly.
 
@@ -181,7 +181,7 @@ To add a logical path in Automate:
 1.  Select an environment from the **Instance** list box.
     
     **NOTE:** The instance configured must match the instance selected
-    on the *[Parameters](../Page_Desc/Parameters.htm)* page in Automate.
+    on the *[Parameters](../Page_Desc/Parameters)* page in Automate.
     If the instances do not match, the file processing will not work
     correctly.
 
@@ -190,7 +190,7 @@ To add a logical path in Automate:
 
 *[View the field description for the Logical Path (Instance) page’s
 Vertical
-View](../Page_Desc/Logical_Path_Instance.htm#LogicalPathInstanceV)*
+View](../Page_Desc/Logical_Path_Instance#LogicalPathInstanceV)*
 
 16. Click **Save**; the *Vertical* View displays.
 
@@ -213,5 +213,5 @@ View](../Page_Desc/Logical_Path_Instance.htm#LogicalPathInstanceV)*
 
 22. Click the **Browse** icon browse the FTP site or the path for other
     folders or files, and change the FTP site or path if necessary.
-    Refer to [Browse FTP Site or Path](Browse_FTP_Site_or_Path.htm) for
+    Refer to [Browse FTP Site or Path](Browse_FTP_Site_or_Path) for
     more information.

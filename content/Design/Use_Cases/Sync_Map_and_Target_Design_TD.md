@@ -8,16 +8,16 @@ solution = 'Migration'
 When changes have been made that require a sync, the message Pending
 Design Changes displays for the Target on the
 <span style="font-style: italic;">[Design
-Status](Set_Design_Status.htm)</span> page in Target Design. On the
-<span style="font-style: italic;">[Targets](../Page_Desc/Targets_H_Design.htm)</span>
+Status](Set_Design_Status)</span> page in Target Design. On the
+<span style="font-style: italic;">[Targets](../Page_Desc/Targets_H_Design)</span>
 page, a Pending Design Changes link displays for the Target. Click the
 link to view a list of changes for the selected Target.
 
 The Pending Design Changes message also displays in Map on the
 <span style="font-style: italic;">[Target
-Sources](../../Map/Page_Desc/Target_Sources_H_Map.htm)</span> and
+Sources](../../Map/Page_Desc/Target_Sources_H_Map)</span> and
 <span style="font-style: italic;">[Field
-Mappings](../../Map/Page_Desc/Field_Mappings_H.htm)</span> page.
+Mappings](../../Map/Page_Desc/Field_Mappings_H)</span> page.
 
 For example, a user creates a Target table, ttMARA, in Target Design,
 then clicks the Sync To Map icon to push the Target, fields and Source
@@ -25,16 +25,16 @@ to Map.
 
 A user then adds a field and removes a field from the ttMARA Target on
 the <span style="font-style: italic;">[Target
-Fields](../Page_Desc/Target_Fields_H_Target_Design.htm)</span> page in
+Fields](../Page_Desc/Target_Fields_H_Target_Design)</span> page in
 Target Design.
 
 At this point, when the ttMARA Target is selected on the
-<span style="font-style: italic;">[Targets](../../Map/Page_Desc/Targets_H_Map.htm)</span>
+<span style="font-style: italic;">[Targets](../../Map/Page_Desc/Targets_H_Map)</span>
 page, the message Pending Design Changes displays for the Target. The
 user can click this link to view the pending changes (the field that was
 removed and the field that was added) on the
 <span style="font-style: italic;">[Target Design Pending
-Changes](../Page_Desc/Target_Design_Pending_Changes.htm)</span> page.
+Changes](../Page_Desc/Target_Design_Pending_Changes)</span> page.
 
 The Pending Design Changes message also displays on the
 <span style="font-style: italic;">Design Status</span> page in Target
@@ -55,13 +55,13 @@ is Inactive or Complete.
     until the sync process runs.
   - The Design Status can be moved to In Design.
 
-Refer to [Set the Design Status](Set_the_Design_Status.htm) for more
+Refer to [Set the Design Status](Set_the_Design_Status) for more
 information.
 
 **NOTE**: When the Sync process runs, if a Target Source is {Full
 Construction}, AutoGen runs to create the page and underlying tables and
 views in Construct. Refer to [Full Construction and Enhanced
-Construction](../../Construct/Use_Cases/Full_Construction_and_Enhanced_Construction.htm)
+Construction](../../Construct/Use_Cases/Full_Construction_and_Enhanced_Construction)
 for more information.
 
 **NOTE**: The Design Status is not updated by the Sync process.
@@ -70,7 +70,7 @@ To sync Target Design and Map in Target Design:
 
 1.  Click **Design** in the Context bar.
 
-2.  Click the **Targets**icon on the *[Design](../Page_Desc/Design.htm)*
+2.  Click the **Targets**icon on the *[Design](../Page_Desc/Design)*
     page.
 
 3.  Select a Target that needs to be synced on the *Targets* page.
@@ -118,7 +118,7 @@ Design are loaded into Map
     even when deleted in Target Design.
   - Relationships added on the
     <span class="msoIns" style="font-style: italic;">[Target Dependency
-    Relationship](../Page_Desc/Target_Dependency_Relationship.htm)</span>
+    Relationship](../Page_Desc/Target_Dependency_Relationship)</span>
     page are loaded into Map.
 
 If the original mapping action created a rule in Transform, what happens

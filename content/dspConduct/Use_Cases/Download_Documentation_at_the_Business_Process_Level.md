@@ -9,10 +9,10 @@ A Designer performs this task.
 
 Before this task can be completed, perform the following tasks:
 
-  - [Create a Category](Create_a_Category.htm)
-  - [Add a Business Process](Add_Business_Process.htm)
+  - [Create a Category](Create_a_Category)
+  - [Add a Business Process](Add_Business_Process)
   - [Upload Documentation at the Business Process
-    Level](Upload_Documentation_at_the_Business_Process_Level.htm)
+    Level](Upload_Documentation_at_the_Business_Process_Level)
 
 To download documentation at the business process level in dspConduct™:
 

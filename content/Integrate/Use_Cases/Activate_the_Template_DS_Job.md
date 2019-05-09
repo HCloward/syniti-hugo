@@ -10,10 +10,10 @@ so it can be added to a process.
 
 For general information about the SAP Data Services Job template, refer
 to [Post Data Using an SAP Data Services Job
-Overview](Post_Data_Using_an_SAP_Data_Services_Job_Overview.htm).
+Overview](Post_Data_Using_an_SAP_Data_Services_Job_Overview).
 
 Before performing this task, [create the
-template](Create_an_SAP_Data_Services_Job_template.htm).
+template](Create_an_SAP_Data_Services_Job_template).
 
 To activate a template in Integrate:
 
@@ -31,4 +31,4 @@ Once a template is activated, it cannot be edited until it is
 deactivated.
 
 Continue with [Add the Template to a
-Process](Add_the_Template_to_a_Process_DSJob.htm).
+Process](Add_the_Template_to_a_Process_DSJob).

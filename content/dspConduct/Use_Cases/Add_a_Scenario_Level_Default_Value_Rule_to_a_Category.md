@@ -9,13 +9,13 @@ A Designer can add a default value rule that indicates a default value
 for a column and whether the value in the column is mandatory. Before
 performing this task, a category and scenario must be added. Refer to
 [dspConduct™ Design Process
-Overview](dspConduct_Design_Process_Overview.htm) for more information
+Overview](dspConduct_Design_Process_Overview) for more information
 on creating elements in dspConduct™.
 
 After a scenario level default value rule has been added to a category,
 it can be assigned to a scenario in that category. Refer to [Assign a
 Default Value Rule to a
-Scenario](Assign_a_Default_Value_Rule_to_a_Scenario.htm) for more
+Scenario](Assign_a_Default_Value_Rule_to_a_Scenario) for more
 information.
 
 To add a scenario level default value rule to a category in dspConduct™:
@@ -27,7 +27,7 @@ To add a scenario level default value rule to a category in dspConduct™:
 3.  Click **Edit**.
     
     [View the field descriptions for the Category page's Vertical
-    View.](../Page_Desc/Category_H.htm#Category_V)
+    View.](../Page_Desc/Category_H#Category_V)
 
 4.  Select the data source for the condition table in the **Condition
     Table Datasource Id** list box.
@@ -39,7 +39,7 @@ To add a scenario level default value rule to a category in dspConduct™:
 7.  Click the **Default Value Rules** icon.
     
     [View the field descriptions for the Default Value Rules
-    page.](../Page_Desc/Default_Value_Rules.htm)
+    page.](../Page_Desc/Default_Value_Rules)
 
 8.  If no records exist, the page displays in add mode. Otherwise, click
     **Add**.

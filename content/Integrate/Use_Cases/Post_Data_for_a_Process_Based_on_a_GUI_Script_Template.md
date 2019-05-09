@@ -24,7 +24,7 @@ posting process.
 
 <span style="font-weight: bold;">NOTE</span>: Data can be posted using a
 multiple template process. Refer to [Post a Process with Multiple
-Templates](Post_a_Process_with_Multiple_Templates.htm) for more
+Templates](Post_a_Process_with_Multiple_Templates) for more
 information.
 
 <span style="font-weight: bold;">NOTE</span>: When posting data to a
@@ -35,7 +35,7 @@ posting with a multi-template process). When a process template that has
 an After Post Rule registered posts successfully, the data is passed to
 the next dependent process template as an input parameter. Refer to
 [Register After Post Rules to a Process
-Template](Register_After_Post_Rules_to_a_Process_Template_Overview.htm)
+Template](Register_After_Post_Rules_to_a_Process_Template_Overview)
 for more information.
 
 **NOTE**: A process must be active to add or edit a process post.
@@ -54,7 +54,7 @@ To use a post process record to post data to SAP:
 4.  Click **Edit** for a posting; the *Vertical View* displays. 
     
     *[View the field descriptions for the Process Post page’s Vertical
-    View.](../Page_Desc/Process_Post_H.htm#Process_Post_V_All_Tabs)*
+    View.](../Page_Desc/Process_Post_H#Process_Post_V_All_Tabs)*
 
 5.  Enter a Where clause to limit the data set in the **Where Clause**
     field.
@@ -88,7 +88,7 @@ To use a post process record to post data to SAP:
     it to the Message table along with the results of the post. This
     script can be downloaded from the *Messages* page and can be run in
     the SAP GUI to debug a GUI script posting. Refer to [Debug a GUI
-    Script Posting](Debug_a_GUI_Script_Posting.htm) for detailed
+    Script Posting](Debug_a_GUI_Script_Posting) for detailed
     information on how to run the debug script in the SAP GUI.
     
     **NOTE:** If using the **Create GUI Debug Script** option for a
@@ -96,11 +96,11 @@ To use a post process record to post data to SAP:
     use the **Start Template Priority** and **End Template Priority**
     fields to restrict the posting to the GUI Script template only.
     Refer to [Debug a GUI Script
-    Posting](Debug_a_GUI_Script_Posting.htm) and Post a Process with
+    Posting](Debug_a_GUI_Script_Posting) and Post a Process with
     Multiple Templates for more information.
     
     **NOTE:** Refer to [BDC Post Methods and Settings on the Advanced
-    tab](../Page_Desc/BDCPostMethodsSettingsAdvTab.htm) for more
+    tab](../Page_Desc/BDCPostMethodsSettingsAdvTab) for more
     information about additional options on this tab.
 
 12. Click <span style="font-weight: bold;">Create GUI Debug
@@ -114,7 +114,7 @@ To use a post process record to post data to SAP:
     Script</span> to view the script.
     
     <span style="font-weight: bold;">NOTE</span>: Refer to [Debug a GUI
-    Script Posting](Debug_a_GUI_Script_Posting.htm) for more
+    Script Posting](Debug_a_GUI_Script_Posting) for more
     information.
 
 14. Click **Post** on the Page toolbar; a confirmation message displays.
@@ -130,7 +130,7 @@ To use a post process record to post data to SAP:
     View. If such a process is included in a process with multiple
     templates, that process can only be posted in the background as
     well. Refer to [Post a Process with Multiple
-    Templates](Post_a_Process_with_Multiple_Templates.htm) for more
+    Templates](Post_a_Process_with_Multiple_Templates) for more
     information.
 
 15. Click **Ok**.
@@ -148,5 +148,5 @@ To use a post process record to post data to SAP:
 17. If the post was unsuccessful, click the **Debug** icon for each
     message for additional information to debug the posting as well as
     to determine the exact steps being performed in SAP. Refer to [Debug
-    a GUI Script Posting](Debug_a_GUI_Script_Posting.htm) for more
+    a GUI Script Posting](Debug_a_GUI_Script_Posting) for more
     information.

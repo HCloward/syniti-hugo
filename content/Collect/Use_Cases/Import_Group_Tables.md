@@ -27,12 +27,12 @@ To import group tables:
     <span style="font-weight: bold;">Edit</span> mode.
     
     [View the field descriptions for the Group Import
-    page](../Page_Desc/Group_Import.htm)
+    page](../Page_Desc/Group_Import)
 
 5.  Select a System Type group to import from Common as a source from
     <span style="font-weight: bold;">System Type Group ID</span> list
     box. Refer to Common documentation on [System
-    Types](../../Common/Use_Cases/Add_System_Types.htm) for detailed
+    Types](../../Common/Use_Cases/Add_System_Types) for detailed
     information.
 
 6.  Select a schedule for when the target is refreshed with source data
@@ -41,7 +41,7 @@ To import group tables:
     target is refreshed on-demand via the **Build and Refresh** icon on
     the <span style="font-style: italic;">Targets</span> page. Refer to
     [Common documentation on Create
-    Schedules](../../Common/Use_Cases/Create_Schedules.htm) for detailed
+    Schedules](../../Common/Use_Cases/Create_Schedules) for detailed
     information on creating and modifying a schedule.
 
 7.  Click <span style="font-weight: bold;">Publish Schema Owner</span>

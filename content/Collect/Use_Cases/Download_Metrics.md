@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 View this page to [View Source Table
-Metrics](Register_and_Use_Sources.htm#View_Source_Table_Metrics).
+Metrics](Register_and_Use_Sources#View_Source_Table_Metrics).
 
 </div>
 

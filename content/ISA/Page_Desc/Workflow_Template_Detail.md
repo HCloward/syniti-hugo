@@ -3,7 +3,7 @@
 <div class="use">
 
 Use this page to [View and Edit All Workflow Templates From One
-Page](../Use_Cases/View_and_Edit_All_Workflow_Templates_From_One_Page.htm).
+Page](../Use_Cases/View_and_Edit_All_Workflow_Templates_From_One_Page).
 
 </div>
 

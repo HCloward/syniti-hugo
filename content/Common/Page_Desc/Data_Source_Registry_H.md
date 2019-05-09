@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Register a Data Source in
-Common](../Use_Cases/Register_a_Data_Source_in_Common.htm).
+Common](../Use_Cases/Register_a_Data_Source_in_Common).
 
 </div>
 
@@ -19,7 +19,7 @@ Configuration \> Data Source Registry</span> in the
 <span style="font-style: italic;">Navigation</span> pane.
 
 **NOTE:** Bulk Execution has been enabled on this page. Refer to [Use
-Bulk Execution](../../Bulk_Exec/Use_Bulk_Execution.htm) for more
+Bulk Execution](../../Bulk_Exec/Use_Bulk_Execution) for more
 information.
 
 <table>
@@ -50,7 +50,7 @@ information.
 <ul>
 <li>Apply the updates made to the data source in System Administration to the data source in Common manually</li>
 </ul>
-<p>Refer to <a href="../Use_Cases/Sync_Data_Sources_in_Common_and_System_Administration.htm">Sync Data Sources in Common and System Administration</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Sync_Data_Sources_in_Common_and_System_Administration">Sync Data Sources in Common and System Administration</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Admin Data Source</p></td>
@@ -67,7 +67,7 @@ information.
 <div class="use">
 
 Use this page to [Register a Data Source in
-Common](../Use_Cases/Register_a_Data_Source_in_Common.htm).
+Common](../Use_Cases/Register_a_Data_Source_in_Common).
 
 </div>
 
@@ -235,7 +235,7 @@ BackOffice reserved columns:
   - ChangedVia
 
 Refer to [Append BOA Reserved Columns to
-Tables](../../WebApp_Dev/Add%20Reserved%20Columns%20%20to%20Tables.htm)
+Tables](../../WebApp_Dev/Add%20Reserved%20Columns%20%20to%20Tables)
 in System Administration for more information.
 
 **NOTE:** This feature is not used for OleDb and ODBC data source types.
@@ -692,7 +692,7 @@ unchecked).
 ## <span id="SAP_Application_Server_____-_General"></span>SAP Application Server (%) - General
 
 Use this tab to [Establish a Connection to a Target
-System](../Use_Cases/Establish_a_Connection_to_a_target_system_Overview.htm).
+System](../Use_Cases/Establish_a_Connection_to_a_target_system_Overview).
 
 Field
 
@@ -732,7 +732,7 @@ Message Server, can be created for an SAP connection.
 
 Refer to [Establish a Connection via a Direct Connection to the
 Application
-Server](../Use_Cases/Establish_a_Connection_Direct_Connection.htm)  for
+Server](../Use_Cases/Establish_a_Connection_Direct_Connection)  for
 more information.
 
 SAP System Number
@@ -755,7 +755,7 @@ Server. Only one type of connection, direct or through a Message Server,
 can be created for an SAP connection.
 
 **NOTE:** Refer to [Establish a Connection via a Message
-Server](../Use_Cases/Establish_a_Connection_via_a_Message_Server.htm)
+Server](../Use_Cases/Establish_a_Connection_via_a_Message_Server)
  for more information.
 
 SAP Logon Group
@@ -790,11 +790,11 @@ User Credentials
 
 Click to open the <span style="font-style: italic;">[Data Source
 Registry User
-Credentials](Data_Source_Registry_User_Credentials_H.htm)</span> page to
+Credentials](Data_Source_Registry_User_Credentials_H)</span> page to
 add user credentials to log in to SAP to specific user accounts.
 
 Refer to [Add User Credentials to an SAP Connection for a Specific
-User](../Use_Cases/Add_User_Credentials_to_an_SAP_Connection_for_a_Specific_Use.htm)
+User](../Use_Cases/Add_User_Credentials_to_an_SAP_Connection_for_a_Specific_Use)
 for more information.
 
 RFC
@@ -802,7 +802,7 @@ RFC
 RFC Functions
 
 Click to open the <span style="font-style: italic;">[SAP Connections:
-RFCs](SAP_RFC.htm)</span> page to view a list of RFCs enabled in the SAP
+RFCs](SAP_RFC)</span> page to view a list of RFCs enabled in the SAP
 System and a description of each.
 
 The list displays after a user clicks the RFC Extracts icon.

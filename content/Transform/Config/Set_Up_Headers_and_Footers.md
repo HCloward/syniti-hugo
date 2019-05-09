@@ -23,13 +23,13 @@ they can be updated at any time.
 Use two pages in Console to set up headers and footers.
 
   - Use the *[Report Headers / Footers
-    (Setup)](../../Console/Page_Desc/Report_Headers_Footers_Setup.htm)*
+    (Setup)](../../Console/Page_Desc/Report_Headers_Footers_Setup)*
     page to add the text or data to appear in the header and footer.
 
 **NOTE:** Console allows a user to add multiple headers and footers.
 
   - Use the **Transform** tab on the
-    *[Parameters](../../Console/Page_Desc/Parameters.htm)* page to set
+    *[Parameters](../../Console/Page_Desc/Parameters)* page to set
     the header and footer to use for reports.
 
 The following values are available to use in headers and
@@ -38,14 +38,14 @@ footers:
 |                |                                                                                                                                                                        |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Value          | Description                                                                                                                                                            |
-| File           | Displays the file name of the report. Refer to [Naming Conventions](../Use_Cases/Naming_Conventions.htm) for more information.                                         |
+| File           | Displays the file name of the report. Refer to [Naming Conventions](../Use_Cases/Naming_Conventions) for more information.                                         |
 | File Date      | Displays the date the file was last saved.                                                                                                                             |
 | File Time      | Displays the time the file was last saved.                                                                                                                             |
 | Generated Date | Displays the date the report was generated in Transform.                                                                                                               |
 | Page n of x    | Displays the current page and total number of pages in the report.                                                                                                     |
 | Page number    | Displays the current page number.                                                                                                                                      |
 | Path           | Displays the path where the report is stored, entered in the Report Path field on the Transform tab of the *Parameters* page in Console.                               |
-| Path and file  | Displays the path where the report is stored and the file name of the report. Refer to [Naming Conventions](../Use_Cases/Naming_Conventions.htm) for more information. |
+| Path and file  | Displays the path where the report is stored and the file name of the report. Refer to [Naming Conventions](../Use_Cases/Naming_Conventions) for more information. |
 | Sheet          | Displays the number of the sheet, used to differentiate a sheet that spans multiple pages from a page number.                                                          |
 | Total pages    | Displays the total number of pages in the report.                                                                                                                      |
 
@@ -59,7 +59,7 @@ To add a header and footer in Console:
 2.  Click **Add**.
     
     [View the field descriptions for the Report Headers/Footers (Setup)
-    page](../../Console/Page_Desc/Report_Headers_Footers_Setup.htm)
+    page](../../Console/Page_Desc/Report_Headers_Footers_Setup)
 
 3.  Enter a description of the header or footer in the **DESCRIPTION**
     field.
@@ -95,7 +95,7 @@ To set the header and footer used in reports in Transform:
 1.  Select **Advanced Configuration \> Parameters** in the *Navigation*
     pane.
 2.  Click the **Transform** tab on the
-    *[Parameters](../../Console/Page_Desc/Parameters.htm)* page.
+    *[Parameters](../../Console/Page_Desc/Parameters)* page.
 3.  Click **Edit**.
 4.  Select a report description in the **Report Header** list box under
     Report Settings.

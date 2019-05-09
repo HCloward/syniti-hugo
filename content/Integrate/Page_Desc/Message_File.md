@@ -9,10 +9,10 @@ solution = 'Platform'
 
 Use this page to view messages while [Using a Process Post Record to
 Post to SAP for a Process Based on a GUI Script
-Template](../Use_Cases/Post_Data_for_a_Process_Based_on_a_GUI_Script_Template.htm)
+Template](../Use_Cases/Post_Data_for_a_Process_Based_on_a_GUI_Script_Template)
 or [Using a Process Post Record to Post to SAP for a Process Based on a
 BDC Script
-Template](../Use_Cases/Post_Data_for_a_Process_Based_on_a_BDC_Script_Template.htm)
+Template](../Use_Cases/Post_Data_for_a_Process_Based_on_a_BDC_Script_Template)
 
 </div>
 

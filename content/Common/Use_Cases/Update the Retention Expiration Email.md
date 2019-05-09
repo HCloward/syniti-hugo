@@ -9,7 +9,7 @@ A Common Administrator can update the text that appears in the subject
 line and body of the workflow email sent to Data Controllers when an
 object’s retention date is within the number of days set in the
 Retention Expiration Date Notification field on the *[Parameters -
-Collect](../Page_Desc/Parameters_Collect.htm)* page's Workflow Settings
+Collect](../Page_Desc/Parameters_Collect)* page's Workflow Settings
 tab.
 
 To update the workflow email in Common:
@@ -24,7 +24,7 @@ To update the workflow email in Common:
 4.  Click **Edit**.
     
     [View the field descriptions for the Retention Expiration Email
-    page](../../Collect/Page_Desc/Retention_Expiration_Email.htm)
+    page](../../Collect/Page_Desc/Retention_Expiration_Email)
 
 5.  Update the **Subject Line** and **Email Body** fields.
     

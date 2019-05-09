@@ -30,5 +30,5 @@ To run the process manually:
 The data should download to the designated tables.
 
 Refer to [Register Tables for Download as a Finish
-Process](Register_Tables_to_Download_as_a_Finish_Process_Using_Collect.htm)
+Process](Register_Tables_to_Download_as_a_Finish_Process_Using_Collect)
 for more information.

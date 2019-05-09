@@ -9,7 +9,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Create Schedules](../Use_Cases/Create_Schedules.htm).
+Use this page to [Create Schedules](../Use_Cases/Create_Schedules).
 
 </div>
 
@@ -28,11 +28,11 @@ pane.
 
 ## <span id="Schedules_V"></span>Schedules V
 
-[Schedules H](Schedules_H.htm)
+[Schedules H](Schedules_H)
 
 <div class="use">
 
-Use this page to [Create Schedules](../Use_Cases/Create_Schedules.htm).
+Use this page to [Create Schedules](../Use_Cases/Create_Schedules).
 
 </div>
 
@@ -54,7 +54,7 @@ Recurrence Settings
 
 Recurrence ID
 
-Click to open the *[Schedule - Configure](Schedule_Configure.htm)* page
+Click to open the *[Schedule - Configure](Schedule_Configure)* page
 to configure the schedule recurrence.
 
 Next Run Time

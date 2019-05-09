@@ -13,9 +13,9 @@ Hover a cursor over a section of a chart to view the count of mappings
 for that status.
 
 Click a bar to view the [Field Mapping by Wave and Process
-Area](Field_Mapping_by_Wave_and_Process_Area.htm) chart.
+Area](Field_Mapping_by_Wave_and_Process_Area) chart.
 
-Refer to [View Dashboards in Map](View_Dashboards_in_Map.htm) for
+Refer to [View Dashboards in Map](View_Dashboards_in_Map) for
 general information about chart features.
 
 To access this chart in Console:

@@ -8,7 +8,7 @@ solution = 'Data Quality'
 <div class="use">
 
 Use this page to [View Your Application Table
-Columns](../Use_Cases/View_Your_Application_Table_Columns.htm).
+Columns](../Use_Cases/View_Your_Application_Table_Columns).
 
 </div>
 
@@ -35,7 +35,7 @@ To access this page:
 <tr class="even">
 <td><p>SIGMA LEVEL</p></td>
 <td><p>Displays the sigma level based on data quality score calculations.</p>
-<p>The Enable Sigma Level checkbox on the <em><a href="Parameters.htm">Parameters</a></em> page must be checked for this field to display.</p></td>
+<p>The Enable Sigma Level checkbox on the <em><a href="Parameters">Parameters</a></em> page must be checked for this field to display.</p></td>
 </tr>
 <tr class="odd">
 <td><p>OPPORTUNITIES</p></td>
@@ -71,7 +71,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Reports</p></td>
-<td><p>Click to open the <em><a href="Your_Application_Table_Column_Reports_H.htm">Your Application Table Column Reports</a></em> page to view the reports.</p></td>
+<td><p>Click to open the <em><a href="Your_Application_Table_Column_Reports_H">Your Application Table Column Reports</a></em> page to view the reports.</p></td>
 </tr>
 </tbody>
 </table>

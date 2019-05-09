@@ -9,7 +9,7 @@ solution = 'Migration'
 
 Use this page to edit the import file data source path if necessary
 while [Importing Target Design from an Excel
-File](../Use_Cases/Import_from_an_Excel_File.htm).
+File](../Use_Cases/Import_from_an_Excel_File).
 
 </div>
 

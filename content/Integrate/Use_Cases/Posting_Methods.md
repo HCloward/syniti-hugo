@@ -18,7 +18,7 @@ This post method immediately posts data in the foreground. 
 To use this method, either,
 
   - Click **Post** on the *[*Process
-    Post*](../Page_Desc/Process_Post_H.htm)* page
+    Post*](../Page_Desc/Process_Post_H)* page
   - Click **Post** in the Page toolbar on the *Vertical* View of the
     *Process Post* page
   - Click **Foreground Post** on the Posting tab of the *Process Post*

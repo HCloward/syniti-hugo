@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to view all [dependency
-types](../Use_Cases/Use_Dependency_Types.htm) for all tasks in all plan
+types](../Use_Cases/Use_Dependency_Types) for all tasks in all plan
 in the project.
 
 </div>
@@ -57,7 +57,7 @@ To access this page:
 <li>Finish to Start</li>
 <li>Finish to Finish</li>
 </ul>
-<p>Refer to <a href="../Use_Cases/Use_Dependency_Types.htm">Use Dependency Types</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Use_Dependency_Types">Use Dependency Types</a> for more information.</p></td>
 </tr>
 </tbody>
 </table>

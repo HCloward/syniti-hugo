@@ -2,7 +2,7 @@
 
 <div class="use">
 
-Use this page to [View ISA Log](../Use_Cases/View_ISA_Log.htm).
+Use this page to [View ISA Log](../Use_Cases/View_ISA_Log).
 
 </div>
 

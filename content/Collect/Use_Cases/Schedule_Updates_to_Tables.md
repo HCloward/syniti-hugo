@@ -13,7 +13,7 @@ targets and sources.
 **<span class="underline"><span style="color: #ff0000;">all</span></span>**
 tables in a Source. Use this method rather than directly updating the
 schedules via the [<span style="font-style: italic;">Target Source
-Tables</span>](../Page_Desc/Target_Source_Tables.htm) page so the new
+Tables</span>](../Page_Desc/Target_Source_Tables) page so the new
 Next Schedule Run Times are calculated correctly.
 
 This feature covers the following topics:
@@ -34,7 +34,7 @@ To clear all schedules for targets and sources:
 2.  Click **Edit**.
     
     [View the field descriptions for the Bulk Table Schedule Update
-    page.](../Page_Desc/Bulk_Table_Schedule_Update.htm)
+    page.](../Page_Desc/Bulk_Table_Schedule_Update)
 
 3.  Select a target database from **Schedule Target** list box.
 
@@ -67,7 +67,7 @@ To update all schedules for a target and a source:
 2.  Click **Edit**.
     
     [View the field descriptions for the Bulk Table Schedule Update
-    page.](../Page_Desc/Bulk_Table_Schedule_Update.htm)
+    page.](../Page_Desc/Bulk_Table_Schedule_Update)
 
 3.  Select a target database from **Schedule Target** list box.
 

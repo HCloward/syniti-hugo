@@ -21,7 +21,7 @@ To configure the path:
 3.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the Data Sources page's Vertical
-    View](../../../Platform/Sys_Admin/Page_Desc/Data_Sources_HSysAdmi.htm#Data_Sources_V_All_Tabs)
+    View](../../../Platform/Sys_Admin/Page_Desc/Data_Sources_HSysAdmi#Data_Sources_V_All_Tabs)
 
 4.  Configure the path in the
     <span style="font-weight: bold;">Path</span> field.

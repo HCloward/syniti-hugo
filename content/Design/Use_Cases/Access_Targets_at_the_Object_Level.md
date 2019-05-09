@@ -9,7 +9,7 @@ In Console, Objects are added and assigned to a Wave-Process Area to
 create a context.
 
 Refer to [Add an
-Object](../../Console/Use_Cases/Add_Elements_Separately.htm#Add3) for
+Object](../../Console/Use_Cases/Add_Elements_Separately#Add3) for
 more information.
 
 Targets can then be added to an Object in Target Design.
@@ -21,7 +21,7 @@ To access Targets at the Object level in Target Design:
 
 1.  Click **Design** in the *Navigation* pane.
 
-2.  Click the **Objects**icon on the [Design](../Page_Desc/Design.htm)
+2.  Click the **Objects**icon on the [Design](../Page_Desc/Design)
     page.
     
     **NOTE**: The Objects that are available are those Objects that have

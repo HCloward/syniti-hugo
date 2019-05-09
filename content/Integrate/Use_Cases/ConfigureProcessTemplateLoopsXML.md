@@ -21,7 +21,7 @@ Database Objects feature to automatically generate tables and views in
 the database, values for the **VIEW NAME** and **PRIMARY KEY COLUMN
 NAME** on the *Process Template Loop* page, and relationships between
 parent and children loops. Refer to [Generate Database Objects
-Automatically](Generate_Database_Objects_Automatically.htm) for more
+Automatically](Generate_Database_Objects_Automatically) for more
 information.
 
 To configure the process template loops for an XML Template
@@ -35,7 +35,7 @@ automatically:
     XML template.
     
     *[View the field descriptions for the Process Template Loop
-    page.](../Page_Desc/Process_Template_Loop.htm)*
+    page.](../Page_Desc/Process_Template_Loop)*
     
     **NOTE**: The **Loops** icon displays the number of structures added
     to the User Defined XML template during template creation.
@@ -86,7 +86,7 @@ automatically:
     
     **NOTE**: A user can also add, update or delete parent child
     relationships manually. Refer to [Configure Process Template Loops
-    for an XML Template](ConfigureProcessTemplateLoopsXML.htm) for more
+    for an XML Template](ConfigureProcessTemplateLoopsXML) for more
     information.
 
 10. Navigate to the *Process* page.
@@ -99,7 +99,7 @@ automatically:
     
     *[View the field descriptions for the Process Templates page’s
     Vertical
-    View.](../Page_Desc/Process_Templates_H.htm#Process_Templates_V)*
+    View.](../Page_Desc/Process_Templates_H#Process_Templates_V)*
 
 14. Enter the file name format in **File Name Format** to override the
     default (if necessary).

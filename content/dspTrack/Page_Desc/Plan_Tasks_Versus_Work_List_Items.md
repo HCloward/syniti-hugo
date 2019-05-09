@@ -6,8 +6,8 @@ solution = 'Platform'
 # Plan Tasks Versus Work List Items
 
 Plan Tasks can be added to a Project and Plan through an
-[import](../Use_Cases/Import_Project_Files_into_dspTrack.htm) or
-[manually](../Use_Cases/Add_a_Plan_Task_Manually.htm).
+[import](../Use_Cases/Import_Project_Files_into_dspTrack) or
+[manually](../Use_Cases/Add_a_Plan_Task_Manually).
 
 Work List Items are ad hoc tasks that can be added outside of project
 and plans.
@@ -36,6 +36,6 @@ in the PROJECT and PLAN fields on the
 <span style="font-style: italic;">Work List Setup</span> page. These
 fields are blank for Work List Items.
 
-Refer to [Work with Plan Tasks](../Use_Cases/Work_with_Plan_Tasks.htm)
+Refer to [Work with Plan Tasks](../Use_Cases/Work_with_Plan_Tasks)
 and  [Work with Work List
-Items](../Use_Cases/Work_with_Work_List_Items.htm) for more information.
+Items](../Use_Cases/Work_with_Work_List_Items) for more information.

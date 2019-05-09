@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Add Custom Information
-Types.](../Use_Cases/Add%20Custom%20Data%20Classifications%20and%20Information%20Types.htm)
+Types.](../Use_Cases/Add%20Custom%20Data%20Classifications%20and%20Information%20Types)
 
 </div>
 

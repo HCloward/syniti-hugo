@@ -5,7 +5,7 @@
 <div class="use">
 
 Use this page to [View a User’s
-Workflows](../Use_Cases/View_a_Users_Workflows_ISA.htm).
+Workflows](../Use_Cases/View_a_Users_Workflows_ISA).
 
 </div>
 
@@ -31,7 +31,7 @@ user.
 <div class="use">
 
 Use this page to [View a User’s
-Workflows](../Use_Cases/View_a_Users_Workflows_ISA.htm).
+Workflows](../Use_Cases/View_a_Users_Workflows_ISA).
 
 </div>
 

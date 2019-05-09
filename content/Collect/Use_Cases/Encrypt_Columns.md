@@ -6,7 +6,7 @@ solution = 'Platform'
 # Encrypt Columns
 
 Before performing this task, [Register Tables to
-Source](Register_Tables_to_Source.htm).
+Source](Register_Tables_to_Source).
 
 Encrypt source table columns to mask values when the table is
 downloaded.
@@ -14,7 +14,7 @@ downloaded.
 To encrypt columns in a source table:
 
 1.  Create encryption key in **Common \> Configuration \> Modules \>
-    Keys**. Refer to [Add Keys](../../Common/Use_Cases/Add_Keys.htm) for
+    Keys**. Refer to [Add Keys](../../Common/Use_Cases/Add_Keys) for
     detailed information.
 
 2.  Return to Collect.
@@ -32,7 +32,7 @@ To encrypt columns in a source table:
     
     [View the field descriptions for the Target Source Table Column
     Encryption
-    page](../Page_Desc/Target_Source_Table_Column_Encryption.htm)
+    page](../Page_Desc/Target_Source_Table_Column_Encryption)
 
 8.  Select a key from **Encryption Key** list box to control the
     algorithm used to encrypt the column.
@@ -63,9 +63,9 @@ in the vertical view of the table.
 Build** is enabled for the Source or manually delete the encrypted table
 from the database. Build the package by clicking the Build Package on
 the Vertical View on the *Tables* page. Refer to [Build Package for
-Table](Build_Package_for_Table.htm) for more information.
+Table](Build_Package_for_Table) for more information.
 
 **NOTE:** When encryption is removed from a table, the table structure
 is reverted to the original structure.
 
-Continue with [Configure RFC Options](Configure_RFC_Options.htm).
+Continue with [Configure RFC Options](Configure_RFC_Options).

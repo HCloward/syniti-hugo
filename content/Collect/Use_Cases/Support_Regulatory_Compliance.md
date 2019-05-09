@@ -20,7 +20,7 @@ Settings must be configured before compliance can begin.
     Administration. By default, the DSP tracks access to all pages;
     however, an Administrator can control which pages are tracked. Refer
     to [Log Access to Personal Data
-    i](../../Sys_Admin/Use_Cases/Log%20Events%20and%20Access%20to%20Personal%20Data.htm)n
+    i](../../Sys_Admin/Use_Cases/Log%20Events%20and%20Access%20to%20Personal%20Data)n
     System Administration for more information.
   - At the client site, an Administrator must also set up auditing for
     these specific tables in the DataSource named “DataGarage”.
@@ -34,7 +34,7 @@ e-signature is required and captured in the audit records.
   - At the client site, an Administrator should also set up auditing for
     any tables that contain regulated data. Refer to [Enable Auditing
     for Tables with Personal
-    Information](../../Sys_Admin/Use_Cases/Enable%20Auditing%20for%20Tables%20with%20Personal%20Information.htm)
+    Information](../../Sys_Admin/Use_Cases/Enable%20Auditing%20for%20Tables%20with%20Personal%20Information)
     in System Administration for more information.
   - A Collect Administrator must [configure data
     protection](#Configure_Data_Protection) for Targets, Sources and
@@ -43,12 +43,12 @@ e-signature is required and captured in the audit records.
 Additionally a Common Administrator can:
 
   - [Add custom data classifications and information
-    types](../../Common/Use_Cases/Add%20Custom%20Data%20Classifications%20and%20Information%20Types.htm)
+    types](../../Common/Use_Cases/Add%20Custom%20Data%20Classifications%20and%20Information%20Types)
     as needed
   - [Update Retention Expiration Warning
-    Period](../../Common/Use_Cases/Update%20Retention%20Expiration%20Warning%20Period.htm)
+    Period](../../Common/Use_Cases/Update%20Retention%20Expiration%20Warning%20Period)
   - [Update the Retention Expiration
-    Email](../../Common/Use_Cases/Update%20the%20Retention%20Expiration%20Email.htm)
+    Email](../../Common/Use_Cases/Update%20the%20Retention%20Expiration%20Email)
 
 Any user who has access to the target can:
 
@@ -99,9 +99,9 @@ Collect:
 4.  Click **Edit**.
     
     View the field descriptions for the Data Protection tab for
-    [Targets](../Page_Desc/Targets_H_Collect.htm#Data), [Target
-    Sources,](../Page_Desc/Target_Sources_H_Collect.htm#Data_Protection)
-    or [Tables](../Page_Desc/Tables_H.htm#Data)
+    [Targets](../Page_Desc/Targets_H_Collect#Data), [Target
+    Sources,](../Page_Desc/Target_Sources_H_Collect#Data_Protection)
+    or [Tables](../Page_Desc/Tables_H#Data)
 
 5.  Select the user or group responsible for processing personal data
     for the object from the **Data Controller** list box.
@@ -112,7 +112,7 @@ Collect:
     **NOTE:** The Collect Administrator must check the WORK FLOW SUMMARY
     check box for the target and Data Controller on the *[Workflow
     Summary User
-    Settings](../Page_Desc/Workflow_Summary_User_Settings.htm)* page.
+    Settings](../Page_Desc/Workflow_Summary_User_Settings)* page.
     The Data Controller is added to this page automatically. If the
     check box is not checked, the Data Controller will not receive a
     warning email that data is going to be purged.
@@ -242,9 +242,9 @@ To update the retention expiration date in Collect:
 4.  Click **Edit**.
     
     View the field descriptions for the Data Protection tab for
-    [Targets](../Page_Desc/Targets_H_Collect.htm#Data), [Target
-    Sources](../Page_Desc/Target_Sources_H_Collect.htm#Data_Protection)
-    or [Tables](../Page_Desc/Tables_H.htm#Data)
+    [Targets](../Page_Desc/Targets_H_Collect#Data), [Target
+    Sources](../Page_Desc/Target_Sources_H_Collect#Data_Protection)
+    or [Tables](../Page_Desc/Tables_H#Data)
 
 5.  Select the date when the object’s data is deleted from a table(s) in
     the **Retention Expiration Date** field.

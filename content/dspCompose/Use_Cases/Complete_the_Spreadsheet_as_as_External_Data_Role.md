@@ -10,7 +10,7 @@ Data Email Account to the external contact for the External Data role.
 The spreadsheet contains current request data.
 
 Refer to [Set up an External Data Email
-Account](../Config/Set_up_an_External_Data_Email_Account.htm) for more
+Account](../Config/Set_up_an_External_Data_Email_Account) for more
 information.
 
 To complete the spreadsheet as an External Data role:
@@ -23,7 +23,7 @@ To complete the spreadsheet as an External Data role:
     
     **NOTE:** The spreadsheet will reflect the formatting configured for
     the template role. Refer to [Configure Columns for File Generation
-    and Data Entry](Configure_Columns_for_File_Generation.htm) for more
+    and Data Entry](Configure_Columns_for_File_Generation) for more
     information.
     
     **NOTE:** The first three lines of the spreadsheet that appear with
@@ -53,9 +53,9 @@ those validations, dspCompose™ sends the spreadsheet back to the
 External Data role for correction.
 
 Refer to Set up Email Validations[Set up Email
-Validations](Set_up_Email_Validations.htm) and [Add Custom Email
+Validations](Set_up_Email_Validations) and [Add Custom Email
 Validation
-Rules](Set_up_Email_Validations.htm#Add_Custom_Email_Validations) for
+Rules](Set_up_Email_Validations#Add_Custom_Email_Validations) for
 more information.
 
 dspCompose™ polls the External Data Email Account, collects emails, and

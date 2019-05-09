@@ -15,7 +15,7 @@ Hover a cursor over the Completed section to view the count of Completed
 value mappings for the Wave. A value mapping is completed after it has
 been mapped on the <span style="font-style: italic;">[Value Mapping
 (Legacy to
-Target)](../Page_Desc/Value_Mapping_Legacy_to_Target_H.htm)</span> page.
+Target)](../Page_Desc/Value_Mapping_Legacy_to_Target_H)</span> page.
 
 Hover a cursor over the In Process section to view the count of in
 process value mappings for the Wave. A value mapping status is In
@@ -24,12 +24,12 @@ RELEVANT check box is disabled on the Value Mapping (Legacy to Target)
 page.
 
 Click a bar to open the <span style="font-style: italic;">[Value
-Mapping](../Page_Desc/Value_Mapping.htm)</span> page to view the status
+Mapping](../Page_Desc/Value_Mapping)</span> page to view the status
 of each check table’s value mapping. The MAPPED PERCENT field displays
 the mapping status for each check table.
 
 Refer to [View Dashboards in
-Map](../Use_Cases/View_Dashboards_in_Map.htm) for general information
+Map](../Use_Cases/View_Dashboards_in_Map) for general information
 about chart features.
 
 To access this chart in Console:
@@ -47,4 +47,4 @@ To access the chart in Map:
 1.  Click **Map** in the Context bar.
 2.  Click the <span style="font-weight: bold;">Mapping Values</span>
     icon on the *[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)* page.
+    Launch](../Page_Desc/Process_Area_Launch_map)* page.

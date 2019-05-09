@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Replace an Element
-Document](Replace_an_Element_Document.htm).
+Document](Replace_an_Element_Document).
 
 </div>
 

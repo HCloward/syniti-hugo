@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Add Org
-Units](../Use_Cases/Manage_Org_Units.htm#Add_Org_Units).
+Units](../Use_Cases/Manage_Org_Units#Add_Org_Units).
 
 </div>
 

@@ -18,7 +18,7 @@ necessary for workflow events.
 **NOTE**: It is recommended to synchronize Retry Intervals and Interface
 Schedules so that two Instances of the same interface are not attempting
 to run at the same time. Refer to [Schedule
-Interfaces](Schedule_Interfaces.htm) for more information.
+Interfaces](Schedule_Interfaces) for more information.
 
 Once you have created an interface and added an event, set the Retry
 Parameters.
@@ -36,7 +36,7 @@ To set Retry Parameters in Automate:
 5.  Click **Edit**.
     
     [View the field description for the Interface Events page’s Vertical
-    View](../Page_Desc/Interface_Events.htm#InterfaceEventsV)
+    View](../Page_Desc/Interface_Events#InterfaceEventsV)
 
 6.  Enter an interval at which to retry running the stored procedure
     event in the **Retry Interval** field.

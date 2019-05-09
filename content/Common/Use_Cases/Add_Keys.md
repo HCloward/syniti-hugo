@@ -22,10 +22,10 @@ person who set up the process knowing the password.
 To add keys:
 
   - [Encrypt CranSoft Data Source
-    Password](Encrypt_CranSoft_Data_Source_Password.htm)
+    Password](Encrypt_CranSoft_Data_Source_Password)
 
-  - [Create a Secure Key](Create_a_Secure_Key.htm)
+  - [Create a Secure Key](Create_a_Secure_Key)
     
     Additionally, information is provided about [Forgotten/Incorrect
     Encryption
-    Password.](Forgotten_Incorrect_Encryption%20Passwords.htm)
+    Password.](Forgotten_Incorrect_Encryption%20Passwords)

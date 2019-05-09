@@ -16,9 +16,9 @@ To deactivate/activate tables for profiling:
 
 1.  Click **Common \>  Analyze** in the *Navigation* pane.
     
-    **NOTE**: The [Analyze](../Page_Desc/Analyze.htm) page displays Data
+    **NOTE**: The [Analyze](../Page_Desc/Analyze) page displays Data
     Sources registered in System Administration that are not added to
-    the [Ignore Data Sources](Ignore_Data_Sources.htm) page and to which
+    the [Ignore Data Sources](Ignore_Data_Sources) page and to which
     the logged in user has security to view. Data Sources are analyzed
     for database object changes, table statistics and duplicate records.
 
@@ -27,7 +27,7 @@ To deactivate/activate tables for profiling:
 3.  Click **Tables**.
     
     [View the field descriptions for the Table (Results)
-    page](../Page_Desc/Table_Results_H.htm)
+    page](../Page_Desc/Table_Results_H)
 
 4.  Click **Active** check box for a table to disable the check box,
     which excludes the table from being profiled. The Active All Tables

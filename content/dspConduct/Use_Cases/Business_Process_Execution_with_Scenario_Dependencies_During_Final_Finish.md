@@ -14,7 +14,7 @@ its dependent scenario is complete.
 
 If no scenario dependencies are present, requests are created and posted
 based on scenario priority. Refer to [Business Process Execution During
-Final Finish](Business_Process_Execution_During_Final_Finish.htm) for
+Final Finish](Business_Process_Execution_During_Final_Finish) for
 more information.
 
 For example, business process 1 has scenarios A and D. At the scenario
@@ -32,7 +32,7 @@ are complete, even though they are not included in the business process.
 
 <span style="font-weight: bold;">NOTE</span>: A dependent scenario may
 exist in another category. Refer to [Allow a Scenario to be used in
-Other Categories](Allow_a_Scenario_to_be_used_in_Other_Categories.htm)
+Other Categories](Allow_a_Scenario_to_be_used_in_Other_Categories)
 for more information.
 
 <span style="font-weight: bold;">NOTE</span>: When a business process
@@ -55,7 +55,7 @@ Cransoft UserID 'process' must have access to the Content Request page
 in order to execute the OnValidate event.
 
 Refer to [Assign a Dependent Scenario to a
-Scenario](Add_a_Dependent_Scenario.htm) for more information.
+Scenario](Add_a_Dependent_Scenario) for more information.
 
 For example, a business process has 4 scenarios:
 

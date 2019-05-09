@@ -15,7 +15,7 @@ To configure debug log settings:
 2.  Click **Edit** for the component.
     
     [View the field descriptions for the Debug Logs
-    page](../Page_Desc/Debug_Logs.htm)
+    page](../Page_Desc/Debug_Logs)
 
 3.  Select a debugging level from <span style="font-weight: bold;">TRACE
     LEVEL</span> list box, which corresponds to the severity of the

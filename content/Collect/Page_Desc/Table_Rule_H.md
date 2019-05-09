@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Register Rules to
-Tables](../Use_Cases/Add_Rules_and_Indices_to_Tables.htm#Register_Rules_to_Tables).
+Tables](../Use_Cases/Add_Rules_and_Indices_to_Tables#Register_Rules_to_Tables).
 
 </div>
 
@@ -77,12 +77,12 @@ To access this page:
 
 ### <span id="Table_Rule_V"></span>Table (Rule) V
 
-[Table (Rule) H](Table_Rule_H.htm)
+[Table (Rule) H](Table_Rule_H)
 
 <div class="use">
 
 Use this page to [Register Rules to
-Tables](../Use_Cases/Add_Rules_and_Indices_to_Tables.htm#Register_Rules_to_Tables).
+Tables](../Use_Cases/Add_Rules_and_Indices_to_Tables#Register_Rules_to_Tables).
 
 </div>
 

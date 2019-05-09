@@ -19,7 +19,7 @@ To add indices:
 4.  Click **Add**.
     
     [View the field descriptions for the System Types Table Indices
-    page](../Page_Desc/System_Types_Table_Indices.htm)
+    page](../Page_Desc/System_Types_Table_Indices)
 
 5.  Enter a name in **INDEX NAME** field.
 
@@ -48,7 +48,7 @@ To add indices:
     toolbar.
     
     [View the field descriptions for the System Types Index Fields
-    page](../Page_Desc/System_Types_Index_Fields.htm)
+    page](../Page_Desc/System_Types_Index_Fields)
 
 4.  Select field in column that exists in index from **SYSTEM TYPE TABLE
     FIELD ID** list box.

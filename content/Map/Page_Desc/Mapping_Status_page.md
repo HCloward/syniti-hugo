@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Configure Mapping
-Status](../Use_Cases/Mapping_Status_and_Rule_Status.htm#Configure_Mapping_Status_and_Rule_Status).
+Status](../Use_Cases/Mapping_Status_and_Rule_Status#Configure_Mapping_Status_and_Rule_Status).
 
 </div>
 
@@ -33,11 +33,11 @@ To access this page in dspMigrate:
 </tr>
 <tr class="odd">
 <td><p>DESCRIPTION</p></td>
-<td><p>Displays a description of the Mapping Status. This description displays on the hover text over the image on the <span style="font-style: italic;"><a href="Field_Mappings_H.htm">Field Mappings</a></span> page’s <span style="font-style: italic;">Horizontal</span> View.</p></td>
+<td><p>Displays a description of the Mapping Status. This description displays on the hover text over the image on the <span style="font-style: italic;"><a href="Field_Mappings_H">Field Mappings</a></span> page’s <span style="font-style: italic;">Horizontal</span> View.</p></td>
 </tr>
 <tr class="even">
 <td><p>IMAGE NAME</p></td>
-<td><p>Displays the name of the image that displays for this status on the <span style="font-style: italic;"><a href="Field_Mappings_H.htm">Field Mappings</a></span> page’s <span style="font-style: italic;">Horizontal</span> View.</p></td>
+<td><p>Displays the name of the image that displays for this status on the <span style="font-style: italic;"><a href="Field_Mappings_H">Field Mappings</a></span> page’s <span style="font-style: italic;">Horizontal</span> View.</p></td>
 </tr>
 <tr class="odd">
 <td><p>DEFAULT STATUS</p></td>
@@ -45,7 +45,7 @@ To access this page in dspMigrate:
 </tr>
 <tr class="even">
 <td><p>TRACK HISTORY</p></td>
-<td><p>If checked, when a mapping is assigned this status, it is tracked on the <span style="font-style: italic;"><a href="Field_Mapping_History.htm">Field Mapping History</a></span> page.</p></td>
+<td><p>If checked, when a mapping is assigned this status, it is tracked on the <span style="font-style: italic;"><a href="Field_Mapping_History">Field Mapping History</a></span> page.</p></td>
 </tr>
 <tr class="odd">
 <td><p>DSP SUPPLIED</p></td>

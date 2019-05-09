@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [view fields required for System Type
-tables](../Use_Cases/View%20Fields%20Required%20for%20System%20Type%20Tables.htm).
+tables](../Use_Cases/View%20Fields%20Required%20for%20System%20Type%20Tables).
 
 </div>
 
@@ -22,7 +22,7 @@ To access this page:
 
 <span style="font-weight: bold;">NOTE:</span> Excel Integration has been
 enabled on this page. Refer to [Use Excel
-Integration](../../Excel_Int/Use_Excel_Integration.htm) for more
+Integration](../../Excel_Int/Use_Excel_Integration) for more
 information.
 
 |              |                                                          |

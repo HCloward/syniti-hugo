@@ -10,9 +10,9 @@ solution = 'Platform'
 Use this page to:
 
   - [Set a Comment Code for a Work List
-    Item](../Use_Cases/Set_a_Comment_Code_for_a_Work_List_Item.htm)
+    Item](../Use_Cases/Set_a_Comment_Code_for_a_Work_List_Item)
   - [Set a Comment Code for a Plan
-    Task](../Use_Cases/Set_a_Comment_Code_for_a_Plan_Task.htm)
+    Task](../Use_Cases/Set_a_Comment_Code_for_a_Plan_Task)
 
 </div>
 

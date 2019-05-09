@@ -5,15 +5,15 @@ solution = 'Master Data Management'
 
 # Role Request Duration
 
-When accessed from the *[Category](Category_H.htm)* page’s *Vertical*
+When accessed from the *[Category](Category_H)* page’s *Vertical*
 View, this chart displays the average duration in days of active
 requests for all roles in the category. When accessed from the
-*[Role](Role_H_dspConduct.htm)* page’s *Vertical* View, this chart
+*[Role](Role_H_dspConduct)* page’s *Vertical* View, this chart
 displays the average duration of active requests for the selected role.
 
-Click a bar to drill down to the *[Role](Role_H_dspConduct.htm)* page.
+Click a bar to drill down to the *[Role](Role_H_dspConduct)* page.
 
-Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts.htm) for
+Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts) for
 general information about chart features.
 
 To access the chart:

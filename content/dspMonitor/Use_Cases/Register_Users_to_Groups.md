@@ -25,7 +25,7 @@ To register a user to a group:
 3.  Click **Add**.
     
     [View the field descriptions for the Group Users
-    page](../Page_Desc/Group_Users.htm)
+    page](../Page_Desc/Group_Users)
 
 4.  Select a user from **USER ID** list box.
     

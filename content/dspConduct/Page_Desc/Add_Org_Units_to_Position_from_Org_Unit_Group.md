@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [add org units from a group to all roles in a
-position](../Use_Cases/Add_Org_Units_from_a_Group_to_Roles.htm).
+position](../Use_Cases/Add_Org_Units_from_a_Group_to_Roles).
 
 </div>
 

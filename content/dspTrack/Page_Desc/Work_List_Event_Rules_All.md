@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [View or Edit All Work List Event
-Rules](../Use_Cases/View_and_Edit_All_Event_Rules.htm).
+Rules](../Use_Cases/View_and_Edit_All_Event_Rules).
 
 </div>
 
@@ -38,7 +38,7 @@ All**  from the *Navigation* pane.
 </tr>
 <tr class="odd">
 <td><p>TAG ID</p></td>
-<td><p>Displays the name of the tag used to assign a task to the rule. Refer to <a href="../Use_Cases/Configure_Logic_Tags.htm">Configure Logic Tags</a> for more information.</p>
+<td><p>Displays the name of the tag used to assign a task to the rule. Refer to <a href="../Use_Cases/Configure_Logic_Tags">Configure Logic Tags</a> for more information.</p>
 <p>If the rule is assigned directly to a plan, Work List Item, or Plan Task (without using a tag), then this field is empty.</p></td>
 </tr>
 <tr class="even">

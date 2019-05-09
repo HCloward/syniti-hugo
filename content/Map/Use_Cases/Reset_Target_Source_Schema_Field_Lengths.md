@@ -13,12 +13,12 @@ column’s correct length.
 <span style="font-weight: bold;">NOTE</span>: Updates to field lengths
 in System Types are not reflected in Target or Source tables until a
 user clicks <span style="font-weight: bold;">Create</span> on the
-<span style="font-style: italic;">[Targets](../Page_Desc/Targets_H_Map.htm)</span>
+<span style="font-style: italic;">[Targets](../Page_Desc/Targets_H_Map)</span>
 or the <span style="font-style: italic;">[Target
-Sources](../Page_Desc/Target_Sources_H_Map.htm)</span> page. System
+Sources](../Page_Desc/Target_Sources_H_Map)</span> page. System
 Types are defined and the field lengths are modified in Common. Refer to
 [System
-Types](../../../Platform/Common/Use_Cases/System_Types_Overview.htm) for
+Types](../../../Platform/Common/Use_Cases/System_Types_Overview) for
 more information.
 
 <span style="font-weight: bold;">NOTE</span>: To reset the length, the
@@ -39,7 +39,7 @@ To use the reset feature in Common:
 4.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the System Types - Table Fields
-    page.](../../../Platform/Common/Page_Desc/System_Types_Table_Fields_H.htm)
+    page.](../../../Platform/Common/Page_Desc/System_Types_Table_Fields_H)
 
 5.  Enter a value in the <span style="font-weight: bold;">LENGTH</span>
     field.
@@ -50,7 +50,7 @@ To use the reset feature in Common:
 
 8.  Click the <span style="font-weight: bold;">Targets</span> icon on
     the <span style="font-style: italic;">[Process Area
-    Launch](../Page_Desc/Process_Area_Launch_map.htm)</span> page.
+    Launch](../Page_Desc/Process_Area_Launch_map)</span> page.
 
 9.  Click the <span style="font-weight: bold;">Sources</span> icon for a
     Target.

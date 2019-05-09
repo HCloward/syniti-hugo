@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Refresh Target and Legacy
-Values](../Use_Cases/Refresh_Target_and_Legacy_Values.htm).
+Values](../Use_Cases/Refresh_Target_and_Legacy_Values).
 
 </div>
 
@@ -30,8 +30,8 @@ pane.
 | Refresh Legacy Values | Click to refresh Legacy Source tables and fields marked as active for the Source and the Source field.                                                                                                                                          |
 | Wave NAME             | Displays the name of the Wave in the current context set in Console.                                                                                                                                                                            |
 | DESCRIPTION           | Displays the Wave description.                                                                                                                                                                                                                  |
-| CLIENT                | Displays the Client ERP system client name. This value should match an entry in T000 and a single client should be used. Add or edit this value on the [Waves](../../Console/Page_Desc/Waves_H.htm) page's vertical view.                       |
-| LANGUAGE              | Displays the ERP system language. This value should match an entry in T002 and is used to update the description of Target check table values. Add or edit this value on the [Waves](../../Console/Page_Desc/Waves_H.htm) page's vertical view. |
+| CLIENT                | Displays the Client ERP system client name. This value should match an entry in T000 and a single client should be used. Add or edit this value on the [Waves](../../Console/Page_Desc/Waves_H) page's vertical view.                       |
+| LANGUAGE              | Displays the ERP system language. This value should match an entry in T002 and is used to update the description of Target check table values. Add or edit this value on the [Waves](../../Console/Page_Desc/Waves_H) page's vertical view. |
 | CHECK TABLES          | Displays the number of check tables for the context.                                                                                                                                                                                            |
 | CHANGED ON            | Displays the date of the latest refresh.                                                                                                                                                                                                        |
 | ACTIVE                | If checked, the check table is active.                                                                                                                                                                                                          |

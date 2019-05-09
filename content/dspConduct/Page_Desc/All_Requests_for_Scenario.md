@@ -9,9 +9,9 @@ This chart displays all requests for a scenario by
 <span id="Request Status dspConduct" class="popUpLink">status</span>.
 
 Click a section to drill down to the [All Requests for Scenario
-Details](All_Requests_for_Scenario_Details.htm) page.
+Details](All_Requests_for_Scenario_Details) page.
 
-Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts.htm) for
+Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts) for
 general information about chart features.
 
 To access this chart in dspConduct™:

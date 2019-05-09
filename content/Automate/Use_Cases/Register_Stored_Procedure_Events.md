@@ -29,7 +29,7 @@ End
 
 After the stored procedure event runs, the @RecordCount parameter is
 passed to the rest of the events as parameters on the *[WebApp
-Event](../Page_Desc/WebApp_Event.htm)* page where
+Event](../Page_Desc/WebApp_Event)* page where
 
 Field is set to CommandName and Value is set to “\[folder path\]”
 \#PassedRecordCount\#
@@ -48,7 +48,7 @@ To register a stored procedure event in Automate:
 2.  Click **Add**.
     
     [View the field description for the Interface Events
-    page](../Page_Desc/Interface_Events.htm)
+    page](../Page_Desc/Interface_Events)
 
 <!-- end list -->
 
@@ -66,7 +66,7 @@ To register a stored procedure event in Automate:
 
 2.  Click the **LOOP** check box to enable it, which indicates the event
     is intended to be processed multiple times based on input. Refer to
-    [Set Up a Looping Process](Set_up_a_Looping_Process.htm) for more
+    [Set Up a Looping Process](Set_up_a_Looping_Process) for more
     information.
 
 3.  Enter a descriptive comment in the **COMMENT** field.
@@ -81,20 +81,20 @@ To register a stored procedure event in Automate:
 9.  Click the **Events** icon for the desired interface.
     
     *[View the field description for the Interface Events page’s
-    Vertical View](../Page_Desc/Interface_Events.htm#InterfaceEventsV)*
+    Vertical View](../Page_Desc/Interface_Events#InterfaceEventsV)*
 
 10. Select a registered stored procedure event from the **Stored
     Procedure** list box.
 
 **NOTE:** All stored procedures from the Data Source (as selected on the
-*[Interfaces](../Page_Desc/Interfaces.htm)* page when the interface was
+*[Interfaces](../Page_Desc/Interfaces)* page when the interface was
 created) display. If a Stored Procedure Filter is defined on the
-*[Parameters](../Page_Desc/Parameters.htm)* page, the list is narrowed
+*[Parameters](../Page_Desc/Parameters)* page, the list is narrowed
 based on the filter.
 
 1.  Click **Save**.
 2.  Click the **Stored Procedure Parameters** icon to open the *[Stored
-    Procedure](../Page_Desc/Stored_Procedure.htm)* page.
+    Procedure](../Page_Desc/Stored_Procedure)* page.
 
 **NOTE:** When adding a stored procedure as an event, the parameters in
 the stored procedure are automatically created for the event. Click the

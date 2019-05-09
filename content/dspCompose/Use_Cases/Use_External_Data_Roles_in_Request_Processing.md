@@ -28,19 +28,19 @@ request automatically and continues processing the request.
 
 **NOTE:** An External Data role can also be used in External Request
 Scenarios. Refer to [Use External Request
-Scenarios](Use_External_Request_Scenarios.htm) and [Set External Role
+Scenarios](Use_External_Request_Scenarios) and [Set External Role
 Contacts for an External Request
-Scenario](Set_External_Role_Contacts.htm) for more information.
+Scenario](Set_External_Role_Contacts) for more information.
 
 To use External Data roles in request processing:
 
   - [Configure Settings for External Data
-    Roles](Configure_Settings_for_External_Data_Roles.htm)
+    Roles](Configure_Settings_for_External_Data_Roles)
   - [Add External Data Role to Global
-    Roles](Add_External_Data_Role_to_Global_Roles.htm)
+    Roles](Add_External_Data_Role_to_Global_Roles)
   - [Add an External Data Role Type to a
-    Template](Add_an_External_Data_Role_to_Template.htm)
-  - [Update External Role Contacts](Update_External_Role_Contacts.htm)
+    Template](Add_an_External_Data_Role_to_Template)
+  - [Update External Role Contacts](Update_External_Role_Contacts)
   - [Complete the Spreadsheet as an External Data
-    Role](Complete_the_Spreadsheet_as_as_External_Data_Role.htm)
-  - [Finish the External Data Role](Finish_the_External_Data_Role.htm)
+    Role](Complete_the_Spreadsheet_as_as_External_Data_Role)
+  - [Finish the External Data Role](Finish_the_External_Data_Role)

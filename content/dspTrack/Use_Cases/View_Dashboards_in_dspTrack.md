@@ -10,7 +10,7 @@ plans, and tasks.
 
 <span style="font-weight: bold;">NOTE</span>: Charts display data from
 active plans only. Refer to [Activate and Deactivate a
-Plan](Activate_and_Deactivate_a_Plan.htm) for more information.
+Plan](Activate_and_Deactivate_a_Plan) for more information.
 
 **NOTE**: Information about Work List Items is not displayed in the
 dashboard as Work List Items are not assigned to projects and plans.
@@ -33,6 +33,6 @@ legend to hide or show that label’s section in the chart.
 The following charts display on the dashboard:
 
   - [Tasks Due Next Week By
-    Project](../Page_Desc/Tasks_Due_Next_Week_By_Project.htm)
-  - [Tasks Status by Project](../Page_Desc/Task_Status_By_Project.htm)
-  - [Task Status by Plan](../Page_Desc/Task_Status_by_Plan.htm)
+    Project](../Page_Desc/Tasks_Due_Next_Week_By_Project)
+  - [Tasks Status by Project](../Page_Desc/Task_Status_By_Project)
+  - [Task Status by Plan](../Page_Desc/Task_Status_by_Plan)

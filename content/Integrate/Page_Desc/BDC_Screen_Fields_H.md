@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Manage BDC Screens and
-Fields.](../Use_Cases/Manage_BDC_Screens_and_Fields.htm)
+Fields.](../Use_Cases/Manage_BDC_Screens_and_Fields)
 
 </div>
 
@@ -39,7 +39,7 @@ To access this page:
 
 ## <span id="BDC_Screen_Fields_V_All"></span>BDC Screen Fields V
 
-[BDC Screen Fields H](BDC_Screen_Fields_H.htm)
+[BDC Screen Fields H](BDC_Screen_Fields_H)
 
 This page has the following tabs:
 

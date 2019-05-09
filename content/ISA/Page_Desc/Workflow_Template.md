@@ -3,7 +3,7 @@
 <div class="use">
 
 Use this page to [Create Language-specific Workflow Email
-Templates](../Use_Cases/Create_Language%20specific_Workflow_Email_Templates.htm).
+Templates](../Use_Cases/Create_Language%20specific_Workflow_Email_Templates).
 
 </div>
 

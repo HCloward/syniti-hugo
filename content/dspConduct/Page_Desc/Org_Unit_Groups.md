@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [add and configure org unit groups, types, and
-values.](../Use_Cases/Manage_Org_Units.htm#Add_and_Configure_Org_Unit_Groups,_Types,_and_Values)
+values.](../Use_Cases/Manage_Org_Units#Add_and_Configure_Org_Unit_Groups,_Types,_and_Values)
 
 </div>
 
@@ -20,4 +20,4 @@ pane.
 | --------- | -------------------------------------------------------------------------- |
 | Field     | Description                                                                |
 | NAME      | Displays the org unit group name.                                          |
-| Org Units | Click to open the *[Org Unit Group Types](Org_Unit_Group_Types.htm)* page. |
+| Org Units | Click to open the *[Org Unit Group Types](Org_Unit_Group_Types)* page. |

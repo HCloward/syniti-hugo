@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [View
-Results](../../../Migration/Construct/Use_Cases/View_Results.htm).
+Results](../../../Migration/Construct/Use_Cases/View_Results).
 
 </div>
 

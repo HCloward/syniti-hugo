@@ -87,14 +87,14 @@ To refresh a source on a schedule:
 6.  Click **Edit**.
     
     [View the field descriptions for the Target Sources page's Vertical
-    View](../Page_Desc/Target_Sources_H_Collect.htm)
+    View](../Page_Desc/Target_Sources_H_Collect)
 
 7.  Update **Schedule ID** list box if default value is not applicable.
     
     **NOTE:** The <span style="font-weight: bold;">Schedule ID</span>
     field determines when the refresh process is run. Schedules are
     created and maintained in Common. Refer to [Create
-    Schedules](../../Common/Use_Cases/Create_Schedules.htm) for detailed
+    Schedules](../../Common/Use_Cases/Create_Schedules) for detailed
     information.
 
 8.  Click **Save**. 
@@ -109,7 +109,7 @@ refreshed or set to refresh on a schedule.
 in Collect, a user must be assigned to a security role that has the
 Collect WebApp group WorkFlowFailureAll or WorkFlowFaiureByTargetAccess
 assigned. Refer to [Set
-Security](../../Sys_Admin/Use_Cases/Setting_security.htm) in System
+Security](../../Sys_Admin/Use_Cases/Setting_security) in System
 Administration for more information.
 
 ## <span id="Manually_Refresh_Table"></span>Manually Refresh Table
@@ -145,7 +145,7 @@ To refresh a table on a schedule:
 5.  Click **Edit**.
     
     [View the field descriptions for the Tables page's Vertical
-    View](../Page_Desc/Tables_H.htm)
+    View](../Page_Desc/Tables_H)
 
 <!-- end list -->
 
@@ -159,7 +159,7 @@ To refresh a table on a schedule:
     **<span class="underline"><span style="color: #ff0000;">overrides</span></span>**
     the schedule set for the source.. Schedules are created and
     maintained in Common. Refer to [Create
-    Schedules](../../Common/Use_Cases/Create_Schedules.htm) for detailed
+    Schedules](../../Common/Use_Cases/Create_Schedules) for detailed
     information.
 
 <!-- end list -->

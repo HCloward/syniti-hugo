@@ -33,5 +33,5 @@ Posting data
 Target system connections are added and maintained in Common.
 
 Refer to [Establish a Target System Connection
-Overview](../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview.htm)
+Overview](../../Common/Use_Cases/Establish_a_Connection_to_a_target_system_Overview)
 for more information.

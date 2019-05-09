@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to select a context. See [Context, the Context Bar and
-Navigation in dspMigrate™](../../dspMigrate/Context_Navigation.htm) for
+Navigation in dspMigrate™](../../dspMigrate/Context_Navigation) for
 more information.
 
 </div>

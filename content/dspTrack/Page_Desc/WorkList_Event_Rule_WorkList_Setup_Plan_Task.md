@@ -14,7 +14,7 @@ Use this page to view Work List Event Rules
 </div>
 
 Refer to [Register Work List Event Rules for a Work List
-Item](../Use_Cases/Register_WorkList_Event_Rules_WorkList_Item.htm) for
+Item](../Use_Cases/Register_WorkList_Event_Rules_WorkList_Item) for
 more information.
 
 To access this page:
@@ -76,7 +76,7 @@ To access this page:
 <tr class="odd">
 <td><p>TAG ID</p></td>
 <td><p>Displays the name of the tag if the rule was assigned to the task using a tag.</p>
-<p>Refer to <a href="../Use_Cases/Configure_Logic_Tags.htm">Configure Logic Tags</a> for more information.</p>
+<p>Refer to <a href="../Use_Cases/Configure_Logic_Tags">Configure Logic Tags</a> for more information.</p>
 <p><strong>NOTE</strong>: If the rule is assigned directly to a plan or Plan Task (without using a tag), then this field is empty.</p></td>
 </tr>
 </tbody>

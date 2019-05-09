@@ -11,11 +11,11 @@ a user must configure the Content WebApp page to communicate with
 dspConduct™ to pass request data from the Content WebApp to dspConduct™.
 Configuration is also needed when certain request statuses are updated
 in the Content WebApp. Refer to [Manage Request
-Statuses](../Config/Manage_Request_Statuses.htm) for more information
+Statuses](../Config/Manage_Request_Statuses) for more information
 about statuses in dspConduct™.
 
 Refer to [Auto-generate Request-related
-Objects](Auto_Generate_Request_related_Objects.htm) for information
+Objects](Auto_Generate_Request_related_Objects) for information
 about creating tables, views and stored procedures in the Content WebApp
 automatically.
 

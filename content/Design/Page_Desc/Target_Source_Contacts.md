@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Add Developers and Business Contacts to a
-Source](../Use_Cases/Add_Developers_and%20Business%20Contacts.htm).
+Source](../Use_Cases/Add_Developers_and%20Business%20Contacts).
 
 </div>
 
@@ -19,7 +19,7 @@ To access this page:
 2.  Select <span style="font-weight: bold;">Design </span>in the Context
     bar.
 3.  Click the <span style="font-weight: bold;">Targets</span>icon on the
-    *[Design](Design.htm)* page.
+    *[Design](Design)* page.
 4.  Click the <span style="font-weight: bold;">Sources</span> icon for a
     Target.
 5.  Click the <span style="font-weight: bold;">Developers</span> icon
@@ -42,8 +42,8 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>CONTACT TYPE</p></td>
-<td><p>Displays the type of contact, which depends on whether the user accessed the page from the <em><a href="Target_Sources_H_Design.htm">Target Sources</a></em> page by clicking the Developer icon or the Business Contacts icon.</p>
-<p>Developers approve mappings submitted for this Source on the <em>Mapping Approval</em> page (Quick Panel &gt; Mapping Approval). Refer to <a href="../../Map/Use_Cases/Approve_or_Reject_Mappings.htm">Approve or Reject Mappings</a> for more information. .</p>
+<td><p>Displays the type of contact, which depends on whether the user accessed the page from the <em><a href="Target_Sources_H_Design">Target Sources</a></em> page by clicking the Developer icon or the Business Contacts icon.</p>
+<p>Developers approve mappings submitted for this Source on the <em>Mapping Approval</em> page (Quick Panel &gt; Mapping Approval). Refer to <a href="../../Map/Use_Cases/Approve_or_Reject_Mappings">Approve or Reject Mappings</a> for more information. .</p>
 <p>Business Contacts are used for reporting purposes and automatically receive public reports for the Target–Source in Transform.</p></td>
 </tr>
 <tr class="odd">

@@ -15,7 +15,7 @@ To deactivate a scenario in dspConduct™:
 
 2.  Click the <span style="font-weight: bold;">Scenarios</span> icon for
     the category on the
-    <span style="font-style: italic;">[Category](../Page_Desc/Category_H.htm)</span>
+    <span style="font-style: italic;">[Category](../Page_Desc/Category_H)</span>
     page.
 
 3.  Click <span style="font-weight: bold;">Edit</span>.

@@ -30,7 +30,7 @@ To copy a role:
     
     [View the field descriptions for the Copy Options tab on the Role
     page's Vertical
-    View](../Page_Desc/Role_H_dspConduct.htm#Copy_Options)
+    View](../Page_Desc/Role_H_dspConduct#Copy_Options)
 
 6.  Enter a name in the **New Role Name** field.
 
@@ -40,5 +40,5 @@ To copy a role:
 
 9.  Click **OK.**
 
-The new role displays on the [Role](../Page_Desc/Role_H_dspConduct.htm)
+The new role displays on the [Role](../Page_Desc/Role_H_dspConduct)
 page.

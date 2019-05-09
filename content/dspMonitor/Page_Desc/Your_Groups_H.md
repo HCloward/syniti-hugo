@@ -12,8 +12,8 @@ solution = 'Data Quality'
 Use this page to:
 
   - [Manually Process Group
-    Reports](../Use_Cases/Process_Reports.htm#Manually_Process_Group_Reports)
-  - [View Your Groups](../Use_Cases/View_Your_Groups.htm)
+    Reports](../Use_Cases/Process_Reports#Manually_Process_Group_Reports)
+  - [View Your Groups](../Use_Cases/View_Your_Groups)
 
 </div>
 
@@ -49,7 +49,7 @@ To access this page, select <span style="font-weight: bold;">dspMonitor
 <tr class="odd">
 <td><p>SIGMA LEVEL</p></td>
 <td><p>Displays the sigma level based on data quality score calculations.</p>
-<p>The Enable Sigma Level checkbox on the <em><a href="Parameters.htm">Parameters</a></em> page must be checked for this field to display.</p></td>
+<p>The Enable Sigma Level checkbox on the <em><a href="Parameters">Parameters</a></em> page must be checked for this field to display.</p></td>
 </tr>
 <tr class="even">
 <td><p>OPPORTUNITIES</p></td>
@@ -87,7 +87,7 @@ To access this page, select <span style="font-weight: bold;">dspMonitor
 <td><p>Favorites</p></td>
 <td><p>Click to open the <em>Your Favorite Reports</em> page to view a list of reports in the selected group that have been marked as favorites for the current user.</p>
 <p>The number on the icon represents the count of favorite reports in the current group that have been added for the current user.</p>
-<p>Refer to <a href="../Use_Cases/View_Your_Favorite_Reports.htm">View Your Favorite Reports</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/View_Your_Favorite_Reports">View Your Favorite Reports</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Reports</p></td>
@@ -95,7 +95,7 @@ To access this page, select <span style="font-weight: bold;">dspMonitor
 </tr>
 <tr class="odd">
 <td><p>Metrics</p></td>
-<td><p>Click to open the <em><a href="../Use_Cases/View_Your_Group_Metrics_Chart.htm">Your Group Metrics</a></em> page to the metrics chart for your group.</p></td>
+<td><p>Click to open the <em><a href="../Use_Cases/View_Your_Group_Metrics_Chart">Your Group Metrics</a></em> page to the metrics chart for your group.</p></td>
 </tr>
 <tr class="even">
 <td><p>Queue</p></td>
@@ -106,15 +106,15 @@ To access this page, select <span style="font-weight: bold;">dspMonitor
 
 ## <span id="Your_Groups_V"></span>Your Groups V
 
-[Your Groups H](Your_Groups_H.htm)
+[Your Groups H](Your_Groups_H)
 
 <div class="use">
 
 Use this page to:
 
   - [Manually Process Group
-    Reports](../Use_Cases/Process_Reports.htm#Manually_Process_Group_Reports)
-  - [View Your Groups](../Use_Cases/View_Your_Groups.htm)
+    Reports](../Use_Cases/Process_Reports#Manually_Process_Group_Reports)
+  - [View Your Groups](../Use_Cases/View_Your_Groups)
 
 </div>
 
@@ -140,13 +140,13 @@ Admin
 User
 
 Click to open the <span style="font-style: italic;">[Group
-Users](Group_Users.htm)</span> page to manage users who have security to
+Users](Group_Users)</span> page to manage users who have security to
 view reports within the group. Icon is only available if the current
 user is the group owner for the group.
 
 Group Reports
 
 Click to open the [<span style="font-style: italic;">Group
-Reports</span>](Group_Reports_H.htm) page to manage reports within
+Reports</span>](Group_Reports_H) page to manage reports within
 group. Icon is only available of the current user is the group owner for
 the group.

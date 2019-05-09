@@ -8,8 +8,8 @@ solution = 'Platform'
 <div class="use">
 
 Use this page while configuring a
-[BAPI](../Use_Cases/Configure_a_BAPI_Template.htm) or
-[RFC](../Use_Cases/Configure_a_RFC_Template.htm) template to view the
+[BAPI](../Use_Cases/Configure_a_BAPI_Template) or
+[RFC](../Use_Cases/Configure_a_RFC_Template) template to view the
 documentation about the BAPI\\RFC that has been extracted from SAP for
 the selected record.
 
@@ -33,7 +33,7 @@ To access this page:
 <tr class="even">
 <td><p>Documentation</p></td>
 <td><p>Displays the documentation from SAP.</p>
-<p><strong>NOTE:</strong> Documentation for a BAPI/RFC must exist in SAP to display on this page. Refer to <a href="../Config/Extract_RFC_Functions.htm">Extract RFC Functions</a> for more information.</p></td>
+<p><strong>NOTE:</strong> Documentation for a BAPI/RFC must exist in SAP to display on this page. Refer to <a href="../Config/Extract_RFC_Functions">Extract RFC Functions</a> for more information.</p></td>
 </tr>
 </tbody>
 </table>

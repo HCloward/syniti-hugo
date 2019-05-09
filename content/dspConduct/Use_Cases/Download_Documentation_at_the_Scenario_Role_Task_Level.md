@@ -9,11 +9,11 @@ A Designer performs this task.
 
 Before this task can be completed, perform the following tasks:
 
-  - [Create a Category](Create_a_Category.htm)
-  - [Add a Scenario](Add_Scenario.htm)
-  - [Add a Role to a Scenario](Add_a_Role_to_a_Scenario.htm)
+  - [Create a Category](Create_a_Category)
+  - [Add a Scenario](Add_Scenario)
+  - [Add a Role to a Scenario](Add_a_Role_to_a_Scenario)
   - [Upload Documentation at the Scenario Role Task
-    Level](Upload_Documentation_at_the_Scenario_Role_Task_Level.htm)
+    Level](Upload_Documentation_at_the_Scenario_Role_Task_Level)
 
 To download documentation at the scenario role task level in
 dspConduct™:

@@ -3,7 +3,7 @@
 <div class="use">
 
 Use this page to [Add Rules Using Quality
-Dimensions](../Use_Cases/Add_Rules_Using_Quality_Dimensions.htm).
+Dimensions](../Use_Cases/Add_Rules_Using_Quality_Dimensions).
 
 </div>
 

@@ -6,7 +6,7 @@ solution = 'Platform'
 # Set Work Days and Work Hours for a Calendar
 
 Calendars are used in dspTrack™ and dspConcut™ components. Refer to [Use
-a Calendar](Use_a_Calendar.htm) for more information.
+a Calendar](Use_a_Calendar) for more information.
 
 To set work days and times for a dspTrack™ or the dspConduct™ calendar:
 
@@ -24,7 +24,7 @@ Select **Common \> Tools \> Calendar** from the *Navigation* pane.
 4.  Click **Add**.
     
     [View the field descriptions for the Work Hours
-    page](../Page_Desc/Work_Hours.htm)
+    page](../Page_Desc/Work_Hours)
 
 5.  Use the sliders to indicate hour, minute and second, or click
     **Now** to set the start time to the current time.

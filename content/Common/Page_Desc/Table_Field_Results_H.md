@@ -6,12 +6,12 @@ solution = 'Platform'
 # Table Field (Results) H
 
 [Table Field (Results)
-V](Table_Field_Results_H.htm#Table_Field__Results__V)
+V](Table_Field_Results_H#Table_Field__Results__V)
 
 <div class="use">
 
 Use this page to [View Table Field
-Results](../../../Migration/Construct/Use_Cases/View_Table_Field_Results.htm).
+Results](../../../Migration/Construct/Use_Cases/View_Table_Field_Results).
 
 </div>
 
@@ -38,11 +38,11 @@ To access this page:
 | MIN VALUE            | Displays the value of smallest value in the table.                                                                                                                               |
 | MAX VALUE            | Displays the value of largest value in the table.                                                                                                                                |
 | Warning              | If an icon displays, Common has identified potential system issues that may need to be rectified by the user.                                                                    |
-| Unique Value List    | Click to open the <span style="font-style: italic;">[Field Values](Field_Values_H.htm)</span> page to view list of unique values (i.e., values that only appear once) for table. |
+| Unique Value List    | Click to open the <span style="font-style: italic;">[Field Values](Field_Values_H)</span> page to view list of unique values (i.e., values that only appear once) for table. |
 
 ## <span id="Table_Field__Results__V"></span>Table Field (Results) V
 
-[Table Field (Results) H](Table_Field_Results_H.htm)
+[Table Field (Results) H](Table_Field_Results_H)
 
 Field
 
@@ -131,7 +131,7 @@ errors or messages from the processing job.
 Unique Value List
 
 Click to open the <span style="font-style: italic;">[Field
-Values](Field_Values_H.htm)</span> page to view list of unique values
+Values](Field_Values_H)</span> page to view list of unique values
 (i.e., values that only appear once) for table.
 
 Data Source Name

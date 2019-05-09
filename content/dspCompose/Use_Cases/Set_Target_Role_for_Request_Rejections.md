@@ -23,13 +23,13 @@ role rejects some records in a request, dspCompose™ creates a new
 request and assigns it to the target role.
 
 Refer to [Perform a Partial
-Approval](Review_Request_Data.htm#Perform_a_Partial_Approval) for more
+Approval](Review_Request_Data#Perform_a_Partial_Approval) for more
 information.
 
 **NOTE**: To set a target role at the template level, the template must
 not be active or must be in Developer Mode. Refer to [Modify an Active
 Template in Developer
-Mode](Modify_an_Active_Template_in_Developer_Mode.htm) for more
+Mode](Modify_an_Active_Template_in_Developer_Mode) for more
 information.
 
 To set a target role for request rejections:
@@ -49,7 +49,7 @@ To set a target role for request rejections:
     
     *[View the field descriptions for the Template (Role) page’s
     Vertical
-    View.](../Page_Desc/Template_Role_H.htm#Template_Role_V_All_Tabs)*
+    View.](../Page_Desc/Template_Role_H#Template_Role_V_All_Tabs)*
 
 7.  Select a role from the **Reject Role Target** list box.
     

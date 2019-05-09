@@ -12,7 +12,7 @@ To view the profiling results:
 2.  Select the **DATASTORE\_ID** to view the results in the
     <span style="font-style: italic;">[Data Services Profile Results
     Table
-    Columns](../Page_Desc/Data_Services_Profiling_Results_Table_Columns.htm)</span>
+    Columns](../Page_Desc/Data_Services_Profiling_Results_Table_Columns)</span>
     page.
 
 To see the list of distinct values and distinct patterns click the

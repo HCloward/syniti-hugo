@@ -16,8 +16,8 @@ notification options.
 To set up notifications for an interface in Automate:
 
 1.  Set up Users and Roles, which drive email notifications. Refer to
-    [Add Roles](Add_Roles.htm) and [Assign Users to
-    Roles](Assign_Users_to_Roles.htm) for more information
+    [Add Roles](Add_Roles) and [Assign Users to
+    Roles](Assign_Users_to_Roles) for more information
 2.  [Fill Out Contact Info](#Fill)
 3.  [Sync Instances](#Sync)
 4.  [Configure Email Sender](#Configur)
@@ -28,8 +28,8 @@ To set up notifications for an interface in Automate:
 The interface will not send an email if the Contact Info fields are
 blank.
 
-Before performing this task, [Add Roles](Add_Roles.htm) and [Assign
-Users to Roles](Assign_Users_to_Roles.htm).
+Before performing this task, [Add Roles](Add_Roles) and [Assign
+Users to Roles](Assign_Users_to_Roles).
 
 To fill out contact info in Automate:
 
@@ -43,7 +43,7 @@ To fill out contact info in Automate:
     
     [View the field description for the Contact Info tab on the
     Interfaces page’s Vertical
-    View](../Page_Desc/Interfaces.htm#_Contact_Info)
+    View](../Page_Desc/Interfaces#_Contact_Info)
 
 5.  Enter a message in the **Message Success** field.
     
@@ -109,17 +109,17 @@ Continue with [Sync Instances](#Sync).
 
 Before performing this task:
 
-  - [Add Roles](Add_Roles.htm)
-  - [Assign Users to Roles](Assign_Users_to_Roles.htm)
+  - [Add Roles](Add_Roles)
+  - [Assign Users to Roles](Assign_Users_to_Roles)
   - [Fill Out Contact Info](#Fill)
 
 The Instance field MUST be identical across the following three pages:
 
-  - The *[Parameters](../Page_Desc/Parameters.htm)* page in Automate.
-  - The *[Role (Instance)](../Page_Desc/Role_Instance.htm)* page in
+  - The *[Parameters](../Page_Desc/Parameters)* page in Automate.
+  - The *[Role (Instance)](../Page_Desc/Role_Instance)* page in
     Automate.
   - The
-    *[Parameters](../../Sys_Admin/Page_Desc/Parameters_All_TabsSysAdmin.htm)*
+    *[Parameters](../../Sys_Admin/Page_Desc/Parameters_All_TabsSysAdmin)*
     page in System Administration.
 
 Continue with [Configure Email Server.](#Configur)
@@ -131,8 +131,8 @@ Admin Role is “Admin.”
 
 Before performing this task:
 
-  - [Add Roles](Add_Roles.htm)
-  - [Assign Users to Roles](Assign_Users_to_Roles.htm)
+  - [Add Roles](Add_Roles)
+  - [Assign Users to Roles](Assign_Users_to_Roles)
   - [Fill Out Contact Info](#Fill)
   - [Sync Instances](#Sync)
 
@@ -140,13 +140,13 @@ Configuring email sender settings is a three-step process:
 
 1.  Configure the Admin role. Whatever role is deemed as the Admin role,
     verify that role is set in the Admin Role field on the
-    *[Parameters](../Page_Desc/Parameters.htm)* page.
+    *[Parameters](../Page_Desc/Parameters)* page.
 2.  Look up the user assigned to Admin Role on the *[Role
-    (Instance)](../Page_Desc/Role_Instance.htm)* page. Make note of the
+    (Instance)](../Page_Desc/Role_Instance)* page. Make note of the
     user(s) assigned to this role.
 3.  Verify the user has a valid email address by reviewing the E Mail
     Address field on the
-    *[Users](../../Sys_Admin/Page_Desc/Users_H.htm)* page in System
+    *[Users](../../Sys_Admin/Page_Desc/Users_H)* page in System
     Administration. An email address must contain a “@” symbol and a
     period (.) to be considered valid.
 
@@ -156,8 +156,8 @@ Continue with [Configure and Test Mail Server](#Configur2).
 
 Before performing this task:
 
-  - [Add Roles](Add_Roles.htm)
-  - [Assign Users to Roles](Assign_Users_to_Roles.htm)
+  - [Add Roles](Add_Roles)
+  - [Assign Users to Roles](Assign_Users_to_Roles)
   - [Fill Out Contact Info](#Fill)
   - [Sync Instances](#Sync)
   - [Configure Email Server](#Configur)

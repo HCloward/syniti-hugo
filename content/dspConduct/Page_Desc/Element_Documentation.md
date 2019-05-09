@@ -10,23 +10,23 @@ solution = 'Master Data Management'
 Use this page to:
 
   - [Upload Documentation at the Role
-    Level](../Use_Cases/Upload_Documentation_at_the_Role_Level.htm)
+    Level](../Use_Cases/Upload_Documentation_at_the_Role_Level)
   - [Download Documentation at the Role
-    Level](../Use_Cases/Download_Documentation_at_the_Role_Level.htm)
+    Level](../Use_Cases/Download_Documentation_at_the_Role_Level)
   - [Upload Documentation at the Task
-    Level](../Use_Cases/Upload_Documentation_at_the_Task_Level.htm)
+    Level](../Use_Cases/Upload_Documentation_at_the_Task_Level)
   - [Download Documentation at the Task
-    Level](../Use_Cases/Download_Documentation_at_the_Task_Level.htm)
+    Level](../Use_Cases/Download_Documentation_at_the_Task_Level)
   - [Upload Documentation at the Scenario Role
-    Level](../Use_Cases/Upload_Documentation_at_the_Scenario_Role_Level.htm)
+    Level](../Use_Cases/Upload_Documentation_at_the_Scenario_Role_Level)
   - [Download Documentation at the Scenario Role
-    Level](../Use_Cases/Download_Documentation_at_the_Scenario_Role_Level.htm)
+    Level](../Use_Cases/Download_Documentation_at_the_Scenario_Role_Level)
   - [Upload Documentation at the Scenario Role Task
-    Level](../Use_Cases/Upload_Documentation_at_the_Scenario_Role_Task_Level.htm)
+    Level](../Use_Cases/Upload_Documentation_at_the_Scenario_Role_Task_Level)
   - [Download Documentation at the Scenario Role Task
-    Level](../Use_Cases/Download_Documentation_at_the_Scenario_Role_Task_Level.htm)
+    Level](../Use_Cases/Download_Documentation_at_the_Scenario_Role_Task_Level)
   - [Replace an Element
-    Document](../Use_Cases/Replace_an_Element_Document.htm)
+    Document](../Use_Cases/Replace_an_Element_Document)
 
 </div>
 
@@ -57,7 +57,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Replace File</p></td>
-<td><p>Click to open the <span style="font-size: 10.5pt;font-family: Arial, sans-serif;color: #333333;font-style: italic;"><a href="../Use_Cases/Replace_Documentation.htm">Replace Documentation</a></span> page to replace the current file with an updated version of the file or with a completely different file.</p></td>
+<td><p>Click to open the <span style="font-size: 10.5pt;font-family: Arial, sans-serif;color: #333333;font-style: italic;"><a href="../Use_Cases/Replace_Documentation">Replace Documentation</a></span> page to replace the current file with an updated version of the file or with a completely different file.</p></td>
 </tr>
 <tr class="odd">
 <td><p>ELEMENT</p></td>

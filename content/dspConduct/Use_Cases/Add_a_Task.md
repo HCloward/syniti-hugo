@@ -6,13 +6,13 @@ solution = 'Master Data Management'
 # Add a Task
 
 On the
-<span style="font-style: italic;">[Task](../Page_Desc/Task_H.htm)</span>
+<span style="font-style: italic;">[Task](../Page_Desc/Task_H)</span>
 page, a Designer can register a web page created in the Content WebApp
 or a page in the platform as a task.
 
 <span style="font-weight: bold;">NOTE</span>: Pages in the platform are
 limited to pages in the default WebApp. The default WebApp is set at the
-Category level. Refer to [Create a Category](Create_a_Category.htm) for
+Category level. Refer to [Create a Category](Create_a_Category) for
 more information.
 
 One or more tasks that have been added to the category can be added to a
@@ -21,7 +21,7 @@ role. A particular task can only be added to a role once.
 <span style="font-weight: bold;">NOTE</span>: Any Task pages that are of
 type Application must be registered on the
 <span style="font-style: italic;">[dspConduct™
-Task](../Page_Desc/dspConduct_Task_H.htm)</span> page. dspConduct™ does
+Task](../Page_Desc/dspConduct_Task_H)</span> page. dspConduct™ does
 not create task pages with an Application type. These pages are created
 in the Content WebApp.
 
@@ -38,7 +38,7 @@ To add a task in dspConduct™:
     <span style="font-weight: bold;">Add</span>.
     
     [View the field descriptions for the Task
-    page.](../Page_Desc/Task_H.htm)
+    page.](../Page_Desc/Task_H)
 
 4.  Select the name of the page in the platform or the name of the page
     in the Content WebApp from the <span style="font-weight: bold;">TASK

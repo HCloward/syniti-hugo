@@ -12,12 +12,12 @@ solution = 'Data Quality'
 Use this page to:
 
   - [Assign a Group Owner to a
-    Report](../Use_Cases/Assign_Group_Owner_to_a_Report.htm)
-  - [Create Groups](../Use_Cases/Create_Groups_dspMonitor.htm)
+    Report](../Use_Cases/Assign_Group_Owner_to_a_Report)
+  - [Create Groups](../Use_Cases/Create_Groups_dspMonitor)
   - [Configure Workflow Schedules for
-    Groups](../Use_Cases/Manage_Workflow_Emails.htm#Configure_Workflow_Schedules_for_Groups)
+    Groups](../Use_Cases/Manage_Workflow_Emails#Configure_Workflow_Schedules_for_Groups)
   - [Schedule Reports to
-    Process](../Use_Cases/Process_Reports.htm#Schedule_Reports_to_Process)
+    Process](../Use_Cases/Process_Reports#Schedule_Reports_to_Process)
 
 </div>
 
@@ -40,21 +40,21 @@ Groups** in *Navigation* pane.
 
 ## <span id="Groups_V_All_Tabs"></span>Groups V (All Tabs)
 
-[Groups H](Groups_H.htm)
+[Groups H](Groups_H)
 
 <div class="use">
 
 Use this page to:
 
   - [Assign a Group Owner to a
-    Report](../Use_Cases/Assign_Group_Owner_to_a_Report.htm)
-  - [Create  Groups](../Use_Cases/Create_Reports.htm)
+    Report](../Use_Cases/Assign_Group_Owner_to_a_Report)
+  - [Create  Groups](../Use_Cases/Create_Reports)
   - [Configure Workflow Schedules for
-    Groups](../Use_Cases/Manage_Workflow_Emails.htm#Configure_Workflow_Schedules_for_Groups)
+    Groups](../Use_Cases/Manage_Workflow_Emails#Configure_Workflow_Schedules_for_Groups)
   - [Schedule Reports to
-    Process](../Use_Cases/Process_Reports.htm#Schedule_Reports_to_Process)
+    Process](../Use_Cases/Process_Reports#Schedule_Reports_to_Process)
   - [Change Frequency of User
-    Workflows](../Use_Cases/Tips_and_Troubleshooting.htm#Change_Frequency_of_User_Workflows)
+    Workflows](../Use_Cases/Tips_and_Troubleshooting#Change_Frequency_of_User_Workflows)
 
 </div>
 
@@ -67,7 +67,7 @@ This page contains the following tabs:
 
 ## <span id="General_Tab1"></span>General tab
 
-[Groups H](Groups_H.htm)
+[Groups H](Groups_H)
 
 Field
 
@@ -102,13 +102,13 @@ Displays the threshold ID used for data quality scoring.
 provided set on the *Parameters* page is used to calculate data quality
 score status on the *Your Groups* page. Refer to [Register Data Quality
 Score
-Thresholds](../Use_Cases/Populate_Configuration_Tables.htm#Register_Data_Quality_Score_Thresholds)
+Thresholds](../Use_Cases/Populate_Configuration_Tables#Register_Data_Quality_Score_Thresholds)
 for more information.
 
 ## <span id="Report_Scheduling_Tab"></span>Report Scheduling tab
 
 [Groups
-H](Groups_H.htm)
+H](Groups_H)
 
 |                         |                                                                  |
 | ----------------------- | ---------------------------------------------------------------- |
@@ -121,12 +121,12 @@ H](Groups_H.htm)
 <div class="use">
 
 Use this tab to [Configure Workflow Schedules for
-Groups](../Use_Cases/Manage_Workflow_Emails.htm#Configure_Workflow_Schedules_for_Groups).
+Groups](../Use_Cases/Manage_Workflow_Emails#Configure_Workflow_Schedules_for_Groups).
 
 </div>
 
 [Groups
-H](Groups_H.htm)
+H](Groups_H)
 
 |                      |                                                                    |
 | -------------------- | ------------------------------------------------------------------ |
@@ -136,7 +136,7 @@ H](Groups_H.htm)
 ## <span id="Action_Tab"></span>Action tab
 
 [Groups
-H](Groups_H.htm)
+H](Groups_H)
 
 |                             |                                                                                   |
 | --------------------------- | --------------------------------------------------------------------------------- |

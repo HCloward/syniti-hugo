@@ -9,7 +9,7 @@ If the request is based on a template that has Org Units assigned, the
 template’s Org Unit assignments are copied to the request when the
 request is created. These Org Unit assignments display on the *[*Request
 (Org Unit
-Assignments)*](../Page_Desc/Request_Org_Unit_Assignments.htm)*page.
+Assignments)*](../Page_Desc/Request_Org_Unit_Assignments)*page.
 
 Template settings control which Org Unit assignments display on this
 page, and whether the **ASSIGNED** check box can be enabled or disabled
@@ -38,7 +38,7 @@ This topic contains the following sections:
 A setting controls whether only Org Unit values assigned to the
 requester display or all Org Unit values for the template display on the
 *[Request (Org Unit
-Assignments)](../Page_Desc/Request_Org_Unit_Assignments.htm)* page.
+Assignments)](../Page_Desc/Request_Org_Unit_Assignments)* page.
 
 A setting also controls whether the **ASSIGNED** check box can be
 enabled or disabled on this page, which allows a user to add or remove
@@ -64,7 +64,7 @@ To set security for request Org Unit Assignment at the global level:
     box to enable it.
     
     **NOTE:** On the *[*Request (Org Unit
-    Assignments)*](../Page_Desc/Request_Org_Unit_Assignments.htm)* page,
+    Assignments)*](../Page_Desc/Request_Org_Unit_Assignments)* page,
     only those Org Unit values assigned to the requester display. If the
     check box is not selected, Org Unit values assigned to all users on
     the template display.
@@ -72,13 +72,13 @@ To set security for request Org Unit Assignment at the global level:
 4.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the Parameters page, Template
-    tab](../Page_Desc/Parameters.htm#Template_Tab)
+    tab](../Page_Desc/Parameters#Template_Tab)
 
 5.  Select an option from the **Org Unit Security Level** list box.
     
     **NOTE:** The value chosen sets how Org Unit values are assigned to
     requests by default. The **ASSIGNED** column on the *[*Request (Org
-    Unit Assignments)*](../Page_Desc/Request_Org_Unit_Assignments.htm)*
+    Unit Assignments)*](../Page_Desc/Request_Org_Unit_Assignments)*
     page is checked or unchecked based on the Org Unit Security Level.
     Options are:
     
@@ -107,7 +107,7 @@ To set security for request Org Unit Assignment at the global level:
 6.  Click <span style="font-weight: bold;">Save</span>.
 
 The Org Unit Security Level set on
-the<span style="font-style: italic;">[Parameters](../Page_Desc/Parameters.htm)</span><span>page
+the<span style="font-style: italic;">[Parameters](../Page_Desc/Parameters)</span><span>page
 is the default value for all newly created
 templates.</span>
 
@@ -127,7 +127,7 @@ navigate to the settings at the template level:
 5.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the Templates page, Advanced
-    tab](../Page_Desc/Templates_H.htm#Advanced_Tab)
+    tab](../Page_Desc/Templates_H#Advanced_Tab)
 
 6.  Make choices as described above.
 
@@ -189,7 +189,7 @@ Click this icon to view the request’s Org Unit assignments.
 Once a request with Org Units is saved, the Org Unit, request ID, and
 user ID are written to the Org Units table in the cMass\_Data database.
 Refer to [TEMPLATE COLUMN
-Information](Set_up_Org_Units.htm#TEMPLATE_COLUMN_Information) for more
+Information](Set_up_Org_Units#TEMPLATE_COLUMN_Information) for more
 information.
 
 ## <span id="Reset_the_Org_Unit_Assignments_for_a_Request"></span>Reset the Org Unit Assignments for a Request

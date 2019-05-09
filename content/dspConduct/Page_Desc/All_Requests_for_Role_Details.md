@@ -6,7 +6,7 @@ solution = 'Master Data Management'
 # All Requests for Role Details
 
 Use this page to view details for the [All Requests for
-Role](All_Requests_for_Role.htm) chart.
+Role](All_Requests_for_Role) chart.
 
 To access this page in dspConduct™:
 

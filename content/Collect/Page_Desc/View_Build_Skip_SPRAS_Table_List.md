@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Manage the View Build Skip SPRAS Table
-List](../Use_Cases/View_Build_Skip_SPRAS_Table_List.htm).
+List](../Use_Cases/View_Build_Skip_SPRAS_Table_List).
 
 </div>
 

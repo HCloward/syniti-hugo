@@ -11,9 +11,9 @@ To register an object:
 
 1.  Select **Common \> Analyze** in the *Navigation* pane.
     
-    **NOTE**: The *[Analyze](../Page_Desc/Analyze.htm)* page displays
+    **NOTE**: The *[Analyze](../Page_Desc/Analyze)* page displays
     data sources registered in System Administration that are not added
-    to the *[Ignore Data Sources](Ignore_Data_Sources.htm)* page and to
+    to the *[Ignore Data Sources](Ignore_Data_Sources)* page and to
     which the logged in user has security to view. Data sources are
     analyzed for database object changes, table statistics and duplicate
     records.
@@ -24,13 +24,13 @@ To register an object:
     add-mode. Otherwise, click Add.
     
      *[View the field descriptions for the Objects
-    page](../Page_Desc/Objects_H_Common.htm)*
+    page](../Page_Desc/Objects_H_Common)*
 
 3.  Enter an object name in **Object** field.
 
 4.  Select a view from <span style="font-weight: bold;">View Name</span>
     list box. This is the view created in [Create Object
-    Views.](Create_Object_Views.htm)
+    Views.](Create_Object_Views)
 
 5.  Update **Search ID** field if default value is not applicable.
     

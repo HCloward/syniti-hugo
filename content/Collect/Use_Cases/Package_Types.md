@@ -54,7 +54,7 @@ following table outlines the various package types supported in Collect:
 <tr class="even">
 <td><p>Manual Data Services</p></td>
 <td><p>Uses a custom Data Services package created by the user.</p>
-<p><strong>NOTE:</strong> The Data Services Job that is run with this package type must follow the naming conventions defined for Collect. Refer to <a href="Use_the_Manual_Data_Services_Package_Type.htm">Use the Manual Data Services Package Type</a> for more information.</p></td>
+<p><strong>NOTE:</strong> The Data Services Job that is run with this package type must follow the naming conventions defined for Collect. Refer to <a href="Use_the_Manual_Data_Services_Package_Type">Use the Manual Data Services Package Type</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>ManualSSIS</p></td>
@@ -63,7 +63,7 @@ following table outlines the various package types supported in Collect:
 <tr class="even">
 <td><p>SAP Data Services</p></td>
 <td><p>Uses the Data Services module of SAP. This is the recommended package type.</p>
-<p><strong>NOTE:</strong> When using this package type, it is recommended that the Delete Target Table On Build check box be disabled in Collect on the <em><a href="../Page_Desc/Target_Sources_H_Collect.htm">Target Sources</a></em> page’s <em>Vertical</em> View on the Advanced tab. In this case, if the check box is enabled, dspCompose™<span style="font-weight: bold;"> will  delete every record in the target table</span> during the Final Finish process (during which data posted in the target ERP system by the request is downloaded to tables.)</p></td>
+<p><strong>NOTE:</strong> When using this package type, it is recommended that the Delete Target Table On Build check box be disabled in Collect on the <em><a href="../Page_Desc/Target_Sources_H_Collect">Target Sources</a></em> page’s <em>Vertical</em> View on the Advanced tab. In this case, if the check box is enabled, dspCompose™<span style="font-weight: bold;"> will  delete every record in the target table</span> during the Final Finish process (during which data posted in the target ERP system by the request is downloaded to tables.)</p></td>
 </tr>
 <tr class="odd">
 <td><p>SAP Data Services using RFC</p></td>

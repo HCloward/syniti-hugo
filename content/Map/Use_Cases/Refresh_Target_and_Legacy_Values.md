@@ -11,17 +11,17 @@ field.
 
 These values display in the list boxes Legacy Value and Target Value on
 the [Value Mapping (Legacy to
-Target)](../Page_Desc/Value_Mapping_Legacy_to_Target_H.htm) page. If no
+Target)](../Page_Desc/Value_Mapping_Legacy_to_Target_H) page. If no
 options display in these list boxes (as in, the only option in the list
 box is None), the Target values and legacy values must be refreshed on
 the [Wave Check Table
-Refresh](../Page_Desc/Wave_Lookup_Table_Refresh.htm) page.
+Refresh](../Page_Desc/Wave_Lookup_Table_Refresh) page.
 
 <span style="font-weight: bold;">NOTE</span>: Lookup tables are either
 created in Target Design or imported into Target Design with a System
 Type. When changes to lookup tables are saved in Target Design, those
 changes are automatically synced to Map. Refer to [Set up Lookup
-Tables](../../Design/Use_Cases/Set_up_Lookup_Tables.htm) for more
+Tables](../../Design/Use_Cases/Set_up_Lookup_Tables) for more
 information.
 
 Prior to performing the refresh, ensure:
@@ -34,7 +34,7 @@ Prior to performing the refresh, ensure:
     (<span style="font-weight: bold;">Console \> Waves</span>; click
     <span style="font-style: italic;">Vertical</span> View).
   - The lookup tables have been downloaded in Collect. Refer to [Refresh
-    Tables](../../../Platform/Collect/Use_Cases/Refresh_Tables.htm) for
+    Tables](../../../Platform/Collect/Use_Cases/Refresh_Tables) for
     more information.
   - The lookup table is active and the lookup table’s type is
     Configuration.
@@ -58,10 +58,10 @@ To refresh the values in Map:
 4.  Click <span style="font-weight: bold;">OK</span>.
 
 The list boxes Legacy Value and Target Value on the [Value Mapping
-(Legacy to Target)](../Page_Desc/Value_Mapping_Legacy_to_Target_H.htm)
+(Legacy to Target)](../Page_Desc/Value_Mapping_Legacy_to_Target_H)
 page display the legacy values and/or the Target values used in value
 mapping. Refer to [Perform Value
-Mapping](Perform_Value_Mapping_Overview.htm) for more information.
+Mapping](Perform_Value_Mapping_Overview) for more information.
 
 To refresh values for a single Target or Source, refer to [Refresh
-Lookup Tables](Refresh_Lookup_Tbls.htm) for more information.
+Lookup Tables](Refresh_Lookup_Tbls) for more information.

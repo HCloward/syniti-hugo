@@ -14,7 +14,7 @@ installed (i.e., delivered) template security roles, an Administrator:
 A user can then:
 
 3.  Add Projects and Plans in dspTrack™. Refer to [Organize Plans with
-    Projects](../Use_Cases/Organize_Plans_with_Projects.htm) for more
+    Projects](../Use_Cases/Organize_Plans_with_Projects) for more
     information.
 
 An Administrator can then:

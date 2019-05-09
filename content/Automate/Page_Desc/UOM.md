@@ -9,10 +9,10 @@ solution = 'Platform'
 
 This page is used to:
 
-  - [Set Retry Parameters](../Use_Cases/Set_Retry_Parameters.htm)
+  - [Set Retry Parameters](../Use_Cases/Set_Retry_Parameters)
   - [Run Interface Events
-    Sequentially](../Use_Cases/Run_Interface_Events_Sequentially.htm)
-  - [Schedule Interfaces](../Use_Cases/Schedule_Interfaces.htm)
+    Sequentially](../Use_Cases/Run_Interface_Events_Sequentially)
+  - [Schedule Interfaces](../Use_Cases/Schedule_Interfaces)
 
 </div>
 

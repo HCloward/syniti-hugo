@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [Map an IGC™ Task to An Existing dspConduct™
-Task](../Use_Cases/Map_a_dspConduct_Task_to_a_Task_Imported_from_IGC.htm#Map_an_IGC_Task_to_An_Existing_dspConduct_Task)
+Task](../Use_Cases/Map_a_dspConduct_Task_to_a_Task_Imported_from_IGC#Map_an_IGC_Task_to_An_Existing_dspConduct_Task)
 .
 
 </div>
@@ -31,7 +31,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>TASK ID</p></td>
-<td><p>Displays the dspConduct™ task assigned to the IGC™ task selected on the <em><a href="IGC_Task.htm">IGC Task</a></em> page.</p>
+<td><p>Displays the dspConduct™ task assigned to the IGC™ task selected on the <em><a href="IGC_Task">IGC Task</a></em> page.</p>
 <p>dspConduct™ tasks that can be mapped to IGC™ tasks are either:</p>
 <ul>
 <li>dspConduct™ tasks in the category that are of the same task type as the IGC™ task</li>

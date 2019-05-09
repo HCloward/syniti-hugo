@@ -19,7 +19,7 @@ To resolve duplicate candidates:
 3.  Click **Unresolved Candidates** for Object.
     
     [View the field descriptions for the Candidates
-    page](../Page_Desc/Candidates.htm)
+    page](../Page_Desc/Candidates)
 
 4.  Decide if a duplicate pair should use the original value, use the
     duplicate value or is a non duplicate.

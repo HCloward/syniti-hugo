@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Add a Process
-Area](../Use_Cases/Add_Elements_Separately.htm#Add).
+Area](../Use_Cases/Add_Elements_Separately#Add).
 
 </div>
 
@@ -25,6 +25,6 @@ pane.
 |                   |                                                                                                                                            |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Field             | Description                                                                                                                                |
-| Copy Process Area | Click to open the *[Copy Process Area](Copy_Process_Area.htm)* page to create a Process Area based on a copy of the selected Process Area. |
+| Copy Process Area | Click to open the *[Copy Process Area](Copy_Process_Area)* page to create a Process Area based on a copy of the selected Process Area. |
 | Process Area      | Displays the name of the Process Area, which is used to group migration Objects.                                                           |
 | DESCRIPTION       | Displays a description of the Process Area.                                                                                                |

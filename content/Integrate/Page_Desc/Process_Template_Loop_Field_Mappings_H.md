@@ -12,13 +12,13 @@ solution = 'Platform'
 Use this page to:
 
   - [Configure Field Mappings for a Process Based on a BDC Script
-    Template](../Use_Cases/ConfigureFieldMappingsBDC_Script_Template.htm)
+    Template](../Use_Cases/ConfigureFieldMappingsBDC_Script_Template)
   - [Configure Field Mappings for a Process Based on a GUI Script
-    Template](../Use_Cases/ConfigureFieldMappingsGUI_Script_Template.htm)
+    Template](../Use_Cases/ConfigureFieldMappingsGUI_Script_Template)
   - [Configure Field Mappings for a Process Based on an
-    RFC](../Use_Cases/VwConfigureFldMappingsProcRFC.htm)
+    RFC](../Use_Cases/VwConfigureFldMappingsProcRFC)
   - [Configure Field Mappings for a Process Based on a
-    BAPI](../Use_Cases/ViewandConfigureFieldMappingsBAPI.htm)
+    BAPI](../Use_Cases/ViewandConfigureFieldMappingsBAPI)
 
 </div>
 
@@ -66,7 +66,7 @@ To access this page:
 ## <span id="Process_Template_Loop1"></span>Process Template Loop Field Mappings V
 
 [Process Template Loop Field Mappings
-H](Process_Template_Loop_Field_Mappings_H.htm)
+H](Process_Template_Loop_Field_Mappings_H)
 
 Field
 

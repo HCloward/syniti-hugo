@@ -10,8 +10,8 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Create the Contexts for Migration
-Projects](../Use_Cases/Create_Contexts_for_Migration_Projects.htm) and
-[Configure an Object](../Use_Cases/Configure_Object.htm).
+Projects](../Use_Cases/Create_Contexts_for_Migration_Projects) and
+[Configure an Object](../Use_Cases/Configure_Object).
 
 </div>
 
@@ -31,7 +31,7 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Copy Object</p></td>
-<td><p>Click to open the <em><a href="Copy_Object.htm">Copy Object</a></em> page to create an object based on a copy of the selected Object.</p></td>
+<td><p>Click to open the <em><a href="Copy_Object">Copy Object</a></em> page to create an object based on a copy of the selected Object.</p></td>
 </tr>
 <tr class="odd">
 <td><p>PRIORITY</p></td>
@@ -48,28 +48,28 @@ To access this page:
 </tr>
 <tr class="even">
 <td><p>Contacts</p></td>
-<td><p>Click to open the <em><a href="Object_Contacts.htm">Object Contacts</a></em> page to add contacts for the selected Object.</p></td>
+<td><p>Click to open the <em><a href="Object_Contacts">Object Contacts</a></em> page to add contacts for the selected Object.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Decisions</p></td>
-<td><p>Click to open the <em><a href="Object_Decisions_H.htm">Object Decisions</a></em> page to enter and track issues related to the selected migration Object.</p></td>
+<td><p>Click to open the <em><a href="Object_Decisions_H">Object Decisions</a></em> page to enter and track issues related to the selected migration Object.</p></td>
 </tr>
 <tr class="even">
 <td><p>History</p></td>
-<td><p>Click to open the <em><a href="Object_History_H.htm">Object History</a></em> page, to view the history for the selected Object. History is not tracked for an Object unless the <strong>Build History</strong> check box is checked on the <em>Objects</em> page’s <em>Vertical</em> View.</p></td>
+<td><p>Click to open the <em><a href="Object_History_H">Object History</a></em> page, to view the history for the selected Object. History is not tracked for an Object unless the <strong>Build History</strong> check box is checked on the <em>Objects</em> page’s <em>Vertical</em> View.</p></td>
 </tr>
 </tbody>
 </table>
 
 ## <span id="Objects_V_All_Tabs"></span>Objects V
 
-[Objects H](Objects_H.htm)
+[Objects H](Objects_H)
 
 <div class="use">
 
 Use this page to [Create the Contexts for Migration
-Projects](../Use_Cases/Create_Contexts_for_Migration_Projects.htm) and
-[Configure an Object](../Use_Cases/Configure_Object.htm).
+Projects](../Use_Cases/Create_Contexts_for_Migration_Projects) and
+[Configure an Object](../Use_Cases/Configure_Object).
 
 </div>
 
@@ -99,7 +99,7 @@ displays on the <span style="font-style: italic;">Objects</span> page.
 The Priority field in Transform is not updated. To change the order the
 Object is processed, the Priority field can be updated manually in
 Transform on the
-<span style="font-style: italic;">[Targets](../../Transform/Page_Desc/Targets_H.htm)</span>
+<span style="font-style: italic;">[Targets](../../Transform/Page_Desc/Targets_H)</span>
 page.
 
 Comment
@@ -142,7 +142,7 @@ Complexity
 Displays the complexity for building the Object. This value can be used
 to evaluate work assignments. Options include Average, Simple or
 Complex. These options can be configured on the *[List Value
-Configuration](List_Value_Configuration.htm)* page. If a target is
+Configuration](List_Value_Configuration)* page. If a target is
 created in Map that does not have an assigned Complexity, this value
 will be passed to Transform to complete the required **Complexity**
 field on the *Targets* page’s *Vertical* View on the **Documentation**
@@ -192,7 +192,7 @@ Documentation and History
 Build History
 
 If checked, Map tracks the history for this Object and display this
-information on the *[Object History](Object_History_H.htm)* page.
+information on the *[Object History](Object_History_H)* page.
 
 History Requirements
 

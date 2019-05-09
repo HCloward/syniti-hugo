@@ -9,7 +9,7 @@ solution = 'Master Data Management'
 
 Use this page to [Search for Scenario Role Task Column Assignments while
 Reviewing a
-Request](../Use_Cases/Search_for_Scenario_Role_Task_Column_Assignments_while_Reviewing_a_Request.htm)
+Request](../Use_Cases/Search_for_Scenario_Role_Task_Column_Assignments_while_Reviewing_a_Request)
 .
 
 </div>
@@ -42,7 +42,7 @@ To access this page:
 <td><p>VARIANT</p></td>
 <td><p>Displays a variant that can be used by the column.</p>
 <p>The default variant (*) displays for all columns.</p>
-<p>Refer to <a href="../Use_Cases/Activate_Configure_Column_Variants.htm">Activate and Configure Column Variants</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Activate_Configure_Column_Variants">Activate and Configure Column Variants</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>COLUMN PAGE ID</p></td>

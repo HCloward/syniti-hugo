@@ -12,9 +12,9 @@ Data can then be posted to these target systems sequentially.
 At a high level, the user:
 
 1.  [Specifies available connections at the process template
-    level](Set_Connections_at_the_Process_Template_Level.htm).
+    level](Set_Connections_at_the_Process_Template_Level).
 2.  [Edits the connections to target systems at the process post
-    level](Edit_Connections_to_Target_Systems_at_the_Process_Post_Level.htm)
+    level](Edit_Connections_to_Target_Systems_at_the_Process_Post_Level)
     (if needed).
 
 After a user adds a process, the system creates one process template for
@@ -53,7 +53,7 @@ example, a BODS Execution template only allows a connection to a Data
 Services Repository. BDC Script and GUI Script template connections are
 restricted to SAP Application Server data source types. Refer to the
 [Data Source Registry page’s Vertical
-View](../../Common/Page_Desc/Data_Source_Registry_H.htm#Data_Source_Registry_V)
+View](../../Common/Page_Desc/Data_Source_Registry_H#Data_Source_Registry_V)
 for more information about these connections.
 
 <span style="font-weight: bold;">NOTE</span>: There is no limit to the
@@ -64,4 +64,4 @@ system connections.
 the allowed connections are also copied.
 
 Begin by [setting available connections at the process template
-level](Set_Connections_at_the_Process_Template_Level.htm).
+level](Set_Connections_at_the_Process_Template_Level).

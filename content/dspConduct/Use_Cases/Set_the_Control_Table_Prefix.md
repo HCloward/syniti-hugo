@@ -13,7 +13,7 @@ level.
 with a default control table prefix. Updating the prefix is optional.
 
 The control table prefix set at the category level on the
-[Category](../Page_Desc/Category_H.htm) page’s
+[Category](../Page_Desc/Category_H) page’s
 <span style="font-style: italic;">Vertical View</span> is the prefix to
 the table name when a table is generated for a scenario \> role \> task
 combination for the category. When a table is generated for the control
@@ -24,7 +24,7 @@ For example, a user can enter the prefix "ttSRTC\_" and all control
 tables for the category are generated with that prefix.
 
 The control table prefix set at the page level on the [Task
-Page](../Page_Desc/Task_Page_H.htm) page is the prefix in the table name
+Page](../Page_Desc/Task_Page_H) page is the prefix in the table name
 when a table is generated for a scenario \> role \> task combination
 that uses this page.
 
@@ -42,6 +42,6 @@ page for “Address”, the Control Table Prefix is
 is ttSRTC\_RequestAddress\_Country.
 
 Refer to [Create Tables and Views for Content WebApp
-Pages](Create_Tables_and_Views_for_Content_WebApp_Pages_Overview.htm)
+Pages](Create_Tables_and_Views_for_Content_WebApp_Pages_Overview)
 and [Create and Configure Column
-Variants](Activate_Configure_Column_Variants.htm) for more information.
+Variants](Activate_Configure_Column_Variants) for more information.

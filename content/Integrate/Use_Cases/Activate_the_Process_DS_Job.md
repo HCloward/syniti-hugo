@@ -9,8 +9,8 @@ A Template Administrator can activate a process to use the process
 template to post data.
 
 Before performing this task, [create a
-template](Create_an_SAP_Data_Services_Job_template.htm), and [add the
-template to a process.](Add_the_Template_to_a_Process_DSJob.htm)
+template](Create_an_SAP_Data_Services_Job_template), and [add the
+template to a process.](Add_the_Template_to_a_Process_DSJob)
 
 To activate a process, the template assigned to the process must be
 active.
@@ -29,13 +29,13 @@ activated, it must be deactivated to be edited.
 
 <span style="font-weight: bold;">NOTE:</span> Integrate allows a user to
 activate or deactivate all processes associated with a template from the
-[Template Processes](../Page_Desc/Template_Processes.htm) page. Refer to
+[Template Processes](../Page_Desc/Template_Processes) page. Refer to
 [Activate or Deactivate Multiple Processes for a
-Template](ActivateDeactivateMultProc.htm) for more information.
+Template](ActivateDeactivateMultProc) for more information.
 
 After the process is active, changes cannot be made to process
 templates. The Postings icon is activated and process posts can be added
 or edited.
 
 Continue with [Post Data using an SAP Data Services
-Job.](Post_Data_Using_an_SAP_Data_Services_Job.htm)
+Job.](Post_Data_Using_an_SAP_Data_Services_Job)

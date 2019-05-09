@@ -60,7 +60,7 @@ To add organizational units:
     **Add**.
     
     *<span style="color: #0000ff;">[View the field descriptions for the
-    Org Units page](../Page_Desc/Org_Units.htm)</span>*
+    Org Units page](../Page_Desc/Org_Units)</span>*
 
 3.  Enter a unique name in the **ORG UNIT** field.
     
@@ -77,7 +77,7 @@ To add organizational units:
     **NOTE:** This data source contains the table or view that provides
     Org Unit values and must be registered in the platform. Refer to
     [Register a Data Source in
-    Common](../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common.htm)
+    Common](../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common)
     for more information.
 
 5.  Select a value from the **LIST SOURCE** list box.
@@ -122,7 +122,7 @@ only see the data that is relevant to their org unit security setup.
 
 Each category object is limited to three org unit types. An org unit
 type consists of org units that have been created on the [Org
-Units](../Page_Desc/Org_Units.htm) page.
+Units](../Page_Desc/Org_Units) page.
 
 For example, the category Customer uses a category object of Customer
 Data. The Customer Data category object uses the Company Code org unit
@@ -143,13 +143,13 @@ To add an org unit type to a category in dspConduct™:
     **Add**.
     
     [View the field descriptions for the Category Org Unit Type
-    page](../Page_Desc/Category_Org_Unit_Type.htm)
+    page](../Page_Desc/Category_Org_Unit_Type)
 
 5.  Select a category object from the **OBJECT NAME** list box.
     
     **NOTE**: If no category objects exist for this category, the OBJECT
     NAME defaults to the category name. Refer to the
-    [Category](../Page_Desc/Category_H.htm) page for more information.
+    [Category](../Page_Desc/Category_H) page for more information.
 
 6.  If a category object must be added, click **Click to add a new
     item**. The *Category Objects* page displays in add mode in another
@@ -160,7 +160,7 @@ To add an org unit type to a category in dspConduct™:
 8.  Click **Save**.
 
 9.  Return to the *[Category Org Unit
-    Type](../Page_Desc/Category_Org_Unit_Type.htm)* page.
+    Type](../Page_Desc/Category_Org_Unit_Type)* page.
 
 10. Select the newly added category object from the **OBJECT NAME** list
     box.
@@ -182,15 +182,15 @@ roles.
 Before performing this task, org units must be added. The org unit types
 that can be configured for a group are based on the org unit set up on
 the <span style="font-style: italic;">[Org
-Units](../Page_Desc/Org_Units.htm)</span> page. Refer to [Add Org
-Units](Manage_Org_Units.htm#Add_Org_Units) for more information.
+Units](../Page_Desc/Org_Units)</span> page. Refer to [Add Org
+Units](Manage_Org_Units#Add_Org_Units) for more information.
 
 Once an org unit group is added and the values for each org unit type
 are configured, the org unit group can be added to positions and roles
 in Security. Refer to [Add Org Units from a Group to all Roles in a
-Position](Add_Org_Units_from_a_Group_to_Roles.htm#Add_Org_Units_from_a_Group_to_all_Roles_in_a_Position)
+Position](Add_Org_Units_from_a_Group_to_Roles#Add_Org_Units_from_a_Group_to_all_Roles_in_a_Position)
 and [Add Org Units from a Group to a Position
-Role](Add_Org_Units_from_a_Group_to_Roles.htm#Add_Org_Units_from_a_Group_to_a_Position_Role)
+Role](Add_Org_Units_from_a_Group_to_Roles#Add_Org_Units_from_a_Group_to_a_Position_Role)
 for more information.
 
 To add org unit groups and configure org unit values for org unit groups
@@ -204,7 +204,7 @@ in dspConduct™:
     **Add**.
     
     *[View the field descriptions for the Org Units Groups
-    page.](../Page_Desc/Org_Unit_Groups.htm)*
+    page.](../Page_Desc/Org_Unit_Groups)*
 
 3.  Enter a unique name in the **NAME** field.
 
@@ -214,17 +214,17 @@ in dspConduct™:
     Group Types* page displays.
     
     *[View the field descriptions for the Org Units Group Types
-    page.](../Page_Desc/Org_Unit_Group_Types.htm)*
+    page.](../Page_Desc/Org_Unit_Group_Types)*
     
     **NOTE:** The org unit IDs that display are based on the types of
-    org units added on the *[Org Units](../Page_Desc/Org_Units.htm)*
+    org units added on the *[Org Units](../Page_Desc/Org_Units)*
     page.
 
 6.  Click the **Org Units** icon for an Org Unit ID; *Org Unit Group
     Type Values* page displays.
     
     *[View the field descriptions for the Org Units Group Type Values
-    page.](../Page_Desc/Org_Unit_Group_Type_Values.htm)*
+    page.](../Page_Desc/Org_Unit_Group_Type_Values)*
 
 7.  Select one or more org unit values, and then click the
     <span style="font-weight: bold;">Include</span> or

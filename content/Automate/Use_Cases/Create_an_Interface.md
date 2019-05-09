@@ -21,7 +21,7 @@ To create an interface in Automate:
 2.  Click **Add**.
     
     [View the field description for the Interfaces
-    page](../Page_Desc/Interfaces.htm)
+    page](../Page_Desc/Interfaces)
 
 3.  Enter a name of the interface group in the **GROUP** field.
 
@@ -58,7 +58,7 @@ To create an interface in Automate:
         
         **NOTE:** The list of Queue IDs are configured in System
         Administration. Refer to [Add a Service
-        Queue](../../Sys_Admin/Use_Cases/Add%20a%20Service%20Queue.htm)
+        Queue](../../Sys_Admin/Use_Cases/Add%20a%20Service%20Queue)
         in the help for more information.
 
 8.  Select a type from **SCHEDULE TYPE** list box to determine when the
@@ -73,14 +73,14 @@ To create an interface in Automate:
     
     **NOTE:** The Run Time field must only be populated if the SCHEDULE
     TYPE is set to Run Time. Refer to [Schedule
-    Interfaces](Schedule_Interfaces.htm) for more information.
+    Interfaces](Schedule_Interfaces) for more information.
     
     **NOTE:** Ignore THREAD SAFE; this field is not used.
 
 10. Click **Save**; the *Vertical* View displays.
     
     [View the field description for the Interfaces page’s Vertical
-    View](../Page_Desc/Interfaces.htm#InterfacesV)
+    View](../Page_Desc/Interfaces#InterfacesV)
 
 11. Enter a brief description of the interface’s functionality in the
     **Comment** field.

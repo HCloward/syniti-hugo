@@ -8,7 +8,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Download Mappings for
-Review](../Use_Cases/Approve_or_Reject_Mappings.htm#Download_Mappings_for_Review).
+Review](../Use_Cases/Approve_or_Reject_Mappings#Download_Mappings_for_Review).
 
 </div>
 
@@ -29,5 +29,5 @@ toolbar.
 | TARGET                                                     | Displays the name of the Target that is being mapped to.                                                              |
 | SOURCE                                                     | Displays the name of the Source that is being mapped from.                                                            |
 | <span id="Mapping Actions" class="popUpLink">ACTION</span> | Displays the action used in the mapping (for example, Copy, Default or Internal).                                     |
-| COMMENT                                                    | Displays the comment entered for the mapping on the Vertical View of the [Field Mappings](Field_Mappings_H.htm) page. |
+| COMMENT                                                    | Displays the comment entered for the mapping on the Vertical View of the [Field Mappings](Field_Mappings_H) page. |
 | MAPPED BY                                                  | Displays the user name of the user who clicked Submit for the mapping.                                                |

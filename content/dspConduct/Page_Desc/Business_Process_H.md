@@ -11,13 +11,13 @@ solution = 'Master Data Management'
 
 Use this page to:
 
-  - [Add a Business Process](../Use_Cases/Add_Business_Process.htm)
+  - [Add a Business Process](../Use_Cases/Add_Business_Process)
   - [Deactivate a Business
-    Process](../Use_Cases/Deactivate_Business_Process.htm)
+    Process](../Use_Cases/Deactivate_Business_Process)
   - [Add a Scenario to a Business
-    Process](../Use_Cases/Add_a_Scenario_to_a_Business_Process.htm)
+    Process](../Use_Cases/Add_a_Scenario_to_a_Business_Process)
   - [View Business Process
-    Visualization](../Use_Cases/View_Business%20_Process_Visualization.htm)
+    Visualization](../Use_Cases/View_Business%20_Process_Visualization)
 
 </div>
 
@@ -32,7 +32,7 @@ that was entered in IGC™ cannot be updated from within dspConduct™, and
 many of the fields and icons associated with the record are not active
 for that business process. Refer to [Update Custom Attributes for
 Governance
-Elements](../Use_Cases/Update_Custom_Attributes_for_Governance_Elements.htm)
+Elements](../Use_Cases/Update_Custom_Attributes_for_Governance_Elements)
 for more information.
 
 <table>
@@ -87,7 +87,7 @@ for more information.
 </tr>
 <tr class="odd">
 <td><p>Scenarios</p></td>
-<td><p>Click to open the <em><a href="Business_Process_Scenarios.htm">Business Process (Scenarios)</a></em> page to add a scenario. Refer to <a href="../Use_Cases/Add_Scenario.htm">Add a Scenario</a> for more information.</p></td>
+<td><p>Click to open the <em><a href="Business_Process_Scenarios">Business Process (Scenarios)</a></em> page to add a scenario. Refer to <a href="../Use_Cases/Add_Scenario">Add a Scenario</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Business Process Report</p></td>
@@ -96,7 +96,7 @@ for more information.
 <tr class="odd">
 <td><p>Business Process Visualization</p></td>
 <td><p>Click to open the <em>Business Process Visualization</em> page to view a diagram of the current configuration of the business process including roles and tasks for the associated scenarios and any scenario and role dependencies.</p>
-<p>Refer to <a href="../Use_Cases/View_Business%20_Process_Visualization.htm">View Business Process Visualization</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/View_Business%20_Process_Visualization">View Business Process Visualization</a> for more information.</p></td>
 </tr>
 </tbody>
 </table>
@@ -111,10 +111,10 @@ H](#Business_Process_H)</span>
 Use this page to:
 
   - [Configure business value
-    parameters](../Use_Cases/Configure_Business_Value_Parameters.htm)
-  - [View Charts in dspConduct™](../Use_Cases/View_Charts.htm)
+    parameters](../Use_Cases/Configure_Business_Value_Parameters)
+  - [View Charts in dspConduct™](../Use_Cases/View_Charts)
   - [View Business Value
-    Dashboard](../Use_Cases/View_Business_Value_Dashboard.htm)
+    Dashboard](../Use_Cases/View_Business_Value_Dashboard)
 
 </div>
 
@@ -171,11 +171,11 @@ status by unchecking the ACTIVE check box.
 
 Documentation
 
-Click to open the *[Element Documentation](Element_Documentation.htm)*
+Click to open the *[Element Documentation](Element_Documentation)*
 page to upload or download documentation regarding the business process.
 
 Refer to [Upload Documentation at the Business Process
-Level](../Use_Cases/Upload_Documentation_at_the_Business_Process_Level.htm)
+Level](../Use_Cases/Upload_Documentation_at_the_Business_Process_Level)
 for more information.
 
 Business Process Report
@@ -188,14 +188,14 @@ that can access the business process.
 Metrics
 
 Click to open the dashboard for the business process. Refer to [View
-Charts in dspConduct™](../Use_Cases/View_Charts.htm) for more
+Charts in dspConduct™](../Use_Cases/View_Charts) for more
 information about the charts displayed on the dashboard .
 
 Business Value Dashboard
 
 Click to open the business value dashboard for the business process.
 Refer to [View Business Value
-Dashboard](../Use_Cases/View_Business_Value_Dashboard.htm) for more
+Dashboard](../Use_Cases/View_Business_Value_Dashboard) for more
 information about the charts displayed on the dashboard.
 
 Comment
@@ -211,7 +211,7 @@ complete a business process manually
 <span style="color: #ff0000; font-weight: bold;">before the process was
 automated</span> using dspConduct™ as determined by the Process
 Designer. Refer to [Configure Business Value
-Parameters](../Use_Cases/Configure_Business_Value_Parameters.htm) for
+Parameters](../Use_Cases/Configure_Business_Value_Parameters) for
 more information.
 
 **NOTE:** Enter working hours in whole units. Partial hours (decimals)
@@ -222,8 +222,8 @@ Current Application Currency
 Displays the currency related to the Average Cost Per Hour field.
 
 The currency symbol displayed here is set on the
-*[Parameters](Parameters_dspConduct.htm)* page. Refer to [Set Currency
-Display Label](../Config/Set_Currency_Display_Label.htm) for more
+*[Parameters](Parameters_dspConduct)* page. Refer to [Set Currency
+Display Label](../Config/Set_Currency_Display_Label) for more
 information.
 
 Average Cost Per Hour
@@ -238,7 +238,7 @@ by the Process Designer.
 the Current Application Currency field.
 
 Refer to [Configure Business Value
-Parameters](../Use_Cases/Configure_Business_Value_Parameters.htm) for
+Parameters](../Use_Cases/Configure_Business_Value_Parameters) for
 more information.
 
 Calculate Archived Request Working Hours

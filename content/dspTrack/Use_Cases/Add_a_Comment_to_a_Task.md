@@ -11,7 +11,7 @@ List</span>. Once saved, comments are visible on either page.
 
 **NOTE:** Comments can be added at any time. A user may be required to
 enter a comment Refer to [Set Comment Requirements for
-Tasks](Set_Comment_Requirements_for_Tasks.htm) for more information.
+Tasks](Set_Comment_Requirements_for_Tasks) for more information.
 
 Once a task is completed on the <span>Work List</span>, the task no
 longer displays on the <span>Work List</span>. The task still displays
@@ -34,7 +34,7 @@ Task</span> page:
 5.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the General tab of the Plan Task
-    page’s Vertical View](../Page_Desc/Plan_Task_H.htm#General_Tab)
+    page’s Vertical View](../Page_Desc/Plan_Task_H#General_Tab)
 
 6.  Enter the comment in the
     <span style="font-weight: bold;">Comment</span> field.
@@ -56,7 +56,7 @@ List</span> page:
 3.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the Work List’s Vertical
-    View](../Page_Desc/Work_List.htm#Work_List_V)
+    View](../Page_Desc/Work_List#Work_List_V)
 
 4.  Enter the comment in the
     <span style="font-weight: bold;">Comment</span> field.

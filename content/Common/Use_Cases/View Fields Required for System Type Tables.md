@@ -17,4 +17,4 @@ To view fields required for System Type tables:
     requirements.
     
     *[View the field descriptions for the System Types Model Required
-    Fields page](../Page_Desc/System_Types_Model_Required_Fields.htm)*
+    Fields page](../Page_Desc/System_Types_Model_Required_Fields)*

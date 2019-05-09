@@ -35,7 +35,7 @@ To add a debug log:
 2.  Click <span style="font-weight: bold;">Add</span>.
     
     <span style="font-style: italic;">[View the field descriptions for
-    the Debug Logs page.](../Page_Desc/Debug_Logs.htm)</span>
+    the Debug Logs page.](../Page_Desc/Debug_Logs)</span>
 
 3.  Select the name of the custom WebApp from the
     <span style="font-weight: bold;">COMPONENT</span> list box.

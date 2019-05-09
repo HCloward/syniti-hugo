@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to <span>[Allow a Scenario to be used in other
-Categories](../Use_Cases/Allow_a_Scenario_to_be_used_in_Other_Categories.htm).</span>
+Categories](../Use_Cases/Allow_a_Scenario_to_be_used_in_Other_Categories).</span>
 
 </div>
 

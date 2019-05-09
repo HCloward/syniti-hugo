@@ -8,10 +8,10 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to configure relationships for [BDC
-Script](../Use_Cases/ViewandConfigureRelationshipsBDC.htm), [GUI
-Script,](../Use_Cases/VwConfigureRelshpsGUIe.htm)[BAPI](../Use_Cases/VwConfigureRlshipsProcBAPI.htm),
-[RFC](../Use_Cases/VwConfigureRshpsProcRFC.htm) and
-[XML](../Use_Cases/ConfigureRelaManuallyXML.htm) template types.
+Script](../Use_Cases/ViewandConfigureRelationshipsBDC), [GUI
+Script,](../Use_Cases/VwConfigureRelshpsGUIe)[BAPI](../Use_Cases/VwConfigureRlshipsProcBAPI),
+[RFC](../Use_Cases/VwConfigureRshpsProcRFC) and
+[XML](../Use_Cases/ConfigureRelaManuallyXML) template types.
 
 </div>
 

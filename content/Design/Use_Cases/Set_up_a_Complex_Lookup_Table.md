@@ -7,7 +7,7 @@ solution = 'Migration'
 
 A complex lookup table contains a multiple part key.
 
-Refer to [Set up Lookup Tables](Set_up_Lookup_Tables.htm) for more
+Refer to [Set up Lookup Tables](Set_up_Lookup_Tables) for more
 information.
 
 **NOTE**: A lookup table can be added in Target Design with up to five
@@ -16,7 +16,7 @@ be written.
 
 **NOTE**: If the Target system is Oracle, a view must be written. A
 Target lookup table for an Oracle Target cannot be created using the
-*[Target Lookup Table](../Page_Desc/Target_Lookup_Table_H.htm)* page.
+*[Target Lookup Table](../Page_Desc/Target_Lookup_Table_H)* page.
 
 <span style="font-weight: bold;">NOTE</span>: The RuleXref action must
 be used with a lookup table that has multiple key fields. This allows
@@ -52,7 +52,7 @@ Design:
 2.  Click **Edit** or **Add**.
     
     *[View the field descriptions for the Target Lookup Table
-    page](../Page_Desc/Target_Lookup_Table_H.htm)*
+    page](../Page_Desc/Target_Lookup_Table_H)*
 
 3.  Enter the name of the table that contains the values that are used
     in value mapping in the **VALUE TABLE NAME** field.
@@ -79,7 +79,7 @@ Design:
     
     **NOTE**: This field displays in Map on the *Vertical* View of the
     *[Value Mapping
-    (Config)](../../Map/Page_Desc/Value_Mapping_Config_H.htm)* page
+    (Config)](../../Map/Page_Desc/Value_Mapping_Config_H)* page
     (Configuration \> Value Mapping (Config)).
 
 9.  Enter the name of the column that stores the descriptions for the

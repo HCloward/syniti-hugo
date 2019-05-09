@@ -13,27 +13,27 @@ client's setup.
 Before getting started with dspCompose™, verify the following steps have
 been completed:
 
-1.  [Set Up Security for dspCompose™](../Config/Set_Up_Security.htm)
+1.  [Set Up Security for dspCompose™](../Config/Set_Up_Security)
 2.  [Configure dspCompose™
-    Parameters](../Config/Configure_dspCompose_Parameters.htm)
-3.  [Configure Global Roles](../Config/Configure_Global_Roles.htm)
+    Parameters](../Config/Configure_dspCompose_Parameters)
+3.  [Configure Global Roles](../Config/Configure_Global_Roles)
 4.  [Assign a Catalog to a Custom WebApp for Use with
-    dspCompose™](../Config/Assign_Catalog_Custom_WebApp_for_dspCompose.htm)
-5.  [Enable Role Validations](../Config/Enable_Role_Validations.htm)
+    dspCompose™](../Config/Assign_Catalog_Custom_WebApp_for_dspCompose)
+5.  [Enable Role Validations](../Config/Enable_Role_Validations)
 6.  [Update Validation
-    Messages](../Config/Update_Validation_Messages.htm)
+    Messages](../Config/Update_Validation_Messages)
 7.  [Configure Workflow
-    Messages](../Config/Configure_Workflow_Messages.htm)
-8.  [Set up Workflow Messages](../Config/Set_up_Workflow_Messages.htm)
+    Messages](../Config/Configure_Workflow_Messages)
+8.  [Set up Workflow Messages](../Config/Set_up_Workflow_Messages)
 9.  [Configure Request
-    Statuses](../Config/Configure_Request_Statuses.htm)
+    Statuses](../Config/Configure_Request_Statuses)
 10. [Configure Columns to Exclude from Mass
-    Change](../Config/Configure_Columns_to_Exclude_from_Mass_Change.htm)
+    Change](../Config/Configure_Columns_to_Exclude_from_Mass_Change)
 11. [Display Posting Options on
-    Requests](../Config/Display_Posting_Options_on_Requests.htm)
+    Requests](../Config/Display_Posting_Options_on_Requests)
 12. [Configure Settings for External Data Processing and External
     Request
-    Scenarios](../Config/Configure_Settings_for_External_Data_Processing.htm)
+    Scenarios](../Config/Configure_Settings_for_External_Data_Processing)
 
 When the platform is installed, an Integrate category called
 **dspCompose** is created that will act as the repository in Integrate

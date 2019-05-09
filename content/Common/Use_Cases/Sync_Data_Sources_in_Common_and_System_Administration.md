@@ -7,7 +7,7 @@ solution = 'Platform'
 
 When an Administrator registers a data source in System Administration,
 it is available in Common on the <span style="font-style: italic;">[Data
-Source Registry](../Page_Desc/Data_Source_Registry_H.htm)</span> page.  
+Source Registry](../Page_Desc/Data_Source_Registry_H)</span> page.  
 
 However, after the initial record is added to Common, changes made to
 data sources in System Administration are not applied to data sources in

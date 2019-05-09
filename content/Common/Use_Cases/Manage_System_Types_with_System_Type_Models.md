@@ -10,14 +10,14 @@ when building the System Type.
 
 To Manage System Types via Configuration:
 
-  - [Add a System Type Model](Add_a_New_System_Type_Model.htm)
+  - [Add a System Type Model](Add_a_New_System_Type_Model)
   - [Add a System Type Model
-    Table](Add_a_New_System_Type_Model_Table.htm)
+    Table](Add_a_New_System_Type_Model_Table)
   - [View Fields Required for System Type
-    Tables](View%20Fields%20Required%20for%20System%20Type%20Tables.htm)
+    Tables](View%20Fields%20Required%20for%20System%20Type%20Tables)
   - [Add a System Type Model
-    Group](Add%20a%20System%20Type%20Model%20Group.htm)
+    Group](Add%20a%20System%20Type%20Model%20Group)
   - [Activate or Deactivate Tables in a System Type Model
-    Group](ActiveDeactiveTblsSystmTypeModelGrp.htm)
+    Group](ActiveDeactiveTblsSystmTypeModelGrp)
   - [Build Views based on a System Type
-    Model](Build%20Views%20based%20on%20a%20ST%20Model.htm)
+    Model](Build%20Views%20based%20on%20a%20ST%20Model)

@@ -2,7 +2,7 @@
 
 ISA retains a history of workflows sent to users for 7 days, based on
 the default setting in the **Days to Retain History** field on the
-*[Parameters](../Page_Desc/ISA_Parameters.htm)* page’s **Basic
+*[Parameters](../Page_Desc/ISA_Parameters)* page’s **Basic
 Settings** tab.
 
 To view the workflows sent to a user:

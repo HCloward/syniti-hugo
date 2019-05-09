@@ -7,14 +7,14 @@ solution = 'Master Data Management'
 
 This chart displays the average duration in days of active requests for
 all business processes in a category. When accessed from the *[*Business
-Process*](Business_Process_H.htm)* page’s *Vertical* View the chart
+Process*](Business_Process_H)* page’s *Vertical* View the chart
 displays the average duration of active requests for the selected
 business process.
 
 Click a bar to drill down to the [Scenario Business Process Request
-Duration](Scenario_BP_Request_Duration.htm) chart.
+Duration](Scenario_BP_Request_Duration) chart.
 
-Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts.htm) for
+Refer to [View Charts in dspConduct™](../Use_Cases/View_Charts) for
 general information about chart features.
 
 To access the chart:

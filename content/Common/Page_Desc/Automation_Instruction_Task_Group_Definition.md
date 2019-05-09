@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Define Tasks for Task
-Group](../Use_Cases/Define_Tasks_for_Task_Group.htm).
+Group](../Use_Cases/Define_Tasks_for_Task_Group).
 
 </div>
 

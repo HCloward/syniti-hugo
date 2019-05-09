@@ -6,19 +6,19 @@ solution = 'Migration'
 # Wave Compare for Target Results H
 
 [Wave Compare for Target Results
-V](Wave_Compare_for_Target_Results.htm#Wave_Compare_for_Target_Results_V)
+V](Wave_Compare_for_Target_Results#Wave_Compare_for_Target_Results_V)
 
 <div class="use" data-xmlns="">
 
 Use this page to [Synchronize Target Designs Across
-Waves](../Use_Cases/Synchronize_Target_Designs_Across_Waves.htm).
+Waves](../Use_Cases/Synchronize_Target_Designs_Across_Waves).
 
 </div>
 
 **NOTE**: This page is only accessible if the current user is a member
 of the WebApp group WaveSynchronizer in Console or is assigned to a
 security role with access to the page. Refer to [Set
-Security](../../../Platform/Sys_Admin/Use_Cases/Setting_security.htm) in
+Security](../../../Platform/Sys_Admin/Use_Cases/Setting_security) in
 System Administration for more information.
 
 To access this page:
@@ -86,11 +86,11 @@ To access this page:
 <tr class="odd">
 <td><p>SYSTEM TYPE ID</p></td>
 <td><p>Displays the System Type that was imported to create the Target design, or the System Type that was selected for the Target.</p>
-<p>Refer to <a href="../../Design/Use_Cases/Import_from_a_System_Type.htm">Import a Target Design from a System Type</a> and <a href="../../../Platform/Common/Use_Cases/System_Types_Overview.htm">System Types</a>  for more information.</p></td>
+<p>Refer to <a href="../../Design/Use_Cases/Import_from_a_System_Type">Import a Target Design from a System Type</a> and <a href="../../../Platform/Common/Use_Cases/System_Types_Overview">System Types</a>  for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Fields</p></td>
-<td><p>Click to open the <em><a href="Wave_Compare_for_Target_Field_Results.htm">Wave Compare for Target Field Results</a></em> page to review differences and sync the baseline and child Wave Target design at the Target field level.</p></td>
+<td><p>Click to open the <em><a href="Wave_Compare_for_Target_Field_Results">Wave Compare for Target Field Results</a></em> page to review differences and sync the baseline and child Wave Target design at the Target field level.</p></td>
 </tr>
 </tbody>
 </table>
@@ -98,7 +98,7 @@ To access this page:
 ## <span id="Wave_Compare_for_Target_Results_V"></span>Wave Compare for Target Results V
 
 [Wave Compare for Target Results
-H](Wave_Compare_for_Target_Results.htm)
+H](Wave_Compare_for_Target_Results)
 
 |                  |                                                                                                                                                                |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |

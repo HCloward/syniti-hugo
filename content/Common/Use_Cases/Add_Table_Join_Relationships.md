@@ -19,7 +19,7 @@ To add table join relationships:
 4.  Click **Add**.
     
     [View the field descriptions for the System Types Joins
-    page](../Page_Desc/System_Types_Joins.htm)
+    page](../Page_Desc/System_Types_Joins)
 
 5.  Select the table on left side of join from **LEFT SYSTEM TYPE TABLE
     ID** combo box.
@@ -34,7 +34,7 @@ To add table join relationships:
 9.  Click **Add**.
     
     [View the field descriptions for the System Types Join Field
-    page](../Page_Desc/System_Types_Join_Field.htm)
+    page](../Page_Desc/System_Types_Join_Field)
 
 10. Enter order in which joins occur in **PRIORITY** field.
 

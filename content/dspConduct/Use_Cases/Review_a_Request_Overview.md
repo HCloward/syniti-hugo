@@ -47,14 +47,14 @@ related to accounting and basic data about a customer.
 
 When a request is rejected, the Review role is reset. Refer to [Reset a
 Role with the Review Role
-Type](Reset_a_Role.htm#Reset_a_Role_with_the_Review_Role_Type) for more
+Type](Reset_a_Role#Reset_a_Role_with_the_Review_Role_Type) for more
 information.
 
 When a request is Approved it moves to the Post role so that the changes
 can be posted to the target system.
 
-Refer to [Approve a Request](Approve_a_Request.htm) and [Reject a
-Request](Reject_a_Request.htm) for more information.
+Refer to [Approve a Request](Approve_a_Request) and [Reject a
+Request](Reject_a_Request) for more information.
 
 The Review role can also [Review Request
-Changes](Review_Request_Changes.htm).
+Changes](Review_Request_Changes).

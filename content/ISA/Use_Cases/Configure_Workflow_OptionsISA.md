@@ -6,7 +6,7 @@ attachment in the form of an Excel file, a summary in the body of the
 email with the count of failed records and a link to the ISA to view
 additional details, or may not receive notification.
 
-Refer to [Summaries and Attachments](Summaries_and_Attachments.htm) and
+Refer to [Summaries and Attachments](Summaries_and_Attachments) and
 Review the Excel File for more information.
 
 Workflow options can be set at the user level or at the project
@@ -14,17 +14,17 @@ distribution level.
 
 Workflow notifications can be sent on a schedule for all users in the
 project at the project distribution level. Refer to [Schedule Workflow
-Notifications](Schedule_Workflow_Notifications.htm) for more
+Notifications](Schedule_Workflow_Notifications) for more
 information.
 
 <span style="font-weight: bold;">NOTE</span>: Depending on how workflow
 options are configured at the Distribution level and the user level,
 duplicate messages may be sent to a user. The Delete Duplicated Workflow
 setting on the
-<span style="font-style: italic;">[Parameters](../Page_Desc/ISA_Parameters.htm)</span>
+<span style="font-style: italic;">[Parameters](../Page_Desc/ISA_Parameters)</span>
 page prevents duplicate workflows from being sent.
 
-On the *[Users](../Page_Desc/Users_ISA.htm)* page, configure how the
+On the *[Users](../Page_Desc/Users_ISA)* page, configure how the
 user receives a workflow with records that failed IS rules.
 
 To configure user workflow options:
@@ -35,7 +35,7 @@ To configure user workflow options:
 2.  Click **Edit**.
     
     <span style="color: #0000ff;">[View the field descriptions for the
-    Users page.](../Page_Desc/Users_ISA.htm)</span>
+    Users page.](../Page_Desc/Users_ISA)</span>
 
 3.  Select an option in the **WORKFLOW OPTION** list box.
 
@@ -50,14 +50,14 @@ To configure user workflow options:
 7.  **NOTE:** Only Project Distributions in which the user is
     active display on the
     <span style="font-style: italic;">[Distribution Workflow Attachment
-    Option](../Page_Desc/Distribution_Workflow_Attachment_Option.htm)</span>
+    Option](../Page_Desc/Distribution_Workflow_Attachment_Option)</span>
     page.  If a user is selected on the
-    <span style="font-style: italic;">[Users](../Page_Desc/Users_ISA.htm)</span>
+    <span style="font-style: italic;">[Users](../Page_Desc/Users_ISA)</span>
     page and the <span style="font-style: italic;">Distribution Workflow
     Attachment Option</span> page does not display any records, ensure
     that the selected user is active in a distribution. Refer to
     [Activate Users for a Project
-    Distribution](Add_Users_to_a_Project_Distribution.htm) for more
+    Distribution](Add_Users_to_a_Project_Distribution) for more
     information.
 
 **NOTE:** If the setting <span style="font-weight: bold;">Configure at
@@ -83,14 +83,14 @@ level:
     **NOTE:** Only Project Distributions in which the user is active
     display on the <span style="font-style: italic;">[Distribution
     Workflow Attachment
-    Option](../Page_Desc/Distribution_Workflow_Attachment_Option.htm)</span>
+    Option](../Page_Desc/Distribution_Workflow_Attachment_Option)</span>
     page.  If a user is selected on the
-    <span style="font-style: italic;">[Users](../Page_Desc/Users_ISA.htm)</span>
+    <span style="font-style: italic;">[Users](../Page_Desc/Users_ISA)</span>
     page and the <span style="font-style: italic;">Distribution Workflow
     Attachment Option</span> page does not display any records, ensure
     that the selected user is active in a distribution. Refer to
     [Activate Users in a Project
-    Distribution](Add_Users_to_a_Project_Distribution.htm) for more
+    Distribution](Add_Users_to_a_Project_Distribution) for more
     information.
 
 3.  Select a project distribution.

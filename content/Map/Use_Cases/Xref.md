@@ -12,7 +12,7 @@ mapping.
 check table to be defined for the field. If a check table is not already
 defined for the field, update the System Type for this field to add a
 check table. Refer to [Add Check
-Tables](../../../Platform/Common/Use_Cases/Add_a%20Lookup%20Table%20Manually..htm)
+Tables](../../../Platform/Common/Use_Cases/Add_a%20Lookup%20Table%20Manually.)
 in the Common documentation.
 
 <span style="font-weight: bold;">NOTE:</span> The RuleXref action must
@@ -49,7 +49,7 @@ Configure value mapping using the Value Mappings pages.
 
 Value mapping uses check tables, which are created as part of a System
 Type in Common. Refer to [Add Check
-Tables](../../../Platform/Common/Use_Cases/Add_a%20Lookup%20Table%20Manually..htm)
+Tables](../../../Platform/Common/Use_Cases/Add_a%20Lookup%20Table%20Manually.)
 for more information.
 
 When fields with a check table display on the
@@ -66,7 +66,7 @@ To create a field mapping using the Xref action on the
 2.  Click <span style="font-weight: bold;">Edit</span>.
     
     [View the field descriptions for the Field Mappings
-    page](../Page_Desc/Field_Mappings_H.htm)
+    page](../Page_Desc/Field_Mappings_H)
 
 3.  Select **Xref** from the **ACTION** list box.
 
@@ -89,22 +89,22 @@ To create a field mapping using the Xref action on the
     Page toolbar.
 
 **NOTE:** If the Auto Gen Level on the
-<span style="font-style: italic;">[Automation](../../SQL_AutoGen/Page_Desc/Automation_page.htm)</span>
+<span style="font-style: italic;">[Automation](../../SQL_AutoGen/Page_Desc/Automation_page)</span>
 page’s <span style="font-style: italic;">Vertical</span> View is set to
 Off for the Target, this rule is not built in SQL. If the Auto Gen Level
 is set to ON but the Auto Generate Rule check box on the
 <span style="font-style: italic;">[Automation SQL Field
-Mappings](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H.htm)</span>
+Mappings](../../SQL_AutoGen/Page_Desc/Automation_SQL_Field_Mappings_H)</span>
 page’s <span style="font-style: italic;">Vertical</span> View is
 unchecked, then the rule is not built.
 
 The mapping must be approved by a Developer on the *[Mapping
-Approval](../Page_Desc/Mapping_Approval_H.htm)* page for documentation
+Approval](../Page_Desc/Mapping_Approval_H)* page for documentation
 purposes and to help track progress of the data migration project. Refer
 to <span style="color: #0000ff;">[Approve or Reject
-Mappings](Approve_or_Reject_Mappings.htm)</span> and
+Mappings](Approve_or_Reject_Mappings)</span> and
 <span style="color: #0000ff;">[Assign Developers to a Target or
-Source](../../Design/Use_Cases/Add_Developers_and%20Business%20Contacts.htm)</span>
+Source](../../Design/Use_Cases/Add_Developers_and%20Business%20Contacts)</span>
 for more information.
 
 Once the mapping has been created, the **Action, Source Table, Source
@@ -125,5 +125,5 @@ Once the fields allow update, edit them, click **Save**, and click the
 **Submit** icon on the Page toolbar. This updated mapping is sent to the
 Developer for review on the *Mapping Approval* page.
 
-Refer to [Perform Value Mapping](Perform_Value_Mapping_Overview.htm) for
+Refer to [Perform Value Mapping](Perform_Value_Mapping_Overview) for
 more information on mapping using an Xref action.

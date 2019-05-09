@@ -10,12 +10,12 @@ Work List Event Validation can be added to a Work List Item using the
 Validations icon on this page.
 
 Work List Event Validations can also be set at the [Plan
-Task](Register_WorkList_Event_Validations_Plan_Task.htm) level, the
-[tag](Configure_Logic_Tags.htm) level, and the
-[plan](Register_WorkList_Event_Validations_Plan.htm) level.
+Task](Register_WorkList_Event_Validations_Plan_Task) level, the
+[tag](Configure_Logic_Tags) level, and the
+[plan](Register_WorkList_Event_Validations_Plan) level.
 
 Refer to [Register Work List Event
-Validations](Register_Work_List_Event_Validations.htm) for more
+Validations](Register_Work_List_Event_Validations) for more
 information about viewing and editing all validations from one page, and
 about parameters that can be used in Work List Event validations.
 
@@ -42,7 +42,7 @@ Work List Event Validations) or on the *Work List Event Validations All*
 page (Configuration \> Work List Event Validations). Validations added
 using a tag can only be edited at the tag level (Tag \> Tag Type \>
 Registrations \> Validations). Refer to [Configure Logic
-Tags](Configure_Logic_Tags.htm) for more information.
+Tags](Configure_Logic_Tags) for more information.
 
 To add a Work List Event Validation to a Work List Item:
 
@@ -68,7 +68,7 @@ To add a Work List Event Validation to a Work List Item:
     
     **NOTE:** This data source must be registered in Common. Refer to
     [Register a Data Source in
-    Common](../../Common/Use_Cases/Register_a_Data_Source_in_Common.htm)
+    Common](../../Common/Use_Cases/Register_a_Data_Source_in_Common)
     for more information..
 
 7.  Select the name of the stored procedure or view from the

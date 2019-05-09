@@ -11,11 +11,11 @@ shared across all templates regardless of template type.
 
 These include:
 
-  - [Create a Basic Template](Create_a_Basic_Template.htm)
+  - [Create a Basic Template](Create_a_Basic_Template)
 
-  - [Copy a Template](Copy_a_Template.htm)
+  - [Copy a Template](Copy_a_Template)
 
   - [Activate or Deactivate Multiple Processes for a
-    Template](ActivateDeactivateMultProc.htm)
+    Template](ActivateDeactivateMultProc)
 
-  - [View Template Report](View_Template_Report.htm)
+  - [View Template Report](View_Template_Report)

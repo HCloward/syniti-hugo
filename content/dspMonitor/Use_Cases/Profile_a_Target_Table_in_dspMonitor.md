@@ -9,12 +9,12 @@ Common provides a quick and easy method to perform an assessment of data
 contained within a table.
 
 In dspMonitor™, on the *Vertical* View of the *[Your Application
-Tables](../Page_Desc/Your_Application_Tables.htm)* page, a user can run
+Tables](../Page_Desc/Your_Application_Tables)* page, a user can run
 Common’s profile feature on the selected table, then view the table data
 and the results of the profile analysis.
 
 For detailed information about profiling, refer to [Profile Data
-Source](../../../Platform/Common/Use_Cases/Profile_Data_Source.htm).
+Source](../../../Platform/Common/Use_Cases/Profile_Data_Source).
 
 To profile a target table:
 

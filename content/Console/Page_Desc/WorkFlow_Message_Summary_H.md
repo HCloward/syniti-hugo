@@ -10,7 +10,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Create Custom Workflow
-Messages](../Use_Cases/Create_Custom_Workflow_Messages.htm).
+Messages](../Use_Cases/Create_Custom_Workflow_Messages).
 
 </div>
 
@@ -30,18 +30,18 @@ pane.
 | WORKFLOW NAME   | Displays the name of workflow to be processed.                                                                                                  |
 | MESSAGE TYPE ID | Displays the message type to send the workflow or notification.                                                                                 |
 | NEXT RUN TIME   | Displays the date and time the workflow will run next.                                                                                          |
-| Users           | Click to open the *[Workflow Message Summary User](WorkFlow_Message_Summary_User.htm)* page to add and delete users receiving the workflow.     |
-| Views           | Click to open the *[Workflow Summary Views](WorkFlow_Summary_Views_H.htm)* page to add, edit and delete the views that will be in the workflow. |
+| Users           | Click to open the *[Workflow Message Summary User](WorkFlow_Message_Summary_User)* page to add and delete users receiving the workflow.     |
+| Views           | Click to open the *[Workflow Summary Views](WorkFlow_Summary_Views_H)* page to add, edit and delete the views that will be in the workflow. |
 | Process         | Click to process the workflow immediately. This will not impact the next run time.                                                              |
 
 ## <span id="WorkFlow_Message_Summary1"></span>Workflow Message Summary V
 
-[Workflow Message Summary H](WorkFlow_Message_Summary_H.htm)
+[Workflow Message Summary H](WorkFlow_Message_Summary_H)
 
 <div class="use">
 
 Use this page to [Create Custom Workflow
-Messages](../Use_Cases/Create_Custom_Workflow_Messages.htm).
+Messages](../Use_Cases/Create_Custom_Workflow_Messages).
 
 </div>
 

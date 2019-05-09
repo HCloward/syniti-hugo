@@ -10,7 +10,7 @@ solution = 'Data Quality'
 <div class="use">
 
 Use this page to [Configure Schedules on Service
-Pages](../Config/Configure_Schedules_on_Services_Pages.htm).
+Pages](../Config/Configure_Schedules_on_Services_Pages).
 
 </div>
 
@@ -29,12 +29,12 @@ Page** in *Navigation* pane.
 
 ## <span id="Schedule_Service_Page_V"></span>Schedule Service Page V
 
-[Schedule Service Page H](Schedule_Service_Page_H.htm)
+[Schedule Service Page H](Schedule_Service_Page_H)
 
 <div class="use">
 
 Use this page to [Configure Schedules on Service
-Pages](../Config/Configure_Schedules_on_Services_Pages.htm).
+Pages](../Config/Configure_Schedules_on_Services_Pages).
 
 </div>
 

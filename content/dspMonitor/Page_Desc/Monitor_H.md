@@ -9,7 +9,7 @@ solution = 'Data Quality'
 
 <div class="use">
 
-Use this page to [Monitor Activity](../Use_Cases/Monitor_Activity.htm).
+Use this page to [Monitor Activity](../Use_Cases/Monitor_Activity).
 
 </div>
 
@@ -25,15 +25,15 @@ the *Navigation* pane.
 | START TIME | Displays time when report started processing.                                                                                                                       |
 | END TIME   | Displays time when report completed processing.                                                                                                                     |
 | PERCENT    | Displays percentage of how much of the report has been processed.                                                                                                   |
-| Tasks      | Click to open the <span style="font-style: italic;">[Process Queue Task](Process_Queue_Task.htm)</span> page to view objects being processed as part of the report. |
+| Tasks      | Click to open the <span style="font-style: italic;">[Process Queue Task](Process_Queue_Task)</span> page to view objects being processed as part of the report. |
 
 ## <span id="Monitor_V"></span>Monitor V
 
-[Monitor H](Monitor_H.htm)
+[Monitor H](Monitor_H)
 
 <div class="use">
 
-Use this page to [Monitor Activity](../Use_Cases/Monitor_Activity.htm).
+Use this page to [Monitor Activity](../Use_Cases/Monitor_Activity).
 
 </div>
 

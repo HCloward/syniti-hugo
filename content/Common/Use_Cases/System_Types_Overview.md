@@ -12,10 +12,10 @@ properties, primary keys, lookup tables, and join relationships.
 
 Use System Types to:
 
-  - [Add System Types](Add_System_Types.htm)
-  - [Add System Tables and Fields](Add_System_Tables_and_Fields.htm)
+  - [Add System Types](Add_System_Types)
+  - [Add System Tables and Fields](Add_System_Tables_and_Fields)
   - [Export Translations to a
-    Catalog](Export_Translations_to_a_Catalog.htm)
+    Catalog](Export_Translations_to_a_Catalog)
 
 **NOTE:** A basic understanding of databases and SQL Server is required
 when setting up System Types.

@@ -7,13 +7,13 @@ solution = 'Master Data Management'
 
 A Designer can add a custom business rule at the scenario role level.
 The custom business rules are run on the [Request
-Role](../Page_Desc/Request_Role_H.htm) page.
+Role](../Page_Desc/Request_Role_H) page.
 
 Adding custom business rules allows stored procedures written on-site to
 be executed from dspConduct™ [Request
-Role](../Page_Desc/Request_Role_H.htm) page or dspConduct™
+Role](../Page_Desc/Request_Role_H) page or dspConduct™
 <span style="font-style: italic;">[Request Role
-Task](../Page_Desc/Request_Role_Task.htm)</span> page. These pages
+Task](../Page_Desc/Request_Role_Task)</span> page. These pages
 cannot be modified, so this is the means of running stored procedures
 for certain events on these pages. For example, using this feature a
 user can register custom business rules to the Foreground Post to
@@ -25,7 +25,7 @@ are executed based on Role Type:
 
   - **Task ID** rules run when the TaskID button is clicked on the
     <span style="font-style: italic;">[Request Role
-    Task](../Page_Desc/Request_Role_Task.htm)</span> page to access a
+    Task](../Page_Desc/Request_Role_Task)</span> page to access a
     Content page for entering or updating request data.
 
 **NOTE:** The Task ID must not be an expected parameter of the custom
@@ -49,7 +49,7 @@ registered to that content page.
     called.
 
 Refer to [dspConduct™ Design Process
-Overview](dspConduct_Design_Process_Overview.htm) for information about
+Overview](dspConduct_Design_Process_Overview) for information about
 setting up Category, Scenario and Roles in dspConduct™. .
 
 When adding a custom business rule, the Designer selects the rule from a
@@ -72,7 +72,7 @@ To add a custom business rule in dspConduct™:
     The events display depending on the type of role selected.
     
     *[View the field descriptions for the Scenario Role Event
-    page.](../Page_Desc/Scenario_Role_Event.htm)*
+    page.](../Page_Desc/Scenario_Role_Event)*
 
 5.  Click the **Rules** icon for an event.
 
@@ -80,7 +80,7 @@ To add a custom business rule in dspConduct™:
     **Add**.
     
     *[View the field descriptions for the Scenario Role Event Rules
-    page.](../Page_Desc/Scenario_Role_Event_Rule.htm)*
+    page.](../Page_Desc/Scenario_Role_Event_Rule)*
 
 7.  Enter a priority for the position in the **PRIORITY** field.
     

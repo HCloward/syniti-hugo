@@ -7,7 +7,7 @@ solution = 'Platform'
 
 <div class="use">
 
-Use this page to [Create Schedules](../Use_Cases/Create_Schedules.htm).
+Use this page to [Create Schedules](../Use_Cases/Create_Schedules).
 
 </div>
 

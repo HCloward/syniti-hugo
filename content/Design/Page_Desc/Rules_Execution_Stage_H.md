@@ -10,7 +10,7 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to [Add an Execution
-Stage](../Use_Cases/Complex_Rules.htm#Add_an_Execution_Stage).
+Stage](../Use_Cases/Complex_Rules#Add_an_Execution_Stage).
 
 </div>
 
@@ -45,7 +45,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Complex Rules</p></td>
-<td><p>Click to open the <em><a href="Rules_Execution_Stage_Complex_Rule.htm">Rules: Execution Stage Complex Rules</a></em> page to view all Complex rules assigned to the selected execution stage.</p>
+<td><p>Click to open the <em><a href="Rules_Execution_Stage_Complex_Rule">Rules: Execution Stage Complex Rules</a></em> page to view all Complex rules assigned to the selected execution stage.</p>
 <p>Complex rules provide information that the Data Services developer uses when writing the rule. When an AutoGen request is processed, a placeholder where Complex rules can be developed is created.</p></td>
 </tr>
 </tbody>
@@ -60,7 +60,7 @@ To access this page:
 <div class="use">
 
 Use this page to [Add an Execution
-Stage](../Use_Cases/Complex_Rules.htm#Add_an_Execution_Stage).
+Stage](../Use_Cases/Complex_Rules#Add_an_Execution_Stage).
 
 </div>
 
@@ -85,7 +85,7 @@ Stage](../Use_Cases/Complex_Rules.htm#Add_an_Execution_Stage).
 </tr>
 <tr class="odd">
 <td><p>Complex Rules</p></td>
-<td><p>Click to open the <em><a href="Rules_Execution_Stage_Complex_Rule.htm">Rules: Execution Stage Complex Rules</a></em> page to view all Complex rules assigned to the selected execution stage.</p></td>
+<td><p>Click to open the <em><a href="Rules_Execution_Stage_Complex_Rule">Rules: Execution Stage Complex Rules</a></em> page to view all Complex rules assigned to the selected execution stage.</p></td>
 </tr>
 </tbody>
 </table>

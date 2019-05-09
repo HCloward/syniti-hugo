@@ -13,14 +13,14 @@ To add elements during the structure creation process:
 1.  Click **Waves** on the *Navigation* pane.
 
 2.  Add a Wave as described in [Add a
-    Wave](Add_Elements_Separately.htm#Add2).
+    Wave](Add_Elements_Separately#Add2).
 
 3.  Click the **Process Areas** icon for a Wave.
 
 4.  Click **Add** on the Page toolbar.
     
     [View the field descriptions for the Wave : Process
-    Areas page.](../Page_Desc/Wave_Process_Areas.htm)
+    Areas page.](../Page_Desc/Wave_Process_Areas)
 
 5.  Click the **+** icon next to the **Process Area ID** list box.
     
@@ -29,7 +29,7 @@ To add elements during the structure creation process:
     the description (\<Process Area name\> + ‘-‘ + \<description\>).
 
 6.  Add a Process Area as described in [Add a Process
-    Area](Add_Elements_Separately.htm#Add).
+    Area](Add_Elements_Separately#Add).
 
 7.  Navigate back to the *Wave : Process Areas* page.
 
@@ -39,7 +39,7 @@ To add elements during the structure creation process:
 9.  Click **Add** on the Page toolbar under Process Area: Object.
     
     [View the field descriptions for the Process Area:
-    Object page.](../Page_Desc/Process_Area_ObjectH.htm)
+    Object page.](../Page_Desc/Process_Area_ObjectH)
 
 10. Click the **+** icon next to the **OBJECT ID** list box.
     
@@ -48,7 +48,7 @@ To add elements during the structure creation process:
     (\<object name\> + ‘-‘ + \<description\>).
 
 11. Add an object as described in the [Add an
-    Object](Add_Elements_Separately.htm#Add3) section.
+    Object](Add_Elements_Separately#Add3) section.
 
 To register a data source on the *Process Area: Object* page:
 
@@ -61,14 +61,14 @@ To register a data source on the *Process Area: Object* page:
 4.  Click **Edit**.
     
     [View the field descriptions for the Process Area:
-    Object page.](../Page_Desc/Process_Area_ObjectH.htm)
+    Object page.](../Page_Desc/Process_Area_ObjectH)
 
 5.  Select a data source for the context from the **DATA SOURCE ID**
     list box
 
 6.  Click the **+** icon next to the Data Source ID list box to add a
     data source. Refer to [Register a Data Source in
-    Common](../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common.htm)
+    Common](../../../Platform/Common/Use_Cases/Register_a_Data_Source_in_Common)
     for more information.
     
     **NOTE:** DATA SOURCE ID is a hard-required field needed for the

@@ -10,7 +10,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Register Interface
-Validations](../Use_Cases/Register_Interface_Validations.htm).
+Validations](../Use_Cases/Register_Interface_Validations).
 
 </div>
 
@@ -154,7 +154,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Validation Procedure</p></td>
-<td><p>Displays the registered validation view. Only views ending in “Val” display, as defined by the Validation Filter field on the<em></em><a href="Parameters.htm">Parameters</a> page. The selection populates the NAME field on the <em><a href="#InterfaceValidationsH">Horizontal</a></em> View.</p>
+<td><p>Displays the registered validation view. Only views ending in “Val” display, as defined by the Validation Filter field on the<em></em><a href="Parameters">Parameters</a> page. The selection populates the NAME field on the <em><a href="#InterfaceValidationsH">Horizontal</a></em> View.</p>
 <p><strong>NOTE:</strong> This field only displays for Stored Procedure validations.</p></td>
 </tr>
 <tr class="even">
@@ -164,7 +164,7 @@ To access this page:
 </tr>
 <tr class="odd">
 <td><p>Comment</p></td>
-<td><p>Displays a description of the validation. Only views ending in “Val” display, as defined by the Validation Filter field on the <em><a href="Parameters.htm">Parameters</a></em> page.</p>
+<td><p>Displays a description of the validation. Only views ending in “Val” display, as defined by the Validation Filter field on the <em><a href="Parameters">Parameters</a></em> page.</p>
 <p><strong>NOTE:</strong> This field only displays for View validations.</p></td>
 </tr>
 <tr class="even">

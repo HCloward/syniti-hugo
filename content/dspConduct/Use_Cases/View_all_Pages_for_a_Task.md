@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 A task defines a unit of work and is associated with the web page or
 group of web pages where the work is performed. A Designer can view all
 of a task’s associated pages and how these pages are accessed on the
-[Task Page](../Page_Desc/Task_Page_H.htm) page.
+[Task Page](../Page_Desc/Task_Page_H) page.
 
 Information including page name, page type and parent task is available
 for each page.
@@ -25,7 +25,7 @@ parent page, have levels of 1, 2 and so on.
 
 These pages are then added to a scenario \> role \> task combination,
 and can be viewed on the [Scenario Role Task
-Page](../Page_Desc/Scenario_Role_Task_Page.htm) page.
+Page](../Page_Desc/Scenario_Role_Task_Page) page.
 
 To view a task’s pages:
 

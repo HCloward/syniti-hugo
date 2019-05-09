@@ -8,7 +8,7 @@ solution = 'Data Quality'
 These sample stored procedures are original and modified code for the
 CompareIns stored procedure that must be registered to the Template Role
 Event rule. Refer to [Register the CompareIns Stored
-Procedure](Register_the_CompareIns_Stored_Procedure.htm) for more
+Procedure](Register_the_CompareIns_Stored_Procedure) for more
 information.
 
 A user modifies the original code as needed for each client’s business

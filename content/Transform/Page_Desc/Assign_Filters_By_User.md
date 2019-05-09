@@ -8,19 +8,19 @@ solution = 'Migration'
 <div class="use">
 
 Use this page to .[Assign a User to a Report Delivery
-Filter](../Use_Cases/Report_Delivery_Filters.htm#Assign_a_User_to_a_Report_Delivery_Filter).
+Filter](../Use_Cases/Report_Delivery_Filters#Assign_a_User_to_a_Report_Delivery_Filter).
 
 </div>
 
 To access this page:
 
-1.  [Access Transform](../Config/Access_Transform.htm).
+1.  [Access Transform](../Config/Access_Transform).
 
 2.  Select **Configuration \> User Filter \> User Filter (By User)** in
     the *Navigation* pane.
 
 3.  Select a user on the *[User Filters By User
-    Parent](User_Filters_By_User_Parent.htm)* page.
+    Parent](User_Filters_By_User_Parent)* page.
 
 <table>
 <tbody>

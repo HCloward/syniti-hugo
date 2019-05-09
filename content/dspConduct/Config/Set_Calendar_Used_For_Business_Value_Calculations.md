@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 An Administrator can set the calendar that is used to calculate the
 Request Working Hours for the business value dashboard calculation. The
 calendars are maintained in Common. Refer to [Use a
-Calendar](../../../Platform/Common/Use_Cases/Use_a_Calendar.htm) for
+Calendar](../../../Platform/Common/Use_Cases/Use_a_Calendar) for
 more information.
 
 To set the calendar used for business value dashboard calculations:
@@ -19,7 +19,7 @@ To set the calendar used for business value dashboard calculations:
 2.  Click **Edit**.
     
     *[View the field descriptions on the Parameters
-    page](../Page_Desc/Parameters_dspConduct.htm)*
+    page](../Page_Desc/Parameters_dspConduct)*
 
 3.  Select a calendar from the **Business Value Calendar** list box.
     

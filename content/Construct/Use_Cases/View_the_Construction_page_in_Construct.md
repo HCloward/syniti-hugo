@@ -11,7 +11,7 @@ Source is saved in Target Design.
 To view the page in Construct:
 
 1.  Click **Objects** on the *[Construct
-    Launch](../Page_Desc/Construct_Launch.htm)* page.
+    Launch](../Page_Desc/Construct_Launch)* page.
 
 2.  Click the **Targets** icon for an Object.
 
@@ -26,10 +26,10 @@ To view the page in Construct:
 Users enter data on this page to document the legacy data that does not
 exist in the Source. Completion of the construct process for the page is
 tracked on the Construct charts. Refer to [Track Construction
-Status](../../../Platform/Common/Use_Cases/Track_Construction_Status.htm)
-and [View Dashboard in Construct](View_Dashboard_in_Construct.htm) for
+Status](../../../Platform/Common/Use_Cases/Track_Construction_Status)
+and [View Dashboard in Construct](View_Dashboard_in_Construct) for
 more information.
 
 <span style="font-weight: bold;">NOTE:</span> [Excel
-Integration](../../../Platform/Excel_Int/Use_Excel_Integration.htm) has
+Integration](../../../Platform/Excel_Int/Use_Excel_Integration) has
 been enabled on the resulting page.

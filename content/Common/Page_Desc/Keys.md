@@ -8,7 +8,7 @@ solution = 'Platform'
 <div class="use">
 
 Use this page to [Create a Secure
-Key](../Use_Cases/Create_a_Secure_Key.htm).
+Key](../Use_Cases/Create_a_Secure_Key).
 
 </div>
 

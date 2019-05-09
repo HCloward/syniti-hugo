@@ -11,14 +11,14 @@ solution = 'Master Data Management'
 
 Use this page to:
 
-  - [Add a Scenario](../Use_Cases/Add_Scenario.htm)
-  - [Deactivate a Scenario](../Use_Cases/Deactivate_Scenario.htm)
+  - [Add a Scenario](../Use_Cases/Add_Scenario)
+  - [Deactivate a Scenario](../Use_Cases/Deactivate_Scenario)
   - [Add a Role to a
-    Scenario](../Use_Cases/Add_a_Role_to_a_Scenario.htm)
+    Scenario](../Use_Cases/Add_a_Role_to_a_Scenario)
   - [Add a Dependent Scenario to a
-    Scenario](../Use_Cases/Add_a_Dependent_Scenario.htm)
+    Scenario](../Use_Cases/Add_a_Dependent_Scenario)
   - [Add a Process to a
-    Scenario](../Use_Cases/Add_an_Integrate_Process_to_a_Scenario.htm)
+    Scenario](../Use_Cases/Add_an_Integrate_Process_to_a_Scenario)
 
 </div>
 
@@ -35,7 +35,7 @@ was entered in IGC™ cannot be updated from within dspConduct™, and many
 of the fields and icons associated with the record are not active for
 that scenario. Refer to [Update Custom Attributes for IGC™ Governance
 Elements in
-dspConduct™](../Use_Cases/Update_Custom_Attributes_for_Governance_Elements.htm)
+dspConduct™](../Use_Cases/Update_Custom_Attributes_for_Governance_Elements)
 for more information.
 
 <table>
@@ -106,23 +106,23 @@ for more information.
 <li><strong>Published</strong> - Scenario changes have been approved, and the scenario is available for use.</li>
 </ul>
 <p><strong>NOTE</strong>: All scenarios imported from IGC™ have a status of Published. No other statuses can be set.</p>
-<p><strong>NOTE:</strong> If the scenario is in any status other than Published, the Designer can activate or deactivate the process in Integrate as needed to test and troubleshoot the process. Refer to <a href="../../../Platform/Integrate/Use_Cases/Manage_Processes.htm">Manage Processes</a> and <a href="../../../Platform/Integrate/Use_Cases/Activate_the_Process.htm">Activate the Process</a> for more information about working with processes in Integrate.</p></td>
+<p><strong>NOTE:</strong> If the scenario is in any status other than Published, the Designer can activate or deactivate the process in Integrate as needed to test and troubleshoot the process. Refer to <a href="../../../Platform/Integrate/Use_Cases/Manage_Processes">Manage Processes</a> and <a href="../../../Platform/Integrate/Use_Cases/Activate_the_Process">Activate the Process</a> for more information about working with processes in Integrate.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Roles</p></td>
-<td><p>Click to open the <a href="Scenarios_Roles_H.htm"><em>Scenario (Roles)</em></a> page to add roles to a scenario. Refer to <a href="../Use_Cases/Add_a_Role_to_a_Scenario.htm">Add a Role to a Scenario</a> for more information.</p></td>
+<td><p>Click to open the <a href="Scenarios_Roles_H"><em>Scenario (Roles)</em></a> page to add roles to a scenario. Refer to <a href="../Use_Cases/Add_a_Role_to_a_Scenario">Add a Role to a Scenario</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Dependencies</p></td>
-<td><p>Click to open the <em><a href="Scenarios_Dependencies.htm">Scenario (Dependencies)</a></em> page to add dependent scenarios. Refer to <a href="../Use_Cases/Add_a_Dependent_Scenario.htm">Add a Dependent Scenario to a Scenario</a> for more information.</p></td>
+<td><p>Click to open the <em><a href="Scenarios_Dependencies">Scenario (Dependencies)</a></em> page to add dependent scenarios. Refer to <a href="../Use_Cases/Add_a_Dependent_Scenario">Add a Dependent Scenario to a Scenario</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Processes</p></td>
-<td><p>Click to open the <em><a href="Scenario_Process.htm">Scenario Process</a></em> page to add Integrate processes. Refer to <a href="../Use_Cases/Add_an_Integrate_Process_to_a_Scenario.htm">Add a Process to a Scenario</a> for more information.</p></td>
+<td><p>Click to open the <em><a href="Scenario_Process">Scenario Process</a></em> page to add Integrate processes. Refer to <a href="../Use_Cases/Add_an_Integrate_Process_to_a_Scenario">Add a Process to a Scenario</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Default Rules</p></td>
-<td><p>Click to open the <a href="Scenario_Default_Rules.htm">Scenario (Default Rules)</a> page to assign a default value rule at the scenario level. Refer to <a href="../Use_Cases/Assign_a_Default_Value_Rule_to_a_Scenario.htm">Assign a Default Value Rule to a Scenario</a> for more information.</p></td>
+<td><p>Click to open the <a href="Scenario_Default_Rules">Scenario (Default Rules)</a> page to assign a default value rule at the scenario level. Refer to <a href="../Use_Cases/Assign_a_Default_Value_Rule_to_a_Scenario">Assign a Default Value Rule to a Scenario</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Where Used</p></td>
@@ -137,7 +137,7 @@ for more information.
 
 ## <span id="Scenario_V"></span>Scenario V
 
-[Scenario H](Scenario_H.htm)
+[Scenario H](Scenario_H)
 
 This page contains the following tabs:
 
@@ -178,7 +178,7 @@ This page contains the following tabs:
 <li><strong>Design Approved</strong> - Scenario changes have been completed and have been approved.</li>
 <li><strong>Published</strong> - Scenario changes have been approved, and the scenario is available for use.</li>
 </ul>
-<p><strong>NOTE:</strong> If the scenario is in any status other than Published, the Designer can activate or deactivate the process in Integrate as needed to test and troubleshoot the process. Refer to <a href="../../../Platform/Integrate/Use_Cases/Manage_Processes.htm">Manage Processes</a> and <a href="../../../Platform/Integrate/Use_Cases/Activate_the_Process.htm">Activate the Process</a> for more information about working with processes in Integrate.</p></td>
+<p><strong>NOTE:</strong> If the scenario is in any status other than Published, the Designer can activate or deactivate the process in Integrate as needed to test and troubleshoot the process. Refer to <a href="../../../Platform/Integrate/Use_Cases/Manage_Processes">Manage Processes</a> and <a href="../../../Platform/Integrate/Use_Cases/Activate_the_Process">Activate the Process</a> for more information about working with processes in Integrate.</p></td>
 </tr>
 <tr class="even">
 <td><p>Active</p></td>
@@ -199,20 +199,20 @@ This page contains the following tabs:
 <tr class="even">
 <td><p>Child Scenario Criteria</p></td>
 <td><p>Displays the org unit to be used to create child requests for the scenario.</p>
-<p>Refer to <a href="../Use_Cases/Configure_Child_Scenario_Criteria.htm">Configure Child Scenario Criteria</a> for more information.</p></td>
+<p>Refer to <a href="../Use_Cases/Configure_Child_Scenario_Criteria">Configure Child Scenario Criteria</a> for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Use In Other Category</p></td>
-<td><p>Click to open the <em><a href="Scenario_Use_in_Other_Category.htm">Scenario Use In Other Category</a></em> page. Refer to <span><a href="../Use_Cases/Allow_a_Scenario_to_be_used_in_Other_Categories.htm">Allow a Scenario to be used in other Categories</a></span> for more information.</p></td>
+<td><p>Click to open the <em><a href="Scenario_Use_in_Other_Category">Scenario Use In Other Category</a></em> page. Refer to <span><a href="../Use_Cases/Allow_a_Scenario_to_be_used_in_Other_Categories">Allow a Scenario to be used in other Categories</a></span> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Documentation</p></td>
-<td><p>Click to open the <em><a href="Element_Documentation.htm">Element Documentation</a></em> page to upload or download documentation regarding the scenario.</p>
-<p>Refer to <a href="../Use_Cases/Upload_Documentation_at_the_Scenario_Role_Level.htm">Upload Documentation at the Scenario Role Level</a>  for more information.</p></td>
+<td><p>Click to open the <em><a href="Element_Documentation">Element Documentation</a></em> page to upload or download documentation regarding the scenario.</p>
+<p>Refer to <a href="../Use_Cases/Upload_Documentation_at_the_Scenario_Role_Level">Upload Documentation at the Scenario Role Level</a>  for more information.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Default Rules</p></td>
-<td><p>Click to open the <a href="Scenario_Default_Rules.htm">Scenario (Default Rules)</a> page to assign a default value rule at the scenario level. Refer to <a href="../Use_Cases/Assign_a_Default_Value_Rule_to_a_Scenario.htm">Assign a Default Value Rule to a Scenario</a> for more information.</p></td>
+<td><p>Click to open the <a href="Scenario_Default_Rules">Scenario (Default Rules)</a> page to assign a default value rule at the scenario level. Refer to <a href="../Use_Cases/Assign_a_Default_Value_Rule_to_a_Scenario">Assign a Default Value Rule to a Scenario</a> for more information.</p></td>
 </tr>
 <tr class="even">
 <td><p>Where Used</p></td>

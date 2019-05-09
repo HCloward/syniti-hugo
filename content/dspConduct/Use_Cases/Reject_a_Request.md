@@ -13,7 +13,7 @@ Content WebApp. The request must have passed to the Review role after
 all dependencies are complete for the Application role and the final
 Application role (the role with the highest priority) is finished.
 
-Refer to [Review a Request Overview](Review_a_Request_Overview.htm) for
+Refer to [Review a Request Overview](Review_a_Request_Overview) for
 general information about the review process.
 
 A Reviewer may enter a reject reason for a Review role. The Reviewer may
@@ -22,12 +22,12 @@ assigned to the Application role for the request receives a notification
 about the rejection depending on how the user and role are configured.
 That email contains a link to the
 <span style="font-style: italic;">[Request
-Role](../Page_Desc/Request_Role_H.htm)</span> page, so that the user can
+Role](../Page_Desc/Request_Role_H)</span> page, so that the user can
 update the request as needed and finish the Application role again.
 
 When a Review role is rejected, the review role is reset. Refer to
 [Reset a Role with a Review Role
-Type](Reset_a_Role.htm#Reset_a_Role_with_the_Review_Role_Type) for more
+Type](Reset_a_Role#Reset_a_Role_with_the_Review_Role_Type) for more
 information.
 
 **NOTE**: If the User Response Required on Warnings option is enabled at
@@ -54,13 +54,13 @@ To reject a request in dspConduct™:
     review changes entered by the Application role(s).
 
 5.  Navigate back to the <span style="font-style: italic;">[Request Role
-    Task](../Page_Desc/Request_Role_Task.htm)</span> page.
+    Task](../Page_Desc/Request_Role_Task)</span> page.
 
 6.  Click the <span style="font-weight: bold;">Reviewer Workbench
     </span>icon on the Page toolbar.
     
     **NOTE:** The <span style="font-style: italic;">[Request Review
-    Task](../Page_Desc/Request_Review_Task.htm)</span> page opens in a
+    Task](../Page_Desc/Request_Review_Task)</span> page opens in a
     new tab so that the Role Processor can review the task while working
     on the rejection.
 
@@ -70,7 +70,7 @@ To reject a request in dspConduct™:
     **NOTE:** The count on the Roles icon is the number of roles for the
     request. The count may not reflect the number of roles that display
     on the <span style="font-style: italic;">[Request
-    Role](../Page_Desc/Request_Role_H.htm)</span> page for the current
+    Role](../Page_Desc/Request_Role_H)</span> page for the current
     user. The current user can only access roles to which that user is
     assigned and roles that have the Auto Extend Display setting
     enabled.
@@ -78,7 +78,7 @@ To reject a request in dspConduct™:
     <span style="font-weight: bold;">NOTE</span>: The request is not
     rejected until this icon is clicked. The
     <span style="font-style: italic;">[Request Role
-    Task](../Page_Desc/Request_Role_Task.htm)</span> page displays all
+    Task](../Page_Desc/Request_Role_Task)</span> page displays all
     of the Application tasks that are assigned to Application and
     Display roles in the scenario. Application tasks are the only tasks
     that display, as these are the only tasks that can be edited.
@@ -90,11 +90,11 @@ To reject a request in dspConduct™:
     can access that field, the user can click the Column Search icon.
     Refer to [Search for Scenario Role Task Column Assignments while
     Reviewing a
-    Request](Search_for_Scenario_Role_Task_Column_Assignments_while_Reviewing_a_Request.htm)
+    Request](Search_for_Scenario_Role_Task_Column_Assignments_while_Reviewing_a_Request)
     for more information.
 
 8.  Click the Review Changes icon on the [Request Review
-    Task](../Page_Desc/Request_Review_Task.htm) page to display the
+    Task](../Page_Desc/Request_Review_Task) page to display the
     updates to the task to determine whether to approve or reject them.
 
 9.  Click <span style="font-weight: bold;">Edit</span> for a role
@@ -104,7 +104,7 @@ To reject a request in dspConduct™:
     individually.  
     
     [View the field descriptions for the Request Review Task Roles
-    page.](../Page_Desc/Request_Review_Task_Roles.htm)
+    page.](../Page_Desc/Request_Review_Task_Roles)
 
 10. Click the <span style="font-weight: bold;">REJECTED</span> check box
     to enable it.
@@ -118,7 +118,7 @@ To reject a request in dspConduct™:
 
 13. Click the <span style="font-weight: bold;">Reject</span> icon in the
     Page toolbar of the <span style="font-style: italic;">[Request
-    Review Task](../Page_Desc/Request_Review_Task.htm)</span> page.
+    Review Task](../Page_Desc/Request_Review_Task)</span> page.
     
     <span style="font-weight: bold;">NOTE</span>: The request is not
     rejected until this icon is clicked.

@@ -8,7 +8,7 @@ solution = 'Master Data Management'
 <div class="use">
 
 Use this page to [view reports in
-dspConduct™](../Use_Cases/View_Reports_in_dspConduct.htm).
+dspConduct™](../Use_Cases/View_Reports_in_dspConduct).
 
 </div>
 

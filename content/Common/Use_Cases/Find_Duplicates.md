@@ -6,7 +6,7 @@ solution = 'Platform'
 # Find Duplicates
 
 Once the duplicates view has been registered and the columns for the
-*[Results](../Page_Desc/Results.htm)* page are configured, duplicates
+*[Results](../Page_Desc/Results)* page are configured, duplicates
 can be found.
 
 To find duplicates:

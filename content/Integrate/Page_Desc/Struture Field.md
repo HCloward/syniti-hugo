@@ -17,7 +17,7 @@ Types](#Structure_Field_User_Defined_XML_Template_Type).
 <div class="use">
 
 Use this page while [Creating a Delimited or Fixed Width User Defined
-Template](../Use_Cases/CreateDelimFWUD.htm).
+Template](../Use_Cases/CreateDelimFWUD).
 
 </div>
 
@@ -45,7 +45,7 @@ icon.
 <div class="use">
 
 Use this page to [Configure an XML Template with Structures, Elements
-and Attributes.](../Use_Cases/ConfigureXMTemplateStrctrEleAtt.htm)
+and Attributes.](../Use_Cases/ConfigureXMTemplateStrctrEleAtt)
 
 </div>
 
