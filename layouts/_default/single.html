@@ -7,7 +7,7 @@
     {{- partial "section-menu.html" (dict "menu" .Site.Sections "currentPage" .Page) -}}
       
   </div>
-  <div class="uk-margin-top uk-card uk-padding-small uk-margin-left uk-width-1-2@m uk-width-1-1 uk-margin-bottom uk-margin-right uk-card-default">
+  <div class="uk-margin-top main uk-card uk-padding-small uk-margin-left uk-width-1-2@m uk-width-1-1 uk-margin-bottom uk-margin-right uk-card-default">
     <ul class="uk-visible@m uk-breadcrumb uk-margin-remove">
         <li class="uk-disabled"><a href="#">Solutions</a></li>
         <li class="uk-disabled"><a href="#">{{ .Params.solution }}</a></li>
@@ -20,10 +20,11 @@
     {{ partial "feedback.html" . }}
   </div>
   <div class="uk-visible@m uk-margin-top uk-card uk-padding-small uk-width-1-6 uk-margin-bottom uk-margin-right uk-card-default">
-    <ul class="uk-nav">
+
+    <ul class="uk-nav sidenav">
     {{ .TableOfContents }}
     </ul>
-    
+   
   </div>
 </div>
 
