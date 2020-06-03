@@ -5,4 +5,4 @@ disablePathToLower = true
 # enableEmoji = true
 # enableRobotsTXT = true
 # googleAnalytics = ("tracking number goes here")
-
+publishDir= "HCloward.github.io-syniti-hugo"
