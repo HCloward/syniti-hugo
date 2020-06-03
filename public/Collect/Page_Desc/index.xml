@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Syniti Documentation</title>
+    <link>https://hcloward.github.io/Collect/Page_Desc/</link>
+    <description>Recent content in Pages on Syniti Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://hcloward.github.io/Collect/Page_Desc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Advanced View Builder H</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Advanced_View_Builder_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Advanced_View_Builder_H/</guid>
+      <description>Advanced View Builder H Advanced View Builder V
+Use this page to Build Advanced Views and Create Collect Target Views for dspConduct™.
+To access this page, select Collect &amp;gt; Tools &amp;gt; Advanced View Builder in Navigationpane.
+         Field Description   Build View Click to create views in the database listed in the Database for View field. Views have the same name as the tables provided in the database listed in the Database for Tables field.</description>
+    </item>
+    
+    <item>
+      <title>Bulk Table Schedule Update</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Bulk_Table_Schedule_Update/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Bulk_Table_Schedule_Update/</guid>
+      <description>Bulk Table Schedule Update Use this page to:
+ Clear All Schedules Update All Schedules  To access this page, select Collect &amp;gt; Tools &amp;gt; Bulk Table Schedule Updatein Navigationpane.
+         Field Description   Schedule Target Displays target database where the schedule entries are cleared or updated.   Schedule Source Displays source database where the schedule entries are cleared or updated.</description>
+    </item>
+    
+    <item>
+      <title>Column Table List in Source Target</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Column_Table_List_in_Source_Target/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Column_Table_List_in_Source_Target/</guid>
+      <description>Column Table List in Source Target Use this page to view the Column Table List in Source Target report.
+To access this page:
+ Select Collect &amp;gt; Reportsin the Navigationpane. Click Column Table List in Source Targeton the Reports page.     Field Description     COLUMN Displays the column Collect found in the source database that matches the data type conversion being accepted. This is the table name that will be in the target database.</description>
+    </item>
+    
+    <item>
+      <title>Connection Type Data Conversion H</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Connection_Type_Data_Conversion_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Connection_Type_Data_Conversion_H/</guid>
+      <description>Connection Type Data Conversion H Connection Type Data Conversion V
+Use this page to Set Up Connection Types.
+To access this page:
+ Select Collect &amp;gt; Administrative &amp;gt; Connection Typesin Navigation pane. Click Sourcesfor SQL SERVER Target Connection Type. Click Data Type Conversions.  Connection Type Data Conversion V Connection Type Data Conversion H
+Use this page to Set Up Connection Types.</description>
+    </item>
+    
+    <item>
+      <title>Connection Types H</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Connection_Types_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Connection_Types_H/</guid>
+      <description>Connection Types H Connection Types V
+Use this page to Set Up Connection Types.
+To access this page, select Collect &amp;gt; Administrative &amp;gt; Connection Typesin Navigationpane.
+         Field Description   TARGET CONNECTION TYPE Displays the database connection type for the target.   OLE PROVIDER Displays name of OLE settings.   ODBC DRIVER Displays name of driver used in the Windows ODBC setup for the DSN.</description>
+    </item>
+    
+    <item>
+      <title>Copy Targets</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Copy_Targets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Copy_Targets/</guid>
+      <description>Copy Targets Use this page to Copy a Target.
+To access this page, select Collect &amp;gt; Tools &amp;gt; Copy Targetsin the Navigationpane.
+         Field Description   Target From Displays a target database where sources (including all tables, rules and indices) are currently configured.   Target To Displays a target database where sources (including all tables, rules and indices) are to be copied.</description>
+    </item>
+    
+    <item>
+      <title>Daily Summary Metrics</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Daily_Summary_Metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Daily_Summary_Metrics/</guid>
+      <description>Daily Summary Metrics Use this page to view the Daily Summary Metrics report.
+To access this page:
+ Select Collect &amp;gt; Reportsin the Navigationpane. Click Daily Summary Metricson the Reports page.     Field Description     DAY Displays the date of the snapshot metrics, for example, 2014-05-26.   EVENT Displays if the job was completed or failed.   TOTAL DOWNLOADS Displays the total count of completed or failed records   TOTAL RUN TIME (MINUTES) Displays the total duration (in minutes) to download the records.</description>
+    </item>
+    
+    <item>
+      <title>Data Source Table Columns H</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Data_Source_Table_Columns_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Data_Source_Table_Columns_H/</guid>
+      <description>Data Source Table Columns H Data Source Table Columns V
+Use this page to Modify Configuration of Data Source Table Columns.
+To access this page:
+ Click Collect &amp;gt; Targetsin the Navigation pane. Click Sourcesfor a target. Click Schedule Groupsfor a source. Click Tablesfor a schedule group. Click Vertical Viewfor a table. Click General Informationtab. Click View Design. Click Column Countfor a data source table.  Data Source Table Columns V Data Source Table Columns H</description>
+    </item>
+    
+    <item>
+      <title>Data Source Table Create Download SQL H</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Data_Source_Table_Create_Download_SQL_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Data_Source_Table_Create_Download_SQL_H/</guid>
+      <description>Data Source Table Create Download SQL H Data Source Table Create Download SQL V
+Use this page to View Configuration of Data Source Table SQL Commands.
+To access this page:
+ Click Collect &amp;gt; Targetson Navigationpane. Click Sourcesfor a target. Click Schedule Groupsfor a source. Click Tablesfor a schedule group. Click Vertical Viewfor a table. Click General Informationtab. Click View Design. ClickSQL Commandfor a data source table.  Data Source Table Create Download SQL V Data Source Table Create Download SQL H</description>
+    </item>
+    
+    <item>
+      <title>Data Source Tables H</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Data_Source_Tables_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Data_Source_Tables_H/</guid>
+      <description>Data Source Tables H Data Source Tables V
+Use this page to Modify Configuration of Data Source Tables.
+To access this page:
+ Click Collect &amp;gt; Targetsin the Navigationpane. Click Sourcesfor a target. Click Schedule Groupsfor a source. Click Tablesfor a schedule group. Click Vertical Viewfor a table. Click General Informationtab. Click View Design.           Field Description   TABLE Displays table in source.</description>
+    </item>
+    
+    <item>
+      <title>DBMoto Table Rules</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/DBMoto_Table_Rules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/DBMoto_Table_Rules/</guid>
+      <description>DBMoto Table Rules Use this page to Manage DBMoto® Table Rules.
+To access this page, select Collect &amp;gt; Administrative &amp;gt; DBMoto Table Rulesin Navigationpane.
+         Field Description   TABLE Displays table in the source.   COLUMN Displays column name to include in the rule.   DB MOTO FUNCTION Displays function applied to the rule.   ACTIVE If enabled, table is included in Build Package process when creating a DBMoto® package.</description>
+    </item>
+    
+    <item>
+      <title>Detail List of Metrics</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Detail_List_of_Metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Detail_List_of_Metrics/</guid>
+      <description>Detail List of Metrics Use this page to view the Detail List of Metrics report.
+To access this page:
+ Select Collect &amp;gt; Reportsin the Navigationpane. Click Detail List of Metricson the Reports page.     Field Description     TARGET Displays the database target where tables are refreshed with source data.   SOURCE Displays the database where the data is refreshed from and stored in the target.</description>
+    </item>
+    
+    <item>
+      <title>Duration Warning List</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Duration_Warning_List/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Duration_Warning_List/</guid>
+      <description>Duration Warning List Use this page to view the Duration Warning List report.
+To access this page:
+ Select Collect &amp;gt; Reportsin the Navigationpane. Click Duration Warning Liston the Reports page.     Field Description     DURATION TIME Displays the amount of time (in seconds) the table took to download from the source.   TARGET Displays the database target where the tables are refreshed with source data.</description>
+    </item>
+    
+    <item>
+      <title>Error List in Metrics</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Error_List_in_Metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Error_List_in_Metrics/</guid>
+      <description>Error List in Metrics Use this page to view the Error List in Metrics report.
+To access this page:
+ Select Collect &amp;gt; Reportsin the Navigationpane. Click Error List in Metricson the Reports page.     Field Description     TARGET Displays the database target where tables are refreshed with source data.   SOURCE Displays the database where the data is refreshed from and stored in the target.</description>
+    </item>
+    
+    <item>
+      <title>Group Import</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Group_Import/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Group_Import/</guid>
+      <description>Group Import Use this page to Import System Type Group Tables.
+To access this page:
+ Click Collect &amp;gt; Targetson Navigationpane. Click Sourcesicon for a target. Select a source. Click Import Group Tableson the Page toolbar.           Field Description   System Type Group ID Displays a System Type group, a logical grouping of tables such as Customer or Vendor, to import as a source.</description>
+    </item>
+    
+    <item>
+      <title>Job Detail H</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Job_Detail_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Job_Detail_H/</guid>
+      <description>Job Detail H Job Detail V
+Use this page to View Summary.
+To access this page:
+ Select Collect &amp;gt; Summaryon Navigationpane. Click Records.           Field Description   MONITOR ID Displays the unique identifier for monitoring record.   STATUS Displays current status of the monitored job.   MESSAGE Displays message returned when the job completed.   TARGET Displays target database (where tables are refreshed with source data) impacted by the job.</description>
+    </item>
+    
+    <item>
+      <title>Job Summary</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Job_Summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Job_Summary/</guid>
+      <description>Job Summary Use this page to View Summary.
+To access this page, select Collect &amp;gt; Summary on Navigationpane.
+         Field Description   STATUS Displays current status of the job.   Records Click to open the Job Detailpage to view job records associated with the status.    </description>
+    </item>
+    
+    <item>
+      <title>Monitor (Downloads) H</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Monitor_Downloads_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Monitor_Downloads_H/</guid>
+      <description>Monitor (Downloads) H Monitor (Downloads) V
+Use this page to:
+ Monitor table refresh activity View Summary  To access this page:
+ SelectCollect &amp;gt; Summary &amp;gt; Target Summaryin the Navigation pane. Click the Refreshing Tableslink for the table that is currently being refreshed.           Field Description   JOB ID Displays the identifier associated with the job that refreshed the tables.</description>
+    </item>
+    
+    <item>
+      <title>Next Schedule Run Times</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Next_Schedule_Run_Times/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Next_Schedule_Run_Times/</guid>
+      <description>Next Schedule Run Times Use this page to view the Next Schedule Run Times report.
+To access this page:
+ Select Collect &amp;gt; Reportsin the Navigationpane. Click Next Schedule Run Timeson the Reports page.     Field Description     NEXT SCHEDULE RUN DATE Displays the next date and time when the refresh process is scheduled to run for the reported table.   TARGET Displays the database target where the tables are refreshed with source data.</description>
+    </item>
+    
+    <item>
+      <title>Reports</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Reports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Reports/</guid>
+      <description>Reports Use this page to access installed Collect reports.
+To access this page, select Collect &amp;gt; Reportsin the Navigationpane.
+         Field Description   PRIORITY Displays the priority in which the Collect reports are displayed.   Report Displays the reports available in Collect.    </description>
+    </item>
+    
+    <item>
+      <title>Retention Expiration Email</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Retention_Expiration_Email/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Retention_Expiration_Email/</guid>
+      <description>Retention Expiration Email Use this page to Update the Retention Expiration Email.
+NOTE: This Collect page is accessed via Common.
+To access this page in Common:
+ Select Configuration &amp;gt; Modules &amp;gt; Parameters – Collect in the Navigation pane. Click the Workflow Settings tab. Click the Retention Warning Email icon.  </description>
+    </item>
+    
+    <item>
+      <title>SAP Text List H</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/SAP_Text_List_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/SAP_Text_List_H/</guid>
+      <description>SAP Text List H SAP Text List V
+Use this page to Manage the SAP Text List.
+To access this page, select Collect &amp;gt; Administrative &amp;gt; SAP Text Listin Navigationpane.
+         Field Description   TABLE Displays name of the SAP Text table being managed.   TEXT OBJECT Displays the object (TDOBJECT) for the SAP Text table. If blank, all objects are downloaded.</description>
+    </item>
+    
+    <item>
+      <title>Schedule Groups</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Schedule_Groups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Schedule_Groups/</guid>
+      <description>Schedule Groups Use this page to Set up Schedule Groups.
+To access this page, select Collect &amp;gt; Administrative &amp;gt; Schedule Groupsin Navigationpane.</description>
+    </item>
+    
+    <item>
+      <title>Scheduled Used Summary</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Scheduled_Used_Summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Scheduled_Used_Summary/</guid>
+      <description>Scheduled Used Summary Use this page to view the Scheduled Used Summary report.
+To access this page:
+ Select Collect &amp;gt; Reportsin the Navigationpane. Click Scheduled Used Summaryon the Reports page.     Field Description     TARGET Displays the database target where tables are refreshed with source data.   SOURCE Displays the database where the data is refreshed from and stored in the target.   SOURCE SCHEDULE Displays the source schedule set at the target source.</description>
+    </item>
+    
+    <item>
+      <title>Schedules in Sources and Tables</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Schedules_in_Sources_and_Tables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Schedules_in_Sources_and_Tables/</guid>
+      <description>Schedules in Sources and Tables Use this page to view the Schedules in Sources and Tables report.
+To access this page:
+ Select Collect &amp;gt; Reportsin the Navigationpane. Click Schedules in Sources and Tableson the Reports page.     Field Description     TARGET Displays the database target where tables are refreshed with source data.   SOURCE Displays the database where the data is refreshed from and stored in the target.</description>
+    </item>
+    
+    <item>
+      <title>Source Connection Status</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Source_Connection_Status/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Source_Connection_Status/</guid>
+      <description>Source Connection Status Use this page to view the Source Connection Status report.
+To access this page:
+ Select Collect &amp;gt; Reportsin the Navigationpane. Click Source Connection Statuson the Reports page.     Field Description     TARGET Displays the database target where tables are refreshed with source data.   SOURCE Displays the database where the data is refreshed from and stored in the target.   TEST CONNECTION STATUS Displays the current status of the last test connection.</description>
+    </item>
+    
+    <item>
+      <title>Source Connection Types H</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Source_Connection_Types_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Source_Connection_Types_H/</guid>
+      <description>Source Connection Types H Source Connection Types V
+Use this page to Set up Connection Types.
+To access this page:
+ Select Collect &amp;gt; Administrative &amp;gt; Connection Typesin Navigationpane. Click Sourcesfor a Target Connection Type of SQLSERVER.  Source Connection Types V Source Connection Types H
+Use this page to Set up Connection Types.</description>
+    </item>
+    
+    <item>
+      <title>Table (Indices) H</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Table_Indices_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Table_Indices_H/</guid>
+      <description>Table (Indices) H Table (Indices) V
+Use this page to Create Indices for Tables.
+To access this page:
+ Select Tableson the Navigationpane. Click the Indicesicon for a table.           Field Description   Build Index Click to schedule the rebuild process for all indices in the Target Source table index. Only keys stored in the table are rebuilt.   INDEX ID Displays name of index.</description>
+    </item>
+    
+    <item>
+      <title>Table (Rfc Options)</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Table_Rfc_Options/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Table_Rfc_Options/</guid>
+      <description>Table (Rfc Options) Use this page to Configure RFC Options.
+To access this page:
+ Click Collect &amp;gt; Tablesin Navigationpane. Click Vertical View for a table where the Package Type is BOA RFC using Options. Click Actiontab. Click Options.           Field Description   PRIORITY Displays sort order of fields. Default value is 10.   FIELD Displays name of field where values are being filtered.</description>
+    </item>
+    
+    <item>
+      <title>Table (Rule) H</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Table_Rule_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Table_Rule_H/</guid>
+      <description>Table (Rule) H Table (Rule) V
+Use this page to Register Rules to Tables.
+To access this page:
+ Click Collect &amp;gt; Targetsin Navigationpane. Click Sourcesfor target. Click Tablesfor source. Click Rulesfor table.  Table (Rule) V Table (Rule) H
+Use this page to Register Rules to Tables.</description>
+    </item>
+    
+    <item>
+      <title>Table Download Task List</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Table_Download_Task_List/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Table_Download_Task_List/</guid>
+      <description>Table Download Task List Use this page to Monitor Table Download Process.
+To access this page:
+ Click Collect &amp;gt; Tablesin the Navigation pane. Build the download package for the table by either clicking Build and Refreshor Build Packageon the Page toolbar. Click Vertical Viewfor the table. Click General Informationtab. Click View Job Tasks.           Field Description   JOB ID Displays the unique identifier associated with the job that ran the package.</description>
+    </item>
+    
+    <item>
+      <title>Table Errors H</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Table_Errors_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Table_Errors_H/</guid>
+      <description>Table Errors H Table Errors V (All Tabs)
+Use this page to view when an error occurred with table downloads.
+To access this page:
+ Select Summary &amp;gt; Target Summaryin the Navigation pane. Click the ERROR TABLESlink.           Field Description   TABLE Displays table where error exists.   PACKAGE TYPE Displays package type (to refresh target table with source data) for erroneous table.</description>
+    </item>
+    
+    <item>
+      <title>Table Index Column List in Source and Target</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Table_Index_Column_List_in_Source_and_Target/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Table_Index_Column_List_in_Source_and_Target/</guid>
+      <description>Table Index Column List in Source and Target Use this page to view the Table Index Column List in Source and Target report.
+To access this page:
+ Select Collect &amp;gt; Reportsin the Navigationpane. Click List Index Column List in Source and Targeton the Reports page.     Field Description     TARGET Displays the database target where tables are refreshed with source data.   SOURCE Displays the database where the data is refreshed from and stored in the target.</description>
+    </item>
+    
+    <item>
+      <title>Table Index List in Source and Target</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Table_Index_List_in_Source_and_Target/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Table_Index_List_in_Source_and_Target/</guid>
+      <description>Table Index List in Source and Target Use this page to view the Table Index List in Source and Target report.
+To access this page:
+ Select Collect &amp;gt; Reportsin the Navigationpane. Click List Index List in Source and Targeton the Reports page.     Field Description     TARGET Displays the database target where tables are refreshed with source data.   SOURCE Displays the database where the data is refreshed from and stored in the target.</description>
+    </item>
+    
+    <item>
+      <title>Table List in Source and Target</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Table_List_in_Source_and_Target/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Table_List_in_Source_and_Target/</guid>
+      <description>Table List in Source and Target Use this page to view the Table List in Source and Target report.
+To access this page:
+ Select Collect &amp;gt; Reportsin the Navigationpane. Click List in Source and Targeton the Reports page.     Field Description     TABLE Displays the database target where the tables are refreshed with source data.   SOURCE Displays the database where the data is refreshed from and stored in the target.</description>
+    </item>
+    
+    <item>
+      <title>Table Rule List in Source and Target</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Table_Rule_List_in_Source_and_Target/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Table_Rule_List_in_Source_and_Target/</guid>
+      <description>Table Rule List in Source and Target Use this page to view the Table Rule List in Source and Target report.
+To access this page:
+ Select Collect &amp;gt; Reportsin the Navigationpane. Click List Rule List in Source and Targeton the Reports page.     Field Description     TABLE Displays the table name in the source database and target database.   FIELDNAME Displays the name of the field that is impacted by the action.</description>
+    </item>
+    
+    <item>
+      <title>Tables H</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Tables_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Tables_H/</guid>
+      <description>Tables H Tables V (All Tabs)
+Use this page to:
+ Set up Schedule Groups Manually Register Tables to Source Schedule Table Refresh Set up Download with CranPort Package Set up Download with ManualCranPort Package Download sdb Tables in Collect Download dgSAP Tables in Collect  NOTE:Bulk Execution has been enabled on this page. Refer to Use Bulk Execution for more information.
+NOTE: To receive a workflow email that a table download has failed in Collect, a user must be assigned to a security role that has the Collect WebApp group WorkFlowFailureAll or WorkFlowFaiureByTargetAccess assigned.</description>
+    </item>
+    
+    <item>
+      <title>Target Connection Status</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target_Connection_Status/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target_Connection_Status/</guid>
+      <description>Target Connection Status Use this page to view the Target Connection Status report.
+To access this page:
+ Select Collect &amp;gt; Reportsin the Navigationpane. Click Target Connection Statuson the Reports page.     Field Description     TARGET Displays the database target where tables are refreshed with source data.   TEST CONNECTION STATUS Displays the current status of the last test connection.   TEST CONNECTION ON Displays the last date and time of the test connection.</description>
+    </item>
+    
+    <item>
+      <title>Target Daily Summary</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target_Daily_Summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target_Daily_Summary/</guid>
+      <description>Target Daily Summary This chart displays the duration of time in seconds it took to refresh all active tables from all registered data sources into a target database for each day. Hover a cursor over a data point and the date, target name and number of seconds display .On this chart, a user can view daily fluctuations in duration of table refreshes that may be caused by changes in system resources, tables being added or deleted from the refresh, or other factors</description>
+    </item>
+    
+    <item>
+      <title>Target Monthly Summary</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target_Monthly_Summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target_Monthly_Summary/</guid>
+      <description>Target Monthly Summary This chart displays the duration of time in seconds it took to refresh all active tables from all registered data sources for a target database for each month. On this chart, a user can view monthly fluctuations in duration of table refreshes that may be caused by changes in system resources, tables being added or deleted from the refresh, or other factors
+Hover a cursor over a data point and the month, target name and number of seconds display.</description>
+    </item>
+    
+    <item>
+      <title>Target Record Counts</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target_Record_Counts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target_Record_Counts/</guid>
+      <description>Target Record Counts Use this page to view the Target Source Table Counts report.
+To access this page:
+ Select Collect &amp;gt; Reportsin the Navigationpane. Click Target Source Table Countson the Reports page.     Field Description     TARGET Displays the database target where the tables are refreshed with source data.   RECORD COUNT Displays the total number of records across all tables in the target.</description>
+    </item>
+    
+    <item>
+      <title>Target Source Daily Metric Chart</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Daily_Metric_Chart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Daily_Metric_Chart/</guid>
+      <description>Target Source Daily Metric Chart This chart displays the number of records in the selected source that were refreshed each day.
+Refer to View Dashboard in Collect for general information about how data displays on dashboards.
+To access the chart in Collect:
+  Select Targetsin the Navigationpane.
+OR
+Click Targetsin the Navigationpane and click Sourcesfor a target.
+  Click the Metricsicon for a target or source.
+  Click the Dailyicon to view the chart for the selected source.</description>
+    </item>
+    
+    <item>
+      <title>Target Source Group</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Group/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Group/</guid>
+      <description>Target Source Group Use this page to Build and Refresh Tables for a Schedule Group.
+To access this page:
+ Click Collect &amp;gt; Targetsin the Navigationpane. Click Sourcesfor a target. Click Schedule Groupsfor a Target Source.           Field Description   Build Package Click to build a package to download active tables in the schedule group from the source database.   Refresh Click to manually extract a copy of data in the schedule group from source and load into the target.</description>
+    </item>
+    
+    <item>
+      <title>Target Source Metrics Charts</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Metric_Charts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Metric_Charts/</guid>
+      <description>Target Source Metrics Charts Use this page to view details related to the Target Source Daily Metric Chart, Target Source Weekly Metric Chart and Target Source Monthly Metric Chart.
+To access this page:
+ Select Collect &amp;gt; Targetsin the Navigation pane. Click the Metricsicon for a target.  OR
+ Select Collect &amp;gt; Targetsin the Navigation pane. Click the Sourcesicon for a target. Click the Metricsicon for a source.           Field Description   TARGET Displays the database where tables are refreshed with source data.</description>
+    </item>
+    
+    <item>
+      <title>Target Source Monthly Metric Chart</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Monthly_Metric_Chart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Monthly_Metric_Chart/</guid>
+      <description>Target Source Monthly Metric Chart This chart displays the number of records in the selected source that were refreshed during the month.
+Monthly metrics cover a calendar month.
+Refer to View Dashboard in Collect for general information about how data displays on dashboards.
+To access the chart in Collect:
+  Select Targetsin the Navigationpane.
+OR
+Click Targetsin the Navigationpane and click Sourcesfor a target.
+  Click the Metricsicon for a target or source.</description>
+    </item>
+    
+    <item>
+      <title>Target Source Record Counts</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Record_Counts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Record_Counts/</guid>
+      <description>Target Source Record Counts Use this page to view the Target Source Record Counts report.
+To access this page:
+ Select Collect &amp;gt; Reportsin the Navigationpane. Click Target Source Record Countson the Reports page.     Field Description     TARGET Displays the database target where the tables are refreshed with source data.   SOURCE Displays thbe database where the data is refreshed from and stobred in the target.</description>
+    </item>
+    
+    <item>
+      <title>Target Source Summary Metrics</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Summary_Metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Summary_Metrics/</guid>
+      <description>Target Source Summary Metrics Use this page to view details related to the Target Source Daily Metric Chart, Target Source Weekly Metric Chart and Target Source Monthly Metric Chart.
+To access this page:
+ Select Collect &amp;gt; Targetsin the Navigation pane. Click the Metricsicon for a target. Click the Detailsicon.  OR
+ Select Collect &amp;gt; Targetsin the Navigation pane. Click the Sourcesicon for a target. Click the Metricsicon for a source.</description>
+    </item>
+    
+    <item>
+      <title>Target Source Table Column Encryption</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Table_Column_Encryption/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Table_Column_Encryption/</guid>
+      <description>Target Source Table Column Encryption Use this page to Encrypt Columns.
+To access this page:
+ Create encryption key in Common &amp;gt; Configuration &amp;gt; Modules &amp;gt; Keys. Refer to Create a Secure Key for more information. Return to Collect. Click Tablesin Navigation pane. Click Vertical Viewfor a table. Click Advanced Settingstab. Click Encrypted Columns.           Field Description   COLUMN Displays column within the table.</description>
+    </item>
+    
+    <item>
+      <title>Target Source Table Counts</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Table_Counts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Table_Counts/</guid>
+      <description>Target Source Table Counts Use this page to view the Target Source Table Counts report.
+To access this page:
+ Select Collect &amp;gt; Reportsin the Navigationpane. Click Target Source Table Countson the Reports page.     Field Description     TARGET Displays the database target where the tables are refreshed with source data.   SOURCE Displays the database where the data is refreshed from and stored in the target.</description>
+    </item>
+    
+    <item>
+      <title>Target Source Table Download</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Table_Download/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Table_Download/</guid>
+      <description>Target Source Table Download Use this page to view the Target Source Table Download report.
+To access this page:
+ Select Collect &amp;gt; Reportsin the Navigationpane. Click Target Source Table Downloadon the Reports page.     Field Description     TARGET Displays the database target where the tables are refreshed with source data.   SOURCE Displays the database where the data is refreshed from and stored in the target.</description>
+    </item>
+    
+    <item>
+      <title>Target Source Table Errors</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Table_Errors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Table_Errors/</guid>
+      <description>Target Source Table Errors Use this page to View Collect Reports.
+To access this page:
+ Select Collect &amp;gt; Reportsin the Navigationpane. Click Target Source Table Errorson the Reports page.     Field Description     TARGET Displays the database target where the tables are refreshed with source data.   SOURCE Displays the database where the data is refreshed from and stored in the target.   TABLE Displays the name of the table in the source database that caused the error.</description>
+    </item>
+    
+    <item>
+      <title>Target Source Table Index Columns</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Table_Index_Columns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Table_Index_Columns/</guid>
+      <description>Target Source Table Index Columns Use this page to Create Indices for Tables.
+To access this page:
+ Select Tablesom the Navigationpane. Click the Indicesicon for a table. Click Vertical View. Click the Columnsicon.           Field Description   INDEX ID Displays name of index.   COLUMN Displays column for table index.   COLUMN ORDER Displays order column displays in the table index.</description>
+    </item>
+    
+    <item>
+      <title>Target Source Table Job Group</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Table_Job_Group/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Table_Job_Group/</guid>
+      <description>Target Source Table Job Group Use this page to view the Target Source Table Job Group report.
+To access this page:
+ Select Collect &amp;gt; Reportsin the Navigationpane. Click Target Source Table Job Groupon the Reports page.     Field Description     SCHEDULE GROUP Displays the unique name of the schedule group.   TARGET Displays the database target that contains the table in the schedule group.</description>
+    </item>
+    
+    <item>
+      <title>Target Source Tables H</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Tables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Tables/</guid>
+      <description>Target Source Tables H Target Source Tables V (All Tabs)
+Use this page to Build and Refresh Tables for a Schedule Group.
+To access this page:
+ Click Collect &amp;gt; Targetsin Navigationpane. Click Sourcesfor target. Click Tablesfor source. Click the Tablesicon for a schedule group.  Target Source Tables V (All Tabs) Target Source Tables H
+This page contains the following tabs:
+ General tab Advanced Settings tab General Information tab Action tab  General tab          Field Description   Build Package Click to build a package to download active tables from the source.</description>
+    </item>
+    
+    <item>
+      <title>Target Source Weekly Metric Chart</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Weekly_Metric_Chart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target_Source_Weekly_Metric_Chart/</guid>
+      <description>Target Source Weekly Metric Chart This chart displays the number of records in the selected source that were refreshed during a week.
+Weekly metrics cover a calendar week (Sunday to Saturday).
+Refer to View Dashboard in Collect for general information about how data displays on dashboards.
+To access the chart in Collect:
+  Select Targetsin the Navigationpane.
+OR
+Click Targetsin the Navigationpane and click Sourcesfor a target.
+  Click the Metricsicon for a target or source.</description>
+    </item>
+    
+    <item>
+      <title>Target Sources H</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target_Sources_H_Collect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target_Sources_H_Collect/</guid>
+      <description>Target Sources H Target Sources V (All Tabs)
+Use this page to:
+ Register Sources to Target Configure Source for SAP Data Services Schedule Source Refresh Create DBMoto®Source Connections Download sdb Tables in Collect Download dgSAP Tables in Collect  To access this page:
+ Click Collect &amp;gt; Targetsin the Navigationpane. Click the Sourcesicon for a Target.  Target Sources V (All Tabs) Target Sources H
+Use this page to:</description>
+    </item>
+    
+    <item>
+      <title>Target Sources – DataServices Connection</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target_Sources_Data_Services_Connection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target_Sources_Data_Services_Connection/</guid>
+      <description>Target Sources – DataServices Connection Use this page to configure sources for SAP Data Services.
+To access this page:
+ Click Collect &amp;gt; Targetsin the Navigationpane. Click the Sourcesicon for a Target. Click Vertical Viewfor a Source. Click the Advanced Settingstab. Click Connection Settings.  Field available depends on the Data Services Connection Type selected on the VerticalView of the Target Sourcespage:
+ ASE15 DB2 UDBv9 DB2 UDBv8 Informix v10 Informix v11 MySQL v5.</description>
+    </item>
+    
+    <item>
+      <title>Target Summary</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target-Summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target-Summary/</guid>
+      <description>Target Summary Use this page to view details about target table downloads and when monitoring the table download process.
+To access this page, select Collect &amp;gt; Summary &amp;gt; Target Summary in the Navigation pane.
+         Field Description   TARGET Displays database target where tables are refreshed with source data. Click the target name link to open the Targets page with the selected target displayed.</description>
+    </item>
+    
+    <item>
+      <title>Target Table Status</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target_Table_Status/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target_Table_Status/</guid>
+      <description>Target Table Status This chart displays the number of active tables by refresh status for each target.
+Targets are destination databases (registered as data sources in the platform) where tables are refreshed with source data using Collect. Source data can also be refreshed into a source database (.sdb), so an sdb displays as a target in the x axis on this chart as well.Status includes:
+ Error tables: Tables that failed to refresh.</description>
+    </item>
+    
+    <item>
+      <title>Target User Access</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target_User_Access/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target_User_Access/</guid>
+      <description>Target User Access Use this page to view the Target User Access report.
+To access this page:
+ Select Collect &amp;gt; Reportsin the Navigationpane. Click Target User Accesson the Reports page.     Field Description     TARGET Displays the database target where tables are refreshed with source data.   NAME Displays the name of the user who has access to the target.   E MAIL ADDRESS Displays the email address of the user who has access to the target.</description>
+    </item>
+    
+    <item>
+      <title>Target Weekly Summary</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Target_Weekly_Summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Target_Weekly_Summary/</guid>
+      <description>Target Weekly Summary This chart displays the duration of time in seconds it took to refresh all active tables from all registered data sources for a target database for each week. Hover a cursor over a data point and the week, target name and number of seconds display. On this chart, a user can view weekly fluctuations in duration of table refreshes that may be caused by changes in system resources, tables being added or deleted from the refresh, or other factors</description>
+    </item>
+    
+    <item>
+      <title>Targets H</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Targets_H_Collect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Targets_H_Collect/</guid>
+      <description>Targets H Targets V
+Use this page to Register Targets.
+To access this page, click Collect &amp;gt; Targetsin Navigationpane.
+Targets V Targets H
+This page has two tabs:
+ General Data Protection  General tab Use this tab to Register Targets.
+Field
+Description
+Target
+Displays database where tables are refreshed with source data.
+Connection Type
+Displays valid database connection type from source to target. Connection Types are configured under Configuration &amp;gt; Connection Types.</description>
+    </item>
+    
+    <item>
+      <title>View Build Skip SPRAS Table List</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/View_Build_Skip_SPRAS_Table_List/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/View_Build_Skip_SPRAS_Table_List/</guid>
+      <description>View Build Skip SPRAS Table List Use this page to Manage the View Build Skip SPRAS Table List.
+To access this page, select Collect &amp;gt; Administrative &amp;gt; View Build Skip SPRAS Table Listin Navigationpane.
+         Field Description   TABLE NAME Displays table to include on the SPRAS filters in Build View process.   DSP SUPPLIED If enabled, this content is delivered content provided by BackOffice.</description>
+    </item>
+    
+    <item>
+      <title>Workflow Download Failures H</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Workflow_Download_Failures_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Workflow_Download_Failures_H/</guid>
+      <description>Workflow Download Failures H Workflow Download Failures V
+Use this page to View Workflow Download Failures.
+To access this page, select Collect &amp;gt; Administrative &amp;gt; Workflow Download Failuresin the Navigationpane.
+         Field Description   TARGET Displays target database where the download failure occurred.   SOURCE Displays source database where the download failure occurred.   TABLE Displays table name where the download failure occurred.</description>
+    </item>
+    
+    <item>
+      <title>Workflow Summary History H</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Workflow_Summary_History_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Workflow_Summary_History_H/</guid>
+      <description>Workflow Summary History H Workflow Summary History V
+Use this page to review who is receiving workflow emails.
+To access this page, select Collect &amp;gt; Administrative &amp;gt; Workflow Summary Historyin the Navigationpane.
+         Field Description   USER NAME Displays user who received the summary workflow email.   WORKFLOWED BY Displays name of job that ran the workflow.   WORKFLOWED ON Displays date and time when the summary workflow email was sent.</description>
+    </item>
+    
+    <item>
+      <title>Workflow Summary User Settings</title>
+      <link>https://hcloward.github.io/Collect/Page_Desc/Workflow_Summary_User_Settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Collect/Page_Desc/Workflow_Summary_User_Settings/</guid>
+      <description>Workflow Summary User Settings Use this page to Configure Workflow Summary User Settings.
+To access this page, select Collect &amp;gt; Administrative &amp;gt; Workflow Summary User Settingsin the Navigationpane.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Syniti Documentation</title>
+    <link>https://hcloward.github.io/Console/Page_Desc/</link>
+    <description>Recent content in Pages on Syniti Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://hcloward.github.io/Console/Page_Desc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>All Objects</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/All_Objects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/All_Objects/</guid>
+      <description>All Objects Use this page to Assign Contacts to Objects.
+To access this page:
+  Select dspMigratein the Navigationpane, or select Consolein the Context bar.
+  Select Advanced Configuration &amp;gt; Object Contact Configurationin the Navigationpane.
+  Click the Bulk User Object Assignmenticon in the Page toolbar.
+           Field Description   Add Contact To Object Click to add the selected contact(s) to the selected Object(s).</description>
+    </item>
+    
+    <item>
+      <title>Build Wave Comparison</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Build_Wave_Comparison/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Build_Wave_Comparison/</guid>
+      <description>Build Wave Comparison Use this page to Synchronize Target Designs Across Waves.
+NOTE: This page is only accessible if the current user is a member of the WebApp group Wavesynchronizer in Console or is assigned to a security role with access to the page. Refer to Set Security in System Administration for more information.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Click the Build Comparisonicon in the Page toolbar.</description>
+    </item>
+    
+    <item>
+      <title>Bulk Contact Staging Area</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Bulk_Contact_Staging_Area/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Bulk_Contact_Staging_Area/</guid>
+      <description>Bulk Contact Staging Area Use this page to:
+ Add Users to theStaging Area Assign a Position to Users  To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Select Advanced Configuration &amp;gt; Object Contact Configurationin the Navigationpane.  </description>
+    </item>
+    
+    <item>
+      <title>Context Select</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Context_Select/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Context_Select/</guid>
+      <description>Context Select Use this page to select a context. See Context, the Context Bar and Navigation in dspMigrate™ for more information.
+To access this page, click the context name in the Context bar.</description>
+    </item>
+    
+    <item>
+      <title>Copy Object</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Copy_Object/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Copy_Object/</guid>
+      <description>Copy Object Use this page to Copy an Object.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Select Elements &amp;gt; Objectfrom the Navigationpane. Select an Object. Click the Copy Objecticon in the Page toolbar.           Field Description   Original Object Name Displays the name of the Object selected on the Objects page to be copied.</description>
+    </item>
+    
+    <item>
+      <title>Copy Object to Process Area</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Copy_Object_to_Process_Area/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Copy_Object_to_Process_Area/</guid>
+      <description>Copy Object to Process Area Use this page to Copy an Object.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Select Wavesin the Navigationpane. Click the Process Areasicon for a Wave. Click the Objectsicon for a Process Area. Click the Copyicon.  </description>
+    </item>
+    
+    <item>
+      <title>Copy Process Area</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Copy_Process_Area/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Copy_Process_Area/</guid>
+      <description>Copy Process Area Use this page to Copy a Process Area.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Select Elements &amp;gt; Process Areain the Navigationpane. Select a Process Area. Click the Copy Process Areaicon in the Page toolbar.           Field Description   Original Process Area Displays the name of the Process Area selected on the Process Area page to be copied.</description>
+    </item>
+    
+    <item>
+      <title>Copy Wave</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Copy_Wave/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Copy_Wave/</guid>
+      <description>Copy Wave Use this page to Copy a Wave.
+To access this page:
+ Click Select dspMigratein the Navigationpane, or select Consolein the Context bar. Click Wavesin the Navigationpane. Select a Wave. Click the Copy Waveicon in the Page toolbar.           Field Description   Description Displays a description of the selected Wave to be copied.   Original Name Displays the name of the Wave selected on the Waves page to be copied.</description>
+    </item>
+    
+    <item>
+      <title>List Value Configuration</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/List_Value_Configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/List_Value_Configuration/</guid>
+      <description>List Value Configuration Use this page to Configure List Box Values.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Select Advanced Configuration &amp;gt; List Value Configurationin theNavigationpane.           Field Description   LIST Displays the name of the list and the name of the label that displays next to the list box on pages in dspMigrate™ Advanced Data Migration (ADM) components.</description>
+    </item>
+    
+    <item>
+      <title>Milestone</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Milestone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Milestone/</guid>
+      <description>Milestone This page is not used in this release.</description>
+    </item>
+    
+    <item>
+      <title>Move Object to Process Area</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Move_Object_to_Process_Area/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Move_Object_to_Process_Area/</guid>
+      <description>Move Object to Process Area Use this page to Move an Object
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Select Wavesin the Navigationpane. Click the Process Areasicon for a Wave. Click the Objectsicon for a Process Area. Click the MOVEicon.           Field Description   Wave Process Area ID Displays the Wave Process Area ID.</description>
+    </item>
+    
+    <item>
+      <title>Object Contacts</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Object_Contacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Object_Contacts/</guid>
+      <description>Object Contacts Use this page to Add Contacts for an Object.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Click Elements &amp;gt; Objectin the Navigationpane. Click the Contacticon for an Object.           Field Description   CONTACT Displays the contact name. This contact may or may not be registered in the Platform.   POSITION Displays the contact’s position.</description>
+    </item>
+    
+    <item>
+      <title>Object Decision Comments</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Object_Decision_Comments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Object_Decision_Comments/</guid>
+      <description>Object Decision Comments Use this page to .Add Decisions for an Object.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Select Elements &amp;gt; Objectin the Navigationpane. Click the Decisionsicon for an Object. Click the Commentsicon for a decision.           Field Description   NAME Displays the Object name.   COMMENT Displays comment for the Object decision, such as a question.</description>
+    </item>
+    
+    <item>
+      <title>Object Decisions H</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Object_Decisions_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Object_Decisions_H/</guid>
+      <description>Object Decisions H Object Decisions V
+Use this page to Add Decisions for an Object.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Select Elements &amp;gt; Objectin the Navigationpane. Click the Decisionsicon for an Object.           Field Description   Approve Click to approve a record in Pending status.   TYPE Displays the type of decision.</description>
+    </item>
+    
+    <item>
+      <title>Object History H</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Object_History_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Object_History_H/</guid>
+      <description>Object History H Object History V
+Use this page to Track Object History.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Select Elements &amp;gt; Objectin the Navigationpane. Click the Historyicon for an Object.           Field Description   ID Displays the Object identity. Changes are tracked in ascending order, so the higher the number the more recent the change.</description>
+    </item>
+    
+    <item>
+      <title>Objects H</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Objects_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Objects_H/</guid>
+      <description>Objects H Objects V (All Tabs)
+Use this page to Create the Contexts for Migration Projects and Configure an Object.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Select Elements &amp;gt; Objectin the Navigationpane.  Objects V Objects H
+Use this page to Create the Contexts for Migration Projects and Configure an Object.
+Field
+Description
+Basic
+Name
+Displays the Object name.
+Description
+Displays a description of the Object.</description>
+    </item>
+    
+    <item>
+      <title>Parameters</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Parameters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Parameters/</guid>
+      <description>Parameters Use this page to Set Parameters for Other Components
+This page has the following tabs:
+ General tab Map tab Transform tab Construct tab Compare Settings tab  To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Select Advanced Configuration &amp;gt; Parametersin the Navigationpane.  General tab Field
+Description
+Application Information
+Application Name
+Displays the name of the component, Console.
+Version
+Displays current version of Console.</description>
+    </item>
+    
+    <item>
+      <title>Process Area</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Process_Area/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Process_Area/</guid>
+      <description>Process Area Use this page to Add a Process Area.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Select Elements &amp;gt; Process Areain the Navigationpane.           Field Description   Copy Process Area Click to open the Copy Process Area page to create a Process Area based on a copy of the selected Process Area.</description>
+    </item>
+    
+    <item>
+      <title>Process Area: Object H</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Process_Area_ObjectH/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Process_Area_ObjectH/</guid>
+      <description>Process Area: Object H Process Area: Object V
+Use this page to Create the Context by Adding a Wave and Creating Elements.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Click Wavesin the Navigationpane. Click the Process Areasicon for a Wave. Click the Objectsicon for a Process Area.           Field Description   Copy Click to open theCopy Object to Process Areapage where the Process Area to which the Object is to be copied is specified.</description>
+    </item>
+    
+    <item>
+      <title>Report Headers / Footers (Setup)</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Report_Headers_Footers_Setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Report_Headers_Footers_Setup/</guid>
+      <description>Report Headers / Footers (Setup) Use this page to Set Headers and Footers for Transform Reports.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar.  Select Advanced Configuration &amp;gt; Report Headers / Footers (Setup)in the Navigationpane.           Field Description   DESCRIPTION Displays the name of the header or footer to be used on Transform reports.</description>
+    </item>
+    
+    <item>
+      <title>Staged Contacts</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Staged_Contacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Staged_Contacts/</guid>
+      <description>Staged Contacts Use this page to Assign Contacts to Objects.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Select Advanced Configuration &amp;gt; Object Contact Configurationin the Navigationpane. Click the Bulk User Object Assignmenticon in the Page toolbar.  </description>
+    </item>
+    
+    <item>
+      <title>User Context Setting</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/User_Context_Setting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/User_Context_Setting/</guid>
+      <description>User Context Setting Use this page to Set the Default Context for a User (performed by an Administrator) or to set the user&amp;rsquo;s own context.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Select Advanced Configuration &amp;gt; User Context Settingin the Navigationpane.  </description>
+    </item>
+    
+    <item>
+      <title>User Message Type</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/User_Message_Type/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/User_Message_Type/</guid>
+      <description>User Message Type Use this page to Set Message Types Mapping Review.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Select Advanced Configuration &amp;gt; User Message Typein the Navigationpane.  </description>
+    </item>
+    
+    <item>
+      <title>Users</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Users_Console/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Users_Console/</guid>
+      <description>Users Use this page to Add Users to the Staging Area.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Select Advanced Configuration &amp;gt; Object Contact Configurationin the Navigationpane. The Users page displays in a pane to the right of the Bulk Contact Staging Area page.           Field Description   Add User Click to add the selected user(s) to the Bulk Contact Staging Areapage as part of assigning multiple users to an Object(s).</description>
+    </item>
+    
+    <item>
+      <title>Values</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Values/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Values/</guid>
+      <description>Values Use this page to Configure List Box Values.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Select Advanced Configuration &amp;gt; List Value Configurationin the Navigationpane. Click the Valuesicon for a list.           Field Description   LIST Displays the name of the list to which this value is assigned, and the name of the label that displays next to the list box on pages in dspMigrate™ Advanced Data Migration (ADM) components.</description>
+    </item>
+    
+    <item>
+      <title>Wave Compare for Object Results H</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Wave_Compare_for_Object_Results_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Wave_Compare_for_Object_Results_H/</guid>
+      <description>Wave Compare for Object Results H Wave Compare for Object Results V
+Use this page to Synchronize Target Designs Across Waves.
+NOTE: This page is only accessible if the current user is a member of the WebApp group WaveSynchronizer in Console or is assigned to a security role with access to the page. Refer to Set Security in System Administration for more information.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar.</description>
+    </item>
+    
+    <item>
+      <title>Wave Compare for Process Area Results H</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Wave_Compare_for_Process_Area_Results_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Wave_Compare_for_Process_Area_Results_H/</guid>
+      <description>Wave Compare for Process Area Results H Wave Compare for Process Area Results V
+Use this page to Synchronize Target Designs Across Waves.
+NOTE: This page is only accessible if the current user is a member of the WebApp group WaveSynchronizer in Console or is assigned to a security role with access to the page. Refer to Set Security in System Administration for more information.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar.</description>
+    </item>
+    
+    <item>
+      <title>Wave Compare for Target Field Results H</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Wave_Compare_for_Target_Field_Results/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Wave_Compare_for_Target_Field_Results/</guid>
+      <description>Wave Compare for Target Field Results H Wave Compare for Target Field Results V
+Use this page to Synchronize Target Designs Across Waves.
+NOTE: This page is only accessible if the current user is a member of the WebApp group Wavesynchronizer in Console or is assigned to a security role with access to the page. Refer to Set Security in System Administration for more information.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar.</description>
+    </item>
+    
+    <item>
+      <title>Wave Compare for Target Results H</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Wave_Compare_for_Target_Results/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Wave_Compare_for_Target_Results/</guid>
+      <description>Wave Compare for Target Results H Wave Compare for Target Results V
+Use this page to Synchronize Target Designs Across Waves.
+NOTE: This page is only accessible if the current user is a member of the WebApp group WaveSynchronizer in Console or is assigned to a security role with access to the page. Refer to Set Security in System Administration for more information.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar.</description>
+    </item>
+    
+    <item>
+      <title>Wave Gate Metrics (Value Mapping) H</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Wave_Gate_Metrics_Value_Mapping_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Wave_Gate_Metrics_Value_Mapping_H/</guid>
+      <description>Wave Gate Metrics (Value Mapping) H Wave Gate Metrics (Value Mapping) V
+Use this page to Set up Wave Gate Metrics for Map.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Click Wavesin the Navigationpane. Click the Metricsicon for a Wave.  Wave Gate Metrics (Value Mapping) V Wave Gate Metrics (Value Mapping) H
+Use this page to Set up Wave Gate Metrics for Map.</description>
+    </item>
+    
+    <item>
+      <title>Wave Process Area Gate Metrics (Field Mapping) H</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Wave_Process_Area_Gate_Metrics_Field_Mapping_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Wave_Process_Area_Gate_Metrics_Field_Mapping_H/</guid>
+      <description>Wave Process Area Gate Metrics (Field Mapping) H Wave Process Area Gate Metrics (Field Mapping) V
+Use this page to Set up Wave Gate Metrics for Map.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Click Wavesin the Navigation pane. Click the Process Areasicon for a Wave. Click the Metricsicon for a Process Area.  Wave Process Area Gate Metrics (Field Mapping) V Wave Process Area Gate Metrics (Field Mapping) H</description>
+    </item>
+    
+    <item>
+      <title>Wave: Process Areas H</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Wave_Process_Areas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Wave_Process_Areas/</guid>
+      <description>Wave: Process Areas H Wave: Process Areas V
+Use this page to Create the Contexts for Migration Projects.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Click Wavesin the Navigationpane. Click the Process Areasicon for a Wave.           Field Description   Create Milestones From Template This icon will be used in a future release.</description>
+    </item>
+    
+    <item>
+      <title>Waves H</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/Waves_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/Waves_H/</guid>
+      <description>Waves H Waves V
+Use this page to Create the Contexts for Migration Projects.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Click Wavesin the Navigationpane.  Waves V Waves H
+Use this page to Create the Contexts for Migration Projects.
+Field
+Description
+Name
+Displays the name of the Wave, which categorizes the migration project. Examples of Wave names include country names or specific work locations where the migration will be rolled out.</description>
+    </item>
+    
+    <item>
+      <title>Workflow Message Summary H</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/WorkFlow_Message_Summary_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/WorkFlow_Message_Summary_H/</guid>
+      <description>Workflow Message Summary H Workflow Message Summary V
+Use this page to Create Custom Workflow Messages.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Select Advanced Configuration &amp;gt; Workflow Message Summaryin the Navigationpane.           Field Description   WORKFLOW NAME Displays the name of workflow to be processed.   MESSAGE TYPE ID Displays the message type to send the workflow or notification.</description>
+    </item>
+    
+    <item>
+      <title>Workflow Message Summary User</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/WorkFlow_Message_Summary_User/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/WorkFlow_Message_Summary_User/</guid>
+      <description>Workflow Message Summary User Use this page to:
+ Add Users to Workflow Messages Set up Workflow Message Summary Users  To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Select Advanced Configuration &amp;gt; Workflow Message Summaryin the Navigationpane. Click the Usersicon for the workflow name.           Field Description   USER ID Displays the name of the user who will receive the message.</description>
+    </item>
+    
+    <item>
+      <title>Workflow Summary Views H</title>
+      <link>https://hcloward.github.io/Console/Page_Desc/WorkFlow_Summary_Views_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Console/Page_Desc/WorkFlow_Summary_Views_H/</guid>
+      <description>Workflow Summary Views H Workflow Summary Views V
+Use this page to Register Workflow Views.
+To access this page:
+ Select dspMigratein the Navigationpane, or select Consolein the Context bar. Select Advanced Configuration &amp;gt; Workflow Message Summaryin the Navigationpane. Click the Viewsicon for the workflow name.           Field Description   PRIORITY Displays the order in which the rule is run.   DATA SOURCE ID Displays the data source containing the views.</description>
+    </item>
+    
+  </channel>
+</rss>

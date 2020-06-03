@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Syniti Documentation</title>
+    <link>https://hcloward.github.io/Construct/Page_Desc/</link>
+    <description>Recent content in Pages on Syniti Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://hcloward.github.io/Construct/Page_Desc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Construct Launch</title>
+      <link>https://hcloward.github.io/Construct/Page_Desc/Construct_Launch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Construct/Page_Desc/Construct_Launch/</guid>
+      <description>Construct Launch Use this page to access the pages as described below.
+To access this page:
+ Select dspMigrate in the Navigation pane. Select Construct in the Context bar.           Field Description   Wave Name Displays the name of the Wave in the current context to which the construction page belongs.   Process Area Displays the name of the Process Area in the current context to which the construction page belongs.</description>
+    </item>
+    
+    <item>
+      <title>Construct Object</title>
+      <link>https://hcloward.github.io/Construct/Page_Desc/Construct_Object/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Construct/Page_Desc/Construct_Object/</guid>
+      <description>Construct Object Use this page to View the Construction Page in Construct.
+To access this page:
+ Select dspMigrate in the Navigation pane. Select Construct in the Context bar. Click the Objectsicon on the Construct Launch page.  </description>
+    </item>
+    
+    <item>
+      <title>Construct Page</title>
+      <link>https://hcloward.github.io/Construct/Page_Desc/Construct_Page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Construct/Page_Desc/Construct_Page/</guid>
+      <description>Construct Page Use this page to View the Construction Page in Construct.
+To access this page:
+ Select dspMigrate in the Navigation pane. Select Construct in the Context bar. Click the Objectsicon on the Construct Launch page. Click the Targetsicon for an Object. Click the Construct Pagesicon for the Target.  </description>
+    </item>
+    
+    <item>
+      <title>Construct Target</title>
+      <link>https://hcloward.github.io/Construct/Page_Desc/Construct_Target/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Construct/Page_Desc/Construct_Target/</guid>
+      <description>Construct Target Use this page to View the Construction Page in Construct.
+To access this page:
+ Select dspMigrate in the Navigation pane. Select Construct in the Context bar. Click the Objectsicon on the Construct Launch page. Click the Targetsicon for an Object.  </description>
+    </item>
+    
+    <item>
+      <title>ZSource</title>
+      <link>https://hcloward.github.io/Construct/Page_Desc/Z_Source/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Construct/Page_Desc/Z_Source/</guid>
+      <description>ZSource Use this page to Set up ZSources.
+To access this page:
+ Select dspMigrate in the Navigation pane. Select Construct in the Context bar. Click ZSourcein the Navigationpane.           Field Description   Z SOURCE Displays name of Source where data is being created.   Users Click to open the ZSourceUserpage to manage users who can create data for the Source.</description>
+    </item>
+    
+    <item>
+      <title>ZSourceUser</title>
+      <link>https://hcloward.github.io/Construct/Page_Desc/ZSourceUser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Construct/Page_Desc/ZSourceUser/</guid>
+      <description>ZSourceUser Use this page to Set up ZSources.
+To access this page:
+ Select dspMigrate in the Navigation pane. Select Construct in the Context bar. Click ZSourcein the Navigationpane. Click the Usersicon for the ZSource.           Field Description   Z SOURCE Displays name of Source where data is being created.   USER NAME Displays name of user permitted to create data for the Source.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Syniti Documentation</title>
+    <link>https://hcloward.github.io/Map/Page_Desc/</link>
+    <description>Recent content in Pages on Syniti Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://hcloward.github.io/Map/Page_Desc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Check Table Values</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Check_Table_Values/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Check_Table_Values/</guid>
+      <description>Check Table Values Use this page to view the values associated with a selected check table while building a remediation report.
+To access this page in dspMigrate:
+ Select Map in the Context bar. Select Configuration &amp;gt; Value Mapping (Config)in Navigation pane. Click the Valuesicon for a check table.  </description>
+    </item>
+    
+    <item>
+      <title>Export Field Mappings</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Export_Field_Mappings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Export_Field_Mappings/</guid>
+      <description>Export Field Mappings Use this page to Export a Field Mapping.
+To access this page in dspMigrate:
+ Select Map in the Context bar. Click the Targetsicon on the Process Area Launch page. Click the Sourcesicon for a Target. Click the Vertical Viewicon for a Target Source. Click the Export Field Mappings icon in the Page toolbar.  </description>
+    </item>
+    
+    <item>
+      <title>Field Mapping History</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Field_Mapping_History/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Field_Mapping_History/</guid>
+      <description>Field Mapping History Use this page to:
+ View Field Mapping History Restore Current Field Mapping From History  To access this page in dspMigrate:
+ Select Map in the Context bar. Click the Targetsicon on the Process Area Launch page. Click the Mappingsicon for a Target. Select a field and click the Historyicon in the Page toolbar.  </description>
+    </item>
+    
+    <item>
+      <title>Field Mappings by Target Field (All Waves)</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Field_Mappings_by_Target_Field_All_Waves/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Field_Mappings_by_Target_Field_All_Waves/</guid>
+      <description>Field Mappings by Target Field (All Waves) Field Mappings by Target Field (All Waves) V
+Use this page to Copy a Mapping.
+To access this page:
+  Select dspMigratein the Navigationpane.
+  Select Map in the Context bar.
+  Click the Targetsicon on the Process Area Launch page.
+Or
+Click the Targetsicon and click the Sourcesicon for a Target.
+  Click the Mappingsicon for a Target or Target Source.</description>
+    </item>
+    
+    <item>
+      <title>Field Mappings H</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Field_Mappings_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Field_Mappings_H/</guid>
+      <description>Field Mappings H Field Mappings V
+Use this page to:
+ Perform Field Mapping Work with Target Sources that have Multi-part Keys Build a Remediation Report  NOTE:Bulk Execution has been enabled on this page. Refer to Use Bulk Execution for more information.
+To view all field mappings for the selected Target in Map:
+ Select dspMigratein the Navigationpane. Select Map in the Context bar. Click the Targetsicon on the Process Area Launch page.</description>
+    </item>
+    
+    <item>
+      <title>Import Field Mappings</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Import_Field_Mappings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Import_Field_Mappings/</guid>
+      <description>Import Field Mappings Use this page to Import Mappings.
+To access this page in dspMigrate:
+ Select Map in the Context bar. Click the Targetsicon on the Process Area Launch page. Click the Sourcesicon for a Target. Click the Vertical Viewicon for the Source. Click the Import Field Mappingsicon in the Page toolbar.  </description>
+    </item>
+    
+    <item>
+      <title>Legacy Value (Source Table Fields) H</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Legacy_Value_Source_Table_Fields_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Legacy_Value_Source_Table_Fields_H/</guid>
+      <description>Legacy Value (Source Table Fields) H Legacy Value (Source Table Fields) V
+Use this page when Value Map Target Fields from Multiple Source Systems.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Map in the Context bar. Select Configuration &amp;gt;Value Mapping (Config)in the Navigationpane. Click the Sourcesicon for a check table. Click Vertical Viewfor a Source. Click the Source Tablesicon.  Legacy Value (Source Table Fields) V Legacy Value (Source Table Fields) H</description>
+    </item>
+    
+    <item>
+      <title>Mapping Approval H &lt;span id=&#34;top&#34;&gt;&lt;/span&gt;</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Mapping_Approval_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Mapping_Approval_H/</guid>
+      <description>Mapping Approval H  Mapping Approval V
+Use this page to Approve or Reject Mappings.
+To access this page, click the green Mapping Approvaltab on the Quick Panel.
+Mapping Approval V Mapping Approval H
+Use this page to Approve or Reject Mappings.
+         Field Description   Wave Name Displays the name of the Wave as created in Console that contains the Process Area and Object where the new or changed field mapping resides.</description>
+    </item>
+    
+    <item>
+      <title>Mapping Approvals Download List</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Mapping_Approvals_Download_List/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Mapping_Approvals_Download_List/</guid>
+      <description>Mapping Approvals Download List Use this page to Download Mappings for Review.
+To access this page:
+ Click the Mapping Approvalstab on the Quick Panel. Click the Download Listicon in the Page toolbar.           Field Description   Wave NAME Displays the Wave name of the current context that contains the mapping.   Process Area Displays the Process Area name of the current context that contains the mapping.</description>
+    </item>
+    
+    <item>
+      <title>Mapping Status</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Mapping_Status_page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Mapping_Status_page/</guid>
+      <description>Mapping Status Use this page to Configure Mapping Status.
+To access this page in dspMigrate:
+ Click Map in the Context bar. Select Configuration &amp;gt; Mapping Statusin the Navigationpane.  </description>
+    </item>
+    
+    <item>
+      <title>Metrics and Reports Landing</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Metrics_and_Reports_Landing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Metrics_and_Reports_Landing/</guid>
+      <description>Metrics and Reports Landing Use this page to access metrics and reports pages as described below.
+To access this page in dspMigrate:
+ Click Map in the Context bar. Click the Metricsicon on the Process Area Launch page.  Field
+Description
+Dashboards
+Metrics Charts
+Click to view line graphs of daily, weekly and monthly mapping progress of completed versus total mappings.
+Snap Shot Stats
+Metrics
+Click to open the Target Dashboard Statspage to view Object and Target percentages and sum counts about the mapping status by day, week and month.</description>
+    </item>
+    
+    <item>
+      <title>Objects</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Objects_map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Objects_map/</guid>
+      <description>Objects Use this page to view dashboards at the Object level.
+To access this page in dspMigrate:
+ Click Map in the Context bar. Click the Objectsicon on the Process Area Launch page.           Field Description   PRIORITY Displays the object priority as set in Console.   NAME Displays the name of the Object created in Console and associated with the current context.</description>
+    </item>
+    
+    <item>
+      <title>Process Area Launch</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Process_Area_Launch_map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Process_Area_Launch_map/</guid>
+      <description>Process Area Launch Use this page to access the pages as described below.
+To access this page:
+ Click dspMigratein the Navigationpane Click Map in the Context bar.  Field
+Description
+Wave Name
+Displays the Wave added in Console and selected (along with the Process Area) in the Context Menu before accessing Map. Click the link to access the Waves page in Console to view details about the Wave.
+Process Area</description>
+    </item>
+    
+    <item>
+      <title>Relationship Fields</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Relationship_Fields/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Relationship_Fields/</guid>
+      <description>Relationship Fields Use this page to Add Relationship Joins to Sources.
+To access this page in dspMigrate:
+ Click Map in the Context bar. Click the Targetsicon on the Process Area Launch page. Click the Sourcesicon for a Target in the Parent pane. Click the Update Row Sources icon for a Target Source in the Child pane. Click the Secondary Source icon for a Target Source (Add Row) in the Parent pane.</description>
+    </item>
+    
+    <item>
+      <title>Relationship Joins H</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Relationship_Joins_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Relationship_Joins_H/</guid>
+      <description>Relationship Joins H Relationship Joins V
+Use this page to Add Relationship Joins to Sources.
+To access this page:
+ Click dspMigratein the Navigationpane. Click Mapin the Context bar. Click the Targetsicon on the Process Area Launch page. Click the Sourcesicon for a Target in the Parent pane. Click the Update Row Sources icon for a Target Source in the Child pane. Click the Secondary Source icon for a Target Source (Add Row) in the Parent pane.</description>
+    </item>
+    
+    <item>
+      <title>Rule Status</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Rule_Status/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Rule_Status/</guid>
+      <description>Rule Status Use this page to Configure Rule Status.
+To access this page:
+ Click dspMigratein the Navigationpane. Click Map in the Context bar. Select Configuration &amp;gt; Rule Statusin the Navigationpane.  </description>
+    </item>
+    
+    <item>
+      <title>Source Check Table (Config) H</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Source_Check_Table_Config_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Source_Check_Table_Config_H/</guid>
+      <description>Source Check Table (Config) H Source Check Table (Config) V
+Use this page when Value Map Target Fields from Multiple Source Systems.
+To access this page:
+ Click dspMigratein the Navigationpane. Click Map in the Context bar. Select Configuration &amp;gt; Value Mapping (Config)in the Navigationpane. Click the Sourcesicon for a check table. Click the Source Configicon for a Source.  Source Check Table (Config) V Source Check Table (Config) H</description>
+    </item>
+    
+    <item>
+      <title>Source Value Tracking</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Source_Value_Tracking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Source_Value_Tracking/</guid>
+      <description>Source Value Tracking Use this page to View the Source Tables and Fields Mapped to a Lookup Table.
+To access this page:
+ Click dspMigratein the Navigationpane. Click Mapin the Context bar. Select Configuration &amp;gt; Value Mapping (Config)in the Navigation pane. Click the Sourcesicon for a check table. Click the Vertical Viewicon for a Source. Click the Source Tablesicon. Click the Value Trackingicon.           Field Description   VALUE MAPPING SOURCE ID Displays the name of the Source that contains the field that has been value mapped.</description>
+    </item>
+    
+    <item>
+      <title>Target Dashboard Stats H</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Target_Dashboard_Stats_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Target_Dashboard_Stats_H/</guid>
+      <description>Target Dashboard Stats H Target Dashboard Stats V
+Use this page to View Metrics.
+To access this page:
+ Click dspMigratein the Navigationpane. Click Mapin the Context bar. Click the Metricsicon on the Process Area Launch page Click the Metricsicon on the Metrics and Reports Landingpage.  Target Dashboard Stats V Target Dashboard Stats H
+Use this page to View Metrics.
+Field
+Description
+Name
+Displays the object name defined in Console.</description>
+    </item>
+    
+    <item>
+      <title>Target Field Groups</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Target_Field_Groups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Target_Field_Groups/</guid>
+      <description>Target Field Groups Use this page to view Field Groups registered to the target.
+To access this page:
+ Click dspMigratein the Navigationpane. Click Map in the Context bar. Click the Targetsicon on the Process Area Launch page. Click the Field Groupsicon for a Target  </description>
+    </item>
+    
+    <item>
+      <title>Target Metrics Daily H</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Target_Metrics_Daily_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Target_Metrics_Daily_H/</guid>
+      <description>Target Metrics Daily H Target Metrics Daily V
+Use this page to View Metrics.
+To access this page:
+ Click dspMigratein the Navigationpane. Click Map in the Context bar. Click the Metricsicon on the Process Area Launch page. Click the Metricsicon on the Metrics and Reports Landingpage. Click the Dailyicon in the Page toolbar.  Target Metrics Daily V Target Metrics Daily H
+Use this page to View Metrics.
+Field</description>
+    </item>
+    
+    <item>
+      <title>Target Metrics Weekly H</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Targets_Metrics_Weekly_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Targets_Metrics_Weekly_H/</guid>
+      <description>Target Metrics Weekly H Target Metrics Weekly V
+Use this page to View Metrics.
+To access this page:
+ Click dspMigratein the Navigationpane. Click Map in the Context bar. Click the Metricsicon on the Process Area Launch page. Click the Metricsicon on the Metrics and Reports Landingpage. Click the Weekly icon in the Page toolbar.  Target Metrics Weekly V Target Metrics Weekly H
+Use this page to View Metrics</description>
+    </item>
+    
+    <item>
+      <title>Target Rule Copy To</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Target_Rule_Copy_To/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Target_Rule_Copy_To/</guid>
+      <description>Target Rule Copy To Use this page to Copy All Target Rules to Another Target.
+To access this page:
+ Click dspMigratein the Navigationpane. Click Map in the Context bar. Click the Targetsicon on the Process Area Launch page. Click the Sourcesicon for a Target. Click Vertical Viewfor a Target Source. Click the Copy Toicon on the Page toolbar.  </description>
+    </item>
+    
+    <item>
+      <title>Target Source Copy To</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Target_Source_Copy_To/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Target_Source_Copy_To/</guid>
+      <description>Target Source Copy To Use this page to Copy a Target Source to Another Target.
+To access this page:
+ Click dspMigratein the Navigationpane. Click Map in the Context bar. Click the Targetsicon on the Process Area Launch page. Click the Sourcesicon for a Target. Click Vertical Viewfor a Target Source. Click the Copy Toicon on the Page toolbar.  </description>
+    </item>
+    
+    <item>
+      <title>Target Source Rule Book</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Target_Source_Rule_Book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Target_Source_Rule_Book/</guid>
+      <description>Target Source Rule Book Use this page to View All Mappings for a Target.
+To access this page:
+ Click dspMigratein the Navigationpane. Click Map in the Context bar. Click the Metricsicon on the Process Area Launch page. Click the Rule Bookicon on the Metrics and Reports Landing page.  </description>
+    </item>
+    
+    <item>
+      <title>Target Source Schema H</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Target_Source_Schema_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Target_Source_Schema_H/</guid>
+      <description>Target Source Schema H Target Source Schema V
+Use this page to Reset Target Source Schema Field Lengths.
+To access this page:
+ Click dspMigratein the Navigationpane. Click Map in the Context bar. Click the Targetsicon on the Process Area Launch page. Click the Sourcesicon for a Target. Click the Vertical Viewicon for a Target Source. Click the Schema Columnsicon on the Target Sources page.  Target Source Schema V Target Source Schema H</description>
+    </item>
+    
+    <item>
+      <title>Target Sources (Add Row)</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Target_Sources_Add_Row/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Target_Sources_Add_Row/</guid>
+      <description>Target Sources (Add Row) Use this page while:
+ Add Update Row Sources that are Views Add Update Row Sources that are Tables Adding an External Source  To access this page:
+ Click dspMigratein the Navigationpane. Click Map in the Context bar. Click the Targetsicon on the Process Area Launch page. Click the Sourcesicon for a Target. Click the Update Row Sourcesicon for a Source.  </description>
+    </item>
+    
+    <item>
+      <title>Target Sources (Update Row) H</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Target_Sources_Update_Row/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Target_Sources_Update_Row/</guid>
+      <description>Target Sources (Update Row) H Target Sources (Update Row) V
+Use this page to:
+ Add Add Row Sources Add Update Row Sources Add an External Source Add Relationship Joins to Sources  To access this page:
+ Click dspMigratein the Navigationpane. Click Map in the Context bar. Click the Targetsicon on the Process Area Launch page. Click the Sourcesicon for a Target. Click the Update Row Sourcesicon for a Source.</description>
+    </item>
+    
+    <item>
+      <title>Target Sources H</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Target_Sources_H_Map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Target_Sources_H_Map/</guid>
+      <description>Target Sources H Target Sources V
+Use this page to:
+ Set a Source Database Object Add ZActive Fields Update Client and Language for all Sources  To access this page:
+ Click dspMigratein the Navigationpane. Click Map in the Context bar. Click the Targetsicon on the Process Area Launch page. Click the Sourcesicon for a Target.  Target Sources V Target Sources H
+Use this page to:
+ Add ZActive Update Unmapped Add Row and Update Row Source Fields to NotUsed Add Update Row Sources Update Client and Language for all Sources Add an Assemble Where Clause  Field</description>
+    </item>
+    
+    <item>
+      <title>Targets H</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Targets_H_Map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Targets_H_Map/</guid>
+      <description>Targets H Targets V
+Use this page to:
+ Sync Map and Target Design Build a Remediation Report  To access this page:
+ Click dspMigratein the Navigation pane. Click Map in the Context bar. Click the Targetsicon on the Process Area Launch page.  Targets V Targets H
+Use this page to:
+ Sync Map and Target Design Build a Remediation Report  Field
+Description
+Copy To
+Click to open the Target Source Copy To page to copy mappings from the current Target rule to another Target rule combination.</description>
+    </item>
+    
+    <item>
+      <title>Targets Metrics Monthly H</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Targets_Metrics_Monthly_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Targets_Metrics_Monthly_H/</guid>
+      <description>Targets Metrics Monthly H Target Metrics Monthly V
+Use this page to View Metrics.
+To access this page:
+ Click dspMigratein the Navigationpane. Click Map in the Context bar. Click the Metricsicon on the Process Area Launch page. Click the Metricsicon on the Metrics and Reports Landingpage. Click the Monthly icon in the Page toolbar.  Target Metrics Monthly V Targets Metrics Monthly H
+Use this page to View Metrics.</description>
+    </item>
+    
+    <item>
+      <title>User Track Changes</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/User_Track_Changes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/User_Track_Changes/</guid>
+      <description>User Track Changes Use this page to Set up Notifications.
+To access this page:
+ Click dspMigratein the Navigationpane. Click Map in the Context bar. Select Configuration &amp;gt; User Track Changesin the Navigationpane.           Field Description   USER ID Displays the user name requesting to receive information when changes occur to field mappings, value mappings, or table and rule creation.   MAPPING CHANGES Displays how the user will receive information about field mapping changes when a field mapping is either created or reset.</description>
+    </item>
+    
+    <item>
+      <title>Value Mapping</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Value_Mapping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Value_Mapping/</guid>
+      <description>Value Mapping Use this page to Perform Value Mapping.
+To access this page:
+ Click dspMigratein the Navigationpane. Click Map in the Context bar. Click the Value Mappingicon on the Process Area Launch page.  </description>
+    </item>
+    
+    <item>
+      <title>Value Mapping (Config) H</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Value_Mapping_Config_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Value_Mapping_Config_H/</guid>
+      <description>Value Mapping (Config) H Value Mapping (Config) V
+Use this page to Build a Remediation Report.
+To access this page:
+ Click dspMigrate in the Navigation pane. Click Map in the Context bar. Select Configuration &amp;gt; Value Mapping (Config) in Navigation pane.           Field Description   Target Lookup Table (Config) Click to open the Target Lookup Table page to update configuration for a check table as needed.</description>
+    </item>
+    
+    <item>
+      <title>Value Mapping (Legacy to Target) H</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Value_Mapping_Legacy_to_Target_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Value_Mapping_Legacy_to_Target_H/</guid>
+      <description>Value Mapping (Legacy to Target) H Value Mapping (Legacy to Target) V
+Use this page to
+ Perform Value Mapping Value Map Target Fields from Multiple Source Systems  To access this page:
+  Click dspMigratein the Navigationpane.
+  Click Map in the Context bar.
+  Click the Value Mappingicon on the Process Area Launch page.
+  Click the Valuesicon for a check table.
+NOTE: Use Excel Integration to download a spreadsheet that users can update with value mapping values.</description>
+    </item>
+    
+    <item>
+      <title>Value Mapping (Sources) H</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Value_Mapping_Sources_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Value_Mapping_Sources_H/</guid>
+      <description>Value Mapping (Sources) H Value Mapping (Sources) V
+Use this page to Perform Value Mapping.
+To access this page:
+ Click dspMigrate in the Navigation pane. Click Map in the Context bar. Click the Value Mapping icon on the Process Area Launch page. Click the Mappings icon for a check table. Click the check table name link in the LOOKUP column on the Field Mappings page next to a mapping with Xref or RuleXref action.</description>
+    </item>
+    
+    <item>
+      <title>Wave Gate Metrics (Value Mapping) H</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Wave_Gate_Metrics_Value_Mapping_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Wave_Gate_Metrics_Value_Mapping_H/</guid>
+      <description>Wave Gate Metrics (Value Mapping) H Wave Gate Metrics (Value Mapping) V
+Use this page to View Metrics.
+To access this page:
+ Click dspMigratein the Navigationpane. Click Map in the Context bar. Click the Metricsicon on the Process Area Launch page. Click the Gate Value Mappingicon on the Metrics and Reports Landing page.  Wave Gate Metrics (Value Mapping) V Wave Gate Metrics (Value Mapping) H
+Use this page to View Metrics.</description>
+    </item>
+    
+    <item>
+      <title>Wave Lookup Table Refresh</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Wave_Lookup_Table_Refresh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Wave_Lookup_Table_Refresh/</guid>
+      <description>Wave Lookup Table Refresh Use this page to Refresh Target and Legacy Values.
+To access this page:
+ Click dspMigratein the Navigation pane. Click Map in the Context bar. Select Configuration &amp;gt; Wave Lookup Table Refreshin Navigationpane.           Field Description   Refresh Target Values Click to refresh values into check tables.   Refresh Legacy Values Click to refresh Legacy Source tables and fields marked as active for the Source and the Source field.</description>
+    </item>
+    
+    <item>
+      <title>Wave Process Area Gate Metrics (Field Mapping) H</title>
+      <link>https://hcloward.github.io/Map/Page_Desc/Wave_Proc_Area_Gate_Metrics_Field_Mapping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Map/Page_Desc/Wave_Proc_Area_Gate_Metrics_Field_Mapping/</guid>
+      <description>Wave Process Area Gate Metrics (Field Mapping) H Wave Process Area Gate Metrics (Field Mapping) V
+Use this page to View Metrics.
+To access this page:
+ Click dspMigratein the Navigationpane. Click Map in the Context bar. Click the Metricsicon on the Process Area Launch page. Click theGate Field Mappingicon on the Metrics and Reports Landing page.  Wave Process Area Gate Metrics (Field Mapping) V Wave Process Area Gate Metrics (Field Mapping) H</description>
+    </item>
+    
+  </channel>
+</rss>

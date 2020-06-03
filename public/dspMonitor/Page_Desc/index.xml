@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Syniti Documentation</title>
+    <link>https://hcloward.github.io/dspMonitor/Page_Desc/</link>
+    <description>Recent content in Pages on Syniti Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://hcloward.github.io/dspMonitor/Page_Desc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Group (Errors)</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Group_Errors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Group_Errors/</guid>
+      <description>Group (Errors) Use this page to View Dashboard Metrics.
+To access this page, select dspMonitor &amp;gt; Dashboard &amp;gt; Group (Errors) in Navigation pane.</description>
+    </item>
+    
+    <item>
+      <title>Group Day (Metrics)</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Group_Day_Metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Group_Day_Metrics/</guid>
+      <description>Group Day (Metrics) Use this page to View Dashboard Metrics.
+To access this page, select dspMonitor &amp;gt; Dashboard &amp;gt; Group Day (Metrics) in Navigation pane.
+         Field Description   GROUP ID Displays name of group to which the report belongs.   DAY 1 Displays number of records in report on Day 1 of reporting period.   DAY 2 Displays number of records in report on Day 2 of reporting period.</description>
+    </item>
+    
+    <item>
+      <title>Group Metric Graph</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Group_Metric_Graph/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Group_Metric_Graph/</guid>
+      <description>Group Metric Graph Use this page to Customize Group Metric Graph.
+To access this page, select dspMonitor &amp;gt; Dashboard &amp;gt; Group Metric Graph in Navigation pane.
+         Field Description   GRAPH DIRECTORY PATH Provides ability to download and upload file that contains group metric information.    </description>
+    </item>
+    
+    <item>
+      <title>Group Month (Metrics)</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Group_Month_Metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Group_Month_Metrics/</guid>
+      <description>Group Month (Metrics) Use this page to View Dashboard Metrics.
+To access this page, select dspMonitor &amp;gt; Dashboard &amp;gt; Group Month (Metrics) in Navigation pane.
+         Field Description   GROUP ID Displays name of group to which the report belongs.   MONTH 1 Displays number of records in report on Month 1 of reporting period.   MONTH 2 Displays number of records in report on Month 2 of reporting period.</description>
+    </item>
+    
+    <item>
+      <title>Group Reports H</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Group_Reports_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Group_Reports_H/</guid>
+      <description>Group Reports H Group Reports V
+Use this page to Register Reports to Groups.
+To access this page:
+ Click dspMonitor &amp;gt; Reports &amp;gt; Groupsin the Navigationpane. Click the Group Reportsicon.           Field Description   REPOSITORY Displays name of database where reports reside.   REPORT Displays name of report as it appears in the report repository.   ACTIVE If enabled, report is active within group.</description>
+    </item>
+    
+    <item>
+      <title>Group Users</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Group_Users/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Group_Users/</guid>
+      <description>Group Users Use this page to:
+ Add Users to a Report Register Users to Groups  To access this page:
+ Click dspMonitor &amp;gt; Your Groupsin Navigation pane. Click Vertical View for Group ID. Click User.  </description>
+    </item>
+    
+    <item>
+      <title>Group Week (Metrics)</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Group_Week_Metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Group_Week_Metrics/</guid>
+      <description>Group Week (Metrics) Use this page to View Dashboard Metrics.
+To access this page, select dspMonitor &amp;gt; Dashboard &amp;gt; Group Week (Metrics) in Navigation pane.
+         Field Description   GROUP ID Displays name of group to which the report belongs.   WEEK 1 Displays number of records in report on Week 1 of reporting period.   WEEK 2 Displays number of records in report on Week 2 of reporting period.</description>
+    </item>
+    
+    <item>
+      <title>Groups H</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Groups_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Groups_H/</guid>
+      <description>Groups H Groups V (All Tabs)
+Use this page to:
+ Assign a Group Owner to a Report Create Groups Configure Workflow Schedules for Groups Schedule Reports to Process  To access this page, select dspMonitor &amp;gt; Configuration &amp;gt; Groups in Navigation pane.
+         Field Description   GROUP ID Displays name of report group.   GROUP DESCRIPTION Displays description of report group.</description>
+    </item>
+    
+    <item>
+      <title>Metric Data Column (Config)</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Metric_Data_Column_Config/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Metric_Data_Column_Config/</guid>
+      <description>Metric Data Column (Config) Use this page to Track Error Records on Reports.
+To access this page:
+ Select dspMonitor &amp;gt; Configuration &amp;gt; Report Repositories in Navigation pane. Click Reports icon for Repository. Click Vertical View for Report. Click Metric Data Information tab. Click Report Metric Data Build check box to enable metric reporting. Click Yes. Click Report Columns icon to indicate which columns will be tracked for Metric Data Tracking.</description>
+    </item>
+    
+    <item>
+      <title>Monitor H</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Monitor_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Monitor_H/</guid>
+      <description>Monitor H Monitor V
+Use this page to Monitor Activity.
+To access this page, click dspMonitor &amp;gt; Monitor in the Navigation pane.
+         Field Description   JOB ID Displays Platform job that runs the queued report.   TITLE Displays user-friendly name of the report.   STATUS Displays current status of the processing report.   START TIME Displays time when report started processing.</description>
+    </item>
+    
+    <item>
+      <title>Object Publish</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Object_Publish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Object_Publish/</guid>
+      <description>Object Publish Use this page to Create Objects and Publish Reports to Groups.
+To access this page:
+ Select dspMonitor &amp;gt; Configuration &amp;gt; Objects in Navigation pane. Click Publish to register all reports for the object to a group.           Field Description   Object name Displays name of object classification in which the report belongs.   Group ID Displays name of object group.</description>
+    </item>
+    
+    <item>
+      <title>Object Reports</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Object_Reports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Object_Reports/</guid>
+      <description>Object Reports Use this page to:
+ Register Reports to Objects Register Objects to Reports  To access this page:
+ Select dspMonitor &amp;gt; Configuration &amp;gt; Objects in Navigation pane. Click Reports.           Field Description   OBJECT NAME Displays name of object classification in which the report belongs.   REPOSITORY Displays name of database where reports reside.   REPORT Displays name of report as it appears in the report repository.</description>
+    </item>
+    
+    <item>
+      <title>Objects H</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Objects_dspMonitor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Objects_dspMonitor/</guid>
+      <description>Objects H Objects V
+Use this page to Create Objects and Publish Reports to Groups.
+To access this page, select dspMonitor &amp;gt; Configuration &amp;gt; Objects in Navigation pane.
+         Field Description   OBJECT NAME Displays name of object classification in which the report belongs.   DESCRIPTION Displays brief description of object.   Reports Click to open the Object Reportspage to manage reports registered to the object.</description>
+    </item>
+    
+    <item>
+      <title>Parameters</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Parameters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Parameters/</guid>
+      <description>Parameters Use this page to Configure dspMonitor™ Parameters.
+This page contains the following tabs:
+ General tab Metric Parameters tab Workflow Parameters tab Misc Parameters tab  To access this page, select dspMonitor &amp;gt; Configuration &amp;gt; Parameters in Navigation pane.
+General tab Field
+Description
+Application Information
+Application Name
+Displays name of DSP® component: dspMonitor™.
+Version
+Displays current version of DSP component.
+Date
+Displays date when DSP component was released.
+Properties</description>
+    </item>
+    
+    <item>
+      <title>Process Queue Task</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Process_Queue_Task/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Process_Queue_Task/</guid>
+      <description>Process Queue Task To access this page:
+ Click dspMonitor &amp;gt; Monitorin the Navigationpane. Click the Tasksicon.           Field Description   TASK ID Displays job that runs the queued task.   STATUS Displays current status of processing task.   TASK TYPE Displays type of object being run by the task, e.g., stored procedure, workflow or external page.   TASK OBJECT Displays procedure or event the error task represents.</description>
+    </item>
+    
+    <item>
+      <title>Quality Dimension</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Quality_Dimension/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Quality_Dimension/</guid>
+      <description>Quality Dimension Use this page to Register Quality Dimensions.
+To access this page, select dspMonitor &amp;gt; Administrative &amp;gt; Configuration &amp;gt; Quality Dimension in Navigation pane.</description>
+    </item>
+    
+    <item>
+      <title>Report Data (Metrics) H</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Report_Data_Metrics_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Report_Data_Metrics_H/</guid>
+      <description>Report Data (Metrics) H Report Data (Metrics) V
+Use this page to View Dashboard Metrics.
+To access this page, select dspMonitor &amp;gt; Dashboard &amp;gt; Report Data (Metrics) in Navigation pane.
+         Field Description   COMMENT Displays additional information about report.   REPORT TYPE Displays the categorization of report. Values are: Error, Information and Metric.   IMPLICATION Displays description of what the report means to the business.</description>
+    </item>
+    
+    <item>
+      <title>Report Day (Metrics)</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Report_Day_Metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Report_Day_Metrics/</guid>
+      <description>Report Day (Metrics) Use this page to View Dashboard Metrics.
+To access this page, select dspMonitor &amp;gt; Dashboard &amp;gt; Report Day (Metrics) in Navigation pane.
+         Field Description   REPORT DESC Displays user-friendly name of report.   DAY 1 Displays number of records in report on Day 1 of reporting period.   DAY 2 Displays number of records in report on Day 2 of reporting period.</description>
+    </item>
+    
+    <item>
+      <title>Report in Groups</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Report_in_Groups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Report_in_Groups/</guid>
+      <description>Report in Groups To access this page:
+ Select dspMonitor &amp;gt; Configuration &amp;gt; Objectsin the Navigationpane. Click the Reportsicon for an object. Click the Groupsicon for a report.           Field Description   GROUP ID Displays name of group to which the report belongs.   GROUP OWNER Displays individual whose task is to manage reports registered to the group and to define the report-level parameters.</description>
+    </item>
+    
+    <item>
+      <title>Report Metric Details</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Report_Metric_Details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Report_Metric_Details/</guid>
+      <description>Report Metric Details Use this page to View Dashboard Metrics.
+To access this page, select dspMonitor &amp;gt; Reports &amp;gt; Report Metric Details in Navigation pane.
+         Field Description   COUNTER Displays unique identifier for the report workflow record.   REPORT Displays name of report as it appears in the report repository. Click link to view SQL code used to generate report.</description>
+    </item>
+    
+    <item>
+      <title>Report Month (Metrics)</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Report_Month_Metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Report_Month_Metrics/</guid>
+      <description>Report Month (Metrics) Use this page to View Dashboard Metrics.
+To access this page, select dspMonitor &amp;gt; Dashboard &amp;gt; Report Month (Metrics) in Navigation pane.
+         Field Description   REPORT DESC Displays user-friendly name of report.   MONTH 1 Displays number of records in report on Month 1 of reporting period.   MONTH 2 Displays number of records in report on Month 2 of reporting period.</description>
+    </item>
+    
+    <item>
+      <title>Report Repositories H</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Report_Repositories_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Report_Repositories_H/</guid>
+      <description>Report Repositories H Report Repositories V
+Use this page to Register Report Repositories in dspMonitor™.
+To access this page, select Configuration &amp;gt; Report Repositories in the Navigation pane.
+         Field Description   REPOSITORY Displays name of database where reports reside.   Reports Click to manage reports within the report repository.   Collect Targets Click to open the Repository Collect Target page to register Collect targets to a report repository.</description>
+    </item>
+    
+    <item>
+      <title>Report Target Table Columns H</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Report_Target_Table_Columns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Report_Target_Table_Columns/</guid>
+      <description>Report Target Table Columns H Report Target Table Columns V
+Use this page to Register Collect Target Table Columns to a Report.
+To access this page:
+1. Select dspMonitor &amp;gt; Configuration &amp;gt; Report Repositories in the Navigation pane.
+2. Click the Reports icon.
+3. Click the Target Tables icon.
+4. Click the Columns icon.
+         Field Description   TABLE NAME Displays the table name.</description>
+    </item>
+    
+    <item>
+      <title>Report Target Tables H</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Report_Target_Tables-H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Report_Target_Tables-H/</guid>
+      <description>Report Target Tables H Report Target Tables V
+Use this page to Register Collect Target Tables to a Report.
+To access this page:
+ Select dspMonitor &amp;gt; Configuration &amp;gt; Report Repositories in the Navigation pane. Click the Reports icon. Click the Target Tables icon.           Field Description   COLLECT TARGET Displays the target name.   TABLE NAME Displays the table name.</description>
+    </item>
+    
+    <item>
+      <title>Report Week (Metrics)</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Report_Week_Metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Report_Week_Metrics/</guid>
+      <description>Report Week (Metrics) Use this page to View Dashboard Metrics.
+To access this page, select dspMonitor &amp;gt; Dashboard &amp;gt; Report Week (Metrics) in Navigation pane.
+         Field Description   REPORT DESC Displays user-friendly name of report.   WEEK 1 Displays number of records in report on Week 1 of reporting period.   WEEK 2 Displays number of records in report on Week 2 of reporting period.</description>
+    </item>
+    
+    <item>
+      <title>Report Workflows H</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Report_Workflows_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Report_Workflows_H/</guid>
+      <description>Report Workflows H Report Workflows V
+Use this page to view data while Managing Workflow Emails.
+To access this page:
+ Click dspMonitor &amp;gt; Configuration &amp;gt; Users Reports/Filters in the Navigation pane. Click the Workflowsicon.           Field Description   COUNTER Displays unique identifier for the report workflow record.   GROUP ID Displays name of group to which the report belongs.</description>
+    </item>
+    
+    <item>
+      <title>Reports (Errors)</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Reports_Errors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Reports_Errors/</guid>
+      <description>Reports (Errors) Use this page to View Dashboard Metrics.
+To access this page, select dspMonitor &amp;gt; Dashboard &amp;gt; Reports (Errors) in the Navigation pane.</description>
+    </item>
+    
+    <item>
+      <title>Reports (Metrics)</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Reports_Metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Reports_Metrics/</guid>
+      <description>Reports (Metrics) Use this page to View Dashboard Metrics.
+To access this page, select dspMonitor &amp;gt; Dashboard &amp;gt; Reports (Metrics) in Navigation pane.
+         Field Description   GROUP ID Displays name of report group.   REPOSITORY Displays name of database where reports reside.   REPORT Displays name of report as it appears in the report repository.   DATE Displays date when report metric was captured.</description>
+    </item>
+    
+    <item>
+      <title>Repository Collect Target</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Repository_Collect_Target/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Repository_Collect_Target/</guid>
+      <description>Repository Collect Target Use this page to Register Collect Targets to a Report Repository.
+To access this page:
+ Select dspMonitor &amp;gt; Configuration &amp;gt; Report Repositories in the Navigation pane. Click the Collect Targets icon.  </description>
+    </item>
+    
+    <item>
+      <title>Repository Reports H</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Repository_Reports_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Repository_Reports_H/</guid>
+      <description>Repository Reports H Repository Reports V
+Use this page to Register Reports to a Report Repository.
+To access this page:
+ Select dspMonitor &amp;gt; Configuration &amp;gt; Report Repositories in Navigation pane. Click Reports for Repository.  Repository Reports Reports V Repository Reports H
+Use this page to Register Reports to a Report Repository.
+This page contains the following tabs:
+ General tab Metric Data Information tab Processing Information tab  General tab Use this tab to Configure the Business Value Dashboard.</description>
+    </item>
+    
+    <item>
+      <title>Schedule Service Page H</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Schedule_Service_Page_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Schedule_Service_Page_H/</guid>
+      <description>Schedule Service Page H Schedule Service Page V
+Use this page to Configure Schedules on Service Pages.
+To access this page, select dspMonitor &amp;gt; Configuration &amp;gt; Schedule Service Page in Navigation pane.
+         Field Description   SERVICE Displays name of service page that runs a process within dspMonitor™.   NEXT START TIME Displays next date and time when service page is scheduled to run.</description>
+    </item>
+    
+    <item>
+      <title>Sigma Levels</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Sigma_Levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Sigma_Levels/</guid>
+      <description>Sigma Levels Use this page to Register Data Quality Score Thresholds.
+To access this page, select dspMonitor &amp;gt; Configuration &amp;gt; Sigma Level in Navigation pane.
+         Field Description   SIGMA LEVEL Displays the Sigma Level.   SIGMA1.5SHIFT Displays the sigma shift value.   DPMO Displays the defective parts per million opportunities.   PERCENT DEFECTIVE Displays the percentage of defective parts per million opportunities.</description>
+    </item>
+    
+    <item>
+      <title>Target Table Column Threshold</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Target_Table_Column_Threshold/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Target_Table_Column_Threshold/</guid>
+      <description>Target Table Column Threshold Use this page to Register Thresholds for Collect Target Table Columns.
+To access this page:
+ Select dspMonitor &amp;gt; Configuration &amp;gt; Report Repositories in the Navigation pane. Click the Collect Targets icon. Click the Configure Thresholds icon. Click the Configure Columns icon.  </description>
+    </item>
+    
+    <item>
+      <title>Target Table Threshold</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Target_Table_Threshold/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Target_Table_Threshold/</guid>
+      <description>Target Table Threshold Use this page to Register Thresholds for Collect Target Tables.
+To access this page:
+ Select dspMonitor &amp;gt; Configuration &amp;gt; Report Repositories in the Navigation pane. Click the Collect Targets icon. Click the Configure Thresholds icon.  </description>
+    </item>
+    
+    <item>
+      <title>User (Errors)</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/User_Errors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/User_Errors/</guid>
+      <description>User (Errors) Use this page to View Dashboard Metrics.
+To access this page, select dspMonitor &amp;gt; Dashboard &amp;gt; User (Errors) in the Navigation pane.</description>
+    </item>
+    
+    <item>
+      <title>User (Filters)</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/User_Filters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/User_Filters/</guid>
+      <description>User (Filters) Use this page to Define Filters.
+To access this page:
+ Select dspMonitor &amp;gt; Configuration &amp;gt; User Reports/Filters in Navigation pane. Click Filters for User ID.           Field Description   USER ID Displays User ID for individual registered to dspMonitor™.   FIELD Displays field that is filtered.   OPERATOR Displays operator used to filter field by the CONSTANT.</description>
+    </item>
+    
+    <item>
+      <title>User (Reports) H</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/User_Reports_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/User_Reports_H/</guid>
+      <description>User (Reports) H User (Reports) V
+Use this page to:
+ Customize Report Settings Define Where Clauses Configure Workflow Schedules for User Reports Change Frequency of User Workflows  To access this page:
+ Select dspMonitor &amp;gt; Configuration &amp;gt; User Reports/Filters in Navigation pane. Click Reports for User ID.           Field Description   GROUP ID Displays name of report group.   REPOSITORY Displays name of database where report resides.</description>
+    </item>
+    
+    <item>
+      <title>User Filters (Metrics)</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/User_Filters_Metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/User_Filters_Metrics/</guid>
+      <description>User Filters (Metrics) Use this page to View Dashboard Metrics.
+To access this page, select dspMonitor &amp;gt; Dashboard &amp;gt; User Filters (Metrics) in Navigation pane.         Field Description   NAME Displays name of user.   REPORT Displays name of report as it appears in the report repository.   FILTER Displays filter applied to report.    </description>
+    </item>
+    
+    <item>
+      <title>Users Reports/Filters</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Users_Reports_Filters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Users_Reports_Filters/</guid>
+      <description>Users Reports/Filters Use this page to Customize User Settings. To access this page, select dspMonitor &amp;gt; Configuration &amp;gt; User Reports/Filters in Navigation pane.</description>
+    </item>
+    
+    <item>
+      <title>Your Application Table Column Reports H</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Application_Table_Column_Reports_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Application_Table_Column_Reports_H/</guid>
+      <description>Your Application Table Column Reports H NOTE: When a user accesses this page in the Navigation pane, the fields below display. When a user clicks the View icon on this page to view report data, the report title still displays as the page name even though columns that display depend on the columns on the generated report. In this case, the page displays the report’s columns only and not the fields below.</description>
+    </item>
+    
+    <item>
+      <title>Your Application Table Columns</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Application_Table_Columns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Application_Table_Columns/</guid>
+      <description>Your Application Table Columns Use this page to View Your Application Table Columns.
+To access this page:
+ Select dspMonitor &amp;gt; Your Applications in the Navigation pane. Click the Tables icon. Click the Columns icon.  </description>
+    </item>
+    
+    <item>
+      <title>Your Application Table Reports H</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Application_Table_Reports_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Application_Table_Reports_H/</guid>
+      <description>Your Application Table Reports H NOTE: When a user accesses this page in the Navigation pane, the fields below display. When a user clicks the View icon on this page to view report data, the report title still displays as the page name even though columns that display depend on the columns on the generated report. In this case, the page displays the report’s columns only and not the fields below.</description>
+    </item>
+    
+    <item>
+      <title>Your Application Tables H</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Application_Tables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Application_Tables/</guid>
+      <description>Your Application Tables H Your Application Tables V
+Use this page to:
+ View Your Application Tables Profile a Target Table in dspMonitor  To access this page:
+ Select dspMonitor &amp;gt; Your Applications in Navigation pane. Click the Tables icon.  Your Application Tables V Your Application Tables H
+Use this page to:
+ View Your Application Tables Profile a Target Table in dspMonitor           Field Description   Application Displays the name of the application.</description>
+    </item>
+    
+    <item>
+      <title>Your Applications</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Applications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Applications/</guid>
+      <description>Your Applications Use this page to View Your Applications.
+To access this page, select dspMonitor &amp;gt; Your Applications in the Navigation pane.</description>
+    </item>
+    
+    <item>
+      <title>Your Dashboard Reports</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Dashboard_Reports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Dashboard_Reports/</guid>
+      <description>Your Dashboard Reports To access this page:
+ Select dspMonitor &amp;gt; Dashboard &amp;gt; User (Errors) in Navigation pane. Click the Reports icon.           Field Description   REPORT Displays name of report as it appears in the report repository.   DATE TIME Displays date and time when the report was last processed.   RECORD COUNT Displays number of records in report when the report was last processed.</description>
+    </item>
+    
+    <item>
+      <title>Your Favorite Reports H</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Favorite_Reports_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Favorite_Reports_H/</guid>
+      <description>Your Favorite Reports H NOTE: When a user accesses this page in the Navigation pane, the fields below display. When a user clicks the View icon on this page to view report data, the report title still displays as the page name even though columns that display depend on the columns on the generated report. In this case, the page displays the report’s columns only and not the fields below.</description>
+    </item>
+    
+    <item>
+      <title>Your Filters</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Filters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Filters/</guid>
+      <description>Your Filters Use this page to View Your Filters.
+To access this page select dspMonitor &amp;gt; Your Filters in Navigation pane.
+         Field Description   FIELD Displays field that is filtered.   OPERATOR Displays operator used to filter field by the CONSTANT.   CONSTANT Displays value compared to field using the OPERATOR.    </description>
+    </item>
+    
+    <item>
+      <title>Your Group Reports H</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Group_Reports_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Group_Reports_H/</guid>
+      <description>Your Group Reports H NOTE: When a user accesses this page in the Navigation pane, the fields below display. When a user clicks the View icon on this page to view report data, the report title still displays as the page name even though columns that display depend on the columns on the generated report. In this case, the page displays the report’s columns only and not the fields below.</description>
+    </item>
+    
+    <item>
+      <title>Your Groups H</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Groups_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Groups_H/</guid>
+      <description>Your Groups H Your Groups V
+Use this page to:
+ Manually Process Group Reports View Your Groups  To access this page, select dspMonitor &amp;gt; Your Groups in Navigation pane.
+Your Groups V Your Groups H
+Use this page to:
+ Manually Process Group Reports View Your Groups  Field
+Description
+Group ID
+Displays name of report group.
+Group Description
+Displays description of report group.
+Group Owner
+Displays individual whose task is to manage reports registered to the group and to define the report-level parameters.</description>
+    </item>
+    
+    <item>
+      <title>Your Metrics</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Metrics/</guid>
+      <description>Your Metrics Use this page to view report metrics for Your Group Reports, Your Favorite Reports, Your Application Table Reports, and Your Application Table Column Reports.
+To access this page:
+ Select dspMonitor &amp;gt; Your Groups in Navigation pane. Click the Favorites or Reports icon. Click the Metrics icon.  Or
+ Select dspMonitor &amp;gt; Your Applications in Navigation pane. Click Tables icon. Click Reports icon. Click the Metrics icon.  Or</description>
+    </item>
+    
+    <item>
+      <title>Your Object Reports H</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Object_Reports_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Object_Reports_H/</guid>
+      <description>Your Object Reports H NOTE: When a user accesses this page in the Navigation pane, the fields below display. When a user clicks the View icon on this page to view report data, the report title still displays as the page name even though columns that display depend on the columns on the generated report. In this case, the page displays the report’s columns only and not the fields below.</description>
+    </item>
+    
+    <item>
+      <title>Your Objects H</title>
+      <link>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Objects_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspMonitor/Page_Desc/Your_Objects_H/</guid>
+      <description>Your Objects H Your Objects V
+Use this page to View Your Objects.
+To access this page, select dspMonitor &amp;gt; Your Objects in the Navigation pane.
+Your Objects V Your Objects H
+Use this page to View Your Objects.
+Field
+Description
+Object Name
+Displays the object name.
+Description
+Displays a description on the object.
+Admin
+Object Reports
+Click to open the Object Reports page to Register Reports to Objects or Register Objects to Reports.</description>
+    </item>
+    
+  </channel>
+</rss>

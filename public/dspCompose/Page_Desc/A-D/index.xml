@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A-D on Syniti Documentation</title>
+    <link>https://hcloward.github.io/dspCompose/Page_Desc/A-D/</link>
+    <description>Recent content in A-D on Syniti Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://hcloward.github.io/dspCompose/Page_Desc/A-D/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Active Requests</title>
+      <link>https://hcloward.github.io/dspCompose/Page_Desc/A-D/Active_Requests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspCompose/Page_Desc/A-D/Active_Requests/</guid>
+      <description>Active Requests Use this page to Monitor Requests.
+To access this page, select dspCompose &amp;gt; Reports &amp;gt; Active Requests in Navigation pane.
+         Field Description   TEMPLATE Displays name of template assigned to the request.   REQUEST ID Displays the ID of the request.   DESCRIPTION Displays a brief description of the request.   CREATED ON Displays date and time when request was created.</description>
+    </item>
+    
+    <item>
+      <title>All Requests</title>
+      <link>https://hcloward.github.io/dspCompose/Page_Desc/A-D/All_Requests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspCompose/Page_Desc/A-D/All_Requests/</guid>
+      <description>All Requests Use this page to Monitor Requests.
+To access this page, select dspCompose &amp;gt; Reports &amp;gt; All Requestsin Navigation pane.         Field Description   TEMPLATE Displays name of template assigned to the request.   REQUEST ID Displays the ID of the request.   DESCRIPTION Displays a brief description of the request.   CREATED ON Displays date and time when request was created.</description>
+    </item>
+    
+    <item>
+      <title>Archive Delete</title>
+      <link>https://hcloward.github.io/dspCompose/Page_Desc/A-D/Archive_Delete/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspCompose/Page_Desc/A-D/Archive_Delete/</guid>
+      <description>Archive Delete Use this page to Delete Archived Requests.
+To access this page, select dspCompose &amp;gt; Configuration &amp;gt; Archives &amp;gt; Archive Deletein the Navigation pane.
+         Field Description   DELETE ARCHIVES BEFORE Displays date for which all requests added on or before the date are deleted from archives.   Delete Archives Click to permanently remove all archived requests created on or before the Delete Archives Before date from the system.</description>
+    </item>
+    
+    <item>
+      <title>Archive Requests</title>
+      <link>https://hcloward.github.io/dspCompose/Page_Desc/A-D/Archive_Requests_page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspCompose/Page_Desc/A-D/Archive_Requests_page/</guid>
+      <description>Archive Requests Use this page to Archive Requests.
+To access this page, select dspCompose &amp;gt; Configuration &amp;gt; Archives &amp;gt; Archive Requestsin the Navigation pane.</description>
+    </item>
+    
+    <item>
+      <title>Archived Requests</title>
+      <link>https://hcloward.github.io/dspCompose/Page_Desc/A-D/Archived_Requests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspCompose/Page_Desc/A-D/Archived_Requests/</guid>
+      <description>Archived Requests Use this page to View Archived Requests.
+To access this page, select dspCompose &amp;gt; Reports &amp;gt; Archived Requestsin the Navigation pane.
+         Field Description   REQUEST ID Displays the ID of the request.   DESCRIPTION Displays a brief description of the request.   TEMPLATE Displays name of template assigned to the request.   POSTED If enabled, the request has been posted.</description>
+    </item>
+    
+    <item>
+      <title>Change Request Status</title>
+      <link>https://hcloward.github.io/dspCompose/Page_Desc/A-D/Change_Request_Status/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspCompose/Page_Desc/A-D/Change_Request_Status/</guid>
+      <description>Change Request Status Use this page to Change Request Status.
+To access this page:
+ Select dspCompose &amp;gt; Requestsin the *Navigation *pane. Click Vertical Viewfor a request. Click Change Statustab.           Field Description   REQUEST ID Displays a unique number that identifies the request.   DESCRIPTION Displays a brief description of the request.   REQUEST STATUS Displays the request status.</description>
+    </item>
+    
+    <item>
+      <title>Create Template</title>
+      <link>https://hcloward.github.io/dspCompose/Page_Desc/A-D/Create_Template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspCompose/Page_Desc/A-D/Create_Template/</guid>
+      <description>Create Template Use this page to
+Create Templates.
+ To access this page:
+ Select dspCompose &amp;gt;Teamin the Navigation pane. Click Create Templatefor the team.           Field Description   Create From BDC Recording Click to create a template from a new BDC recording.   Create From GUI Recording Click to create a template from a new GUI recording.   Create From Integrate Template Click to create a template from an existing Integrate template.</description>
+    </item>
+    
+    <item>
+      <title>Dashboard Parameters</title>
+      <link>https://hcloward.github.io/dspCompose/Page_Desc/A-D/Dashboard_Parameters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspCompose/Page_Desc/A-D/Dashboard_Parameters/</guid>
+      <description>Dashboard Parameters Use this page to view parameters for Viewing Dashboards in dspCompose™ To access this page:
+Select dspCompose &amp;gt; Dashboards &amp;gt; Dashboard Parametersin the Navigation pane.
+         Field Descriptions   Chart Weeks Displays the number of weeks’ worth of data used on charts. Users can limit that amount of data that displays on charts to make charts easier to view.    </description>
+    </item>
+    
+    <item>
+      <title>Data Services Execution Logs</title>
+      <link>https://hcloward.github.io/dspCompose/Page_Desc/A-D/Data_Services_Execution_Logs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspCompose/Page_Desc/A-D/Data_Services_Execution_Logs/</guid>
+      <description>Data Services Execution Logs Use this page to Troubleshoot Data Download Using a Data Services Job.
+To access this page: Select dspCompose &amp;gt; Configuration &amp;gt; Data Services Job Executor in the Navigation pane. Click the Execution Logs icon for a Data Services job.           Field Description   EXECUTION DATE Displays the date and time the job finished running.   RUN ID Displays the unique identifier created and used by Data Services to identify the job.</description>
+    </item>
+    
+    <item>
+      <title>Data Services Global Variables</title>
+      <link>https://hcloward.github.io/dspCompose/Page_Desc/A-D/Data_Services_Global_Variables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspCompose/Page_Desc/A-D/Data_Services_Global_Variables/</guid>
+      <description>Data Services Global Variables Use this page to Troubleshoot Data Download Using a Data Services Job.
+To access this page:
+ Select dspCompose &amp;gt; Configuration &amp;gt; Data Services Job Executor in the Navigation pane. Click the Global Variables icon for a Data Services job.  </description>
+    </item>
+    
+    <item>
+      <title>Data Services Global Variables Setup</title>
+      <link>https://hcloward.github.io/dspCompose/Page_Desc/A-D/Data_Services_Global_Variables_Setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspCompose/Page_Desc/A-D/Data_Services_Global_Variables_Setup/</guid>
+      <description>Data Services Global Variables Setup Use this page when Registering Tables for Download through Data Services, if needed.
+To access this page:
+ Select dspCompose &amp;gt; Teamin the Navigation pane. Click the Templatesicon for a team. Click the Rolesicon for a template. Click the Finish Tablesicon for the Post role. Click the Global Variables Setupicon.  </description>
+    </item>
+    
+    <item>
+      <title>Data Services Job Executor</title>
+      <link>https://hcloward.github.io/dspCompose/Page_Desc/A-D/Data_Services_Job_Executor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspCompose/Page_Desc/A-D/Data_Services_Job_Executor/</guid>
+      <description>Data Services Job Executor Use this page to Troubleshoot Data Download Using a Data Services Job.
+To access this page,select dspCompose &amp;gt; Configuration &amp;gt; Data Services Job Executor in the Navigation pane.
+         Field Description   JOB NAME Displays the name of the job written in Data Services that is used to pull data from the source environment and add it to the target environment.</description>
+    </item>
+    
+    <item>
+      <title>dspCompose Requests H</title>
+      <link>https://hcloward.github.io/dspCompose/Page_Desc/A-D/dspCompose_Requests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/dspCompose/Page_Desc/A-D/dspCompose_Requests/</guid>
+      <description>dspCompose Requests H dspCompose Requests V
+View Your Active Requests Details.
+To access this page, click the black dspCompose Requests tab in the Quick Panel.
+         Field Description   Requests Click to open the Requestpage to view additional request details and access functionality related to org units and external role contacts for all requests.   REQUEST ID Displays unique number that identifies the request.</description>
+    </item>
+    
+  </channel>
+</rss>

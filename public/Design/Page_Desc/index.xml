@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Syniti Documentation</title>
+    <link>https://hcloward.github.io/Design/Page_Desc/</link>
+    <description>Recent content in Pages on Syniti Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://hcloward.github.io/Design/Page_Desc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Append Utility Columns</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Append_Utility_Columns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Append_Utility_Columns/</guid>
+      <description>Append Utility Columns Use this page to Append Columns to all Target or Source Tables or Allow Mapping of Utility Columns.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Select Configuration &amp;gt; Append Utility Columns in the Navigation pane.  </description>
+    </item>
+    
+    <item>
+      <title>Copy Targets</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Copy_Targets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Copy_Targets/</guid>
+      <description>Copy Targets Use this page to Copy a Target in Target Design.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Click the Objectsicon on the Design page. Click the Copy Targetsicon for an Object. Click the Targets to Copy icon on the Select Destination Object For Targets page.  </description>
+    </item>
+    
+    <item>
+      <title>Criticality</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Criticality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Criticality/</guid>
+      <description>Criticality Use this page to Add Custom Criticality Levels.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Select Configuration &amp;gt; Criticalityin the Navigationpane.  </description>
+    </item>
+    
+    <item>
+      <title>Database Import</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Database_Import/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Database_Import/</guid>
+      <description>Database Import Use this page to Import Target Design from a Database.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Click Target Importin the Navigationpane. Click the Database Importicon for an Object. Click the Import icon for the DATA SOURCE.  </description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Design/</guid>
+      <description>Design Use this page to access the pages as described below.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar.           Field Description   Objects Click to open the Objects page to access pages to work with Targets for the selected Object, to view all field groups for the selected Object, and to access the Summary Construction dashboard.</description>
+    </item>
+    
+    <item>
+      <title>Field Groups</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Field_Groups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Field_Groups/</guid>
+      <description>Field Groups Use this page to Create Field Groups.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Select Configuration &amp;gt; Field Groupsin the Navigationpane.  </description>
+    </item>
+    
+    <item>
+      <title>Metric Groups</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Metric_Groups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Metric_Groups/</guid>
+      <description>Metric Groups Use this page to Add a Metric Group.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Select Configuration &amp;gt; Metric Groupsin the Navigationpane.  </description>
+    </item>
+    
+    <item>
+      <title>Object Field Groups</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Object_Field_Groups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Object_Field_Groups/</guid>
+      <description>Object Field Groups Use this page to Assign a Field Group to an Object.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Select Configuration &amp;gt; Field Group Setupin the Navigationpane.  </description>
+    </item>
+    
+    <item>
+      <title>Objects</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Objects_Target_Design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Objects_Target_Design/</guid>
+      <description>Objects Use this page to Access Targets at the Object Level.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Click Objectsicon on the Design page.  </description>
+    </item>
+    
+    <item>
+      <title>Required</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Required/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Required/</guid>
+      <description>Required Use this page to Add Custom Requirement Settings.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Select Configuration &amp;gt; Requiredin the Navigationpane.  </description>
+    </item>
+    
+    <item>
+      <title>Rules: Basic Rule H</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Rules_Basic_Rule_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Rules_Basic_Rule_H/</guid>
+      <description>Rules: Basic Rule H Rules: Basic Rule V
+Use this page to Add a Basic Rule.
+NOTE:Bulk Execution has been enabled on this page. Refer to Use Bulk Execution for more information.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Click the Targetsicon on the Design page. Click the Basic Rulesicon for a Target.  Rules Basic Rule V Use this page to Add a Basic Rule.</description>
+    </item>
+    
+    <item>
+      <title>Rules: Complex Rule H</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Rules_Complex_Rule_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Rules_Complex_Rule_H/</guid>
+      <description>Rules: Complex Rule H Rules: Complex Rule V
+Use this page to Add a Complex Rule.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Select Target Rules &amp;gt; Complex Rulesin the Navigationpane.   Rules: Complex Rule V Rules: Complex Rule H
+Use this page to Add a Complex Rule.
+Field
+Description
+Basic
+Name
+Displays the unique name of the Complex rule to be documented.</description>
+    </item>
+    
+    <item>
+      <title>Rules: Execution Stage Complex Rules</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Rules_Execution_Stage_Complex_Rule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Rules_Execution_Stage_Complex_Rule/</guid>
+      <description>Rules: Execution Stage Complex Rules Use this page to View Rules Assigned to an Execution Stage.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Select Target Rules &amp;gt; Execution Stages in the Navigationpane. Click the Complex Rulesicon for a stage.  </description>
+    </item>
+    
+    <item>
+      <title>Rules: Execution Stage H</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Rules_Execution_Stage_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Rules_Execution_Stage_H/</guid>
+      <description>Rules: Execution Stage H Rules: Execution Stage V
+Use this page to Add an Execution Stage.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Select Target Rules &amp;gt; Execution Stagesin the Navigationpane.   Rules Execution Stage V Rules Execution Stage H
+Use this page to Add an Execution Stage.</description>
+    </item>
+    
+    <item>
+      <title>Rules: Field Complex Rules</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Rules_Field_Complex_Rules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Rules_Field_Complex_Rules/</guid>
+      <description>Rules: Field Complex Rules Use this page to Assign theRule to a T Field and Execution Stage.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Click the Targetsicon on the Design page. Click the Fieldsicon for a Target. Click the Complex Rulesicon for a field.  </description>
+    </item>
+    
+    <item>
+      <title>Select Destination Object For Targets</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Select_Destination_Object_for_Targets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Select_Destination_Object_for_Targets/</guid>
+      <description>Select Destination Object For Targets Use this page to Copy a Target in Target Design.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Click the Objectsicon on the Design page. Click the Copy Targetsicon for an Object.  </description>
+    </item>
+    
+    <item>
+      <title>Source</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Source_Target_Design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Source_Target_Design/</guid>
+      <description>Source Use this page to:
+ View Sources Assigned to Targets. Update System Types for a Source  To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Select Configuration &amp;gt; Sourcein the Navigationpane.  </description>
+    </item>
+    
+    <item>
+      <title>Source Where Used</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Source_Where_Used/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Source_Where_Used/</guid>
+      <description>Source Where Used Use this page to View Target and Source Assignments.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Select Configuration &amp;gt; Sourcein the Navigationpane. Click the Targetsicon for a Source.  </description>
+    </item>
+    
+    <item>
+      <title>System Type Import</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/System_Type_Import/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/System_Type_Import/</guid>
+      <description>System Type Import Use this page to Import a Target Design from a System Type.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Click Target Importin Navigationpane. Click the System Types Importicon for the Object.  </description>
+    </item>
+    
+    <item>
+      <title>Target Contacts</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Target_Contacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Target_Contacts/</guid>
+      <description>Target Contacts Use this page to Add Developers and Business Contacts to a Target or Source.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Click the Targetsicon on the Design page. Click the Developersicon for a Target.  </description>
+    </item>
+    
+    <item>
+      <title>Target Dependencies</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Target_Dependencies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Target_Dependencies/</guid>
+      <description>Target Dependencies Use this page to Set Target Dependencies.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Click the Targetsicon on the Design page. Click the Dependenciesicon for a Target.  </description>
+    </item>
+    
+    <item>
+      <title>Target Dependency (Children)</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Target_Dependency_Children/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Target_Dependency_Children/</guid>
+      <description>Target Dependency (Children) Use this page to view the dependencies for a Target. Refer to Set Target Dependencies for more information.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Click the Targetsicon on the Design page. Click the Vertical Viewicon for a Target. Click the Child Targetsicon.           Field Description   CHILD TARGET ID Displays the name of the Target table that has a child dependency with the selected Target (for example, the selected Target is a parent of this Target).</description>
+    </item>
+    
+    <item>
+      <title>Target Dependency (Parents)</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Target_Dependency_Parents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Target_Dependency_Parents/</guid>
+      <description>Target Dependency (Parents) Use this page to view the dependencies for a Target. Refer to Set Target Dependencies for more information.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Click the Targetsicon on the Design page. Click the Vertical Viewicon for a Target. Click the Parent Targetsicon.           Field Description   PARENT TARGET ID Displays the name of the Target table that has a parent dependency with the selected Target (for example, the selected Target is a child of this Target).</description>
+    </item>
+    
+    <item>
+      <title>Target Dependency Relationship</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Target_Dependency_Relationship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Target_Dependency_Relationship/</guid>
+      <description>Target Dependency Relationship Use this page to Set Target Dependencies.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Click the Targetsicon on the Design page. Click the Dependenciesicon for a Target. Click the Relationshipsicon for a dependency.  </description>
+    </item>
+    
+    <item>
+      <title>Target Dependency Selection</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Target_Dependency_Selection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Target_Dependency_Selection/</guid>
+      <description>Target Dependency Selection Use this page to Set Target Dependencies.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Click the Targetsicon on the Design page. Click the Dependenciesicon for a Target. Click the Find Dependenciesicon.  </description>
+    </item>
+    
+    <item>
+      <title>Target Design Pending Changes</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Target_Design_Pending_Changes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Target_Design_Pending_Changes/</guid>
+      <description>Target Design Pending Changes Use this page when Syncing Target Design and Map.
+To access this page:
+  Select dspMigratein the Navigationpane.
+  Select Design in the Context bar.
+  Click the Targetsicon on the Design page.
+  Click Pending Design Changeslink in the STATUS OF SYNCfield.
+NOTE: This link is not available if Target Design and Map are in sync for the selected Target.
+           Field Description   TARGET Displays the name of the Target table that has been updated.</description>
+    </item>
+    
+    <item>
+      <title>Target Fields H</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Target_Fields_H_Target_Design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Target_Fields_H_Target_Design/</guid>
+      <description>Target Fields H Target Fields V
+Use this page to
+ Add Fields to a Target Activate or Deactivate Target Fields for Mapping Extend Fields to Field Groups  NOTE:Bulk Execution has been enabled on this page. Refer to Use Bulk Execution for more information.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Click the Targetsicon on the Design page. Click the Fieldsicon for a Target.</description>
+    </item>
+    
+    <item>
+      <title>Target Import Configuration</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Target_Import_Configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Target_Import_Configuration/</guid>
+      <description>Target Import Configuration Use this page to edit the import file data source path if necessary while Importing Target Design from an Excel File.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Select Configuration &amp;gt; Import Setupin the Navigationpane.           Field Description   IMPORT FILE DATASOURCE Displays the data source where the uploaded Excel file is saved before it is imported into Target Design.</description>
+    </item>
+    
+    <item>
+      <title>Target Import: Excel Import H</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Target_Import_Excel_Import_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Target_Import_Excel_Import_H/</guid>
+      <description>Target Import: Excel Import H Target Import: Excel Import V
+Use this page to Import Target Design from an Excel File.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Click Target Importin the Navigationpane. Click the Excel Importicon.   Target Import Excel Import V Target Import: Excel Import H
+Use this page to Import Target Design from an Excel File.</description>
+    </item>
+    
+    <item>
+      <title>Target Lookup Table H</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Target_Lookup_Table_H/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Target_Lookup_Table_H/</guid>
+      <description>Target Lookup Table H Target Lookup Table V
+Use this page to Set up Lookup Tables.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Select Configuration &amp;gt; Lookup Table Setupin the Navigationpane.   Target Lookup Table V Target Lookup Table H
+Use this page to Set up Lookup Tables.
+Field
+Description
+Value Table
+ TypeDisplays an option indicating whether fields in the check table should be value mapped.</description>
+    </item>
+    
+    <item>
+      <title>Target Object Import</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Target_Object_Import/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Target_Object_Import/</guid>
+      <description>Target Object Import Use this page to access the pages as described below for the selected Object.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Click the Target Importicon in the Navigationpane.  </description>
+    </item>
+    
+    <item>
+      <title>Target Object Import: Database</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Target_Object_Import_Database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Target_Object_Import_Database/</guid>
+      <description>Target Object Import: Database Use this page to Import Target Design from a Database.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Click Target Importin the Navigationpane. Click the Database Importicon.  </description>
+    </item>
+    
+    <item>
+      <title>Target Object Import: System Types</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Target_Object_Import_System_Types/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Target_Object_Import_System_Types/</guid>
+      <description>Target Object Import: System Types Use this page to Import a Target Design from a System Type.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Click Target Importin the Navigationpane. Click the System Types Importicon.  </description>
+    </item>
+    
+    <item>
+      <title>Target Source Contacts</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Target_Source_Contacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Target_Source_Contacts/</guid>
+      <description>Target Source Contacts Use this page to Add Developers and Business Contacts to a Source.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Click the Targetsicon on the Design page. Click the Sourcesicon for a Target. Click the Developersicon for a Source.  </description>
+    </item>
+    
+    <item>
+      <title>Target Sources H</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Target_Sources_H_Design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Target_Sources_H_Design/</guid>
+      <description>Target Sources H Target Sources V
+Use this page to Assign a Source to a Target.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Click the Targetsicon on the Design page. Click the Sourcesicon for a Target.   Target Sources V Target Sources H
+NOTE:Fields display on this page based on the type of Source selected. If the Source is {Full Construction}, use this page to Update Completed Status of Records for a Construct Page.</description>
+    </item>
+    
+    <item>
+      <title>Target Table Join</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Target_Table_Joins_Target_Design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Target_Table_Joins_Target_Design/</guid>
+      <description>Target Table Join This page is used to document joins in the Target tables. Refer to Add Relationship Joins to Sources for more information.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Click the Targetsicon on the Design page. Click the Vertical Viewicon for a Target. Click the Target Table Joinicon.  </description>
+    </item>
+    
+    <item>
+      <title>Target Type</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Target_Type/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Target_Type/</guid>
+      <description>Target Type This page displays the Target Types installed with the platform.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Select Configuration &amp;gt; Target Typein the Navigationpane.  </description>
+    </item>
+    
+    <item>
+      <title>Targets H</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Targets_H_Design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Targets_H_Design/</guid>
+      <description>Targets H Targets V
+Use this page to:
+ Sync Map and Target Design Add a Basic Rule Set a Target&amp;rsquo;s Design Status Set Target Dependencies  To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Click the Targetsicon on the Design page.    Targets V Targets H
+Use this page to Set the Field Formats for Date, Time, and Decimal For Use in Data Services AutoGen.</description>
+    </item>
+    
+    <item>
+      <title>Utility Field Defaults</title>
+      <link>https://hcloward.github.io/Design/Page_Desc/Utility_Field_Defaults/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/Design/Page_Desc/Utility_Field_Defaults/</guid>
+      <description>Utility Field Defaults Use this page to Add Utility Field Defaults.
+To access this page:
+ Select dspMigratein the Navigationpane. Select Design in the Context bar. Select Configuration &amp;gt; Utility Field Defaults in the Navigation pane.           Field Description   NAME Displays the name that displays in the DEFAULT VALUE list box on the Append Utility Column page.   DEFAULT VALUE Displays the default value associated with the name.</description>
+    </item>
+    
+  </channel>
+</rss>
